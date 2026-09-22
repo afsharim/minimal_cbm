@@ -1,0 +1,30 @@
+data:
+  dataset: cifar10
+  n_concepts: 64
+  root: /research/hal-afsharim/minimal_cbm/data/cifar10
+model:
+  beta: 0.1
+  encoder:
+    arch: conv2d
+    latent_dim: 256
+  gamma: 0.3
+  hidden_dims_c:
+  - 3
+  hidden_dims_y: 64
+  hidden_dims_z: null
+  model_type: mcbm
+  var_z: 1.0
+training:
+  batch_size: 128
+  n_epochs: 2
+  optimizer:
+    base_batch_size: 64
+    base_lr: 0.0001
+    batch_size: 128
+    optimizer: Adam
+    weight_decay: 4.0e-05
+  save_epochs: 2
+  scheduler:
+    gamma: 0.1
+    scheduler: StepLR
+    step_size: 80

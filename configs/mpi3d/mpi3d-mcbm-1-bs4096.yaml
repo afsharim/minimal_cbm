@@ -1,0 +1,33 @@
+data:
+    dataset: MPI3D
+    filepath: /research/hal-afsharim/minimal_cbm/data/mpi3d/mpi3d_real_labeled.npz
+    task: object_shape
+    concepts: [object_color, object_size, camera_height, background_color]
+    nuisances_task: [horizontal_axis]
+
+model:
+    model_type: mcbm
+    encoder:
+        arch: resnet20
+    hidden_dims_y: 64
+    var_z: 1
+    hidden_dims_c: [3]
+    beta: 1
+    hidden_dims_z: null
+    gamma: 1
+
+training:
+    batch_size: 4096
+    n_epochs: 50
+    save_epochs: 10
+    optimizer:
+        optimizer: SGD
+        base_batch_size: 4096
+        base_lr: 0.006
+        batch_size: 4096
+        momentum: 0.9
+        weight_decay: 0.00004
+    scheduler:
+        gamma: 0.1
+        scheduler: StepLR
+        step_size: 20

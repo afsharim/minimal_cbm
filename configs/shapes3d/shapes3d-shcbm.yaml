@@ -1,6 +1,6 @@
 data:
     dataset: Shapes3D
-    filepath: /mnt/cephfs/home/voz/shared/database/disentanglement/3dshapes.h5
+    filepath: /research/hal-afsharim/minimal_cbm/data/shapes3d/3dshapes.h5
     task: shape
     concepts: [scale, object_hue]
     nuisances_task: [floor_hue, wall_hue]

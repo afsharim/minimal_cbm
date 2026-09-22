@@ -16,12 +16,12 @@ import torchvision
 import torch
 from transformers import CLIPProcessor, CLIPModel
 
-cifar = "cifar100"  # SET THIS TO THE SPECIFIC DATASET YOU WANT TO USE
+cifar = "cifar10"  # SET THIS TO THE SPECIFIC DATASET YOU WANT TO USE
 
 
 model = CLIPModel.from_pretrained("openai/clip-vit-base-patch32")
 processor = CLIPProcessor.from_pretrained("openai/clip-vit-base-patch32")
-with open(f"/home/voz/almudevar/minimal_cbm/data/{cifar}/{cifar}_filtered.txt", "r") as file:
+with open(f"/research/hal-afsharim/minimal_cbm/data/{cifar}/{cifar}_filtered.txt", "r") as file:
     # Read the contents of the file
     concept_list = [line.strip() for line in file]
 # Adding negated concepts
@@ -49,11 +49,11 @@ transform = CustomTransform(processor)
 # Load imagenet from folder
 if cifar == "cifar10":
     cifar_data = torchvision.datasets.CIFAR10(
-        root=f"/home/voz/almudevar/minimal_cbm/data/{cifar}", train=True, transform=transform, download=True
+        root=f"/research/hal-afsharim/minimal_cbm/data/{cifar}", train=True, transform=transform, download=True
     )
 else:
     cifar_data = torchvision.datasets.CIFAR100(
-        root=f"/home/voz/almudevar/minimal_cbm/data/{cifar}", train=True, transform=transform, download=True
+        root=f"/research/hal-afsharim/minimal_cbm/data/{cifar}", train=True, transform=transform, download=True
     )
 data_loader = torch.utils.data.DataLoader(
     cifar_data,
@@ -96,11 +96,11 @@ for split in [False, True]:
 
     if cifar == "cifar10":
         cifar_data = torchvision.datasets.CIFAR10(
-            root=f"/home/voz/almudevar/minimal_cbm/data/{cifar}", train=split, transform=transform, download=True
+            root=f"/research/hal-afsharim/minimal_cbm/data/{cifar}", train=split, transform=transform, download=True
         )
     else:
         cifar_data = torchvision.datasets.CIFAR100(
-            root=f"/home/voz/almudevar/minimal_cbm/data/{cifar}", train=split, transform=transform, download=True
+            root=f"/research/hal-afsharim/minimal_cbm/data/{cifar}", train=split, transform=transform, download=True
         )
     data_loader = torch.utils.data.DataLoader(
         cifar_data,
@@ -138,4 +138,4 @@ for split in [False, True]:
         name = "train"
     else:
         name = "test"
-    torch.save(data_storage, f"/home/voz/almudevar/minimal_cbm/data/{cifar}/{cifar}_{name}_concept_labels.pt")
+    torch.save(data_storage, f"/research/hal-afsharim/minimal_cbm/data/{cifar}/{cifar}_{name}_concept_labels.pt")

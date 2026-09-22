@@ -1,6 +1,6 @@
 data:
     dataset: MPI3D
-    filepath: /mnt/cephfs/home/voz/shared/database/disentanglement/mpi3d/mpi3d_real.npz
+    filepath: /research/hal-afsharim/minimal_cbm/data/mpi3d/mpi3d_real_labeled.npz
     task: object_shape
     concepts: [object_color, object_size, camera_height, background_color]
     nuisances_task: [horizontal_axis]

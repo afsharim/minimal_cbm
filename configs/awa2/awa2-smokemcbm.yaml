@@ -1,0 +1,32 @@
+data:
+  dataset: AWA2
+  n_concepts: 20
+  root: /research/hal-afsharim/minimal_cbm/data/awa2
+model:
+  beta: 0.1
+  encoder:
+    arch: resnet50
+    hidden_dim: 1024
+    pretrained: true
+  gamma: 0.1
+  hidden_dims_c:
+  - 3
+  hidden_dims_y: 256
+  hidden_dims_z: null
+  model_type: mcbm
+  var_z: 1
+training:
+  batch_size: 128
+  n_epochs: 2
+  optimizer:
+    base_batch_size: 64
+    base_lr: 0.01
+    batch_size: 128
+    momentum: 0.9
+    optimizer: SGD
+    weight_decay: 4.0e-05
+  save_epochs: 2
+  scheduler:
+    gamma: 0.1
+    scheduler: StepLR
+    step_size: 50

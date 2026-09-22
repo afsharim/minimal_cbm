@@ -1,6 +1,6 @@
 data:
     dataset: cifar10
-    root: /mnt/cephfs/home/voz/shared/database/cifar10
+    root: /research/hal-afsharim/minimal_cbm/data/cifar10
     n_concepts: 64
 
 model:
