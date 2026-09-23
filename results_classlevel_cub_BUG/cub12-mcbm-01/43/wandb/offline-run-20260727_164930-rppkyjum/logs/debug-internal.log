@@ -1,0 +1,15 @@
+{"time":"2026-07-27T16:49:30.680895532-04:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2026-07-27T16:49:30.680932955-04:00","level":"INFO","msg":"created symlink","path":"/research/hal-afsharim/minimal_cbm/results/cub12-mcbm-01/43/wandb/offline-run-20260727_164930-rppkyjum/logs/debug-core.log"}
+{"time":"2026-07-27T16:49:30.793961797-04:00","level":"INFO","msg":"created new stream","id":"rppkyjum"}
+{"time":"2026-07-27T16:49:30.794015844-04:00","level":"INFO","msg":"stream: started","id":"rppkyjum"}
+{"time":"2026-07-27T16:49:30.794036799-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"rppkyjum"}
+{"time":"2026-07-27T16:49:30.794056042-04:00","level":"INFO","msg":"handler: started","stream_id":"rppkyjum"}
+{"time":"2026-07-27T16:49:30.79408747-04:00","level":"INFO","msg":"sender: started","stream_id":"rppkyjum"}
+{"time":"2026-07-27T16:49:30.799585774-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2026-07-27T23:54:39.589548711-04:00","level":"INFO","msg":"stream: closing","id":"rppkyjum"}
+{"time":"2026-07-27T23:54:39.589650641-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2026-07-27T23:54:39.591019958-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2026-07-27T23:54:39.591383824-04:00","level":"INFO","msg":"handler: closed","stream_id":"rppkyjum"}
+{"time":"2026-07-27T23:54:39.591410703-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"rppkyjum"}
+{"time":"2026-07-27T23:54:39.591421101-04:00","level":"INFO","msg":"sender: closed","stream_id":"rppkyjum"}
+{"time":"2026-07-27T23:54:39.592043322-04:00","level":"INFO","msg":"stream: closed","id":"rppkyjum"}

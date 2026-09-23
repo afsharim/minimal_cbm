@@ -1,0 +1,15 @@
+{"time":"2026-07-26T17:07:37.957624263-04:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2026-07-26T17:07:37.957656012-04:00","level":"INFO","msg":"created symlink","path":"/research/hal-afsharim/minimal_cbm/results/cub12-mcbm-03/42/wandb/offline-run-20260726_170737-bactofiy/logs/debug-core.log"}
+{"time":"2026-07-26T17:07:38.073216411-04:00","level":"INFO","msg":"created new stream","id":"bactofiy"}
+{"time":"2026-07-26T17:07:38.07326301-04:00","level":"INFO","msg":"stream: started","id":"bactofiy"}
+{"time":"2026-07-26T17:07:38.073294617-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"bactofiy"}
+{"time":"2026-07-26T17:07:38.073308382-04:00","level":"INFO","msg":"handler: started","stream_id":"bactofiy"}
+{"time":"2026-07-26T17:07:38.073309734-04:00","level":"INFO","msg":"sender: started","stream_id":"bactofiy"}
+{"time":"2026-07-26T17:07:38.079814531-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2026-07-27T00:16:48.338478397-04:00","level":"INFO","msg":"stream: closing","id":"bactofiy"}
+{"time":"2026-07-27T00:16:48.338588485-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2026-07-27T00:16:48.33979721-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2026-07-27T00:16:48.340309136-04:00","level":"INFO","msg":"handler: closed","stream_id":"bactofiy"}
+{"time":"2026-07-27T00:16:48.34034879-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"bactofiy"}
+{"time":"2026-07-27T00:16:48.340376256-04:00","level":"INFO","msg":"sender: closed","stream_id":"bactofiy"}
+{"time":"2026-07-27T00:16:48.341067662-04:00","level":"INFO","msg":"stream: closed","id":"bactofiy"}

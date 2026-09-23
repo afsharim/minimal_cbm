@@ -1,0 +1,15 @@
+{"time":"2026-07-26T11:55:35.674672866-04:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2026-07-26T11:55:35.67470884-04:00","level":"INFO","msg":"created symlink","path":"/research/hal-afsharim/minimal_cbm/results/cub12-mcbm-01/42/wandb/offline-run-20260726_115535-zbzojblc/logs/debug-core.log"}
+{"time":"2026-07-26T11:55:35.786113798-04:00","level":"INFO","msg":"created new stream","id":"zbzojblc"}
+{"time":"2026-07-26T11:55:35.786172284-04:00","level":"INFO","msg":"stream: started","id":"zbzojblc"}
+{"time":"2026-07-26T11:55:35.786191191-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"zbzojblc"}
+{"time":"2026-07-26T11:55:35.786230302-04:00","level":"INFO","msg":"sender: started","stream_id":"zbzojblc"}
+{"time":"2026-07-26T11:55:35.786248982-04:00","level":"INFO","msg":"handler: started","stream_id":"zbzojblc"}
+{"time":"2026-07-26T11:55:35.791934853-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2026-07-26T19:14:10.094893804-04:00","level":"INFO","msg":"stream: closing","id":"zbzojblc"}
+{"time":"2026-07-26T19:14:10.095305237-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2026-07-26T19:14:10.103695177-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2026-07-26T19:14:10.106290837-04:00","level":"INFO","msg":"handler: closed","stream_id":"zbzojblc"}
+{"time":"2026-07-26T19:14:10.106315133-04:00","level":"INFO","msg":"sender: closed","stream_id":"zbzojblc"}
+{"time":"2026-07-26T19:14:10.106315045-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"zbzojblc"}
+{"time":"2026-07-26T19:14:10.106915634-04:00","level":"INFO","msg":"stream: closed","id":"zbzojblc"}

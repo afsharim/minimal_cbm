@@ -1,0 +1,16 @@
+{
+  "epoch": 40,
+  "losses_train/task": 1.326707124710083,
+  "losses_train/concepts": 23.604251861572266,
+  "losses_train/representations": 18.3824520111084,
+  "losses_train/total": 5.52537727355957,
+  "losses_test/task": 1.6347002983093262,
+  "losses_test/concepts": 26.60852813720703,
+  "losses_test/representations": 21.321054458618164,
+  "losses_test/total": 6.427659034729004,
+  "calibration_test/ece": 0.058115437626838684,
+  "calibration_test/brier": 0.5343639850616455,
+  "accuracy_test/task": 59.19917155678288,
+  "accuracy_test/concepts": 91.9672622680664,
+  "map_test/concepts": 0.8649855319749226
+}
