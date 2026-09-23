@@ -1,0 +1,15 @@
+{"time":"2026-07-25T19:04:16.734067694-04:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2026-07-25T19:04:16.734115241-04:00","level":"INFO","msg":"created symlink","path":"/research/hal-afsharim/minimal_cbm/results/mpi3d-mcbm-1/43/wandb/offline-run-20260725_190416-xuzdjqb9/logs/debug-core.log"}
+{"time":"2026-07-25T19:04:16.852601566-04:00","level":"INFO","msg":"created new stream","id":"xuzdjqb9"}
+{"time":"2026-07-25T19:04:16.852714034-04:00","level":"INFO","msg":"stream: started","id":"xuzdjqb9"}
+{"time":"2026-07-25T19:04:16.852783452-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"xuzdjqb9"}
+{"time":"2026-07-25T19:04:16.852823265-04:00","level":"INFO","msg":"handler: started","stream_id":"xuzdjqb9"}
+{"time":"2026-07-25T19:04:16.852814821-04:00","level":"INFO","msg":"sender: started","stream_id":"xuzdjqb9"}
+{"time":"2026-07-25T19:04:16.85897387-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2026-07-25T20:44:29.705208282-04:00","level":"INFO","msg":"stream: closing","id":"xuzdjqb9"}
+{"time":"2026-07-25T20:44:29.705340466-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2026-07-25T20:44:29.710324139-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2026-07-25T20:44:29.711398462-04:00","level":"INFO","msg":"handler: closed","stream_id":"xuzdjqb9"}
+{"time":"2026-07-25T20:44:29.711437636-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"xuzdjqb9"}
+{"time":"2026-07-25T20:44:29.711452066-04:00","level":"INFO","msg":"sender: closed","stream_id":"xuzdjqb9"}
+{"time":"2026-07-25T20:44:29.712187199-04:00","level":"INFO","msg":"stream: closed","id":"xuzdjqb9"}

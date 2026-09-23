@@ -1,0 +1,15 @@
+{"time":"2026-07-25T15:14:02.114341197-04:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2026-07-25T15:14:02.114380846-04:00","level":"INFO","msg":"created symlink","path":"/research/hal-afsharim/minimal_cbm/results/mpi3d-mcbm-3/42/wandb/offline-run-20260725_151402-tlns8aac/logs/debug-core.log"}
+{"time":"2026-07-25T15:14:02.229149031-04:00","level":"INFO","msg":"created new stream","id":"tlns8aac"}
+{"time":"2026-07-25T15:14:02.229252255-04:00","level":"INFO","msg":"stream: started","id":"tlns8aac"}
+{"time":"2026-07-25T15:14:02.229296677-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"tlns8aac"}
+{"time":"2026-07-25T15:14:02.229371349-04:00","level":"INFO","msg":"handler: started","stream_id":"tlns8aac"}
+{"time":"2026-07-25T15:14:02.229303952-04:00","level":"INFO","msg":"sender: started","stream_id":"tlns8aac"}
+{"time":"2026-07-25T15:14:02.236585277-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2026-07-25T17:14:08.190758016-04:00","level":"INFO","msg":"stream: closing","id":"tlns8aac"}
+{"time":"2026-07-25T17:14:08.190848449-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2026-07-25T17:14:08.192696616-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2026-07-25T17:14:08.193090283-04:00","level":"INFO","msg":"handler: closed","stream_id":"tlns8aac"}
+{"time":"2026-07-25T17:14:08.193121126-04:00","level":"INFO","msg":"sender: closed","stream_id":"tlns8aac"}
+{"time":"2026-07-25T17:14:08.193113566-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"tlns8aac"}
+{"time":"2026-07-25T17:14:08.193809787-04:00","level":"INFO","msg":"stream: closed","id":"tlns8aac"}
