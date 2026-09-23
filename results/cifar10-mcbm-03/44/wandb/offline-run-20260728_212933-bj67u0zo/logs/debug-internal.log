@@ -1,0 +1,8 @@
+{"time":"2026-07-28T21:29:33.93399794-04:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2026-07-28T21:29:33.934047884-04:00","level":"INFO","msg":"created symlink","path":"/research/hal-afsharim/minimal_cbm/results/cifar10-mcbm-03/44/wandb/offline-run-20260728_212933-bj67u0zo/logs/debug-core.log"}
+{"time":"2026-07-28T21:29:34.047033194-04:00","level":"INFO","msg":"created new stream","id":"bj67u0zo"}
+{"time":"2026-07-28T21:29:34.047113153-04:00","level":"INFO","msg":"stream: started","id":"bj67u0zo"}
+{"time":"2026-07-28T21:29:34.047180946-04:00","level":"INFO","msg":"sender: started","stream_id":"bj67u0zo"}
+{"time":"2026-07-28T21:29:34.047196603-04:00","level":"INFO","msg":"handler: started","stream_id":"bj67u0zo"}
+{"time":"2026-07-28T21:29:34.047174933-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"bj67u0zo"}
+{"time":"2026-07-28T21:29:34.053757756-04:00","level":"INFO","msg":"Starting system monitor"}

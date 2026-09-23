@@ -1,0 +1,15 @@
+{"time":"2026-07-27T20:15:02.748030276-04:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2026-07-27T20:15:02.74807493-04:00","level":"INFO","msg":"created symlink","path":"/research/hal-afsharim/minimal_cbm/results/cifar10-mcbm-03/43/wandb/offline-run-20260727_201502-kqo7yqz4/logs/debug-core.log"}
+{"time":"2026-07-27T20:15:02.859999304-04:00","level":"INFO","msg":"created new stream","id":"kqo7yqz4"}
+{"time":"2026-07-27T20:15:02.860048908-04:00","level":"INFO","msg":"stream: started","id":"kqo7yqz4"}
+{"time":"2026-07-27T20:15:02.860086492-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"kqo7yqz4"}
+{"time":"2026-07-27T20:15:02.860144024-04:00","level":"INFO","msg":"sender: started","stream_id":"kqo7yqz4"}
+{"time":"2026-07-27T20:15:02.860151262-04:00","level":"INFO","msg":"handler: started","stream_id":"kqo7yqz4"}
+{"time":"2026-07-27T20:15:02.866150509-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2026-07-28T03:38:01.6843281-04:00","level":"INFO","msg":"stream: closing","id":"kqo7yqz4"}
+{"time":"2026-07-28T03:38:01.684467305-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2026-07-28T03:38:01.685676999-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2026-07-28T03:38:01.686147863-04:00","level":"INFO","msg":"handler: closed","stream_id":"kqo7yqz4"}
+{"time":"2026-07-28T03:38:01.686186606-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"kqo7yqz4"}
+{"time":"2026-07-28T03:38:01.686208015-04:00","level":"INFO","msg":"sender: closed","stream_id":"kqo7yqz4"}
+{"time":"2026-07-28T03:38:01.686815688-04:00","level":"INFO","msg":"stream: closed","id":"kqo7yqz4"}

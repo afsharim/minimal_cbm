@@ -1,0 +1,8 @@
+{"time":"2026-07-28T19:24:02.334687387-04:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2026-07-28T19:24:02.334737721-04:00","level":"INFO","msg":"created symlink","path":"/research/hal-afsharim/minimal_cbm/results/cifar10-mcbm-01/44/wandb/offline-run-20260728_192402-gr3lgiab/logs/debug-core.log"}
+{"time":"2026-07-28T19:24:02.446453671-04:00","level":"INFO","msg":"created new stream","id":"gr3lgiab"}
+{"time":"2026-07-28T19:24:02.446497869-04:00","level":"INFO","msg":"stream: started","id":"gr3lgiab"}
+{"time":"2026-07-28T19:24:02.446545805-04:00","level":"INFO","msg":"handler: started","stream_id":"gr3lgiab"}
+{"time":"2026-07-28T19:24:02.446538603-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"gr3lgiab"}
+{"time":"2026-07-28T19:24:02.446579422-04:00","level":"INFO","msg":"sender: started","stream_id":"gr3lgiab"}
+{"time":"2026-07-28T19:24:02.451162206-04:00","level":"INFO","msg":"Starting system monitor"}

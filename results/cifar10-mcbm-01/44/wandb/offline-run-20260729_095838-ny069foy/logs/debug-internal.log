@@ -1,0 +1,15 @@
+{"time":"2026-07-29T09:58:38.664276198-04:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2026-07-29T09:58:38.664335484-04:00","level":"INFO","msg":"created symlink","path":"/research/hal-afsharim/minimal_cbm/results/cifar10-mcbm-01/44/wandb/offline-run-20260729_095838-ny069foy/logs/debug-core.log"}
+{"time":"2026-07-29T09:58:38.78102488-04:00","level":"INFO","msg":"created new stream","id":"ny069foy"}
+{"time":"2026-07-29T09:58:38.78110341-04:00","level":"INFO","msg":"stream: started","id":"ny069foy"}
+{"time":"2026-07-29T09:58:38.781170904-04:00","level":"INFO","msg":"handler: started","stream_id":"ny069foy"}
+{"time":"2026-07-29T09:58:38.781195041-04:00","level":"INFO","msg":"sender: started","stream_id":"ny069foy"}
+{"time":"2026-07-29T09:58:38.781210758-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"ny069foy"}
+{"time":"2026-07-29T09:58:38.789269654-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2026-07-29T16:58:45.991948939-04:00","level":"INFO","msg":"stream: closing","id":"ny069foy"}
+{"time":"2026-07-29T16:58:45.992121605-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2026-07-29T16:58:45.993303543-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2026-07-29T16:58:45.993811321-04:00","level":"INFO","msg":"handler: closed","stream_id":"ny069foy"}
+{"time":"2026-07-29T16:58:45.993847664-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"ny069foy"}
+{"time":"2026-07-29T16:58:45.993896678-04:00","level":"INFO","msg":"sender: closed","stream_id":"ny069foy"}
+{"time":"2026-07-29T16:58:45.994600937-04:00","level":"INFO","msg":"stream: closed","id":"ny069foy"}
