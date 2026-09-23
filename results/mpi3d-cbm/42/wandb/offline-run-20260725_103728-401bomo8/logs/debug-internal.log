@@ -1,0 +1,15 @@
+{"time":"2026-07-25T10:37:28.154700663-04:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2026-07-25T10:37:28.154723839-04:00","level":"INFO","msg":"created symlink","path":"/research/hal-afsharim/minimal_cbm/results/mpi3d-cbm/42/wandb/offline-run-20260725_103728-401bomo8/logs/debug-core.log"}
+{"time":"2026-07-25T10:37:28.266107864-04:00","level":"INFO","msg":"created new stream","id":"401bomo8"}
+{"time":"2026-07-25T10:37:28.266161953-04:00","level":"INFO","msg":"stream: started","id":"401bomo8"}
+{"time":"2026-07-25T10:37:28.266199869-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"401bomo8"}
+{"time":"2026-07-25T10:37:28.266237562-04:00","level":"INFO","msg":"sender: started","stream_id":"401bomo8"}
+{"time":"2026-07-25T10:37:28.266333737-04:00","level":"INFO","msg":"handler: started","stream_id":"401bomo8"}
+{"time":"2026-07-25T10:37:28.274828804-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2026-07-25T11:59:33.446227997-04:00","level":"INFO","msg":"stream: closing","id":"401bomo8"}
+{"time":"2026-07-25T11:59:33.446306678-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2026-07-25T11:59:33.447350889-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2026-07-25T11:59:33.447946527-04:00","level":"INFO","msg":"handler: closed","stream_id":"401bomo8"}
+{"time":"2026-07-25T11:59:33.447973894-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"401bomo8"}
+{"time":"2026-07-25T11:59:33.448025761-04:00","level":"INFO","msg":"sender: closed","stream_id":"401bomo8"}
+{"time":"2026-07-25T11:59:33.448628025-04:00","level":"INFO","msg":"stream: closed","id":"401bomo8"}
