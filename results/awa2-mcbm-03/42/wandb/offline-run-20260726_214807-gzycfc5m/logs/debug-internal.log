@@ -1,0 +1,15 @@
+{"time":"2026-07-26T21:48:07.334080334-04:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2026-07-26T21:48:07.334135632-04:00","level":"INFO","msg":"created symlink","path":"/research/hal-afsharim/minimal_cbm/results/awa2-mcbm-03/42/wandb/offline-run-20260726_214807-gzycfc5m/logs/debug-core.log"}
+{"time":"2026-07-26T21:48:07.446122166-04:00","level":"INFO","msg":"created new stream","id":"gzycfc5m"}
+{"time":"2026-07-26T21:48:07.446185876-04:00","level":"INFO","msg":"stream: started","id":"gzycfc5m"}
+{"time":"2026-07-26T21:48:07.446246673-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"gzycfc5m"}
+{"time":"2026-07-26T21:48:07.446258173-04:00","level":"INFO","msg":"sender: started","stream_id":"gzycfc5m"}
+{"time":"2026-07-26T21:48:07.446301735-04:00","level":"INFO","msg":"handler: started","stream_id":"gzycfc5m"}
+{"time":"2026-07-26T21:48:07.451699598-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2026-07-27T02:55:11.166698823-04:00","level":"INFO","msg":"stream: closing","id":"gzycfc5m"}
+{"time":"2026-07-27T02:55:11.166789806-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2026-07-27T02:55:11.169814736-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2026-07-27T02:55:11.17076026-04:00","level":"INFO","msg":"handler: closed","stream_id":"gzycfc5m"}
+{"time":"2026-07-27T02:55:11.170773184-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"gzycfc5m"}
+{"time":"2026-07-27T02:55:11.170782539-04:00","level":"INFO","msg":"sender: closed","stream_id":"gzycfc5m"}
+{"time":"2026-07-27T02:55:11.17128243-04:00","level":"INFO","msg":"stream: closed","id":"gzycfc5m"}
