@@ -1,0 +1,15 @@
+{"time":"2026-07-28T09:06:41.325606899-04:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2026-07-28T09:06:41.325681849-04:00","level":"INFO","msg":"created symlink","path":"/research/hal-afsharim/minimal_cbm/results/cifar10-cem/44/wandb/offline-run-20260728_090641-ugm6ewzz/logs/debug-core.log"}
+{"time":"2026-07-28T09:06:41.443621271-04:00","level":"INFO","msg":"created new stream","id":"ugm6ewzz"}
+{"time":"2026-07-28T09:06:41.443683285-04:00","level":"INFO","msg":"stream: started","id":"ugm6ewzz"}
+{"time":"2026-07-28T09:06:41.44371793-04:00","level":"INFO","msg":"sender: started","stream_id":"ugm6ewzz"}
+{"time":"2026-07-28T09:06:41.443718015-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"ugm6ewzz"}
+{"time":"2026-07-28T09:06:41.443749007-04:00","level":"INFO","msg":"handler: started","stream_id":"ugm6ewzz"}
+{"time":"2026-07-28T09:06:41.448993582-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2026-07-28T15:55:24.763445237-04:00","level":"INFO","msg":"stream: closing","id":"ugm6ewzz"}
+{"time":"2026-07-28T15:55:24.763577269-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2026-07-28T15:55:24.776653766-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2026-07-28T15:55:24.780987306-04:00","level":"INFO","msg":"handler: closed","stream_id":"ugm6ewzz"}
+{"time":"2026-07-28T15:55:24.781029328-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"ugm6ewzz"}
+{"time":"2026-07-28T15:55:24.781068884-04:00","level":"INFO","msg":"sender: closed","stream_id":"ugm6ewzz"}
+{"time":"2026-07-28T15:55:24.781667488-04:00","level":"INFO","msg":"stream: closed","id":"ugm6ewzz"}

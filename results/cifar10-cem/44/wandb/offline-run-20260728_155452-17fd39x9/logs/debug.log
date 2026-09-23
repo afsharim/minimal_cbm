@@ -1,0 +1,12 @@
+2026-07-28 15:54:53,001 INFO    MainThread:1951657 [wandb_setup.py:_flush():68] Current SDK version is 0.19.0
+2026-07-28 15:54:53,002 INFO    MainThread:1951657 [wandb_setup.py:_flush():68] Configure stats pid to 1951657
+2026-07-28 15:54:53,002 INFO    MainThread:1951657 [wandb_setup.py:_flush():68] Loading settings from /research/hal-afsharim/.config/wandb/settings
+2026-07-28 15:54:53,002 INFO    MainThread:1951657 [wandb_setup.py:_flush():68] Loading settings from /research/hal-afsharim/minimal_cbm/wandb/settings
+2026-07-28 15:54:53,002 INFO    MainThread:1951657 [wandb_setup.py:_flush():68] Loading settings from environment variables
+2026-07-28 15:54:53,002 INFO    MainThread:1951657 [wandb_init.py:_log_setup():528] Logging user logs to /research/hal-afsharim/minimal_cbm/results/cifar10-cem/44/wandb/offline-run-20260728_155452-17fd39x9/logs/debug.log
+2026-07-28 15:54:53,002 INFO    MainThread:1951657 [wandb_init.py:_log_setup():529] Logging internal logs to /research/hal-afsharim/minimal_cbm/results/cifar10-cem/44/wandb/offline-run-20260728_155452-17fd39x9/logs/debug-internal.log
+2026-07-28 15:54:53,002 INFO    MainThread:1951657 [wandb_init.py:init():639] calling init triggers
+2026-07-28 15:54:53,002 INFO    MainThread:1951657 [wandb_init.py:init():645] wandb.init called with sweep_config: {}
+config: {'data': {'dataset': 'cifar10', 'root': '/research/hal-afsharim/minimal_cbm/data/cifar10', 'n_concepts': 64}, 'model': {'model_type': 'cem', 'encoder': {'arch': 'conv2d', 'latent_dim': 256}, 'hidden_dims_y': 64, 'var_z': 0, 'hidden_dims_c': [], 'beta': 0.1}, 'training': {'batch_size': 128, 'n_epochs': 200, 'save_epochs': 200, 'optimizer': {'optimizer': 'Adam', 'base_batch_size': 64, 'base_lr': 0.0001, 'batch_size': 128, 'weight_decay': 4e-05}, 'scheduler': {'gamma': 0.1, 'scheduler': 'StepLR', 'step_size': 80}}}
+2026-07-28 15:54:53,003 INFO    MainThread:1951657 [wandb_init.py:init():683] wandb.init() called when a run is still active
+2026-07-28 15:55:24,762 WARNING MsgRouterThr:1951657 [router.py:message_loop():75] message_loop has been closed

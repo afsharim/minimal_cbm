@@ -1,0 +1,15 @@
+{"time":"2026-07-27T17:14:02.483620295-04:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2026-07-27T17:14:02.48365645-04:00","level":"INFO","msg":"created symlink","path":"/research/hal-afsharim/minimal_cbm/results/cifar10-mcbm-01/43/wandb/offline-run-20260727_171402-nnln80ie/logs/debug-core.log"}
+{"time":"2026-07-27T17:14:02.597132078-04:00","level":"INFO","msg":"created new stream","id":"nnln80ie"}
+{"time":"2026-07-27T17:14:02.597200455-04:00","level":"INFO","msg":"stream: started","id":"nnln80ie"}
+{"time":"2026-07-27T17:14:02.59722582-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"nnln80ie"}
+{"time":"2026-07-27T17:14:02.597294431-04:00","level":"INFO","msg":"sender: started","stream_id":"nnln80ie"}
+{"time":"2026-07-27T17:14:02.597287158-04:00","level":"INFO","msg":"handler: started","stream_id":"nnln80ie"}
+{"time":"2026-07-27T17:14:02.602782976-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2026-07-28T01:11:28.612124742-04:00","level":"INFO","msg":"stream: closing","id":"nnln80ie"}
+{"time":"2026-07-28T01:11:28.612224048-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2026-07-28T01:11:28.6134488-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2026-07-28T01:11:28.613813073-04:00","level":"INFO","msg":"handler: closed","stream_id":"nnln80ie"}
+{"time":"2026-07-28T01:11:28.613883244-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"nnln80ie"}
+{"time":"2026-07-28T01:11:28.613929767-04:00","level":"INFO","msg":"sender: closed","stream_id":"nnln80ie"}
+{"time":"2026-07-28T01:11:28.614490292-04:00","level":"INFO","msg":"stream: closed","id":"nnln80ie"}
