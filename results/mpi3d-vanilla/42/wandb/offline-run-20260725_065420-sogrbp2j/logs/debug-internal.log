@@ -1,0 +1,15 @@
+{"time":"2026-07-25T06:54:20.929396678-04:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2026-07-25T06:54:20.929430468-04:00","level":"INFO","msg":"created symlink","path":"/research/hal-afsharim/minimal_cbm/results/mpi3d-vanilla/42/wandb/offline-run-20260725_065420-sogrbp2j/logs/debug-core.log"}
+{"time":"2026-07-25T06:54:21.048777264-04:00","level":"INFO","msg":"created new stream","id":"sogrbp2j"}
+{"time":"2026-07-25T06:54:21.048848502-04:00","level":"INFO","msg":"stream: started","id":"sogrbp2j"}
+{"time":"2026-07-25T06:54:21.048924212-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"sogrbp2j"}
+{"time":"2026-07-25T06:54:21.04899088-04:00","level":"INFO","msg":"handler: started","stream_id":"sogrbp2j"}
+{"time":"2026-07-25T06:54:21.049005649-04:00","level":"INFO","msg":"sender: started","stream_id":"sogrbp2j"}
+{"time":"2026-07-25T06:54:21.056403857-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2026-07-25T08:43:41.211529307-04:00","level":"INFO","msg":"stream: closing","id":"sogrbp2j"}
+{"time":"2026-07-25T08:43:41.211889493-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2026-07-25T08:43:41.226115811-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2026-07-25T08:43:41.230610323-04:00","level":"INFO","msg":"handler: closed","stream_id":"sogrbp2j"}
+{"time":"2026-07-25T08:43:41.230637525-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"sogrbp2j"}
+{"time":"2026-07-25T08:43:41.230685271-04:00","level":"INFO","msg":"sender: closed","stream_id":"sogrbp2j"}
+{"time":"2026-07-25T08:43:41.231247698-04:00","level":"INFO","msg":"stream: closed","id":"sogrbp2j"}

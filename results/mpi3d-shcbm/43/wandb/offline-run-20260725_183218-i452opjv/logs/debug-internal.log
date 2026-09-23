@@ -1,0 +1,15 @@
+{"time":"2026-07-25T18:32:18.623138975-04:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2026-07-25T18:32:18.623186587-04:00","level":"INFO","msg":"created symlink","path":"/research/hal-afsharim/minimal_cbm/results/mpi3d-shcbm/43/wandb/offline-run-20260725_183218-i452opjv/logs/debug-core.log"}
+{"time":"2026-07-25T18:32:18.739801371-04:00","level":"INFO","msg":"created new stream","id":"i452opjv"}
+{"time":"2026-07-25T18:32:18.739854215-04:00","level":"INFO","msg":"stream: started","id":"i452opjv"}
+{"time":"2026-07-25T18:32:18.739908842-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"i452opjv"}
+{"time":"2026-07-25T18:32:18.73993007-04:00","level":"INFO","msg":"handler: started","stream_id":"i452opjv"}
+{"time":"2026-07-25T18:32:18.739944812-04:00","level":"INFO","msg":"sender: started","stream_id":"i452opjv"}
+{"time":"2026-07-25T18:32:18.743771942-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2026-07-25T19:59:14.447109516-04:00","level":"INFO","msg":"stream: closing","id":"i452opjv"}
+{"time":"2026-07-25T19:59:14.447247042-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2026-07-25T19:59:14.448318678-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2026-07-25T19:59:14.448707542-04:00","level":"INFO","msg":"handler: closed","stream_id":"i452opjv"}
+{"time":"2026-07-25T19:59:14.448726284-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"i452opjv"}
+{"time":"2026-07-25T19:59:14.448755258-04:00","level":"INFO","msg":"sender: closed","stream_id":"i452opjv"}
+{"time":"2026-07-25T19:59:14.449197817-04:00","level":"INFO","msg":"stream: closed","id":"i452opjv"}
