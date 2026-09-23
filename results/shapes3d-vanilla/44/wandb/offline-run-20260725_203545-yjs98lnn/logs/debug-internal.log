@@ -1,0 +1,15 @@
+{"time":"2026-07-25T20:35:46.016561012-04:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2026-07-25T20:35:46.016603582-04:00","level":"INFO","msg":"created symlink","path":"/research/hal-afsharim/minimal_cbm/results/shapes3d-vanilla/44/wandb/offline-run-20260725_203545-yjs98lnn/logs/debug-core.log"}
+{"time":"2026-07-25T20:35:46.132885959-04:00","level":"INFO","msg":"created new stream","id":"yjs98lnn"}
+{"time":"2026-07-25T20:35:46.132942679-04:00","level":"INFO","msg":"stream: started","id":"yjs98lnn"}
+{"time":"2026-07-25T20:35:46.132984913-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"yjs98lnn"}
+{"time":"2026-07-25T20:35:46.133012693-04:00","level":"INFO","msg":"handler: started","stream_id":"yjs98lnn"}
+{"time":"2026-07-25T20:35:46.13308122-04:00","level":"INFO","msg":"sender: started","stream_id":"yjs98lnn"}
+{"time":"2026-07-25T20:35:46.139758825-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2026-07-25T21:45:12.062881355-04:00","level":"INFO","msg":"stream: closing","id":"yjs98lnn"}
+{"time":"2026-07-25T21:45:12.063011373-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2026-07-25T21:45:12.064076883-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2026-07-25T21:45:12.064409499-04:00","level":"INFO","msg":"handler: closed","stream_id":"yjs98lnn"}
+{"time":"2026-07-25T21:45:12.064430232-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"yjs98lnn"}
+{"time":"2026-07-25T21:45:12.064465172-04:00","level":"INFO","msg":"sender: closed","stream_id":"yjs98lnn"}
+{"time":"2026-07-25T21:45:12.065085208-04:00","level":"INFO","msg":"stream: closed","id":"yjs98lnn"}

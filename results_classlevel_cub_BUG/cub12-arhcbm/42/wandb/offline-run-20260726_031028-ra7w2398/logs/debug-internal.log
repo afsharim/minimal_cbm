@@ -1,0 +1,15 @@
+{"time":"2026-07-26T03:10:28.192943973-04:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2026-07-26T03:10:28.192981126-04:00","level":"INFO","msg":"created symlink","path":"/research/hal-afsharim/minimal_cbm/results/cub12-arhcbm/42/wandb/offline-run-20260726_031028-ra7w2398/logs/debug-core.log"}
+{"time":"2026-07-26T03:10:28.304651594-04:00","level":"INFO","msg":"created new stream","id":"ra7w2398"}
+{"time":"2026-07-26T03:10:28.304708771-04:00","level":"INFO","msg":"stream: started","id":"ra7w2398"}
+{"time":"2026-07-26T03:10:28.304756855-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"ra7w2398"}
+{"time":"2026-07-26T03:10:28.304773388-04:00","level":"INFO","msg":"handler: started","stream_id":"ra7w2398"}
+{"time":"2026-07-26T03:10:28.304848345-04:00","level":"INFO","msg":"sender: started","stream_id":"ra7w2398"}
+{"time":"2026-07-26T03:10:28.310847607-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2026-07-26T10:05:50.94620234-04:00","level":"INFO","msg":"stream: closing","id":"ra7w2398"}
+{"time":"2026-07-26T10:05:50.946325556-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2026-07-26T10:05:50.948102307-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2026-07-26T10:05:50.949095108-04:00","level":"INFO","msg":"handler: closed","stream_id":"ra7w2398"}
+{"time":"2026-07-26T10:05:50.949114406-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"ra7w2398"}
+{"time":"2026-07-26T10:05:50.949139212-04:00","level":"INFO","msg":"sender: closed","stream_id":"ra7w2398"}
+{"time":"2026-07-26T10:05:50.949495817-04:00","level":"INFO","msg":"stream: closed","id":"ra7w2398"}

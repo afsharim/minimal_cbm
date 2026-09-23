@@ -1,0 +1,15 @@
+{"time":"2026-07-27T06:55:11.843316765-04:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2026-07-27T06:55:11.843365149-04:00","level":"INFO","msg":"created symlink","path":"/research/hal-afsharim/minimal_cbm/results/cub12-arhcbm/43/wandb/offline-run-20260727_065511-pjg498jf/logs/debug-core.log"}
+{"time":"2026-07-27T06:55:11.954441082-04:00","level":"INFO","msg":"created new stream","id":"pjg498jf"}
+{"time":"2026-07-27T06:55:11.954485492-04:00","level":"INFO","msg":"stream: started","id":"pjg498jf"}
+{"time":"2026-07-27T06:55:11.954544845-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"pjg498jf"}
+{"time":"2026-07-27T06:55:11.954556242-04:00","level":"INFO","msg":"sender: started","stream_id":"pjg498jf"}
+{"time":"2026-07-27T06:55:11.954581854-04:00","level":"INFO","msg":"handler: started","stream_id":"pjg498jf"}
+{"time":"2026-07-27T06:55:11.960437265-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2026-07-27T13:55:09.090415492-04:00","level":"INFO","msg":"stream: closing","id":"pjg498jf"}
+{"time":"2026-07-27T13:55:09.091262905-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2026-07-27T13:55:09.099347728-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2026-07-27T13:55:09.102319189-04:00","level":"INFO","msg":"handler: closed","stream_id":"pjg498jf"}
+{"time":"2026-07-27T13:55:09.102357817-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"pjg498jf"}
+{"time":"2026-07-27T13:55:09.102395134-04:00","level":"INFO","msg":"sender: closed","stream_id":"pjg498jf"}
+{"time":"2026-07-27T13:55:09.102834228-04:00","level":"INFO","msg":"stream: closed","id":"pjg498jf"}

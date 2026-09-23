@@ -1,0 +1,8 @@
+{"time":"2026-07-25T09:47:47.706017561-04:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2026-07-25T09:47:47.706067843-04:00","level":"INFO","msg":"created symlink","path":"/research/hal-afsharim/minimal_cbm/results/shapes3d-vanilla/43/wandb/offline-run-20260725_094747-12f7tmar/logs/debug-core.log"}
+{"time":"2026-07-25T09:47:47.824707192-04:00","level":"INFO","msg":"created new stream","id":"12f7tmar"}
+{"time":"2026-07-25T09:47:47.824808099-04:00","level":"INFO","msg":"stream: started","id":"12f7tmar"}
+{"time":"2026-07-25T09:47:47.824889116-04:00","level":"INFO","msg":"sender: started","stream_id":"12f7tmar"}
+{"time":"2026-07-25T09:47:47.824907269-04:00","level":"INFO","msg":"handler: started","stream_id":"12f7tmar"}
+{"time":"2026-07-25T09:47:47.824858671-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"12f7tmar"}
+{"time":"2026-07-25T09:47:47.832336464-04:00","level":"INFO","msg":"Starting system monitor"}
