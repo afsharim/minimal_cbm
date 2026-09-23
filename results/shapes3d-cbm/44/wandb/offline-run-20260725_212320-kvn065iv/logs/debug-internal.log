@@ -1,0 +1,15 @@
+{"time":"2026-07-25T21:23:20.35197326-04:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2026-07-25T21:23:20.352011539-04:00","level":"INFO","msg":"created symlink","path":"/research/hal-afsharim/minimal_cbm/results/shapes3d-cbm/44/wandb/offline-run-20260725_212320-kvn065iv/logs/debug-core.log"}
+{"time":"2026-07-25T21:23:20.470282338-04:00","level":"INFO","msg":"created new stream","id":"kvn065iv"}
+{"time":"2026-07-25T21:23:20.470365695-04:00","level":"INFO","msg":"stream: started","id":"kvn065iv"}
+{"time":"2026-07-25T21:23:20.470418625-04:00","level":"INFO","msg":"sender: started","stream_id":"kvn065iv"}
+{"time":"2026-07-25T21:23:20.470404032-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"kvn065iv"}
+{"time":"2026-07-25T21:23:20.470476961-04:00","level":"INFO","msg":"handler: started","stream_id":"kvn065iv"}
+{"time":"2026-07-25T21:23:20.476924846-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2026-07-25T22:49:39.810656961-04:00","level":"INFO","msg":"stream: closing","id":"kvn065iv"}
+{"time":"2026-07-25T22:49:39.810762426-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2026-07-25T22:49:39.811875873-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2026-07-25T22:49:39.81236565-04:00","level":"INFO","msg":"handler: closed","stream_id":"kvn065iv"}
+{"time":"2026-07-25T22:49:39.81239566-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"kvn065iv"}
+{"time":"2026-07-25T22:49:39.812428316-04:00","level":"INFO","msg":"sender: closed","stream_id":"kvn065iv"}
+{"time":"2026-07-25T22:49:39.813110357-04:00","level":"INFO","msg":"stream: closed","id":"kvn065iv"}
