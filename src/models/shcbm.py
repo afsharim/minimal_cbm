@@ -91,13 +91,8 @@ class StochasticHardConceptBottleneckModel(HardConceptBottleneckModel):
     #==========Interventions==========
     def intervene(self, x: Tensor, c: Tensor):
         z, _, _ = self.p_z_x(x, n_samples=0)
-        y_logits, y_preds = self.q_y_z(z)
         c_logits, c_preds, c_hard = self.q_c_z(z)
-        z_copy = c_hard[:,:,0].clone()
-        for k in range(x.shape[0]):
-            for j in range(self.n_concepts):
-                if not torch.isnan(c[k,self.idxs_c[j]]):
-                    z_copy[k,self.idxs_z[j]] = self._intervene_kj(c, k, j)
+        z_copy = self._vectorized_z_copy(c_hard[:,:,0].clone(), c)
         y_logits, y_preds = self.q_y_z(z_copy)
         c_logits, c_preds, c_hard = self.q_c_z(z_copy)
         return {
@@ -107,3 +102,8 @@ class StochasticHardConceptBottleneckModel(HardConceptBottleneckModel):
             'c_logits': c_logits,
             'c_preds':  c_preds,
         }
+
+    def intervention_base(self, x: Tensor) -> Tensor:
+        z, _, _ = self.p_z_x(x, n_samples=0)
+        _, _, c_hard = self.q_c_z(z)
+        return c_hard[:, :, 0]

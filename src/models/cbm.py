@@ -143,15 +143,43 @@ class ConceptBottleneckModel(VanillaModel):
         else:
             return self.quantiles[j][0] if c[k,self.idxs_z[j]]==0 else self.quantiles[j][1]
 
+    def _assert_singleton_idxs(self):
+        # The vectorized intervention below assumes dim_c[j]==dim_z[j]==1
+        # (true for all intervenable models: CBM/HCBM/SCBM/SHCBM/MCBM).
+        assert all(len(self.idxs_z[j]) == 1 and len(self.idxs_c[j]) == 1
+                   for j in range(self.n_concepts)), \
+            "vectorized intervention requires singleton concept/representation dims"
+
+    def _intervene_replacement(self, c: Tensor) -> Tensor:
+        """Vectorized values written into z for every (sample, concept),
+        equivalent to _intervene_kj applied elementwise. Only positions where
+        c is not NaN are actually used by the caller."""
+        assert self.hidden_dims_c == [None] * self.n_concepts, \
+            "Interventions in CBMs cannot be performed for non-invertible concept heads"
+        c0 = torch.nan_to_num(c, nan=0.0)
+        q_neg = torch.stack([
+            (self.quantiles[j][0] if not self.continuous_c[j]
+             else torch.zeros((), device=c.device))
+            for j in range(self.n_concepts)]).to(c.device).view(1, -1)
+        q_pos = torch.stack([
+            (self.quantiles[j][1] if not self.continuous_c[j]
+             else torch.zeros((), device=c.device))
+            for j in range(self.n_concepts)]).to(c.device).view(1, -1)
+        cont = torch.tensor(self.continuous_c, device=c.device).view(1, -1)
+        binary_repl = torch.where(c0 == 0, q_neg, q_pos)
+        return torch.where(cont, c0, binary_repl)
+
+    def _vectorized_z_copy(self, z_base: Tensor, c: Tensor) -> Tensor:
+        self._assert_singleton_idxs()
+        assert c.shape[1] == self.n_concepts, \
+            "Length of c must be equal to the number of concepts"
+        mask = ~torch.isnan(c)
+        repl = self._intervene_replacement(c).to(z_base.dtype)
+        return torch.where(mask, repl, z_base)
+
     def intervene(self, x: Tensor, c: Tensor):
         z = self.p_z_x(x)
-        y_logits, y_preds = self.q_y_z(z)
-        c_logits, c_preds = self.q_c_z(z)
-        z_copy = z.clone()
-        for k in range(x.shape[0]):
-            for j in range(self.n_concepts):
-                if not torch.isnan(c[k,self.idxs_c[j]]):
-                    z_copy[k,self.idxs_z[j]] = self._intervene_kj(c, k, j)
+        z_copy = self._vectorized_z_copy(z.clone(), c)
         y_logits, y_preds = self.q_y_z(z_copy)
         c_logits, c_preds = self.q_c_z(z_copy)
         return {
@@ -161,3 +189,14 @@ class ConceptBottleneckModel(VanillaModel):
             'c_logits': c_logits,
             'c_preds':  c_preds,
         }
+
+    # ---- Cached-encoder intervention (identical result, encodes x once) ----
+    def intervention_base(self, x: Tensor) -> Tensor:
+        """The representation that interventions overwrite (here: z)."""
+        return self.p_z_x(x)
+
+    def intervention_predict(self, base: Tensor, c: Tensor) -> Tensor:
+        """Task prediction after intervening on a precomputed base."""
+        z_copy = self._vectorized_z_copy(base.clone(), c)
+        _, y_preds = self.q_y_z(z_copy)
+        return y_preds

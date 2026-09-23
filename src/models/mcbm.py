@@ -132,3 +132,8 @@ class MinimalConceptBottleneckModel(ConceptBottleneckModel):
         return torch.unsqueeze(6 * c[k,self.idxs_c[j]] - 3, -1)
         #z_j_logits = self.mlp_z[j](c[k,self.idxs_c[j]].unsqueeze(0))
         #return self.act_z[j](z_j_logits)
+
+    def _intervene_replacement(self, c: Tensor) -> Tensor:
+        # MCBM interventions use the learned prior mapping q(z_j|c_j), which in
+        # this implementation is the deterministic map z_j = 6*c_j - 3.
+        return 6 * torch.nan_to_num(c, nan=0.0) - 3

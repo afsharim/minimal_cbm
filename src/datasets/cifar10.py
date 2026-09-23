@@ -27,14 +27,20 @@ def get_cifar10(
             transforms.Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225]),
         ])
     dataset = CIFAR10(train=train, transform=transform, **kwargs)
+    # Worker/prefetch counts are configurable via env so several CIFAR runs can
+    # share the host without exhausting RAM (each worker holds prefetched 224^2
+    # batches). These do not affect the seeded data order, so results are
+    # unchanged. Defaults are reduced from the original 8 workers / prefetch 4.
+    n_workers = int(os.environ.get("MCBM_CIFAR_WORKERS", "3"))
+    prefetch = int(os.environ.get("MCBM_CIFAR_PREFETCH", "2"))
     loader_kwargs = {
         'batch_size': batch_size,
         'shuffle': True if train and not resampling else False,
         'drop_last': True if train and resampling else False,
         'pin_memory': True,
-        'num_workers': min(8, os.cpu_count()),
-        'persistent_workers': True,
-        'prefetch_factor': 4 if os.cpu_count() > 1 else 0,
+        'num_workers': min(n_workers, os.cpu_count()),
+        'persistent_workers': True if n_workers > 0 else False,
+        'prefetch_factor': prefetch if os.cpu_count() > 1 and n_workers > 0 else None,
     }
     dataloader = DataLoader(dataset, **loader_kwargs)
     model_kwargs = {

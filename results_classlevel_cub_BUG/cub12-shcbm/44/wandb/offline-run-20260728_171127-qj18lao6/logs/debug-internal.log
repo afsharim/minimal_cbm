@@ -1,0 +1,15 @@
+{"time":"2026-07-28T17:11:27.528752335-04:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2026-07-28T17:11:27.528792994-04:00","level":"INFO","msg":"created symlink","path":"/research/hal-afsharim/minimal_cbm/results/cub12-shcbm/44/wandb/offline-run-20260728_171127-qj18lao6/logs/debug-core.log"}
+{"time":"2026-07-28T17:11:27.640619579-04:00","level":"INFO","msg":"created new stream","id":"qj18lao6"}
+{"time":"2026-07-28T17:11:27.640676479-04:00","level":"INFO","msg":"stream: started","id":"qj18lao6"}
+{"time":"2026-07-28T17:11:27.640713879-04:00","level":"INFO","msg":"sender: started","stream_id":"qj18lao6"}
+{"time":"2026-07-28T17:11:27.640714178-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"qj18lao6"}
+{"time":"2026-07-28T17:11:27.640781676-04:00","level":"INFO","msg":"handler: started","stream_id":"qj18lao6"}
+{"time":"2026-07-28T17:11:27.647550013-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2026-07-29T00:10:16.35051537-04:00","level":"INFO","msg":"stream: closing","id":"qj18lao6"}
+{"time":"2026-07-29T00:10:16.350620118-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2026-07-29T00:10:16.351854731-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2026-07-29T00:10:16.352223838-04:00","level":"INFO","msg":"handler: closed","stream_id":"qj18lao6"}
+{"time":"2026-07-29T00:10:16.352263895-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"qj18lao6"}
+{"time":"2026-07-29T00:10:16.352272807-04:00","level":"INFO","msg":"sender: closed","stream_id":"qj18lao6"}
+{"time":"2026-07-29T00:10:16.352853299-04:00","level":"INFO","msg":"stream: closed","id":"qj18lao6"}

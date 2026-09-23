@@ -1,0 +1,15 @@
+{"time":"2026-07-27T08:37:45.973944342-04:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2026-07-27T08:37:45.973986638-04:00","level":"INFO","msg":"created symlink","path":"/research/hal-afsharim/minimal_cbm/results/cub12-shcbm/43/wandb/offline-run-20260727_083745-ue507rt1/logs/debug-core.log"}
+{"time":"2026-07-27T08:37:46.088229265-04:00","level":"INFO","msg":"created new stream","id":"ue507rt1"}
+{"time":"2026-07-27T08:37:46.088286874-04:00","level":"INFO","msg":"stream: started","id":"ue507rt1"}
+{"time":"2026-07-27T08:37:46.088317786-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"ue507rt1"}
+{"time":"2026-07-27T08:37:46.088347002-04:00","level":"INFO","msg":"handler: started","stream_id":"ue507rt1"}
+{"time":"2026-07-27T08:37:46.088325264-04:00","level":"INFO","msg":"sender: started","stream_id":"ue507rt1"}
+{"time":"2026-07-27T08:37:46.092660346-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2026-07-27T15:19:59.375055847-04:00","level":"INFO","msg":"stream: closing","id":"ue507rt1"}
+{"time":"2026-07-27T15:19:59.375165585-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2026-07-27T15:19:59.378838678-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2026-07-27T15:19:59.379929914-04:00","level":"INFO","msg":"handler: closed","stream_id":"ue507rt1"}
+{"time":"2026-07-27T15:19:59.379984457-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"ue507rt1"}
+{"time":"2026-07-27T15:19:59.380002185-04:00","level":"INFO","msg":"sender: closed","stream_id":"ue507rt1"}
+{"time":"2026-07-27T15:19:59.38067911-04:00","level":"INFO","msg":"stream: closed","id":"ue507rt1"}

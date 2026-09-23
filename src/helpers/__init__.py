@@ -6,10 +6,12 @@ from .training import (
     count_parameters
 )
 from .metrics import (
-    calc_accuracy, 
+    calc_accuracy,
     calc_ece,
     calc_brier,
     calc_map,
-    get_results_classifier_sklearn
+    get_results_classifier_sklearn,
+    get_results_classifier_torch,
+    get_results_classifier
 )
 from .alignment import AlignmentMetrics

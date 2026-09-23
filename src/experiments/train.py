@@ -4,12 +4,12 @@ import torch
 
 from src.datasets import get_loader
 from src.helpers import (
-    calc_accuracy, 
+    calc_accuracy,
     calc_ece,
     calc_brier,
     calc_map,
-    get_optimizer_scheduler, 
-    get_results_classifier_sklearn
+    get_optimizer_scheduler,
+    get_results_classifier
 )
 from .base import BaseExperiment
 
@@ -129,6 +129,12 @@ class TrainExperiment(BaseExperiment):
 
         if self.save:
             torch.save(test_set, os.path.join(self.preds_dir, f"epoch_{epoch}.pth"))
+            # Also persist a compact train split for post-hoc metrics
+            # (CKA / disentanglement / OIS / NIS need train predictions too).
+            keep = [k for k in ('z', 'c', 'c_preds', 'y', 'y_preds',
+                                'n_task', 'n_nontask') if k in train_set]
+            torch.save({k: train_set[k] for k in keep},
+                       os.path.join(self.preds_dir, f"epoch_{epoch}_train.pth"))
         results = {}
         if self.save:
             results.update({
@@ -192,14 +198,25 @@ class TrainExperiment(BaseExperiment):
             y_test_list  = [n_task_te[:, j] for j in range(n_task)] + [n_ntask_te[:, j] for j in range(n_ntask)]
             key_is_task  = [True] * n_task + [False] * n_ntask  # boolean mask
 
+            # Free the large per-sample buffers no longer needed before the
+            # (long-running, ~1-2h on big datasets) leakage probe, so several
+            # runs sharing the box don't exhaust host/GPU RAM. z_* were copied
+            # into x_*_joint; x_*_c still alias c_*, and the y-lists are views
+            # into n_*; those are kept. Numerically a no-op.
+            import gc
+            del train_set, test_set, z_tr, z_te
+            gc.collect()
+            if torch.cuda.is_available():
+                torch.cuda.empty_cache()
+
             def get_acc_mi(y_tr, y_te):
                 # Use precomputed features; sklearn likes NumPy
-                res_joint = get_results_classifier_sklearn(
+                res_joint = get_results_classifier(
                     x_train=x_train_joint, y_train=y_tr,
                     x_test=x_test_joint,   y_test=y_te,
                     device=self.device
                 )
-                res_conc = get_results_classifier_sklearn(
+                res_conc = get_results_classifier(
                     x_train=x_train_c, y_train=y_tr,
                     x_test=x_test_c,   y_test=y_te,
                     device=self.device
@@ -227,13 +244,43 @@ class TrainExperiment(BaseExperiment):
 
     #==========Run==========
     def run(self):
-        for epoch in range(self.ini_epoch, self.cfg['training']['n_epochs']+1):
-            self.save = epoch%self.cfg['training']['save_epochs']==0 or\
-                epoch==self.cfg['training']['n_epochs']
+        import json
+        log_path = os.path.join(self.results_dir, "train_log.jsonl")
+        # Fresh run (bin/train.py always starts at epoch 1): truncate any log
+        # left by a previous failed attempt so epochs are not duplicated.
+        if self.ini_epoch <= 1:
+            open(log_path, "w").close()
+        n_epochs = self.cfg['training']['n_epochs']
+        # Opt-in: run the (expensive) leakage probe + checkpoint only at the
+        # final epoch. Training is unaffected (evaluate/probe are eval-only), so
+        # the FINAL reported metrics are identical; this just skips the
+        # intermediate probe rounds that only fed wandb curves.
+        save_only_last = os.environ.get("MCBM_SAVE_ONLY_LAST", "0") == "1"
+        for epoch in range(self.ini_epoch, n_epochs+1):
+            self.save = (epoch == n_epochs) if save_only_last else \
+                (epoch % self.cfg['training']['save_epochs'] == 0 or epoch == n_epochs)
             losses_train = self.train_epoch(epoch)
             losses_test = self.test_epoch()
             metrics_eval = self.evaluate(epoch)
             log_dict = {**losses_train, **losses_test, **metrics_eval}
+            log_dict = {k: float(v) for k, v in log_dict.items()}
             self.wandb_run.log(log_dict)
+            with open(log_path, "a") as f:
+                f.write(json.dumps({'epoch': epoch, **log_dict}) + "\n")
+            # Preserved per-checkpoint snapshot: retain the FULL metric record at
+            # a fixed cadence in a distinct file per checkpoint, instead of only
+            # overwriting final_metrics.json. This keeps the whole history (every
+            # 10th epoch by default) rather than just the last one. Cheap metrics
+            # are present every epoch; the expensive URR/leakage keys appear on
+            # save-epochs only (the probe is ~1-2h on the large datasets).
+            snap_every = int(os.environ.get("MCBM_SNAPSHOT_EVERY", "10"))
+            if snap_every > 0 and (epoch % snap_every == 0 or epoch == n_epochs):
+                snap_dir = os.path.join(self.results_dir, "metrics_history")
+                os.makedirs(snap_dir, exist_ok=True)
+                with open(os.path.join(snap_dir, f"epoch_{epoch:04d}.json"), "w") as f:
+                    json.dump({'epoch': epoch, **log_dict}, f, indent=2)
+            if self.save:
+                with open(os.path.join(self.results_dir, "final_metrics.json"), "w") as f:
+                    json.dump({'epoch': epoch, **log_dict}, f, indent=2)
             print("Epoch {}".format(epoch))
             print('\n'.join(["{}:\t{}".format(k, v) for k, v in log_dict.items()])+'\n')

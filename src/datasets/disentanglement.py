@@ -79,6 +79,30 @@ class DisentanglementDataset(Dataset):
         self._filter_samples_nuisances()
         self._select_samples()
         self._find_imbalance()
+        self._precompute_labels()
+
+
+    def _precompute_labels(self):
+        """Precompute task/concept/nuisance tensors for the whole (filtered)
+        set once, so __getitem__ is a fast slice instead of running F.one_hot
+        per sample (the dominant data-loading cost for these datasets)."""
+        labels = torch.as_tensor(self.labels, dtype=torch.long)
+
+        def cols(names, one_hot):
+            out = []
+            for name in names:
+                idx = self.all_factors.index(name)
+                if one_hot:
+                    out.append(F.one_hot(labels[:, idx],
+                                         self.factors_nvalues[name]).float())
+                else:
+                    out.append(labels[:, idx:idx+1].float())
+            return torch.cat(out, dim=1) if out else None
+
+        self._task_t = labels[:, self.all_factors.index(self.task)]
+        self._concepts_t = cols(self.concepts, self.binarize_concepts)
+        self._nuis_task_t = cols(self.nuisances_task, one_hot=False)
+        self._nuis_nontask_t = cols(self.nuisances_nontask, one_hot=False)
 
 
     def _read_dataset(self, npz_path):
@@ -129,9 +153,19 @@ class DisentanglementDataset(Dataset):
 
 
     def _find_imbalance(self):
-        concepts = torch.stack([self._get_label(
-            torch.tensor(label), self.concepts, one_hot=self.binarize_concepts
-        ) for label in self.labels])
+        # Vectorized equivalent of stacking per-sample concept vectors — the
+        # original per-sample Python loop cost minutes on the large filtered
+        # sets. One-hot each concept factor column at once, then concatenate.
+        labels = torch.as_tensor(self.labels, dtype=torch.long)
+        cols = []
+        for name in self.concepts:
+            idx = self.all_factors.index(name)
+            if self.binarize_concepts:
+                cols.append(F.one_hot(labels[:, idx],
+                                      self.factors_nvalues[name]).float())
+            else:
+                cols.append(labels[:, idx:idx+1].float())
+        concepts = torch.cat(cols, dim=1)
         self.imbalance_ratio = concepts.shape[0] / torch.sum(concepts, axis=0) - 1
 
 
@@ -140,21 +174,16 @@ class DisentanglementDataset(Dataset):
 
 
     def __getitem__(self, idx):
-        factors = torch.tensor(self.labels[idx])
-        image = torch.tensor(self.images[idx], dtype=torch.float32) / 255.
+        image = torch.as_tensor(self.images[idx], dtype=torch.float32) / 255.
         if self.flatten:
             image = image.flatten()
-        task = factors[self.all_factors.index(self.task)]
-        concepts = self._get_label(factors, self.concepts, one_hot=self.binarize_concepts)
+        task = self._task_t[idx]
+        concepts = self._concepts_t[idx]
         if self.return_nuisances:
-            if len(self.nuisances_task)>0:
-                nuisances_task = self._get_label(factors, self.nuisances_task, one_hot=False)
-            else:
-                nuisances_task = torch.tensor([])
-            if len(self.nuisances_nontask)>0:
-                nuisances_nontask = self._get_label(factors, self.nuisances_nontask, one_hot=False)
-            else:
-                nuisances_nontask = torch.tensor([])
+            nuisances_task = self._nuis_task_t[idx] if self._nuis_task_t is not None \
+                else torch.tensor([])
+            nuisances_nontask = self._nuis_nontask_t[idx] if self._nuis_nontask_t is not None \
+                else torch.tensor([])
             return image, task, concepts, nuisances_task, nuisances_nontask
         else:
             return image, task, concepts
@@ -208,8 +237,16 @@ class MPI3D(DisentanglementDataset):
 
     def _read_dataset(self, npz_path):
         dataset = np.load(npz_path, allow_pickle=True)
-        self.images = dataset['images']
-        self.labels = dataset['labels']
+        images = dataset['images']
+        # MPI3D real images are stored HWC (N,64,64,3); the encoder expects
+        # CHW. Keep the transpose as a view (no full-array copy) — the later
+        # per-nuisance filtering (self.images[keep]) materializes a contiguous
+        # subset, so we avoid duplicating the full 12.7GB array in RAM.
+        if images.ndim == 4 and images.shape[-1] == 3:
+            images = images.transpose(0, 3, 1, 2)
+        self.images = images
+        # F.one_hot / indexing require integer index tensors.
+        self.labels = dataset['labels'].astype(np.int64)
 
 
 

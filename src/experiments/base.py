@@ -1,6 +1,8 @@
 import os
+import random
 from datetime import datetime
 
+import numpy as np
 import wandb
 from pathlib import Path
 import torch
@@ -27,6 +29,12 @@ class BaseExperiment:
         self.parallel = parallel
         self.seed = seed
 
+        # Seed model init / training as well (the original code only seeds
+        # the data configuration via random.seed inside the loaders).
+        random.seed(seed)
+        np.random.seed(seed)
+        torch.manual_seed(seed)
+
         root = Path(__file__).resolve().parents[2]
         config_subpath = "-".join(config_file.split("-")[:2]) if \
             config_file.split("-")[1]=="all" else config_file.split("-")[0]
@@ -44,13 +52,16 @@ class BaseExperiment:
     #==========Setters==========
     def _set_wandb(self):
         now = datetime.now()
-        wandb.login(key=self.wandb_key)
+        offline = self.wandb_offline or \
+            os.environ.get("WANDB_MODE", "").lower() == "offline"
+        if not offline:
+            wandb.login(key=self.wandb_key)
         self.wandb_run = wandb.init(
             dir=self.results_dir,
             config=self.cfg,
             project='mcbm',
             group=self.experiment_name,
-            mode="offline" if self.wandb_offline else "online",
+            mode="offline" if offline else "online",
             name="{experiment_name}_{config_file}_{seed}_{date}".format(
                 experiment_name=self.experiment_name,
                 config_file=self.config_file,
