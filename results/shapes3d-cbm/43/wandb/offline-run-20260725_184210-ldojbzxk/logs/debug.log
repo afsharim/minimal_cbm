@@ -1,0 +1,12 @@
+2026-07-25 18:42:10,848 INFO    MainThread:105779 [wandb_setup.py:_flush():68] Current SDK version is 0.19.0
+2026-07-25 18:42:10,849 INFO    MainThread:105779 [wandb_setup.py:_flush():68] Configure stats pid to 105779
+2026-07-25 18:42:10,849 INFO    MainThread:105779 [wandb_setup.py:_flush():68] Loading settings from /research/hal-afsharim/.config/wandb/settings
+2026-07-25 18:42:10,849 INFO    MainThread:105779 [wandb_setup.py:_flush():68] Loading settings from /research/hal-afsharim/minimal_cbm/wandb/settings
+2026-07-25 18:42:10,850 INFO    MainThread:105779 [wandb_setup.py:_flush():68] Loading settings from environment variables
+2026-07-25 18:42:10,850 INFO    MainThread:105779 [wandb_init.py:_log_setup():528] Logging user logs to /research/hal-afsharim/minimal_cbm/results/shapes3d-cbm/43/wandb/offline-run-20260725_184210-ldojbzxk/logs/debug.log
+2026-07-25 18:42:10,850 INFO    MainThread:105779 [wandb_init.py:_log_setup():529] Logging internal logs to /research/hal-afsharim/minimal_cbm/results/shapes3d-cbm/43/wandb/offline-run-20260725_184210-ldojbzxk/logs/debug-internal.log
+2026-07-25 18:42:10,850 INFO    MainThread:105779 [wandb_init.py:init():639] calling init triggers
+2026-07-25 18:42:10,851 INFO    MainThread:105779 [wandb_init.py:init():645] wandb.init called with sweep_config: {}
+config: {'data': {'dataset': 'Shapes3D', 'filepath': '/research/hal-afsharim/minimal_cbm/data/shapes3d/3dshapes.h5', 'task': 'shape', 'concepts': ['scale', 'object_hue'], 'nuisances_task': ['floor_hue', 'wall_hue']}, 'model': {'model_type': 'cbm', 'encoder': {'arch': 'resnet20'}, 'hidden_dims_y': 64, 'var_z': 0, 'hidden_dims_c': None, 'beta': 1}, 'training': {'batch_size': 128, 'n_epochs': 50, 'save_epochs': 10, 'optimizer': {'optimizer': 'SGD', 'base_batch_size': 64, 'base_lr': 0.003, 'batch_size': 128, 'momentum': 0.9, 'weight_decay': 4e-05}, 'scheduler': {'gamma': 0.1, 'scheduler': 'StepLR', 'step_size': 20}}}
+2026-07-25 18:42:10,851 INFO    MainThread:105779 [wandb_init.py:init():683] wandb.init() called when a run is still active
+2026-07-25 18:50:26,114 WARNING MsgRouterThr:105779 [router.py:message_loop():75] message_loop has been closed
