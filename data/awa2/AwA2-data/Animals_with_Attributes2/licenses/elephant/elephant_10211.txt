@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : David Davies
+Photo URL    : https://www.flickr.com/photos/davies/15072883934/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 2 17:11:40 GMT+0100 2014
+Upload Date  : Sun Nov 2 19:04:54 GMT+0100 2014
+Geotag Info  : Latitude:-15.966404, Longitude:34.761343
+Views        : 195
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant at Majete wildlife reserve
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+malawi majete elephant 

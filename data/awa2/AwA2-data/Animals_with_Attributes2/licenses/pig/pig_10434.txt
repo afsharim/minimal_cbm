@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Aleksander Dragnes
+Photo URL    : https://www.flickr.com/photos/adragnes/1163869198/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 14 16:54:04 GMT+0200 2007
+Upload Date  : Sat Aug 18 23:40:14 GMT+0200 2007
+Geotag Info  : Latitude:46.224027, Longitude:24.793739
+Views        : 7,133
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Pigs
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+2007-07-14 Sighişoara Area, Transylvania, Romania: Pigs and the one sheep that considers itself a pig.
+
+
++--------+
+|  TAGS  |
++--------+
+Romania Transylvania Sighişoara pig 

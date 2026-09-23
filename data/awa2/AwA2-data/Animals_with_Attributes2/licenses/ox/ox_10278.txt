@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : D H Wright
+Photo URL    : https://www.flickr.com/photos/dhwright/1385030871/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Nov 4 15:38:41 GMT+0100 2004
+Upload Date  : Sat Sep 15 11:38:16 GMT+0200 2007
+Geotag Info  : Latitude:53.680543, Longitude:-0.502452
+Views        : 544
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Heelan Coo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This fine specimen is part of the Highland Cattle fold at South Ferriby Hall, North Lincolnshire.
+
+
++--------+
+|  TAGS  |
++--------+
+"Highland Cattle" "South Ferriby" "North Lincolnshire" 

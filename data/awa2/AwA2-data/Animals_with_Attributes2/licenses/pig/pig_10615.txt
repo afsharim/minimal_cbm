@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tim Geers
+Photo URL    : https://www.flickr.com/photos/timypenburg/5378570040/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 22 17:32:48 GMT+0100 2011
+Upload Date  : Sat Jan 22 19:12:13 GMT+0100 2011
+Geotag Info  : Latitude:52.121879, Longitude:4.496970
+Views        : 5,053
+Comments     : 32
+
+
++---------+
+|  TITLE  |
++---------+
+party pigs (71/365)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+press: L
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

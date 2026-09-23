@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : twid
+Photo URL    : https://www.flickr.com/photos/twid/2816649250/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 31 16:23:52 GMT+0200 2008
+Upload Date  : Mon Sep 1 06:02:10 GMT+0200 2008
+Geotag Info  : Latitude:37.753398, Longitude:-122.150413
+Views        : 296
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephants
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+oaklandzoo zoo california elephants 

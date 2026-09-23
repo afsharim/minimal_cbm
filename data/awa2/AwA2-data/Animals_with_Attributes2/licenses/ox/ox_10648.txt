@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : blu_pineappl3
+Photo URL    : https://www.flickr.com/photos/blu_pineappl3/8704323564/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 2 02:13:24 GMT+0200 2013
+Upload Date  : Fri May 3 09:23:41 GMT+0200 2013
+Geotag Info  : Latitude:38.334149, Longitude:-122.014610
+Views        : 207
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

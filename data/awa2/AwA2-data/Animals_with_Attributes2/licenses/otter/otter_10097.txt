@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Elery S.Oxford
+Photo URL    : https://www.flickr.com/photos/eleryoxford/1849206495/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Nov 2 20:20:27 GMT+0100 2007
+Upload Date  : Sun Nov 4 03:05:41 GMT+0100 2007
+Views        : 125
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+hadnt otter stare
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Cheryl Reynolds, Worth a Dam
+Photo URL    : https://commons.wikimedia.org/wiki/File:Baby_beaver_nibbles_some_food_in_Martinez_June_2010.jpg 
+License      : Creative Commons (https://en.wikipedia.org/wiki/en:Creative_Commons) Attribution-Share Alike 3.0 Unported (//creativecommons.org/licenses/by-sa/3.0/deed.en)
+Date         : 2010-06

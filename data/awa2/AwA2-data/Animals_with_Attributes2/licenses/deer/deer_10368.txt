@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : dbaron
+Photo URL    : https://www.flickr.com/photos/dbaron/2687727509/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 20 22:13:02 GMT+0200 2008
+Upload Date  : Mon Jul 21 08:39:24 GMT+0200 2008
+Geotag Info  : Latitude:37.996953, Longitude:-123.019120
+Views        : 1,080
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Deer near the ranger residences near the Point Reyes Lighthouse.  (dsc06864)
+
+
++--------+
+|  TAGS  |
++--------+
+USA California "Point Reyes" "Point Reyes National Seashore" deer geotagged geo:lat=37.996953 geo:lon=-123.019120 "Odocoileus hemionus" Odocoileus "O. hemionus" "Mule Deer" 

@@ -1,0 +1,39 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : K.A_photography
+Photo URL    : https://www.flickr.com/photos/hummergoldcost/5063272305/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Oct 4 16:22:32 GMT+0200 2010
+Upload Date  : Sat Oct 9 03:04:58 GMT+0200 2010
+Geotag Info  : Latitude:29.278014, Longitude:48.051774
+Views        : 491
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+cat
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+NAME: basbos
+BREED: persian
+AGE: 7 months
+GENDER: male
+JOB: play
+
+
++--------+
+|  TAGS  |
++--------+
+cat ball armorking eat look tiger carpet kuwait q8 nmr basbos k|a ashkanani room ears gray tin mine kitten pets animals gato 

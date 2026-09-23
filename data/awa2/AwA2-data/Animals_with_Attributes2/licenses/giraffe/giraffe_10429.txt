@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : dougwoods
+Photo URL    : https://www.flickr.com/photos/deerwooduk/2832792280/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 22 10:01:11 GMT+0200 2008
+Upload Date  : Sat Sep 6 10:19:58 GMT+0200 2008
+Geotag Info  : Latitude:-3.288598, Longitude:38.630676
+Views        : 4,918
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A giraffe spotted while on safari in Kenya Tsavo East national park
+
+
++--------+
+|  TAGS  |
++--------+
+Kenya safari "tsavo east" wildlife giraffe 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sh0dan
+Photo URL    : https://www.flickr.com/photos/klauspost/92793341/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 1 14:23:26 GMT+0200 2005
+Upload Date  : Sun Jan 29 23:54:32 GMT+0100 2006
+Views        : 102
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hippopotamus
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Zoo animals 

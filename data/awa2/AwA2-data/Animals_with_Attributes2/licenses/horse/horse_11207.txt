@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jeffrey Beall
+Photo URL    : https://www.flickr.com/photos/denverjeffrey/8847132349/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 25 11:32:48 GMT+0200 2013
+Upload Date  : Mon May 27 01:38:15 GMT+0200 2013
+Views        : 1,860
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Miniature Horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A miniature horse is a small horse.
+
+
++--------+
+|  TAGS  |
++--------+
+miniature horse colorado equine 

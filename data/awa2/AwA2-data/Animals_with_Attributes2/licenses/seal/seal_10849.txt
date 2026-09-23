@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Percita
+Photo URL    : https://www.flickr.com/photos/dittmars/8070281792/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Oct 4 11:48:54 GMT+0200 2012
+Upload Date  : Tue Oct 9 12:35:38 GMT+0200 2012
+Geotag Info  : Latitude:-37.075144, Longitude:149.906032
+Views        : 1,317
+Comments     : 15
+
+
++---------+
+|  TITLE  |
++---------+
+Seals on the rocks
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+We headed out of Snug Harbour in Eden in search of whales - The seals were the first thing we saw.
+
+
++--------+
+|  TAGS  |
++--------+
+Eden Seals 

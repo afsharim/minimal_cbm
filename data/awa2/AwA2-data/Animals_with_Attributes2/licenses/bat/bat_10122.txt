@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Stevie-B
+Photo URL    : https://www.flickr.com/photos/steve_brace/137415421/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 29 20:45:22 GMT+0200 2006
+Upload Date  : Sun Apr 30 14:09:25 GMT+0200 2006
+Geotag Info  : Latitude:52.202346, Longitude:-2.453556
+Views        : 682
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Ken
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+... And now he's ready to go.
+
+
++--------+
+|  TAGS  |
++--------+
+pipistrelle bat 

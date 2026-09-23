@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : N. Feans
+Photo URL    : https://www.flickr.com/photos/endogamia/3958511584/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Sep 7 10:21:24 GMT+0200 2009
+Upload Date  : Sun Sep 27 12:18:22 GMT+0200 2009
+Geotag Info  : Latitude:-2.008339, Longitude:34.716438
+Views        : 4,459
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Hippo Pool
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Serengeti National Park (Tanzania)
+
+
++--------+
+|  TAGS  |
++--------+
+tanzania hippo hippopotamus hipo hipopotamo serengeti 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Holger Pontius
+Photo URL    : https://www.flickr.com/photos/dpkz/8564013035/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 10 12:08:13 GMT+0100 2013
+Upload Date  : Sun Mar 17 13:20:35 GMT+0100 2013
+Geotag Info  : Latitude:51.673593, Longitude:5.998288
+Views        : 791
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Schwein
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Schwein 

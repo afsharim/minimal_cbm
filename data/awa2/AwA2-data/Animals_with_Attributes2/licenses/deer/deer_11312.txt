@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mpeirce
+Photo URL    : https://www.flickr.com/photos/michaelpeirce/22961418710/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Nov 23 18:34:34 GMT+0100 2015
+Upload Date  : Mon Nov 23 23:12:38 GMT+0100 2015
+Geotag Info  : Latitude:40.187750, Longitude:-82.986259
+Views        : 398
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Whitetail Buck
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This buck wandered through our backyard this evening just before sundown.
+
+
++--------+
+|  TAGS  |
++--------+
+whitetail deer buck 

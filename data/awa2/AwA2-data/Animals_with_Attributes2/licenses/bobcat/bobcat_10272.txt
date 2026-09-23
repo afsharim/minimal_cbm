@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Rennett Stowe
+Photo URL    : https://www.flickr.com/photos/tomsaint/3022742126/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Nov 11 09:21:39 GMT+0100 2008
+Upload Date  : Tue Nov 11 18:21:39 GMT+0100 2008
+Geotag Info  : Latitude:37.739286, Longitude:-119.562020
+Views        : 1,008
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bobcat
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Large bobcat in Yosemite National Park
+
+
++--------+
+|  TAGS  |
++--------+
+bobcat yosemite "yosemite national park" 

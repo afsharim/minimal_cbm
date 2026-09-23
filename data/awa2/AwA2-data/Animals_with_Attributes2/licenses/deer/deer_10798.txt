@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : xor104
+Photo URL    : https://www.flickr.com/photos/xor104/5738740267/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 15 03:57:18 GMT+0200 2011
+Upload Date  : Fri May 20 08:26:52 GMT+0200 2011
+Views        : 50
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC00523
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Yosemite deer 

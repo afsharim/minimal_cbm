@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : International Livestock Research Institute
+Photo URL    : https://www.flickr.com/photos/ilri/6305604838/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Sep 7 01:09:14 GMT+0200 2011
+Upload Date  : Wed Nov 2 10:35:44 GMT+0100 2011
+Geotag Info  : Latitude:26.313112, Longitude:94.108886
+Views        : 1,287
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+ILRI pig production project in Nagaland
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+ILRI pig production project in the state of Nagaland, in northeast India, 2011 (photo credit: ILRI/Ram Deka).
+
+
++--------+
+|  TAGS  |
++--------+
+"Ram Deka" Nagaland Pigs ILRI India 

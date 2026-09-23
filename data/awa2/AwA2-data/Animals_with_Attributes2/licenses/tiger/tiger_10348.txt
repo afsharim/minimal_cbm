@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : B_cool
+Photo URL    : https://www.flickr.com/photos/bengchye_loo/864254125/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 21 23:43:39 GMT+0200 2007
+Upload Date  : Sat Jul 21 17:43:39 GMT+0200 2007
+Views        : 3,823
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger in the water
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Malayan tiger" 

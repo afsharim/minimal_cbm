@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Qualit-E
+Photo URL    : https://commons.wikimedia.org/wiki/File:BeardedCollie.jpg
+License      : public domain
+Date         : 2007-12-20

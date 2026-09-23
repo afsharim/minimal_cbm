@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : johnmuk
+Photo URL    : https://www.flickr.com/photos/jm999uk/5628653497/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 17 16:01:03 GMT+0200 2011
+Upload Date  : Mon Apr 18 00:11:55 GMT+0200 2011
+Views        : 37
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Pig Facial
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Taken at Shugborough on 17th April, 2011
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

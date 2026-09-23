@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : richardrichard
+Photo URL    : https://www.flickr.com/photos/richardtoller/2574710272/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 11 17:58:37 GMT+0200 2008
+Upload Date  : Fri Jun 13 04:57:27 GMT+0200 2008
+Views        : 161
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_7125
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Moose, Alaskan Wildlife Refuge
+
+
++--------+
+|  TAGS  |
++--------+
+Alaska moose 

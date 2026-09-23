@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : yomanimus
+Photo URL    : https://www.flickr.com/photos/yomanimus/12580716225/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 29 16:54:04 GMT+0200 2007
+Upload Date  : Mon Feb 17 05:13:42 GMT+0100 2014
+Views        : 200
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+1.4 zebras
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zebra zoo Philadelphia mammal "plains zebra" animal 

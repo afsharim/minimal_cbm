@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : AfrikaForce
+Photo URL    : https://www.flickr.com/photos/afrikaforce/5155384054/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 7 21:01:41 GMT+0100 2010
+Upload Date  : Sun Nov 7 20:01:41 GMT+0100 2010
+Geotag Info  : Latitude:4.358906, Longitude:18.555049
+Views        : 4,829
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Unnamed - Chimpanzee - Central African Republic
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Sex: Male
+Age: 3 years (approx.)
+Location: Bohali Falls Hotel (approx 100 km from Bangui)
+
+
++--------+
+|  TAGS  |
++--------+
+Chimpanzee "Central African Republic" Africa Conservation endangered 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : VSmithUK
+Photo URL    : https://www.flickr.com/photos/vsmithuk/2874420099/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 17 08:22:04 GMT+0200 2008
+Upload Date  : Sun Sep 21 12:29:12 GMT+0200 2008
+Geotag Info  : Latitude:-28.370331, Longitude:31.180143
+Views        : 177
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+African Buffalo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+<i>Syncerus caffer</i>
+
+
++--------+
+|  TAGS  |
++--------+
+"South Africa" Hluhluwe Kwazulu-Natal Mammal _Favorite_ Life 

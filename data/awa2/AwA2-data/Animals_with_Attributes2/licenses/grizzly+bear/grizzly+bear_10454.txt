@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Shawn McCready
+Photo URL    : https://www.flickr.com/photos/shawnmccready/20943136919/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 22 15:05:59 GMT+0200 2015
+Upload Date  : Fri Sep 4 07:39:06 GMT+0200 2015
+Views        : 225
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Grizzly Bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Taken in BC near Golden
+
+
++--------+
+|  TAGS  |
++--------+
+Grizzly Bear BC Nature British Columbia Golden Animal Wild 

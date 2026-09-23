@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Didier Descouens
+Photo URL    : https://commons.wikimedia.org/wiki/File:Talpa_europaea_MHNT.jpg
+License      : Creative Commons (https://en.wikipedia.org/wiki/en:Creative_Commons) Attribution-Share Alike 4.0 International (//creativecommons.org/licenses/by-sa/4.0/deed.en)
+Date         : 2012-12-15

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Cedar Summit Farm
+Photo URL    : https://www.flickr.com/photos/cedarsummitfarm/8717009443/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Apr 30 09:44:17 GMT+0200 2013
+Upload Date  : Tue May 7 18:23:00 GMT+0200 2013
+Views        : 482
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+cows 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : timo_w2s
+Photo URL    : https://www.flickr.com/photos/timo_w2s/5743964459/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 21 20:01:44 GMT+0200 2011
+Upload Date  : Sun May 22 00:38:11 GMT+0200 2011
+Geotag Info  : Latitude:51.622706, Longitude:-0.593519
+Views        : 889
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horses
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Friendly horses in a field in Chalfont St Giles, Bucks, UK
+
+
++--------+
+|  TAGS  |
++--------+
+horse field "chalfont st giles" bucks uk 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mihai Bojin
+Photo URL    : https://www.flickr.com/photos/mihaibojin/2855928910/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 13 10:33:51 GMT+0200 2008
+Upload Date  : Sun Sep 14 12:54:39 GMT+0200 2008
+Geotag Info  : Latitude:44.523228, Longitude:26.107378
+Views        : 967
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lynx
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Resting lynx... not much to do in a cage
+
+
++--------+
+|  TAGS  |
++--------+
+d40x55-200mm VR lynx resting cage zoo bucharest nikon "nikon AF-S 55-200mm VR" 

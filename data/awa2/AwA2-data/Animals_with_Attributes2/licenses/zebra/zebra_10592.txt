@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/503683094/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Apr 1 16:16:01 GMT+0200 2005
+Upload Date  : Fri May 18 22:49:41 GMT+0200 2007
+Geotag Info  : Latitude:-1.535155, Longitude:35.469360
+Views        : 13,945
+Comments     : 8
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra grazing
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Zebra grazing the grass of the plains of the Masai Mara, Kenya
+
+
++--------+
+|  TAGS  |
++--------+
+kenya safari "masai mara" zebra grazing PhotoFaceOffWinner PFOSilver mammal equine equid horse 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Out at Bob's
+Photo URL    : https://www.flickr.com/photos/outatbobs/3730521749/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 17 18:51:00 GMT+0200 2009
+Upload Date  : Sat Jul 18 04:53:14 GMT+0200 2009
+Views        : 90
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Mr. Friend
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Friend in the yard a few feeet from me.
+
+
++--------+
+|  TAGS  |
++--------+
+deer nature wildlife 

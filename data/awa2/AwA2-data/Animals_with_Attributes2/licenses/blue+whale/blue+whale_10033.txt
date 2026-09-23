@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : indigo_iggy
+Photo URL    : https://www.flickr.com/photos/44235769@N03/4788653241/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 12 09:45:55 GMT+0200 2010
+Upload Date  : Tue Jul 13 06:33:39 GMT+0200 2010
+Views        : 254
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Blue Whale Sighting
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+No, It's not a UFO.
+
+
++--------+
+|  TAGS  |
++--------+
+"Balaenoptera musculus" 

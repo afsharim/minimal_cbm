@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : pareeerica
+Photo URL    : https://www.flickr.com/photos/pareeerica/3577223159/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jan 1 01:50:42 GMT+0100 2009
+Upload Date  : Sat May 5 08:03:16 GMT+0200 2007
+Views        : 426
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+* Giraffe *
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This was taken at Taronga Park Zoo (Sydney, NSW, Australia) 
+January 2009
+
+
++--------+
+|  TAGS  |
++--------+
+giraffe tarongaparkzoo zoo tarongapark Sydney NSW Australia cc creative_commons 

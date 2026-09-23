@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : hile
+Photo URL    : https://www.flickr.com/photos/hile/11859690944/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jan 8 23:13:21 GMT+0100 2014
+Upload Date  : Thu Jan 9 21:14:12 GMT+0100 2014
+Geotag Info  : Latitude:60.630200, Longitude:24.843650
+Views        : 102
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+WP_20140108_026
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"chihuahua dog" chihuahua dog 

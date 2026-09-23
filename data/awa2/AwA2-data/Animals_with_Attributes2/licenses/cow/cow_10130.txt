@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Clownhouse III
+Photo URL    : https://www.flickr.com/photos/clownhousethethird/2950008610/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Oct 17 15:08:35 GMT+0200 2008
+Upload Date  : Fri Oct 17 20:01:21 GMT+0200 2008
+Geotag Info  : Latitude:52.129378, Longitude:5.735721
+Views        : 333
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Clown Cow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Is always &quot;wacky&quot;. Has no friends. Will sell millions of videos to stupid people.
+
+
++--------+
+|  TAGS  |
++--------+
+cows cow moo 

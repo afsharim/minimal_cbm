@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Marcin Chady
+Photo URL    : https://www.flickr.com/photos/marcinchady/16654732619/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Mar 16 12:37:32 GMT+0100 2015
+Upload Date  : Tue Mar 17 06:18:21 GMT+0100 2015
+Geotag Info  : Latitude:49.091946, Longitude:-122.485445
+Views        : 355
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hippo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Hipopotam
+
+
++--------+
+|  TAGS  |
++--------+
+head 

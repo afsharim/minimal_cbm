@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Katie (alaskahokie)
+Photo URL    : https://www.flickr.com/photos/alaskahokie/13957882002/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 12 20:14:40 GMT+0200 2010
+Upload Date  : Mon Apr 21 23:54:58 GMT+0200 2014
+Views        : 15
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+2010_Moose
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

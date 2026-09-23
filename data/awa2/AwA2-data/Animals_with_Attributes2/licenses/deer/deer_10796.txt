@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Cats 99
+Photo URL    : https://www.flickr.com/photos/franwylie/5601561748/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Apr 8 08:31:33 GMT+0200 2011
+Upload Date  : Fri Apr 8 22:41:24 GMT+0200 2011
+Views        : 29
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_3767
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+spring deer 

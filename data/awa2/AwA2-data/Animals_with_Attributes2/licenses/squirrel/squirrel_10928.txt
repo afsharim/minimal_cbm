@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : nic_r
+Photo URL    : https://www.flickr.com/photos/somethingness/8270693268/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Dec 13 15:40:20 GMT+0100 2012
+Upload Date  : Thu Dec 13 20:39:33 GMT+0100 2012
+Geotag Info  : Latitude:52.452661, Longitude:-1.902914
+Views        : 927
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel "Grey squirrel" rodent standing tree park grass frozen winter 

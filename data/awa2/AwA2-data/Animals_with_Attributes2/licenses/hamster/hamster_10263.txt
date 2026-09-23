@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : rharrison
+Photo URL    : https://www.flickr.com/photos/rharrison/4128176558/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 21 01:46:53 GMT+0200 2009
+Upload Date  : Mon Nov 23 15:04:04 GMT+0100 2009
+Views        : 979
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hamster in my pocket
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+My sister thought it would be fun to put her hamster Charlie in my pocket.  I'll admit, it was pretty darn cute.
+
+
++--------+
+|  TAGS  |
++--------+
+"North Carolina" "Wake County" Raleigh hamster Charlie "Alyson Pond" woe:id=55989706 

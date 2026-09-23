@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : NullH
+Photo URL    : https://www.flickr.com/photos/red-alliance/113069428/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Mar 15 23:49:58 GMT+0100 2006
+Upload Date  : Thu Mar 16 00:49:58 GMT+0100 2006
+Views        : 7,381
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Hamster Overlord
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+He may be small now, but Cerberus your Dwarf hamster master will rise and control all! I suppose three headed dogs get boring after a while...
+
+
++--------+
+|  TAGS  |
++--------+
+Hamster 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : svenstorm
+Photo URL    : https://www.flickr.com/photos/svenstorm/3961464144/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 26 15:25:09 GMT+0200 2009
+Upload Date  : Mon Sep 28 05:17:32 GMT+0200 2009
+Views        : 58
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephants
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+elephants "zoo animals" "roger williams zoo" "african animals" 

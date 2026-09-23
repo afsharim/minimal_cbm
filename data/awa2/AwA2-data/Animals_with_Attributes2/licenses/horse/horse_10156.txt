@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : macinate
+Photo URL    : https://www.flickr.com/photos/macinate/2303544973/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 2 13:32:02 GMT+0100 2008
+Upload Date  : Sun Mar 2 10:49:37 GMT+0100 2008
+Geotag Info  : Latitude:-37.810555, Longitude:144.975559
+Views        : 321
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cart horses
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horses melbourne 

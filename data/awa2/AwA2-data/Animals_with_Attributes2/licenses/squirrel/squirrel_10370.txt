@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Pedro Nuno Caetano
+Photo URL    : https://www.flickr.com/photos/pedrocaetano/4547770122/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 12 00:20:56 GMT+0200 2009
+Upload Date  : Sat Apr 24 10:28:31 GMT+0200 2010
+Geotag Info  : Latitude:51.508114, Longitude:-0.173388
+Views        : 321
+Comments     : 80
+
+
++---------+
+|  TITLE  |
++---------+
+Little people VI
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+London "Kensington Gardens" garden squirrel 

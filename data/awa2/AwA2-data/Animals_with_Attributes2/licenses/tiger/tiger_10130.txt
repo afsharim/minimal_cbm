@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mathew Knott
+Photo URL    : https://www.flickr.com/photos/mknott/1378924018/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Sep 14 19:08:55 GMT+0200 2007
+Upload Date  : Fri Sep 14 11:08:55 GMT+0200 2007
+Geotag Info  : Latitude:27.741884, Longitude:84.116821
+Views        : 1,544
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hey Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Bengal Tiger, Nepal, September 2007
+
+
++--------+
+|  TAGS  |
++--------+
+nepal bengal tiger 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Greg Walters
+Photo URL    : https://www.flickr.com/photos/gregwalters/3632164753/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 4 16:05:25 GMT+0200 2009
+Upload Date  : Tue Jun 16 17:59:29 GMT+0200 2009
+Views        : 49
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+hand
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horse 

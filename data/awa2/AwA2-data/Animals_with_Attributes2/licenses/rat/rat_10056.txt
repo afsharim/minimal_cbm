@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mattymatt
+Photo URL    : https://www.flickr.com/photos/mattymatt/3666990667/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 27 20:53:21 GMT+0200 2009
+Upload Date  : Sun Jun 28 10:54:19 GMT+0200 2009
+Views        : 72
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Top o' the Mornin'
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+rats 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Liam Quinn
+Photo URL    : https://www.flickr.com/photos/liamq/6058757893/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jan 24 10:47:13 GMT+0100 2011
+Upload Date  : Fri Aug 19 16:32:17 GMT+0200 2011
+Geotag Info  : Latitude:-65.090633, Longitude:-64.032050
+Views        : 1,547
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Leopard Seal in Pléneau Bay, Antarctica
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Leopard Seal" seal "Hydrurga leptonyx" wild wildlife "Pléneau Bay" Antarctica 

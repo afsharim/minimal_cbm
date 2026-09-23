@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : synspectrum
+Photo URL    : https://www.flickr.com/photos/epector/22262128534/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 8 10:20:16 GMT+0100 2015
+Upload Date  : Mon Nov 9 02:13:06 GMT+0100 2015
+Views        : 21
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Oakhurst FP, Kane CO
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

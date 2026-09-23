@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : lambbutter
+Photo URL    : https://www.flickr.com/photos/92822098@N00/614314966/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 21 06:08:10 GMT+0200 2007
+Upload Date  : Sun Jun 24 21:23:04 GMT+0200 2007
+Views        : 7
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+otters
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

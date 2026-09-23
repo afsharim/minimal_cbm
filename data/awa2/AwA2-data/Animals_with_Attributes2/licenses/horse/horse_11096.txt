@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : evelynbelgium
+Photo URL    : https://www.flickr.com/photos/evelyn_vancauwenberghe/2802898538/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Aug 26 10:53:42 GMT+0200 2008
+Upload Date  : Wed Aug 27 12:10:57 GMT+0200 2008
+Views        : 689
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_6108
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Blacksranch
+Quarter horses
+
+
++--------+
+|  TAGS  |
++--------+
+Blacksranch Quarter horse 

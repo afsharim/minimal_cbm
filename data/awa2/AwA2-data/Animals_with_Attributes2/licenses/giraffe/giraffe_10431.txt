@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : VSmithUK
+Photo URL    : https://www.flickr.com/photos/vsmithuk/2874466151/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 17 15:04:51 GMT+0200 2008
+Upload Date  : Sun Sep 21 12:58:35 GMT+0200 2008
+Geotag Info  : Latitude:-28.370331, Longitude:31.180143
+Views        : 98
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+<i>Giraffa camelopardalis</i>
+
+
++--------+
+|  TAGS  |
++--------+
+"South Africa" Hluhluwe Kwazulu-Natal Mammal _Favorite_ Life 

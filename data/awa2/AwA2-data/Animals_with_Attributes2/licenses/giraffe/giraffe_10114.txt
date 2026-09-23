@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Wonder-Strike
+Photo URL    : https://www.flickr.com/photos/wonder-strike/15981286046/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 22 14:53:32 GMT+0200 2012
+Upload Date  : Fri Dec 12 23:04:38 GMT+0100 2014
+Geotag Info  : Latitude:51.773363, Longitude:-1.656062
+Views        : 11
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cotswold Wildlife Park
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Giraffe
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

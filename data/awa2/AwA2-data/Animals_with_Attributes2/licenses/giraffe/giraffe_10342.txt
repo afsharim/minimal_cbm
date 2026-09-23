@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : hans s
+Photo URL    : https://www.flickr.com/photos/archeon/210707164/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 23 12:07:40 GMT+0200 2006
+Upload Date  : Wed Aug 9 07:14:21 GMT+0200 2006
+Geotag Info  : Latitude:47.195544, Longitude:-0.289421
+Views        : 1,059
+Comments     : 8
+
+
++---------+
+|  TITLE  |
++---------+
+giraffe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+in the <a href="http://www.zoodoue.fr/" rel="nofollow">zoo de Doue-la-Fontaine</a>
+
+
++--------+
+|  TAGS  |
++--------+
+holiday 2006 france zoo giraffe 

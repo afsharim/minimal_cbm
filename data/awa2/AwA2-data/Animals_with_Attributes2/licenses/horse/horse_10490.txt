@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ian.anderson12
+Photo URL    : https://www.flickr.com/photos/129785049@N07/16234263462/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jan 2 10:26:31 GMT+0100 2015
+Upload Date  : Fri Jan 9 04:34:33 GMT+0100 2015
+Views        : 825
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horse Meeting
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horse horses 

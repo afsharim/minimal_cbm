@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : blieusong
+Photo URL    : https://www.flickr.com/photos/blieusong/7233985512/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jan 23 11:03:40 GMT+0100 2012
+Upload Date  : Sun May 20 16:59:57 GMT+0200 2012
+Views        : 1,431
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe Sitting
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A giraffe sitting on the grass. Taken in Masai Mara national park, southwest Kenya.
+
+
++--------+
+|  TAGS  |
++--------+
+Kenya "Masai Mara" safari 

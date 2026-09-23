@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : rengber
+Photo URL    : https://www.flickr.com/photos/rengber/8632628241/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 7 02:33:35 GMT+0200 2013
+Upload Date  : Tue Apr 9 04:22:11 GMT+0200 2013
+Views        : 561
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Raccoon
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Raccoon "Procyon lotor" 

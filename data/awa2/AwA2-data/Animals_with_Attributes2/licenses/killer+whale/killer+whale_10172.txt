@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Willem van Bergen
+Photo URL    : https://www.flickr.com/photos/willemvanbergen/280239707/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Oct 26 22:31:24 GMT+0200 2006
+Upload Date  : Fri Oct 27 03:08:55 GMT+0200 2006
+Geotag Info  : Latitude:32.763964, Longitude:-117.220687
+Views        : 608
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Orca jump
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"San Diego" SeaWorld California USA pool orca jump splash 

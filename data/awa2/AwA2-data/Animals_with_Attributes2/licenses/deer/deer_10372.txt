@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : devopstom
+Photo URL    : https://www.flickr.com/photos/tom_twinhelix/2739210831/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 3 13:10:56 GMT+0200 2007
+Upload Date  : Thu Aug 7 01:11:47 GMT+0200 2008
+Geotag Info  : Latitude:52.377721, Longitude:-2.288331
+Views        : 42
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+wmsp 

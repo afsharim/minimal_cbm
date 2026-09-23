@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : NOAA Photo Library
+Photo URL    : https://www.flickr.com/photos/noaaphotolib/5036399325/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Sep 29 14:16:02 GMT+0200 2010
+Upload Date  : Wed Sep 29 20:26:44 GMT+0200 2010
+Views        : 2,393
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+anim1102
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A flotilla of killer whales or Orca on review. 
+
+Credit: Courtesy of Dr. Brandon Southall, NMFS/OPR.
+
+
++--------+
+|  TAGS  |
++--------+
+NOAA whales orca 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : magnethy
+Photo URL    : https://www.flickr.com/photos/magnethy/2779016506/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 29 11:13:01 GMT+0200 2008
+Upload Date  : Tue Aug 19 20:42:21 GMT+0200 2008
+Geotag Info  : Latitude:70.358739, Longitude:31.051654
+Views        : 719
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+More sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+sheep 

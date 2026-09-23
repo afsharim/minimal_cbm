@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : hobgadlng
+Photo URL    : https://www.flickr.com/photos/hobgadlng/7671119078/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 1 13:11:12 GMT+0200 2012
+Upload Date  : Sun Jul 29 22:46:00 GMT+0200 2012
+Geotag Info  : Latitude:-18.930807, Longitude:14.791889
+Views        : 135
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant Drinking
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Namibia animal elephant 

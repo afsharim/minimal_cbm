@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : grahameb
+Photo URL    : https://www.flickr.com/photos/grahameb/4059192671/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 3 11:19:00 GMT+0200 2009
+Upload Date  : Sat Oct 31 02:58:12 GMT+0100 2009
+Views        : 509
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Definitely practising for a role in an upcoming Narnia movie.
+
+
++--------+
+|  TAGS  |
++--------+
+otter perth zoo "perth zoo" 

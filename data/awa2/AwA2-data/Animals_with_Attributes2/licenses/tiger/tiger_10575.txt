@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : to.wi
+Photo URL    : https://www.flickr.com/photos/w-tommerdich/4419849543/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 27 10:50:22 GMT+0100 2010
+Upload Date  : Tue Mar 9 19:37:32 GMT+0100 2010
+Geotag Info  : Latitude:48.806884, Longitude:9.201028
+Views        : 9,967
+Comments     : 12
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Tiger beim nervösen Spaziergang durch das Gehege in der Wilhelma in Stuttgart.
+
+
++--------+
+|  TAGS  |
++--------+
+wilhelma stuttgart to.wi tierfoto animal tiger 

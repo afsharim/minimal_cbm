@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : micklpickl
+Photo URL    : https://www.flickr.com/photos/micklpickl/2751255553/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 9 18:22:45 GMT+0200 2008
+Upload Date  : Mon Aug 11 03:58:47 GMT+0200 2008
+Geotag Info  : Latitude:30.382057, Longitude:-97.753150
+Views        : 818
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+City Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+White-tailed deer grazing on a street in Austin's Northwest Hills.
+
+
++--------+
+|  TAGS  |
++--------+
+"white-tailed deer" "urban wildlife" 

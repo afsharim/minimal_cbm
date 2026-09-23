@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : James Preston
+Photo URL    : https://www.flickr.com/photos/jamespreston/5351274275/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Nov 29 12:51:10 GMT+0100 2010
+Upload Date  : Thu Jan 13 13:13:27 GMT+0100 2011
+Geotag Info  : Latitude:19.201025, Longitude:98.881416
+Views        : 4,107
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant, Thai Elephant Home
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Picture taken at the Thai Elephant Home (<a href="http://www.thaielephanthome.com/" rel="nofollow">www.thaielephanthome.com/</a>).
+
+
++--------+
+|  TAGS  |
++--------+
+thailand chiangmai elephant 

@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Peter Halasz (User Pengo)
+Photo URL    : https://commons.wikimedia.org/wiki/File:Little_Red_Flying-fox,_Pteropus_scapulatus_Pengo.jpg
+License      : Creative Commons (https://en.wikipedia.org/wiki/en:Creative_Commons) 2.5 Generic (//creativecommons.org/licenses/by-sa/2.5/deed.en)
+Date         : 

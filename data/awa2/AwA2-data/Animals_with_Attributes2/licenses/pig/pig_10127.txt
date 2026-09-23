@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : herefordcat
+Photo URL    : https://www.flickr.com/photos/wiltscat/1506771932/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 7 15:12:50 GMT+0200 2007
+Upload Date  : Sun Oct 7 17:23:18 GMT+0200 2007
+Geotag Info  : Latitude:51.158353, Longitude:-2.072811
+Views        : 400
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Ginger pig
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Piglet at the Ginger Piggery at Boton nr. Warminster
+
+
++--------+
+|  TAGS  |
++--------+
+pig ginger 

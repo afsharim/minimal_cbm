@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : liftarn
+Photo URL    : https://www.flickr.com/photos/liftarn/25913458502/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 19 17:13:19 GMT+0100 2016
+Upload Date  : Thu Mar 24 17:09:21 GMT+0100 2016
+Views        : 5
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSCN0329
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+rats 

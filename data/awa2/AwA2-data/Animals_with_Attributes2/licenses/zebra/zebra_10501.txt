@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : The Man in Blue
+Photo URL    : https://www.flickr.com/photos/themaninblue/3472559923/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Mar 27 20:18:25 GMT+0100 2009
+Upload Date  : Sat Apr 25 14:33:56 GMT+0200 2009
+Views        : 109
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra | arbeZ
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Holiday Europe Germany Berlin Zoo Zebra 

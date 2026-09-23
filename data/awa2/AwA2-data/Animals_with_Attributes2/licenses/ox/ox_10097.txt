@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Michael Zero Mayer
+Photo URL    : https://www.flickr.com/photos/michael_mayer/11309852624/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Nov 27 17:20:04 GMT+0100 2013
+Upload Date  : Tue Dec 10 17:25:15 GMT+0100 2013
+Geotag Info  : Latitude:-33.562117, Longitude:25.808338
+Views        : 144
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Buffalo / Addo Elephant Park / South Africa
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

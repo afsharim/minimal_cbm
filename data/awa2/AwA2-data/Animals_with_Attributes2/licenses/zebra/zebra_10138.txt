@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bobosh_t
+Photo URL    : https://www.flickr.com/photos/frted/7182543774/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri May 11 19:24:56 GMT+0200 2012
+Upload Date  : Sat May 12 18:17:49 GMT+0200 2012
+Geotag Info  : Latitude:39.828610, Longitude:-81.742401
+Views        : 148
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_0209
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Grevy's Zebra
+
+
++--------+
+|  TAGS  |
++--------+
+"The Wilds" Grevy's Zebra 

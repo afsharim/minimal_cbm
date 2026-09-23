@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Seluryar
+Photo URL    : https://www.flickr.com/photos/cak757/14500024580/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 18 17:45:21 GMT+0200 2014
+Upload Date  : Sat Jul 19 00:02:33 GMT+0200 2014
+Geotag Info  : Latitude:41.078251, Longitude:-81.521011
+Views        : 2,103
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Seen in Downtown Akron Ohio from Spring Mist Farms in Broadview Heights Ohio
+
+
++--------+
+|  TAGS  |
++--------+
+farm animal akron ohio sheep Spring Mist Farms 

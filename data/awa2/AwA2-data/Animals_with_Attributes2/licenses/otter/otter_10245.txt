@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : rfduck
+Photo URL    : https://www.flickr.com/photos/rfduck/50608955/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 26 16:37:42 GMT+0200 1996
+Upload Date  : Sun Oct 9 01:37:42 GMT+0200 2005
+Geotag Info  : Latitude:44.616805, Longitude:-124.046405
+Views        : 235
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Up close and personal with an otter at the Oregon Coast Aquarium in Newport, Oregon.
+
+
++--------+
+|  TAGS  |
++--------+
+aquarium sealife oregoncoastaquarium newport newportoregon oregon otter otters 

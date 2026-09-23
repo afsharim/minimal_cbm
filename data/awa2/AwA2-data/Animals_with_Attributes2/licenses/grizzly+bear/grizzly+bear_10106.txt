@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mike Miley
+Photo URL    : https://www.flickr.com/photos/mike_miley/5943204171/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 29 19:21:41 GMT+0200 2011
+Upload Date  : Sat Jul 16 19:32:11 GMT+0200 2011
+Geotag Info  : Latitude:44.640000, Longitude:-110.881834
+Views        : 929
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+A Grizzly Bear in the Woods
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+ok. it isn't in the woods and I don't know what it does in the woods, but it's about to cross the street in front of us.
+
+
++--------+
+|  TAGS  |
++--------+
+@YellowstoneNPS bear grizzly rv vacation yellowstone "West Yellowstone" WY usa 100 

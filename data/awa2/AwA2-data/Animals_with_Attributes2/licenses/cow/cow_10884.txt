@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : vasile23
+Photo URL    : https://www.flickr.com/photos/vasile23/3528546033/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 2 09:46:40 GMT+0200 2009
+Upload Date  : Wed May 13 22:00:02 GMT+0200 2009
+Views        : 724
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+"I am too curious" ...
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+cow 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Dawn's spot
+Photo URL    : https://www.flickr.com/photos/dawnsmemories/8362327299/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jan 8 12:29:16 GMT+0100 2013
+Upload Date  : Wed Jan 9 02:35:54 GMT+0100 2013
+Views        : 15
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+POLARBEARDAYS2013
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Elements_Organizer_11 

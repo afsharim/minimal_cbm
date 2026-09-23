@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : hobgadlng
+Photo URL    : https://www.flickr.com/photos/hobgadlng/7766733520/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 19 07:14:45 GMT+0200 2012
+Upload Date  : Sun Aug 12 19:29:29 GMT+0200 2012
+Geotag Info  : Latitude:-17.789064, Longitude:25.192165
+Views        : 168
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Botswana Chobe animal elephant 

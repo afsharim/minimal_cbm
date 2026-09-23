@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : miragelin
+Photo URL    : https://www.flickr.com/photos/miragelin/1093691441/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 23 17:33:19 GMT+0200 2007
+Upload Date  : Sun Aug 12 18:22:43 GMT+0200 2007
+Geotag Info  : Latitude:46.022952, Longitude:7.750682
+Views        : 288
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Sheep Europe 

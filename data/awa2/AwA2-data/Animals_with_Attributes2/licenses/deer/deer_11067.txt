@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : wplynn
+Photo URL    : https://www.flickr.com/photos/warrenlynn/5903273639/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 3 14:24:56 GMT+0200 2011
+Upload Date  : Tue Jul 5 05:28:37 GMT+0200 2011
+Geotag Info  : Latitude:39.905874, Longitude:-86.015224
+Views        : 301
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+neighborhood fawn
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+New kid in the neighborhood
+
+
++--------+
+|  TAGS  |
++--------+
+deer baby fawn indianapolis indiana castleton 

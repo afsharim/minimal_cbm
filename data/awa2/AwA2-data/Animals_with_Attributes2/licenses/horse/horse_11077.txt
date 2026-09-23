@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Wolfweb
+Photo URL    : https://www.flickr.com/photos/wolfweb/38496128/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri May 27 15:46:36 GMT+0200 2005
+Upload Date  : Tue Aug 30 07:57:11 GMT+0200 2005
+Views        : 25
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_2270
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+misty horse 

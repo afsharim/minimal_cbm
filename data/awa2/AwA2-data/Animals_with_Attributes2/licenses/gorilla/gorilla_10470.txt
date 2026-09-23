@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : enlewof
+Photo URL    : https://www.flickr.com/photos/fine_al/25070609/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 2 08:41:38 GMT+0200 2005
+Upload Date  : Mon Jul 11 04:55:12 GMT+0200 2005
+Geotag Info  : Latitude:38.929110, Longitude:-77.049050
+Views        : 1,172
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Gorillas
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+At the National Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+zoo nationalzoo gorilla 

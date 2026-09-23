@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : journeyguy
+Photo URL    : https://www.flickr.com/photos/journeyguy/1409736097/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Sep 18 01:54:05 GMT+0200 2007
+Upload Date  : Thu Sep 20 04:34:01 GMT+0200 2007
+Geotag Info  : Latitude:33.637274, Longitude:-91.792348
+Views        : 214
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel Saga - 10.jpg
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+jeff blog squirrel 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Aug 23, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : IainStars
+Photo URL    : https://www.flickr.com/photos/iainstars/27514934121/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 10 12:30:44 GMT+0200 2015
+Upload Date  : Fri Jun 10 23:06:15 GMT+0200 2016
+Views        : 51
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Our pet border collie
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

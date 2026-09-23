@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : berniedup
+Photo URL    : https://www.flickr.com/photos/berniedup/11492986276/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Nov 27 08:59:24 GMT+0100 2013
+Upload Date  : Sun Dec 22 10:47:46 GMT+0100 2013
+Geotag Info  : Latitude:-25.311481, Longitude:31.912665
+Views        : 491
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cape Buffalo (Syncerus caffer) bull close-up
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+S28 Road North of Crocodile Bridge, Kruger NP, SOUTH AFRICA
+
+
++--------+
+|  TAGS  |
++--------+
+"Syncerus caffer" "taxonomy:binomial=Syncerus caffer" 

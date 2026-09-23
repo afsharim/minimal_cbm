@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : NH53
+Photo URL    : https://www.flickr.com/photos/nh53/16800257961/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Mar 10 16:19:51 GMT+0100 2015
+Upload Date  : Fri Mar 13 11:06:06 GMT+0100 2015
+Geotag Info  : Latitude:51.409940, Longitude:-0.336370
+Views        : 851
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horse riders in Bushy Park
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+bushy park hampton horse 

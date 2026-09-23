@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : L_K_M
+Photo URL    : https://www.flickr.com/photos/l_k_m/2980255967/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Oct 28 08:39:31 GMT+0100 2008
+Upload Date  : Tue Oct 28 09:58:10 GMT+0100 2008
+Geotag Info  : Latitude:46.673726, Longitude:8.749075
+Views        : 1,921
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cows
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Cows in Rueras
+
+
++--------+
+|  TAGS  |
++--------+
+cows switzerland swiss alps rueras 

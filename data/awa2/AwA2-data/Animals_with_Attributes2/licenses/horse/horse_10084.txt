@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Peter Glyn
+Photo URL    : https://www.flickr.com/photos/remedy451/6014766934/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 23 12:35:19 GMT+0200 2010
+Upload Date  : Sat Aug 6 16:46:51 GMT+0200 2011
+Geotag Info  : Latitude:52.846741, Longitude:-3.431167
+Views        : 7,639
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bay Horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Striking bay in Rhyader Valley. Bay is a hair coat color of horses, characterized by a reddish brown body color with a black mane, tail, ear edges, and lower legs. Bay is one of the most common coat colors in many horse breeds.
+
+
++--------+
+|  TAGS  |
++--------+
+"Domestic Animals" Horse "Bay Horse" Bay 

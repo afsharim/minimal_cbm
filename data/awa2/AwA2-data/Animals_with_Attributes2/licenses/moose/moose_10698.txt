@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Gérald Tapp
+Photo URL    : https://commons.wikimedia.org/wiki/File:Orignal_-_Moose_2_(face_-_front_view).jpg
+License      : Creative Commons (https://en.wikipedia.org/wiki/en:Creative_Commons) Attribution-Share Alike 3.0 Unported (//creativecommons.org/licenses/by-sa/3.0/deed.en)
+Date         : 2011-08-12

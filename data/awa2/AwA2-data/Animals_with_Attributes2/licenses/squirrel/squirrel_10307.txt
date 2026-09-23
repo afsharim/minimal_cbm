@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : gfairchild
+Photo URL    : https://www.flickr.com/photos/gcfairch/3599106006/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri May 15 17:03:07 GMT+0200 2009
+Upload Date  : Fri Jun 5 23:01:57 GMT+0200 2009
+Views        : 68
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_1075
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel 

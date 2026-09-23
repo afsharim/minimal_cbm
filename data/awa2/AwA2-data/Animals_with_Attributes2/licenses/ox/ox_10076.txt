@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : cafferty2013
+Photo URL    : https://www.flickr.com/photos/88715636@N06/9417452874/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 31 14:14:36 GMT+0200 2013
+Upload Date  : Thu Aug 1 19:49:42 GMT+0200 2013
+Views        : 9
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Beecraigs Country Park
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

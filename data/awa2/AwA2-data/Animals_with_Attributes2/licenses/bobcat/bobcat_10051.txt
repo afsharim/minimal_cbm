@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/8561756063/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 10 14:17:52 GMT+0100 2012
+Upload Date  : Sat Mar 16 18:00:14 GMT+0100 2013
+Geotag Info  : Latitude:47.050651, Longitude:8.554229
+Views        : 7,196
+Comments     : 98
+
+
++---------+
+|  TITLE  |
++---------+
+Lynx in the vegetation
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A portrait of the male lynx, who has particularly white eartufts, among the vegetation of his enclosure.
+
+
++--------+
+|  TAGS  |
++--------+
+male portrait face ears tufts vegetation lynx wild cat feline tierpark arth goldau zoo switzerland nikon d4 

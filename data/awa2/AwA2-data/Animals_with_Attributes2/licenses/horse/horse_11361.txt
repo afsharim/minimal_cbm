@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tim Green aka atoach
+Photo URL    : https://www.flickr.com/photos/atoach/7678724798/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 30 18:50:12 GMT+0200 2012
+Upload Date  : Mon Jul 30 21:24:03 GMT+0200 2012
+Geotag Info  : Latitude:53.770644, Longitude:-1.838913
+Views        : 392
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Queensbury Horses 3
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horse queensbury 

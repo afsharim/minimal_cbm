@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jbdenham
+Photo URL    : https://www.flickr.com/photos/jimmydspics/4782096235/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 10 12:34:04 GMT+0200 2010
+Upload Date  : Sun Jul 11 12:37:48 GMT+0200 2010
+Views        : 115
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This was the first trip to the this zoo where the tiger was actually visible for viewing. It even let out rumble!
+
+
++--------+
+|  TAGS  |
++--------+
+"Minnesota Z00" dolphins leopards tigers 

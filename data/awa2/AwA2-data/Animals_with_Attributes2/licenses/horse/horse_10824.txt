@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : spamdangler
+Photo URL    : https://www.flickr.com/photos/justcallmehillsy/3900754521/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Sep 8 12:16:50 GMT+0200 2009
+Upload Date  : Tue Sep 8 21:49:29 GMT+0200 2009
+Geotag Info  : Latitude:54.157345, Longitude:-3.074626
+Views        : 395
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+horses by Barrow coast road
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horse 

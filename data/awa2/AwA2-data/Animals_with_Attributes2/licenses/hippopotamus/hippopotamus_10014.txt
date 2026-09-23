@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MaxH42
+Photo URL    : https://www.flickr.com/photos/maxh42/9553131467/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Aug 14 10:19:59 GMT+0200 2013
+Upload Date  : Tue Aug 20 18:10:20 GMT+0200 2013
+Geotag Info  : Latitude:-2.237895, Longitude:34.771728
+Views        : 192
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+2013-08-14 10.19.59
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Rocks or hippos?
+
+
++--------+
+|  TAGS  |
++--------+
+animal hippo hippopotamus 

@@ -1,0 +1,38 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : siwild
+Photo URL    : https://www.flickr.com/photos/smithsonianwild/5453781690/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Feb 17 14:50:58 GMT+0100 2011
+Upload Date  : Sun Nov 14 02:00:00 GMT+0100 2010
+Views        : 264
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bearded Pig
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This Bearded Pig, <i>Sus barbatus</i>, was photographed in Malaysia, as part of a research project utilizing motion-activated camera-traps.
+
+You are invited to go WILD on Smithsonian's interactive website, <a href="http://smithsonianwild.si.edu/wild.cfm?id=SWK_Pic_665&amp;fid=5453781690&amp;" rel="nofollow">Smithsonian WILD</a>, to learn more about the research and browse photos like this from around the world.
+
+<a href="http://siwild.si.edu/wild.cfm?fid=5453781690" rel="nofollow">siwild.si.edu/wild.cfm?fid=5453781690</a>
+
+
++--------+
+|  TAGS  |
++--------+
+"Bearded Pig" "Sus barbatus" Pigs taxonomy:group=Pigs "taxonomy:species=Sus barbatus" "taxonomy:common=Bearded Pig" siwild:species=308 "siwild:study=Sarawak Camera Trap Survey" siwild:region=MALAYSIA "siwild:date=2011-02-17 14:50:58.0" "siwild:studyId=SWK Sets" siwild:plot=Tubau siwild:location=90 siwild:trigger=SWK_Pic_665 siwild:imageid=SWK_Pic_665 siwild:camDeploy=SWK_91 sequence:id=SWK_Pic_665 sequence:index=1 sequence:length=1 sequence:key=1 BR:batch=SLA11_20110303_123239 file:name=sb.jpg file:path=E:\BorneoCamTrapPhotoCollectionGP-CRC(05-07)\90 E2N\sb.jpg geo:lon=2.927338 geo:lat=113.11848 geo:locality=Malaysia Sarawak 

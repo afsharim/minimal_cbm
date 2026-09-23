@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ralph and jenny
+Photo URL    : https://www.flickr.com/photos/ralphandjenny/3776596840/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 27 13:16:22 GMT+0200 2009
+Upload Date  : Sat Aug 1 01:33:08 GMT+0200 2009
+Geotag Info  : Latitude:33.485249, Longitude:-86.780136
+Views        : 359
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Resting Giraffe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"NIKON D90" animals wildlife "AF VR Zoom 70-200mm f/2.8G IF-ED" "Birmingham Zoo" mammals giraffe "reticulated giraffe" Birmingham Alabama 

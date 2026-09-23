@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : lcm1863
+Photo URL    : https://www.flickr.com/photos/lcd1863/5813286489/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jan 1 00:00:00 GMT+0100 2010
+Upload Date  : Thu Jun 9 03:40:42 GMT+0200 2011
+Views        : 109
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+byc81 Hungry squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel animal 

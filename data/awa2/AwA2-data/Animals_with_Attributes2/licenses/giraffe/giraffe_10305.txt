@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bradbox
+Photo URL    : https://www.flickr.com/photos/bradbox/4900486328/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 15 13:04:00 GMT+0200 2010
+Upload Date  : Tue Aug 17 06:55:51 GMT+0200 2010
+Geotag Info  : Latitude:32.083810, Longitude:34.793529
+Views        : 177
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe posing
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Ramat Gan zoo" Israel 

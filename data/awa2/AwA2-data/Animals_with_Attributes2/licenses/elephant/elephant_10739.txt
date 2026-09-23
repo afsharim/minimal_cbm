@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : BillDamon
+Photo URL    : https://www.flickr.com/photos/billdamon/3415070763/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 5 10:29:42 GMT+0200 2009
+Upload Date  : Sun Apr 5 22:34:09 GMT+0200 2009
+Views        : 425
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephants
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+2009 zoo rogerwilliamszoo elephant 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ahisgett
+Photo URL    : https://www.flickr.com/photos/hisgett/20630039146/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 17 14:06:37 GMT+0200 2015
+Upload Date  : Mon Aug 17 16:30:59 GMT+0200 2015
+Geotag Info  : Latitude:52.524914, Longitude:-1.964301
+Views        : 365
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horses
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Horse Sandwell Valley 

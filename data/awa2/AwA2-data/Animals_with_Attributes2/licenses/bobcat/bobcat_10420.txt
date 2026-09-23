@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : aaron_anderer
+Photo URL    : https://www.flickr.com/photos/aaron_anderer/9702346022/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 7 13:52:02 GMT+0200 2013
+Upload Date  : Sun Sep 8 16:46:07 GMT+0200 2013
+Geotag Info  : Latitude:37.590652, Longitude:-122.319781
+Views        : 84
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_3328
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A day trip to Coyote Point, south of SFO.
+
+
++--------+
+|  TAGS  |
++--------+
+curiodyssey curiodyssey.org "coyote point" "bay area" bobcat 

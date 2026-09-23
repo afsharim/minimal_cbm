@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sonstroem
+Photo URL    : https://www.flickr.com/photos/sonstroem/17309927476/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Apr 30 16:34:57 GMT+0200 2015
+Upload Date  : Fri May 1 23:06:09 GMT+0200 2015
+Geotag Info  : Latitude:38.150183, Longitude:-121.290382
+Views        : 175
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel in Tree
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel woods nature wildlife 

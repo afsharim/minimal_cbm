@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : kevinmcc
+Photo URL    : https://www.flickr.com/photos/ksm/2469621978/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 4 13:26:38 GMT+0200 2008
+Upload Date  : Tue May 6 02:34:38 GMT+0200 2008
+Views        : 8
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Pig
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

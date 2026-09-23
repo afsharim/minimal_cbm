@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Bird Brian
+Photo URL    : https://www.flickr.com/photos/birdbrian/9564288233/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Mar 29 21:45:54 GMT+0100 2013
+Upload Date  : Thu Aug 22 00:45:18 GMT+0200 2013
+Views        : 64
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_9283
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Fur Seal at Long Beach
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : argusfoto
+Photo URL    : https://www.flickr.com/photos/argusfoto/14642322896/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 14 10:40:41 GMT+0200 2014
+Upload Date  : Wed Jul 16 02:06:13 GMT+0200 2014
+Geotag Info  : Latitude:33.485005, Longitude:-86.778742
+Views        : 382
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Elephant from at least 200 ft away
+
+
++--------+
+|  TAGS  |
++--------+
+ZS40 

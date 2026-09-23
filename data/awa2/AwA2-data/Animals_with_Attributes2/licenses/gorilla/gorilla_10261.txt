@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jcarbaugh
+Photo URL    : https://www.flickr.com/photos/jcarbaugh/37905101/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 21 15:49:00 GMT+0200 2005
+Upload Date  : Sun Aug 28 17:11:29 GMT+0200 2005
+Geotag Info  : Latitude:33.099813, Longitude:-117.001272
+Views        : 592
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Gorilla at San Diego Zoo Wild Animal Park
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+california "san diego" zoo gorilla 

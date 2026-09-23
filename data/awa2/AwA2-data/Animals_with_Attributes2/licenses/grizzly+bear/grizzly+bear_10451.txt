@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ed Ogle
+Photo URL    : https://www.flickr.com/photos/20980483@N04/9701126034/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 12 17:24:32 GMT+0200 2013
+Upload Date  : Sun Sep 8 13:46:54 GMT+0200 2013
+Geotag Info  : Latitude:40.032086, Longitude:-104.561014
+Views        : 2,677
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Grizzly Bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Grizzly Bear 

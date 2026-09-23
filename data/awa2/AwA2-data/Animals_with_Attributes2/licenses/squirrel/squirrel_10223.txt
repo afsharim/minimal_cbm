@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Luca Venturi Oslo
+Photo URL    : https://www.flickr.com/photos/30456664@N03/3927425344/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Sep 14 12:22:52 GMT+0200 2009
+Upload Date  : Thu Sep 17 00:17:04 GMT+0200 2009
+Views        : 410
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Greedy Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+On the &quot;squirrels island&quot; in Helsinki, a squirrel is eating a nut.
+
+
++--------+
+|  TAGS  |
++--------+
+Helsinki squirrel nut feed 

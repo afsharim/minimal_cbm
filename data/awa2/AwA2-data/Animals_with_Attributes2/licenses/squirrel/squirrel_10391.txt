@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Storm's
+Photo URL    : https://www.flickr.com/photos/stormsworld/201055897/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 17 14:32:05 GMT+0200 2006
+Upload Date  : Sat Jul 29 18:23:27 GMT+0200 2006
+Views        : 887
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+My Nut
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A squirrel I just gave a nut too I love his pose.
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel nut 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : La case photo de Got
+Photo URL    : https://www.flickr.com/photos/lespetitescases/7608942128/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 18 23:23:41 GMT+0200 2012
+Upload Date  : Fri Jul 20 13:58:18 GMT+0200 2012
+Views        : 194
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Baleine bleue
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Baie de Tadoussac (embouchure du St Laurent, 
+Québec, Canada)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

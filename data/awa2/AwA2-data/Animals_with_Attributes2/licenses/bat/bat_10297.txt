@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Connor Long
+Photo URL    : https://commons.wikimedia.org/wiki/File:Big_Brown_Bats_(Eptesicus_fuscus).jpg
+License      : Creative Commons (https://en.wikipedia.org/wiki/en:Creative_Commons) Attribution-Share Alike 4.0 International (//creativecommons.org/licenses/by-sa/4.0/deed.en)
+Date         : 2015-09-05 23:18:54

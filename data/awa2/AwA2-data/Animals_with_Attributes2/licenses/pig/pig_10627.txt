@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : lininhamonfredini
+Photo URL    : https://www.flickr.com/photos/alinemonfra/5865462292/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 23 18:14:58 GMT+0200 2011
+Upload Date  : Fri Jun 24 04:41:38 GMT+0200 2011
+Views        : 49
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+pig!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

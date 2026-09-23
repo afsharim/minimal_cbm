@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Keith Riley-Whittingham
+Photo URL    : https://www.flickr.com/photos/bagoogoo/3358048772/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Feb 25 11:17:42 GMT+0100 2009
+Upload Date  : Sun Mar 15 23:12:37 GMT+0100 2009
+Views        : 573
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+elephant
+
+
++--------+
+|  TAGS  |
++--------+
+elephant "chester zoo" 

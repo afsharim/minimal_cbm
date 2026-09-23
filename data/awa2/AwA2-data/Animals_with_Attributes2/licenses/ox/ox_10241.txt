@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MichaelGras
+Photo URL    : https://www.flickr.com/photos/mikegras/8707910357/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 4 15:03:33 GMT+0200 2013
+Upload Date  : Sun May 5 01:58:49 GMT+0200 2013
+Geotag Info  : Latitude:32.788722, Longitude:-97.347464
+Views        : 10
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSCN7331
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

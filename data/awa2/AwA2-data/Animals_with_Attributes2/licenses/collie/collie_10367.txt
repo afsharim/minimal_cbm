@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Dave Peake
+Photo URL    : https://www.flickr.com/photos/davepeake/146150196/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 5 16:27:22 GMT+0100 2005
+Upload Date  : Sun May 14 16:34:24 GMT+0200 2006
+Geotag Info  : Latitude:-38.208106, Longitude:146.158676
+Views        : 427
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Jetson begging
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Jetson Border Collie 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Erik Starck
+Photo URL    : https://www.flickr.com/photos/erikstarck/5809672846/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 5 16:38:56 GMT+0200 2011
+Upload Date  : Tue Jun 7 22:29:13 GMT+0200 2011
+Views        : 544
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Moose
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Moosebites can be dangerous.
+
+
++--------+
+|  TAGS  |
++--------+
+erikstarck moose älg elk horn bit eating animal "rabid moose" 

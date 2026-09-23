@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Schmiebel
+Photo URL    : https://commons.wikimedia.org/wiki/File:Beaver_Chewing_willow_branch_in_Napa_River_2014.jpg
+License      : Creative Commons (https://en.wikipedia.org/wiki/en:Creative_Commons) Attribution-Share Alike 3.0 Unported (//creativecommons.org/licenses/by-sa/3.0/deed.en)
+Date         : 2014-05-12 18:55:25

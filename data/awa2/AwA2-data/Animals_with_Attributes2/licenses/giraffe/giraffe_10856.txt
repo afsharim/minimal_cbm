@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mister-E
+Photo URL    : https://www.flickr.com/photos/mister-e/6932042861/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jan 26 07:07:19 GMT+0100 2012
+Upload Date  : Sun Feb 26 18:31:23 GMT+0100 2012
+Geotag Info  : Latitude:-25.191681, Longitude:31.951580
+Views        : 564
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffes
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Africa Giraffe "Kruger National Park" Safari "South Africa" Wildlife 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Makuahine Pa'i Ki'i
+Photo URL    : https://www.flickr.com/photos/hawaii-mcgraths/2143535706/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Dec 27 21:54:27 GMT+0100 2007
+Upload Date  : Fri Dec 28 08:54:27 GMT+0100 2007
+Views        : 50
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Monk seal 2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

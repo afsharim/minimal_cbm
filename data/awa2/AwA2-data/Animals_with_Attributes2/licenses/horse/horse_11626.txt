@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tim Green aka atoach
+Photo URL    : https://www.flickr.com/photos/atoach/7177584570/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 10 18:15:19 GMT+0200 2012
+Upload Date  : Fri May 11 19:59:24 GMT+0200 2012
+Geotag Info  : Latitude:53.770909, Longitude:-1.840072
+Views        : 1,267
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Y422
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Marked horse, below Scarlet Heights, Queensbury
+
+
++--------+
+|  TAGS  |
++--------+
+horse 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : quinet
+Photo URL    : https://www.flickr.com/photos/quinet/5287145769/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 24 13:03:34 GMT+0200 2010
+Upload Date  : Fri Dec 24 10:31:06 GMT+0100 2010
+Views        : 231
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Weasel 2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Berlin 2010
+
+
++--------+
+|  TAGS  |
++--------+
+2010 Berlin "Berlin Zoo" Zoologischer "Zoologischer garten" weasel Germany 

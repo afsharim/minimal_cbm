@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Peter Black2007
+Photo URL    : https://www.flickr.com/photos/peterblack2007/7519498842/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 7 02:44:51 GMT+0200 2012
+Upload Date  : Sat Jul 7 11:44:51 GMT+0200 2012
+Geotag Info  : Latitude:52.931760, Longitude:-3.070421
+Views        : 48
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Mouse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"instagram app" square "square format" iphoneography uploaded:by=instagram foursquare:venue=4e5b8a1c18388cd5cbbdd23f 

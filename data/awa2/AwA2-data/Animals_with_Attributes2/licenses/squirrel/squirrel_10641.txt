@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ogwen
+Photo URL    : https://www.flickr.com/photos/ogwen/54695248/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Sep 20 01:15:10 GMT+0200 2004
+Upload Date  : Sat Oct 22 00:49:59 GMT+0200 2005
+Views        : 15,168
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Squirrel at Volcan Poas, Costa Rica
+
+
++--------+
+|  TAGS  |
++--------+
+Squirrel 

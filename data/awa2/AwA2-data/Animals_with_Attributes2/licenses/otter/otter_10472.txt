@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Vix_B
+Photo URL    : https://www.flickr.com/photos/vix_b/866667842/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 21 22:45:25 GMT+0200 2007
+Upload Date  : Sat Jul 21 23:45:25 GMT+0200 2007
+Views        : 103
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Otters at Longleat
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Photo taken by Simon
+
+
++--------+
+|  TAGS  |
++--------+
+longleat otter 

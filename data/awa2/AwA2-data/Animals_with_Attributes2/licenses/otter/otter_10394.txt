@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jjmusgrove
+Photo URL    : https://www.flickr.com/photos/jjmusgrove/8857163722/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Aug 30 10:29:32 GMT+0200 2011
+Upload Date  : Mon May 27 19:53:40 GMT+0200 2013
+Geotag Info  : Latitude:29.653222, Longitude:91.130924
+Views        : 138
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+SONY DSC
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

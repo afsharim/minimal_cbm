@@ -1,0 +1,39 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ken Lund
+Photo URL    : https://www.flickr.com/photos/kenlund/15639695414/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 11 11:48:22 GMT+0100 2015
+Upload Date  : Mon Jan 12 10:13:47 GMT+0100 2015
+Geotag Info  : Latitude:29.328911, Longitude:-98.463414
+Views        : 74
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Chihuahua on the Loose, San Antonio, Texas
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The Chihuahua (Spanish: chihuahueño) is the smallest breed of dog and is named for the state of Chihuahua in Mexico. Chihuahuas come in a wide variety of sizes, head shapes, colors, and coat lengths.
+
+<a href="http://en.wikipedia.org/wiki/Chihuahua_" rel="nofollow">en.wikipedia.org/wiki/Chihuahua_</a>(dog)
+
+<a href="http://en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="nofollow">en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_...</a>
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ahisgett
+Photo URL    : https://www.flickr.com/photos/hisgett/7974460396/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 8 13:38:10 GMT+0200 2012
+Upload Date  : Tue Sep 11 01:27:57 GMT+0200 2012
+Geotag Info  : Latitude:51.045205, Longitude:-114.029706
+Views        : 389
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Grizzly Bear 5
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Calgary Canada 

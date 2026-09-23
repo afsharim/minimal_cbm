@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : solo_time
+Photo URL    : https://www.flickr.com/photos/solo_time/1868179313/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Nov 5 14:45:52 GMT+0100 2007
+Upload Date  : Mon Nov 5 07:45:52 GMT+0100 2007
+Views        : 739
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+mako17
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+hamster hamsters pets 

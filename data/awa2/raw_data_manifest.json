@@ -1,0 +1,12 @@
+{
+  "archive": "downloads/AwA2-data.zip",
+  "archive_bytes": 13923888724,
+  "archive_sha256": "cc5a849879165acaa2b52f1de3f146ffcd1c475f6ef85bab0152c763e573744f",
+  "download_completed_at": "2026-07-18T20:38:08-04:00",
+  "extracted_class_directories": 50,
+  "extracted_jpeg_images": 37322,
+  "extracted_root": "AwA2-data/Animals_with_Attributes2",
+  "extraction_policy": "unzip -n; existing metadata files were not overwritten",
+  "integrity_check": "unzip -t passed with no errors",
+  "source": "https://cvml.ista.ac.at/AwA2/AwA2-data.zip"
+}

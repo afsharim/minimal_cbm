@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : lostajy
+Photo URL    : https://www.flickr.com/photos/ajy/452958993/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Apr 9 15:50:21 GMT+0200 2007
+Upload Date  : Mon Apr 9 22:55:23 GMT+0200 2007
+Geotag Info  : Latitude:51.388333, Longitude:-0.482025
+Views        : 117
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+thames path "thames path" cow 

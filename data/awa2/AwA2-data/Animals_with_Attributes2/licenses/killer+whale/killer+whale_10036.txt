@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : GreyHobbit
+Photo URL    : https://www.flickr.com/photos/greyhobbit/2425257213/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Sep 1 00:00:00 GMT+0200 1999
+Upload Date  : Sat Apr 19 21:07:32 GMT+0200 2008
+Geotag Info  : Latitude:49.299606, Longitude:-123.126032
+Views        : 6,278
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Bjossa the Orca
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This is Bjossa, the orca (or killer whale) that lived at the Vancouver Aquarium for many years.  This photo was taken in September 1999, shortly before she was moved to San Diego in 2000.  Sadly, she died in 2001. <a href="http://www.captiveanimals.org/aquarium/bjossa2.htm" rel="nofollow">www.captiveanimals.org/aquarium/bjossa2.htm</a>
+
+
++--------+
+|  TAGS  |
++--------+
+bjossa orca "killer whale" vancouver aquarium "stanley park" 

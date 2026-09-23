@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Paul Albertella
+Photo URL    : https://www.flickr.com/photos/paulspace/4769587670/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 2 13:00:59 GMT+0200 2010
+Upload Date  : Wed Jul 7 00:50:31 GMT+0200 2010
+Views        : 135
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Shy
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+One of a pair of lynx at Woburn Safari Park
+
+
++--------+
+|  TAGS  |
++--------+
+lynx wildlife zoo woburn fauna 

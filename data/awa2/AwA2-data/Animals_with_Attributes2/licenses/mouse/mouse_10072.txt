@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : symmetry_mind
+Photo URL    : https://www.flickr.com/photos/symmetry_mind/2457320730/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Sep 21 23:12:44 GMT+0200 2007
+Upload Date  : Thu May 1 18:21:53 GMT+0200 2008
+Geotag Info  : Latitude:60.175106, Longitude:24.983382
+Views        : 206
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Mighty mouse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Korkeasaari zoo mouse 

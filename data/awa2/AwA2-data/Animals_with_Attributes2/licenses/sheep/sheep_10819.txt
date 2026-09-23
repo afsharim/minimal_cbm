@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Anosmia
+Photo URL    : https://www.flickr.com/photos/jenniferboyer/5252886736/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Nov 22 10:14:32 GMT+0100 2010
+Upload Date  : Sun Dec 12 01:06:17 GMT+0100 2010
+Views        : 1,149
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Yorkshire sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Yorkshire sheep 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : PeterGriffin
+Photo URL    : https://www.flickr.com/photos/cdavey/3460915468/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 12 14:27:47 GMT+0200 2009
+Upload Date  : Mon Apr 20 23:51:17 GMT+0200 2009
+Views        : 54
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+That lives in the canal behind my parents house.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

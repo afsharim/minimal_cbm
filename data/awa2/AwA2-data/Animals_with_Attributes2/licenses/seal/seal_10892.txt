@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : the4mahers1997
+Photo URL    : https://www.flickr.com/photos/the4mahers/5426410104/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 1 01:57:49 GMT+0100 2011
+Upload Date  : Mon Feb 7 23:02:16 GMT+0100 2011
+Geotag Info  : Latitude:35.625314, Longitude:-79.757738
+Views        : 106
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sleeping Seal NC Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : pattoise
+Photo URL    : https://www.flickr.com/photos/pattoise/5428193628/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Sep 19 15:38:23 GMT+0200 2006
+Upload Date  : Tue Feb 8 14:38:26 GMT+0100 2011
+Geotag Info  : Latitude:47.200443, Longitude:-0.269851
+Views        : 20,085
+Comments     : 262
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger and light
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+tiger zoo 

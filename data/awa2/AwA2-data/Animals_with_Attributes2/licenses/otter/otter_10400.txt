@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jamesmooreno1
+Photo URL    : https://www.flickr.com/photos/ur2fine/9693336564/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 17 12:45:01 GMT+0200 2013
+Upload Date  : Sat Sep 7 13:08:00 GMT+0200 2013
+Views        : 285
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Thomas@BOD
+Photo URL    : https://www.flickr.com/photos/thomascuelho/1815868625/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Mar 16 17:34:19 GMT+0100 2007
+Upload Date  : Thu Nov 1 22:33:01 GMT+0100 2007
+Geotag Info  : Latitude:-45.840460, Longitude:170.731143
+Views        : 582
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Young sea lion at Victoria beach
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"new zealand" olympus E-500 dunedin catlins "victoria beach" "sea lion" seal "otago peninsula" 

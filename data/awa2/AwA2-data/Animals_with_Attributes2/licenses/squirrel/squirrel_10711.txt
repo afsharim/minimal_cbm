@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bencrowe
+Photo URL    : https://www.flickr.com/photos/croweb/2837029925/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 7 16:38:35 GMT+0200 2008
+Upload Date  : Mon Sep 8 00:05:28 GMT+0200 2008
+Geotag Info  : Latitude:53.372729, Longitude:-6.272463
+Views        : 134
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel animal wildlife "botanic gardens" dublin ireland 

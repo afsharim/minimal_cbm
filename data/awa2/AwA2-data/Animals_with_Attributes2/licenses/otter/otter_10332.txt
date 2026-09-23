@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : kathrin_rieger
+Photo URL    : https://www.flickr.com/photos/craighnadun/5029388096/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Sep 27 11:24:31 GMT+0200 2010
+Upload Date  : Mon Sep 27 11:24:31 GMT+0200 2010
+Views        : 111
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Braunschweig Zoo Otter 

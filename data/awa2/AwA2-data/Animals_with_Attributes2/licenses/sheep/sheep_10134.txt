@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tim Green aka atoach
+Photo URL    : https://www.flickr.com/photos/atoach/8728669255/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 11 15:31:31 GMT+0200 2013
+Upload Date  : Sat May 11 21:55:02 GMT+0200 2013
+Geotag Info  : Latitude:53.900487, Longitude:-1.943678
+Views        : 7,630
+Comments     : 17
+
+
++---------+
+|  TITLE  |
++---------+
+Brown and white
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Sheep at Steeton
+
+
++--------+
+|  TAGS  |
++--------+
+sheep lamb 

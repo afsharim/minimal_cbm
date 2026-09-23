@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : stallio
+Photo URL    : https://www.flickr.com/photos/stallio/3277115326/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 21 05:08:20 GMT+0200 2004
+Upload Date  : Fri Feb 13 18:42:16 GMT+0100 2009
+Views        : 381
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+grevy's zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+<a href="http://www.livingdesert.org/" rel="nofollow">the living desert</a>, palm desert, california
+
+
++--------+
+|  TAGS  |
++--------+
+"the living desert" california desert animals wildlife "desert animals" zebra "grevy's zebra" 

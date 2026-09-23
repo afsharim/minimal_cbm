@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : albike's
+Photo URL    : https://www.flickr.com/photos/albike/6926229113/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 21 10:59:11 GMT+0200 2008
+Upload Date  : Fri Feb 24 18:55:46 GMT+0100 2012
+Views        : 45
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+P1050750
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Miguel Rangel Jr
+Photo URL    : https://www.flickr.com/photos/83713276@N03/9759309795/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Sep 13 09:33:45 GMT+0200 2013
+Upload Date  : Sun Sep 15 15:52:35 GMT+0200 2013
+Geotag Info  : Latitude:-19.857476, Longitude:-44.005265
+Views        : 924
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tigre-de-bengala (Panthera tigris tigris) Bengal tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Zoológico de Belo Horizonte.
+
+
++--------+
+|  TAGS  |
++--------+
+"panthera tigris" tigre tigre-de-bengala tiger "bengal tiger" "zoológico de belo horizonte" "belo horizonte" 

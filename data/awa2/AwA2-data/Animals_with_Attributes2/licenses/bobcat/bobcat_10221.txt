@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : karenandbrademerson
+Photo URL    : https://www.flickr.com/photos/karenandbrademerson/3817842110/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Mar 24 15:12:56 GMT+0100 2008
+Upload Date  : Thu Aug 13 15:40:52 GMT+0200 2009
+Views        : 106
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+bobcat kitten
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A bobcat (kitten) in Portal, Arizona, United States
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

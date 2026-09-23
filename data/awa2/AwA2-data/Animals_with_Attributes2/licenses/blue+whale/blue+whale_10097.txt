@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : x-oph
+Photo URL    : https://www.flickr.com/photos/x-oph/4469479378/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Mar 8 11:56:08 GMT+0100 2010
+Upload Date  : Sun Mar 28 10:26:43 GMT+0200 2010
+Views        : 306
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+New Zealand
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Kaikoura - Sperm whale
+
+
++--------+
+|  TAGS  |
++--------+
+"New Zealand" "Nowa Zelandia" Aotearoa 

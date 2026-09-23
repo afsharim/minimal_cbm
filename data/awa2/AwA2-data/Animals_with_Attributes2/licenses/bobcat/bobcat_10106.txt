@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/15899149975/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 28 18:37:07 GMT+0200 2014
+Upload Date  : Fri Nov 28 18:00:44 GMT+0100 2014
+Geotag Info  : Latitude:46.565115, Longitude:6.773371
+Views        : 5,282
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Lynx portrait with tongue
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+It's a cool portrait of the male lynx, because of the tongue!
+
+
++--------+
+|  TAGS  |
++--------+
+portrait face close male tongue funny cute wild cat lynx servion lausanne zoo switzerland nikon d4 

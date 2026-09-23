@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : orbandprincess
+Photo URL    : https://www.flickr.com/photos/orbandprincess/6670631301/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 8 18:34:37 GMT+0100 2012
+Upload Date  : Tue Jan 10 03:13:05 GMT+0100 2012
+Views        : 26
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

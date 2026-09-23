@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Arizona Parrot
+Photo URL    : https://www.flickr.com/photos/azparrot/9178556147/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 29 10:27:10 GMT+0200 2013
+Upload Date  : Mon Jul 1 04:08:33 GMT+0200 2013
+Views        : 242
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

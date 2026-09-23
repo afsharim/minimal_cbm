@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : louise.helen
+Photo URL    : https://www.flickr.com/photos/26542999@N08/9338223700/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 21 11:19:35 GMT+0200 2013
+Upload Date  : Sun Jul 21 21:54:53 GMT+0200 2013
+Views        : 861
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Amur Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Highland wildlife Park
+
+
++--------+
+|  TAGS  |
++--------+
+"amur tiger" 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Gilles San Martin
+Photo URL    : https://www.flickr.com/photos/sanmartin/5394846011/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jan 24 18:16:13 GMT+0100 2011
+Upload Date  : Fri Jan 28 11:41:40 GMT+0100 2011
+Views        : 2,908
+Comments     : 6
+
+
++---------+
+|  TITLE  |
++---------+
+Myotis myotis
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+gtplecotus mammalia bat "grand murin" chiroptera hibernation cave Grevenmacher Luxembourg 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : nigel.hook
+Photo URL    : https://www.flickr.com/photos/9322926@N04/2249647383/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 4 11:59:32 GMT+0100 2007
+Upload Date  : Fri Feb 8 10:42:54 GMT+0100 2008
+Views        : 17
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cows
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

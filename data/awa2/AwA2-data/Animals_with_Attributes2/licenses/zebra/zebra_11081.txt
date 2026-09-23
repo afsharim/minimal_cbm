@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : DocAC
+Photo URL    : https://www.flickr.com/photos/antoinecorbiere/3639160769/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 19 00:17:14 GMT+0200 2009
+Upload Date  : Fri Jun 19 00:54:45 GMT+0200 2009
+Views        : 94
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebras
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Hluhluwe-Umfolozi Game Reserve located 280 km north of Durban
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

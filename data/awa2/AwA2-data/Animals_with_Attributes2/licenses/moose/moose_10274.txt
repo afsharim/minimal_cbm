@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : EOBAM
+Photo URL    : https://www.flickr.com/photos/eobam/173611930/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jun 13 23:32:38 GMT+0200 2006
+Upload Date  : Sat Jun 24 05:24:09 GMT+0200 2006
+Views        : 5
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Moose
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

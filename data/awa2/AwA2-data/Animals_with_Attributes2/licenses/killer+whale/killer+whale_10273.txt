@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : nudeboots
+Photo URL    : https://www.flickr.com/photos/7984040@N02/3146233251/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 1 00:00:00 GMT+0200 1997
+Upload Date  : Mon Dec 29 09:18:45 GMT+0100 2008
+Geotag Info  : Latitude:49.149208, Longitude:-123.685412
+Views        : 224
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Silva Bay Orca
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Bruce McPherson Photography "Bruce McPherson Photography" Orca "Silva Bay" 

@@ -1,0 +1,39 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ed.ward
+Photo URL    : https://www.flickr.com/photos/king-edward/2210910400/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 26 15:00:49 GMT+0200 2007
+Upload Date  : Tue Jan 22 01:28:19 GMT+0100 2008
+Geotag Info  : Latitude:51.219325, Longitude:-0.807373
+Views        : 1,803
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+Mouse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This is a mouse who is hiding (or at least, trying to hide) in some leaves.
+
+I had a bonfire in our <a href="http://www.flickr.com/photos/king-edward/tags/garden/">garden</a> and about half way through chucked some more stuff on the fire and saw this little chap.
+
+We later found a few more and even heard squeaking coming from the fire, but after putting it out and taking it apart still couldn't find the source sadly...
+
+
++--------+
+|  TAGS  |
++--------+
+mouse farnham england 2007 garden leaves "cherry trees" bonfire iphone:request=true 

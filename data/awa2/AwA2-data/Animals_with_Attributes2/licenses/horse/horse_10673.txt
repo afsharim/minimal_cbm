@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : nickton
+Photo URL    : https://www.flickr.com/photos/18203311@N08/5679175512/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 30 18:04:54 GMT+0200 2011
+Upload Date  : Mon May 2 08:51:27 GMT+0200 2011
+Geotag Info  : Latitude:37.977305, Longitude:-122.364735
+Views        : 65
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

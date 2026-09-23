@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ron whisky
+Photo URL    : https://commons.wikimedia.org/wiki/File:Tricolor_collie_by_Ron.jpg
+License      : public domain
+Date         : 01-06-2008

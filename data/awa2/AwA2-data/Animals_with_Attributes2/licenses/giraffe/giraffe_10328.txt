@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jelloneck
+Photo URL    : https://www.flickr.com/photos/jelonekphotography/4573098899/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 2 12:49:29 GMT+0200 2010
+Upload Date  : Mon May 3 05:45:39 GMT+0200 2010
+Views        : 102
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+giraffe_6353
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"canon xsi" "brookfield zoo" "great bear wilderness" zoo animal 

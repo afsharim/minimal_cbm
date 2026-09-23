@@ -1,0 +1,38 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Larry Smith2010
+Photo URL    : https://www.flickr.com/photos/lsmith2010/5940574332/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 15 11:34:33 GMT+0200 2011
+Upload Date  : Fri Jul 15 18:34:33 GMT+0200 2011
+Geotag Info  : Latitude:34.715970, Longitude:-98.676881
+Views        : 2,916
+Comments     : 9
+
+
++---------+
+|  TITLE  |
++---------+
+Beaver
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Beaver swimming in West Cache Creek - 7/15/11
+
+Wichita Mountains Wildlife Refuge
+SW Oklahoma
+
+
++--------+
+|  TAGS  |
++--------+
+"Wichita Mountains" "Larry Smith" Oklahoma beaver swimming "Wichita Mountains Wildlife Refuge" 

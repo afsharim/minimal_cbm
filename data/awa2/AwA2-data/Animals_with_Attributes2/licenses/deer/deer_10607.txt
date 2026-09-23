@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : marsupium photography
+Photo URL    : https://www.flickr.com/photos/hagdorned/8733549134/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 12 15:38:27 GMT+0200 2013
+Upload Date  : Mon May 13 00:21:47 GMT+0200 2013
+Geotag Info  : Latitude:55.997983, Longitude:-3.473231
+Views        : 95
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Scotland 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Stephen Fulljames
+Photo URL    : https://www.flickr.com/photos/emptyjames/6119793750/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 29 12:34:24 GMT+0200 2011
+Upload Date  : Tue Sep 6 10:30:06 GMT+0200 2011
+Geotag Info  : Latitude:52.932376, Longitude:1.300377
+Views        : 100
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+norfolk cromer horse 

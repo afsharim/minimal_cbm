@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : gregpoo
+Photo URL    : https://www.flickr.com/photos/misterskeleton/9430926169/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 20 02:42:41 GMT+0200 2013
+Upload Date  : Sun Aug 4 04:54:20 GMT+0200 2013
+Geotag Info  : Latitude:63.983190, Longitude:-16.862297
+Views        : 116
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+A Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Baa baa.
+
+
++--------+
+|  TAGS  |
++--------+
+Iceland 

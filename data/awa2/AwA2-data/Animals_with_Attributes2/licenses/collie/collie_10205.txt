@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bambe1964
+Photo URL    : https://www.flickr.com/photos/bambe1964/22098329860/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Sep 23 15:51:45 GMT+0200 2015
+Upload Date  : Mon Oct 19 00:24:56 GMT+0200 2015
+Views        : 103
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+darcy
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+dog "border collie" field 

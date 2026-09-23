@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jay Erickson
+Photo URL    : https://www.flickr.com/photos/jay_erickson/6941509203/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 16 15:41:21 GMT+0200 2011
+Upload Date  : Wed Feb 29 18:22:03 GMT+0100 2012
+Geotag Info  : Latitude:41.935024, Longitude:-73.904755
+Views        : 325
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+pillowz
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+sheep wool 

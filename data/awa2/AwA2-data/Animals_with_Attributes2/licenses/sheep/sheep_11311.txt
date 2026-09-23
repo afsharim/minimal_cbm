@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : katedubya
+Photo URL    : https://www.flickr.com/photos/websterkate/3195830702/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jan 7 00:01:09 GMT+0100 2009
+Upload Date  : Wed Jan 14 03:10:02 GMT+0100 2009
+Geotag Info  : Latitude:24.407137, Longitude:50.932617
+Views        : 197
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+These are sheep for sale
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Packed in just about as tight as possible.
+
+
++--------+
+|  TAGS  |
++--------+
+Doha Qatar Sheep 

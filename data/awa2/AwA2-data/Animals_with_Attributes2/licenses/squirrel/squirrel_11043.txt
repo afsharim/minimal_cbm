@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sonstroem
+Photo URL    : https://www.flickr.com/photos/sonstroem/17127482617/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Apr 30 16:03:59 GMT+0200 2015
+Upload Date  : Fri May 1 21:13:58 GMT+0200 2015
+Geotag Info  : Latitude:38.150799, Longitude:-121.289931
+Views        : 148
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Western Gray Squirrel in the woods.
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel "western gray squirrel" woods wildlife nature wallpaper 

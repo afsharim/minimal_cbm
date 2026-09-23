@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : wendylin20
+Photo URL    : https://www.flickr.com/photos/wendyjlin/2076281564/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Aug 14 21:34:39 GMT+0200 2007
+Upload Date  : Fri Nov 30 17:18:37 GMT+0100 2007
+Views        : 101
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Grevy's Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+There are two types of zebra, and this one, the Grevy's Zebra, is endangered.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

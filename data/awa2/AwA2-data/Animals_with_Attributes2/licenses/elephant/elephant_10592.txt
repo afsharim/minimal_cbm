@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Amy Aletheia Cahill
+Photo URL    : https://www.flickr.com/photos/themeowverlord/8628257373/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 7 11:00:20 GMT+0200 2013
+Upload Date  : Sun Apr 7 22:22:14 GMT+0200 2013
+Views        : 54
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Denver Zoo, April 7th, 2013
+
+
++--------+
+|  TAGS  |
++--------+
+animals 

@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : fotografeux
+Photo URL    : https://www.flickr.com/photos/frederic-trudeau/4585480314/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 6 19:39:47 GMT+0200 2010
+Upload Date  : Fri May 7 01:39:47 GMT+0200 2010
+Views        : 696
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Endangered Hawaiian Monk Seal
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The Hawaiian monk seal is an endangered earless seal that is endemic to the Hawaiian Islands.
+
+The population of Hawaiian monk seals is in decline. In 2008, it was estimated that only 1200 individuals remain.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

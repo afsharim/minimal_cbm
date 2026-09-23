@@ -1,0 +1,39 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : OliBac
+Photo URL    : https://www.flickr.com/photos/olibac/4940773204/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 26 16:24:51 GMT+0200 2010
+Upload Date  : Mon Aug 30 07:01:38 GMT+0200 2010
+Geotag Info  : Latitude:45.265342, Longitude:2.372531
+Views        : 2,012
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+meuh / moo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Jeune Salers au pré
+
+Jaleyrac
+Cantal
+France
+
+
++--------+
+|  TAGS  |
++--------+
+OliBac vache cow Salers bovin ferme élevage Auvergne "Olympus SP560UZ" MMX 

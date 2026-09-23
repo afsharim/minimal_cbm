@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/10901280453/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 15 16:29:04 GMT+0200 2013
+Upload Date  : Sun Nov 17 11:00:14 GMT+0100 2013
+Geotag Info  : Latitude:48.996867, Longitude:8.402223
+Views        : 21,821
+Comments     : 88
+
+
++---------+
+|  TITLE  |
++---------+
+Smiling otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Next otter picture: he or she was looking slightly smiling!
+
+
++--------+
+|  TAGS  |
++--------+
+portrait face smiling cute brown mammal otter karlsruhe zoo germany nikon d4 

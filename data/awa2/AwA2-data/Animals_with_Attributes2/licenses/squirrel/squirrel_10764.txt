@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Malin Helene
+Photo URL    : https://www.flickr.com/photos/malinhelene/3916959080/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 13 18:32:26 GMT+0200 2009
+Upload Date  : Sun Sep 13 21:41:00 GMT+0200 2009
+Views        : 267
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

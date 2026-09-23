@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jake Pollmann
+Photo URL    : https://www.flickr.com/photos/pollmann/3537023726/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 14 13:39:46 GMT+0200 2009
+Upload Date  : Sat May 16 22:21:27 GMT+0200 2009
+Views        : 479
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hogle Zoo Giraffe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Hogel Zoo" Hogle Zoo giraffe 

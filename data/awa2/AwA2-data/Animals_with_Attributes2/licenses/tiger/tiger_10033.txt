@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Rob Warde
+Photo URL    : https://www.flickr.com/photos/tidymind/9051177933/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 15 13:05:33 GMT+0200 2013
+Upload Date  : Sat Jun 15 22:52:12 GMT+0200 2013
+Views        : 452
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+:- Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+<a href="http://www.whf.org.uk/" rel="nofollow">www.whf.org.uk/</a>
+
+
++--------+
+|  TAGS  |
++--------+
+http://www.whf.org.uk/ tiger face pose close stripes grass 

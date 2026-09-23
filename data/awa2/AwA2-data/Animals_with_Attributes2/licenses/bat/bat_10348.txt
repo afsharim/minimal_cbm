@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Shantanu Kuveskar
+Photo URL    : https://commons.wikimedia.org/wiki/File:Short-nosed_Fruit_Bat_(Cynopterus_sphinx)_Photograph_By_Shantanu_Kuveskar.jpg
+License      : Creative Commons (https://en.wikipedia.org/wiki/en:Creative_Commons) Attribution-Share Alike 4.0 International (//creativecommons.org/licenses/by-sa/4.0/deed.en)
+Date         : 2013-08-01 18:00:17

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Dzung Banme
+Photo URL    : https://www.flickr.com/photos/dzung_banme/8581862824/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 16 10:49:07 GMT+0100 2013
+Upload Date  : Sat Mar 23 03:02:46 GMT+0100 2013
+Views        : 108
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Western Lowland Gorilla
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

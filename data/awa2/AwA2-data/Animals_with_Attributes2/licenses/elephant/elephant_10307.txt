@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : stephanemartin
+Photo URL    : https://www.flickr.com/photos/stephanemartin/203826253/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 7 00:21:03 GMT+0200 2005
+Upload Date  : Tue Aug 1 14:50:58 GMT+0200 2006
+Geotag Info  : Latitude:32.734801, Longitude:-117.148246
+Views        : 229
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Eléphant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+californie elephant "san diego" 

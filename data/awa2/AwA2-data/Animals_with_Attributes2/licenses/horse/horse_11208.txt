@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Dave Williss
+Photo URL    : https://www.flickr.com/photos/dwilliss/9047547020/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 9 18:48:45 GMT+0200 2013
+Upload Date  : Sat Jun 15 06:45:51 GMT+0200 2013
+Geotag Info  : Latitude:41.046386, Longitude:-96.875931
+Views        : 53
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Minnie
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Minnie
+
+
++--------+
+|  TAGS  |
++--------+
+Horse 

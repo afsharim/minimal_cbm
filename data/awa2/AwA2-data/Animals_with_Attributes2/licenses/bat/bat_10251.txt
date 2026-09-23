@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Carlosblh
+Photo URL    : https://commons.wikimedia.org/wiki/File:Rhinolophus_euryale-cropped.jpg
+License      : Creative Commons (https://en.wikipedia.org/wiki/en:Creative_Commons) Attribution 3.0 Unported (//creativecommons.org/licenses/by/3.0/deed.en)
+Date         : 2009-09-16

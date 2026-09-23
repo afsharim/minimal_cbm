@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Valerie Reneé
+Photo URL    : https://www.flickr.com/photos/valerierenee/2160712562/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Dec 31 13:54:21 GMT+0100 2007
+Upload Date  : Thu Jan 3 03:18:15 GMT+0100 2008
+Geotag Info  : Latitude:33.733226, Longitude:-84.371352
+Views        : 45
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+tiger stripes
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+atlanta zoo zooatlanta animal tiger 

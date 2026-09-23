@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Twix
+Photo URL    : https://www.flickr.com/photos/twix/231455110/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 31 11:33:03 GMT+0200 2006
+Upload Date  : Sat Sep 2 03:40:47 GMT+0200 2006
+Geotag Info  : Latitude:41.789080, Longitude:-71.417580
+Views        : 198
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+It's an <a href="http://www.rogerwilliamsparkzoo.org/what_to_see/africa/african_elephant.cfm" rel="nofollow">elephant.</a>
+
+
++--------+
+|  TAGS  |
++--------+
+zoo "roger williams park zoo" 

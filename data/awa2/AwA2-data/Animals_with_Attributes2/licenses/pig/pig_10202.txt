@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ib Aarmo
+Photo URL    : https://www.flickr.com/photos/aarmo/13363923313/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Dec 2 08:52:09 GMT+0100 1976
+Upload Date  : Sun Mar 23 22:01:46 GMT+0100 2014
+Views        : 206
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Miss Piggy
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+pig pigs 

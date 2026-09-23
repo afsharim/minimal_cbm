@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : lindsayscott72
+Photo URL    : https://www.flickr.com/photos/lindsayascott/5143583474/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Nov 3 10:50:16 GMT+0100 2010
+Upload Date  : Wed Nov 3 18:50:16 GMT+0100 2010
+Views        : 527
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Hamster
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+hamster cage 

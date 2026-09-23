@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Roger's Eye <(r)>
+Photo URL    : https://www.flickr.com/photos/rogersview/5644761156/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Apr 22 13:07:18 GMT+0200 2011
+Upload Date  : Sat Apr 23 00:33:36 GMT+0200 2011
+Geotag Info  : Latitude:43.818798, Longitude:-79.182962
+Views        : 48
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : kmaschke
+Photo URL    : https://www.flickr.com/photos/14174853@N04/4194064539/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 4 09:06:07 GMT+0200 2004
+Upload Date  : Fri Dec 18 09:50:56 GMT+0100 2009
+Views        : 123
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Wicklow Ireland 

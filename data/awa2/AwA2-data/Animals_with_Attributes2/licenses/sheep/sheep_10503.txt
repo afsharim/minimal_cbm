@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Alan Cleaver
+Photo URL    : https://www.flickr.com/photos/alancleaver/3519362311/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 10 15:02:45 GMT+0200 2009
+Upload Date  : Mon May 11 00:10:31 GMT+0200 2009
+Views        : 16,680
+Comments     : 11
+
+
++---------+
+|  TITLE  |
++---------+
+Name that sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Anyone able to name the breed of sheep for me?!
+
+
++--------+
+|  TAGS  |
++--------+
+sheep wensleydale 

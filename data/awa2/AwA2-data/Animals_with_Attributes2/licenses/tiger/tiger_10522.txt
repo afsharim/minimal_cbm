@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : FU510N
+Photo URL    : https://www.flickr.com/photos/37647982@N02/3466466883/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Feb 16 12:36:50 GMT+0100 2009
+Upload Date  : Thu Apr 23 03:08:13 GMT+0200 2009
+Views        : 33
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Canon EF 17-85mm USM f/4-5.6 Canon EF-S 55-250mm F4-5.6 IS" tiger zoo toronto 

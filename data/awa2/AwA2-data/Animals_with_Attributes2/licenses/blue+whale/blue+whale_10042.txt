@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : regexman
+Photo URL    : https://www.flickr.com/photos/regexman/10294048553/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 13 11:29:49 GMT+0200 2013
+Upload Date  : Tue Oct 15 18:16:09 GMT+0200 2013
+Geotag Info  : Latitude:37.772307, Longitude:-123.035945
+Views        : 146
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Blue whale
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

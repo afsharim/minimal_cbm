@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Bob the courier
+Photo URL    : https://www.flickr.com/photos/27828336@N00/2146857409/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Oct 18 15:50:00 GMT+0200 2006
+Upload Date  : Sun Dec 30 00:23:40 GMT+0100 2007
+Geotag Info  : Latitude:55.944958, Longitude:-3.270792
+Views        : 49
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Seal
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Edinburgh Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+Seal Edinburgh Zoo 

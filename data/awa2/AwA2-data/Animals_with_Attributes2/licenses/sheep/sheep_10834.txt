@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jeff Kubina
+Photo URL    : https://www.flickr.com/photos/kubina/489128930/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 6 13:20:08 GMT+0200 2007
+Upload Date  : Tue May 8 02:59:42 GMT+0200 2007
+Geotag Info  : Latitude:39.311614, Longitude:-76.967307
+Views        : 1,587
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+200705 animal sheep public "taken by jeff kubina" "howard county" maryland fairgrounds "united states" festival "sheep and wool festival" "AF Nikkor 50mm f/1.4D" 

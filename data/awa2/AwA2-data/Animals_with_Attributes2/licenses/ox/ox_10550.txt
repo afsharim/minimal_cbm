@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : wendylin20
+Photo URL    : https://www.flickr.com/photos/wendyjlin/2075499831/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 17 22:52:39 GMT+0200 2007
+Upload Date  : Fri Nov 30 17:21:34 GMT+0100 2007
+Views        : 25
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Posing for the Camera
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

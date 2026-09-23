@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Drew Avery
+Photo URL    : https://www.flickr.com/photos/33590535@N06/3541628340/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Apr 24 11:57:57 GMT+0200 2009
+Upload Date  : Mon May 18 06:22:12 GMT+0200 2009
+Geotag Info  : Latitude:39.749301, Longitude:-104.957027
+Views        : 489
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Grey's Zebra {Equus grevyi}
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Denver Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+"denver zoo" "taxonomy:common=grey's zebra" "taxonomy:binomial=Equus grevyi" 

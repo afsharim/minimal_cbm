@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : dbaron
+Photo URL    : https://www.flickr.com/photos/dbaron/2633487844/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 25 23:59:57 GMT+0200 2008
+Upload Date  : Thu Jul 3 09:16:37 GMT+0200 2008
+Geotag Info  : Latitude:58.296460, Longitude:-134.385350
+Views        : 522
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A squirrel along the trail from the top of the Mount Roberts Tramway.  (dsc06204)
+
+
++--------+
+|  TAGS  |
++--------+
+cruise "ms Westerdam" Westerdam "Holland America Westerdam" USA Alaska Juneau "Mount Roberts" "Mt. Roberts" "Mount Roberts Tramway" "Mt. Roberts Tramway" tram tramway geotagged geo:lat=58.29646 geo:lon=-134.38535 squirrel Sciuridae 

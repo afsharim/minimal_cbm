@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : AimeePlesa
+Photo URL    : https://www.flickr.com/photos/aimeeplesa/5165422288/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Sep 7 04:34:16 GMT+0200 2009
+Upload Date  : Wed Nov 10 23:55:33 GMT+0100 2010
+Views        : 18
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSCF1535
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

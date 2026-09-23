@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Cloudtail the Snow Leopard
+Photo URL    : https://www.flickr.com/photos/blacktigersdream/7822407988/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 17 13:31:40 GMT+0200 2012
+Upload Date  : Mon Aug 20 12:10:10 GMT+0200 2012
+Geotag Info  : Latitude:49.203256, Longitude:8.110785
+Views        : 263
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+bush pig
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+In German we call them &quot;Pinselohrschwein&quot;
+
+
++--------+
+|  TAGS  |
++--------+
+zoo; landau; schwein; pinselohrschwein; pig 

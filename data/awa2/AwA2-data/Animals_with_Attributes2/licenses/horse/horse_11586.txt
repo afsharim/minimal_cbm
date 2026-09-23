@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : JamesWoolley5
+Photo URL    : https://www.flickr.com/photos/xtrato/5171004581/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Oct 28 09:58:19 GMT+0200 2010
+Upload Date  : Sat Nov 13 11:33:20 GMT+0100 2010
+Geotag Info  : Latitude:52.204366, Longitude:-3.082084
+Views        : 1,451
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+White Horse at Hergest Ridge
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+hergest ridge kington herefordshire horse 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Firebirdflame
+Photo URL    : https://www.flickr.com/photos/firebirdflame/5690734991/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 10 14:22:19 GMT+0200 2010
+Upload Date  : Thu May 5 21:25:48 GMT+0200 2011
+Views        : 28
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Sniffing around the tree looking for its nuts.
+
+
++--------+
+|  TAGS  |
++--------+
+Animal 

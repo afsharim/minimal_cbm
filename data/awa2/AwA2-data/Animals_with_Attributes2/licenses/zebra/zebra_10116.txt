@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Nigel's Europe & beyond 2
+Photo URL    : https://www.flickr.com/photos/zooeurope/9694227944/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 22 13:42:56 GMT+0200 2013
+Upload Date  : Sat Sep 7 16:20:23 GMT+0200 2013
+Views        : 149
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Chester Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Grevy's Zebra
+
+
++--------+
+|  TAGS  |
++--------+
+"Chester Zoo" "Grevy's Zebra" Zebra 

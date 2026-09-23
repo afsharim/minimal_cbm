@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : malfet_
+Photo URL    : https://www.flickr.com/photos/malfet/7928094042/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 1 13:08:07 GMT+0200 2012
+Upload Date  : Tue Sep 4 08:44:24 GMT+0200 2012
+Geotag Info  : Latitude:37.508908, Longitude:-121.868934
+Views        : 1,026
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Landscape with "mountain" cows
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+On the Mission Peak trail
+
+
++--------+
+|  TAGS  |
++--------+
+cow Fremont landscape 

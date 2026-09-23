@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Timitrius
+Photo URL    : https://www.flickr.com/photos/nox_noctis_silentium/5321094988/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jan 4 17:29:40 GMT+0100 2011
+Upload Date  : Mon Jan 3 19:56:52 GMT+0100 2011
+Geotag Info  : Latitude:51.853753, Longitude:-0.539188
+Views        : 259
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hippopotamus
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zoo Whipsnade hippopotamus 

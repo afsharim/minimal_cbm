@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/634255908/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 9 15:41:29 GMT+0200 2007
+Upload Date  : Tue Jun 26 22:51:05 GMT+0200 2007
+Geotag Info  : Latitude:52.508189, Longitude:13.338603
+Views        : 7,955
+Comments     : 30
+
+
++---------+
+|  TITLE  |
++---------+
+Otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Otter pacing around its enclosure, among the rocks
+
+
++--------+
+|  TAGS  |
++--------+
+zoo animal isawyoufirst berlin otter PhotoFaceOffWinner SearchTheBest SpecAnimal PFOGold 

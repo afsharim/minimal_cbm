@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Adam Baker Photography
+Photo URL    : https://www.flickr.com/photos/adambakerphotography/15278570352/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 4 18:31:50 GMT+0200 2014
+Upload Date  : Thu Sep 18 17:45:33 GMT+0200 2014
+Views        : 56
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

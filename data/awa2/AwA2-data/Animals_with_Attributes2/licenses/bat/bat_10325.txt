@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Simon J. Tonge
+Photo URL    : https://commons.wikimedia.org/wiki/File:Pteropus_niger_three.jpeg
+License      : Creative Commons (https://en.wikipedia.org/wiki/en:Creative_Commons) Attribution 3.0 Unported (//creativecommons.org/licenses/by/3.0/deed.en)
+Date         : 1989-07-28

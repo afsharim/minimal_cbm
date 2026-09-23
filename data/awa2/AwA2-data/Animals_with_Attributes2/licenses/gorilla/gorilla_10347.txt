@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Lamerie
+Photo URL    : https://www.flickr.com/photos/lamerie/257979716/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Oct 2 01:30:36 GMT+0200 2006
+Upload Date  : Mon Oct 2 02:30:36 GMT+0200 2006
+Views        : 89
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+gorilla
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+lamerie 

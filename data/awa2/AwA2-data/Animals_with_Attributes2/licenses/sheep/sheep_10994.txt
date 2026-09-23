@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Effervescing Elephant
+Photo URL    : https://www.flickr.com/photos/cr01/5360238008/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 2 11:26:23 GMT+0100 2011
+Upload Date  : Sun Jan 16 14:41:52 GMT+0100 2011
+Views        : 76
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Sheep Durham "County Durham" "United Kingdom" 

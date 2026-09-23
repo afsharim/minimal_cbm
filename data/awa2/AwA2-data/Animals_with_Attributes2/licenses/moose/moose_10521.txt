@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : tuchodi
+Photo URL    : https://www.flickr.com/photos/tuchodi/1794608657/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 28 08:10:00 GMT+0100 2007
+Upload Date  : Sun Oct 28 23:03:39 GMT+0100 2007
+Views        : 1,022
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Mooses
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Two cows, two calves one bull, and another bull out of the photo.
+
+
++--------+
+|  TAGS  |
++--------+
+moose "Fort St. John, BC" 

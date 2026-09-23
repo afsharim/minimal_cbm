@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/9850642093/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 8 10:37:57 GMT+0200 2013
+Upload Date  : Sat Sep 21 10:43:39 GMT+0200 2013
+Geotag Info  : Latitude:47.420073, Longitude:9.285378
+Views        : 8,080
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Chimpanzee on the rope
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A young chimpanzee of the Walter zoo on a rope!
+
+
++--------+
+|  TAGS  |
++--------+
+young rope climbing chimpanzee chimp primate ape monkey "walter zoo" zoo gossau "st gallen" switzerland nikon d4 

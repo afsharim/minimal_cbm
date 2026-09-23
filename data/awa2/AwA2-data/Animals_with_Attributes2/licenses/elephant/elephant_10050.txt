@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Dave Lonsdale
+Photo URL    : https://www.flickr.com/photos/davelonsdale/14018979634/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Apr 15 17:47:01 GMT+0200 2014
+Upload Date  : Sat Apr 26 14:48:31 GMT+0200 2014
+Geotag Info  : Latitude:11.967538, Longitude:76.208644
+Views        : 1,097
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+An elephant post-mudbath
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Elephant 

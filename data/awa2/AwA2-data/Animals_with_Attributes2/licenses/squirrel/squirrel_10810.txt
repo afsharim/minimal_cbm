@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : supersum
+Photo URL    : https://www.flickr.com/photos/supersum/4948371519/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Aug 25 12:22:02 GMT+0200 2010
+Upload Date  : Wed Sep 1 19:13:06 GMT+0200 2010
+Geotag Info  : Latitude:51.500888, Longitude:-0.137457
+Views        : 178
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel scoiattolo "st james's park" londra london 

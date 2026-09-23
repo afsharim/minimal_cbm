@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Six El Sid
+Photo URL    : https://www.flickr.com/photos/sixelsid/4481791931/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Mar 29 14:18:07 GMT+0200 2010
+Upload Date  : Thu Apr 1 21:12:34 GMT+0200 2010
+Geotag Info  : Latitude:34.145974, Longitude:-118.289945
+Views        : 173
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_2364
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zebra zoo animal stripes "los angeles zoo" "LA zoo" 

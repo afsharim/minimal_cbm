@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sk8geek
+Photo URL    : https://www.flickr.com/photos/sk8geek/7173110319/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri May 18 13:11:02 GMT+0200 2012
+Upload Date  : Sun Jun 10 19:15:59 GMT+0200 2012
+Views        : 466
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_0974
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horse 

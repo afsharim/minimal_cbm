@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : rbrough
+Photo URL    : https://www.flickr.com/photos/66477515@N00/19235446/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 11 06:43:26 GMT+0200 2004
+Upload Date  : Tue Jun 14 04:35:29 GMT+0200 2005
+Views        : 29
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Moose5
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+moose 

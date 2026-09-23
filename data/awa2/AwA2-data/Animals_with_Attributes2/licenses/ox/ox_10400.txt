@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Leonid Mamchenkov
+Photo URL    : https://www.flickr.com/photos/mamchenkov/2955191838/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 19 13:37:48 GMT+0200 2008
+Upload Date  : Sun Oct 19 18:17:11 GMT+0200 2008
+Geotag Info  : Latitude:34.702935, Longitude:33.024022
+Views        : 167
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+img_9634
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+circus 

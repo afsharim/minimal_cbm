@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : tburling
+Photo URL    : https://www.flickr.com/photos/tburling/8755964222/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 19 10:31:09 GMT+0200 2013
+Upload Date  : Mon May 20 02:12:17 GMT+0200 2013
+Geotag Info  : Latitude:42.065188, Longitude:-71.584648
+Views        : 527
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Chimpanzee
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Southwick's Zoo, Blackstone MA
+
+
++--------+
+|  TAGS  |
++--------+
+Mendon Massachusetts "United States" D7100 70-200 Zoo "Southwick's Zoo" Chimpanzee Chimp "Pan Troglodytes" Hominid Ape 

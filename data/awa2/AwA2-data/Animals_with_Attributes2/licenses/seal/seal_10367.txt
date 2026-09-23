@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ccblaisdell
+Photo URL    : https://www.flickr.com/photos/colbyblaisdell/7586559982/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 4 19:10:34 GMT+0200 2011
+Upload Date  : Tue Jul 17 01:34:46 GMT+0200 2012
+Views        : 46
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Fur seal
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : zenia
+Photo URL    : https://www.flickr.com/photos/zenia/265434949/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 8 13:46:28 GMT+0200 2006
+Upload Date  : Tue Oct 10 00:18:55 GMT+0200 2006
+Views        : 248
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+racing
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+chicago " border collie" " beach" " dogs" 

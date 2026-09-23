@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mikemcsharry
+Photo URL    : https://www.flickr.com/photos/mikemcsharry/5985799408/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 28 07:17:27 GMT+0200 2011
+Upload Date  : Thu Jul 28 22:50:00 GMT+0200 2011
+Views        : 163
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+2 deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Early morning at Bradgate Park, Leicestershire
+
+
++--------+
+|  TAGS  |
++--------+
+"two deer" "too dear" 

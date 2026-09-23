@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : .angels.
+Photo URL    : https://www.flickr.com/photos/badlydrawn/88210096/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jan 18 17:12:54 GMT+0100 2006
+Upload Date  : Wed Jan 18 16:01:00 GMT+0100 2006
+Views        : 78
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+HPIM0567
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+looking at the watch
+
+
++--------+
+|  TAGS  |
++--------+
+hamster 

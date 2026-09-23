@@ -1,0 +1,12 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Photo URL    : https://commons.wikimedia.org/wiki/File:Walrus_herd_odobenus_rosmarus_fin_footed_marine_animals.jpg
+License      : public domain
+Date         : Not given

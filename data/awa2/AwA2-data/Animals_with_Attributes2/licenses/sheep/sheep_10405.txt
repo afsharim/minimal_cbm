@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Victoria Reay
+Photo URL    : https://www.flickr.com/photos/vkreay/139817305/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 29 11:31:39 GMT+0200 2006
+Upload Date  : Wed May 3 18:43:57 GMT+0200 2006
+Geotag Info  : Latitude:53.400935, Longitude:-1.831970
+Views        : 470
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Keen sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+It only took us thinking of food and they were there.
+
+
++--------+
+|  TAGS  |
++--------+
+Sheep animal walk lamb 

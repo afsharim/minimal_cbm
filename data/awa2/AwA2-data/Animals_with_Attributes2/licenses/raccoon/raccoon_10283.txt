@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : B A Bowen Photography
+Photo URL    : https://www.flickr.com/photos/riverbk/4016071952/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 10 03:44:08 GMT+0200 2009
+Upload Date  : Fri Oct 16 05:44:51 GMT+0200 2009
+Views        : 219
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Raccoon
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Junier Creek
+Juniper Springs
+Ocala National Forest
+
+
++--------+
+|  TAGS  |
++--------+
+"Juniper Creek" kayak paddle "Ocala National Forest" Florida 

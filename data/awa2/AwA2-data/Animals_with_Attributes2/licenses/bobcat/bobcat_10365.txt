@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ahisgett
+Photo URL    : https://www.flickr.com/photos/hisgett/13366120813/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Mar 11 14:02:59 GMT+0100 2014
+Upload Date  : Sun Mar 23 23:39:01 GMT+0100 2014
+Geotag Info  : Latitude:52.514157, Longitude:-2.078797
+Views        : 445
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Carpathian Lynx 7
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

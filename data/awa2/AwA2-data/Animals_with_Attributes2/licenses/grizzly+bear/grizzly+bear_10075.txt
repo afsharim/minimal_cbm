@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : azza-bazoo
+Photo URL    : https://www.flickr.com/photos/hourann/2449468256/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 27 12:52:04 GMT+0200 2008
+Upload Date  : Mon Apr 28 17:37:06 GMT+0200 2008
+Views        : 245
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+100_4153
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"grizzly bear" 

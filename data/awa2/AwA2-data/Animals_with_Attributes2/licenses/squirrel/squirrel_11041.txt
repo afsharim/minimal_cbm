@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : DaveW99999
+Photo URL    : https://www.flickr.com/photos/dave_warley/16886550481/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 21 14:48:53 GMT+0100 2015
+Upload Date  : Sun Mar 22 01:03:09 GMT+0100 2015
+Views        : 1,147
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Grey squirrel in the Botanical Gardens, Edinburgh, Scotland
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel grey garden grass botanical 

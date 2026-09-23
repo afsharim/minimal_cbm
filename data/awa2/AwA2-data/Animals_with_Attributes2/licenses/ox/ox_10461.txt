@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Taz-Voll
+Photo URL    : https://www.flickr.com/photos/79102347@N00/2757815271/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Aug 12 15:43:48 GMT+0200 2008
+Upload Date  : Wed Aug 13 02:47:33 GMT+0200 2008
+Views        : 47
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+LongHornCow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

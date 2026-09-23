@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : exfordy
+Photo URL    : https://www.flickr.com/photos/exfordy/2961965653/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Oct 7 07:58:09 GMT+0200 2008
+Upload Date  : Tue Oct 21 23:46:29 GMT+0200 2008
+Geotag Info  : Latitude:-34.028949, Longitude:22.141056
+Views        : 406
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Kameelperd Girrafe "Giraffa camelopardalis" "Botlierskop Private Game Reserve" "South Africa" exfordy 

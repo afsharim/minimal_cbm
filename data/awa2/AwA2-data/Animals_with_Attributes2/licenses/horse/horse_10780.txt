@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : SuborbitalPigeon
+Photo URL    : https://www.flickr.com/photos/bruce89/19209209661/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jun 23 20:24:20 GMT+0200 2015
+Upload Date  : Sat Jun 27 16:57:16 GMT+0200 2015
+Geotag Info  : Latitude:56.269846, Longitude:-5.494140
+Views        : 412
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horses "horse head" "black horse" 

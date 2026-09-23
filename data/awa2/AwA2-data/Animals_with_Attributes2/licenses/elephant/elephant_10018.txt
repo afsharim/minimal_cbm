@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MaxH42
+Photo URL    : https://www.flickr.com/photos/maxh42/9552407933/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 16 09:16:20 GMT+0200 2013
+Upload Date  : Tue Aug 20 15:41:35 GMT+0200 2013
+Geotag Info  : Latitude:-3.564821, Longitude:35.746765
+Views        : 114
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+2013-08-16 09.16.20
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Adult elephant grazing
+
+
++--------+
+|  TAGS  |
++--------+
+animal elephant 

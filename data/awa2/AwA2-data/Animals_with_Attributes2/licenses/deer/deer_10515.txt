@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Sandy Kirchlechner
+Photo URL    : https://www.flickr.com/photos/sandykirchlechner/5398758564/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jan 21 13:25:38 GMT+0100 2011
+Upload Date  : Sat Jan 29 19:18:06 GMT+0100 2011
+Geotag Info  : Latitude:-20.159098, Longitude:57.458496
+Views        : 149
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Mauritius fauna 

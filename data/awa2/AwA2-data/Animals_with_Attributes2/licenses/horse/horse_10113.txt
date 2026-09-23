@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : m.prinke
+Photo URL    : https://www.flickr.com/photos/mprinke/8542536398/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Feb 25 10:21:36 GMT+0100 2013
+Upload Date  : Sat Mar 9 17:31:53 GMT+0100 2013
+Geotag Info  : Latitude:47.399413, Longitude:13.644466
+Views        : 59
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Blondes Pferd
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

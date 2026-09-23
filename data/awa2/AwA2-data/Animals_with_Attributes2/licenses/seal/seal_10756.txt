@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Hot Meteor
+Photo URL    : https://www.flickr.com/photos/hotmeteor/107619366/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Feb 10 13:29:20 GMT+0100 2006
+Upload Date  : Sat Mar 4 16:10:36 GMT+0100 2006
+Views        : 48
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Seal.
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Kiss from a Rose.
+
+
++--------+
+|  TAGS  |
++--------+
+"New Zealand" seal "South Island" 

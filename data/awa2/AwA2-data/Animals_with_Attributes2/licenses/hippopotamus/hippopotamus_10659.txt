@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : leander.canaris
+Photo URL    : https://www.flickr.com/photos/28299495@N04/3885156886/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 22 21:22:42 GMT+0200 2009
+Upload Date  : Thu Sep 3 20:42:21 GMT+0200 2009
+Views        : 224
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Toronto Zoo - hippo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+toronto zoo hippo 

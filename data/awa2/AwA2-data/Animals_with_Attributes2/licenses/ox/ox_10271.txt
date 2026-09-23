@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : a.froese
+Photo URL    : https://www.flickr.com/photos/anfroese/8190749684/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 9 13:32:13 GMT+0200 2012
+Upload Date  : Fri Nov 16 12:30:34 GMT+0100 2012
+Geotag Info  : Latitude:51.617030, Longitude:9.974169
+Views        : 43
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Guck nicht so
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Highlandrind auf der Weide im Rodetal
+
+
++--------+
+|  TAGS  |
++--------+
+Highlandrind Rodetal Niedersachsen 

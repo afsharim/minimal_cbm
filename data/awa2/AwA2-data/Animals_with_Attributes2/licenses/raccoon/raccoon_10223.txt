@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : slava
+Photo URL    : https://www.flickr.com/photos/slava/4463698376/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Mar 17 00:50:15 GMT+0100 2010
+Upload Date  : Fri Mar 26 00:32:58 GMT+0100 2010
+Views        : 414
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Raccoon scurrying away
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+raccoon tree 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Percy Bottle
+Photo URL    : https://www.flickr.com/photos/percybottle/24014543671/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 8 13:55:21 GMT+0100 1977
+Upload Date  : Fri Jan 1 05:20:59 GMT+0100 2016
+Views        : 22
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horses at Port Elliot
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horse 

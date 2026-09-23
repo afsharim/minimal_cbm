@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : boviate
+Photo URL    : https://www.flickr.com/photos/boviate/4480497597/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 22 06:50:11 GMT+0100 2008
+Upload Date  : Thu Apr 1 08:17:01 GMT+0200 2010
+Geotag Info  : Latitude:42.141808, Longitude:-76.966792
+Views        : 49
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMGP5580
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+deer nature "Big Flats" 

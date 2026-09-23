@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : iansand
+Photo URL    : https://www.flickr.com/photos/iansand/3662288502/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 26 11:38:10 GMT+0200 2009
+Upload Date  : Fri Jun 26 09:10:21 GMT+0200 2009
+Geotag Info  : Latitude:-33.843063, Longitude:151.240353
+Views        : 1,067
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Sumatran Tiger <i>Panthera tigris sumatrae</i>
+
+
++--------+
+|  TAGS  |
++--------+
+tiger zoo taronga sydney nsw australia iansand captive taxonomy:genus=Panthera taxonomy:species=tigris tigris "taxonomy:trinomial=Panthera tigris sumatrae" "taxonomy:common=sumatran tiger" "Panthera tigris sumatrae" 

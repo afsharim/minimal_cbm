@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : caligula1995
+Photo URL    : https://www.flickr.com/photos/pussreboots/22636694271/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Apr 3 13:37:22 GMT+0200 2014
+Upload Date  : Sat Oct 31 04:59:24 GMT+0100 2015
+Geotag Info  : Latitude:37.751655, Longitude:-122.146928
+Views        : 47
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Oakland Zoo 20140403
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Zebra
+
+
++--------+
+|  TAGS  |
++--------+
+grass hay Oakland "Oakland Zoo" zebra 

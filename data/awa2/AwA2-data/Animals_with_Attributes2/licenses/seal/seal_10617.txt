@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : vonlohmann
+Photo URL    : https://www.flickr.com/photos/vonlohmann/11634981915/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Dec 28 10:31:45 GMT+0100 2013
+Upload Date  : Mon Dec 30 00:59:45 GMT+0100 2013
+Geotag Info  : Latitude:37.114753, Longitude:-122.328853
+Views        : 203
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Northern elephant seal, Año Nuevo State Park, California
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+known as T.S. (toilet seat) Elliot, this bull had a marine toilet seat stuck around its neck as a young animal until it was removed and still bears the scar.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

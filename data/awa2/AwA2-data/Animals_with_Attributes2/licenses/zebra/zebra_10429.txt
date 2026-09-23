@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Christina Spicuzza
+Photo URL    : https://www.flickr.com/photos/spicuzza/4867883284/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 6 11:52:17 GMT+0200 2010
+Upload Date  : Sat Aug 7 05:12:37 GMT+0200 2010
+Geotag Info  : Latitude:37.732371, Longitude:-122.502450
+Views        : 2,918
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+sleepy zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zoo "San Francisco Zoo" "San Francisco" zebra sleep sleepy tired relax 

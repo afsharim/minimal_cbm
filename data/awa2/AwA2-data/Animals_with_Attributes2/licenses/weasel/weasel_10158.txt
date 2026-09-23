@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : far closer
+Photo URL    : https://www.flickr.com/photos/farcloser/8872427132/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Apr 22 13:19:37 GMT+0200 2013
+Upload Date  : Wed May 29 01:24:14 GMT+0200 2013
+Views        : 135
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Weasel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

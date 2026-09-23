@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ptc24
+Photo URL    : https://www.flickr.com/photos/ptc24/20007343884/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Aug 4 14:45:30 GMT+0200 2015
+Upload Date  : Sun Aug 16 19:42:01 GMT+0200 2015
+Views        : 185
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Panasonic Lumix DMC-TZ60" 

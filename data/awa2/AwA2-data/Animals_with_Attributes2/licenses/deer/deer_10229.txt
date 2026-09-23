@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : seligmanwaite
+Photo URL    : https://www.flickr.com/photos/seligmanwaite/5227529787/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Dec 2 15:59:38 GMT+0100 2010
+Upload Date  : Fri Dec 3 04:05:15 GMT+0100 2010
+Geotag Info  : Latitude:40.089005, Longitude:-75.446956
+Views        : 257
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Deer grazing at Valley Forge
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+deer animals "animal planet" 

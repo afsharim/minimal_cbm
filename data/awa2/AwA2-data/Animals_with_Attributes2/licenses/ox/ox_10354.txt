@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : oztenphoto
+Photo URL    : https://www.flickr.com/photos/ozten/2110931183/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Nov 7 02:11:39 GMT+0100 2007
+Upload Date  : Sat Dec 15 00:04:01 GMT+0100 2007
+Views        : 32
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_1962.JPG
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+south_africa 

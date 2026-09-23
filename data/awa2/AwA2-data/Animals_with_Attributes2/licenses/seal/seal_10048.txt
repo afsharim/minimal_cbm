@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Christopher.Michel
+Photo URL    : https://www.flickr.com/photos/cmichel67/8381225797/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 6 11:04:18 GMT+0100 2013
+Upload Date  : Tue Jan 15 01:05:58 GMT+0100 2013
+Geotag Info  : Latitude:-65.250950, Longitude:-64.254451
+Views        : 347
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Antartica
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Christopher Michel" "verdansky station" antarctica seal penguins "sunset Christopher Michel" 

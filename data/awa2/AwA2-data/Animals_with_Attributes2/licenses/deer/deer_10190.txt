@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Janitors
+Photo URL    : https://www.flickr.com/photos/janitors/13964914361/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Apr 21 12:52:11 GMT+0200 2014
+Upload Date  : Tue Apr 22 13:19:06 GMT+0200 2014
+Views        : 237
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer at Riga Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"riga zoo" deer zoo animal 

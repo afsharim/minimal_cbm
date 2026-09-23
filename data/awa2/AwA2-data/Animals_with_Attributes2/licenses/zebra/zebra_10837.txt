@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : hyperial
+Photo URL    : https://www.flickr.com/photos/hyperial/5617461068/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Oct 6 23:34:05 GMT+0200 2010
+Upload Date  : Wed Apr 13 22:44:23 GMT+0200 2011
+Views        : 25
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

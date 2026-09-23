@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ditzywolflady
+Photo URL    : https://www.flickr.com/photos/ditzywolf/1055323880/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Aug 8 15:49:08 GMT+0200 2007
+Upload Date  : Wed Jun 15 18:35:07 GMT+0200 2005
+Views        : 7
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

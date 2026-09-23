@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jérémy Couture
+Photo URL    : https://www.flickr.com/photos/jeremy-couture/5658549393/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 23 15:18:24 GMT+0200 2011
+Upload Date  : Tue Apr 26 22:44:22 GMT+0200 2011
+Geotag Info  : Latitude:48.863980, Longitude:1.792488
+Views        : 464
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Elephant Zoo Thoiry 

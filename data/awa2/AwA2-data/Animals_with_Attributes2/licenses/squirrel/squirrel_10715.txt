@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : hanspoldoja
+Photo URL    : https://www.flickr.com/photos/hanspoldoja/2857613240/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 7 12:26:47 GMT+0200 2008
+Upload Date  : Sun Sep 14 23:23:54 GMT+0200 2008
+Geotag Info  : Latitude:60.184482, Longitude:24.887197
+Views        : 45
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel seurasaari Helsinki Finland 

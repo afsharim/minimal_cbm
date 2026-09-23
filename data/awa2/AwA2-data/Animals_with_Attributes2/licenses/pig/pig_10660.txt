@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Chris & Angela Pye
+Photo URL    : https://www.flickr.com/photos/pyepics/8807158010/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon May 6 10:19:29 GMT+0200 2013
+Upload Date  : Thu May 23 23:42:42 GMT+0200 2013
+Geotag Info  : Latitude:52.562949, Longitude:0.930007
+Views        : 25
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+pig
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+animal Farm "Melsop Farm" Nature Norfolk "wildlife collection" 

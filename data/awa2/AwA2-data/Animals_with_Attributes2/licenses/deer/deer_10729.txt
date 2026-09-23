@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : neepster
+Photo URL    : https://www.flickr.com/photos/neepster/3044734045/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jun 17 22:47:59 GMT+0200 2008
+Upload Date  : Thu Nov 20 08:42:43 GMT+0100 2008
+Geotag Info  : Latitude:34.693708, Longitude:135.829982
+Views        : 47
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Nara Japan 2008 Daibutsu Daitokuji 

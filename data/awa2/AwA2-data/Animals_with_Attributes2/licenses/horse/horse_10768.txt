@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : CL.Baker
+Photo URL    : https://www.flickr.com/photos/coloradochris/15611543656/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 25 08:45:16 GMT+0200 2014
+Upload Date  : Sun Oct 26 21:12:13 GMT+0100 2014
+Views        : 42
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+OLYMPUS DIGITAL CAMERA
+
+
++--------+
+|  TAGS  |
++--------+
+horse 2014 Colorado 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ThePitcher
+Photo URL    : https://www.flickr.com/photos/thepitcher/5403522448/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jan 28 15:36:03 GMT+0100 2011
+Upload Date  : Mon Jan 31 04:31:01 GMT+0100 2011
+Geotag Info  : Latitude:43.822854, Longitude:-79.181857
+Views        : 253
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Amir Tiger 2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Apparently the new tiger at the Toronto Zoo thinks my colleague would be tasty.
+
+
++--------+
+|  TAGS  |
++--------+
+tiger "Toronto Zoo" zoo 

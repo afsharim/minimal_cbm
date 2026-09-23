@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : isante_magazine
+Photo URL    : https://www.flickr.com/photos/isante/4908126474/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 19 13:35:50 GMT+0200 2010
+Upload Date  : Thu Aug 19 19:35:50 GMT+0200 2010
+Views        : 45
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+wine fed cow cow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

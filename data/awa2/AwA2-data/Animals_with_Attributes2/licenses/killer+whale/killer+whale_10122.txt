@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : rickpilot_2000
+Photo URL    : https://www.flickr.com/photos/26531284@N02/8173029345/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Nov 7 13:26:54 GMT+0100 2012
+Upload Date  : Sat Nov 10 21:56:20 GMT+0100 2012
+Geotag Info  : Latitude:28.408378, Longitude:-81.462367
+Views        : 191
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Killer Whale
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+PB074003.jpg
+
+
++--------+
+|  TAGS  |
++--------+
+geo:city=orlando "geo:country=united states of america" geo:state=florida geo:place=seaworld Seaworld 

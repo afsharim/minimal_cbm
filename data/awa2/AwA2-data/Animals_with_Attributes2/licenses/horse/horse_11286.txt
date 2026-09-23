@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : stachelbeer
+Photo URL    : https://www.flickr.com/photos/mario_storch/2318148153/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Sep 15 00:00:00 GMT+0200 1999
+Upload Date  : Sat Mar 8 17:01:34 GMT+0100 2008
+Geotag Info  : Latitude:47.590239, Longitude:12.990818
+Views        : 404
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Pferd oder Kuh?
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Pferd Rinder 

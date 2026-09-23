@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mattymatt
+Photo URL    : https://www.flickr.com/photos/mattymatt/3516593848/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 25 09:57:45 GMT+0200 2009
+Upload Date  : Sat May 9 22:24:26 GMT+0200 2009
+Views        : 83
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+What do you have that we can eat
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+rats 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : 3dpete
+Photo URL    : https://www.flickr.com/photos/petehogan/2687822871/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 18 12:04:58 GMT+0200 2008
+Upload Date  : Mon Jul 21 09:30:52 GMT+0200 2008
+Views        : 647
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Brown Bear 3
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Brown Bear seen at Woodland Park Zoo.
+
+
++--------+
+|  TAGS  |
++--------+
+28-105mm Canon XSi "Seattle Zoo" 450d Bear 

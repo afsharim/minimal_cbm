@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : StevenW.
+Photo URL    : https://www.flickr.com/photos/helloeveryone123/4491234407/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 4 14:49:32 GMT+0200 2010
+Upload Date  : Mon Apr 5 03:26:35 GMT+0200 2010
+Geotag Info  : Latitude:39.166657, Longitude:-86.522607
+Views        : 404
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel animal indiana 

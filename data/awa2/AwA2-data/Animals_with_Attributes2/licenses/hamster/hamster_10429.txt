@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jpockele
+Photo URL    : https://www.flickr.com/photos/jpockele/383051503/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Feb 7 22:15:05 GMT+0100 2007
+Upload Date  : Wed Feb 7 22:15:05 GMT+0100 2007
+Geotag Info  : Latitude:51.279589, Longitude:4.442111
+Views        : 15,054
+Comments     : 6
+
+
++---------+
+|  TITLE  |
++---------+
+Knibbel is a big fat hamster
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+knibbel russian dwarf hamster cute 

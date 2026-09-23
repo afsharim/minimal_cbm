@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ben124.
+Photo URL    : https://www.flickr.com/photos/ben124/6223310083/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Sep 1 12:58:06 GMT+0200 2011
+Upload Date  : Sat Oct 8 20:10:39 GMT+0200 2011
+Views        : 10,326
+Comments     : 15
+
+
++---------+
+|  TITLE  |
++---------+
+A small mouse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Wild life park" mouse grey small animal 

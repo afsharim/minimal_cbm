@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : BobstersPIX
+Photo URL    : https://www.flickr.com/photos/69855181@N07/6868733289/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Dec 23 09:16:27 GMT+0100 2011
+Upload Date  : Mon Feb 13 11:27:56 GMT+0100 2012
+Geotag Info  : Latitude:-28.070153, Longitude:32.118358
+Views        : 78
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cape Buffalo - Hluhluwe-Imfolozi Game Park.
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This photo was taken with a Sigma 120-400mm APO DG OS HSM on a Canon 550D in Hluhluwe-Imfolozi Game Park.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

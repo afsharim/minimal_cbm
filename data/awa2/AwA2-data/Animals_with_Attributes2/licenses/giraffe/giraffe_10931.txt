@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : tom.lubbock
+Photo URL    : https://www.flickr.com/photos/tomlubbock/10652246865/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Sep 11 08:46:17 GMT+0200 2013
+Upload Date  : Sun Nov 3 19:39:51 GMT+0100 2013
+Views        : 108
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_1246
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+giraffe 

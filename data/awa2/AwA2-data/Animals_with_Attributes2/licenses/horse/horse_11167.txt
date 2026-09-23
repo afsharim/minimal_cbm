@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jeremy Gilbrech
+Photo URL    : https://www.flickr.com/photos/jgilbrech/3498977271/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 3 20:36:22 GMT+0200 2009
+Upload Date  : Mon May 4 05:40:09 GMT+0200 2009
+Geotag Info  : Latitude:35.253487, Longitude:-89.417649
+Views        : 341
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lone Horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Horse in Somerville
+
+
++--------+
+|  TAGS  |
++--------+
+horse somerville tennessee 

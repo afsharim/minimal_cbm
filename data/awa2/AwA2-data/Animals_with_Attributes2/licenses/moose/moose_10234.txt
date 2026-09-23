@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : tuchodi
+Photo URL    : https://www.flickr.com/photos/tuchodi/15603222318/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Nov 14 08:34:52 GMT+0100 2014
+Upload Date  : Fri Nov 14 19:13:20 GMT+0100 2014
+Views        : 737
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Moose Crossing
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Moose Crossing
+
+
++--------+
+|  TAGS  |
++--------+
+fields wildlife snow moose "Tamron AF 18-270mm f/3.5-6.3 Di II VC LD Aspherical [IF] Macro" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : reivax
+Photo URL    : https://www.flickr.com/photos/reivax/276817308/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 22 16:29:22 GMT+0200 2006
+Upload Date  : Mon Oct 23 03:27:39 GMT+0200 2006
+Geotag Info  : Latitude:38.930395, Longitude:-77.053497
+Views        : 64
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Otters
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A cropped version of this photo was used by the Hoosier Times on Sunday Dec 31 2006, on page C1.
+
+
++--------+
+|  TAGS  |
++--------+
+washington dc zoo nationalzoo animals otter 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : LHOON
+Photo URL    : https://www.flickr.com/photos/lhoon/3586741381/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri May 22 10:30:51 GMT+0200 2009
+Upload Date  : Tue Jun 2 02:27:34 GMT+0200 2009
+Geotag Info  : Latitude:50.984638, Longitude:3.294138
+Views        : 1,717
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+belgië belgium belgique gr128 sheep 

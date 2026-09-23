@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : brokinhrt2
+Photo URL    : https://www.flickr.com/photos/dq090702/2928445848/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Oct 2 15:51:28 GMT+0200 2008
+Upload Date  : Fri Oct 10 04:09:29 GMT+0200 2008
+Views        : 12
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

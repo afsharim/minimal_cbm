@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : James Cridland
+Photo URL    : https://www.flickr.com/photos/jamescridland/3893951567/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Sep 3 11:10:56 GMT+0200 2009
+Upload Date  : Mon Sep 7 00:58:50 GMT+0200 2009
+Geotag Info  : Latitude:47.546652, Longitude:7.577219
+Views        : 49
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Mouse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

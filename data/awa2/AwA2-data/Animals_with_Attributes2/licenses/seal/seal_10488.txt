@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : KimonBerlin
+Photo URL    : https://www.flickr.com/photos/kimon/4327072084/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 17 15:30:30 GMT+0100 2010
+Upload Date  : Wed Feb 3 04:34:32 GMT+0100 2010
+Geotag Info  : Latitude:37.114344, Longitude:-122.326473
+Views        : 120
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_5730_DxO_raw
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Año Nuevo State Reserve" "elephant seal" california 

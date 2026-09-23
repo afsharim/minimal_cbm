@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : César Rincón
+Photo URL    : https://www.flickr.com/photos/crincon/970159843/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 22 15:38:41 GMT+0100 2005
+Upload Date  : Wed Aug 1 08:00:45 GMT+0200 2007
+Geotag Info  : Latitude:20.725346, Longitude:-103.308112
+Views        : 175
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+20050122153841-0
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+hippopotamus hippo zoo 

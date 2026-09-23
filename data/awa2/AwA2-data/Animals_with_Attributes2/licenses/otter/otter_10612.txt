@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : GregTheBusker
+Photo URL    : https://www.flickr.com/photos/gregthebusker/6876759063/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 28 11:44:10 GMT+0100 2012
+Upload Date  : Tue Feb 14 19:36:36 GMT+0100 2012
+Geotag Info  : Latitude:40.597963, Longitude:-122.329673
+Views        : 726
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+River Otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+California river otter 

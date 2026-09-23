@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Eric Kilby
+Photo URL    : https://www.flickr.com/photos/ekilby/1464945997/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 30 16:14:57 GMT+0200 2007
+Upload Date  : Mon Oct 1 03:01:05 GMT+0200 2007
+Geotag Info  : Latitude:42.064268, Longitude:-71.586366
+Views        : 803
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Check out my Rack
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+antleriffic
+
+
++--------+
+|  TAGS  |
++--------+
+southwick zoo deer buck antlers 

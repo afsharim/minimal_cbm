@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : CaptainBagpuss
+Photo URL    : https://www.flickr.com/photos/79245843@N02/9183731595/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Feb 18 15:33:07 GMT+0100 2013
+Upload Date  : Mon Jul 1 19:10:01 GMT+0200 2013
+Views        : 116
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+The deer of Dyrham park
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+deer dyrham 

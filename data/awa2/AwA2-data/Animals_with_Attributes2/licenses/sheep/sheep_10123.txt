@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Freolic
+Photo URL    : https://www.flickr.com/photos/lord_otterby/3373091511/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 21 11:35:49 GMT+0100 2009
+Upload Date  : Sat Mar 21 22:11:00 GMT+0100 2009
+Views        : 75
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Blackface Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

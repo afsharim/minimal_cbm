@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Leftism/Phill
+Photo URL    : https://www.flickr.com/photos/skullycollins/4195311817/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 6 22:22:49 GMT+0200 2009
+Upload Date  : Fri Dec 18 22:24:40 GMT+0100 2009
+Views        : 2,705
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+The Hamsters
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Dave, Colin and Karl and huddle up on the wheel.
+
+
++--------+
+|  TAGS  |
++--------+
+"Roborovski Hamster" 

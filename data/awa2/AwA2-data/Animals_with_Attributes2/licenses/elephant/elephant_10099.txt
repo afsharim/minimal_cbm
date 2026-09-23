@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ianloic
+Photo URL    : https://www.flickr.com/photos/ianloic/427255907/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 11 14:36:54 GMT+0100 2007
+Upload Date  : Mon Mar 19 22:22:40 GMT+0100 2007
+Views        : 212
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bored elephants
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+At the Oakland Zoo...
+
+
++--------+
+|  TAGS  |
++--------+
+oakland zoo oaklandzoo elephants 

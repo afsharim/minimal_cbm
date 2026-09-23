@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : wburris
+Photo URL    : https://www.flickr.com/photos/billburris/2271867076/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 16 14:42:38 GMT+0100 2008
+Upload Date  : Sun Feb 17 17:40:40 GMT+0100 2008
+Geotag Info  : Latitude:53.528096, Longitude:-113.548797
+Views        : 877
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horses
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The Edmonton 2008 <a href="http://www.silverskatefestival.org/index.htm" rel="nofollow">Silver Skate Festival</a>.
+
+
++--------+
+|  TAGS  |
++--------+
+Edmonton Alberta Canada snow ice winter Park "Silver Skate Festival" Hawrelak "Hawrelak Park" "Sleigh Ride" horses 

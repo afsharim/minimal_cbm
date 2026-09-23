@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sbeam
+Photo URL    : https://www.flickr.com/photos/sbeam/6835821957/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 5 12:58:50 GMT+0100 2012
+Upload Date  : Tue Feb 7 15:45:39 GMT+0100 2012
+Geotag Info  : Latitude:43.472363, Longitude:-70.709901
+Views        : 136
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_1574.JPG
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+flick sheep wooleverfarm 

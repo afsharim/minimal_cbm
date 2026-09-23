@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : dboy
+Photo URL    : https://www.flickr.com/photos/dannyboyster/64515038/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 5 11:30:29 GMT+0100 2005
+Upload Date  : Fri Nov 18 17:47:06 GMT+0100 2005
+Views        : 1,596
+Comments     : 12
+
+
++---------+
+|  TITLE  |
++---------+
+Pig
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Oink oink.
+
+
++--------+
+|  TAGS  |
++--------+
+pot-bellied pig pork dboy subic zoobic 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jdsmith1021
+Photo URL    : https://www.flickr.com/photos/jdsmith1021/3623547667/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 13 14:36:05 GMT+0200 2009
+Upload Date  : Sun Jun 14 07:07:10 GMT+0200 2009
+Geotag Info  : Latitude:45.509113, Longitude:-122.713336
+Views        : 280
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hippopotamus
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Hippopotamus oregon zoo resting sleeping "oregon zoo" portland pdx 

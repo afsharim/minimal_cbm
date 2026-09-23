@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : asokolik
+Photo URL    : https://www.flickr.com/photos/asokolik/8012525321/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Feb 23 16:01:58 GMT+0100 2012
+Upload Date  : Sat Sep 22 19:09:08 GMT+0200 2012
+Geotag Info  : Latitude:42.938218, Longitude:-78.852374
+Views        : 184
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_8775
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Buffalo Zoo" "Buffalo Zoological Gardens" "Grizzly Bear" 

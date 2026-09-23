@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : leguan001
+Photo URL    : https://www.flickr.com/photos/leguan001/2855726253/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Sep 9 13:57:15 GMT+0200 2008
+Upload Date  : Sun Sep 14 17:53:42 GMT+0200 2008
+Geotag Info  : Latitude:53.605374, Longitude:11.443909
+Views        : 38
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zoo Schwerin Mecklenburg-Vorpommern Deutschland DEU tiger 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Rene Mensen
+Photo URL    : https://www.flickr.com/photos/renemensen/4872067391/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 31 10:17:38 GMT+0200 2010
+Upload Date  : Sun Aug 8 19:57:48 GMT+0200 2010
+Geotag Info  : Latitude:52.786049, Longitude:6.896796
+Views        : 1,034
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+tiger stripes emmen dierentuin noorderdierenpark zoo "the nehterlands" holland 

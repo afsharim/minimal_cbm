@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MookFarm
+Photo URL    : https://www.flickr.com/photos/mookfarm/4444424370/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Sep 6 11:56:22 GMT+0200 2006
+Upload Date  : Fri Mar 19 00:20:40 GMT+0100 2010
+Views        : 533
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Baby Pig at Mook Farm
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This was one of the last pigs to be born at Mook Farm.
+
+
++--------+
+|  TAGS  |
++--------+
+"baby pig" pig "flying pig" "when pigs fly" "pig in the sky" sky 

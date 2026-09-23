@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : quinet
+Photo URL    : https://www.flickr.com/photos/quinet/3331909393/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 26 03:30:06 GMT+0200 2007
+Upload Date  : Fri Mar 6 07:34:04 GMT+0100 2009
+Views        : 300
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Icelandic Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Iceland
+
+
++--------+
+|  TAGS  |
++--------+
+2007 Iceland July Vestmannaeyjar "Westman Islands" sheep 

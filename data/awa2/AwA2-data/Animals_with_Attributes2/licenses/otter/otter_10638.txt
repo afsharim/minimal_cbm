@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : divrdan2
+Photo URL    : https://www.flickr.com/photos/divrdan2/7877589834/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 26 12:22:00 GMT+0200 2012
+Upload Date  : Tue Aug 28 05:12:25 GMT+0200 2012
+Geotag Info  : Latitude:36.605640, Longitude:-121.891583
+Views        : 137
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sea Otter with food
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"sea otter" Monterey 

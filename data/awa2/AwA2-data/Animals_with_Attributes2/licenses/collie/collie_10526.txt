@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Lil Shepherd
+Photo URL    : https://www.flickr.com/photos/lilshepherd/6955811916/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 22 10:14:18 GMT+0200 2012
+Upload Date  : Sun Apr 22 14:21:14 GMT+0200 2012
+Views        : 422
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Running
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+dogs bren "smooth collie" 

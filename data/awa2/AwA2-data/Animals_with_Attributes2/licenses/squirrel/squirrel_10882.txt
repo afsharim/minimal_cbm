@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : N0 Photoshop
+Photo URL    : https://www.flickr.com/photos/jayscollection/6252704128/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 5 18:36:48 GMT+0200 2010
+Upload Date  : Mon Oct 17 05:26:58 GMT+0200 2011
+Views        : 15
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

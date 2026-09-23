@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : voodinator
+Photo URL    : https://www.flickr.com/photos/voodinator/7434374830/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 23 13:31:03 GMT+0200 2012
+Upload Date  : Sun Jun 24 21:23:14 GMT+0200 2012
+Views        : 109
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Zoo Köln
+
+
++--------+
+|  TAGS  |
++--------+
+zoo animal animals tier tiere zebra 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : PreciousBytes
+Photo URL    : https://www.flickr.com/photos/72562013@N06/8348533177/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 5 16:26:49 GMT+0100 2013
+Upload Date  : Sat Jan 5 23:26:49 GMT+0100 2013
+Geotag Info  : Latitude:-37.784417, Longitude:144.951086
+Views        : 282
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Afternoon Snack
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Melbourne Zoo" zebra eating stripes 

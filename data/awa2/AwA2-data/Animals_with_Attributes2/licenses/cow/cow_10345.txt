@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Paul and Jill
+Photo URL    : https://www.flickr.com/photos/pauljill/4805899599/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 4 06:31:37 GMT+0200 2010
+Upload Date  : Mon Jul 19 00:08:02 GMT+0200 2010
+Geotag Info  : Latitude:46.005725, Longitude:7.697811
+Views        : 145
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+cow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+cow Zmuttback Stafelalp hiking Switzerland 

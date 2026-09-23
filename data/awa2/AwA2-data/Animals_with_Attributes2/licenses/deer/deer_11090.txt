@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : donjd2
+Photo URL    : https://www.flickr.com/photos/ddebold/7325060694/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 2 19:10:43 GMT+0200 2012
+Upload Date  : Sun Jun 3 07:01:05 GMT+0200 2012
+Geotag Info  : Latitude:37.215333, Longitude:-121.791000
+Views        : 257
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Oh look, there's some guy with a camera
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Deer sequence #1
+
+
++--------+
+|  TAGS  |
++--------+
+deer "santa teresa county park" 

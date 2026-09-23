@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Eric Kilby
+Photo URL    : https://www.flickr.com/photos/ekilby/3917685062/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 13 15:17:55 GMT+0200 2009
+Upload Date  : Mon Sep 14 01:11:32 GMT+0200 2009
+Geotag Info  : Latitude:42.462773, Longitude:-71.093666
+Views        : 447
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lynx
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+lynx cat stone zoo 

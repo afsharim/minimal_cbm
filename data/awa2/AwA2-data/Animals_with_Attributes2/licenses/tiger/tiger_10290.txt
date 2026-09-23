@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : NH53
+Photo URL    : https://www.flickr.com/photos/nh53/5155229327/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Dec 4 07:35:32 GMT+0100 2007
+Upload Date  : Sun Nov 7 22:17:57 GMT+0100 2010
+Geotag Info  : Latitude:23.580979, Longitude:80.437774
+Views        : 1,607
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger (Bandhavgarh)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+tiger bandhavgarh 

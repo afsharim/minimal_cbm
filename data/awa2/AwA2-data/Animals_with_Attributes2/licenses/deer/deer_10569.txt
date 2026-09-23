@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : allenran 917
+Photo URL    : https://www.flickr.com/photos/allenran917/6948316209/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Feb 28 17:58:43 GMT+0100 2012
+Upload Date  : Sat Mar 3 07:36:14 GMT+0100 2012
+Geotag Info  : Latitude:35.631628, Longitude:-83.654365
+Views        : 238
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+sunset 2012 cades cove "great smoky mountain" colour sun "national park" spring deer 

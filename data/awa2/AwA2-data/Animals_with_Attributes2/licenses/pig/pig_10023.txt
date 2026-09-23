@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Keith Laverack
+Photo URL    : https://www.flickr.com/photos/akandbdl/5396175505/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jan 7 12:58:58 GMT+0100 2008
+Upload Date  : Fri Jan 28 23:36:26 GMT+0100 2011
+Geotag Info  : Latitude:53.951767, Longitude:-0.876502
+Views        : 42
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+2008 01 07_Wilberfoss Floods_0001
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Burton's Pigs Birker Lane Wilberfoss
+
+
++--------+
+|  TAGS  |
++--------+
+Wilberfoss Pigs "Birker Lane" Burton's "Floods 2008" 1.Flickr "1.Keith Laverack" 1.Facebook 

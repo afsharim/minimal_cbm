@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : berniedup
+Photo URL    : https://www.flickr.com/photos/berniedup/12033127823/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Dec 10 14:43:57 GMT+0100 2013
+Upload Date  : Sun Jan 19 17:35:57 GMT+0100 2014
+Geotag Info  : Latitude:-24.390566, Longitude:31.720833
+Views        : 764
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hippo (Hippopotamus amphibius) grazing
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Nsemani, H7 Road West of Satara, Kruger NP, SOUTH AFRICA
+
+
++--------+
+|  TAGS  |
++--------+
+"Hippopotamus amphibius" "taxonomy:binomial=Hippopotamus amphibius" 

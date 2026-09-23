@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Danny Chapman
+Photo URL    : https://www.flickr.com/photos/11152520@N03/1383144646/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 27 08:54:57 GMT+0200 2003
+Upload Date  : Fri Sep 14 23:20:09 GMT+0200 2007
+Views        : 127
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Jean Pierre
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This rat used to belong to my cousin Sally (<a href="http://www.flickr.com/photos/7266467@N02/">www.flickr.com/photos/7266467@N02/</a>) but I had the pleasure of looking after him when she went to Japan (I think).
+
+
++--------+
+|  TAGS  |
++--------+
+rat 

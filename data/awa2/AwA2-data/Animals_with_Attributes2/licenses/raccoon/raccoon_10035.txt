@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : string_bass_dave
+Photo URL    : https://www.flickr.com/photos/string_bass_dave/21923334020/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Oct 9 16:45:44 GMT+0200 2015
+Upload Date  : Mon Oct 12 16:46:05 GMT+0200 2015
+Views        : 603
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Baby Raccoon
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+In the cleft of a tree in Clear Lake State Park in California.
+
+We watched this little guy climb way up into this live oak, turn around once, and then nap for about three hours.  Finally he came down and I captured this image before he scampered all of the way to the ground and headed for Kelsey Slough.
+
+
++--------+
+|  TAGS  |
++--------+
+raccoon "Clear Lake State Park" "Clear Lake" "Canon EF 400mm f/5.6L" 

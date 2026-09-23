@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Eric Kilby
+Photo URL    : https://www.flickr.com/photos/ekilby/2750918169/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 10 14:53:27 GMT+0200 2008
+Upload Date  : Mon Aug 11 02:07:19 GMT+0200 2008
+Geotag Info  : Latitude:42.064268, Longitude:-71.586366
+Views        : 537
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Running Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+southwick zoo massachusetts august 2008 deer forest running 

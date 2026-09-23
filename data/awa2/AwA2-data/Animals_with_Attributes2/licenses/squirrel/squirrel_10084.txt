@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Bobolink
+Photo URL    : https://www.flickr.com/photos/bobolink/5885740178/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 27 17:55:41 GMT+0200 2011
+Upload Date  : Wed Jun 29 22:34:03 GMT+0200 2011
+Geotag Info  : Latitude:44.295549, Longitude:-77.553364
+Views        : 672
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Black Squirrel_4813
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Black Squirrel" Stirling Ontario 

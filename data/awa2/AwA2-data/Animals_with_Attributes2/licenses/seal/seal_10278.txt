@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mackenzie and john
+Photo URL    : https://www.flickr.com/photos/mackenzieandjohn/5058376479/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Oct 6 19:46:01 GMT+0200 2010
+Upload Date  : Thu Oct 7 04:46:01 GMT+0200 2010
+Geotag Info  : Latitude:35.627717, Longitude:-121.159747
+Views        : 1,758
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+elephant seals sparring
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+a pair of sparring elephant seals on the beach near san simeon, california
+
+
++--------+
+|  TAGS  |
++--------+
+elephant seal "elephant seal" seals "elephant seals" sparring "sparring elephant seals" "elephant seals sparring" 

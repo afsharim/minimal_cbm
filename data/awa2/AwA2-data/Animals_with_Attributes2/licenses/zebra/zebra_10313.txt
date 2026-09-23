@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : nDuDuDu
+Photo URL    : https://www.flickr.com/photos/joburg_kaykay/8623399625/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Apr 1 06:48:54 GMT+0200 2013
+Upload Date  : Sat Apr 6 12:49:24 GMT+0200 2013
+Views        : 102
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Madikwe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Zebra
+
+
++--------+
+|  TAGS  |
++--------+
+EOS650-Home,Madikwe 

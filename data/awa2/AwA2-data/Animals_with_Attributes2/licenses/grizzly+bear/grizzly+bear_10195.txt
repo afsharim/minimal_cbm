@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Christoph Strässler
+Photo URL    : https://www.flickr.com/photos/christoph_straessler/10141960713/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 10 21:42:40 GMT+0200 2013
+Upload Date  : Mon Oct 7 20:13:36 GMT+0200 2013
+Geotag Info  : Latitude:58.555247, Longitude:-155.792312
+Views        : 368
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Brown Bear at Brook Falls
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+16-9 "Alaska 2013" Braunbär "Brooks Camp" "Katmai National Park" Alaska USA 

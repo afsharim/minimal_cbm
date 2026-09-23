@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : a200/a77Wells
+Photo URL    : https://www.flickr.com/photos/aiwells/9281936630/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 13 11:18:21 GMT+0200 2013
+Upload Date  : Sun Jul 14 05:44:56 GMT+0200 2013
+Geotag Info  : Latitude:37.859280, Longitude:-122.441628
+Views        : 114
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Mama and babies
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

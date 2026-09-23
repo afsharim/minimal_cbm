@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MLazarevski
+Photo URL    : https://www.flickr.com/photos/mlazarevski/7863873524/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 26 15:23:22 GMT+0200 2012
+Upload Date  : Sun Aug 26 15:25:52 GMT+0200 2012
+Geotag Info  : Latitude:41.995998, Longitude:21.431299
+Views        : 1,160
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Doe Deers
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+skopje zoo deers 

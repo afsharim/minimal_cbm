@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : deb roby
+Photo URL    : https://www.flickr.com/photos/darinhercules/188076973/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 12 07:42:32 GMT+0200 2006
+Upload Date  : Wed Jul 12 16:42:32 GMT+0200 2006
+Views        : 609
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Jake#1
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Jake playing in a park.  With omnipresent ball
+
+
++--------+
+|  TAGS  |
++--------+
+dogs border collie 

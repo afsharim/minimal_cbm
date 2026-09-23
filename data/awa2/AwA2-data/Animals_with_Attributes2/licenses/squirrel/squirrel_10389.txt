@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : BobMacInnes
+Photo URL    : https://www.flickr.com/photos/lonetown/3143311360/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Dec 26 13:09:12 GMT+0100 2008
+Upload Date  : Sun Dec 28 05:15:04 GMT+0100 2008
+Views        : 14
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Munching squirrel 4
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

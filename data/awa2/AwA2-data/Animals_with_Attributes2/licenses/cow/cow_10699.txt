@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : groks
+Photo URL    : https://www.flickr.com/photos/groks/499550510/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue May 15 16:14:13 GMT+0200 2007
+Upload Date  : Tue May 15 17:14:13 GMT+0200 2007
+Geotag Info  : Latitude:54.942329, Longitude:-3.032741
+Views        : 279
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Curious Cows
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Curious cows captivated by captured crows.
+
+
++--------+
+|  TAGS  |
++--------+
+cows burghmarsh burgh cumbria solwayfirth 

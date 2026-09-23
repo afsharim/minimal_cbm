@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : snowpeak
+Photo URL    : https://www.flickr.com/photos/snowpeak/4195941869/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Dec 18 21:17:15 GMT+0100 2009
+Upload Date  : Sat Dec 19 04:53:03 GMT+0100 2009
+Views        : 978
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Bobcat and Rhino
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Here's a rare shot of a bobcat and a blue rhinoceros together.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

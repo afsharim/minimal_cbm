@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : True New Zealand Adventures
+Photo URL    : https://www.flickr.com/photos/truenewzealandadventurestours/6698289455/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 14 21:02:02 GMT+0100 2012
+Upload Date  : Sun Jan 15 03:02:02 GMT+0100 2012
+Views        : 1,107
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+New Zealand Tour Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Sheep, South Island, New Zealand,True New Zealand Adventures Tours. <a href="http://www.truenewzealand.com" rel="nofollow">www.truenewzealand.com</a>
+
+
++--------+
+|  TAGS  |
++--------+
+"New Zealand" sheep 

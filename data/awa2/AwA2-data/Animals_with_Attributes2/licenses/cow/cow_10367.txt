@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Chris_Parfitt
+Photo URL    : https://www.flickr.com/photos/chr1sp/5942568794/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 16 09:20:55 GMT+0200 2011
+Upload Date  : Sat Jul 16 10:20:55 GMT+0200 2011
+Views        : 223
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+cow cattle "new forest" 

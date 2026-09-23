@@ -1,0 +1,19 @@
++--------------------------------------+
+|       Pixabay Photo Metadata         |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Vijayanarasimha
+Photo URL    : https://pixabay.com/en/bats-dharwad-bat-eared-india-mamma-300861/
+License      : CC0 Public Domain (https://creativecommons.org/publicdomain/zero/1.0/deed.en)
+Created      : March 29, 2014
+Uploaded     : March 31, 2014
+
++--------+
+|  TAGS  |
++--------+
+Bats, Dharwad, Bat-Eared, India, Mamma, Fly, Wings

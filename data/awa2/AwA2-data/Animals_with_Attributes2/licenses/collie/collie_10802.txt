@@ -1,0 +1,19 @@
++--------------------------------------+
+|       Pixabay Photo Metadata         |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : stevelancaster
+Photo URL    : https://pixabay.com/en/border-collie-puppy-dog-1167898/
+License      : CC0 Public Domain (https://creativecommons.org/publicdomain/zero/1.0/deed.en)
+Created      : Oct. 17, 2014
+Uploaded     : 5 months ago
+
++--------+
+|  TAGS  |
++--------+
+Border Collie, Puppy, Dog

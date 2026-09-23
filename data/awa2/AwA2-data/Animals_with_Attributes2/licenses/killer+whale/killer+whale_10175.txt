@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : John Harwood
+Photo URL    : https://www.flickr.com/photos/john_t_harwood/2522876723/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed May 21 12:51:54 GMT+0200 2008
+Upload Date  : Mon May 26 07:26:03 GMT+0200 2008
+Views        : 249
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Orca on surface
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+C:\Users\John Harwood\AppData\Roaming\Flickr\Flickr Uploadr\Profiles\4yk0tulp.default\images\Orca surface-thumb.JPG 

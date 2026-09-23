@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Bluenose Canoehead
+Photo URL    : https://www.flickr.com/photos/canoehead65/4933880128/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 23 13:08:23 GMT+0200 2010
+Upload Date  : Sat Aug 28 05:13:29 GMT+0200 2010
+Views        : 1,401
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sad Raccoon
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Raccoon at Magnetic Hill Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+animals zoo Moncton raccoon 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Stephen Childs
+Photo URL    : https://www.flickr.com/photos/steve_childs/21393993762/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Sep 11 13:03:05 GMT+0200 2015
+Upload Date  : Mon Sep 14 09:21:00 GMT+0200 2015
+Views        : 140
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

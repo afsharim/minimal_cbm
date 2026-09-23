@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Sideshow_Matt
+Photo URL    : https://www.flickr.com/photos/sideshowmatt/5558925540/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Apr 7 15:12:17 GMT+0200 2008
+Upload Date  : Fri Mar 25 16:57:02 GMT+0100 2011
+Geotag Info  : Latitude:50.991866, Longitude:-1.279585
+Views        : 1,002
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+© Matt Hance (SideshowMatt)
+A photograph taken on a visit to Marwell Zoo, Hampshire.
+
+
++--------+
+|  TAGS  |
++--------+
+Animals Giraffe wildlife 

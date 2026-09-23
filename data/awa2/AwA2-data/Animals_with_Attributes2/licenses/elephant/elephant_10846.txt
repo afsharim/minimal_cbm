@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : shizhao
+Photo URL    : https://www.flickr.com/photos/shizhao/9705580963/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 27 10:01:02 GMT+0200 2009
+Upload Date  : Mon Sep 9 09:22:18 GMT+0200 2013
+Geotag Info  : Latitude:-18.857450, Longitude:16.797083
+Views        : 188
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Etosha_elefant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Elefant im Etosha-Nationalpark, Namibia
+
+from <a href="https://commons.wikimedia.org/wiki/File:Etosha_elefant.jpg" rel="nofollow">commons.wikimedia.org/wiki/File:Etosha_elefant.jpg</a>
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

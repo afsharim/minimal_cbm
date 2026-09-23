@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : quinn.anya
+Photo URL    : https://www.flickr.com/photos/quinnanya/3585769188/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 31 13:24:26 GMT+0200 2009
+Upload Date  : Mon Jun 1 16:24:40 GMT+0200 2009
+Views        : 313
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Two giraffes
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+giraffes "Plains Biome" "Indianapolis Zoo" 

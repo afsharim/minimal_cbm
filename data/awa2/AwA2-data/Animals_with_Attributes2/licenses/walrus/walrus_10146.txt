@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : U.S. Fish and Wildlife Service
+Photo URL    : https://commons.wikimedia.org/wiki/File:Odobenus_rosmarus_walruses_on_beach.jpg
+License      : public domain
+Date         : Not given

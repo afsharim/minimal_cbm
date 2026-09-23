@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : tammylo
+Photo URL    : https://www.flickr.com/photos/tammylo/10314182185/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Oct 2 05:17:55 GMT+0200 2013
+Upload Date  : Wed Oct 16 20:09:45 GMT+0200 2013
+Geotag Info  : Latitude:46.626216, Longitude:8.032550
+Views        : 1,438
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cows in Switzerland
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+all you heard were bells ringing from their neck
+
+
++--------+
+|  TAGS  |
++--------+
+Cows Switzerland Alps Mountains Nature Grindelwald 

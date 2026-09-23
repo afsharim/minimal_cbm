@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Shoshanah
+Photo URL    : https://www.flickr.com/photos/shoshanah/2535637388/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon May 26 16:21:06 GMT+0200 2008
+Upload Date  : Fri May 30 05:06:32 GMT+0200 2008
+Views        : 2,023
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+With 3 horses
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+There were 3 other horses in different &quot;cages&quot;
+
+
++--------+
+|  TAGS  |
++--------+
+horse 

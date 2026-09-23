@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Johan Larsson
+Photo URL    : https://www.flickr.com/photos/johanl/183689400/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Apr 18 17:42:09 GMT+0200 2006
+Upload Date  : Fri Jul 7 02:06:00 GMT+0200 2006
+Geotag Info  : Latitude:-31.052933, Longitude:150.886230
+Views        : 464
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Picking out dinner
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+sheep leconfield dinner 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : selmerv
+Photo URL    : https://www.flickr.com/photos/selmer/5371039045/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 2 16:27:01 GMT+0100 2011
+Upload Date  : Thu Jan 20 02:19:00 GMT+0100 2011
+Views        : 115
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+India 

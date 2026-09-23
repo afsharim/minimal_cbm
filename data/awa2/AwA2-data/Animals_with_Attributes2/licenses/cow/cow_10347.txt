@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Meneer Zjeroen
+Photo URL    : https://www.flickr.com/photos/nuskyn/4880012589/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 22 20:13:56 GMT+0200 2010
+Upload Date  : Wed Aug 11 00:06:53 GMT+0200 2010
+Geotag Info  : Latitude:51.882074, Longitude:5.198979
+Views        : 12,163
+Comments     : 15
+
+
++---------+
+|  TITLE  |
++---------+
+Cow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This cow was walking in the fields behind our home in the eveninglight...
+
+Added some drama with Topaz...
+
+
++--------+
+|  TAGS  |
++--------+
+cow koe betuwe beesd nikon meneer zjeroen D70s 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Elecé
+Photo URL    : https://www.flickr.com/photos/luisdcarbia/5238536352/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Dec 6 17:38:21 GMT+0100 2010
+Upload Date  : Mon Dec 6 17:38:21 GMT+0100 2010
+Views        : 132
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This Loxodonta africana -old and agressive- nearly charged the truck. Murchison National Park, Uganda.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

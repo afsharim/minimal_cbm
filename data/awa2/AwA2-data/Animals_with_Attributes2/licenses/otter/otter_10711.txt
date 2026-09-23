@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : lutramania
+Photo URL    : https://www.flickr.com/photos/lutramania/4759648624/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 2 13:39:58 GMT+0200 2010
+Upload Date  : Sun Jul 4 06:59:26 GMT+0200 2010
+Geotag Info  : Latitude:-41.319422, Longitude:174.784455
+Views        : 180
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+This tickles.
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+otter "asian small-clawed river otter" lutrinae wellington "wellington zoo" "new zealand" "zoo animals" 

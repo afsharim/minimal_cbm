@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/11061808184/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 15 16:27:53 GMT+0200 2013
+Upload Date  : Tue Nov 26 06:00:04 GMT+0100 2013
+Geotag Info  : Latitude:48.996867, Longitude:8.402223
+Views        : 6,668
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Otter playing with a stone against the window
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+One of the otters of the Karlsruhe zoo playing with a small stone against to window. Taken with the D800.
+
+
++--------+
+|  TAGS  |
++--------+
+playing fun stone small window reflection portrait brown mammal otter karlsruhe zoo germany nikon d800 

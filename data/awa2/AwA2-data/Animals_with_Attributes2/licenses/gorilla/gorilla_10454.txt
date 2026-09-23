@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : _somaholiday
+Photo URL    : https://www.flickr.com/photos/75872360@N08/14635404179/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 6 13:12:32 GMT+0100 2011
+Upload Date  : Mon Aug 4 00:20:18 GMT+0200 2014
+Geotag Info  : Latitude:32.721082, Longitude:-97.355604
+Views        : 98
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Gorilla, Fort Worth Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Gorilla, Fort Worth Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+animals zoo primates 

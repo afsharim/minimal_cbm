@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : felizfeliz
+Photo URL    : https://www.flickr.com/photos/rafimages/4188232154/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Dec 15 18:30:59 GMT+0100 2009
+Upload Date  : Tue Dec 15 18:30:59 GMT+0100 2009
+Views        : 32
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+1day 12 035
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+pig 

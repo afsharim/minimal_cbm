@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : andrew_j_w
+Photo URL    : https://www.flickr.com/photos/andrew_j_w/2703652063/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 26 13:47:25 GMT+0200 2008
+Upload Date  : Sat Jul 26 20:00:11 GMT+0200 2008
+Geotag Info  : Latitude:51.519972, Longitude:-0.491123
+Views        : 648
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+sheep animal grass 

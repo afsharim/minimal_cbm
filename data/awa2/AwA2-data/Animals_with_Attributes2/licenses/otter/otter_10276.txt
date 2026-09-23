@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : SteveR-
+Photo URL    : https://www.flickr.com/photos/git/2267494152/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Feb 11 12:25:32 GMT+0100 2008
+Upload Date  : Fri Feb 15 18:55:22 GMT+0100 2008
+Views        : 34
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+At the Oceanario.
+
+
++--------+
+|  TAGS  |
++--------+
+Lisbon Lisboa Portugal 

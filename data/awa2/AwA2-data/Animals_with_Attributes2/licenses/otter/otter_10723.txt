@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : KierenAris
+Photo URL    : https://www.flickr.com/photos/mopuss/4712924416/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 14 13:35:42 GMT+0200 2010
+Upload Date  : Fri Jun 18 23:51:30 GMT+0200 2010
+Geotag Info  : Latitude:51.535017, Longitude:-0.153830
+Views        : 10
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"London Zoo" Otter 

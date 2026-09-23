@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : valters_grivins
+Photo URL    : https://www.flickr.com/photos/59344280@N08/6568428445/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 25 02:59:51 GMT+0100 2011
+Upload Date  : Sun Dec 25 11:59:51 GMT+0100 2011
+Views        : 45
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Horses
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

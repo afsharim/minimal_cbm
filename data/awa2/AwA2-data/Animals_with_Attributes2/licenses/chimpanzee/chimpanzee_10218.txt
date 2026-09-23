@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : C MB 166
+Photo URL    : https://www.flickr.com/photos/cmb166/5121946240/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Oct 15 12:47:12 GMT+0200 2010
+Upload Date  : Thu Oct 28 00:53:36 GMT+0200 2010
+Geotag Info  : Latitude:51.350383, Longitude:12.368803
+Views        : 141
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Chimpanzee Tower
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Leipziger Zoo, Germany
+
+
++--------+
+|  TAGS  |
++--------+
+Deutschland Germany Sachsen Saxony Leipzig Zoo Tierpark Tiere animals Schimpanse chimpanzee Affen monkeys 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Charlie Anzman
+Photo URL    : https://www.flickr.com/photos/anzman/551700327/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 15 00:30:44 GMT+0200 2007
+Upload Date  : Fri Jun 15 12:25:09 GMT+0200 2007
+Geotag Info  : Latitude:41.314949, Longitude:-74.910278
+Views        : 1,134
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Raccoons Hangin' Out
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Nap after invading garbage
+
+
++--------+
+|  TAGS  |
++--------+
+Raccoon Raccoons Poconos Wildlife Pennsylvania "Pike County PA" Milford PA 

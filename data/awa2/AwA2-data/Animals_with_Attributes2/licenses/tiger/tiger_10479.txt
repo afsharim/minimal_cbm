@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : totobotteri
+Photo URL    : https://www.flickr.com/photos/totobotteri/2633623807/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jun 3 01:31:35 GMT+0200 2008
+Upload Date  : Thu Jul 3 19:13:05 GMT+0200 2008
+Views        : 8
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

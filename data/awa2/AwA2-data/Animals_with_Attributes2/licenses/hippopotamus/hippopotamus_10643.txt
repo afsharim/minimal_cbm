@@ -1,0 +1,39 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : string_bass_dave
+Photo URL    : https://www.flickr.com/photos/string_bass_dave/8173274109/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 20 18:00:50 GMT+0200 2012
+Upload Date  : Sat Nov 10 23:33:51 GMT+0100 2012
+Geotag Info  : Latitude:-17.917018, Longitude:25.847863
+Views        : 638
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+That was a funny one!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Two young hippos playing while the adult shows them how it is really done!
+
+Hippopotami on the Zambezi River above Victoria Falls.
+
+To see a video of these guys click here:  <a href="http://youtu.be/kX5wq4n9S28" rel="nofollow">youtu.be/kX5wq4n9S28</a>
+
+
++--------+
+|  TAGS  |
++--------+
+Flickr "5 Star" hippopotamus Africa river "Victoria Falls" Zambezi hippo "Hippopotamus amphibius" "Canon EF 24-105mm f/4L IS" 

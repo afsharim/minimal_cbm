@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : thatedeguy
+Photo URL    : https://www.flickr.com/photos/thatedeguy/5760041599/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 10 13:46:40 GMT+0200 2011
+Upload Date  : Thu May 26 04:43:05 GMT+0200 2011
+Views        : 413
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel on a limb
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel 

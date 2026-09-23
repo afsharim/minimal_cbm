@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Peter Trimming
+Photo URL    : https://commons.wikimedia.org/wiki/File:Polecat_geograph.co.uk_1983302.jpg
+License      : Creative Commons (https://en.wikipedia.org/wiki/en:Creative_Commons) Attribution-Share Alike 2.0 Generic (//creativecommons.org/licenses/by-sa/2.0/deed.en)
+Date         : 2010-07-27

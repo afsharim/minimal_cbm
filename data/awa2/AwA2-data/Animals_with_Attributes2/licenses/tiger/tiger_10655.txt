@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : fatedsnowfox
+Photo URL    : https://www.flickr.com/photos/fatedsnowfox/5988269522/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 27 12:18:50 GMT+0200 2011
+Upload Date  : Fri Jul 29 19:17:35 GMT+0200 2011
+Geotag Info  : Latitude:51.744947, Longitude:-0.062897
+Views        : 1,978
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Tiger
+
+
++--------+
+|  TAGS  |
++--------+
+"Animal Park" Broxbourne Hertfordshire "Paradise Wildlife Park" Tiger "Wild Animals" 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : riaan labuschagne
+Photo URL    : https://www.flickr.com/photos/muftirythm/5134546561/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Oct 28 10:32:50 GMT+0200 2010
+Upload Date  : Mon Nov 1 07:26:35 GMT+0100 2010
+Views        : 790
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Zebra on plain
+
+
++--------+
+|  TAGS  |
++--------+
+WIldlife Zebra 

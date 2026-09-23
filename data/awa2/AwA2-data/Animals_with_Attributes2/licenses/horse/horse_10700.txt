@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Adam Hinett
+Photo URL    : https://www.flickr.com/photos/adamhinett/7576102508/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 15 17:58:39 GMT+0200 2012
+Upload Date  : Sun Jul 15 19:43:57 GMT+0200 2012
+Views        : 403
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Horse.
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Taken in Cookhill.
+
+
++--------+
+|  TAGS  |
++--------+
+horse stallion animal portrait outdoors 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : swh
+Photo URL    : https://www.flickr.com/photos/steveharris/8327095/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 2 11:14:49 GMT+0200 2005
+Upload Date  : Sun Apr 3 20:46:35 GMT+0200 2005
+Views        : 495
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+dsc_3764-tiger.jpg
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Adolecant tiger. Just over 1 year old. Taking a break from chewing the stick.
+
+
++--------+
+|  TAGS  |
++--------+
+tiger marwell 

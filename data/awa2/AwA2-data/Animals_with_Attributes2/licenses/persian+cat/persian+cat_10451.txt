@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Aeryn Girl
+Photo URL    : https://www.flickr.com/photos/aeryngirl/34093941/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 17 19:30:16 GMT+0100 2001
+Upload Date  : Mon Aug 15 04:31:38 GMT+0200 2005
+Views        : 23
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Oni
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+My &quot;special&quot; Persian cat Oni.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

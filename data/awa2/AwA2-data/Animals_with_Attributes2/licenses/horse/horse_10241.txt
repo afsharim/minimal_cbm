@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jordy de nie
+Photo URL    : https://www.flickr.com/photos/jdenie/5289794413/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 12 14:31:08 GMT+0100 2010
+Upload Date  : Sat Dec 25 14:58:15 GMT+0100 2010
+Geotag Info  : Latitude:52.519276, Longitude:4.659812
+Views        : 147
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+DPP_0079
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horse heemskerk 

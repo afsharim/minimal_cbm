@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jay Erickson
+Photo URL    : https://www.flickr.com/photos/jay_erickson/2544469663/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 2 08:28:45 GMT+0200 2008
+Upload Date  : Mon Jun 2 16:23:42 GMT+0200 2008
+Geotag Info  : Latitude:41.606859, Longitude:-73.678822
+Views        : 312
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+horse movin
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horse pawling field sunset 

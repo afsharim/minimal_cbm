@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ungard
+Photo URL    : https://www.flickr.com/photos/ungard/5651054897/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 24 17:00:07 GMT+0200 2011
+Upload Date  : Mon Apr 25 01:41:43 GMT+0200 2011
+Geotag Info  : Latitude:39.844987, Longitude:-84.426412
+Views        : 244
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Run little mousie
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+I saw this guy at a gas station today.  Maybe on his way to visit a cousin.
+
+
++--------+
+|  TAGS  |
++--------+
+mouse 

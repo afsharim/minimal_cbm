@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tim Evanson
+Photo URL    : https://www.flickr.com/photos/23165290@N00/9245073358/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 1 17:44:46 GMT+0200 2013
+Upload Date  : Tue Jul 9 03:22:55 GMT+0200 2013
+Views        : 1,110
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horse - Bozeman - 2013-07-02
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A horse in the field abutting my brother's house in Bozeman, Montana.
+
+
++--------+
+|  TAGS  |
++--------+
+"Bozeman, Montana" horse 

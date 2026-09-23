@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : cbr_case
+Photo URL    : https://www.flickr.com/photos/ralf_nolte/2376071959/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 6 18:16:43 GMT+0200 2007
+Upload Date  : Mon Mar 31 09:59:45 GMT+0200 2008
+Views        : 285
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_6849
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Capitan Pferd 

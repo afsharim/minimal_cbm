@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Reading Tom
+Photo URL    : https://www.flickr.com/photos/16801915@N06/8189139842/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Sep 3 12:00:03 GMT+0200 2012
+Upload Date  : Thu Nov 15 20:36:56 GMT+0100 2012
+Geotag Info  : Latitude:50.103914, Longitude:-5.125572
+Views        : 31
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Mouse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"South West Coast Path" 

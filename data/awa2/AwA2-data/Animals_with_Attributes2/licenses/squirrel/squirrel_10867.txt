@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : S. Nguyen
+Photo URL    : https://www.flickr.com/photos/64849091@N04/5905301623/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Mar 25 11:45:06 GMT+0100 2011
+Upload Date  : Tue Jul 5 19:38:32 GMT+0200 2011
+Views        : 25
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

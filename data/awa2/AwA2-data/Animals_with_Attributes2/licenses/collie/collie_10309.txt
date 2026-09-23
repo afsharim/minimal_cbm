@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : markhillary
+Photo URL    : https://www.flickr.com/photos/markhillary/2678608835/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 17 12:05:26 GMT+0200 2008
+Upload Date  : Fri Jul 18 08:17:26 GMT+0200 2008
+Views        : 118
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Herbie
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+At John's with the dogs...
+
+
++--------+
+|  TAGS  |
++--------+
+border collie dog 

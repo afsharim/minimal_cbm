@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : generalising
+Photo URL    : https://www.flickr.com/photos/shimgray/750407901/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 16 15:08:01 GMT+0200 2007
+Upload Date  : Sun Jul 8 03:05:02 GMT+0200 2007
+Geotag Info  : Latitude:51.741061, Longitude:-1.266088
+Views        : 905
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+p1030173
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Cows in a field
+
+
++--------+
+|  TAGS  |
++--------+
+cow 

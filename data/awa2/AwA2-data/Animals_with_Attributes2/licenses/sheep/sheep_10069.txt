@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Big Blue Ocean
+Photo URL    : https://www.flickr.com/photos/bigblueocean/2741944637/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 15 19:01:34 GMT+0200 2008
+Upload Date  : Fri Aug 8 00:39:46 GMT+0200 2008
+Geotag Info  : Latitude:-38.134556, Longitude:176.238555
+Views        : 202
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+At the Agrodome
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A working farm in Rotorua
+
+
++--------+
+|  TAGS  |
++--------+
+Agrodome Rotorua sheep 

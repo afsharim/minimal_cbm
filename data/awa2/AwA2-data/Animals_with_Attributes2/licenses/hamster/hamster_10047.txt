@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Keren_
+Photo URL    : https://www.flickr.com/photos/keren/4184444316/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Dec 7 10:05:06 GMT+0100 2009
+Upload Date  : Mon Dec 14 09:43:55 GMT+0100 2009
+Views        : 331
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Alie
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+She's eating a Grape!
+
+
++--------+
+|  TAGS  |
++--------+
+hamster 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Smoobs
+Photo URL    : https://www.flickr.com/photos/smoo/2226300735/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 27 15:06:05 GMT+0100 2008
+Upload Date  : Mon Jan 28 22:37:25 GMT+0100 2008
+Views        : 95
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horses & sky
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+nailsworth horses 

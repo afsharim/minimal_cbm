@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sbuecker
+Photo URL    : https://www.flickr.com/photos/sbuecker/14617302248/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 1 21:20:23 GMT+0200 2014
+Upload Date  : Fri Aug 1 21:23:32 GMT+0200 2014
+Views        : 161
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+isnichwahr
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+wenig beeindruckte Giraffe im Burger's Zoo Arnheim
+
+
++--------+
+|  TAGS  |
++--------+
+Giraffe Zoo Arnheim animal 

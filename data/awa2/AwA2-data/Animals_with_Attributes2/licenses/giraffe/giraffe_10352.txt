@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Smudge 9000
+Photo URL    : https://www.flickr.com/photos/smudge9000/457797851/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Mar 12 12:13:31 GMT+0100 2007
+Upload Date  : Fri Apr 13 18:08:05 GMT+0200 2007
+Geotag Info  : Latitude:51.079317, Longitude:0.981516
+Views        : 652
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Giraffe at Port Lympne Wildlife Park, UK.
+
+
++--------+
+|  TAGS  |
++--------+
+"Port Lympne" Giraff Zoo "Wildlife Park" 

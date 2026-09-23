@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bartdubelaar
+Photo URL    : https://www.flickr.com/photos/bartdubelaar/462584174/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 15 14:53:12 GMT+0200 2007
+Upload Date  : Tue Apr 17 09:28:01 GMT+0200 2007
+Views        : 367
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSCN5015.JPG
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Zebras
+
+
++--------+
+|  TAGS  |
++--------+
+zebras animal zoo 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : flightlog
+Photo URL    : https://www.flickr.com/photos/flightlog/5808912848/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 2 10:06:37 GMT+0200 2011
+Upload Date  : Tue Jun 7 18:22:39 GMT+0200 2011
+Geotag Info  : Latitude:47.915377, Longitude:15.184480
+Views        : 429
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+bauernhof digruber pferd stall 

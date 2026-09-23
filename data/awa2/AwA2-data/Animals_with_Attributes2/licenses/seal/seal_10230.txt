@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : BeautifulFreaks
+Photo URL    : https://www.flickr.com/photos/jeremymiles/2758931538/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 10 19:51:44 GMT+0200 2008
+Upload Date  : Wed Aug 13 04:39:29 GMT+0200 2008
+Geotag Info  : Latitude:35.662652, Longitude:-121.256988
+Views        : 77
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant Seal
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Luc Van Braekel
+Photo URL    : https://www.flickr.com/photos/lucvanbraekel/3556592045/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 23 15:26:57 GMT+0200 2009
+Upload Date  : Sat May 23 20:09:46 GMT+0200 2009
+Views        : 51
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zoocamp 

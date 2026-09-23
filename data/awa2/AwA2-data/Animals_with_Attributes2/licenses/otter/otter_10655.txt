@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Greg Dejasco
+Photo URL    : https://www.flickr.com/photos/94373487@N02/8590973243/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 24 14:57:12 GMT+0100 2013
+Upload Date  : Tue Mar 26 08:21:29 GMT+0100 2013
+Views        : 206
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sea Otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Enhydra lutris | Tanu
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

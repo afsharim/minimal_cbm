@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : evil nickname
+Photo URL    : https://www.flickr.com/photos/evilnickname/20061672801/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 23 13:30:35 GMT+0200 2015
+Upload Date  : Mon Jul 27 16:54:08 GMT+0200 2015
+Geotag Info  : Latitude:51.517341, Longitude:5.104702
+Views        : 186
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Beekse Bergen" zoo safaripark "The Netherlands" Hilvarenbeek Nederland dierentuin tiger Tijger 

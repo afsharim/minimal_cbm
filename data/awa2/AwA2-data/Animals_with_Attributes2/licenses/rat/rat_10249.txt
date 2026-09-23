@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Pat Hawks
+Photo URL    : https://www.flickr.com/photos/pathawks/6544869373/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Dec 19 14:28:04 GMT+0100 2011
+Upload Date  : Tue Dec 20 19:56:38 GMT+0100 2011
+Geotag Info  : Latitude:17.628807, Longitude:-63.245201
+Views        : 37
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Rat?
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+mobile 

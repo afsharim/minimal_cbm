@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ncrob1
+Photo URL    : https://www.flickr.com/photos/64768916@N02/8651138146/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 13 17:56:00 GMT+0200 2013
+Upload Date  : Mon Apr 15 05:15:37 GMT+0200 2013
+Geotag Info  : Latitude:35.557158, Longitude:-82.575352
+Views        : 374
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_1769.jpg
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Biltmore cows 

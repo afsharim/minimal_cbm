@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : kathia shieh
+Photo URL    : https://www.flickr.com/photos/janela_da_alma/1325817099/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 1 13:59:31 GMT+0200 2007
+Upload Date  : Wed Sep 5 05:35:57 GMT+0200 2007
+Views        : 200
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+crazy squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel 

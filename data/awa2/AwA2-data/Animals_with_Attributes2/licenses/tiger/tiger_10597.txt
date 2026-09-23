@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : UEGRADS1975
+Photo URL    : https://www.flickr.com/photos/uegrads1975/4810680357/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 19 23:58:45 GMT+0200 2010
+Upload Date  : Tue Jul 20 05:58:45 GMT+0200 2010
+Views        : 55
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

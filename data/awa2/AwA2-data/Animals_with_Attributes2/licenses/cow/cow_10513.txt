@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : stvcr
+Photo URL    : https://www.flickr.com/photos/stvcr/145313296/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon May 8 02:48:28 GMT+0200 2006
+Upload Date  : Sat May 13 02:13:35 GMT+0200 2006
+Geotag Info  : Latitude:51.340103, Longitude:-0.112953
+Views        : 91
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+cows
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+farthingdown croydon countryside cow 

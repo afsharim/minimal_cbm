@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : longhorndave
+Photo URL    : https://www.flickr.com/photos/davidw/2133449758/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Dec 22 13:15:59 GMT+0100 2007
+Upload Date  : Mon Dec 24 15:12:42 GMT+0100 2007
+Views        : 6,985
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Brown Bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Brown Bear at the Buenos Aires Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+"Buenos Aires Zoo" Buenos Aires Argentina Bear Oso "Andean Bear" "A Texan In Argentina" http://atexaninargentina.blogspot.com/ 

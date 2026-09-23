@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : seandon12
+Photo URL    : https://www.flickr.com/photos/sean13pens/8633694160/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Mar 29 13:37:36 GMT+0100 2013
+Upload Date  : Tue Apr 9 04:07:20 GMT+0200 2013
+Views        : 33
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Whiteshell Provincial Park, MB, Can
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jAYkROW
+Photo URL    : https://www.flickr.com/photos/jaykrow/8230528198/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 6 11:44:05 GMT+0200 2012
+Upload Date  : Thu Nov 29 18:41:00 GMT+0100 2012
+Views        : 122
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger 03855
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+tiger "Dublin Zoo" 

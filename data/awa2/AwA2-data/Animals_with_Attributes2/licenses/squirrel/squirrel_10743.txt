@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : luca.sartoni
+Photo URL    : https://www.flickr.com/photos/lucasartoni/3351654501/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Mar 11 18:00:08 GMT+0100 2009
+Upload Date  : Fri Mar 13 22:38:07 GMT+0100 2009
+Geotag Info  : Latitude:51.508987, Longitude:-0.176167
+Views        : 47
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+london viaggi 

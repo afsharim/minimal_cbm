@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Björn S...
+Photo URL    : https://www.flickr.com/photos/40948266@N04/14802828299/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 16 11:50:07 GMT+0200 2014
+Upload Date  : Thu Aug 21 15:22:24 GMT+0200 2014
+Geotag Info  : Latitude:46.137488, Longitude:7.301861
+Views        : 307
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Cow in the Val de Nendaz
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+cow Kuh vache vacca 

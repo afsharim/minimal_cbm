@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Polgooth Inn
+Photo URL    : https://www.flickr.com/photos/polgoothinn/6055977412/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 1 12:10:03 GMT+0200 2011
+Upload Date  : Thu Aug 18 14:42:24 GMT+0200 2011
+Geotag Info  : Latitude:50.318641, Longitude:-4.813363
+Views        : 36
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Polgooth_010811_sb44
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Polgooth Inn
+
+
++--------+
+|  TAGS  |
++--------+
+Polgooth Inn 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Arenamontanus
+Photo URL    : https://www.flickr.com/photos/arenamontanus/250374895/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 18 20:44:13 GMT+0200 2004
+Upload Date  : Sat Sep 23 13:21:12 GMT+0200 2006
+Geotag Info  : Latitude:52.119471, Longitude:0.151576
+Views        : 790
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cows examining train
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Cows observed from the train. While a staple in cartoons, I have never seen a herd of cows actually rush up to the train to take a look at it. This one did.
+
+
++--------+
+|  TAGS  |
++--------+
+Cows train pasture 

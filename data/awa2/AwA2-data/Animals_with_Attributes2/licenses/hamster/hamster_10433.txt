@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : alastc
+Photo URL    : https://www.flickr.com/photos/alastc/7357416408/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Apr 25 19:25:12 GMT+0200 2011
+Upload Date  : Sun Jun 10 14:26:48 GMT+0200 2012
+Geotag Info  : Latitude:50.887340, Longitude:-1.248596
+Views        : 115
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Koali the Hamster, caged
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+animal 

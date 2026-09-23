@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : size4riggerboots
+Photo URL    : https://www.flickr.com/photos/tamsintog/17276921816/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Oct 28 19:32:51 GMT+0100 2014
+Upload Date  : Tue Apr 28 21:45:22 GMT+0200 2015
+Geotag Info  : Latitude:-54.282539, Longitude:-36.495401
+Views        : 164
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant Seals fighting, King Edward Point, South Georgia
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Merchant Navy" "South Georgia" "Pharos SG" "Elephant Seals" 

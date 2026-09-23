@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : neiljs
+Photo URL    : https://www.flickr.com/photos/neiljs/3829562538/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 15 16:00:16 GMT+0200 2009
+Upload Date  : Mon Aug 17 09:05:00 GMT+0200 2009
+Geotag Info  : Latitude:51.535925, Longitude:-0.158014
+Views        : 114
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+London Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+london zoo animal giraffe 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : porcupiny
+Photo URL    : https://www.flickr.com/photos/porcupiny/17983947465/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri May 22 16:37:07 GMT+0200 2015
+Upload Date  : Sat May 23 01:37:07 GMT+0200 2015
+Geotag Info  : Latitude:24.995000, Longitude:121.584166
+Views        : 40
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Chimpanzee perched high up
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"instagram app" square "square format" iphoneography uploaded:by=instagram 

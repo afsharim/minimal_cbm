@@ -1,0 +1,38 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : NOAA Photo Library
+Photo URL    : https://www.flickr.com/photos/noaaphotolib/19590417150/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 17 13:56:20 GMT+0200 2015
+Upload Date  : Fri Jul 17 19:57:51 GMT+0200 2015
+Views        : 417
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+anim2162
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Sea otter
+
+    Image ID: anim2162, NOAA's Ark - Animals Collection
+    Photo Date: 2009
+    Credit: Crew and Officers of NOAA Ship FAIRWEATHER
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

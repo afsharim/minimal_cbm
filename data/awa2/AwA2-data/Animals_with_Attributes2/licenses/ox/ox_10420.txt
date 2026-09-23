@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : terrybone
+Photo URL    : https://www.flickr.com/photos/tbone2/10508585843/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 26 11:31:21 GMT+0200 2013
+Upload Date  : Sun Oct 27 09:39:19 GMT+0100 2013
+Views        : 99
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+India - Chennai and Gurgaon
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+flickriosapp:filter=NoFilter uploaded:by=flickr_mobile 

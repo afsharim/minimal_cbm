@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : alh1
+Photo URL    : https://www.flickr.com/photos/allan_harris/3951110324/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 13 09:52:15 GMT+0200 2009
+Upload Date  : Thu Sep 24 18:45:58 GMT+0200 2009
+Views        : 178
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Howardian Hills
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Spring lambs
+
+
++--------+
+|  TAGS  |
++--------+
+"Howardian Hills" sheep lambs 

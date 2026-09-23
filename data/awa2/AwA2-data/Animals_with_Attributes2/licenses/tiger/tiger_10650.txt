@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Eric Kilby
+Photo URL    : https://www.flickr.com/photos/ekilby/5867964210/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 18 16:55:41 GMT+0200 2011
+Upload Date  : Sat Jun 25 00:29:59 GMT+0200 2011
+Geotag Info  : Latitude:42.305369, Longitude:-71.089098
+Views        : 1,096
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+franklin park zoo boston tiger orange stripes cat 

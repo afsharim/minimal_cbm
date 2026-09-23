@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : newandrew
+Photo URL    : https://www.flickr.com/photos/newandrew/2336840514/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Mar 5 18:55:26 GMT+0100 2008
+Upload Date  : Sun Mar 16 05:19:30 GMT+0100 2008
+Views        : 52
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+sheep 2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+stony batter
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

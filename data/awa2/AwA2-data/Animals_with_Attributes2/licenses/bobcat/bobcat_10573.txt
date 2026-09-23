@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Pierre__Arnaud
+Photo URL    : https://www.flickr.com/photos/pa_nda/8260440321/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 2 18:29:15 GMT+0200 2012
+Upload Date  : Mon Dec 10 16:20:53 GMT+0100 2012
+Geotag Info  : Latitude:48.772044, Longitude:6.896751
+Views        : 1,065
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Mawhouu
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+lynx cat "big cat" wild eyes 400mm 

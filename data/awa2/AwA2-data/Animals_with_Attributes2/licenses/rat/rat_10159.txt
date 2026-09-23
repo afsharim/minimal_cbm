@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : maliciousmonkey
+Photo URL    : https://www.flickr.com/photos/maliciousmonkey/533865960/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 3 22:21:48 GMT+0200 2007
+Upload Date  : Thu Jun 7 03:02:29 GMT+0200 2007
+Geotag Info  : Latitude:42.470799, Longitude:-70.947496
+Views        : 5,125
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Cute Rat
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Macchciato, the obnoxiously cute rat
+
+
++--------+
+|  TAGS  |
++--------+
+pets rat cute knee animal hand 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Photographing Travis
+Photo URL    : https://www.flickr.com/photos/photographingtravis/15182897548/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 6 09:28:51 GMT+0200 2010
+Upload Date  : Sat Sep 27 16:43:05 GMT+0200 2014
+Geotag Info  : Latitude:-13.525000, Longitude:-71.972223
+Views        : 612
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep on the Road
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Cusco, Peru
+
+
++--------+
+|  TAGS  |
++--------+
+"aguas calientes" animals creatures cusco peru road sheep travel trip 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : fabfiver5
+Photo URL    : https://www.flickr.com/photos/ryanschreiber/3302246136/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jan 6 18:32:34 GMT+0100 2009
+Upload Date  : Mon Feb 23 01:43:13 GMT+0100 2009
+Views        : 10
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Kansas 

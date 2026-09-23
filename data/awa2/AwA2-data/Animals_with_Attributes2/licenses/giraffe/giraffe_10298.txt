@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Andrew Deacon
+Photo URL    : https://www.flickr.com/photos/aedeacon/413592228/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Mar 7 15:04:25 GMT+0100 2007
+Upload Date  : Wed Mar 7 14:04:25 GMT+0100 2007
+Geotag Info  : Latitude:-22.156565, Longitude:29.265518
+Views        : 4,914
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe near Limpopo-Shashe confluence
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A young giraffe close to the Limpopo-Shashe confluence on the Botswana side, November 1997.
+
+
++--------+
+|  TAGS  |
++--------+
+Giraffe Botswana "Limpopo Shashi confluence" 

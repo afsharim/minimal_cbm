@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Saopaulo1
+Photo URL    : https://www.flickr.com/photos/chicoer2001/175791030/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri May 12 17:12:33 GMT+0200 2006
+Upload Date  : Tue Jun 27 00:29:42 GMT+0200 2006
+Geotag Info  : Latitude:37.589836, Longitude:-122.004225
+Views        : 3,895
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Let Sleeping Hamsters Lie
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Hamster sleeping Orion 

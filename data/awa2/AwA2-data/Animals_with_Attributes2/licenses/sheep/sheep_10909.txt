@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : AndrewH.uk
+Photo URL    : https://www.flickr.com/photos/34128388@N06/3200304674/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 21 15:32:12 GMT+0200 2008
+Upload Date  : Thu Jan 15 23:40:03 GMT+0100 2009
+Views        : 254
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Seen in a field near little Blakenham
+
+
++--------+
+|  TAGS  |
++--------+
+sheep grass field "little blakenham" blakenham suffolk 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : andrew_j_w
+Photo URL    : https://www.flickr.com/photos/andrew_j_w/2635654911/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jun 24 10:46:31 GMT+0200 2008
+Upload Date  : Fri Jul 4 14:52:31 GMT+0200 2008
+Geotag Info  : Latitude:50.491371, Longitude:-3.986663
+Views        : 73
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+dartmoor cow animal 

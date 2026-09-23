@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Chris Sorge
+Photo URL    : https://www.flickr.com/photos/stone65/6941654992/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Apr 13 07:19:37 GMT+0200 2012
+Upload Date  : Tue Apr 17 18:34:24 GMT+0200 2012
+Geotag Info  : Latitude:42.906148, Longitude:-79.624786
+Views        : 1,659
+Comments     : 32
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel-3
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Squirrel taking a good look at me taking his picture
+
+
++--------+
+|  TAGS  |
++--------+
+Squirrel 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : afcone
+Photo URL    : https://www.flickr.com/photos/afcone/8984474945/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 7 19:15:06 GMT+0200 2013
+Upload Date  : Sat Jun 8 11:49:16 GMT+0200 2013
+Views        : 100
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+London Zoo Lates
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"London Zoo" Zoo London "London Zoo Lates" Animals Gorilla 

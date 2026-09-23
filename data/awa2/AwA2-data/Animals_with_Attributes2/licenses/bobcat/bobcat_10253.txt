@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Just chaos
+Photo URL    : https://www.flickr.com/photos/7326810@N08/2146603957/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Dec 28 11:41:49 GMT+0100 2007
+Upload Date  : Sat Dec 29 22:20:27 GMT+0100 2007
+Views        : 672
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Bobcat
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Lynx rufus
+
+
++--------+
+|  TAGS  |
++--------+
+Animalia Chordata Mammalia Carnivora Felidae "Lynx rufus" feline wildcat cat bobcat animal mammal zoo 

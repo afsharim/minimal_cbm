@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bobosh_t
+Photo URL    : https://www.flickr.com/photos/frted/6949226534/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Apr 19 15:31:40 GMT+0200 2012
+Upload Date  : Fri Apr 20 06:13:16 GMT+0200 2012
+Geotag Info  : Latitude:38.929736, Longitude:-77.051067
+Views        : 189
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_0098
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Western Lowland Gorilla
+
+
++--------+
+|  TAGS  |
++--------+
+Washington DC zoo "National Zoo" "Smithsonian National Zoological Park" 

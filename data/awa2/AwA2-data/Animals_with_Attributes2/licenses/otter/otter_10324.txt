@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : andrusdevelopment
+Photo URL    : https://www.flickr.com/photos/wandrus/4752648271/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 28 10:28:07 GMT+0200 2010
+Upload Date  : Thu Jul 1 23:34:36 GMT+0200 2010
+Geotag Info  : Latitude:43.975661, Longitude:-103.301836
+Views        : 93
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+wild life south dakota zoo 

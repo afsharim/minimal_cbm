@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : edenpictures
+Photo URL    : https://www.flickr.com/photos/edenpictures/4690670612/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 10 15:34:20 GMT+0200 2010
+Upload Date  : Fri Jun 11 13:42:59 GMT+0200 2010
+Geotag Info  : Latitude:40.851234, Longitude:-73.877060
+Views        : 630
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Bronx Zoo" tiger Picnik 

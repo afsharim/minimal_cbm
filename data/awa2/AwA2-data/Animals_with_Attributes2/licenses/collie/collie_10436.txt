@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : armaggesin
+Photo URL    : https://www.flickr.com/photos/armaggeusa/3139642357/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Dec 26 00:18:57 GMT+0100 2008
+Upload Date  : Sat Dec 27 05:47:29 GMT+0100 2008
+Views        : 485
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+My dog
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+dog border collie animal black 

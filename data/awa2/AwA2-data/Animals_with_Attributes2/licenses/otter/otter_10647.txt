@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Karen in California
+Photo URL    : https://www.flickr.com/photos/krheault/2937433082/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 12 13:48:50 GMT+0200 2008
+Upload Date  : Mon Oct 13 07:17:58 GMT+0200 2008
+Geotag Info  : Latitude:36.618197, Longitude:-121.901915
+Views        : 54
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sea otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+monterey "monterey bay aquarium" otter 

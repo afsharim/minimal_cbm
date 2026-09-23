@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sk8geek
+Photo URL    : https://www.flickr.com/photos/sk8geek/4419470828/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Feb 26 12:14:16 GMT+0100 2010
+Upload Date  : Tue Mar 9 08:02:37 GMT+0100 2010
+Views        : 75
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Grey squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"grey squirrel" squirrel 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mihai Bojin
+Photo URL    : https://www.flickr.com/photos/mihaibojin/3468059170/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Apr 22 18:24:35 GMT+0200 2009
+Upload Date  : Thu Apr 23 10:43:55 GMT+0200 2009
+Views        : 1,051
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horses
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A couple of carriage horses sitting calmly.
+
+
++--------+
+|  TAGS  |
++--------+
+horses "horse head" "brown horse" street wien vienna austria nikon "nikon d40x" "tamron 17-50" 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ROVER_JP
+Photo URL    : https://www.flickr.com/photos/rover_jp/943844829/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 29 17:38:41 GMT+0200 2007
+Upload Date  : Mon Jul 30 01:25:42 GMT+0200 2007
+Views        : 1,523
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_1500
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+070729　In dog run Bernard
+
+
++--------+
+|  TAGS  |
++--------+
+Border Collie 

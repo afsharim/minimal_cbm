@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : slackart21
+Photo URL    : https://www.flickr.com/photos/98173745@N00/210469659/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 16 19:59:58 GMT+0200 2006
+Upload Date  : Wed Aug 9 01:22:48 GMT+0200 2006
+Views        : 30
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+zoo059
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Columbia Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+Animals 

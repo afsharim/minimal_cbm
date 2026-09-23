@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : phalinn
+Photo URL    : https://www.flickr.com/photos/phalinn/4257061702/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jan 1 15:15:57 GMT+0100 2010
+Upload Date  : Fri Jan 8 17:00:24 GMT+0100 2010
+Geotag Info  : Latitude:3.207832, Longitude:101.756486
+Views        : 127
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Gaur
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Seladang
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

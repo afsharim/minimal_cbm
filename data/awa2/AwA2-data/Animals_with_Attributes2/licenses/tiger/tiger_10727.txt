@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Richard Clark (Digimist)
+Photo URL    : https://www.flickr.com/photos/digimist/8713577367/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 5 14:58:37 GMT+0200 2013
+Upload Date  : Mon May 6 17:27:22 GMT+0200 2013
+Geotag Info  : Latitude:51.269594, Longitude:1.154380
+Views        : 942
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Day out at Howletts Zoo May 2013
+
+
++--------+
+|  TAGS  |
++--------+
+2013 Animals Art "Day out" "Howletts Zoo" May Nature Tiger Wildlife Zoo family fun Littlebourne England "United Kingdom" 

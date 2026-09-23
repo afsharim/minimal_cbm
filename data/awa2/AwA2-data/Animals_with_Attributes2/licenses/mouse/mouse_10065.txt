@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ReneS
+Photo URL    : https://www.flickr.com/photos/rene-germany/2149064133/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Nov 10 22:15:46 GMT+0100 2006
+Upload Date  : Sun Dec 30 20:29:55 GMT+0100 2007
+Views        : 567
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Mice
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+mice mouse zoo animals 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Sarah Elizabeth Altendorf
+Photo URL    : https://www.flickr.com/photos/sarah_elizabeth_simpson/4396730780/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 27 14:35:33 GMT+0100 2010
+Upload Date  : Mon Mar 1 00:55:51 GMT+0100 2010
+Geotag Info  : Latitude:37.665681, Longitude:-84.569621
+Views        : 432
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_0843
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Sugar Creek, Garrard County, Kentucky
+
+
++--------+
+|  TAGS  |
++--------+
+sheep lamb 

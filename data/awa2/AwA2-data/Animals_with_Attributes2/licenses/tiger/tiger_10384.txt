@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : HarlanH
+Photo URL    : https://www.flickr.com/photos/harlanh/1847499581/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Apr 1 00:00:00 GMT+0200 2004
+Upload Date  : Sat Nov 3 23:01:19 GMT+0100 2007
+Geotag Info  : Latitude:40.850046, Longitude:-73.878829
+Views        : 146
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger Walking
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zoo bronx tiger 

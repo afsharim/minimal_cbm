@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : 5thLargestinAfrica
+Photo URL    : https://www.flickr.com/photos/chdwckvnstrsslhm/128186372/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Feb 6 03:09:25 GMT+0100 2006
+Upload Date  : Fri Apr 14 04:25:26 GMT+0200 2006
+Views        : 1,592
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra: a profile
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A Grevy's Zebra that was at the Wild Animal Park
+
+
++--------+
+|  TAGS  |
++--------+
+zebra animals nature "African animals" 

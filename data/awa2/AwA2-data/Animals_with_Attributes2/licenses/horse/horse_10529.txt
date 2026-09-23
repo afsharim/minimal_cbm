@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Nick Savchenko
+Photo URL    : https://www.flickr.com/photos/nsavch/6132980100/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 10 11:24:44 GMT+0200 2011
+Upload Date  : Sat Sep 10 15:07:57 GMT+0200 2011
+Geotag Info  : Latitude:50.274969, Longitude:30.329132
+Views        : 21,113
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horse with a rider
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horse riding 

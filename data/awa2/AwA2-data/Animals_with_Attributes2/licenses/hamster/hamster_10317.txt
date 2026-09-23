@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : hapinachu
+Photo URL    : https://www.flickr.com/photos/hapinachu/668632636/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 30 03:11:34 GMT+0200 2007
+Upload Date  : Tue Jun 15 14:51:35 GMT+0200 2004
+Views        : 11
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+hamster_pudgy1.jpg
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Sam Felder
+Photo URL    : https://www.flickr.com/photos/samfelder/3840609991/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 15 16:10:35 GMT+0200 2009
+Upload Date  : Fri Aug 21 02:01:48 GMT+0200 2009
+Geotag Info  : Latitude:40.849833, Longitude:-73.875334
+Views        : 400
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+tiger cat animal "bronx zoo" 

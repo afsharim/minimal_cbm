@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : tercerojista
+Photo URL    : https://www.flickr.com/photos/tercerojismo/3830443060/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 17 10:25:11 GMT+0200 2009
+Upload Date  : Mon Aug 17 16:49:39 GMT+0200 2009
+Views        : 2,301
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+More sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+sheep 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : GregTheBusker
+Photo URL    : https://www.flickr.com/photos/gregthebusker/3985744225/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 3 14:48:41 GMT+0200 2009
+Upload Date  : Tue Oct 6 07:28:22 GMT+0200 2009
+Geotag Info  : Latitude:48.497497, Longitude:-123.146438
+Views        : 604
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Orca
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Seattle October 2009 Orca killer whale 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : dgj103
+Photo URL    : https://www.flickr.com/photos/dgj103/1242426877/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 26 15:02:42 GMT+0200 2007
+Upload Date  : Sun Aug 26 22:41:46 GMT+0200 2007
+Geotag Info  : Latitude:51.644148, Longitude:0.526614
+Views        : 12,134
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+Horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Barbie horse
+
+
++--------+
+|  TAGS  |
++--------+
+horse blond pony equine equestrian animal nature animals portrait horses farm rural 2007 

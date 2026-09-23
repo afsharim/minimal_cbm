@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : liftarn
+Photo URL    : https://www.flickr.com/photos/liftarn/8774363946/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 19 13:56:52 GMT+0200 2013
+Upload Date  : Tue May 21 22:08:04 GMT+0200 2013
+Views        : 388
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Råttbarn
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+rats 

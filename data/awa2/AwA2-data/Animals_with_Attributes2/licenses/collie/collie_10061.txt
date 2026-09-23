@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : steffofsd
+Photo URL    : https://www.flickr.com/photos/steffsmith_fotos/5028373590/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 26 13:27:27 GMT+0200 2010
+Upload Date  : Mon Sep 27 03:50:35 GMT+0200 2010
+Geotag Info  : Latitude:44.779154, Longitude:-97.195701
+Views        : 131
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bailey in Fall
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+dog canine "border collie" 

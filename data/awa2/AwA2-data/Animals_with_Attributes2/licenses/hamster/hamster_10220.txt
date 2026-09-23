@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : zoetnet
+Photo URL    : https://www.flickr.com/photos/zoetnet/4669902331/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue May 25 22:37:09 GMT+0200 2010
+Upload Date  : Sat Jun 5 01:45:58 GMT+0200 2010
+Views        : 393
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+gazza and fudge
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+gazza with his pet hamster fudge
+
+
++--------+
+|  TAGS  |
++--------+
+hamster gazza friend pets pet 

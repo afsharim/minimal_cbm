@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Gonmi
+Photo URL    : https://www.flickr.com/photos/gonmi/8606394163/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Feb 28 13:18:25 GMT+0100 2013
+Upload Date  : Sun Mar 31 21:28:10 GMT+0200 2013
+Geotag Info  : Latitude:43.358558, Longitude:-5.849562
+Views        : 505
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Ovejas
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Sheeps
+
+
++--------+
+|  TAGS  |
++--------+
+28-02-2013 sheeps pets ovejas verde green animales animals fauna Oviedo Asturias Spain 

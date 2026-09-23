@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : quantz
+Photo URL    : https://www.flickr.com/photos/quantz/5245317582/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 20 13:42:15 GMT+0100 2010
+Upload Date  : Thu Dec 9 00:40:44 GMT+0100 2010
+Geotag Info  : Latitude:-23.650047, Longitude:-46.618294
+Views        : 715
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Hipopótamo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Hipopótamo do Zoológico de São Paulo
+&quot;Hippopotamus amphibius&quot;
+
+
++--------+
+|  TAGS  |
++--------+
+Hipopotamo "Hippopotamus amphibius" Zoo Zoológico hippo 

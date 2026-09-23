@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jdsmith1021
+Photo URL    : https://www.flickr.com/photos/jdsmith1021/7892378914/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 11 13:12:28 GMT+0200 2012
+Upload Date  : Thu Aug 30 08:48:03 GMT+0200 2012
+Geotag Info  : Latitude:45.509113, Longitude:-122.713594
+Views        : 218
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Damara zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+oregon zoo portland august Damara zebra 2012 

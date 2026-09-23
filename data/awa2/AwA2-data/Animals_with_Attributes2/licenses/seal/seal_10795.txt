@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : NAPARAZZI
+Photo URL    : https://www.flickr.com/photos/naparazzi/6414261403/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 27 10:08:53 GMT+0100 2011
+Upload Date  : Sun Nov 27 23:23:53 GMT+0100 2011
+Views        : 1,370
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+SEAL
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+SEAL
+
+
++--------+
+|  TAGS  |
++--------+
+SEAL 

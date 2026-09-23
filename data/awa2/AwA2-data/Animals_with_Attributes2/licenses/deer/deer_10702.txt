@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mr Moss
+Photo URL    : https://www.flickr.com/photos/barneymoss/21190406482/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 6 17:44:49 GMT+0200 2015
+Upload Date  : Mon Sep 7 00:09:15 GMT+0200 2015
+Geotag Info  : Latitude:51.441824, Longitude:-0.290386
+Views        : 613
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Richmond Park
+
+
++--------+
+|  TAGS  |
++--------+
+365 London antler deer richmond "richmond park" stag 

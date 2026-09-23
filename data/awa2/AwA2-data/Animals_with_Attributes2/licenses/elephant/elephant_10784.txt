@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mister-E
+Photo URL    : https://www.flickr.com/photos/mister-e/6932037749/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jan 26 06:30:39 GMT+0100 2012
+Upload Date  : Sun Feb 26 18:29:44 GMT+0100 2012
+Geotag Info  : Latitude:-25.225292, Longitude:31.954297
+Views        : 503
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephants
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Africa Elephant "Kruger National Park" Safari "South Africa" Wildlife 

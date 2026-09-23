@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : eileenmak
+Photo URL    : https://www.flickr.com/photos/eileenmak/3804173339/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 8 13:05:24 GMT+0200 2009
+Upload Date  : Sun Aug 9 20:14:00 GMT+0200 2009
+Views        : 45
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+zebra stripes
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

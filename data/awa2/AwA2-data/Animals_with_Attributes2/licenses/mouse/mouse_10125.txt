@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Beegee49
+Photo URL    : https://www.flickr.com/photos/beegee49/9171664163/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 30 12:16:29 GMT+0200 2013
+Upload Date  : Sun Jun 30 11:40:58 GMT+0200 2013
+Geotag Info  : Latitude:1.293500, Longitude:103.867996
+Views        : 144
+Comments     : 11
+
+
++---------+
+|  TITLE  |
++---------+
+Mouse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Elements_Organizer "1001 Nights" 

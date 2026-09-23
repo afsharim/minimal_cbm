@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jdj150
+Photo URL    : https://www.flickr.com/photos/jdan/1392516822/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 15 17:58:11 GMT+0200 2007
+Upload Date  : Sun Sep 16 17:14:32 GMT+0200 2007
+Geotag Info  : Latitude:35.781503, Longitude:-85.305580
+Views        : 73
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+20070915_0191
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+deer 

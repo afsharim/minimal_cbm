@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mliu92
+Photo URL    : https://www.flickr.com/photos/mliu92/6774690127/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jan 27 11:25:46 GMT+0100 2012
+Upload Date  : Sat Jan 28 08:23:14 GMT+0100 2012
+Geotag Info  : Latitude:32.737057, Longitude:-117.149105
+Views        : 199
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Exclaim 3793
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+What's up?
+
+
++--------+
+|  TAGS  |
++--------+
+"san diego" zoo river otter 

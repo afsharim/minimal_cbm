@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ltshears
+Photo URL    : https://commons.wikimedia.org/wiki/File:Black-footed_Ferret_001.jpg
+License      : Creative Commons (https://en.wikipedia.org/wiki/en:Creative_Commons) Attribution-Share Alike 3.0 Unported (//creativecommons.org/licenses/by-sa/3.0/deed.en)
+Date         : 10-4-2009

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jahofker
+Photo URL    : https://www.flickr.com/photos/jahofker/4816658109/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 27 15:01:56 GMT+0200 2010
+Upload Date  : Thu Jul 22 04:40:45 GMT+0200 2010
+Geotag Info  : Latitude:40.086631, Longitude:-105.941360
+Views        : 36
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Moose!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Colorado Granby 

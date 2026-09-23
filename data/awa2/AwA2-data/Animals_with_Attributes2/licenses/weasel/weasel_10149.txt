@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Anna Majkowska
+Photo URL    : https://www.flickr.com/photos/majkowska/2408152227/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 6 13:04:58 GMT+0200 2008
+Upload Date  : Sun Apr 13 01:28:42 GMT+0200 2008
+Views        : 140
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Weasel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Dave says it is not a gopher as I initially thought but a weasel that is about to go down the gopher hole to eat the gopher. Ugh!
+
+
++--------+
+|  TAGS  |
++--------+
+"tomales point" tomales "point reyes peninsula" 

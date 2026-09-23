@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Nigel's Europe & beyond 2
+Photo URL    : https://www.flickr.com/photos/zooeurope/6002852166/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 17 10:49:41 GMT+0200 2011
+Upload Date  : Tue Aug 2 20:37:37 GMT+0200 2011
+Geotag Info  : Latitude:52.507993, Longitude:13.337831
+Views        : 125
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Berlin Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Zebra
+
+
++--------+
+|  TAGS  |
++--------+
+"Berlin Zoo" Berlin Germany Zebra 

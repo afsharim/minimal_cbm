@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : eflon
+Photo URL    : https://www.flickr.com/photos/eflon/2308031879/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 2 02:44:59 GMT+0100 2008
+Upload Date  : Mon Mar 3 23:30:43 GMT+0100 2008
+Views        : 1,258
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Clydesdale Horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"clydesdale horse" face 

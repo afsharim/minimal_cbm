@@ -1,0 +1,38 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/3593686294/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 10 12:57:14 GMT+0200 2009
+Upload Date  : Wed Jun 3 23:55:11 GMT+0200 2009
+Geotag Info  : Latitude:47.420073, Longitude:9.285378
+Views        : 22,514
+Comments     : 25
+
+
++---------+
+|  TITLE  |
++---------+
+Confused chimp
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This one was looking a bit confused, what knowing what to do now!
+At least he has interesting looking eyes.
+
+Picture taken in the Walter zoo in Gossau, Switzerland.
+
+
++--------+
+|  TAGS  |
++--------+
+chimp chimpanzee monkey funny confused sitting eyes walter zoo nikon d300 gossau switzerland ape primate 

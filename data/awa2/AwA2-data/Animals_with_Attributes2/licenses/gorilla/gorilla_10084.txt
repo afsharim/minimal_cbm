@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : maarten-sr
+Photo URL    : https://www.flickr.com/photos/44939325@N02/4528396055/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 17 14:45:51 GMT+0200 2010
+Upload Date  : Sat Apr 17 21:00:14 GMT+0200 2010
+Views        : 148
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Bokito - World's Most Famous Gorilla
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

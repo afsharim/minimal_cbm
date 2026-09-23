@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Peter G Trimming
+Photo URL    : https://www.flickr.com/photos/peter-trimming/10842408724/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Oct 29 14:40:30 GMT+0100 2013
+Upload Date  : Wed Nov 13 20:45:56 GMT+0100 2013
+Geotag Info  : Latitude:54.384244, Longitude:-3.329539
+Views        : 577
+Comments     : 6
+
+
++---------+
+|  TITLE  |
++---------+
+Baby Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Seen at Forest How, Eskdale, Cumbria.   Subsequently named 'Nigel'.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

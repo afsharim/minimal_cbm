@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ibsut
+Photo URL    : https://www.flickr.com/photos/22616984@N07/6494936721/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 11 16:31:52 GMT+0100 2011
+Upload Date  : Sun Dec 11 22:29:41 GMT+0100 2011
+Views        : 37
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Moo?
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+DSC00415 (2)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

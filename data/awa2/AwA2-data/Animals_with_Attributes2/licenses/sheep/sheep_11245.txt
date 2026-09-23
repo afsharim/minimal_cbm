@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : gabs_z
+Photo URL    : https://www.flickr.com/photos/gabriel_zemron/20113503154/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 9 17:03:00 GMT+0200 2015
+Upload Date  : Thu Aug 20 18:01:23 GMT+0200 2015
+Geotag Info  : Latitude:57.404467, Longitude:-4.268875
+Views        : 150
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+sheeps
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+animal sheep mouton scotland écosse 

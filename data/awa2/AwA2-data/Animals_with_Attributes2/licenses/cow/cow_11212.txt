@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Maarten Dirkse
+Photo URL    : https://www.flickr.com/photos/superchango/7735031378/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 4 16:33:22 GMT+0200 2012
+Upload Date  : Tue Aug 7 21:46:59 GMT+0200 2012
+Geotag Info  : Latitude:50.871429, Longitude:14.360032
+Views        : 219
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Skyline cow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Bohemian Switzerland" cow skyline 

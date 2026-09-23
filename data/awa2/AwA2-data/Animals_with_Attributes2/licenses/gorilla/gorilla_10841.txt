@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jason Miklacic
+Photo URL    : https://www.flickr.com/photos/52934799@N03/7644076958/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 24 13:59:19 GMT+0200 2011
+Upload Date  : Wed Jul 25 17:12:15 GMT+0200 2012
+Views        : 1,410
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Western Lowland Gorilla
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Gorilla at the Cincinnati Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+Zoo "Cincinnati Zoo" "Western Lowland Gorilla" Gorilla Ohio 

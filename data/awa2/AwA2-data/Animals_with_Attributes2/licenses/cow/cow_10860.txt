@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : viralbus
+Photo URL    : https://www.flickr.com/photos/viralbus/155716761/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 29 11:12:04 GMT+0200 2003
+Upload Date  : Mon May 29 20:12:04 GMT+0200 2006
+Geotag Info  : Latitude:55.866594, Longitude:-4.262008
+Views        : 680
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Highland cows
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Highland cows on a highland street.
+
+
++--------+
+|  TAGS  |
++--------+
+cow scotland highlands 

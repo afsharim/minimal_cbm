@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jon Glittenberg
+Photo URL    : https://www.flickr.com/photos/jglitten/8381181551/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Oct 5 13:39:58 GMT+0200 2012
+Upload Date  : Tue Jan 15 00:47:42 GMT+0100 2013
+Views        : 42
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Pig (Sus domesticus)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : wbrentprice
+Photo URL    : https://www.flickr.com/photos/wbrentprice/23016649942/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Apr 6 17:00:59 GMT+0200 2011
+Upload Date  : Sun Nov 15 09:44:12 GMT+0100 2015
+Views        : 7
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_4189.jpg
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

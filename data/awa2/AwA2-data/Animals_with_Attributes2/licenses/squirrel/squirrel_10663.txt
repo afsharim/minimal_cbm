@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jeff Kubina
+Photo URL    : https://www.flickr.com/photos/kubina/654324460/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 23 11:26:22 GMT+0200 2007
+Upload Date  : Fri Jun 29 01:58:51 GMT+0200 2007
+Geotag Info  : Latitude:38.888865, Longitude:-77.045906
+Views        : 399
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel "taken by jeff kubina" rodent animal furry "eating bark" tail public "district of columbia" "washington d.c." "united states" "AF Nikkor 50mm f/1.4D" 

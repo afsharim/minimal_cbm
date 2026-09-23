@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Scott Lindsey
+Photo URL    : https://www.flickr.com/photos/scottlindsey/5471841817/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 6 11:06:43 GMT+0100 2011
+Upload Date  : Thu Feb 24 00:00:38 GMT+0100 2011
+Views        : 124
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC00318
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Border Collie 

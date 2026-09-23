@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : DVS1mn
+Photo URL    : https://www.flickr.com/photos/greggjerdingen/11278383336/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Dec 7 15:07:33 GMT+0100 2013
+Upload Date  : Sun Dec 8 23:13:51 GMT+0100 2013
+Geotag Info  : Latitude:44.767423, Longitude:-93.196555
+Views        : 216
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Canada Lynx
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Odie's parents held his 1st birthday at the Minnesota.  Even though the temperature did not get above zero, everybody had a great time.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

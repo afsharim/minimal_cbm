@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : D-Stanley
+Photo URL    : https://www.flickr.com/photos/davidstanleytravel/16041278706/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 26 12:27:49 GMT+0100 2014
+Upload Date  : Sun Dec 21 01:29:07 GMT+0100 2014
+Geotag Info  : Latitude:-54.028848, Longitude:-37.257032
+Views        : 6,270
+Comments     : 15
+
+
++---------+
+|  TITLE  |
++---------+
+Female Elephant Seals
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Female elephant seals bark to warn tourists to keep clear of their pups on Prion Island off South Georgia Island. The larger male asleep behind them is unconcerned.
+
+
++--------+
+|  TAGS  |
++--------+
+elephant seals "Prion Island" "South Georgia" island 

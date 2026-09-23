@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : BrokenSphere
+Photo URL    : https://commons.wikimedia.org/wiki/File:Grizzly_bear_at_SF_Zoo_8.JPG
+License      : Creative Commons (https://en.wikipedia.org/wiki/en:Creative_Commons) Attribution 3.0 Unported (//creativecommons.org/licenses/by/3.0/deed.en)
+Date         : 2010-08-13

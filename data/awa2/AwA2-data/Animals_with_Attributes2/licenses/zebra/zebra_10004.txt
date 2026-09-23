@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Just chaos
+Photo URL    : https://www.flickr.com/photos/7326810@N08/2303756920/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Feb 28 12:14:21 GMT+0100 2008
+Upload Date  : Sun Mar 2 04:08:16 GMT+0100 2008
+Views        : 383
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Damara Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Equus quagga antiquorum
+
+
++--------+
+|  TAGS  |
++--------+
+Safariwest Equus quagga antiquorum damara zebra stripes Animalia Chordata Mammalia Perissodactyla Equidae Hippotigris 

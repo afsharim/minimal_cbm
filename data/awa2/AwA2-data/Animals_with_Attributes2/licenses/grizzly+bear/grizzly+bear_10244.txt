@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Nick J Webb
+Photo URL    : https://www.flickr.com/photos/nickwebb/6880617946/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Mar 22 14:52:13 GMT+0100 2012
+Upload Date  : Thu Mar 29 15:51:58 GMT+0200 2012
+Views        : 297
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Brown bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Brown bear 

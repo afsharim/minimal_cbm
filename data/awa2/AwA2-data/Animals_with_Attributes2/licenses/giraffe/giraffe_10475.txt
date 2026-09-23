@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : wallygrom
+Photo URL    : https://www.flickr.com/photos/33037982@N04/3661465692/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Feb 11 00:00:01 GMT+0100 2005
+Upload Date  : Fri Jun 26 01:36:25 GMT+0200 2009
+Geotag Info  : Latitude:-3.356890, Longitude:38.581237
+Views        : 270
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Tsavo East, Kenya
+
+
++--------+
+|  TAGS  |
++--------+
+giraffe Africa Kenya "Tsavo East" 

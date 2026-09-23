@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : beeron2003
+Photo URL    : https://www.flickr.com/photos/beeron/3596622454/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 31 13:00:24 GMT+0200 2009
+Upload Date  : Fri Jun 5 00:38:58 GMT+0200 2009
+Geotag Info  : Latitude:37.731489, Longitude:-119.516229
+Views        : 1,495
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The deer isn't very focused but with some post-processing, I think it's alright.
+
+
++--------+
+|  TAGS  |
++--------+
+Deer Yosemite Hiking 

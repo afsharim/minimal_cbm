@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : teralaser
+Photo URL    : https://www.flickr.com/photos/teralaser/8058084658/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 30 17:21:32 GMT+0200 2012
+Upload Date  : Sat Oct 6 02:38:03 GMT+0200 2012
+Geotag Info  : Latitude:55.798441, Longitude:12.544969
+Views        : 998
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Young male deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+deer dyrehaven 

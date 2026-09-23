@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : namealus
+Photo URL    : https://www.flickr.com/photos/namealus/4662032473/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 30 16:17:50 GMT+0200 2010
+Upload Date  : Wed Jun 2 07:45:14 GMT+0200 2010
+Geotag Info  : Latitude:29.954637, Longitude:-90.067892
+Views        : 13
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+pig
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+new orleans 2010 french quarter 

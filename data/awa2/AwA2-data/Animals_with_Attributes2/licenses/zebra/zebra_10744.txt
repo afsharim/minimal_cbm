@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Slentz Radish
+Photo URL    : https://www.flickr.com/photos/sherbethead/2884339016/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Sep 22 18:39:14 GMT+0200 2008
+Upload Date  : Wed Sep 24 05:57:38 GMT+0200 2008
+Views        : 431
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The only time I've been able to catch more than a fleeting glimpse of one of these guys.
+
+
++--------+
+|  TAGS  |
++--------+
+mammal zebra "plains zebra" "woodland park zoo" "seattle, wa" 

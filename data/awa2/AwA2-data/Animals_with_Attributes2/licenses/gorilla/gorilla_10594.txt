@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : dpape
+Photo URL    : https://www.flickr.com/photos/dpape/3191708551/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Dec 8 13:00:03 GMT+0100 2007
+Upload Date  : Mon Jan 12 22:30:23 GMT+0100 2009
+Geotag Info  : Latitude:42.938611, Longitude:-78.851516
+Views        : 52
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+img_12570
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+2007 "buffalo zoo" 

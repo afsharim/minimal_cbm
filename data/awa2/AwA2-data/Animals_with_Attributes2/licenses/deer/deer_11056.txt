@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Joe Pell
+Photo URL    : https://www.flickr.com/photos/pellyutd/4532151749/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 18 01:11:14 GMT+0200 2010
+Upload Date  : Mon Apr 19 00:06:33 GMT+0200 2010
+Geotag Info  : Latitude:53.136885, Longitude:-0.151748
+Views        : 528
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Muntjac Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Muntjac Deer 

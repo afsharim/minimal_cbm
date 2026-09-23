@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Lucy Takakura
+Photo URL    : https://www.flickr.com/photos/lucytakakura/6358413691/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Nov 18 10:16:42 GMT+0100 2011
+Upload Date  : Fri Nov 18 16:23:33 GMT+0100 2011
+Views        : 43
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+インド象
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Exif_JPEG_PICTURE
+
+横浜ズーラシア
+
+
++--------+
+|  TAGS  |
++--------+
+elephant 

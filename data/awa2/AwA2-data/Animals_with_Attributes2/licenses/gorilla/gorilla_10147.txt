@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : lorihowesm
+Photo URL    : https://www.flickr.com/photos/lorihowesm/8086140932/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 9 15:25:26 GMT+0200 2012
+Upload Date  : Sun Oct 14 15:50:20 GMT+0200 2012
+Views        : 9
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_0230
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,13 @@
++--------------------------------------+
+|             Photo Metadata           |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mike Pennington
+Photo URL    : http://geo.hlipp.de/photo/32349
+License      : Creative Commons Attribution-ShareAlike 2.0 Generic (https://creativecommons.org/licenses/by-sa/2.0/)
+Date         : 22. Juli 2010

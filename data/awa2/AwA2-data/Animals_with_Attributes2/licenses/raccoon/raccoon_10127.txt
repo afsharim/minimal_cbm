@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : JoyTek
+Photo URL    : https://www.flickr.com/photos/joytek/5730891076/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 14 12:51:39 GMT+0200 2011
+Upload Date  : Tue May 17 18:58:58 GMT+0200 2011
+Geotag Info  : Latitude:47.248001, Longitude:1.352037
+Views        : 204
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMGP5436
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+zoo parc beauval
+
+
++--------+
+|  TAGS  |
++--------+
+zoo beauval raton laveur 

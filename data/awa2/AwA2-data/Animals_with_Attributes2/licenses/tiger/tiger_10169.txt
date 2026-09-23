@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : generalising
+Photo URL    : https://www.flickr.com/photos/shimgray/2796579285/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 24 12:25:48 GMT+0200 2008
+Upload Date  : Mon Aug 25 20:39:55 GMT+0200 2008
+Views        : 223
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+p1210629
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Siberian tiger (Panthera tigris altaica) at Whipsnade Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+tiger "siberian tiger" "amur tiger" "Panthera tigris altaica" "Panthera tigris" 

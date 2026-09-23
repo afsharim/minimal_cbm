@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : freddie boy
+Photo URL    : https://www.flickr.com/photos/froderik/6230576312/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Sep 1 16:26:21 GMT+0200 2011
+Upload Date  : Mon Oct 10 14:38:47 GMT+0200 2011
+Geotag Info  : Latitude:59.442150, Longitude:17.964461
+Views        : 282
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+random horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horse 

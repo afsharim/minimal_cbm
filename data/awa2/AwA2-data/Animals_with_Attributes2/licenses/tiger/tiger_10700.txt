@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ktgeek
+Photo URL    : https://www.flickr.com/photos/ktgeek/7467179264/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 26 15:08:38 GMT+0200 2012
+Upload Date  : Fri Jun 29 17:38:37 GMT+0200 2012
+Geotag Info  : Latitude:41.833666, Longitude:-87.836334
+Views        : 79
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Animals "Brookfield Zoo" tiger zoo 

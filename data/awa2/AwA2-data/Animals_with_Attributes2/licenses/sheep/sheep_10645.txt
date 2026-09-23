@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : A Roger Davies
+Photo URL    : https://www.flickr.com/photos/rogdavies/4669629876/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon May 31 19:36:53 GMT+0200 2010
+Upload Date  : Fri Jun 4 18:49:34 GMT+0200 2010
+Views        : 3,266
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep - 2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Sheep in Glanogeu
+
+
++--------+
+|  TAGS  |
++--------+
+Glanogeu "Roger Davies" Wales Cymry Sheep 

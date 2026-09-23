@@ -1,0 +1,19 @@
++--------------------------------------+
+|       Pixabay Photo Metadata         |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MikeeV
+Photo URL    : https://pixabay.com/en/dachshund-collie-dogs-beast-975336/
+License      : CC0 Public Domain (https://creativecommons.org/publicdomain/zero/1.0/deed.en)
+Created      : July 5, 2015
+Uploaded     : 9 months ago
+
++--------+
+|  TAGS  |
++--------+
+Dachshund, Collie, Dogs, Beast, Border Collie, Dog

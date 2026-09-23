@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Fresco Tours
+Photo URL    : https://www.flickr.com/photos/frescotours/15757278012/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 1 16:15:56 GMT+0100 2014
+Upload Date  : Mon Nov 10 11:39:35 GMT+0100 2014
+Views        : 203
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Oct 27, 2014  Camino de Santiago Tour #frescotours
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+<a href="http://www.frescotours.com" rel="nofollow">www.frescotours.com</a>
+Camino de Santiago Walking Tour by Spain's Fresco Tours!
+
+
++--------+
+|  TAGS  |
++--------+
+"“camino de Santiago”" camino walk "“saint james”" "“the way”" tour spain #frescotours santiago pilgrimage 

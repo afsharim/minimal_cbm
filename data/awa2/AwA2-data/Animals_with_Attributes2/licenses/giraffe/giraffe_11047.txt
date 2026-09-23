@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : PhilyFn
+Photo URL    : https://www.flickr.com/photos/philyfn/3036388142/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Oct 9 15:42:56 GMT+0200 2008
+Upload Date  : Sun Nov 16 23:46:12 GMT+0100 2008
+Geotag Info  : Latitude:39.971266, Longitude:-75.195665
+Views        : 129
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Our First Trip to the Philadelphia Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Philadelphia Zoo" zoo giraffe 

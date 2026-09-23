@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : 3liz4
+Photo URL    : https://www.flickr.com/photos/seadam/6066119045/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 21 12:19:40 GMT+0200 2011
+Upload Date  : Sun Aug 21 21:19:40 GMT+0200 2011
+Views        : 120
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horses
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Enterprise Eastern Oregon summer vacation" horses 

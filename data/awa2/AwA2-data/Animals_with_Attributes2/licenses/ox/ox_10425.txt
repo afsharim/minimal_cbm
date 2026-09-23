@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MaRu180
+Photo URL    : https://www.flickr.com/photos/61205823@N08/14721840549/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Sep 20 08:14:55 GMT+0200 2013
+Upload Date  : Wed Aug 13 19:33:53 GMT+0200 2014
+Views        : 209
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Italy Highlands
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Michael Zero Mayer
+Photo URL    : https://www.flickr.com/photos/michael_mayer/7286294162/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon May 28 11:34:05 GMT+0200 2012
+Upload Date  : Mon May 28 14:23:42 GMT+0200 2012
+Geotag Info  : Latitude:47.653833, Longitude:12.140000
+Views        : 173
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Muh, die Kuh!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

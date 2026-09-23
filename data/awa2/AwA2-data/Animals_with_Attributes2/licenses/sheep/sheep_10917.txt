@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : pelican
+Photo URL    : https://www.flickr.com/photos/pelican/3319941845/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 1 13:18:44 GMT+0100 2009
+Upload Date  : Sun Mar 1 23:32:02 GMT+0100 2009
+Views        : 188
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+At Osaka Fumin Bokujo (Osaka public farm).
+
+
++--------+
+|  TAGS  |
++--------+
+k200d "sigma 17-70mm F2.8-4.5" sheep osaka nose "public farm" おおさか府民牧場 

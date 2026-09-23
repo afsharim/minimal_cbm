@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Eponimm
+Photo URL    : https://www.flickr.com/photos/eponimm/8963814026/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 28 15:19:47 GMT+0200 2011
+Upload Date  : Wed Jun 5 23:45:58 GMT+0200 2013
+Views        : 1,521
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Etalon Percheron
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Etalon Percheron au Haras de Cluny, Saône-et-Loire, France
+
+
++--------+
+|  TAGS  |
++--------+
+cheval horse étalon percheron cluny 

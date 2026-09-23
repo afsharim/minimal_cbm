@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : G123E123E123K123
+Photo URL    : https://www.flickr.com/photos/g123k/88725504/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Dec 27 11:30:02 GMT+0100 2005
+Upload Date  : Fri Jan 20 00:52:57 GMT+0100 2006
+Views        : 198
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cows
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"north carolina" farm cows 

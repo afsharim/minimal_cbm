@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : spatulated
+Photo URL    : https://www.flickr.com/photos/joshuarothhaas/2010297506/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Nov 13 21:25:13 GMT+0100 2007
+Upload Date  : Wed Nov 14 03:25:13 GMT+0100 2007
+Geotag Info  : Latitude:41.500349, Longitude:-81.687276
+Views        : 1,423
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+More cute animals that daunt run away
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel "garlic bread" food eating cleveland downtown animals cute 

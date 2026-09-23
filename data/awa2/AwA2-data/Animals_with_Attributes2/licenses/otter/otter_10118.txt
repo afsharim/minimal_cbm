@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Marianne Bevis
+Photo URL    : https://www.flickr.com/photos/mariannebevis/8218062961/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 25 14:14:35 GMT+0100 2012
+Upload Date  : Mon Nov 26 00:32:17 GMT+0100 2012
+Geotag Info  : Latitude:51.479705, Longitude:-0.234060
+Views        : 76
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_5332
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+otters "Wildfowl and Wetland Trust" WWT "London wetlands" 

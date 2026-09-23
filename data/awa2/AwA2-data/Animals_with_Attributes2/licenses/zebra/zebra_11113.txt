@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mister-E
+Photo URL    : https://www.flickr.com/photos/mister-e/6858494997/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jan 25 17:38:17 GMT+0100 2012
+Upload Date  : Sat Feb 11 21:55:23 GMT+0100 2012
+Geotag Info  : Latitude:-25.319870, Longitude:31.907808
+Views        : 356
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebras
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Africa "Kruger National Park" Safari "South Africa" Wildlife Zebra 

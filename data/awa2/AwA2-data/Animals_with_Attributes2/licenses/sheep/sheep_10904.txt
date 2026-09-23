@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : frankcheez
+Photo URL    : https://www.flickr.com/photos/frankcheez/3035089695/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Nov 10 03:21:11 GMT+0100 2008
+Upload Date  : Sun Nov 16 21:06:26 GMT+0100 2008
+Views        : 1,343
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Gulf Coast sheep - a Florida breed
+
+Morningside nature center and living farm in Gainesville, FL.
+
+
++--------+
+|  TAGS  |
++--------+
+Morningside "nature center" "living farm" farm Gainesville FL Florida sheep "Gulf Coast" 

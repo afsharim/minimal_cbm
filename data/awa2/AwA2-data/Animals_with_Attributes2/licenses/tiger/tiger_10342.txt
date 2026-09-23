@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : edanley
+Photo URL    : https://www.flickr.com/photos/edanley/2615091580/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 20 22:39:27 GMT+0200 2008
+Upload Date  : Fri Jun 27 04:50:05 GMT+0200 2008
+Views        : 702
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger II
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Taken at Brookfield Zoo 6.21.08
+
+
++--------+
+|  TAGS  |
++--------+
+Tiger "Brookfield Zoo" 

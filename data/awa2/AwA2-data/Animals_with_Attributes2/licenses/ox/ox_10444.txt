@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : berniedup
+Photo URL    : https://www.flickr.com/photos/berniedup/6861458623/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 21 08:09:07 GMT+0200 2008
+Upload Date  : Sun Feb 12 10:31:11 GMT+0100 2012
+Geotag Info  : Latitude:2.335664, Longitude:31.494712
+Views        : 438
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lake Chad Buffalo (Syncerus brachyceros)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Murchison's Falls NP, UGANDA
+
+
++--------+
+|  TAGS  |
++--------+
+"Syncerus brachyceros" "taxonomy:binomial=Syncerus brachyceros" "Ptilostomus afer" "taxonomy:binomial=Ptilostomus afer" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mark (Rebel T3i)
+Photo URL    : https://www.flickr.com/photos/rebel_350d/7278323500/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 26 13:28:20 GMT+0200 2012
+Upload Date  : Sun May 27 11:45:28 GMT+0200 2012
+Geotag Info  : Latitude:53.422333, Longitude:-2.503852
+Views        : 246
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Spotted at Risley Moss Nature Reserve
+
+
++--------+
+|  TAGS  |
++--------+
+"Canon EOS T3i" "Canon EF 100-400mm" "Risley Moss" "Mark O'leary" icapture nature wildlife squirel 

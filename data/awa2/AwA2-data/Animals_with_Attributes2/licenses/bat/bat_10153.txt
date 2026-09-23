@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Gilles San Martin
+Photo URL    : https://www.flickr.com/photos/sanmartin/2863144030/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 31 11:34:54 GMT+0100 2006
+Upload Date  : Tue Sep 16 17:58:56 GMT+0200 2008
+Views        : 2,441
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Myotis mystacinus
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+grotte gtplecotus mammifere "Waulsort (Trou Paucot)" bat chiroptera Belgium 

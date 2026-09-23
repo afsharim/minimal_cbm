@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : chedder
+Photo URL    : https://www.flickr.com/photos/cheddar/169617844/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 17 11:12:01 GMT+0200 2006
+Upload Date  : Sun Jun 18 17:10:04 GMT+0200 2006
+Views        : 168
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Simon, again
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel 

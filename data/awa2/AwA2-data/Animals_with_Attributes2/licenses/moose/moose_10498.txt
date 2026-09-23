@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : DrBjorn
+Photo URL    : https://www.flickr.com/photos/62005704@N00/6147583131/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Sep 9 11:24:28 GMT+0200 2011
+Upload Date  : Wed Sep 14 21:34:18 GMT+0200 2011
+Views        : 25
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Moose!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Trail of the Coeur d'Alenes
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

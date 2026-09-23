@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : formatc1
+Photo URL    : https://www.flickr.com/photos/formatc1/2378611615/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 29 15:07:04 GMT+0100 2008
+Upload Date  : Tue Apr 1 06:00:06 GMT+0200 2008
+Views        : 1,352
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Beaver
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This beaver decided to poke its head up not too far from me.
+
+
++--------+
+|  TAGS  |
++--------+
+beaver 

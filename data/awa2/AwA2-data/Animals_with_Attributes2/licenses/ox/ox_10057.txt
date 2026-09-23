@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : FreeCat
+Photo URL    : https://www.flickr.com/photos/freecat/7336630026/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 2 20:51:13 GMT+0200 2012
+Upload Date  : Mon Jun 4 18:16:38 GMT+0200 2012
+Geotag Info  : Latitude:42.190110, Longitude:-7.801859
+Views        : 645
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Allariz - Festa do Boi 2012
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Proba do Boi.
+Atado a la Casa do Concello,
+
+
++--------+
+|  TAGS  |
++--------+
+allariz ourense galicia fiesta festa do boi carrera buey 

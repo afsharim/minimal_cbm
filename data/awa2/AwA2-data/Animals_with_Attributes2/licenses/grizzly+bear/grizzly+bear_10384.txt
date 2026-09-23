@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ahisgett
+Photo URL    : https://www.flickr.com/photos/hisgett/8067477806/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 8 13:36:58 GMT+0200 2012
+Upload Date  : Mon Oct 8 18:37:44 GMT+0200 2012
+Geotag Info  : Latitude:51.045205, Longitude:-114.029706
+Views        : 286
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Grizzly Bear 7
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Canada Calgary 

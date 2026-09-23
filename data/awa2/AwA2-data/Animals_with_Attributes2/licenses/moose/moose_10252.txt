@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : substack
+Photo URL    : https://www.flickr.com/photos/substack/3381755596/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Mar 23 22:37:24 GMT+0100 2009
+Upload Date  : Tue Mar 24 07:37:24 GMT+0100 2009
+Views        : 904
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Moose on the Loose
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Two moose were very near the metal stairs one morning.
+
+
++--------+
+|  TAGS  |
++--------+
+uaf moose 

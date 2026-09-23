@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : star-one
+Photo URL    : https://www.flickr.com/photos/star-one/18398217636/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 4 12:23:33 GMT+0200 2015
+Upload Date  : Wed Jun 3 18:10:59 GMT+0200 2015
+Views        : 101
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Seal
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

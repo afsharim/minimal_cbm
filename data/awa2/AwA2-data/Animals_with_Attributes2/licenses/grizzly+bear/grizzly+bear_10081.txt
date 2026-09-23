@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : KatmaiNPS
+Photo URL    : https://www.flickr.com/photos/katmainps/14444794916/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 19 20:37:21 GMT+0200 2014
+Upload Date  : Fri Jun 20 21:29:21 GMT+0200 2014
+Geotag Info  : Latitude:58.554536, Longitude:-155.791767
+Views        : 7,369
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+634 Popeye and 409 Beadnose mating near Brooks Falls
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+These bears mated for 1/2 hour near Brooks Falls on Thursday, June 19, 2014. The mating season for brown bears in Katmai peaks in late spring.
+
+
++--------+
+|  TAGS  |
++--------+
+Bear "brown bear" "Brooks Camp" 

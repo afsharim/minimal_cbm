@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : blondinrikard
+Photo URL    : https://www.flickr.com/photos/blondinrikard/14463867334/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri May 23 09:06:29 GMT+0200 2014
+Upload Date  : Fri Jun 20 13:13:25 GMT+0200 2014
+Views        : 223
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Darakeh street cat
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Darakeh, Tehran, Iran
+
+
++--------+
+|  TAGS  |
++--------+
+tehran iran darakeh darake cat "street cat" persian "persian cat" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : IRGlover
+Photo URL    : https://www.flickr.com/photos/irglover/3186122256/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 10 11:52:11 GMT+0100 2009
+Upload Date  : Sat Jan 10 23:08:01 GMT+0100 2009
+Geotag Info  : Latitude:51.349860, Longitude:-0.315749
+Views        : 142
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tigers
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+tiger "sumatran tiger" zoo chessington "chessington zoo" 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : grifray
+Photo URL    : https://www.flickr.com/photos/grifray/3924540716/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Sep 15 17:50:56 GMT+0200 2009
+Upload Date  : Wed Sep 16 00:50:56 GMT+0200 2009
+Views        : 91
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+farm 

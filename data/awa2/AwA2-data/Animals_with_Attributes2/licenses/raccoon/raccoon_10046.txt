@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Äpfel X
+Photo URL    : https://www.flickr.com/photos/aepfelx/175268607/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 14 21:43:10 GMT+0200 2006
+Upload Date  : Mon Jun 26 09:29:33 GMT+0200 2006
+Geotag Info  : Latitude:37.872638, Longitude:-122.261685
+Views        : 192
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bow down.
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Bow down.
+
+
++--------+
+|  TAGS  |
++--------+
+raccoon berkeley 

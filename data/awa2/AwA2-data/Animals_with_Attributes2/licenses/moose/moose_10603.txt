@@ -1,0 +1,19 @@
++--------------------------------------+
+|       Pixabay Photo Metadata         |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : toubibe
+Photo URL    : https://pixabay.com/en/moose-animal-mammal-sweden-568475/
+License      : CC0 Public Domain (https://creativecommons.org/publicdomain/zero/1.0/deed.en)
+Created      : Aug. 7, 2013
+Uploaded     : Dec. 16, 2014
+
++--------+
+|  TAGS  |
++--------+
+Moose, Animal, Mammal, Sweden

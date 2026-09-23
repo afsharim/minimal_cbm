@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jlantzy
+Photo URL    : https://www.flickr.com/photos/jlantzy/2699900146/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 25 11:38:31 GMT+0200 2008
+Upload Date  : Fri Jul 25 00:24:26 GMT+0200 2008
+Geotag Info  : Latitude:32.764686, Longitude:-117.228616
+Views        : 2,402
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Shamu jumping
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Killer Whale (Orca, Shamu) jumping out of water at Sea World San Diego in June of 2008
+
+
++--------+
+|  TAGS  |
++--------+
+"san diego" "killer whale" "sea world" 2008 orca shamu 

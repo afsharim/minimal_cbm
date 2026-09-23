@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Marie Hale
+Photo URL    : https://www.flickr.com/photos/15016964@N02/5920147794/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 15 14:49:13 GMT+0100 2011
+Upload Date  : Sun Jul 10 00:36:43 GMT+0200 2011
+Views        : 12,198
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bearded pig
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Bearded pig - taken at London Zoo on 15th January 2011
+
+
++--------+
+|  TAGS  |
++--------+
+pig 

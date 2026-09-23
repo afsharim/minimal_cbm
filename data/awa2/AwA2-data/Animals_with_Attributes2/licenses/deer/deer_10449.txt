@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Alex R Dixon
+Photo URL    : https://www.flickr.com/photos/alex_dixon/3994139764/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Oct 8 22:45:32 GMT+0200 2009
+Upload Date  : Thu Oct 8 23:45:32 GMT+0200 2009
+Geotag Info  : Latitude:56.821310, Longitude:-5.092903
+Views        : 124
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Nr Ben Nevis
+
+
++--------+
+|  TAGS  |
++--------+
+Scotland Wildlife Ben_Nevis 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : RichardBH
+Photo URL    : https://www.flickr.com/photos/rbh/12159960215/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 25 13:43:25 GMT+0100 2014
+Upload Date  : Sun Jan 26 22:40:50 GMT+0100 2014
+Views        : 171
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Me and Horses
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Richard horses 

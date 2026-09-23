@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : m00by
+Photo URL    : https://www.flickr.com/photos/m00by/2980859986/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 25 09:14:11 GMT+0200 2008
+Upload Date  : Tue Oct 28 06:51:06 GMT+0100 2008
+Geotag Info  : Latitude:42.687751, Longitude:-73.822315
+Views        : 489
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Ualbany Day - Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+These were some fine lookin' sheep. They were pretty good at maintaining if not eye contact with the camera, at least pointing their heads at it. Not really fans of the flash though. :)
+
+
++--------+
+|  TAGS  |
++--------+
+"Ualbany Day" Photoservice sheep "collins circle" 

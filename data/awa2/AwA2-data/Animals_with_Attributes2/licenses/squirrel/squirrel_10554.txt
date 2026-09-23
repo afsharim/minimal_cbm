@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Andrea Westmoreland
+Photo URL    : https://www.flickr.com/photos/andrea_pauline/3337534303/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 7 11:57:18 GMT+0100 2009
+Upload Date  : Sun Mar 8 16:30:17 GMT+0100 2009
+Views        : 349
+Comments     : 53
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel at Gemini
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+RubyPhotographer 

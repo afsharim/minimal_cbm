@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Pinti 1
+Photo URL    : https://www.flickr.com/photos/pinti1/8802124111/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 23 10:30:25 GMT+0200 2013
+Upload Date  : Fri May 24 14:45:31 GMT+0200 2013
+Geotag Info  : Latitude:51.185879, Longitude:-2.274277
+Views        : 216
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Nelly The Elephant!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Elephant longleat wildlife grazing 

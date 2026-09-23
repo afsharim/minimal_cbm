@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : uberculture
+Photo URL    : https://www.flickr.com/photos/uberculture/150800030/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 21 18:17:47 GMT+0200 2006
+Upload Date  : Mon May 22 02:53:52 GMT+0200 2006
+Geotag Info  : Latitude:44.949461, Longitude:-93.088188
+Views        : 253
+Comments     : 9
+
+
++---------+
+|  TITLE  |
++---------+
+squirrel1
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Suspicious squirrel scavenging peanuts in Mears park.
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel "mears park" tc009 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Rushdi'SNAPS
+Photo URL    : https://www.flickr.com/photos/thevampireking/9323085928/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jun 11 13:52:30 GMT+0200 2013
+Upload Date  : Fri Jul 19 19:39:17 GMT+0200 2013
+Views        : 52
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+TIGER
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

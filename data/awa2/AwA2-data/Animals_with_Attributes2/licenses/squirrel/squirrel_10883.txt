@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : GalgenTX
+Photo URL    : https://www.flickr.com/photos/galgentx/6261201685/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 16 11:26:11 GMT+0200 2011
+Upload Date  : Wed Oct 19 21:57:06 GMT+0200 2011
+Geotag Info  : Latitude:30.213722, Longitude:-97.724418
+Views        : 317
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Bastrop TX "Bastop, TX" "Kit Lens" "Canon EF-S 55-250 f4-5.6 IS" Squirrel "Animal Planet" 

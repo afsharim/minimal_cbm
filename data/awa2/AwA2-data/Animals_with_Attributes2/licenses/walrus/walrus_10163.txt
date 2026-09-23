@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : LindsayRs
+Photo URL    : https://commons.wikimedia.org/wiki/File:Walrus_in_the_Mist.jpg
+License      : Creative Commons (https://en.wikipedia.org/wiki/en:Creative_Commons) Attribution 2.0 Generic (//creativecommons.org/licenses/by/2.0/deed.en)
+Date         : 2005-07-11

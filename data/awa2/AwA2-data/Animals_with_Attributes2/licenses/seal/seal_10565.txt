@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : TurtleBayResort
+Photo URL    : https://www.flickr.com/photos/turtlebayresort/3381641110/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Mar 12 21:12:02 GMT+0100 2009
+Upload Date  : Tue Mar 24 06:27:40 GMT+0100 2009
+Geotag Info  : Latitude:21.707276, Longitude:-157.999706
+Views        : 327
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Monk Seal Sleeping on the Beach
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

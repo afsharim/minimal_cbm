@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : *~Dawn~*
+Photo URL    : https://www.flickr.com/photos/naturesdawn/1244038438/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Mar 1 00:00:00 GMT+0100 2007
+Upload Date  : Mon Aug 27 00:42:24 GMT+0200 2007
+Geotag Info  : Latitude:37.119126, Longitude:-122.319631
+Views        : 507
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant Seals
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Ano Nuevo" "California coast" "elephant seals" 

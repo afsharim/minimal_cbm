@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Marie Hale
+Photo URL    : https://www.flickr.com/photos/15016964@N02/5921428527/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jun 14 11:21:14 GMT+0200 2011
+Upload Date  : Sun Jul 10 14:40:10 GMT+0200 2011
+Views        : 579
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Red squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Red squirrel - taken at Lakeland Wildlife Oasis on 14th June 2011
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel 

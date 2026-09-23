@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ben Mason
+Photo URL    : https://www.flickr.com/photos/siberianluck/2220223306/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jan 25 16:56:43 GMT+0100 2008
+Upload Date  : Sat Jan 26 06:04:42 GMT+0100 2008
+Geotag Info  : Latitude:39.780590, Longitude:-104.972305
+Views        : 86
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"National Western Stock Show" 

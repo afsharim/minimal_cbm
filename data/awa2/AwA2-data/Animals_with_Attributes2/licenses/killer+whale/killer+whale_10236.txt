@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jeffgunn
+Photo URL    : https://www.flickr.com/photos/jeffgunn/9289851357/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 6 05:15:28 GMT+0200 2013
+Upload Date  : Mon Jul 15 13:10:11 GMT+0200 2013
+Geotag Info  : Latitude:48.534333, Longitude:-123.017167
+Views        : 391
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+San Juan Islands
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Orca
+
+
++--------+
+|  TAGS  |
++--------+
+Nature Pacific 2013 Washington Mountains Ocean "San Juan Islands" Summer Marine Orca 

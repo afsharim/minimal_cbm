@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Matt Elsberry
+Photo URL    : https://www.flickr.com/photos/matt_elsberry/4358304194/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue May 6 11:22:10 GMT+0200 2008
+Upload Date  : Mon Feb 15 03:42:03 GMT+0100 2010
+Geotag Info  : Latitude:30.865739, Longitude:-83.411625
+Views        : 16
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Squirrel Squirrels Critters 

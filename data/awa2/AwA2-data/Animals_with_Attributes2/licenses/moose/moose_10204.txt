@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MACSwriter
+Photo URL    : https://www.flickr.com/photos/88758069@N08/8446084576/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Feb 4 13:28:12 GMT+0100 2013
+Upload Date  : Mon Feb 4 22:44:51 GMT+0100 2013
+Views        : 129
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Mary Ann Clarke Scott, photo credit J Scott
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+BC Moose
+
+
++--------+
+|  TAGS  |
++--------+
+BC Moose 

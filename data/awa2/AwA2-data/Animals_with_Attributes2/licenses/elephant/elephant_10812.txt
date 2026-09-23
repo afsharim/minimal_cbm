@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : BasL
+Photo URL    : https://www.flickr.com/photos/basl/13017653545/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Feb 20 08:13:27 GMT+0100 2014
+Upload Date  : Sat Mar 8 22:07:25 GMT+0100 2014
+Geotag Info  : Latitude:-33.492161, Longitude:25.779418
+Views        : 1,423
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephants
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+elephant 

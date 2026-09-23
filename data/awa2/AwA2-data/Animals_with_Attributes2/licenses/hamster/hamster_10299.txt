@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : karen H. nickname.{ pooh}
+Photo URL    : https://www.flickr.com/photos/rugybugynicknamepooh/4996604778/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Sep 16 13:52:59 GMT+0200 2010
+Upload Date  : Thu Sep 16 19:52:59 GMT+0200 2010
+Views        : 1,775
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+hamster
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+hamster 

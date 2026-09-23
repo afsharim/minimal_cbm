@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : tbridge
+Photo URL    : https://www.flickr.com/photos/tbridge/5931408483/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 12 17:06:45 GMT+0200 2011
+Upload Date  : Wed Jul 13 01:00:56 GMT+0200 2011
+Views        : 248
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Mama Joy
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Sea Otter" "Monterey CA" "Monterey Bay Aquarium" Aquarium Joy "EF24-105mm f/4L IS USM" 

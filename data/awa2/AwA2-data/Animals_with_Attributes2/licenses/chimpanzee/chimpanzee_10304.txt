@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jaakko.hakulinen
+Photo URL    : https://www.flickr.com/photos/jshakulinen/8320873575/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Dec 25 18:25:37 GMT+0100 2012
+Upload Date  : Sat Dec 29 14:12:52 GMT+0100 2012
+Geotag Info  : Latitude:55.944171, Longitude:-3.267788
+Views        : 321
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+chimpanzee
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zoo "edinburgh zoo" ape eating 

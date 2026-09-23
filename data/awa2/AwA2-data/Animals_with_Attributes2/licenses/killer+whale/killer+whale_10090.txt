@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Giles Douglas
+Photo URL    : https://www.flickr.com/photos/orangelimey/497296496/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 13 09:37:28 GMT+0200 2007
+Upload Date  : Mon May 14 05:11:34 GMT+0200 2007
+Geotag Info  : Latitude:38.138657, Longitude:-122.235608
+Views        : 417
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Jumping whale
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Jumped too high for my shot :(
+
+
++--------+
+|  TAGS  |
++--------+
+"Mother's Day" "Theme Park" Vallejo CA USA Whale id:pic=_DSC1546 "killer whale" 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : rbbaird
+Photo URL    : https://www.flickr.com/photos/rbbaird/5416333578/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jan 28 14:04:26 GMT+0100 2011
+Upload Date  : Fri Feb 4 17:44:54 GMT+0100 2011
+Views        : 182
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+zebra 2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+senegal "west africa" "malika monkeys" 

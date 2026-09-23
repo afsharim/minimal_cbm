@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : corrieb
+Photo URL    : https://www.flickr.com/photos/corrieb/2743419357/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 7 14:40:45 GMT+0200 2008
+Upload Date  : Thu Aug 7 23:40:45 GMT+0200 2008
+Geotag Info  : Latitude:-32.273780, Longitude:148.582878
+Views        : 339
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Taronga Western Plains Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+corrie dubbo nsw "taronga western plains zoo" zoo elephant "powershot s3" canon "canon powershot s3 is" 

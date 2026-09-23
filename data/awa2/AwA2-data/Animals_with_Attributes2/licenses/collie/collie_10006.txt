@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bambe1964
+Photo URL    : https://www.flickr.com/photos/bambe1964/21663662714/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Sep 23 16:01:21 GMT+0200 2015
+Upload Date  : Mon Oct 19 00:24:56 GMT+0200 2015
+Views        : 114
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+'come'
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+dog "border collie" field 

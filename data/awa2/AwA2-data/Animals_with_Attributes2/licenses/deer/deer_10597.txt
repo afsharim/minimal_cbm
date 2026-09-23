@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Carsten Schertzer
+Photo URL    : https://www.flickr.com/photos/jonathanschertzer/8435808421/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jan 30 23:15:21 GMT+0100 2013
+Upload Date  : Sat Feb 2 00:35:38 GMT+0100 2013
+Views        : 353
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

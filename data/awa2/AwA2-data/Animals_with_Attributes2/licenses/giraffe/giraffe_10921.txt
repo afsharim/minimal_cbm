@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Areola Grande.
+Photo URL    : https://www.flickr.com/photos/mandimaebe/4927757020/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 8 09:47:55 GMT+0200 2010
+Upload Date  : Wed Aug 25 23:24:44 GMT+0200 2010
+Geotag Info  : Latitude:41.443798, Longitude:-81.714302
+Views        : 48
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_0702
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Cleveland Zoo" 2010 animals giraffe 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ChameleonGreen
+Photo URL    : https://www.flickr.com/photos/chameleongreen/4532917997/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Apr 8 13:41:48 GMT+0200 2010
+Upload Date  : Mon Apr 19 04:35:26 GMT+0200 2010
+Views        : 31
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra in drakensburg
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

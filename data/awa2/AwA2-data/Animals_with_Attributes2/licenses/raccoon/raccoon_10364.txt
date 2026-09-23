@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : EatsShootsEdits
+Photo URL    : https://www.flickr.com/photos/amoosefloats/15004766235/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 22 16:35:15 GMT+0200 2014
+Upload Date  : Sat Aug 23 04:55:53 GMT+0200 2014
+Geotag Info  : Latitude:49.296275, Longitude:-123.145580
+Views        : 51
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Raccoon!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

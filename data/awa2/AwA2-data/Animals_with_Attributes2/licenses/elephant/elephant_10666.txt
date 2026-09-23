@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : cisc1970
+Photo URL    : https://www.flickr.com/photos/franciscodaum/2234720268/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Feb 1 06:45:56 GMT+0100 2008
+Upload Date  : Fri Feb 1 12:48:50 GMT+0100 2008
+Views        : 22
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+elephant3.jpg
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+berlinzoo elephant cisc1970 

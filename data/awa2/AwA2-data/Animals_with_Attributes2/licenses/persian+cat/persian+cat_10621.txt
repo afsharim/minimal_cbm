@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jeffgunn
+Photo URL    : https://www.flickr.com/photos/jeffgunn/3492235489/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri May 1 21:47:41 GMT+0200 2009
+Upload Date  : Sat May 2 03:47:41 GMT+0200 2009
+Geotag Info  : Latitude:33.794270, Longitude:-84.371566
+Views        : 292
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sophie
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Ruptured abscess a week after we adopted her.
+
+
++--------+
+|  TAGS  |
++--------+
+cat persian vet 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : btwashburn
+Photo URL    : https://www.flickr.com/photos/btwashburn/15123058405/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Sep 1 12:32:58 GMT+0200 2014
+Upload Date  : Wed Sep 3 02:18:26 GMT+0200 2014
+Geotag Info  : Latitude:37.970000, Longitude:-122.003167
+Views        : 92
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Raccoon
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+On display at the Mount Diablo visitors center
+
+
++--------+
+|  TAGS  |
++--------+
+flickriosapp:filter=NoFilter uploaded:by=flickr_mobile 

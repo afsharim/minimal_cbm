@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Holger Weiß
+Photo URL    : https://www.flickr.com/photos/78988397@N02/14030307495/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Apr 18 09:19:43 GMT+0200 2014
+Upload Date  : Sun Apr 27 10:14:31 GMT+0200 2014
+Views        : 420
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Pferd
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Fuji X-E1 Fujinon 18-55F2.8-4 

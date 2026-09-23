@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Bob Cox Photography
+Photo URL    : https://www.flickr.com/photos/bob_cox/1857865605/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 4 16:36:58 GMT+0100 2007
+Upload Date  : Sun Nov 4 17:36:58 GMT+0100 2007
+Views        : 733
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Fallow deer buck
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+<a href="http://bighugelabs.com/flickr/onblack.php?id=1857865605" rel="nofollow">View On Black</a>
+
+
++--------+
+|  TAGS  |
++--------+
+antlers Naturalezaviva "fallow deer buck" 

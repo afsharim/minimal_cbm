@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : kristymurphy47
+Photo URL    : https://www.flickr.com/photos/120578283@N02/13363866434/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Feb 7 09:18:06 GMT+0100 2012
+Upload Date  : Sun Mar 23 23:52:25 GMT+0100 2014
+Views        : 15
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tim Pearce, Los Gatos
+Photo URL    : https://www.flickr.com/photos/timpearcelosgatos/4366122216/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 14 11:42:52 GMT+0100 2010
+Upload Date  : Wed Feb 17 20:49:51 GMT+0100 2010
+Geotag Info  : Latitude:37.733864, Longitude:-122.505455
+Views        : 4,447
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Gorilla picking toes at san francisco zoo feb 2010
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Gorilla picking toes at san francisco zoo feb 2010
+
+
++--------+
+|  TAGS  |
++--------+
+Gorilla picking toes san francisco zoo feb 2010 "san fran zoo and maddies seussical play feb 2010" 

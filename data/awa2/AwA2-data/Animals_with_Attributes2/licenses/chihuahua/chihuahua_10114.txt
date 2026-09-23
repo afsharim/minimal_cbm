@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jeffreyw
+Photo URL    : https://www.flickr.com/photos/jeffreyww/4169313337/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Dec 8 12:09:26 GMT+0100 2009
+Upload Date  : Tue Dec 8 21:09:26 GMT+0100 2009
+Views        : 465
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+chihuahua
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+hasn't had his appt with &quot;the fixer&quot; yet
+
+
++--------+
+|  TAGS  |
++--------+
+"dogs and cats" pets 

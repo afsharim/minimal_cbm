@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : moonlightbulb
+Photo URL    : https://www.flickr.com/photos/moonlightbulb/5922544255/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 10 14:28:08 GMT+0200 2011
+Upload Date  : Sun Jul 10 20:28:08 GMT+0200 2011
+Views        : 52
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebras
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+At the NC Zoo in Asheboro
+
+
++--------+
+|  TAGS  |
++--------+
+zoo NC Asheboro 

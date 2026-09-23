@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Aaron Gustafson
+Photo URL    : https://www.flickr.com/photos/aarongustafson/4226641725/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Dec 29 15:56:35 GMT+0100 2009
+Upload Date  : Wed Dec 30 04:15:23 GMT+0100 2009
+Views        : 360
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+North American River Otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"North American River Otter" taxonomy:kingdom=Animalia taxonomy:phylum=Chordata taxonomy:class=Mammalia taxonomy:order=Carnivora taxonomy:family=Mustelidae taxonomy:subfamily=Lutrinae taxonomy:genus=Lontra "taxonomy:species=Lontra canadensis" "Lontra canadensis" "Tennessee Aquarium" 

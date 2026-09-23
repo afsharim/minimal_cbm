@@ -1,0 +1,38 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : wolfpix
+Photo URL    : https://www.flickr.com/photos/wolfraven/5264736666/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Dec 15 14:11:12 GMT+0100 2010
+Upload Date  : Wed Dec 15 23:11:12 GMT+0100 2010
+Geotag Info  : Latitude:37.116765, Longitude:-122.319481
+Views        : 1,814
+Comments     : 30
+
+
++---------+
+|  TITLE  |
++---------+
+Playful seal-pups
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Northern elephant seals
+<i>Mirounga augustirostris</i>
+Año Nuevo State Reserve
+San Mateo, California
+
+
++--------+
+|  TAGS  |
++--------+
+seal seal-pup "play fighting" play "Northern elephant seal" "elephant seal" "Mirounga augustirostris" foca phoca "marine mammal" 

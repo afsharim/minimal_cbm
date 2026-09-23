@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Carsten aus Bonn
+Photo URL    : https://www.flickr.com/photos/zickzangel/7434471822/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 22 17:11:55 GMT+0200 2012
+Upload Date  : Sun Jun 24 21:25:42 GMT+0200 2012
+Views        : 135
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+PEN with Minolta Rokkor MD 50/1.4
+
+
++--------+
+|  TAGS  |
++--------+
+rokkor 

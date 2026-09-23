@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : brianna.lehman
+Photo URL    : https://www.flickr.com/photos/briannalehman/3608461265/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 8 04:30:27 GMT+0200 2009
+Upload Date  : Tue Jun 9 01:54:29 GMT+0200 2009
+Views        : 386
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+rat
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

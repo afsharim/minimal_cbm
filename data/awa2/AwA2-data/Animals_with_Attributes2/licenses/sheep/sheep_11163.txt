@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : AJC ajcann.wordpress.com
+Photo URL    : https://www.flickr.com/photos/ajc1/22146301133/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Oct 23 11:59:34 GMT+0200 2015
+Upload Date  : Wed Nov 4 04:33:55 GMT+0100 2015
+Views        : 310
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+sheep "Ovis aries" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : m.prinke
+Photo URL    : https://www.flickr.com/photos/mprinke/4018360013/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Oct 8 10:04:57 GMT+0200 2009
+Upload Date  : Sat Oct 17 12:27:33 GMT+0200 2009
+Geotag Info  : Latitude:46.334455, Longitude:7.535725
+Views        : 97
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Kuhportrait
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Schweiz Wallis Suisse Valais Switzerland Kuh Cow 

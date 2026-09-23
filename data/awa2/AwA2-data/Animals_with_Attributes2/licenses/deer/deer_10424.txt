@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ben Mason
+Photo URL    : https://www.flickr.com/photos/siberianluck/3666977254/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 27 10:45:37 GMT+0200 2009
+Upload Date  : Sun Jun 28 03:35:57 GMT+0200 2009
+Geotag Info  : Latitude:39.673988, Longitude:-105.202987
+Views        : 219
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Deer "Red Rocks" 

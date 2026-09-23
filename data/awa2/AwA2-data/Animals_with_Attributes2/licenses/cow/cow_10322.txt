@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Laurel Fan
+Photo URL    : https://www.flickr.com/photos/laurelfan/3672833570/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 26 16:09:49 GMT+0200 2009
+Upload Date  : Mon Jun 29 20:44:22 GMT+0200 2009
+Geotag Info  : Latitude:47.337166, Longitude:-120.851167
+Views        : 746
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The dirt road to the trailhead features some exciting potholes and cows playing in the road.
+
+
++--------+
+|  TAGS  |
++--------+
+cow 

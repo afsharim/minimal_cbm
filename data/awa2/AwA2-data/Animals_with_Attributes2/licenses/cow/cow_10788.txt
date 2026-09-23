@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ednl
+Photo URL    : https://www.flickr.com/photos/dnet/3996452710/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Oct 9 15:25:51 GMT+0200 2009
+Upload Date  : Fri Oct 9 22:05:13 GMT+0200 2009
+Geotag Info  : Latitude:52.178666, Longitude:4.973000
+Views        : 1,133
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Field of cows
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+training outdoors fietstocht "cycling tour" "Utrecht Province" "Provincie Utrecht" cows koeien 

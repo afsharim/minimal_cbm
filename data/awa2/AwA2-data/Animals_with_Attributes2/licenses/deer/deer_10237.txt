@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : BarbarianCoder
+Photo URL    : https://www.flickr.com/photos/42009465@N03/5073328159/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Oct 6 09:15:02 GMT+0200 2010
+Upload Date  : Tue Oct 12 03:36:14 GMT+0200 2010
+Geotag Info  : Latitude:35.602043, Longitude:-83.823623
+Views        : 182
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer in Cades Cove
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Cades Cove, Smoky Mountains
+
+
++--------+
+|  TAGS  |
++--------+
+Deer panasonic lumix 

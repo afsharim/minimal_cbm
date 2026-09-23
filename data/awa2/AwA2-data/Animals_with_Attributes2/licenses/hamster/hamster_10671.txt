@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sermoa
+Photo URL    : https://www.flickr.com/photos/sermoa/459011692/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 14 21:12:29 GMT+0200 2007
+Upload Date  : Sat Apr 14 22:30:22 GMT+0200 2007
+Views        : 201
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Suzie trying to escape
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Like all hamsters, always trying to get away!
+Photo taken by my partner.
+
+
++--------+
+|  TAGS  |
++--------+
+suzie hamster 

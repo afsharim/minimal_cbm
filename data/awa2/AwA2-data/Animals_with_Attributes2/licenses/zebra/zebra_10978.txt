@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jumblejet
+Photo URL    : https://www.flickr.com/photos/jumblejet/3415184016/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Mar 17 19:56:26 GMT+0100 2005
+Upload Date  : Sun Apr 5 18:41:07 GMT+0200 2009
+Geotag Info  : Latitude:-28.245118, Longitude:31.971588
+Views        : 265
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra, Hluhluwe Imfolozi Game Reserve
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"south africa" kwazulu-natal animal wildlife zebra 

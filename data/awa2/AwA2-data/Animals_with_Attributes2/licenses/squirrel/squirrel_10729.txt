@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Melinda & Cristiano
+Photo URL    : https://www.flickr.com/photos/melinda_and_cristiano/3074620869/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 23 15:18:50 GMT+0100 2008
+Upload Date  : Mon Dec 1 21:12:11 GMT+0100 2008
+Views        : 119
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel "regent's park" cute photographer:flickr=mseckington 

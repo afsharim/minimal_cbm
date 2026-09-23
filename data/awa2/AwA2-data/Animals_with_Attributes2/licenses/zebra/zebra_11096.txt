@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Benno Hansen
+Photo URL    : https://www.flickr.com/photos/bennohansen/5429223262/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 5 15:09:47 GMT+0100 2011
+Upload Date  : Tue Feb 8 21:57:43 GMT+0100 2011
+Geotag Info  : Latitude:-1.372816, Longitude:36.834411
+Views        : 1,603
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebras
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Zebras grazing outside Nairobi, Kenya. Notice all the closest buildings are under construction, urbanization encroaching on wildlife.
+
+
++--------+
+|  TAGS  |
++--------+
+Nairobi zebras PhotoContest-TNC11 

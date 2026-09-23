@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : johnmuk
+Photo URL    : https://www.flickr.com/photos/jm999uk/5927497823/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 11 15:09:37 GMT+0200 2011
+Upload Date  : Mon Jul 11 23:57:05 GMT+0200 2011
+Views        : 31
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Taken on 11th July at Paradise Wildlife Park, Broxbourne, Herts, England
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

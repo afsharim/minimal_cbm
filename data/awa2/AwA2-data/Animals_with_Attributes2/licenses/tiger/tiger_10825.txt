@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jdrowell
+Photo URL    : https://www.flickr.com/photos/jdrowell/313627847/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Dec 2 14:52:57 GMT+0100 2006
+Upload Date  : Mon Dec 4 05:26:39 GMT+0100 2006
+Views        : 438
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Tigre de Bengala (Panthera Tigris Tigris)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+zoo_parque_itatiba
+
+
++--------+
+|  TAGS  |
++--------+
+zoo_parque_itatiba 

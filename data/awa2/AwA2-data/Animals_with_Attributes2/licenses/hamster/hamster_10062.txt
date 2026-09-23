@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Kamil Porembiński
+Photo URL    : https://www.flickr.com/photos/paszczak000/4951769020/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Sep 2 16:46:38 GMT+0200 2010
+Upload Date  : Thu Sep 2 18:10:37 GMT+0200 2010
+Geotag Info  : Latitude:51.749484, Longitude:19.405159
+Views        : 63,205
+Comments     : 20
+
+
++---------+
+|  TITLE  |
++---------+
+Baby hamster
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Baby hamster Roborovski.
+
+
++--------+
+|  TAGS  |
++--------+
+hamster "hamster roborovski" baby animal small pussy 

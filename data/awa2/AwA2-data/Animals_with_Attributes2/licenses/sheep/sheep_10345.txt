@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : atomic0x
+Photo URL    : https://www.flickr.com/photos/atomci0x/3970673452/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Sep 4 12:40:15 GMT+0200 2009
+Upload Date  : Thu Oct 1 03:15:21 GMT+0200 2009
+Views        : 42
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_0405
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+italy sheep 

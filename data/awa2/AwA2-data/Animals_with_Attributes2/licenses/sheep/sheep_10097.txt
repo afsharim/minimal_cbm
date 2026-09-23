@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : WayShare
+Photo URL    : https://www.flickr.com/photos/47042618@N06/6193974465/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Sep 20 08:54:20 GMT+0200 2011
+Upload Date  : Thu Sep 29 08:43:15 GMT+0200 2011
+Geotag Info  : Latitude:53.213293, Longitude:-1.688375
+Views        : 114
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Barn and sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+derbyshire peak district sheep barn 

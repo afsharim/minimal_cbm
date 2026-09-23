@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jim, the Photographer
+Photo URL    : https://www.flickr.com/photos/jcapaldi/6019327529/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 5 12:49:52 GMT+0200 2011
+Upload Date  : Mon Aug 8 00:39:37 GMT+0200 2011
+Geotag Info  : Latitude:38.938348, Longitude:-74.923410
+Views        : 664
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebras
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Cape May County Zoo - August 5, 2011
+
+
++--------+
+|  TAGS  |
++--------+
+"Cape May County Park and Zoo" vacation zebra 

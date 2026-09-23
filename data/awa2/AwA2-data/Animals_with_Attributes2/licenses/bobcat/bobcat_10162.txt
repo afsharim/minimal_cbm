@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jitze
+Photo URL    : https://www.flickr.com/photos/jitze1942/6837949812/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 10 18:46:37 GMT+0100 2012
+Upload Date  : Thu Mar 15 08:12:45 GMT+0100 2012
+Views        : 518
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Adult Bobcat
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This guy is an ambassador cat used for education purposes, see <a href="http://wildcatfund.org/cats.html" rel="nofollow">wildcatfund.org/cats.html</a>
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

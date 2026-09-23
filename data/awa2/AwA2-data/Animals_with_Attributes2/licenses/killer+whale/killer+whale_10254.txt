@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : eekim
+Photo URL    : https://www.flickr.com/photos/eekim/2583592870/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 12 14:59:01 GMT+0200 2008
+Upload Date  : Mon Jun 16 09:48:21 GMT+0200 2008
+Views        : 112
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Shamu Flips
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+shamu "Killer Whale" "Sea World" "San Diego" 

@@ -1,0 +1,41 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Simon Matzinger
+Photo URL    : https://www.flickr.com/photos/simonmatzinger/16293906422/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 28 10:11:17 GMT+0100 2014
+Upload Date  : Fri Jan 16 19:24:44 GMT+0100 2015
+Geotag Info  : Latitude:48.209702, Longitude:16.360655
+Views        : 2,001
+Comments     : 8
+
+
++---------+
+|  TITLE  |
++---------+
+Snow blanket.
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Schneetreiben
+wird dichter —
+Die Pferde brauchen noch eine Decke.
+
+Drifting snow
+is getting denser —
+The horses need another blanket.
+
+
++--------+
+|  TAGS  |
++--------+
+Wien Austria horses pferde carriage kutsche schnee snow 

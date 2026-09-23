@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Rene Mensen
+Photo URL    : https://www.flickr.com/photos/renemensen/4068759927/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Feb 22 15:54:02 GMT+0100 2007
+Upload Date  : Mon Nov 2 20:01:21 GMT+0100 2009
+Geotag Info  : Latitude:52.786153, Longitude:6.897010
+Views        : 437
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+giraffe emmen dierentuin 

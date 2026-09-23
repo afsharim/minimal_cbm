@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/23576792892/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 31 13:07:16 GMT+0100 2015
+Upload Date  : Sat Dec 12 01:00:09 GMT+0100 2015
+Geotag Info  : Latitude:46.733000, Longitude:8.207151
+Views        : 2,676
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cute Border Collie sitting
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The cute border collie you saw before this time posing alone.
+
+
++--------+
+|  TAGS  |
++--------+
+posing sitting grass portrait dog "border collie" black white hasliberg bern "berner oberland" switzerland alps nikon d4 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : rottnapples
+Photo URL    : https://www.flickr.com/photos/rottnapples/5638860812/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 16 16:55:20 GMT+0200 2011
+Upload Date  : Wed Apr 20 22:44:23 GMT+0200 2011
+Views        : 273
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+squirrel!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

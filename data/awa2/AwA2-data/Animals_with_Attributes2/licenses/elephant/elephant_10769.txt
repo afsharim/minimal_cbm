@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : PleaseRomaineCalm
+Photo URL    : https://www.flickr.com/photos/davepotwin/5594272886/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Apr 5 20:06:02 GMT+0200 2011
+Upload Date  : Wed Apr 6 05:06:02 GMT+0200 2011
+Views        : 12
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephants
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

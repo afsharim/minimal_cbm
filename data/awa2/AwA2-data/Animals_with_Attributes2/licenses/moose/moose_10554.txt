@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Chris and Kris
+Photo URL    : https://www.flickr.com/photos/chriswiegand/32132091/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 7 20:14:20 GMT+0200 2005
+Upload Date  : Mon Aug 8 04:14:20 GMT+0200 2005
+Views        : 75
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Picture04.jpg
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Moose near Granby, Colorado, USA
+
+
++--------+
+|  TAGS  |
++--------+
+moose wilderness 

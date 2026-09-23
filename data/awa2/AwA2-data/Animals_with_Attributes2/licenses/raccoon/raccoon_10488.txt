@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : dr. friendly
+Photo URL    : https://www.flickr.com/photos/57777529@N02/5398854620/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 29 12:13:07 GMT+0100 2011
+Upload Date  : Sat Jan 29 19:57:24 GMT+0100 2011
+Geotag Info  : Latitude:53.239483, Longitude:10.050388
+Views        : 443
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+waschbär
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+raccoon
+
+
++--------+
+|  TAGS  |
++--------+
+waschbär raccoon 

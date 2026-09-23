@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : VSmithUK
+Photo URL    : https://www.flickr.com/photos/vsmithuk/301501894/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Oct 26 10:37:46 GMT+0200 2006
+Upload Date  : Mon Nov 20 03:26:23 GMT+0100 2006
+Geotag Info  : Latitude:-42.077521, Longitude:-63.757696
+Views        : 199
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Southern Elephant Seals
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+<i>Mirounga leonina</i>
+
+
++--------+
+|  TAGS  |
++--------+
+_Favorite_ Argentina Life Mammal Patagonia 

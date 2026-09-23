@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Burratha
+Photo URL    : https://www.flickr.com/photos/burratha/5438868081/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 12 13:54:23 GMT+0100 2011
+Upload Date  : Sat Feb 12 20:10:15 GMT+0100 2011
+Geotag Info  : Latitude:51.534270, Longitude:-0.152950
+Views        : 28
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+London Zoo 

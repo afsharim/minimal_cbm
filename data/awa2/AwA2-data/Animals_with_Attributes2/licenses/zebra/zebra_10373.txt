@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : generalising
+Photo URL    : https://www.flickr.com/photos/shimgray/2796510097/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 24 11:44:59 GMT+0200 2008
+Upload Date  : Mon Aug 25 20:17:54 GMT+0200 2008
+Views        : 223
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+p1210573
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Grevy's zebra (Equus grevyi) at Whipsnade Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+zebra "grevy's zebra" "equus grevyi" 

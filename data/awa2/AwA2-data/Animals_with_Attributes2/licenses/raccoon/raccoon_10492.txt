@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : deischi
+Photo URL    : https://www.flickr.com/photos/deischi/7434285832/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 24 18:08:07 GMT+0200 2012
+Upload Date  : Sun Jun 24 20:58:58 GMT+0200 2012
+Geotag Info  : Latitude:47.801647, Longitude:13.946775
+Views        : 514
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Waschbär
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Waschbär Racoon Wildpark Grünau 

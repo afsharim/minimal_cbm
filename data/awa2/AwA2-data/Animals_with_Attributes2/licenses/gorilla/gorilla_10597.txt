@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : dpape
+Photo URL    : https://www.flickr.com/photos/dpape/5094544395/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Oct 18 19:10:14 GMT+0200 2010
+Upload Date  : Tue Oct 19 01:10:14 GMT+0200 2010
+Views        : 282
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+img_41994_crop
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Buffalo Zoo's week-old baby gorilla with her mom, Sidney.
+
+
++--------+
+|  TAGS  |
++--------+
+"buffalo zoo" 2010 

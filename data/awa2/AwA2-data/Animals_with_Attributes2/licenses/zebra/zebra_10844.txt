@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : koiart71
+Photo URL    : https://www.flickr.com/photos/koiart66/5846575128/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 18 13:59:54 GMT+0200 2011
+Upload Date  : Sat Jun 18 22:59:54 GMT+0200 2011
+Views        : 53
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

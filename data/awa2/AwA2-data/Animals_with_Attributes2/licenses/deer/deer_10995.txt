@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : KathrynW1
+Photo URL    : https://www.flickr.com/photos/kathryn-wright/9292685851/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 13 07:56:31 GMT+0200 2013
+Upload Date  : Mon Jul 15 20:45:39 GMT+0200 2013
+Geotag Info  : Latitude:51.189000, Longitude:-2.275972
+Views        : 66
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Longleat
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Longleat deer animal 

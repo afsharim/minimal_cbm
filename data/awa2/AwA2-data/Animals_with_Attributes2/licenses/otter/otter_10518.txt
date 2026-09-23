@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : scazon
+Photo URL    : https://www.flickr.com/photos/scazon/3037619538/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Sep 11 15:20:57 GMT+0200 2007
+Upload Date  : Mon Nov 17 07:24:21 GMT+0100 2008
+Geotag Info  : Latitude:49.300698, Longitude:-123.130962
+Views        : 297
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Otters
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Vancouver Aquarium
+
+
++--------+
+|  TAGS  |
++--------+
+vancouver aquarium "vancouver aquarium" otter "sea otter" 

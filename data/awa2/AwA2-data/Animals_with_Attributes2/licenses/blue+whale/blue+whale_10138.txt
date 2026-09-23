@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Oregon State University
+Photo URL    : https://www.flickr.com/photos/oregonstateuniversity/5858411968/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Sep 7 23:01:39 GMT+0200 2007
+Upload Date  : Wed Jun 22 00:59:00 GMT+0200 2011
+Views        : 1,183
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tail of the whale
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This blue whale was encountered during a tagging expedition by the Oregon State University Marine Mammal Institute in 2006 near the Channel Islands of California. (Photo by Craig Hayslip, courtesy of OSU Marine Mammal Institute)
+
+
++--------+
+|  TAGS  |
++--------+
+"Oregon State University" 

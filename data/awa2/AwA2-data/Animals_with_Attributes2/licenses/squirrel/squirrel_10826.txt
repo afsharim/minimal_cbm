@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bruno_mazotti
+Photo URL    : https://www.flickr.com/photos/8402577@N04/5112300701/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 24 11:48:25 GMT+0200 2010
+Upload Date  : Mon Oct 25 03:20:52 GMT+0200 2010
+Views        : 86
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

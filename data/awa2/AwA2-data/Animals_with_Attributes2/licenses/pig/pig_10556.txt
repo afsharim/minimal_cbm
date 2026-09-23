@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Pete Wright Photography
+Photo URL    : https://www.flickr.com/photos/petewrightphoto/8777909442/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue May 21 17:28:48 GMT+0200 2013
+Upload Date  : Wed May 22 02:39:44 GMT+0200 2013
+Views        : 89
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+That'll do, pigs
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

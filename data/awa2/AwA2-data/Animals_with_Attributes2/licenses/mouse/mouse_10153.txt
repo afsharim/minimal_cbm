@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jurvetson
+Photo URL    : https://www.flickr.com/photos/jurvetson/23316068/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 3 09:45:56 GMT+0200 2005
+Upload Date  : Sun Jul 3 21:30:26 GMT+0200 2005
+Views        : 3,790
+Comments     : 14
+
+
++---------+
+|  TITLE  |
++---------+
+Sensors
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+field mouse
+
+
++--------+
+|  TAGS  |
++--------+
+mouse face whiskers nose eye ear 

@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : de:Benutzer:Nixvonliebe
+Photo URL    : https://commons.wikimedia.org/wiki/File:Pazifisches_Walross_Tanja_Hannover_05.jpg
+License      : Creative Commons (https://en.wikipedia.org/wiki/en:Creative_Commons) Attribution-Share Alike 2.5 Generic (//creativecommons.org/licenses/by-sa/2.5/deed.en)
+Date         : Summer 2006

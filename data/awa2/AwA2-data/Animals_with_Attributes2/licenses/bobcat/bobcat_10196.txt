@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Becker1999
+Photo URL    : https://www.flickr.com/photos/becker271/2250929587/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 9 10:22:56 GMT+0100 2008
+Upload Date  : Sat Feb 9 01:36:47 GMT+0100 2008
+Views        : 436
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bobcat 01
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Columbus Zoo - bobcat
+
+
++--------+
+|  TAGS  |
++--------+
+"becker.271 columbus zoo Februrary 2008" bobcat becker.271 "Canon Digital Rebel XTi" canon rebel "rebel xti" 

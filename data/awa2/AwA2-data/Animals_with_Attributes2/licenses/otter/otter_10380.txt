@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Chester Zoo
+Photo URL    : https://www.flickr.com/photos/chesterzoo/8160635894/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Nov 6 09:56:50 GMT+0100 2012
+Upload Date  : Tue Nov 6 10:56:50 GMT+0100 2012
+Views        : 2,174
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+By Thea
+
+
++--------+
+|  TAGS  |
++--------+
+Mammals otter 

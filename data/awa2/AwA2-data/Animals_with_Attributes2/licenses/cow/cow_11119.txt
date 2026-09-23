@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Emre Ersahin
+Photo URL    : https://www.flickr.com/photos/emre-ersahin/2182678407/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Dec 29 14:56:13 GMT+0100 2007
+Upload Date  : Thu Jan 10 17:29:19 GMT+0100 2008
+Geotag Info  : Latitude:36.061658, Longitude:-115.450944
+Views        : 217
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Old Nevada
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Small Zoo in old Nevada
+
+
++--------+
+|  TAGS  |
++--------+
+cow las "las vegas" vegas zoo 

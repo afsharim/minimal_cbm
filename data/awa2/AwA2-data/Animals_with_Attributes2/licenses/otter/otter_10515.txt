@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jmd41280
+Photo URL    : https://www.flickr.com/photos/jmd41280/2928365290/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Oct 13 10:12:28 GMT+0200 2006
+Upload Date  : Fri Oct 10 03:25:09 GMT+0200 2008
+Geotag Info  : Latitude:47.607407, Longitude:-122.343235
+Views        : 298
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Otters
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Otters at the Seattle Aquarium
+
+
++--------+
+|  TAGS  |
++--------+
+Otter Seattle Washington Aquarium 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Vytautas Šėrys
+Photo URL    : https://www.flickr.com/photos/vserys/7012092345/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Mar 9 02:12:01 GMT+0100 2012
+Upload Date  : Sat Mar 24 22:44:50 GMT+0100 2012
+Geotag Info  : Latitude:10.614381, Longitude:-84.857025
+Views        : 4,042
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Cow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+cow cattle "Costa Rica" 

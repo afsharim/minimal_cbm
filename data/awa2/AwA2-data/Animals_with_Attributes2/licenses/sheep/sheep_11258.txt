@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : wallygrom
+Photo URL    : https://www.flickr.com/photos/33037982@N04/3609880399/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 27 00:00:02 GMT+0200 2001
+Upload Date  : Tue Jun 9 13:12:26 GMT+0200 2009
+Geotag Info  : Latitude:50.877714, Longitude:-0.643858
+Views        : 277
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Slindon sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Gumber Farm
+
+
++--------+
+|  TAGS  |
++--------+
+sheep "gumber farm" England "West Sussex" Slindon 

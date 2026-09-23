@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Erin Perry Borron
+Photo URL    : https://www.flickr.com/photos/pips/318002936/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Dec 8 16:13:08 GMT+0100 2006
+Upload Date  : Sat Dec 9 21:10:17 GMT+0100 2006
+Views        : 316
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bobcat
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Unfortunately very blurry
+
+
++--------+
+|  TAGS  |
++--------+
+bobcat " wildlife" 

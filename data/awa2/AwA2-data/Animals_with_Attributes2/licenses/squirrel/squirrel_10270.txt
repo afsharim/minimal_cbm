@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : likeaduck
+Photo URL    : https://www.flickr.com/photos/thartz00/4867218257/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 6 17:44:40 GMT+0200 2010
+Upload Date  : Sat Aug 7 04:46:24 GMT+0200 2010
+Geotag Info  : Latitude:39.820864, Longitude:-75.764293
+Views        : 1,045
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Happy Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel happy peanut 

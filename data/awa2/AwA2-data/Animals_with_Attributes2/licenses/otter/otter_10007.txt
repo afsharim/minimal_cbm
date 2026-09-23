@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Peter G Trimming
+Photo URL    : https://www.flickr.com/photos/peter-trimming/7165457418/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 5 11:57:45 GMT+0200 2012
+Upload Date  : Wed May 9 18:15:01 GMT+0200 2012
+Geotag Info  : Latitude:51.166320, Longitude:-0.049567
+Views        : 600
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+'Tamar'
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+At the British Wildlife Centre, Newchapel, Surrey, 'Tamar' is on Keeper spotting duties.
+
+
++--------+
+|  TAGS  |
++--------+
+British Wildlife Centre Newchapel Surrey Otter Lutra 2012 Tamar Peter Trimming 

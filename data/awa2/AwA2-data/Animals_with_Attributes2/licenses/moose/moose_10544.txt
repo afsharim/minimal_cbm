@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Alex1961
+Photo URL    : https://www.flickr.com/photos/alex1961/337368097/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 2 17:26:15 GMT+0200 2002
+Upload Date  : Fri Dec 29 16:07:28 GMT+0100 2006
+Views        : 10
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+P5020805.JPG
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"5 Wadsworth" Moose 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Miguel Rangel Jr
+Photo URL    : https://www.flickr.com/photos/83713276@N03/9706668716/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 8 15:40:06 GMT+0200 2013
+Upload Date  : Mon Sep 9 02:35:59 GMT+0200 2013
+Views        : 1,265
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tigre-de-bengala branco (Panthera tigris tigris)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Zoológico de São Paulo
+
+
++--------+
+|  TAGS  |
++--------+
+"Panthera tigris tigris" tiger tigre-de-bengala "tigre branco" "white tiger" "white bengal tiger" 

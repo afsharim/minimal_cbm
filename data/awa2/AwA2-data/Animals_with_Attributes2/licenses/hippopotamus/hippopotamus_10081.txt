@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/6673630657/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 30 15:35:15 GMT+0100 2011
+Upload Date  : Tue Jan 10 17:09:11 GMT+0100 2012
+Geotag Info  : Latitude:47.547277, Longitude:7.578163
+Views        : 2,665
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Dwarf hippo walking in the water
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+One of the dwarf hippos of the Basel zoo walking in shallow waters.
+
+
++--------+
+|  TAGS  |
++--------+
+hippo hippopotamus dwarf adult walking water shallow wet stone zoo basel zolli switzerland nikon d700 

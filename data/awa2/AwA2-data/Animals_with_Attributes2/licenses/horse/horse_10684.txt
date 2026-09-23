@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ed Clayton
+Photo URL    : https://www.flickr.com/photos/edclayton/5969464591/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 17 11:47:33 GMT+0200 2011
+Upload Date  : Sun Jul 24 13:59:45 GMT+0200 2011
+Geotag Info  : Latitude:45.186861, Longitude:4.784545
+Views        : 1,469
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horse 

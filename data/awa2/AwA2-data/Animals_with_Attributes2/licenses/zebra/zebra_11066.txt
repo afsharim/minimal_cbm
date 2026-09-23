@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : StuBez
+Photo URL    : https://www.flickr.com/photos/99353930@N00/2737923705/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Dec 3 11:47:38 GMT+0100 2007
+Upload Date  : Wed Aug 6 16:09:22 GMT+0200 2008
+Geotag Info  : Latitude:53.355008, Longitude:-6.304178
+Views        : 33
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebras
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Dublin Zoo" 

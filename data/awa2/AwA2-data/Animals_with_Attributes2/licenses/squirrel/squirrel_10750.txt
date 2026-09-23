@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Marit & Toomas Hinnosaar
+Photo URL    : https://www.flickr.com/photos/hinnosaar/3531829381/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 14 18:51:35 GMT+0200 2009
+Upload Date  : Fri May 15 03:42:13 GMT+0200 2009
+Geotag Info  : Latitude:42.056617, Longitude:-87.675350
+Views        : 163
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+squirrels 

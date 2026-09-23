@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Monika Kostera (urbanlegend)
+Photo URL    : https://www.flickr.com/photos/17989497@N00/3414016994/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Apr 2 15:48:05 GMT+0200 2009
+Upload Date  : Sun Apr 5 08:19:04 GMT+0200 2009
+Views        : 1,838
+Comments     : 11
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Sheep around Stonehenge
+
+
++--------+
+|  TAGS  |
++--------+
+Stonehenge sheep England 

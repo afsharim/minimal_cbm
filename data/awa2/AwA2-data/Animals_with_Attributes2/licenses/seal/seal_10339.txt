@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : USFWS Pacific
+Photo URL    : https://www.flickr.com/photos/usfwspacific/8287785229/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Dec 6 17:08:16 GMT+0100 2012
+Upload Date  : Wed Dec 19 20:01:09 GMT+0100 2012
+Views        : 546
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Endangered Hawaiian Monk Seal
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Midway Atoll offers the perfect place for wildlife to thrive.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

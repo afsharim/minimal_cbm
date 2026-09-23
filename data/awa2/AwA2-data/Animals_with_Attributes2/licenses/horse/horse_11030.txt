@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : stantontcady
+Photo URL    : https://www.flickr.com/photos/terrycady/16233067516/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 3 17:51:52 GMT+0200 2011
+Upload Date  : Mon Jan 12 01:17:21 GMT+0100 2015
+Geotag Info  : Latitude:40.093811, Longitude:-88.231620
+Views        : 186
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horsing Around
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horse 

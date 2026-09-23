@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : tuchodi
+Photo URL    : https://www.flickr.com/photos/tuchodi/5388238592/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jan 25 08:55:46 GMT+0100 2011
+Upload Date  : Tue Jan 25 19:53:01 GMT+0100 2011
+Views        : 324
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Moose Morning
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+field "cow moose" moose snow 18-270mm 

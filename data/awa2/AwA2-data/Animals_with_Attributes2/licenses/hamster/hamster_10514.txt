@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Dark Dwarf
+Photo URL    : https://www.flickr.com/photos/darkdwarf/10697877805/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 27 09:12:25 GMT+0100 2011
+Upload Date  : Tue Nov 5 23:43:57 GMT+0100 2013
+Views        : 649
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Oscar the Hamster
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Oscar the Hamster - 2011-2013
+
+
++--------+
+|  TAGS  |
++--------+
+hamster oscar pet 

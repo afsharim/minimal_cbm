@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Francisco Anzola
+Photo URL    : https://www.flickr.com/photos/fran001/8437643098/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jan 30 02:44:17 GMT+0100 2013
+Upload Date  : Sat Feb 2 08:09:21 GMT+0100 2013
+Geotag Info  : Latitude:21.163282, Longitude:94.890289
+Views        : 263
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Myanmar Burma Bagan horse pagoda stupa temple buddhism 

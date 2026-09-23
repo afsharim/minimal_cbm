@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tim Sträter
+Photo URL    : https://www.flickr.com/photos/stuutje/5461834589/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 20 13:03:46 GMT+0100 2011
+Upload Date  : Sun Feb 20 20:00:56 GMT+0100 2011
+Geotag Info  : Latitude:51.927337, Longitude:4.441051
+Views        : 344
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sumatraanse Tijger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Diergaarde Blijdorp" Rotterdam Dierentuin Zoo "Sumatraanse Tijger" "Sumatran Tiger" Sumatra-Tiger "Panthera Tigris Sumatrae" Gio Vanni 

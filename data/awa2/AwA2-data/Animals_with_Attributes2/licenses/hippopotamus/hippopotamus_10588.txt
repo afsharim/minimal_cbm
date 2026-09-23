@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : harum.koh
+Photo URL    : https://www.flickr.com/photos/harumkoh/17009529562/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 28 15:08:26 GMT+0200 2013
+Upload Date  : Thu Apr 2 18:13:01 GMT+0200 2015
+Views        : 119
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+photos for zoo guide
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Adventure world, Shirahama, Wakayama prefecture.
+<a href="http://www.inaturalist.org/guides/1775" rel="nofollow">www.inaturalist.org/guides/1775</a>
+
+
++--------+
+|  TAGS  |
++--------+
+taxonomy:kingdom=Animalia Animalia taxonomy:phylum=Chordata Chordata taxonomy:subphylum=Vertebrata Vertebrata taxonomy:class=Mammalia Mammalia taxonomy:order=Artiodactyla Artiodactyla taxonomy:family=Hippopotamidae Hippopotamidae taxonomy:genus=Hippopotamus Hippopotamus taxonomy:species=amphibius "taxonomy:binomial=Hippopotamus amphibius" "Hippopotamus amphibius" "Common Hippopotamus" "Large Hippo" Hippopotame Hipopótamo Flusspferd Nilpferd Großflusspferd taxonomy:common=Hippopotamus "taxonomy:common=Common Hippopotamus" "taxonomy:common=Large Hippo" taxonomy:common=Hippopotame taxonomy:common=Hipopótamo taxonomy:common=Flusspferd taxonomy:common=Nilpferd taxonomy:common=Großflusspferd 

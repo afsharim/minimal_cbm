@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Harlequeen
+Photo URL    : https://www.flickr.com/photos/harlequeen/8504057203/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 24 11:33:17 GMT+0100 2013
+Upload Date  : Sun Feb 24 22:20:26 GMT+0100 2013
+Geotag Info  : Latitude:51.165115, Longitude:-0.050908
+Views        : 275
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Red Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"British Wildlife Centre" Squirrel "Red Squirrel" 

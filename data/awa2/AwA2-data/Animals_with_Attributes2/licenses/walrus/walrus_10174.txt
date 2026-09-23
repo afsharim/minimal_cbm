@@ -1,0 +1,12 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Photo URL    : https://commons.wikimedia.org/wiki/File:A_curious_pacific_walrus_calf_checks_out_the_photographer_from_the_icy_water.jpg
+License      : public domain
+Date         : Not given

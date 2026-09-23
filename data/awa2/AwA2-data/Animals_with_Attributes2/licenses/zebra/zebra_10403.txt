@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : South African Tourism
+Photo URL    : https://www.flickr.com/photos/south-african-tourism/6252731443/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Apr 17 17:52:51 GMT+0200 2009
+Upload Date  : Mon Oct 17 09:41:10 GMT+0200 2011
+Views        : 1,280
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Ponderous Zebra North West Province
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Zebra, Bakubang Safari Lodge, Pilanesberg Game Reserve, North West Province, South Africa
+
+
++--------+
+|  TAGS  |
++--------+
+"South Africa" "South African Tourism" 

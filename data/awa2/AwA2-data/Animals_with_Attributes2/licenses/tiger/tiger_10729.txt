@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Accretion Disc
+Photo URL    : https://www.flickr.com/photos/befuddledsenses/8732973983/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 12 15:21:57 GMT+0200 2013
+Upload Date  : Mon May 13 03:45:59 GMT+0200 2013
+Geotag Info  : Latitude:61.124713, Longitude:-149.792232
+Views        : 2,691
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Tiger at the Alaska Zoo in Anchorage.
+
+
++--------+
+|  TAGS  |
++--------+
+anchorage alaska zoo tiger pacing 

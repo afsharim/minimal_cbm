@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Beige Alert
+Photo URL    : https://www.flickr.com/photos/beigephotos/1795854583/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 22 13:32:05 GMT+0200 2007
+Upload Date  : Mon Oct 29 03:15:35 GMT+0100 2007
+Geotag Info  : Latitude:52.785867, Longitude:6.897890
+Views        : 116
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Emmen Netherlands zoo Dierenpark 

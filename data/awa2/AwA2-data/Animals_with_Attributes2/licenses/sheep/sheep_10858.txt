@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : hodgers
+Photo URL    : https://www.flickr.com/photos/hodgers/1570618129/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Oct 5 14:32:48 GMT+0200 2007
+Upload Date  : Sun Oct 14 20:26:47 GMT+0200 2007
+Geotag Info  : Latitude:56.767401, Longitude:-3.840923
+Views        : 238
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"blair atholl" sheep field 

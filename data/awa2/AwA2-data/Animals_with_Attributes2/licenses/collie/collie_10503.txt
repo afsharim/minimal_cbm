@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : KitAy
+Photo URL    : https://www.flickr.com/photos/kitpfish/5806074477/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 5 16:23:15 GMT+0200 2011
+Upload Date  : Tue Jun 7 02:28:09 GMT+0200 2011
+Views        : 300
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Pups
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Octavia, Molly, Olive
+
+
++--------+
+|  TAGS  |
++--------+
+dogs pug collie "German shepherd" 

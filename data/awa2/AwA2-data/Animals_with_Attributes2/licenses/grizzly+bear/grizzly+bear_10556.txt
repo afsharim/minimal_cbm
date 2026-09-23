@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/16498331646/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 18 10:29:01 GMT+0200 2014
+Upload Date  : Sat Feb 14 06:00:12 GMT+0100 2015
+Geotag Info  : Latitude:48.097171, Longitude:11.553497
+Views        : 6,000
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Last one of the brown bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A portrait of the brown bear with mouth a bit open...
+
+
++--------+
+|  TAGS  |
++--------+
+"open mouth" walking portrait face brown bear tierpark hellabrunn munich münchen zoo germany nikon d4 

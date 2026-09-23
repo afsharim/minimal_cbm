@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jdnx
+Photo URL    : https://www.flickr.com/photos/danramarch/9165255846/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 1 13:45:32 GMT+0200 2013
+Upload Date  : Sat Jun 29 09:33:37 GMT+0200 2013
+Geotag Info  : Latitude:21.270674, Longitude:-157.818077
+Views        : 332
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant behind fence.
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+honolulu hawaii "honolulu zoo" zoo elephant 

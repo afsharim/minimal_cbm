@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bjorn.watland
+Photo URL    : https://www.flickr.com/photos/bjornwatland/5891792783/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 1 13:56:26 GMT+0200 2011
+Upload Date  : Sat Jul 2 00:27:46 GMT+0200 2011
+Views        : 68
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+RAW 

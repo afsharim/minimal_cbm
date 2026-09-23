@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Avodrocc
+Photo URL    : https://www.flickr.com/photos/ccordova/295984330/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 16 12:34:24 GMT+0200 2006
+Upload Date  : Mon Nov 13 03:28:32 GMT+0100 2006
+Geotag Info  : Latitude:-34.578669, Longitude:-58.418083
+Views        : 191
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Castor
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Buenos Aires Zoologico Castor 

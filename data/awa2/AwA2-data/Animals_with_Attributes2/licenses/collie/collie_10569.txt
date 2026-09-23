@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : daf73r
+Photo URL    : https://www.flickr.com/photos/daf73/4416814398/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 7 12:43:27 GMT+0100 2010
+Upload Date  : Mon Mar 8 11:23:50 GMT+0100 2010
+Geotag Info  : Latitude:42.885492, Longitude:11.609587
+Views        : 375
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+snow walking
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Sulla neve del Monte Amiata.
+On the snow of Amiata Mountain, Italy.
+
+
++--------+
+|  TAGS  |
++--------+
+Collie snow 

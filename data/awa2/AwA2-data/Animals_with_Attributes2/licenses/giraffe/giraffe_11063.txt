@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : KathrynW1
+Photo URL    : https://www.flickr.com/photos/kathryn-wright/14948897982/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 15 04:30:41 GMT+0200 2014
+Upload Date  : Sun Aug 17 20:13:33 GMT+0200 2014
+Geotag Info  : Latitude:50.426838, Longitude:-3.580427
+Views        : 127
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Paignton Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"paignton zoo" giraffe animal 

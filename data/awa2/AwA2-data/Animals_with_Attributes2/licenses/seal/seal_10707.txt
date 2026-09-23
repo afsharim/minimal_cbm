@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : NJ Tech Teacher
+Photo URL    : https://www.flickr.com/photos/njtechteacher/4733705649/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 25 14:47:59 GMT+0200 2010
+Upload Date  : Sat Jun 26 00:56:16 GMT+0200 2010
+Views        : 179
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Seal at Central Park Zoo, NYC
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+2010 nyc central-park-zoo 

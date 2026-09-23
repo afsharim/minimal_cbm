@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : lukiffer
+Photo URL    : https://www.flickr.com/photos/lukiffer/1253871933/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Dec 30 12:45:39 GMT+0100 2006
+Upload Date  : Tue Aug 28 05:29:49 GMT+0200 2007
+Views        : 7,637
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+White Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+White tiger at the Fort Worth Zoo.
+
+
++--------+
+|  TAGS  |
++--------+
+"White Tiger" White Tiger 

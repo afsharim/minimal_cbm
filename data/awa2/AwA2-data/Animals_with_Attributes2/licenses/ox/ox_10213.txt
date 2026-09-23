@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : wiskinator
+Photo URL    : https://www.flickr.com/photos/wiskinator/8624652531/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 16 04:17:52 GMT+0200 2012
+Upload Date  : Sat Apr 6 21:41:36 GMT+0200 2013
+Views        : 6
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_0904.jpg
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

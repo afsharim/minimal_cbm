@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Just chaos
+Photo URL    : https://www.flickr.com/photos/7326810@N08/2665511786/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 1 10:49:38 GMT+0200 2008
+Upload Date  : Sun Jul 13 22:54:13 GMT+0200 2008
+Views        : 68
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cape Buffalo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

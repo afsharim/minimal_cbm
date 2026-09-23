@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : KIDD99
+Photo URL    : https://www.flickr.com/photos/kidd99/4851458190/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 31 22:25:40 GMT+0200 2010
+Upload Date  : Mon Aug 2 01:48:36 GMT+0200 2010
+Geotag Info  : Latitude:43.820594, Longitude:-79.180784
+Views        : 8
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffes
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

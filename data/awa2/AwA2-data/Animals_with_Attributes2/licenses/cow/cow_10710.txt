@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Smudge 9000
+Photo URL    : https://www.flickr.com/photos/smudge9000/2017295583/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Nov 14 10:15:11 GMT+0100 2007
+Upload Date  : Wed Nov 14 14:25:49 GMT+0100 2007
+Geotag Info  : Latitude:51.336081, Longitude:0.887660
+Views        : 3,061
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Dairy Cow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Oare Marshes, Kent.
+
+
++--------+
+|  TAGS  |
++--------+
+Cows 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ross_hawkes
+Photo URL    : https://www.flickr.com/photos/rosshawkes/5549928382/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 1 00:00:00 GMT+0100 2000
+Upload Date  : Tue Mar 22 12:18:45 GMT+0100 2011
+Views        : 1,043
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Gorilla
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A gorilla at Disney's Animal Kingdom.
+
+
++--------+
+|  TAGS  |
++--------+
+Florida Orlando gorilla Disney primate "Animal Kingdom" "Walt Disney World" 

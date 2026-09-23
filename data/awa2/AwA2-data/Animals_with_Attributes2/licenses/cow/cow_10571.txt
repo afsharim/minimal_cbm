@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : njbunks
+Photo URL    : https://www.flickr.com/photos/njbunk/3556895758/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri May 22 08:12:51 GMT+0200 2009
+Upload Date  : Sat May 23 16:37:10 GMT+0200 2009
+Geotag Info  : Latitude:54.965297, Longitude:-3.253154
+Views        : 193
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+cows
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+cows 

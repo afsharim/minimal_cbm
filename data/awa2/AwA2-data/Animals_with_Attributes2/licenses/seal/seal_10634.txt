@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : hobgadlng
+Photo URL    : https://www.flickr.com/photos/hobgadlng/7688394212/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 4 13:13:10 GMT+0200 2012
+Upload Date  : Wed Aug 1 04:33:28 GMT+0200 2012
+Geotag Info  : Latitude:-22.120709, Longitude:14.277334
+Views        : 167
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+One of these things is not like the other
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This seagull is walking amongst thousands of fur seals like he owns the place.
+
+
++--------+
+|  TAGS  |
++--------+
+Namibia "Cape Cross" bird animal seagull "fur seal" seal 

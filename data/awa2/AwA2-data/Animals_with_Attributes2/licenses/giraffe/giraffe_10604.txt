@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Gin_Chilla
+Photo URL    : https://www.flickr.com/photos/78921929@N06/7064046885/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Feb 28 08:52:15 GMT+0100 2008
+Upload Date  : Tue Apr 10 12:56:01 GMT+0200 2012
+Views        : 670
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+giraffe, Giraffa camelopardalis, Kenia, Africa, Afrika
+
+
++--------+
+|  TAGS  |
++--------+
+giraffe "Giraffa camelopardalis" Kenia Africa Afrika 

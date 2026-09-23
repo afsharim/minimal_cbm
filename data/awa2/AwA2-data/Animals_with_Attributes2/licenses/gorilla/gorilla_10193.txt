@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : SportsAngle.com
+Photo URL    : https://www.flickr.com/photos/chamberoffear/15010031016/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Aug 20 17:12:33 GMT+0200 2014
+Upload Date  : Mon Aug 25 18:04:22 GMT+0200 2014
+Views        : 32
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSCN0108
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

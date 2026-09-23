@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : VirtualWolf
+Photo URL    : https://www.flickr.com/photos/virtualwolf/6379631829/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Nov 21 13:00:41 GMT+0100 2011
+Upload Date  : Tue Nov 22 00:17:59 GMT+0100 2011
+Geotag Info  : Latitude:-33.766027, Longitude:150.884381
+Views        : 635
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Doonside "Canon EOS 7D" "Canon EF 35mm f/1.4L USM" "New South Wales" Australia Techniques Sydney Domesticated Places Bokeh Equipment Sheep "Featherdale Wildlife Park" Animal 

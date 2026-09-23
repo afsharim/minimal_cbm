@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : les surfaces
+Photo URL    : https://www.flickr.com/photos/surfaces/2180440524/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jan 9 11:01:25 GMT+0100 2008
+Upload Date  : Wed Jan 9 11:01:25 GMT+0100 2008
+Views        : 54
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+pferd vor usedom
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

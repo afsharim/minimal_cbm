@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Martin Pettitt
+Photo URL    : https://www.flickr.com/photos/mdpettitt/8036016218/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 23 10:35:02 GMT+0200 2012
+Upload Date  : Sat Sep 29 17:58:59 GMT+0200 2012
+Geotag Info  : Latitude:52.236923, Longitude:0.831885
+Views        : 10,230
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Beyton Heavy Horse Show 23-9-2012
+
+
++--------+
+|  TAGS  |
++--------+
+"Classic Tractors" Farming Fields "Bury St Edmunds" Horse Suffolk "Heavy Horses" "Beyton Heavy Horse Show" "Nikon D90" ploughing "Working Horses" September Beyton "AF-S DX VR Zoom-Nikkor 18-105mm f/3.5-5.6G ED" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : johnomason
+Photo URL    : https://www.flickr.com/photos/91451979@N00/5943530502/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 5 11:38:12 GMT+0200 2011
+Upload Date  : Sat Jul 16 18:15:21 GMT+0200 2011
+Geotag Info  : Latitude:-25.113580, Longitude:31.902923
+Views        : 98
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephants
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Part of a much larger group of females and juveniles that crossed the road just in front of our car.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

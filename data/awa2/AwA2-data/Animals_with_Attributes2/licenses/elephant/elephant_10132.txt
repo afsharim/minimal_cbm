@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : The Last Cookie
+Photo URL    : https://www.flickr.com/photos/cabeel/2198689830/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 17 13:02:07 GMT+0200 2004
+Upload Date  : Thu Jan 17 01:07:58 GMT+0100 2008
+Views        : 509
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Detroit Zoo Elephants
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The Detroit Zoo no longer has these elephants; they have moved to a more suitable climate with better accomodations.
+
+
++--------+
+|  TAGS  |
++--------+
+"Detroit Zoo" Elephants 

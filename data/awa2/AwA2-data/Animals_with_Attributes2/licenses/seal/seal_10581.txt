@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Minnaert
+Photo URL    : https://www.flickr.com/photos/minnaert/715610273/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 15 22:40:19 GMT+0100 2003
+Upload Date  : Tue Nov 18 14:28:40 GMT+0100 2003
+Geotag Info  : Latitude:35.644253, Longitude:-121.187524
+Views        : 35
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+MorroBay_Nov-2003 083.jpg
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Morro Bay coast california 2003 beach elephant seal 

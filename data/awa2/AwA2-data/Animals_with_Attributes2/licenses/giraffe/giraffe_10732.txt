@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : SdosRemedios
+Photo URL    : https://www.flickr.com/photos/sdosremedios/22529463998/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 20 10:25:12 GMT+0200 2015
+Upload Date  : Wed Nov 11 18:48:18 GMT+0100 2015
+Geotag Info  : Latitude:-17.847520, Longitude:25.059263
+Views        : 34
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Chobe National Park, Botswana
+
+
++--------+
+|  TAGS  |
++--------+
+"(c) Steven dosRemedios" "Africa 2015" "Chobe National Park" Giraffe "© Steven dosRemedios" 

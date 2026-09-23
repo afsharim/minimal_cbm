@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Michael Graf
+Photo URL    : https://www.flickr.com/photos/52359031@N04/5051979757/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 3 15:10:42 GMT+0200 2010
+Upload Date  : Tue Oct 5 00:07:37 GMT+0200 2010
+Views        : 251
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Stubby
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A lynx showing its typical bob tail.
+
+Captured at Tierpark Goldau
+
+
++--------+
+|  TAGS  |
++--------+
+lynx Goldau 

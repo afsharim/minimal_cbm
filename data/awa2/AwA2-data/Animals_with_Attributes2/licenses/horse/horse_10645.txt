@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Dricker94
+Photo URL    : https://www.flickr.com/photos/dricker94/4718882032/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 4 19:10:10 GMT+0200 2010
+Upload Date  : Sun Jun 20 23:52:07 GMT+0200 2010
+Views        : 1,853
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A photo of a horse with a saddle.
+
+
++--------+
+|  TAGS  |
++--------+
+Horse Saddle 

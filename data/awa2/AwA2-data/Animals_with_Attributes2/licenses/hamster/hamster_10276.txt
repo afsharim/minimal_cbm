@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Lyn Lomasi
+Photo URL    : https://www.flickr.com/photos/lynlomasi/7782740148/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 29 21:27:38 GMT+0200 2011
+Upload Date  : Tue Aug 14 20:23:34 GMT+0200 2012
+Views        : 57
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hamster squeaking in his bed
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

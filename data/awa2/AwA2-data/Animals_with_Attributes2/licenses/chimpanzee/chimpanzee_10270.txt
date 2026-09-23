@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : toluju
+Photo URL    : https://www.flickr.com/photos/toluju/4510800667/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 10 00:03:34 GMT+0200 2010
+Upload Date  : Sun Apr 11 18:20:48 GMT+0200 2010
+Geotag Info  : Latitude:32.724147, Longitude:-97.354629
+Views        : 642
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Chimpanzee
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Texas "United States" zoo "fort worth" chimpanzee 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : psyberartist
+Photo URL    : https://www.flickr.com/photos/psyberartist/8219707138/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Sep 13 06:43:20 GMT+0200 2012
+Upload Date  : Mon Nov 26 03:52:18 GMT+0100 2012
+Geotag Info  : Latitude:55.241552, Longitude:-6.500816
+Views        : 384
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+3sheep3
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+animals portrait sheep fleece wool lamb flock 

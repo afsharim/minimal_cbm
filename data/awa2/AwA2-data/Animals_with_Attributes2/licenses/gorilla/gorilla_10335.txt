@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : loufi
+Photo URL    : https://www.flickr.com/photos/loufi/3536457/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 20 12:05:27 GMT+0200 2003
+Upload Date  : Wed Jan 19 12:05:27 GMT+0100 2005
+Geotag Info  : Latitude:-1.483331, Longitude:29.454345
+Views        : 3,947
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+gorilla
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+there's apparantly only one tourist attraction in Rwanda (there are more but tourists generally visit only one and stay in rwanda for one to two days only, which is a shame). It's the only place where you can visit mountain gorillas in the wild. There are numerous mountain gorillas in both Uganda and Congo but it is generally not that safe there anymore.
+
+
++--------+
+|  TAGS  |
++--------+
+rwanda africa gorilla 

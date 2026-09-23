@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : theducks
+Photo URL    : https://www.flickr.com/photos/theducks/2234831622/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 16 11:05:35 GMT+0200 2004
+Upload Date  : Fri Feb 1 14:29:22 GMT+0100 2008
+Views        : 25
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_4239.jpg
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+elephant melbourne australia zoo 

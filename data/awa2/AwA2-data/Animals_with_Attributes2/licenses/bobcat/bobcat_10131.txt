@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/19694872495/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 31 15:37:25 GMT+0200 2015
+Upload Date  : Tue Jul 14 20:00:18 GMT+0200 2015
+Geotag Info  : Latitude:47.009815, Longitude:7.031614
+Views        : 3,496
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Another one of the female lynx
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Another picture of the female lynx, standing and observing around her...
+
+
++--------+
+|  TAGS  |
++--------+
+standing observing portrait face grass lynx wild cat female "zoo rothaus" zoo gampelen switzerland nikon d4 

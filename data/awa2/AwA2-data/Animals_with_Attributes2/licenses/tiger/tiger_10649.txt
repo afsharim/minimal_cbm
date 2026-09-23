@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Herkie
+Photo URL    : https://www.flickr.com/photos/dherholz/5851842288/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 19 13:17:00 GMT+0200 2011
+Upload Date  : Mon Jun 20 06:39:23 GMT+0200 2011
+Geotag Info  : Latitude:38.633634, Longitude:-90.287511
+Views        : 393
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zoo tiger 

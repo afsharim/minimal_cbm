@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ozzy Delaney
+Photo URL    : https://www.flickr.com/photos/24931020@N02/15149474703/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Nov 3 16:31:03 GMT+0100 2014
+Upload Date  : Wed Nov 12 00:42:10 GMT+0100 2014
+Views        : 183
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

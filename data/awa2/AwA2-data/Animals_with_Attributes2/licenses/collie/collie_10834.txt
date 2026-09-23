@@ -1,0 +1,12 @@
++--------------------------------------+
+|       Pixabay Photo Metadata         |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Irena Jackson
+Photo URL    : http://www.publicdomainpictures.net/view-image.php?image=144343&picture=border-collie
+License      : Public Domain (https://creativecommons.org/publicdomain/zero/1.0/)

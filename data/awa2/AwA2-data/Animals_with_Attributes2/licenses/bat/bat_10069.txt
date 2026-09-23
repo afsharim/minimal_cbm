@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : nikoretro
+Photo URL    : https://www.flickr.com/photos/bellatrix6/3798546669/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 31 05:42:39 GMT+0200 2009
+Upload Date  : Fri Aug 7 23:23:52 GMT+0200 2009
+Views        : 2,647
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+cat -vs- bat
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Fifi's final present on the day we move... a dead bat. Thanks buddy.
+
+
++--------+
+|  TAGS  |
++--------+
+cat kill bat 

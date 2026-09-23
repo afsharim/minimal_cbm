@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : andrewmalone
+Photo URL    : https://www.flickr.com/photos/andrewmalone/4167539295/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 15 15:36:07 GMT+0100 2009
+Upload Date  : Tue Dec 8 04:29:54 GMT+0100 2009
+Geotag Info  : Latitude:42.373915, Longitude:-71.143233
+Views        : 312
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Raccoon
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Mount Auburn Cemetery" animal cemetery raccoon 

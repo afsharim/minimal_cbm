@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ictheostega
+Photo URL    : https://www.flickr.com/photos/ictheostega/3669666333/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 28 21:59:34 GMT+0200 2009
+Upload Date  : Mon Jun 29 04:01:13 GMT+0200 2009
+Views        : 71
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Animalia Chordata 

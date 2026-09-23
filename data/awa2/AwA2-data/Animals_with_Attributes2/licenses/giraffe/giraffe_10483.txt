@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Narith5
+Photo URL    : https://www.flickr.com/photos/naritheole/3853275588/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 22 13:53:49 GMT+0200 2009
+Upload Date  : Mon Aug 24 19:53:30 GMT+0200 2009
+Views        : 1,223
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Giraffe "Fossil Rim" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bibihexium
+Photo URL    : https://www.flickr.com/photos/bibihexium/9189872455/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 2 07:00:29 GMT+0200 2013
+Upload Date  : Tue Jul 2 14:02:48 GMT+0200 2013
+Geotag Info  : Latitude:36.128880, Longitude:-95.972249
+Views        : 31
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Woodland Park Arboretum Tulsa
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

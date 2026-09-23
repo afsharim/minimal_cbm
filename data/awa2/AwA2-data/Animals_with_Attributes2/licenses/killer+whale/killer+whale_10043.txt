@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Howard O. Young
+Photo URL    : https://www.flickr.com/photos/howardoyoung/4387906762/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 18 10:40:36 GMT+0200 2008
+Upload Date  : Thu Feb 25 18:30:26 GMT+0100 2010
+Views        : 95
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_0133
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Sea World" "San Diego" "Killer Whale" Shamu 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : wplynn
+Photo URL    : https://www.flickr.com/photos/warrenlynn/8555594145/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Mar 13 19:06:34 GMT+0100 2013
+Upload Date  : Thu Mar 14 05:00:01 GMT+0100 2013
+Geotag Info  : Latitude:37.170071, Longitude:-86.087601
+Views        : 314
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Mammoth Cave Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+mammoth caves national park deer kentucky forest 

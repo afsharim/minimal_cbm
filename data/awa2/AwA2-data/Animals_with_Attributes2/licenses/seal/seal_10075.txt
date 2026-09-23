@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Smudge 9000
+Photo URL    : https://www.flickr.com/photos/smudge9000/9536575474/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 11 17:21:39 GMT+0200 2013
+Upload Date  : Sun Aug 18 08:47:18 GMT+0200 2013
+Geotag Info  : Latitude:80.788794, Longitude:19.072266
+Views        : 2,304
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bearded Seal
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A selection of images from a recent trip to Svalbard.
+<a href="http://www.flickr.com/photos/smudge9000/sets/72157634799866136/">See the full set here eventually...</a>
+
+
++--------+
+|  TAGS  |
++--------+
+2013 Arctic Bearded Ice Mamal Pack Seal Summer Svalbard 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : dave and rose
+Photo URL    : https://www.flickr.com/photos/davrozs/4841798502/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 28 14:11:31 GMT+0200 2010
+Upload Date  : Thu Jul 29 21:50:42 GMT+0200 2010
+Views        : 1,207
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Harbor Seal
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This guy hauled out on this rock for most of the day. Harbor seals find this balancing act easy and normal.
+
+
++--------+
+|  TAGS  |
++--------+
+"Harbor Seal" 

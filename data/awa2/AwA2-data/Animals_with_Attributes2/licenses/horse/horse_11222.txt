@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : eXtensionHorses
+Photo URL    : https://www.flickr.com/photos/64081615@N06/5884904957/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jan 1 00:01:42 GMT+0100 2002
+Upload Date  : Wed Jun 29 21:03:29 GMT+0200 2011
+Views        : 1,081
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Mutual_grooming_horses
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Two horses grooming each other.
+
+Source: Crystal Smith, Virginia
+
+
++--------+
+|  TAGS  |
++--------+
+horse extensionhorses grooming horsebehavior 

@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : C. Robiller / Naturlichter.de
+Photo URL    : https://commons.wikimedia.org/wiki/File:Barbastella_barbastellus_01-cropped.jpg
+License      : Creative Commons (https://en.wikipedia.org/wiki/en:Creative_Commons) Attribution-Share Alike 3.0 Unported (//creativecommons.org/licenses/by-sa/3.0/deed.en)
+Date         : 2008-10-16

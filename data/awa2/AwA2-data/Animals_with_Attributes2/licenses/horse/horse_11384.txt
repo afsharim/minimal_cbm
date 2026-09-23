@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : protocol7
+Photo URL    : https://www.flickr.com/photos/protocol7/2238411155/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 3 14:28:26 GMT+0100 2008
+Upload Date  : Sun Feb 3 14:28:26 GMT+0100 2008
+Views        : 70
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Remington
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Gorgeous!
+
+
++--------+
+|  TAGS  |
++--------+
+horses Remington 

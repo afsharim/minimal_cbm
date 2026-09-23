@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bennymoto
+Photo URL    : https://www.flickr.com/photos/bennymoto/100324217/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 11 20:17:18 GMT+0100 2006
+Upload Date  : Thu Feb 16 06:18:01 GMT+0100 2006
+Views        : 136
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hello Pandaham!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+hamster 

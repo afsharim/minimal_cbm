@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Thomson Safaris
+Photo URL    : https://www.flickr.com/photos/thomson-safaris/8378491166/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Oct 22 15:00:45 GMT+0200 2012
+Upload Date  : Sun Jan 13 23:44:54 GMT+0100 2013
+Views        : 95
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebras
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Photo taken by Thomson Safaris guest, Patti Sandoval, during her Signature Thomson Safari in October 2012.
+
+
++--------+
+|  TAGS  |
++--------+
+ps 

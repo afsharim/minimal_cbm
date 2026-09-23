@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : raveller
+Photo URL    : https://www.flickr.com/photos/raveller/547965620/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 12 10:57:15 GMT+0200 2007
+Upload Date  : Thu Jun 14 16:19:12 GMT+0200 2007
+Views        : 72
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Siberian Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zoo07 tiger zoo "siberian tiger" 

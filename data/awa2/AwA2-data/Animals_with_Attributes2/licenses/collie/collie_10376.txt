@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jammach_uk
+Photo URL    : https://www.flickr.com/photos/jammach_uk/466970222/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 25 16:20:19 GMT+0200 2004
+Upload Date  : Sat Apr 21 13:00:33 GMT+0200 2007
+Geotag Info  : Latitude:55.530719, Longitude:-4.650521
+Views        : 349
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Jock, the Smiling Collie
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Jock, at Troon Beach, enjoying the sunshine.
+
+
++--------+
+|  TAGS  |
++--------+
+border collie 

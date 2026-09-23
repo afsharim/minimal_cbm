@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Andreas März
+Photo URL    : https://www.flickr.com/photos/andreas63/5439373098/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 19 13:53:55 GMT+0100 2006
+Upload Date  : Sat Feb 12 19:27:42 GMT+0100 2011
+Views        : 177
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zoo Heidelberg_IMG_6255
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Tiger
+
+
++--------+
+|  TAGS  |
++--------+
+Tiger "Zoo Heidelberg" "Panthera tigris" 

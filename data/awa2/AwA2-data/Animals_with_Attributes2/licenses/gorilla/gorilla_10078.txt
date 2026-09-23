@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : lordsutch
+Photo URL    : https://www.flickr.com/photos/lordsutch/4728933258/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 23 13:03:59 GMT+0200 2010
+Upload Date  : Thu Jun 24 01:17:54 GMT+0200 2010
+Geotag Info  : Latitude:35.150950, Longitude:-89.994485
+Views        : 884
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Big Gorilla
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Eye-Fi gorilla 

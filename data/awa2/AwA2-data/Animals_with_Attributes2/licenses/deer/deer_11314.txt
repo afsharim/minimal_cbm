@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Dougtone
+Photo URL    : https://www.flickr.com/photos/dougtone/5130149404/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 20 19:14:32 GMT+0200 2010
+Upload Date  : Sun Oct 31 01:21:49 GMT+0200 2010
+Geotag Info  : Latitude:41.259678, Longitude:-73.992125
+Views        : 750
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Whitetail Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Extreme Closeup of a Whitetail Deer
+
+
++--------+
+|  TAGS  |
++--------+
+"new york" upstate deer "whitetail deer" rockland 062010 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : amy.z
+Photo URL    : https://www.flickr.com/photos/amyzirkle/6901315528/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Apr 4 11:39:54 GMT+0200 2012
+Upload Date  : Thu Apr 5 11:55:00 GMT+0200 2012
+Geotag Info  : Latitude:19.214167, Longitude:98.858833
+Views        : 117
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+elephant park 

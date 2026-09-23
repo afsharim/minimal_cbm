@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Taymaz Valley
+Photo URL    : https://www.flickr.com/photos/taymazvalley/385641754/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 10 17:30:33 GMT+0100 2007
+Upload Date  : Sat Feb 10 18:30:33 GMT+0100 2007
+Views        : 218
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Persian
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Cat Persian 

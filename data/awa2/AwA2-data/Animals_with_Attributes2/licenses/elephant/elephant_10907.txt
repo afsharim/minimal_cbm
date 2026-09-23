@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : yellkaa
+Photo URL    : https://www.flickr.com/photos/77156212@N06/9524340841/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 23 17:35:26 GMT+0200 2010
+Upload Date  : Sat Aug 17 00:08:14 GMT+0200 2013
+Geotag Info  : Latitude:50.960562, Longitude:6.975202
+Views        : 64
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_7681
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Elephant 

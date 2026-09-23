@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Trinity
+Photo URL    : https://www.flickr.com/photos/trinity/43083/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 6 15:11:49 GMT+0200 2004
+Upload Date  : Mon Jun 7 04:34:55 GMT+0200 2004
+Geotag Info  : Latitude:39.006595, Longitude:-94.529864
+Views        : 351
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+KC Zoo #9
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A chimpanzee, who looks a bit pouty.
+
+
++--------+
+|  TAGS  |
++--------+
+unfound photo zoo chimpanzee 2004 

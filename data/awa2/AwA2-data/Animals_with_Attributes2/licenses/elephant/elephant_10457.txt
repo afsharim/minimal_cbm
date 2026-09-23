@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tanel Teemusk
+Photo URL    : https://www.flickr.com/photos/tanelteemusk/4519683121/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Apr 12 11:11:16 GMT+0200 2010
+Upload Date  : Wed Apr 14 09:41:59 GMT+0200 2010
+Geotag Info  : Latitude:7.796547, Longitude:98.307723
+Views        : 2,364
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Hasselblad 500C/M 150mm zeiss
+
+
++--------+
+|  TAGS  |
++--------+
+animal elephant eyes thailand phuket 

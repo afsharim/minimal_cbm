@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Helen Olney
+Photo URL    : https://www.flickr.com/photos/amsterdame/4130942045/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 15 11:43:50 GMT+0100 2009
+Upload Date  : Tue Nov 24 19:43:13 GMT+0100 2009
+Geotag Info  : Latitude:53.979285, Longitude:-1.910161
+Views        : 254
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+embsay "Bolton Abbey" railway train steam Yorkshire "steam train" field sheep 

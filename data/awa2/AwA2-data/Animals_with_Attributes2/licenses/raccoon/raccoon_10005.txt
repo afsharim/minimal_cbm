@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : pne
+Photo URL    : https://www.flickr.com/photos/pne/5657429967/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Apr 25 11:22:15 GMT+0200 2011
+Upload Date  : Tue Apr 26 17:03:50 GMT+0200 2011
+Geotag Info  : Latitude:53.443899, Longitude:9.887051
+Views        : 85
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+100_6508
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+raccoon 

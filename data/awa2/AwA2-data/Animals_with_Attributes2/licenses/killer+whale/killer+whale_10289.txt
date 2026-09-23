@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : spDuchamp
+Photo URL    : https://www.flickr.com/photos/duchamp/236479799/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Sep 6 19:27:15 GMT+0200 2006
+Upload Date  : Thu Sep 7 04:27:15 GMT+0200 2006
+Geotag Info  : Latitude:43.062476, Longitude:-79.073528
+Views        : 988
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+killer whale xa4 velvia 100F@200 xprocessed 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bazzarrgh
+Photo URL    : https://www.flickr.com/photos/bazzargh/4829664247/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 26 10:19:03 GMT+0200 2010
+Upload Date  : Mon Jul 26 11:20:49 GMT+0200 2010
+Geotag Info  : Latitude:53.225407, Longitude:-2.877414
+Views        : 623
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Chimpanzee
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Chester Zoo Chimpanzee 

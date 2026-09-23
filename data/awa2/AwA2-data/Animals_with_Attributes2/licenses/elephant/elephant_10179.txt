@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : barsen
+Photo URL    : https://www.flickr.com/photos/barsen/4289923588/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 3 13:09:26 GMT+0100 2010
+Upload Date  : Wed Jan 20 05:43:39 GMT+0100 2010
+Views        : 897
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elefant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Elefant 

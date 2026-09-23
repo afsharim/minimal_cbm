@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Eric Kilby
+Photo URL    : https://www.flickr.com/photos/ekilby/4937619781/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 27 13:04:00 GMT+0200 2010
+Upload Date  : Sun Aug 29 17:13:34 GMT+0200 2010
+Geotag Info  : Latitude:42.305284, Longitude:-71.088967
+Views        : 719
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+liked how clear the stripes are
+
+
++--------+
+|  TAGS  |
++--------+
+franklin park zoo boston massachusetts zebra grazing 

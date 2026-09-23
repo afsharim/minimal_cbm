@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Maf Johnson
+Photo URL    : https://www.flickr.com/photos/mafjohnson/3180608016/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 17 10:56:36 GMT+0200 2008
+Upload Date  : Thu Jan 8 21:01:20 GMT+0100 2009
+Views        : 34
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephants
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+At West Midlands Safari Park
+
+
++--------+
+|  TAGS  |
++--------+
+westmidlandssafaripark 

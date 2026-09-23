@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : paulshaffner
+Photo URL    : https://www.flickr.com/photos/paulshaffner/2232835736/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jan 28 17:32:12 GMT+0100 2008
+Upload Date  : Thu Jan 31 13:44:48 GMT+0100 2008
+Views        : 283
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+zebra_clump
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Zebra, Mikumi NP, Tanzania
+
+
++--------+
+|  TAGS  |
++--------+
+Africa Tanzania Houghton Mikumi Safari Wildlife 

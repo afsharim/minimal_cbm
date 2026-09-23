@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : pam.gaynor
+Photo URL    : https://www.flickr.com/photos/pamgaynor/19302802286/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 19 10:38:36 GMT+0200 2011
+Upload Date  : Wed Jul 1 18:56:18 GMT+0200 2015
+Views        : 40
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer close up
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Animal close deer doe 

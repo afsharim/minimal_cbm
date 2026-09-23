@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Dave Williss
+Photo URL    : https://www.flickr.com/photos/dwilliss/7978509543/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Sep 11 18:22:38 GMT+0200 2012
+Upload Date  : Wed Sep 12 05:38:00 GMT+0200 2012
+Geotag Info  : Latitude:40.735236, Longitude:-96.709339
+Views        : 495
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Buck
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+deer buck 

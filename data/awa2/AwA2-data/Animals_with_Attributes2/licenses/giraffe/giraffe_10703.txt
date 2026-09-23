@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : hapeau
+Photo URL    : https://www.flickr.com/photos/127242345@N04/15076780330/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 30 06:02:48 GMT+0200 2013
+Upload Date  : Wed Sep 17 03:42:09 GMT+0200 2014
+Views        : 64
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Taken at a zoo in Frankfurt, Germany.
+
+
++--------+
+|  TAGS  |
++--------+
+germany 

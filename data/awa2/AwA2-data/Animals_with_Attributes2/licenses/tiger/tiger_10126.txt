@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mcoughlin
+Photo URL    : https://www.flickr.com/photos/mcoughlin/5079182309/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Oct 1 15:00:33 GMT+0200 2010
+Upload Date  : Thu Oct 14 01:12:01 GMT+0200 2010
+Geotag Info  : Latitude:51.535186, Longitude:-0.153591
+Views        : 684
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Fighting Tigers, London
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Tiger Fight
+
+
++--------+
+|  TAGS  |
++--------+
+london londonzoo tiger siberiantiger 

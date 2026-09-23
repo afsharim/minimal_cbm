@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Smabs Sputzer
+Photo URL    : https://www.flickr.com/photos/10413717@N08/6513098859/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Dec 12 11:00:59 GMT+0100 2011
+Upload Date  : Thu Dec 15 00:25:12 GMT+0100 2011
+Geotag Info  : Latitude:53.429391, Longitude:-2.072081
+Views        : 655
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Chestnut
+
+
++--------+
+|  TAGS  |
++--------+
+werneth low horse clothes grass cheshire Henry 

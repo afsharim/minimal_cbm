@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Robyn2175
+Photo URL    : https://www.flickr.com/photos/rmfleming2175/3242113256/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jan 27 14:22:49 GMT+0100 2009
+Upload Date  : Sat Jan 31 20:14:01 GMT+0100 2009
+Geotag Info  : Latitude:32.299539, Longitude:-64.871606
+Views        : 265
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Bermuda sheep "Royal Naval Dockyard" 

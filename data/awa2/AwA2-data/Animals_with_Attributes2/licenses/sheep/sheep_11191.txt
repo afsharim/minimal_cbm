@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : -Chupacabras-
+Photo URL    : https://www.flickr.com/photos/25222005@N08/2516375267/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon May 19 20:49:05 GMT+0200 2008
+Upload Date  : Fri May 23 22:56:22 GMT+0200 2008
+Views        : 66
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+For cheese!
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

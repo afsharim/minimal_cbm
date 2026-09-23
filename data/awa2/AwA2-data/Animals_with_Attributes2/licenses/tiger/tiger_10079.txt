@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Rohit Thakur
+Photo URL    : https://www.flickr.com/photos/14410398@N05/4188426804/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Mar 31 08:30:11 GMT+0200 2009
+Upload Date  : Tue Dec 15 20:03:04 GMT+0100 2009
+Views        : 135
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bengal Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Safari World, Bangkok
+
+
++--------+
+|  TAGS  |
++--------+
+Tiger 

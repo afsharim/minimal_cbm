@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Michael Fraley
+Photo URL    : https://www.flickr.com/photos/mrfraley/13937553955/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 16 16:03:53 GMT+0100 2014
+Upload Date  : Sat Apr 19 18:49:51 GMT+0200 2014
+Views        : 284
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+San Francisco Zoo 194
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Olympus E-420
+Zuiko 14-42mm/f3.5-5.6
+Auto ISO
+02/16/2014
+
+
++--------+
+|  TAGS  |
++--------+
+"River Otters" 

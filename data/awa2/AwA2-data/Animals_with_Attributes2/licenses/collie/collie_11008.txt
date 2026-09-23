@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Lisafern
+Photo URL    : https://commons.wikimedia.org/wiki/File:Border_Collie_intense_look.jpg
+License      : Creative Commons (https://en.wikipedia.org/wiki/en:Creative_Commons) CC0 1.0 Universal Public Domain Dedication (//creativecommons.org/publicdomain/zero/1.0/deed.en)
+Date         : 2012-10-11 14:14:18

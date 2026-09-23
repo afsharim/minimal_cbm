@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : stanzebla
+Photo URL    : https://www.flickr.com/photos/stanzebla/16474451351/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Feb 6 11:37:06 GMT+0100 2015
+Upload Date  : Sun Feb 8 21:42:32 GMT+0100 2015
+Geotag Info  : Latitude:49.185206, Longitude:0.605032
+Views        : 44,385
+Comments     : 21
+
+
++---------+
+|  TITLE  |
++---------+
+Smoked sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Another photograph of the smoke in the park.
+
+
++--------+
+|  TAGS  |
++--------+
+sheep schafe moutons smoke 

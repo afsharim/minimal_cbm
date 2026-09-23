@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Matt From London
+Photo URL    : https://www.flickr.com/photos/londonmatt/7319588394/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 1 19:24:45 GMT+0200 2012
+Upload Date  : Sat Jun 2 12:27:28 GMT+0200 2012
+Geotag Info  : Latitude:51.536546, Longitude:-0.154505
+Views        : 135
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Otters
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"london zoo" "zsl london zoo" animals zoo "zoo lates" otters 

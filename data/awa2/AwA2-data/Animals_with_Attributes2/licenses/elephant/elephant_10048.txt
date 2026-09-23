@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : BOMBMAN
+Photo URL    : https://www.flickr.com/photos/ajay_g/5987654188/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Nov 3 20:11:34 GMT+0100 2010
+Upload Date  : Fri Jul 29 15:08:26 GMT+0200 2011
+Geotag Info  : Latitude:-25.255098, Longitude:27.084388
+Views        : 8,556
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+African Elephants
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+elephant 

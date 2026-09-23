@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Sam Wise
+Photo URL    : https://www.flickr.com/photos/samwise24/22961064240/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Oct 8 10:42:42 GMT+0200 2015
+Upload Date  : Mon Nov 23 23:01:57 GMT+0100 2015
+Views        : 438
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Brize Norton cow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Cows "Brize Norton" 

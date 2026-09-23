@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : tomer.gabel
+Photo URL    : https://www.flickr.com/photos/tomergabel/4962977457/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 23 15:01:56 GMT+0200 2010
+Upload Date  : Mon Sep 6 13:04:39 GMT+0200 2010
+Geotag Info  : Latitude:47.676946, Longitude:-122.351818
+Views        : 24
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Seattle Zoo: Hippopotamus
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+trip "united states" 2010 

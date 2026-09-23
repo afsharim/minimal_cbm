@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : WayShare
+Photo URL    : https://www.flickr.com/photos/47042618@N06/16548360700/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 28 12:11:04 GMT+0100 2015
+Upload Date  : Fri Mar 6 20:37:26 GMT+0100 2015
+Views        : 548
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep filling station
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Busy feeding.
+
+
++--------+
+|  TAGS  |
++--------+
+sheep feeding 

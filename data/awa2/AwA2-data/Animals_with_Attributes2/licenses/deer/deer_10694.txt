@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Sam Howzit
+Photo URL    : https://www.flickr.com/photos/aloha75/17375142921/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 2 10:08:48 GMT+0200 2015
+Upload Date  : Tue May 5 06:33:16 GMT+0200 2015
+Views        : 523
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Deer on Lookout Mountain in Golden, Colorado.
+
+
++--------+
+|  TAGS  |
++--------+
+Golden Colorado nature outdoors "Lookout Mountain" Deer animal 

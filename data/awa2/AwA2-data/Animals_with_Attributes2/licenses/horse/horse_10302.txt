@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jjensenii
+Photo URL    : https://www.flickr.com/photos/jjensenii/2534222808/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 29 14:55:31 GMT+0200 2008
+Upload Date  : Thu May 29 17:32:03 GMT+0200 2008
+Views        : 672
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Edward, Prince of Horses
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+He's rather cute. Can I keep him?
+
+
++--------+
+|  TAGS  |
++--------+
+horses 

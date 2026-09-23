@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mellow cat
+Photo URL    : https://www.flickr.com/photos/bgwashburn/10917505503/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 17 11:23:33 GMT+0100 2013
+Upload Date  : Mon Nov 18 03:11:45 GMT+0100 2013
+Views        : 168
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Pensive squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Seems to be wrestling with a moral dilemma.
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel 

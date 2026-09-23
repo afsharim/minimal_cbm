@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : potamos.photography
+Photo URL    : https://www.flickr.com/photos/riverofgod/488736220/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon May 7 11:55:58 GMT+0200 2007
+Upload Date  : Mon May 7 21:50:25 GMT+0200 2007
+Views        : 69
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+fire-weasel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Minolta DSC
+
+
++--------+
+|  TAGS  |
++--------+
+Zoo Animals 

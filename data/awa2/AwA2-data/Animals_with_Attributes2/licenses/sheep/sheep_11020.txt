@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Saul Adereth
+Photo URL    : https://www.flickr.com/photos/saul_adereth/5964621158/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Apr 5 09:09:32 GMT+0200 2011
+Upload Date  : Fri Jul 22 18:48:13 GMT+0200 2011
+Geotag Info  : Latitude:-45.792963, Longitude:170.649819
+Views        : 111
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

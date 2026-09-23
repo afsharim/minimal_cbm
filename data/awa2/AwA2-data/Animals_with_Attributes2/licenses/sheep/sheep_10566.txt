@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : pellaea
+Photo URL    : https://www.flickr.com/photos/7147684@N03/898091871/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 25 14:03:05 GMT+0200 2007
+Upload Date  : Wed Jul 25 23:03:05 GMT+0200 2007
+Geotag Info  : Latitude:-42.120635, Longitude:-63.882064
+Views        : 2,786
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Patagonian Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Sheep on Valdes Peninsula, Patagonia, October 2006.
+
+
++--------+
+|  TAGS  |
++--------+
+sheep estancia valdes patagonia 

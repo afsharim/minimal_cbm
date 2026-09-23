@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Darren Foreman
+Photo URL    : https://www.flickr.com/photos/dsf/5945233529/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 16 16:57:37 GMT+0200 2011
+Upload Date  : Sun Jul 17 10:12:34 GMT+0200 2011
+Geotag Info  : Latitude:51.449694, Longitude:-0.097800
+Views        : 16
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+flickroid 

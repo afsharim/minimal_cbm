@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : VSmithUK
+Photo URL    : https://www.flickr.com/photos/vsmithuk/23677480/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 1 19:57:35 GMT+0200 2005
+Upload Date  : Tue Jul 5 05:56:30 GMT+0200 2005
+Geotag Info  : Latitude:61.081868, Longitude:-149.442214
+Views        : 122
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Moose
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Just outside Anchorage, Alaska.
+
+
++--------+
+|  TAGS  |
++--------+
+Anchorage Alaska Life 

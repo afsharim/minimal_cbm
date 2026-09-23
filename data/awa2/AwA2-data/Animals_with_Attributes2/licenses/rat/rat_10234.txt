@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : aigledayres
+Photo URL    : https://www.flickr.com/photos/aigledayres/25905977955/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 17 13:51:01 GMT+0200 2014
+Upload Date  : Sat Mar 19 15:18:09 GMT+0100 2016
+Views        : 17
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Rat surmulot Rattus norvegicus Brown Rat
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Rat surmulot Rattus norvegicus Brown Rat
+
+
++--------+
+|  TAGS  |
++--------+
+"Rat surmulot" "Rattus norvegicus" "Brown Rat" 

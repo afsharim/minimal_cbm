@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Aug 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ~ Bob ~
+Photo URL    : https://www.flickr.com/photos/bobengr/20884306973/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Sep 8 07:57:24 GMT+0200 2015
+Upload Date  : Fri Sep 18 07:59:23 GMT+0200 2015
+Geotag Info  : Latitude:43.626212, Longitude:-110.775736
+Views        : 256
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Weasels wobble but they don't fall down
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Another shot of the long/short tail weasel.
+
+
++--------+
+|  TAGS  |
++--------+
+Weasel Wildlife Wyoming mammal rodent long tail Grand Teton National park short 

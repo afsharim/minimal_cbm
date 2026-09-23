@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : exfordy
+Photo URL    : https://www.flickr.com/photos/exfordy/2961990297/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Oct 7 08:19:51 GMT+0200 2008
+Upload Date  : Tue Oct 21 23:57:43 GMT+0200 2008
+Geotag Info  : Latitude:-34.028949, Longitude:22.141056
+Views        : 682
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Kaapse bergkwagga" "Cape mountain zebra" "Equus zebra zebra" "Botlierskop Private Game Reserve" "South Africa" exfordy 

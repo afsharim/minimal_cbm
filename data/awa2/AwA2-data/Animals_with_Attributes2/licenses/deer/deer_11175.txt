@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : vinmar
+Photo URL    : https://www.flickr.com/photos/vwingate/2189446868/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 13 11:23:33 GMT+0100 2008
+Upload Date  : Sun Jan 13 12:23:33 GMT+0100 2008
+Views        : 315
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+richmond park deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"richmond park" deer 

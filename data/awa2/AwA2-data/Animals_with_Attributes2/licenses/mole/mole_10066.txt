@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : James Lindsey
+Photo URL    : https://commons.wikimedia.org/wiki/File:Talpa.europaea.jpg
+License      : Creative Commons (https://en.wikipedia.org/wiki/en:Creative_Commons) Attribution-Share Alike 2.5 Generic (//creativecommons.org/licenses/by-sa/2.5/deed.en)
+Date         : 2005-06-24

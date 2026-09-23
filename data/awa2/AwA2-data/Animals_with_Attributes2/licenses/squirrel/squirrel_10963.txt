@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : regexman
+Photo URL    : https://www.flickr.com/photos/regexman/9123887216/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 23 14:01:11 GMT+0200 2013
+Upload Date  : Mon Jun 24 06:40:55 GMT+0200 2013
+Geotag Info  : Latitude:37.512600, Longitude:-121.885803
+Views        : 19
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

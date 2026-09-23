@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mallorysimon
+Photo URL    : https://www.flickr.com/photos/mallorysimon/4376610501/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 21 02:14:56 GMT+0100 2010
+Upload Date  : Mon Feb 22 00:51:56 GMT+0100 2010
+Views        : 101
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Atlanta Zoo "Zoo Atlanta" "Zoo animals" elephant 

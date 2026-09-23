@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : yuan2003
+Photo URL    : https://www.flickr.com/photos/yuan2003/8156775865/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 4 20:53:22 GMT+0100 2012
+Upload Date  : Mon Nov 5 06:39:05 GMT+0100 2012
+Geotag Info  : Latitude:40.807053, Longitude:-77.843831
+Views        : 36
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Swine Research 2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+<a href="http://en.wikipedia.org/wiki/Canon_T70" rel="nofollow">Canon T70</a>;
+<a href="http://en.wikipedia.org/wiki/Fujifilm_Superia" rel="nofollow">Fuji Superia</a>;
+
+
++--------+
+|  TAGS  |
++--------+
+Canon T70 Fujifilm Fuji Superia Swine Research 

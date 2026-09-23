@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : BFS Man
+Photo URL    : https://www.flickr.com/photos/bfs_man/6027719248/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 6 10:03:22 GMT+0200 2011
+Upload Date  : Wed Aug 10 03:07:16 GMT+0200 2011
+Geotag Info  : Latitude:29.711705, Longitude:-95.391798
+Views        : 481
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Graybeard
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+One of the chimpanzees at the Houston Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+"Houston Zoo" Houston Texas chimp chimpanzee ape primate 

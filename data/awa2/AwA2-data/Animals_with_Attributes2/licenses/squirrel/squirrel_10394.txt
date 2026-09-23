@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : still.epsilon
+Photo URL    : https://www.flickr.com/photos/stil_epsilon/8015677308/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Aug 23 16:58:14 GMT+0200 2011
+Upload Date  : Sun Sep 23 16:49:04 GMT+0200 2012
+Views        : 45
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Nibble
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"gray squirrel" 

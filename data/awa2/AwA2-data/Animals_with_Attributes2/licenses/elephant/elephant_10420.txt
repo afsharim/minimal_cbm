@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jim, the Photographer
+Photo URL    : https://www.flickr.com/photos/jcapaldi/3683599442/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jun 30 11:29:51 GMT+0200 2009
+Upload Date  : Fri Jul 3 04:58:50 GMT+0200 2009
+Geotag Info  : Latitude:39.972647, Longitude:-75.196180
+Views        : 84
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Philadelphia Zoo" zoo 

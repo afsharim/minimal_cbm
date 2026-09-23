@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Oneras
+Photo URL    : https://www.flickr.com/photos/oneras/6582641035/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jan 1 00:00:00 GMT+0100 1999
+Upload Date  : Wed Jul 8 07:35:24 GMT+0200 2015
+Views        : 3,335
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Pig and dog
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+<a href="http://www.safecreative.org/people/oneras" rel="nofollow">www.safecreative.org/people/oneras</a>
+
+
++--------+
+|  TAGS  |
++--------+
+scansbyMario_others dog pig cerdo monte 

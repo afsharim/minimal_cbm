@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : W***
+Photo URL    : https://www.flickr.com/photos/wisigreter/14492655585/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Mar 21 12:26:11 GMT+0100 2014
+Upload Date  : Tue Jun 24 00:14:33 GMT+0200 2014
+Geotag Info  : Latitude:47.612280, Longitude:8.906175
+Views        : 93
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Schweine
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Schweiz Herdern Thurgau 

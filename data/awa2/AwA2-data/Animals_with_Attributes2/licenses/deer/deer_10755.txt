@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Crazy_Zou
+Photo URL    : https://www.flickr.com/photos/crazy_zou/4756098652/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jun 15 12:09:55 GMT+0200 2010
+Upload Date  : Fri Jul 2 23:46:36 GMT+0200 2010
+Views        : 65
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deers
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Johennesburg Zoo
+
+They kept starring as if pausing for the photo!
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

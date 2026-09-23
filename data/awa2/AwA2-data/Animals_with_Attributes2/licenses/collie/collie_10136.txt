@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : WNJohnson
+Photo URL    : https://www.flickr.com/photos/nate_johnson/6908389740/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 7 12:38:21 GMT+0200 2012
+Upload Date  : Sat Apr 7 21:38:21 GMT+0200 2012
+Views        : 2,053
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Buzz Relaxing
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+My pup buzz relaxing in a long car ride (like a king!)
+
+
++--------+
+|  TAGS  |
++--------+
+"buzz scott johnson" "dog relaxing" "dog smile" "border collie smile" "collie smile" 

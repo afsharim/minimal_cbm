@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : R4vi
+Photo URL    : https://www.flickr.com/photos/r4vi/2316780497/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 2 15:39:12 GMT+0100 2008
+Upload Date  : Fri Mar 7 23:39:02 GMT+0100 2008
+Views        : 58
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+3 Zebras
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+zebra game
+
+
++--------+
+|  TAGS  |
++--------+
+"south africa" "rsa safari" 

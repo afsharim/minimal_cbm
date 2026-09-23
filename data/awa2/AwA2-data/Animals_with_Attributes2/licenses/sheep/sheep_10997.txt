@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : hectorthebat
+Photo URL    : https://www.flickr.com/photos/hectorthebat/5503515157/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Dec 30 14:01:59 GMT+0100 2010
+Upload Date  : Sun Mar 6 23:06:15 GMT+0100 2011
+Geotag Info  : Latitude:53.604983, Longitude:-1.567568
+Views        : 1,166
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Sheffield sheep yorkshire sculpture park "yorkshire sculpture park" 

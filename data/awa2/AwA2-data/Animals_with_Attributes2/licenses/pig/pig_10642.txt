@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : OCD is the life 4 me
+Photo URL    : https://www.flickr.com/photos/27443865@N08/3929055654/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Sep 17 06:55:07 GMT+0200 2009
+Upload Date  : Thu Sep 17 15:55:07 GMT+0200 2009
+Views        : 10
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+pig
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

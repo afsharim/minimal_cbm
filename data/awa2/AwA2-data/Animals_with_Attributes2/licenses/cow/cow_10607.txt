@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : andrew_j_w
+Photo URL    : https://www.flickr.com/photos/andrew_j_w/5158193676/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 10 15:46:29 GMT+0200 2010
+Upload Date  : Mon Nov 8 14:38:27 GMT+0100 2010
+Geotag Info  : Latitude:52.141179, Longitude:-0.050468
+Views        : 2,218
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cows
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+wimpolehall cow animal farm 

@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Alena Houšková
+Photo URL    : https://commons.wikimedia.org/wiki/File:Ursus_arctos_horribilis_Medv%C4%9Bd_grizzly_ZOO_D%C4%9B%C4%8D%C3%ADn.jpg
+License      : Creative Commons (https://en.wikipedia.org/wiki/en:Creative_Commons) Attribution-Share Alike 3.0 Unported (//creativecommons.org/licenses/by-sa/3.0/deed.en)
+Date         : 

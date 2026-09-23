@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : johnspeedwell
+Photo URL    : https://www.flickr.com/photos/johnspeedwell/12509332124/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 19 14:18:54 GMT+0200 2013
+Upload Date  : Thu Feb 13 23:47:42 GMT+0100 2014
+Views        : 19
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+ZSL
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

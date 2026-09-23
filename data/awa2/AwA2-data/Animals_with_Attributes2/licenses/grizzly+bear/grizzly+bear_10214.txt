@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/9980520713/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 14 15:35:23 GMT+0200 2013
+Upload Date  : Sat Sep 28 14:42:44 GMT+0200 2013
+Geotag Info  : Latitude:52.702030, Longitude:10.262775
+Views        : 9,710
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Brown bear portrait
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Picture of the female brown bear of the Filmtierpark.
+
+
++--------+
+|  TAGS  |
++--------+
+female bear brown portrait face beautiful "filmtierpark eschede" park celle germany nikon d4 

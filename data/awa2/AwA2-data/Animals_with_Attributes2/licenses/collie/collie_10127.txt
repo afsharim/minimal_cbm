@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Lil Shepherd
+Photo URL    : https://www.flickr.com/photos/lilshepherd/7134752419/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Apr 30 13:34:20 GMT+0200 2012
+Upload Date  : Wed May 2 09:26:34 GMT+0200 2012
+Views        : 398
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bren likes to sprawl
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+dogs bren "smooth collie" 

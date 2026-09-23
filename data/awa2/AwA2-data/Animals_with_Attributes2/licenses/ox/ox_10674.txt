@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Pasha Kirillov
+Photo URL    : https://www.flickr.com/photos/pasha_k/8380009819/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jan 3 06:46:00 GMT+0100 2013
+Upload Date  : Mon Jan 14 17:30:52 GMT+0100 2013
+Geotag Info  : Latitude:0.432582, Longitude:123.832569
+Views        : 117
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Village road
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This transportation mode is pretty popular in Sulawesi
+
+
++--------+
+|  TAGS  |
++--------+
+Sulawesi "North Sulawesi" Сулавеси Indonesia geo:country=Indonesia "Southeast Asia" 

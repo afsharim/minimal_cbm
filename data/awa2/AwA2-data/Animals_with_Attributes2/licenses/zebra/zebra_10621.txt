@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/11073569994/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 20 13:36:48 GMT+0200 2013
+Upload Date  : Tue Nov 26 22:00:12 GMT+0100 2013
+Geotag Info  : Latitude:47.734849, Longitude:7.350239
+Views        : 10,050
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra looking at the side
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A zebra in the shadow looking on the side...
+
+
++--------+
+|  TAGS  |
++--------+
+zebra equine black white stripes shadow tree vegetation looking side mulhouse zoo france nikon d4 

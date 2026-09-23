@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Oaktown Pete
+Photo URL    : https://www.flickr.com/photos/pete_k_1948/3804585215/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 30 15:31:15 GMT+0200 2009
+Upload Date  : Sun Aug 9 22:13:19 GMT+0200 2009
+Views        : 374
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Moose
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Taken from the Alaska Railroad to Denali: 7/30/2009
+
+
++--------+
+|  TAGS  |
++--------+
+Moose Alaska 

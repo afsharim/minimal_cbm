@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : edu3a2
+Photo URL    : https://www.flickr.com/photos/edu3a2/4259252892/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jun 30 19:11:51 GMT+0200 2009
+Upload Date  : Sat Jan 9 12:53:43 GMT+0100 2010
+Geotag Info  : Latitude:39.481785, Longitude:-0.383148
+Views        : 347
+Comments     : 14
+
+
++---------+
+|  TITLE  |
++---------+
+Gorila
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+flickrAward mywinners 

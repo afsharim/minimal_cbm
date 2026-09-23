@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jabberwock
+Photo URL    : https://www.flickr.com/photos/jabberwock/8346991078/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Oct 25 11:57:40 GMT+0200 2012
+Upload Date  : Fri Jan 4 19:18:58 GMT+0100 2013
+Geotag Info  : Latitude:-33.469381, Longitude:26.058222
+Views        : 52
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_0428
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Africa Shamwari Giraffe 

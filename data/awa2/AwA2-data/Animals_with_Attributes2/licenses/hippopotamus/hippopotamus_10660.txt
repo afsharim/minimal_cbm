@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : pquan
+Photo URL    : https://www.flickr.com/photos/pquan/4652644176/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 17 10:29:24 GMT+0200 2009
+Upload Date  : Sun May 30 13:55:40 GMT+0200 2010
+Geotag Info  : Latitude:43.817993, Longitude:-79.185032
+Views        : 201
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Toronto Zoo-2009-05-17-016
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Pygmy hippopotamus - Choeropsis liberiensis
+
+
++--------+
+|  TAGS  |
++--------+
+zoo "Toronto Zoo" animal hippo hippopotamus 

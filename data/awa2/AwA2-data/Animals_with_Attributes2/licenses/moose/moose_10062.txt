@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : KimonBerlin
+Photo URL    : https://www.flickr.com/photos/kimon/6170659703/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 14 13:05:21 GMT+0200 2011
+Upload Date  : Thu Sep 22 04:01:43 GMT+0200 2011
+Geotag Info  : Latitude:40.526950, Longitude:-105.891084
+Views        : 235
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Cameron Pass Moose 3
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+colorado moose summer 

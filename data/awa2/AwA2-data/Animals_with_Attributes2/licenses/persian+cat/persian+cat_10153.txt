@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : kirichkov
+Photo URL    : https://www.flickr.com/photos/kirichkov/3505023514/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 3 11:18:24 GMT+0200 2009
+Upload Date  : Tue May 5 18:43:38 GMT+0200 2009
+Views        : 200
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_0004
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+cats "persian cat" 

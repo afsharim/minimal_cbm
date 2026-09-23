@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Loimere
+Photo URL    : https://www.flickr.com/photos/loimere/1176506238/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 9 12:23:36 GMT+0200 2007
+Upload Date  : Mon Aug 20 02:13:45 GMT+0200 2007
+Geotag Info  : Latitude:45.092800, Longitude:-63.390920
+Views        : 53
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"East Coast Trip" Loimere 

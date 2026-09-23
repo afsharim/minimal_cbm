@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : spycup
+Photo URL    : https://www.flickr.com/photos/c168i/6595213253/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Dec 29 11:56:41 GMT+0100 2011
+Upload Date  : Thu Dec 29 18:56:41 GMT+0100 2011
+Views        : 54
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+4deer_IMG_3625
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+deer 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mcoughlin
+Photo URL    : https://www.flickr.com/photos/mcoughlin/11330821005/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Nov 21 00:00:05 GMT+0100 2013
+Upload Date  : Thu Dec 12 00:42:44 GMT+0100 2013
+Geotag Info  : Latitude:-3.965640, Longitude:35.971984
+Views        : 1,127
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Wee Little Elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Tarangire National Park, Tanzania
+
+
++--------+
+|  TAGS  |
++--------+
+tanzania tarangire elephant "african elephant" calf "baby elephant" 

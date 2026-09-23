@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ove Ragnar O.
+Photo URL    : https://www.flickr.com/photos/overagnaro/2393344571/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Apr 3 08:46:34 GMT+0200 2008
+Upload Date  : Mon Apr 7 00:20:03 GMT+0200 2008
+Views        : 677
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel 

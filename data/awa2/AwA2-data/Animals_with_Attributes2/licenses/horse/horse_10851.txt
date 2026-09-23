@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Francis Storr
+Photo URL    : https://www.flickr.com/photos/fstorr/224744303/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 24 08:02:52 GMT+0200 2006
+Upload Date  : Fri Aug 25 23:34:21 GMT+0200 2006
+Views        : 863
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horses
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Holiday Horses 

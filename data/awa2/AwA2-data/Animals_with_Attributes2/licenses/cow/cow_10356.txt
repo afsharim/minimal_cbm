@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Magnus Bråth
+Photo URL    : https://www.flickr.com/photos/magnusbrath/5395960611/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jan 25 14:57:40 GMT+0100 2011
+Upload Date  : Fri Jan 28 21:51:47 GMT+0100 2011
+Views        : 2,816
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A Costa Rican cow.
+All my photos are CC feel free to use them but if you do please link back. If you're really nice link to <a href="http://xn--magnusbrth-85a.se/" rel="nofollow">xn--magnusbrth-85a.se/</a>, my blog.
+
+
++--------+
+|  TAGS  |
++--------+
+cow 

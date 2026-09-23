@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Maritime Aquarium at Norwalk
+Photo URL    : https://www.flickr.com/photos/maritimeaquarium/5100119074/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri May 30 09:46:50 GMT+0200 2008
+Upload Date  : Wed Oct 20 19:32:00 GMT+0200 2010
+Views        : 946
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Aquar.seal.Ariel2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Ariel, one of the harbor seals at The Maritime Aquarium at Norwalk (CT).
+
+
++--------+
+|  TAGS  |
++--------+
+seals Maritime Aquarium 

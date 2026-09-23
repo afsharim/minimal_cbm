@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : benclark
+Photo URL    : https://www.flickr.com/photos/benclark/3696366022/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jun 30 12:34:17 GMT+0200 2009
+Upload Date  : Tue Jul 7 02:38:28 GMT+0200 2009
+Geotag Info  : Latitude:37.951111, Longitude:-78.630110
+Views        : 463
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_3241
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+cow farm grass 

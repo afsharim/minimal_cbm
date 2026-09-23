@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Gerwin Filius
+Photo URL    : https://www.flickr.com/photos/gerwinfilius/3698528971/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Mar 20 14:00:51 GMT+0100 2009
+Upload Date  : Tue Jul 7 23:28:26 GMT+0200 2009
+Geotag Info  : Latitude:51.521721, Longitude:5.129714
+Views        : 823
+Comments     : 10
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Beekse Bergen" "Canon 400D" "Canon 70-200mm" "Canon EF 70-200mm f/4L IS USM" Dierentuin Experiment Experimental HDR Tiger Tijger Zoo FlickrBigCats 

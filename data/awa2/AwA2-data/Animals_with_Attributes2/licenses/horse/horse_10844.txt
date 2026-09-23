@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : carl & tracy gossett
+Photo URL    : https://www.flickr.com/photos/24957796@N05/2410445251/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 22 15:00:01 GMT+0100 2008
+Upload Date  : Sun Apr 13 21:08:36 GMT+0200 2008
+Geotag Info  : Latitude:34.302827, Longitude:-84.814238
+Views        : 276
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+HORSES tsg
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horses paint brown animal 

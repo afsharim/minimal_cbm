@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : evil nickname
+Photo URL    : https://www.flickr.com/photos/evilnickname/10175587534/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 1 13:30:07 GMT+0200 2013
+Upload Date  : Wed Oct 9 22:29:06 GMT+0200 2013
+Geotag Info  : Latitude:52.150883, Longitude:5.346071
+Views        : 368
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+White tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A white <i>Panthera tigris tigris</i> at Dierenpark Amersfoort
+
+
++--------+
+|  TAGS  |
++--------+
+Nederland "The Netherlands" zoo dierenpark dierentuin Amersfoort "Dierenpark Amersfoort" "White tiger" "Panthera tigris tigris" tiger 

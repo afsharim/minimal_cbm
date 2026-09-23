@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Oregon State University
+Photo URL    : https://www.flickr.com/photos/oregonstateuniversity/6096523295/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Aug 30 08:37:06 GMT+0200 2011
+Upload Date  : Tue Aug 30 17:41:53 GMT+0200 2011
+Views        : 4,027
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Canada lynx
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The Canada lynx, listed as a threatened species in 2000, could benefit from the growth of wolf populations, new research suggests. (Photo by Ron Moen, courtesy of the Natural Resources Research Institute at the University of Minnesota)
+
+
++--------+
+|  TAGS  |
++--------+
+"Oregon State University" "Canada lynx" 

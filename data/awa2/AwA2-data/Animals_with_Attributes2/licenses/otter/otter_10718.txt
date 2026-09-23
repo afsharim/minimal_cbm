@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ZackW
+Photo URL    : https://www.flickr.com/photos/zackw/2560401284/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon May 26 17:17:44 GMT+0200 2008
+Upload Date  : Sun Jun 8 06:34:55 GMT+0200 2008
+Geotag Info  : Latitude:33.731005, Longitude:-84.370370
+Views        : 37
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Otters.
+
+
++--------+
+|  TAGS  |
++--------+
+atlanta zoo otter 

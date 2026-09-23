@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : puddy_uk
+Photo URL    : https://www.flickr.com/photos/puddy73/2788541553/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 21 12:45:00 GMT+0200 2008
+Upload Date  : Sat Aug 23 12:49:25 GMT+0200 2008
+Geotag Info  : Latitude:50.876827, Longitude:-2.891464
+Views        : 156
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Cricket St Thomas 

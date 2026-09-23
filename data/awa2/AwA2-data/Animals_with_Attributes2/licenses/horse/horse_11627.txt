@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : avatar-1
+Photo URL    : https://www.flickr.com/photos/avatar-1/2246424979/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 3 14:43:55 GMT+0100 2008
+Upload Date  : Wed Feb 6 20:54:22 GMT+0100 2008
+Geotag Info  : Latitude:50.714164, Longitude:6.384923
+Views        : 93
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Yak
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Sieht nicht sehr pferdisch aus :-)
+
+
++--------+
+|  TAGS  |
++--------+
+winter schnee snow hürtgenwald pferd horse 

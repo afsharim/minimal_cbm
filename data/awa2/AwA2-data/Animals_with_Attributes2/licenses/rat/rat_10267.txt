@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : michfiel
+Photo URL    : https://www.flickr.com/photos/michfiel/2232791412/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jan 31 08:59:49 GMT+0100 2008
+Upload Date  : Thu Jan 31 13:01:18 GMT+0100 2008
+Geotag Info  : Latitude:52.499667, Longitude:13.353028
+Views        : 413
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Rattus Berlinus
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Totes Exemplar auf dem Nollendorfplatz. Ist anscheinend heute morgen von der BSR übersehen worden.
+
+
++--------+
+|  TAGS  |
++--------+
+Ratte "Rattus Norvegicus" Schöneberg Tod 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : pink_pixie21
+Photo URL    : https://www.flickr.com/photos/11172034@N08/6989845573/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 8 09:57:16 GMT+0100 2012
+Upload Date  : Sat Mar 17 15:15:15 GMT+0100 2012
+Views        : 3,069
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+John - my new hamster
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This is John, a rescue hamster I adopted from Furry Friends Animal Rescue
+
+
++--------+
+|  TAGS  |
++--------+
+hamster pet animal rodent rescue "furry friends" adopted cute "red eyes" "red eyed white" REW 

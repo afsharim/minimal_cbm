@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Giles Douglas
+Photo URL    : https://www.flickr.com/photos/orangelimey/825544850/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 15 10:16:15 GMT+0200 2007
+Upload Date  : Mon Jul 16 06:57:38 GMT+0200 2007
+Geotag Info  : Latitude:38.558225, Longitude:-122.696256
+Views        : 245
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe just walking
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Animals "Safari West" Sonoma CA USA Giraffe 

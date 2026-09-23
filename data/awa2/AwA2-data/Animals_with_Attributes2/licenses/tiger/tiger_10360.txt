@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ptooey
+Photo URL    : https://www.flickr.com/photos/ptooey/3609572938/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 5 13:26:24 GMT+0200 2009
+Upload Date  : Tue Jun 9 03:49:06 GMT+0200 2009
+Views        : 131
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger Profile
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+tiger Denver aquarium profile 

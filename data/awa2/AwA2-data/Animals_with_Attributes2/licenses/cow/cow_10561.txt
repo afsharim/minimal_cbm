@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : BenjaminThompson
+Photo URL    : https://www.flickr.com/photos/beija/2841995203/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 7 11:59:14 GMT+0200 2008
+Upload Date  : Tue Sep 9 12:17:42 GMT+0200 2008
+Geotag Info  : Latitude:-20.361284, Longitude:-43.146572
+Views        : 172
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cows
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Cow cows "two cows" 

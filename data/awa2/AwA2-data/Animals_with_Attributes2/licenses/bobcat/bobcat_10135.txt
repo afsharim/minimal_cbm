@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/25255710704/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 27 15:25:12 GMT+0100 2016
+Upload Date  : Fri Mar 18 20:01:04 GMT+0100 2016
+Geotag Info  : Latitude:47.050651, Longitude:8.554229
+Views        : 1,361
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cute lynx!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Portrait of a cute lynx among the vegetaton...
+
+
++--------+
+|  TAGS  |
++--------+
+portrait face watching vegetation close lynx wild cat european feline goldau "arth goldau" tierpark zoo switzerland nikon d4 

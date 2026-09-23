@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : xeno_sapien
+Photo URL    : https://www.flickr.com/photos/gilad_rom/2348565824/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Mar 12 23:00:58 GMT+0100 2008
+Upload Date  : Thu Mar 20 22:20:38 GMT+0100 2008
+Geotag Info  : Latitude:-64.546079, Longitude:-62.523193
+Views        : 3,165
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Curious Leopard seal
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+antarctica "leopard seal" curious 

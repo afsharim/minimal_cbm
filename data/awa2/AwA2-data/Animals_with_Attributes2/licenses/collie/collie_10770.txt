@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Lukáš Vaňourek
+Photo URL    : https://commons.wikimedia.org/wiki/File:Border_collie_agility.jpg
+License      : public domain
+Date         : 

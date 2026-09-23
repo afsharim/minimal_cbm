@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jonas B
+Photo URL    : https://www.flickr.com/photos/jonasb/3072224816/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Nov 10 17:59:12 GMT+0100 2008
+Upload Date  : Sun Nov 30 21:56:28 GMT+0100 2008
+Views        : 110
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+centralpark squirrel 

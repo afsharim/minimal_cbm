@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Genevieve719
+Photo URL    : https://www.flickr.com/photos/genevieve719/7763181644/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 2 17:35:27 GMT+0200 2012
+Upload Date  : Sun Aug 12 05:38:14 GMT+0200 2012
+Views        : 13
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

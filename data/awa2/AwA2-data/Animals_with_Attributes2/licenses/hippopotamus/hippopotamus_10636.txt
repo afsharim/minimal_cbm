@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Andrew Mason
+Photo URL    : https://www.flickr.com/photos/a_mason/2956277676/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 18 12:33:57 GMT+0200 2008
+Upload Date  : Sun Oct 19 23:51:54 GMT+0200 2008
+Views        : 120
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Swimming Hippopotamus
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zoo animal trip london 

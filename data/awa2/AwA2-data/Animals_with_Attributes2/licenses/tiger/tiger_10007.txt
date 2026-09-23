@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/577341584/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jun 5 16:30:09 GMT+0200 2007
+Upload Date  : Wed Jun 20 23:27:26 GMT+0200 2007
+Geotag Info  : Latitude:53.594351, Longitude:9.941039
+Views        : 6,792
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Saha relaxing in the grass
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Sasha the male tiger is lying in the grass of his enclosure. Picture taken in the zoo of Hamburg, Germany
+
+
++--------+
+|  TAGS  |
++--------+
+tiger zoo germany "panthera tigris" hamburg hagenbeck NaturesFinest tigre cat feline wildcat bigcat panthera tigris wild big kitty felid striped stripes 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Joanne Goldby
+Photo URL    : https://www.flickr.com/photos/jovamp/5043901411/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 2 10:29:45 GMT+0200 2010
+Upload Date  : Sat Oct 2 17:01:03 GMT+0200 2010
+Views        : 51
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+006
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Bradgate Park" Deer 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : raniel diaz
+Photo URL    : https://www.flickr.com/photos/ranieldiaz/5889505826/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 30 12:48:12 GMT+0200 2011
+Upload Date  : Fri Jul 1 02:08:05 GMT+0200 2011
+Geotag Info  : Latitude:51.175170, Longitude:-115.572570
+Views        : 134
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Meese Found
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+CORRECTION: Elk Found
+
+
++--------+
+|  TAGS  |
++--------+
+moose canada 

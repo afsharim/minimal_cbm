@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : fusky
+Photo URL    : https://www.flickr.com/photos/fusky/1825515764/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Aug 15 11:19:49 GMT+0200 2007
+Upload Date  : Fri Nov 2 12:14:13 GMT+0100 2007
+Geotag Info  : Latitude:40.421076, Longitude:-3.759040
+Views        : 852
+Comments     : 12
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Detalle de un tigre en el zoo de Madrid.
+No paraba de moverse en su instalación, y me fui imposible que me mirara... Parecía muy concentrado en algo¿?
+
+
++--------+
+|  TAGS  |
++--------+
+Tigre Tiger "Zoo Madrid" Spain fusky 

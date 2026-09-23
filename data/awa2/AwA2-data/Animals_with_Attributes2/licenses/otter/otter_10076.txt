@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Drew Avery
+Photo URL    : https://www.flickr.com/photos/33590535@N06/5584351087/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 21 14:04:23 GMT+0100 2010
+Upload Date  : Sun Apr 3 13:07:00 GMT+0200 2011
+Geotag Info  : Latitude:51.534163, Longitude:-0.160503
+Views        : 1,544
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+European Otter {Lutra lutra}
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+London Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+"london zoo" "taxonomy:common=european otter" "taxonomy:binomial=Lutra lutra" status:iucn=nt 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : International Livestock Research Institute
+Photo URL    : https://www.flickr.com/photos/ilri/4647557920/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Mar 7 09:52:46 GMT+0100 2008
+Upload Date  : Fri May 28 15:10:27 GMT+0200 2010
+Geotag Info  : Latitude:26.055730, Longitude:92.854476
+Views        : 1,101
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Pigs at the Drestry Farm Industry commercial pig farm.
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+India, Assam, Sonapur, Karchia Village (photo credit: ILRI/Stevie Mann).
+
+
++--------+
+|  TAGS  |
++--------+
+India ILRI Pigs "Assam, India" 

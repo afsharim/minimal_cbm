@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : stevengosch
+Photo URL    : https://www.flickr.com/photos/steveng4444/8919758944/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Feb 4 11:17:18 GMT+0100 2013
+Upload Date  : Sun Jun 2 05:24:47 GMT+0200 2013
+Views        : 123
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Yogurt Drop
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Roborovski Hamster 

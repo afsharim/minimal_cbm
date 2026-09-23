@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Iain Farrell
+Photo URL    : https://www.flickr.com/photos/iain/6874203858/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Mar 27 07:28:46 GMT+0200 2012
+Upload Date  : Tue Mar 27 10:32:46 GMT+0200 2012
+Views        : 24
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Food?
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+lamb sheep 

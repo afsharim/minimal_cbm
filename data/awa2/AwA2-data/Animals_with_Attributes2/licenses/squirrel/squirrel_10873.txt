@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : deege@fermentarium.com
+Photo URL    : https://www.flickr.com/photos/deegephotos/6078267140/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Aug 24 18:23:32 GMT+0200 2011
+Upload Date  : Thu Aug 25 01:54:19 GMT+0200 2011
+Views        : 370
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+If you want to use this photo, please credit DJ Spiess and link to <a href="http://www.fermentarium.com" rel="nofollow">www.fermentarium.com</a>
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel 

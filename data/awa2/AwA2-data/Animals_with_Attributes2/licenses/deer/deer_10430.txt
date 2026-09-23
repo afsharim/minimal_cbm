@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : a200/a77Wells
+Photo URL    : https://www.flickr.com/photos/aiwells/3704632892/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 8 16:07:20 GMT+0200 2009
+Upload Date  : Thu Jul 9 17:33:44 GMT+0200 2009
+Geotag Info  : Latitude:46.846822, Longitude:-96.852207
+Views        : 594
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zoo deer "Fargo ND" 

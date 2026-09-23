@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : fotografie z odborné praxe pro ZooMagazín
+Photo URL    : https://www.flickr.com/photos/130575652@N03/15917289474/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Feb 10 15:00:31 GMT+0100 2015
+Upload Date  : Sun Feb 15 18:55:56 GMT+0100 2015
+Views        : 81
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Gorila nížinná.
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+ZOO Praha.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : aldenchadwick
+Photo URL    : https://www.flickr.com/photos/aldenchadwick/2128827238/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Dec 21 12:44:50 GMT+0100 2007
+Upload Date  : Sat Dec 22 13:29:44 GMT+0100 2007
+Views        : 367
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Grumpy Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Squirrel 

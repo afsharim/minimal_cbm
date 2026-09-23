@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : 3n
+Photo URL    : https://www.flickr.com/photos/3n/3830775940/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 9 12:43:21 GMT+0200 2009
+Upload Date  : Mon Aug 17 18:43:09 GMT+0200 2009
+Geotag Info  : Latitude:36.617797, Longitude:-121.901618
+Views        : 125
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+please leave me alone
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+dude was mega-annoyed by us humans
+
+
++--------+
+|  TAGS  |
++--------+
+otter 

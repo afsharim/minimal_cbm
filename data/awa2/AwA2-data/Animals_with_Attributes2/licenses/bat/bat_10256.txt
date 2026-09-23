@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Thomas Bresson
+Photo URL    : https://commons.wikimedia.org/wiki/File:2012-02-19_15-01-55-chiroptera-sp.jpg
+License      : Creative Commons (https://en.wikipedia.org/wiki/en:Creative_Commons) Attribution 3.0 Unported (//creativecommons.org/licenses/by/3.0/deed.en)
+Date         : 2012-02-19 15:01:55

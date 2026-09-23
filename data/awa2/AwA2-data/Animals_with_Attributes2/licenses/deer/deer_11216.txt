@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : aloadofphotos
+Photo URL    : https://www.flickr.com/photos/johnheaven/4069262701/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 1 14:54:57 GMT+0100 2009
+Upload Date  : Mon Nov 2 22:46:28 GMT+0100 2009
+Views        : 64
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Some deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+hamburg Hagenbecks Tierpark deer 

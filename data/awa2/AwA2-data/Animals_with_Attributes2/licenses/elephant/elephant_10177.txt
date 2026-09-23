@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : cristoffercrusell
+Photo URL    : https://www.flickr.com/photos/crusell/3896327704/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Sep 1 16:53:20 GMT+0200 2009
+Upload Date  : Mon Sep 7 13:30:41 GMT+0200 2009
+Views        : 51
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elefant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

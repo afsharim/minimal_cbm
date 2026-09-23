@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : berniedup
+Photo URL    : https://www.flickr.com/photos/berniedup/16492199951/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jan 13 14:33:28 GMT+0100 2015
+Upload Date  : Tue Feb 10 19:15:40 GMT+0100 2015
+Geotag Info  : Latitude:-25.422423, Longitude:31.467075
+Views        : 440
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sleepy Buffalo (Syncerus caffer) making bubbles
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+S110 Road East of Berg-en-Dal, Kruger NP, SOUTH AFRICA
+
+
++--------+
+|  TAGS  |
++--------+
+Berg-en-Dal Buffalo Kruger "South Africa" "Syncerus caffer" "taxonomy:binomial=Syncerus caffer" 

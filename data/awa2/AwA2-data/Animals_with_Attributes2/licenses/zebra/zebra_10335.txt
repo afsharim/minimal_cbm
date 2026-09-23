@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Raphael Quinet
+Photo URL    : https://www.flickr.com/photos/raphaelquinet/1321121975/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 1 17:55:23 GMT+0200 2007
+Upload Date  : Tue Sep 4 16:53:58 GMT+0200 2007
+Geotag Info  : Latitude:50.499533, Longitude:5.741579
+Views        : 147
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+MondeSauvage-175523
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Zebra / <i>Zèbre</i>
+
+
++--------+
+|  TAGS  |
++--------+
+Belgium Aywaille MondeSauvage zebra 

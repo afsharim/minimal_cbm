@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jim's Photographic Internet Cruft
+Photo URL    : https://www.flickr.com/photos/jim-scene/250165122/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 6 16:09:10 GMT+0100 2002
+Upload Date  : Sat Sep 23 04:40:41 GMT+0200 2006
+Geotag Info  : Latitude:32.735523, Longitude:-117.148890
+Views        : 198
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"San Diego" Zoo Giraffe 

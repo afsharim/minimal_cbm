@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Strange Ones
+Photo URL    : https://www.flickr.com/photos/strangeones/3603652359/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Apr 8 01:10:24 GMT+0200 2009
+Upload Date  : Sun Jun 7 19:53:02 GMT+0200 2009
+Views        : 2,901
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Fruit Bat
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Fruit bat...
+ 
+Botanical Gardens, April 2009
+
+
++--------+
+|  TAGS  |
++--------+
+bat "fruit bat" mammal australia sydney "sydney botanical gardens" 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : currystrumpet
+Photo URL    : https://www.flickr.com/photos/currystrumpet/7675769206/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 3 16:01:06 GMT+0200 2012
+Upload Date  : Mon Jul 30 12:48:36 GMT+0200 2012
+Views        : 104
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Iceland sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

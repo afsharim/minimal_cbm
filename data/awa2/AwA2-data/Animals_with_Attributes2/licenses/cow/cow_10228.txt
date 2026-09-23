@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : kasthor
+Photo URL    : https://www.flickr.com/photos/kasthor/88716114/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 23 10:29:41 GMT+0200 2005
+Upload Date  : Fri Jan 20 00:18:56 GMT+0100 2006
+Views        : 1,181
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Cow
+
+
++--------+
+|  TAGS  |
++--------+
+cow vaca animal farm 

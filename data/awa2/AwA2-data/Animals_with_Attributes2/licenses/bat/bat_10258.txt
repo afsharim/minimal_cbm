@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Daniel Neal
+Photo URL    : https://commons.wikimedia.org/wiki/File:Myotis_yumanensis_(Yuma_myotis)_(11362476624).jpg
+License      : Creative Commons (https://en.wikipedia.org/wiki/en:Creative_Commons) Attribution 2.0 Generic (//creativecommons.org/licenses/by/2.0/deed.en)
+Date         : 2013-04-06 19:32

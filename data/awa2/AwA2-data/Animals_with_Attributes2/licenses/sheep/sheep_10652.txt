@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bonzoWiltsUK
+Photo URL    : https://www.flickr.com/photos/johnherrett/15381711051/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Sep 24 11:24:10 GMT+0200 2013
+Upload Date  : Mon Sep 29 00:14:35 GMT+0200 2014
+Views        : 32
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep - North Wales
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

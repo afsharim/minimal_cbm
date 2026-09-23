@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : marsupium photography
+Photo URL    : https://www.flickr.com/photos/hagdorned/7035538785/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 1 09:37:27 GMT+0200 2012
+Upload Date  : Sun Apr 1 18:42:38 GMT+0200 2012
+Views        : 35
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Edinburgh HolyroodPark 

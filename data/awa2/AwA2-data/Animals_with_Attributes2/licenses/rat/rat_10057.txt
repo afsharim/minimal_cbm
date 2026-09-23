@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mattymatt
+Photo URL    : https://www.flickr.com/photos/mattymatt/3683296547/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 3 01:01:45 GMT+0200 2009
+Upload Date  : Fri Jul 3 10:04:11 GMT+0200 2009
+Geotag Info  : Latitude:37.774833, Longitude:-122.454500
+Views        : 67
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Double decker
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+rats 

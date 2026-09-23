@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Martin Pettitt
+Photo URL    : https://www.flickr.com/photos/mdpettitt/2318918537/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Mar 5 14:57:27 GMT+0100 2008
+Upload Date  : Sat Mar 8 23:04:21 GMT+0100 2008
+Geotag Info  : Latitude:52.244299, Longitude:0.718649
+Views        : 816
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Grey Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Grey Squirrel eating monkey nuts in Abbey Gardens Bury St Edmunds Suffolk
+
+
++--------+
+|  TAGS  |
++--------+
+Grey Squirrel abbey gardens burystedmunds suffolk nuts 

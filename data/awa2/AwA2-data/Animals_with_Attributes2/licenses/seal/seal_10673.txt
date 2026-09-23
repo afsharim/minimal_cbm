@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : rarvesen
+Photo URL    : https://www.flickr.com/photos/rarvesen/9615471803/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 29 13:52:49 GMT+0200 2013
+Upload Date  : Wed Aug 28 23:21:58 GMT+0200 2013
+Views        : 500
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+San Juan Island, Washington
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Harbor Seals. San Juan Island, Washington.
+
+
++--------+
+|  TAGS  |
++--------+
+"San Juan Island" Washington "Harbor Seal" 

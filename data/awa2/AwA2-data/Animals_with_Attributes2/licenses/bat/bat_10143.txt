@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : luis perez
+Photo URL    : https://www.flickr.com/photos/pe5pe/14499496202/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 23 15:02:33 GMT+0200 2014
+Upload Date  : Wed Jun 25 00:33:46 GMT+0200 2014
+Views        : 659
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Murciélago
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

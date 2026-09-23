@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Christopher Owen Jones
+Photo URL    : https://www.flickr.com/photos/chrisowenjones/2304707456/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 2 11:46:02 GMT+0100 2008
+Upload Date  : Sun Mar 2 14:58:20 GMT+0100 2008
+Geotag Info  : Latitude:53.131581, Longitude:-4.193429
+Views        : 840
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Sheeps
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Are they hungry? Have I interrupted their plans for world domination? Who knows.
+
+
++--------+
+|  TAGS  |
++--------+
+"North Wales" Sheep Wales 

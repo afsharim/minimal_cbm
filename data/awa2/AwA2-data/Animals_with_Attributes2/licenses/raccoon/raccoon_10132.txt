@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Michael Fraley
+Photo URL    : https://www.flickr.com/photos/mrfraley/10164296833/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Sep 23 12:51:31 GMT+0200 2013
+Upload Date  : Wed Oct 9 06:24:31 GMT+0200 2013
+Views        : 317
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+Lake Merced 76
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Olympus OM-1
+Zuiko 50mm/f1.8
+AgfaPhoto Vista Plus 200
+09/23/2013
+
+
++--------+
+|  TAGS  |
++--------+
+raccoons 

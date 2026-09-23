@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Joanna Bourne
+Photo URL    : https://www.flickr.com/photos/66992990@N00/2812772546/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 5 11:56:54 GMT+0200 2008
+Upload Date  : Sun Aug 31 02:58:27 GMT+0200 2008
+Views        : 534
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+himalayan cat
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+cat lying in the dirt, grass
+
+
++--------+
+|  TAGS  |
++--------+
+animal cat "persian cat" 

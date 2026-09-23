@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : evil nickname
+Photo URL    : https://www.flickr.com/photos/evilnickname/19868532408/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 23 11:27:12 GMT+0200 2015
+Upload Date  : Mon Jul 27 16:54:03 GMT+0200 2015
+Geotag Info  : Latitude:51.517561, Longitude:5.112475
+Views        : 155
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Beekse Bergen" zoo safaripark "The Netherlands" Hilvarenbeek Nederland dierentuin zebra camouflage 

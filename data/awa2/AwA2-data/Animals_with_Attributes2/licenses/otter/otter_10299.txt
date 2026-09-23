@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Alejandro Marino
+Photo URL    : https://www.flickr.com/photos/peasantdave/3670382884/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 28 16:02:53 GMT+0200 2009
+Upload Date  : Mon Jun 29 03:31:30 GMT+0200 2009
+Views        : 10
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

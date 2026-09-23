@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : U.S. Fish and Wildlife Service
+Photo URL    : https://commons.wikimedia.org/wiki/File:Male_walrus_out_of_water_lifted_head_proudly_showing_their_large_tusks.jpg
+License      : public domain
+Date         : Not given

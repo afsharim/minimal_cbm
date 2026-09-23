@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : nayukim
+Photo URL    : https://www.flickr.com/photos/nayukim/5703875831/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 7 16:54:08 GMT+0200 2011
+Upload Date  : Mon May 9 20:37:09 GMT+0200 2011
+Geotag Info  : Latitude:43.644763, Longitude:-79.466621
+Views        : 2,419
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel eating a peanut
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(25664)
+
+
++--------+
+|  TAGS  |
++--------+
+"High Park" squirrel eating 

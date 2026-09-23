@@ -1,0 +1,19 @@
++--------------------------------------+
+|       Pixabay Photo Metadata         |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MikeeV
+Photo URL    : https://pixabay.com/en/animal-dog-border-collie-beach-pet-975335/
+License      : CC0 Public Domain (https://creativecommons.org/publicdomain/zero/1.0/deed.en)
+Created      : Nov. 2, 2014
+Uploaded     : 9 months ago
+
++--------+
+|  TAGS  |
++--------+
+Animal, Dog, Border Collie, Beach, Pet, Dogs, Doggy

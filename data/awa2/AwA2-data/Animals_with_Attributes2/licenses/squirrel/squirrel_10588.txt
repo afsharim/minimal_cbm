@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : paul_p!
+Photo URL    : https://www.flickr.com/photos/paullfc/7427667042/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 23 13:37:11 GMT+0200 2012
+Upload Date  : Sat Jun 23 22:26:36 GMT+0200 2012
+Views        : 92
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+squirrel kit
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+squirrel kit
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

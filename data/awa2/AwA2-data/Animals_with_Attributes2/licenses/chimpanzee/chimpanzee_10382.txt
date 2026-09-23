@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : aegidian
+Photo URL    : https://www.flickr.com/photos/aegidian/16425108872/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 31 15:04:08 GMT+0100 2015
+Upload Date  : Mon Feb 2 10:33:04 GMT+0100 2015
+Views        : 344
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+chimpanzees
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Chester Zoo" Chester Zoo chimpanzees 

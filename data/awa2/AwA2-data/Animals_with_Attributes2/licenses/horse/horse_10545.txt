@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Yannick Carer
+Photo URL    : https://www.flickr.com/photos/yannickcarer/504418342/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 19 14:04:40 GMT+0200 2007
+Upload Date  : Sat May 19 16:18:26 GMT+0200 2007
+Geotag Info  : Latitude:42.073411, Longitude:12.651872
+Views        : 3,787
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horse 

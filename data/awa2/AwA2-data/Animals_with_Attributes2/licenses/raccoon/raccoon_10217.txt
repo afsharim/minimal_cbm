@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Joi
+Photo URL    : https://www.flickr.com/photos/joi/2691187805/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 22 06:29:06 GMT+0200 2008
+Upload Date  : Tue Jul 22 07:30:15 GMT+0200 2008
+Views        : 1,042
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Raccoon outside of my room
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Brainstorm 2008" Raccoon Seesmic places:locality=SFzmTjKbBZ2hMsw8 

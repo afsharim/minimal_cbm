@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : colleen_taugher
+Photo URL    : https://www.flickr.com/photos/70268842@N00/6761748005/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 15 02:06:13 GMT+0100 2012
+Upload Date  : Wed Jan 25 20:42:35 GMT+0100 2012
+Views        : 106
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+silverback
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

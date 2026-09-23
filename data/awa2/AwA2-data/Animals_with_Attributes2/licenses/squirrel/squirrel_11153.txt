@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : holisticmonkey
+Photo URL    : https://www.flickr.com/photos/jganderson/3391516202/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Mar 27 14:31:26 GMT+0100 2009
+Upload Date  : Sat Mar 28 04:10:54 GMT+0100 2009
+Views        : 26
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+untitled
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel 

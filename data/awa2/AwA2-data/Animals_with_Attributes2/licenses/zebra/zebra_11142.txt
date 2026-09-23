@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : oarranzli
+Photo URL    : https://www.flickr.com/photos/oarranzli/13971874579/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Sep 2 10:24:15 GMT+0200 2013
+Upload Date  : Sun May 11 11:46:26 GMT+0200 2014
+Views        : 89
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebras
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Chobe, Botswana
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

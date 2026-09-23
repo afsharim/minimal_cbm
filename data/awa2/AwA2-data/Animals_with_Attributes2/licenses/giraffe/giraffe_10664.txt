@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : john.anes
+Photo URL    : https://www.flickr.com/photos/johnanes/9179969658/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 30 14:15:26 GMT+0200 2013
+Upload Date  : Mon Jul 1 01:59:19 GMT+0200 2013
+Views        : 407
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+@ Boulder Creek Wild Animal Park just down the road from us. Nice zoo for only being 3 years old and in the middle of nowhere!
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

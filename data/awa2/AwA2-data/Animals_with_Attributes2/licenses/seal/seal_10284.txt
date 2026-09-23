@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Double Feature
+Photo URL    : https://www.flickr.com/photos/double_feature/1467807554/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 16 12:38:32 GMT+0200 2006
+Upload Date  : Mon Oct 1 12:48:54 GMT+0200 2007
+Views        : 392
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant Seals
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"elephan seal" animal beach california sea 

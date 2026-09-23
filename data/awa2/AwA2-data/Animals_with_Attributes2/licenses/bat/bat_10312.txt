@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Thomas Bresson
+Photo URL    : https://commons.wikimedia.org/wiki/File:ComputerHotline_-_Chiroptera_sp._(by)_(4).jpg
+License      : Creative Commons (https://en.wikipedia.org/wiki/en:Creative_Commons) Attribution 2.0 Generic (//creativecommons.org/licenses/by/2.0/deed.en)
+Date         : 2010-03-14 09:37

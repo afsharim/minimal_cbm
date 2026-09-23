@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Aok Palad
+Photo URL    : https://www.flickr.com/photos/aokpalad/5875309161/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 25 13:04:11 GMT+0200 2011
+Upload Date  : Mon Jun 27 06:01:50 GMT+0200 2011
+Views        : 10
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC04195AOK
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

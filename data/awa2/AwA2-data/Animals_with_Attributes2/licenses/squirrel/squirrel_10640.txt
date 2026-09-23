@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : pfig
+Photo URL    : https://www.flickr.com/photos/pfig/48783271/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 2 23:51:46 GMT+0200 2005
+Upload Date  : Mon Oct 3 00:51:46 GMT+0200 2005
+Views        : 190
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+London sightseeing "hyde park" nature animal squirrel pfig 

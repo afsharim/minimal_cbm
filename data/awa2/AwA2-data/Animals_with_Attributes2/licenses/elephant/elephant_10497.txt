@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : joshjanssen
+Photo URL    : https://www.flickr.com/photos/mediaflex/5220143249/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Nov 30 14:12:54 GMT+0100 2010
+Upload Date  : Tue Nov 30 12:31:48 GMT+0100 2010
+Views        : 69
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

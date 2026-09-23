@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Kevin Ryder
+Photo URL    : https://www.flickr.com/photos/labdog2010/7203355206/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue May 15 14:11:52 GMT+0200 2012
+Upload Date  : Tue May 15 16:46:19 GMT+0200 2012
+Geotag Info  : Latitude:50.899798, Longitude:-1.309947
+Views        : 17,639
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+black and white horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horse field 

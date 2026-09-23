@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Alikai
+Photo URL    : https://www.flickr.com/photos/alikai/1377899322/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 17 12:13:27 GMT+0200 2002
+Upload Date  : Fri Sep 14 08:21:37 GMT+0200 2007
+Views        : 2,847
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+A warmblood trotting
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horse 

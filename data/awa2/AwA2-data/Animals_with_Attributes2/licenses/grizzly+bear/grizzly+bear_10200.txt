@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Brian W. Schaller
+Photo URL    : https://commons.wikimedia.org/wiki/File:A053,_Katmai_National_Park,_Brooks_Falls,_Alaska,_USA,_bear_and_salmon,_2002.jpg
+License      : Creative Commons ‘Attribution-NonCommercial-ShareAlike 3.0’ (https://creativecommons.org/licenses/by-nc-sa/3.0/)
+Date         : 2002

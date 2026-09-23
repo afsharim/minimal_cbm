@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bdunnette
+Photo URL    : https://www.flickr.com/photos/bdunnette/2713116811/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 27 14:21:30 GMT+0200 2008
+Upload Date  : Tue Jul 29 15:32:57 GMT+0200 2008
+Geotag Info  : Latitude:44.981628, Longitude:-93.151187
+Views        : 1,199
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Grant's Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Who's buried in Grant's Zebra?
+
+
++--------+
+|  TAGS  |
++--------+
+"Como Zoo" "Grant's Zebra" "Equus quagga boehmi" zebra 

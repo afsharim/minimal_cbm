@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Drew Avery
+Photo URL    : https://www.flickr.com/photos/33590535@N06/3494629425/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri May 1 09:45:42 GMT+0200 2009
+Upload Date  : Sun May 3 00:20:03 GMT+0200 2009
+Geotag Info  : Latitude:40.045456, Longitude:-104.561519
+Views        : 1,495
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger {panthera tigris}
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Wild Animal Sanctuary Keenesburg Colorado
+
+They have Lions and Tigers and Bears! Oh My!
+
+
++--------+
+|  TAGS  |
++--------+
+"Keenesburg Colorado" taxonomy:common=tiger "taxonomy:binomial=panthera tigris" "colorado wildlife sanctuary" 

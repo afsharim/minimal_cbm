@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : feverblue
+Photo URL    : https://www.flickr.com/photos/feverblue/6320454443/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 30 18:50:00 GMT+0100 2011
+Upload Date  : Mon Nov 7 03:37:23 GMT+0100 2011
+Geotag Info  : Latitude:35.075671, Longitude:-106.660659
+Views        : 1,721
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Cat Hugs Dog
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+cat costume chihuahua hoodie katherine 

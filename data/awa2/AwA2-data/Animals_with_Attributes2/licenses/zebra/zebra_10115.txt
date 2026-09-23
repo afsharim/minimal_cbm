@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : asw909
+Photo URL    : https://www.flickr.com/photos/asw909/3915426478/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 30 14:56:39 GMT+0200 2008
+Upload Date  : Sun Sep 13 12:57:33 GMT+0200 2009
+Geotag Info  : Latitude:53.227001, Longitude:-2.886700
+Views        : 337
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Chester Zoo: Grevy's Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Chester Zoo Animals "Grevy's Zebra" 

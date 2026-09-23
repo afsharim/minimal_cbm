@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ahisgett
+Photo URL    : https://www.flickr.com/photos/hisgett/5863147572/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 22 16:55:35 GMT+0200 2011
+Upload Date  : Thu Jun 23 13:17:37 GMT+0200 2011
+Geotag Info  : Latitude:52.207067, Longitude:-1.621695
+Views        : 998
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Fallow Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Charlecote Park Fallow Deer 

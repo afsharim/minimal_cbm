@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : gus_the_mouse
+Photo URL    : https://www.flickr.com/photos/64609422@N04/5881821807/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 3 14:51:49 GMT+0200 2011
+Upload Date  : Tue Jun 28 22:49:08 GMT+0200 2011
+Geotag Info  : Latitude:47.666485, Longitude:-122.351732
+Views        : 279
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Brown Bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Eating Something.
+
+
++--------+
+|  TAGS  |
++--------+
+"Woodland Park Zoo" Zoo Animals digital Color Mammal 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : serzhile
+Photo URL    : https://www.flickr.com/photos/serzhile/8727597919/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 4 13:38:50 GMT+0200 2013
+Upload Date  : Sat May 11 14:22:56 GMT+0200 2013
+Geotag Info  : Latitude:50.117000, Longitude:14.410328
+Views        : 806
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hippo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Hippo in Prague Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+Hippo zoo "Prague zoo" animal wildlife 

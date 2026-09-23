@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : probabilistic
+Photo URL    : https://www.flickr.com/photos/probabilistic/4531237522/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 18 05:05:26 GMT+0200 2010
+Upload Date  : Sun Apr 18 15:44:07 GMT+0200 2010
+Geotag Info  : Latitude:48.097056, Longitude:11.553325
+Views        : 401
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_1919
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+New zoo addition  :-)
+Mom is Bagira and baby (male) is Kajolu.
+
+
++--------+
+|  TAGS  |
++--------+
+munich "Tierpark Hellabrunn" gorilla 

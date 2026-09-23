@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Cédric Buffler
+Photo URL    : https://www.flickr.com/photos/cedriana/6401861317/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 23 17:03:37 GMT+0200 2011
+Upload Date  : Fri Nov 25 23:13:48 GMT+0100 2011
+Geotag Info  : Latitude:46.173641, Longitude:6.020999
+Views        : 89
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horses
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+70-200 Allier Automne Campagne Country Daylight France Suisse animals fauna jour "medium isos" nature Odd 

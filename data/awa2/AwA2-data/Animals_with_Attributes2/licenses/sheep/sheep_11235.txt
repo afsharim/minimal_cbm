@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Chris Fleming
+Photo URL    : https://www.flickr.com/photos/chrisfleming/4385194951/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 20 12:20:27 GMT+0100 2010
+Upload Date  : Wed Feb 24 22:48:04 GMT+0100 2010
+Geotag Info  : Latitude:53.267477, Longitude:-1.817823
+Views        : 377
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheeps
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+England "United Kingdom" sheep wormhill "peak district" snow 

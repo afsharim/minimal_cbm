@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : felicitydawn
+Photo URL    : https://www.flickr.com/photos/68782989@N03/7647950154/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 24 21:10:26 GMT+0200 2012
+Upload Date  : Thu Jul 26 05:46:32 GMT+0200 2012
+Geotag Info  : Latitude:45.012389, Longitude:-74.771490
+Views        : 181
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+RACCOON
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A cute little fellow with only 3 legs who is an unwelcome visitor on our roof where he is tearing off shingles.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

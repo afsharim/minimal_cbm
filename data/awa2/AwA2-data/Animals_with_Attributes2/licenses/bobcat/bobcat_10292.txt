@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Just chaos
+Photo URL    : https://www.flickr.com/photos/7326810@N08/4676444401/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Mar 30 08:41:17 GMT+0200 2010
+Upload Date  : Mon Jun 7 02:41:25 GMT+0200 2010
+Views        : 82
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bobcat
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

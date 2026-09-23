@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : psd
+Photo URL    : https://www.flickr.com/photos/psd/3434615/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 16 03:32:46 GMT+0100 2005
+Upload Date  : Sun Jan 16 22:41:16 GMT+0100 2005
+Geotag Info  : Latitude:-37.784762, Longitude:144.952095
+Views        : 334
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Australia Melbourne giraffe zoo animals "Giraffa camelopardalis" wlny:photo=i23s wlny:species=s1n wlny:trip=t4g wlny:place=p3g wlny:geotagged=1 

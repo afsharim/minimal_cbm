@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : flightlog
+Photo URL    : https://www.flickr.com/photos/flightlog/5956517935/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 19 16:02:26 GMT+0200 2011
+Upload Date  : Wed Jul 20 07:42:15 GMT+0200 2011
+Geotag Info  : Latitude:48.697727, Longitude:-123.261756
+Views        : 292
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Orcas
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Orca "whale watching" 

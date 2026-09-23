@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : James Temple
+Photo URL    : https://www.flickr.com/photos/jamestemple/312324569/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Dec 2 22:52:53 GMT+0100 2006
+Upload Date  : Sat Dec 2 23:52:53 GMT+0100 2006
+Geotag Info  : Latitude:-24.661994, Longitude:31.486816
+Views        : 315
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Sabi Sands" "South Africa" Wildlife Zebra Reflections 

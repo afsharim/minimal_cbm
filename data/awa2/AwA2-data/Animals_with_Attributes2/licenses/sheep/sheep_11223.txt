@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Pitel
+Photo URL    : https://www.flickr.com/photos/pitel/452162527/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Apr 9 10:55:05 GMT+0200 2007
+Upload Date  : Mon Apr 9 12:22:12 GMT+0200 2007
+Geotag Info  : Latitude:49.269204, Longitude:15.702381
+Views        : 423
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheeps
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+chaloupky sheeps animals 

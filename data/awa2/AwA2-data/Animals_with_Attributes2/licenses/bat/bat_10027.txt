@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : 88rabbit
+Photo URL    : https://www.flickr.com/photos/88rabbit/3922749128/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Sep 15 10:20:39 GMT+0200 2009
+Upload Date  : Tue Sep 15 11:58:41 GMT+0200 2009
+Views        : 29
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bat
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

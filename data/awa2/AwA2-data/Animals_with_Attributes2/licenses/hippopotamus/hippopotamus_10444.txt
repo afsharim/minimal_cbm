@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Iain Farrell
+Photo URL    : https://www.flickr.com/photos/iain/8132763094/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 27 12:28:58 GMT+0200 2012
+Upload Date  : Sun Oct 28 23:27:22 GMT+0100 2012
+Geotag Info  : Latitude:50.822902, Longitude:-1.453120
+Views        : 143
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hippos in the grass
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+statue hippo 

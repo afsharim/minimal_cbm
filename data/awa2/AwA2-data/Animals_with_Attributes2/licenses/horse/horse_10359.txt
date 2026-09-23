@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Paul Kehrer
+Photo URL    : https://www.flickr.com/photos/paulkehrer/3652627771/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 21 16:16:34 GMT+0200 2009
+Upload Date  : Tue Jun 23 08:23:17 GMT+0200 2009
+Views        : 3,481
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Full Stretch
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Racing at Arlington Park
+
+
++--------+
+|  TAGS  |
++--------+
+"horse racing" 

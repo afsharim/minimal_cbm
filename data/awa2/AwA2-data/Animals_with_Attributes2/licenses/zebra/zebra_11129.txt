@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : DanWagner1
+Photo URL    : https://www.flickr.com/photos/96895052@N04/8937160686/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 25 03:46:47 GMT+0200 2009
+Upload Date  : Mon Jun 3 16:41:51 GMT+0200 2013
+Views        : 3,654
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebras
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Zebras in the wild. Serengetti National Park.
+
+
++--------+
+|  TAGS  |
++--------+
+africa serengetti tanzania zebra 

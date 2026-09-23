@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : TA_Stokes
+Photo URL    : https://www.flickr.com/photos/64221380@N07/8658716558/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 13 17:16:20 GMT+0200 2013
+Upload Date  : Wed Apr 17 19:26:32 GMT+0200 2013
+Views        : 54
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horses&Cowboys23
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

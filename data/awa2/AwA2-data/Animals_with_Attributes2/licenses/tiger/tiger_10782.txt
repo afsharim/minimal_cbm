@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : proper dave
+Photo URL    : https://www.flickr.com/photos/d-l-j-h/17065617488/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 5 00:18:31 GMT+0200 2015
+Upload Date  : Fri Apr 24 12:18:35 GMT+0200 2015
+Geotag Info  : Latitude:-37.784335, Longitude:144.951949
+Views        : 60
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Selection of creatures from a trip to the Zoo.
+
+
++--------+
+|  TAGS  |
++--------+
+tiger "Panthera tigris" zoo animals animal melbourne 

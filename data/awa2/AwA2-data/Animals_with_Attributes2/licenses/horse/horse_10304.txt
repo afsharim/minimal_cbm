@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : CoreForce
+Photo URL    : https://www.flickr.com/photos/coreforce/1522969924/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Oct 9 10:30:05 GMT+0200 2007
+Upload Date  : Tue Oct 9 10:30:05 GMT+0200 2007
+Geotag Info  : Latitude:44.657420, Longitude:8.273048
+Views        : 82
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Ein Pferd
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horse 

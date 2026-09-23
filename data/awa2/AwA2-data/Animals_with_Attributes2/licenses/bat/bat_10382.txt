@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Matti Mero
+Photo URL    : https://commons.wikimedia.org/wiki/File:Tadarida_brasiliensis_-_Bahamas_-_Long_Island_(sic)_-_Cartwright_Cave_-_March_2006_-_2.jpg
+License      : public domain
+Date         : 2006-03

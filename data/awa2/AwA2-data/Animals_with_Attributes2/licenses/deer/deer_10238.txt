@@ -1,0 +1,38 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : BLM Nevada
+Photo URL    : https://www.flickr.com/photos/blmnevada/19357799393/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 3 10:26:18 GMT+0200 2013
+Upload Date  : Fri Jul 24 23:28:01 GMT+0200 2015
+Views        : 444
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer in Fallon, NV
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Image:  Deer in Fallon NV
+Location:  Fallon NV
+BLM District:  Carson City District Office
+Photographer:  Beverly Orozco
+PIC: 4.3 MB 2013
+
+
++--------+
+|  TAGS  |
++--------+
+deer 

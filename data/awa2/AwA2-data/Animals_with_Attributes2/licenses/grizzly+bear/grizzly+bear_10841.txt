@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Soldatnytt
+Photo URL    : https://commons.wikimedia.org/wiki/File:Ursus_arctos_-_Norway.jpg
+License      : Creative Commons (https://en.wikipedia.org/wiki/en:Creative_Commons) Attribution 2.0 Generic (//creativecommons.org/licenses/by/2.0/deed.en)
+Date         : 2010-06-02 20:18:14

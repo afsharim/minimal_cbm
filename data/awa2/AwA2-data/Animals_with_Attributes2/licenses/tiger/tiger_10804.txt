@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : EuroMagic
+Photo URL    : https://www.flickr.com/photos/euromagic/318774566/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 10 12:23:19 GMT+0100 2006
+Upload Date  : Sun Dec 10 19:54:01 GMT+0100 2006
+Views        : 3,715
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tigers 3
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+I love tigers.
+
+
++--------+
+|  TAGS  |
++--------+
+zoo animals tiger copenhagen denmark 

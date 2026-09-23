@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : CoreForce
+Photo URL    : https://www.flickr.com/photos/coreforce/2612259907/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 21 12:48:34 GMT+0200 2008
+Upload Date  : Thu Jun 26 11:31:49 GMT+0200 2008
+Geotag Info  : Latitude:46.227798, Longitude:8.570516
+Views        : 132
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Panther-Kuh
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+SchweizTour2008 "Valle Onsernone" www.streetka.org 

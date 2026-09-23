@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Bosc d'Anjou
+Photo URL    : https://www.flickr.com/photos/boscdanjou/5892562931/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 1 00:00:00 GMT+0200 2003
+Upload Date  : Sat Jul 2 06:53:13 GMT+0200 2011
+Geotag Info  : Latitude:61.236466, Longitude:7.037944
+Views        : 559
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+All we like sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Although Handel's librettist certainly meant &quot;all we, like sheep&quot; I like this version better.
+
+
++--------+
+|  TAGS  |
++--------+
+Norway sheep cute lamb h&r 

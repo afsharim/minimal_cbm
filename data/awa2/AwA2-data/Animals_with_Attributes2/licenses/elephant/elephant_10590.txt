@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : GregGilbert1
+Photo URL    : https://www.flickr.com/photos/8063840@N02/8559103444/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Mar 14 23:39:04 GMT+0100 2013
+Upload Date  : Fri Mar 15 04:41:03 GMT+0100 2013
+Views        : 115
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

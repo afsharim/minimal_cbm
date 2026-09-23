@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : andrusdevelopment
+Photo URL    : https://www.flickr.com/photos/wandrus/3825531696/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 15 11:18:41 GMT+0200 2009
+Upload Date  : Sun Aug 16 07:08:06 GMT+0200 2009
+Geotag Info  : Latitude:39.750720, Longitude:-104.946041
+Views        : 600
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Grizzly Bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Looks so bored and sad.
+
+
++--------+
+|  TAGS  |
++--------+
+denver zoo colorado Grizzly Bear brown Ursus arctos horribilis silvertip bored sad 

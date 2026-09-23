@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : qnr
+Photo URL    : https://www.flickr.com/photos/qnr/3014509958/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 8 16:23:21 GMT+0100 2008
+Upload Date  : Sun Nov 9 02:27:10 GMT+0100 2008
+Views        : 46
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+What an expression
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Panasonic DMC-FZ28" "Corpus Christi Texas" "200.000.000 stage lovers" "10 million photos" 

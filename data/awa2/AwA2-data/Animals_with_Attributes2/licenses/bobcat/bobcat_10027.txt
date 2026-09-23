@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/7299803988/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 7 15:27:19 GMT+0200 2012
+Upload Date  : Wed May 30 06:41:37 GMT+0200 2012
+Geotag Info  : Latitude:49.244640, Longitude:6.137795
+Views        : 4,012
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Lying lynx in a cool position
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Crouching lynx of the zoo of Amnéville. The vegetation looks cool!
+
+
++--------+
+|  TAGS  |
++--------+
+lynx wild cat crouching lying bush tree beautiful amnéville zoo france nikon d700 

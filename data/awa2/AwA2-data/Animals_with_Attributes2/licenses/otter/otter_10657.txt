@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jkbrooks85
+Photo URL    : https://www.flickr.com/photos/jkbrooks85/11215232584/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Nov 25 15:41:27 GMT+0100 2013
+Upload Date  : Thu Dec 5 04:04:02 GMT+0100 2013
+Views        : 498
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sea otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A sea otter floats on its back Monday, Nov. 25, 2013 in St. Paul Harbor.
+(James Brooks photo)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

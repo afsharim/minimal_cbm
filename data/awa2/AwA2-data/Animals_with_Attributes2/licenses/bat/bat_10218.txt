@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Marvin Moriarty/USFWS
+Photo URL    : https://commons.wikimedia.org/wiki/File:Little_Brown_Bat_with_White_Nose_Syndrome_(Greeley_Mine,_cropped).jpg
+License      : public domain
+Date         : 2009-03-26

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : echoforsberg
+Photo URL    : https://www.flickr.com/photos/echoforsberg/2414926335/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 15 15:20:53 GMT+0200 2007
+Upload Date  : Tue Apr 15 07:36:11 GMT+0200 2008
+Geotag Info  : Latitude:61.187744, Longitude:-149.841316
+Views        : 43
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC06354
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+moose Alaskan backyard 

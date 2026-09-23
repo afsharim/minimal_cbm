@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mliu92
+Photo URL    : https://www.flickr.com/photos/mliu92/3446486420/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Apr 15 14:22:16 GMT+0200 2009
+Upload Date  : Thu Apr 16 03:50:13 GMT+0200 2009
+Geotag Info  : Latitude:32.737057, Longitude:-117.149105
+Views        : 152
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Pompadour Pose 1920
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This was the youngest (at least the smallest) giraffe out today.
+
+
++--------+
+|  TAGS  |
++--------+
+"san diego" zoo giraffe 

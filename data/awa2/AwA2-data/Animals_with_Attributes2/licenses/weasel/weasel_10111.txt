@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Paco Gómez
+Photo URL    : https://www.flickr.com/photos/saganta/4311661078/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 14 10:12:44 GMT+0200 2009
+Upload Date  : Thu Jan 28 15:22:56 GMT+0100 2010
+Geotag Info  : Latitude:39.998488, Longitude:-0.366303
+Views        : 767
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Mustela lutrerola
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Ayódar Castellon "Comunidad Valenciana" España Mamíferos "Mustela lutreola" Paises "Reino animal" Retoques Visón Mustela Vison americano) "taxonomy:binomial=Mustela vison" 

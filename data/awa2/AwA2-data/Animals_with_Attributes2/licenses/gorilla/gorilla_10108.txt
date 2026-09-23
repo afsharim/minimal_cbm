@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mrwynd
+Photo URL    : https://www.flickr.com/photos/mrwynd/8937830859/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 2 12:15:31 GMT+0200 2013
+Upload Date  : Mon Jun 3 18:55:27 GMT+0200 2013
+Views        : 36
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cheyenne Zoo 2013
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Zoo one 

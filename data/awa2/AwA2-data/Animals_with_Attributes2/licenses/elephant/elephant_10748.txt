@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Kristel Jeuring
+Photo URL    : https://www.flickr.com/photos/kristeljeuring/3701966540/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 8 19:38:12 GMT+0200 2009
+Upload Date  : Wed Jul 8 19:38:12 GMT+0200 2009
+Views        : 21
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephants
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

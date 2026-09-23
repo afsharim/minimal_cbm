@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jäger & Sammler
+Photo URL    : https://www.flickr.com/photos/66235205@N06/16285766055/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jan 15 04:49:27 GMT+0100 2015
+Upload Date  : Thu Jan 15 13:50:46 GMT+0100 2015
+Views        : 312
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+hungry squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+hungriges Eichhörnchen
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

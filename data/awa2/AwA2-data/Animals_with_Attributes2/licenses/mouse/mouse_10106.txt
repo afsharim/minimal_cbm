@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : David Surtees
+Photo URL    : https://www.flickr.com/photos/dpsurtees/4809344297/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 11 19:35:37 GMT+0200 2010
+Upload Date  : Mon Jul 19 22:05:26 GMT+0200 2010
+Geotag Info  : Latitude:45.697978, Longitude:0.539725
+Views        : 61
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Mouse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

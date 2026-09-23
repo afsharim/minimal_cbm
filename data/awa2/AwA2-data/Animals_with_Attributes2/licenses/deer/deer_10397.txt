@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Joe Shlabotnik
+Photo URL    : https://www.flickr.com/photos/joeshlabotnik/2988184224/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 5 00:00:00 GMT+0200 1994
+Upload Date  : Fri Oct 31 01:54:30 GMT+0100 2008
+Views        : 2,032
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A deer we encountered in Shenandoah National Park.
+
+
++--------+
+|  TAGS  |
++--------+
+deer doe Shenandoah 1994 "July 1994" 

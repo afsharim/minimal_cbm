@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : gary graves
+Photo URL    : https://www.flickr.com/photos/ggraves/8621170742/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 17 21:06:31 GMT+0200 2008
+Upload Date  : Fri Apr 5 04:42:44 GMT+0200 2013
+Views        : 32,745
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Arizona Horses
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horse 

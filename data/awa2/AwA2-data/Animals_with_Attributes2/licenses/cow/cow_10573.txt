@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : nicer than air
+Photo URL    : https://www.flickr.com/photos/fotorose/3784227091/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 3 05:35:41 GMT+0200 2009
+Upload Date  : Mon Aug 3 14:35:41 GMT+0200 2009
+Views        : 43
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Cows
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Calstock, Cornwall
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

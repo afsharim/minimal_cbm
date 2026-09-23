@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Svenska Mässan
+Photo URL    : https://commons.wikimedia.org/wiki/File:COLLIE,_KORTH%C3%85RIG,_T%C3%B6rnskogens_Noa_Noa_(23662651134).jpg
+License      : Creative Commons (https://en.wikipedia.org/wiki/en:Creative_Commons) Attribution 2.0 Generic (//creativecommons.org/licenses/by/2.0/deed.en)
+Date         : 2016-01-09 15:22

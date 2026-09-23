@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tom Ballard Photography
+Photo URL    : https://www.flickr.com/photos/10908506@N03/23525944194/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 22 08:29:36 GMT+0100 2015
+Upload Date  : Sun Jan 3 21:49:51 GMT+0100 2016
+Views        : 6
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+D72_2392
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

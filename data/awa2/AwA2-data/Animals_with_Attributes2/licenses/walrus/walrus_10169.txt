@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : NOAA photo library
+Photo URL    : https://commons.wikimedia.org/wiki/File:Noaa-walrus30.jpg
+License      : public domain
+Date         : 

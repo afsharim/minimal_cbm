@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sk8geek
+Photo URL    : https://www.flickr.com/photos/sk8geek/4879981759/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 8 10:44:58 GMT+0200 2010
+Upload Date  : Tue Aug 10 23:55:20 GMT+0200 2010
+Geotag Info  : Latitude:53.857386, Longitude:-1.890635
+Views        : 323
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elle
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horse Elle 

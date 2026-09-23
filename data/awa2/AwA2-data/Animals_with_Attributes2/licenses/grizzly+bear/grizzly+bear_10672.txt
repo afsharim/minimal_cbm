@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : magnus.johansson10
+Photo URL    : https://www.flickr.com/photos/120374925@N06/14055543755/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Apr 28 16:46:57 GMT+0200 2014
+Upload Date  : Mon Apr 28 23:48:37 GMT+0200 2014
+Geotag Info  : Latitude:59.328758, Longitude:18.107602
+Views        : 991
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Swedish Brown Bear at Skansen
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+birds animals sweden stockholm sunsets bear 

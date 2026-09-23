@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : YIM Hafiz
+Photo URL    : https://www.flickr.com/photos/yimhafiz/3672460524/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 21 04:02:41 GMT+0200 2009
+Upload Date  : Mon Jun 29 18:38:18 GMT+0200 2009
+Views        : 209
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Killer whale at Sea World, San Diego, USA
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+<b>#387</b>
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

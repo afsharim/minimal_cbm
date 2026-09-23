@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Accretion Disc
+Photo URL    : https://www.flickr.com/photos/befuddledsenses/18789289210/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 19 19:35:09 GMT+0200 2015
+Upload Date  : Sat Jun 20 08:39:58 GMT+0200 2015
+Geotag Info  : Latitude:61.152928, Longitude:-149.956857
+Views        : 151
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Sand Lake, west Anchorage
+
+
++--------+
+|  TAGS  |
++--------+
+"sand lake" anchorage alaska otter 

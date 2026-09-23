@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ben.gallagher
+Photo URL    : https://www.flickr.com/photos/bengallagher/3084303715/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Dec 21 14:59:34 GMT+0100 2007
+Upload Date  : Fri Dec 5 17:44:55 GMT+0100 2008
+Views        : 136
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Christmas_01
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+sheep sunset field 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ste_Jones
+Photo URL    : https://www.flickr.com/photos/stj_jones/5672010329/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Apr 29 15:11:13 GMT+0200 2011
+Upload Date  : Sat Apr 30 15:59:48 GMT+0200 2011
+Geotag Info  : Latitude:53.380154, Longitude:-2.387809
+Views        : 58
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Sitting Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Dunham Massey Grounds 29/04/11
+
+
++--------+
+|  TAGS  |
++--------+
+wildlife 

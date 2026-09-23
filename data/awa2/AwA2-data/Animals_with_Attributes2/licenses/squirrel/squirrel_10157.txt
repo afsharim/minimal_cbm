@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : SomeRandomNerd
+Photo URL    : https://www.flickr.com/photos/scottthompson/349586270/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jan 1 13:01:22 GMT+0100 2007
+Upload Date  : Sun Jan 7 23:47:32 GMT+0100 2007
+Geotag Info  : Latitude:51.581469, Longitude:-0.143465
+Views        : 114
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_1011
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A squirrel, looking slightly disgruntled, as he had just dropped his nut.
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel highgate "highgate woods" 

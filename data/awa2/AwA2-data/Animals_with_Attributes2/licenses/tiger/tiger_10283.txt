@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : brainstorm1984
+Photo URL    : https://www.flickr.com/photos/brainstorm1984/8221245151/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Aug 10 12:23:49 GMT+0200 2011
+Upload Date  : Mon Nov 26 22:46:47 GMT+0100 2012
+Geotag Info  : Latitude:50.961879, Longitude:6.977970
+Views        : 662
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger / Tigers
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Tiger im Kölner Zoo.
+
+Tigers in the &quot;Kölner Zoo&quot;.
+
+
++--------+
+|  TAGS  |
++--------+
+"Kölner Zoo" Tigers Zoo Tiger "Panthera tigris" "Wild Feline Photography" FlickrBigCats "Zoo Köln" 

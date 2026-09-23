@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : phrawr
+Photo URL    : https://www.flickr.com/photos/phrawr/10661287644/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 3 15:09:39 GMT+0100 2013
+Upload Date  : Mon Nov 4 03:39:35 GMT+0100 2013
+Views        : 91
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

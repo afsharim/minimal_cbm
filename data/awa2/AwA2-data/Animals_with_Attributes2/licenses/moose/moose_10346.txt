@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : -JvL-
+Photo URL    : https://www.flickr.com/photos/-jvl-/3935884170/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 16 16:46:11 GMT+0200 2009
+Upload Date  : Sun Sep 20 02:33:50 GMT+0200 2009
+Views        : 3,314
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Moose
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Two moose sunbathing in the Nature Park Lelystad
+
+
++--------+
+|  TAGS  |
++--------+
+"Nature Park Lelystad" moose grass sunbathing 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Rambo_87
+Photo URL    : https://www.flickr.com/photos/random_rabbit/9030398591/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 13 12:01:33 GMT+0200 2013
+Upload Date  : Thu Jun 13 11:02:29 GMT+0200 2013
+Views        : 698
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+pic0010
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horse finnhorse 

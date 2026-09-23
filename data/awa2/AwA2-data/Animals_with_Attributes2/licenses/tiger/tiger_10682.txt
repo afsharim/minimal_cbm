@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : DreamSailors
+Photo URL    : https://www.flickr.com/photos/dreamsailors/6909831692/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Apr 3 13:12:42 GMT+0200 2012
+Upload Date  : Sun Apr 8 08:43:15 GMT+0200 2012
+Geotag Info  : Latitude:37.750154, Longitude:-122.148656
+Views        : 3,180
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Tiger
+
+
++--------+
+|  TAGS  |
++--------+
+Tiger 

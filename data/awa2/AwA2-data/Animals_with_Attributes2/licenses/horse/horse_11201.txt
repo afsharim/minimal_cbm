@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Claude Robillard
+Photo URL    : https://www.flickr.com/photos/clauderobillard/6604907327/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Dec 31 00:53:31 GMT+0100 2011
+Upload Date  : Sat Dec 31 06:53:31 GMT+0100 2011
+Geotag Info  : Latitude:46.348886, Longitude:-72.126159
+Views        : 586
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Mère et enfant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Une pouliche et son rejeton, encore très liés.
+
+
++--------+
+|  TAGS  |
++--------+
+cheval horse poulain foal 

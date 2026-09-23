@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : michaelk.sutton
+Photo URL    : https://www.flickr.com/photos/kellysutton/2140564478/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Dec 25 15:39:02 GMT+0100 2007
+Upload Date  : Thu Dec 27 06:49:13 GMT+0100 2007
+Geotag Info  : Latitude:48.600054, Longitude:-118.020286
+Views        : 2,620
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer eating apple
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Better than hat on horse
+
+
++--------+
+|  TAGS  |
++--------+
+deer apple christmas snow eating doe 

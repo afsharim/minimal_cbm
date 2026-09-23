@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : wburris
+Photo URL    : https://www.flickr.com/photos/billburris/3555333906/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri May 22 15:18:33 GMT+0200 2009
+Upload Date  : Sat May 23 00:03:49 GMT+0200 2009
+Views        : 32
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Edmonton Alberta Canada Squirrel 

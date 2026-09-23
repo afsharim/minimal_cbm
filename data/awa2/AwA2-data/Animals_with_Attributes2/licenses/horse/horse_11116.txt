@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Paolo Camera
+Photo URL    : https://www.flickr.com/photos/vegaseddie/8054927083/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Oct 4 13:22:22 GMT+0200 2012
+Upload Date  : Thu Oct 4 23:53:06 GMT+0200 2012
+Views        : 27,637
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Jockey & Horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Horse and jockey leading race
+
+
++--------+
+|  TAGS  |
++--------+
+"Jockey and Horse" "horse race" 

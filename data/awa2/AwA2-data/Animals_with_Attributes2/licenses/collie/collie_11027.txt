@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jean-Louis Petermann
+Photo URL    : https://commons.wikimedia.org/wiki/File:Border_NB_et_Merle.JPG
+License      : public domain
+Date         : 6/8/2006

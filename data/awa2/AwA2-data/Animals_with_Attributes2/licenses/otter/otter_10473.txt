@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Luke O'Rourke
+Photo URL    : https://www.flickr.com/photos/lukeorourke/5440185506/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 26 13:12:14 GMT+0100 2010
+Upload Date  : Sun Feb 13 01:08:29 GMT+0100 2011
+Views        : 145
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Otters at Mogo Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

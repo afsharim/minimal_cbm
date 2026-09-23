@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : USFWS Headquarters
+Photo URL    : https://www.flickr.com/photos/usfwshq/6875538307/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 6 12:29:22 GMT+0100 2010
+Upload Date  : Tue Feb 14 15:05:57 GMT+0100 2012
+Views        : 6,999
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Indiana bats
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+healthy Indiana bats (Myotis sodalis)
+
+photo credit: Ann Froschauer/USFWS
+
+
++--------+
+|  TAGS  |
++--------+
+USFWS FWS "Indiana bat" bat bats 

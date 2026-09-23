@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : peterrieke
+Photo URL    : https://www.flickr.com/photos/peterrieke/1047329318/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 20 00:15:56 GMT+0200 2007
+Upload Date  : Wed Aug 8 06:54:42 GMT+0200 2007
+Views        : 9
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+What are you looking at?
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horses 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Eric Kilby
+Photo URL    : https://www.flickr.com/photos/ekilby/13882826655/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 6 14:06:40 GMT+0200 2014
+Upload Date  : Wed Apr 16 01:40:49 GMT+0200 2014
+Geotag Info  : Latitude:42.462697, Longitude:-71.093636
+Views        : 463
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Otter Digging
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+stone zoo massachusetts river otter 

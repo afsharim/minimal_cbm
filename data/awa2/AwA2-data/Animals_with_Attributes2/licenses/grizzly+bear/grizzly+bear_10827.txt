@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jonathan Chase
+Photo URL    : https://commons.wikimedia.org/wiki/File:Grizzly_bear_with_salmon_-_journal.pbio.1001304.g001.png
+License      : Creative Commons (https://en.wikipedia.org/wiki/en:Creative_Commons) Attribution 2.5 Generic (//creativecommons.org/licenses/by/2.5/deed.en)
+Date         : 2013-01-10 16:04:21

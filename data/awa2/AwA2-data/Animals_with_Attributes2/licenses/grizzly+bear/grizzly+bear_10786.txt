@@ -1,0 +1,19 @@
++--------------------------------------+
+|       Pixabay Photo Metadata         |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : brigachtal
+Photo URL    : https://pixabay.com/en/grizzly-animals-bear-alaska-nature-73062/
+License      : CC0 Public Domain (https://creativecommons.org/publicdomain/zero/1.0/deed.en)
+Created      : July 11, 2011
+Uploaded     : Dec. 30, 2012
+
++--------+
+|  TAGS  |
++--------+
+Grizzly, Animals, Bear, Alaska, Nature

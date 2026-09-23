@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : AlissaSarah
+Photo URL    : https://www.flickr.com/photos/amesibov/6190560291/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 25 14:28:04 GMT+0200 2011
+Upload Date  : Wed Sep 28 05:11:46 GMT+0200 2011
+Geotag Info  : Latitude:39.975120, Longitude:-75.195167
+Views        : 35
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC00126
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

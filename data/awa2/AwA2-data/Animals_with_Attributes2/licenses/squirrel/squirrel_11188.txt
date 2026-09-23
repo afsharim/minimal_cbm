@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : edbrambley
+Photo URL    : https://www.flickr.com/photos/edbrambley/3131121663/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 20 22:06:57 GMT+0200 2008
+Upload Date  : Tue Dec 23 22:53:11 GMT+0100 2008
+Geotag Info  : Latitude:51.502071, Longitude:-0.134496
+Views        : 1,731
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+With half the nut gone, there's still half the nut to go
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A (very tame) squirrel in St James' Park, London.  Taken with 70-300 lens while lying flat on the ground, much to the amusement of passing tourists :-)
+
+
++--------+
+|  TAGS  |
++--------+
+raw squirrel nut 

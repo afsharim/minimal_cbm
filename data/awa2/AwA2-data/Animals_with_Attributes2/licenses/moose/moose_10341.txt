@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Dave Bezaire
+Photo URL    : https://www.flickr.com/photos/dlbezaire/3773672929/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 22 13:48:58 GMT+0200 2009
+Upload Date  : Fri Jul 31 08:02:38 GMT+0200 2009
+Views        : 141
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Moose
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Soldotna Alaska "United States of America" 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ChuckThePhotographer
+Photo URL    : https://www.flickr.com/photos/chuckthephotographer/3988618819/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 4 14:59:53 GMT+0200 2009
+Upload Date  : Wed Oct 7 06:03:26 GMT+0200 2009
+Views        : 804
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Sea Otter (Enhydra lutris) Morro Bay
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+otter "sea otter" "enhydra lutris" "morro bay" 

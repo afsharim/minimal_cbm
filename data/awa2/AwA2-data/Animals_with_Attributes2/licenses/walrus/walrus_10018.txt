@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : NOAA Photo Library
+Photo URL    : https://www.flickr.com/photos/noaaphotolib/5030194139/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Sep 27 14:49:33 GMT+0200 2010
+Upload Date  : Mon Sep 27 20:53:56 GMT+0200 2010
+Views        : 1,095
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+anim0054
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A walrus on the ice in the Arctic Ocean north of western Russia. Odobenus rosmarus rosmarus - the Atlantic subspecies of walrus. Arctic Ocean.
+
+Photographer: Mike Dunn, NC State Museum of Natural Sciences.
+
+
++--------+
+|  TAGS  |
++--------+
+Walrus NOAA 

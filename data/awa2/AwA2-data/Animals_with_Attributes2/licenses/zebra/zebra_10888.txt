@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jay-jerry
+Photo URL    : https://www.flickr.com/photos/jayjerry/7684686306/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 30 13:11:41 GMT+0200 2012
+Upload Date  : Tue Jul 31 17:26:32 GMT+0200 2012
+Geotag Info  : Latitude:51.862711, Longitude:0.834789
+Views        : 261
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+DSC-HX100V zebra colchester zoo 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Nicholas Doumani
+Photo URL    : https://www.flickr.com/photos/scorpion007800/4134796642/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 18 14:19:36 GMT+0200 2009
+Upload Date  : Thu Nov 26 00:05:51 GMT+0100 2009
+Geotag Info  : Latitude:43.817358, Longitude:-79.183831
+Views        : 236
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+River Hippopotamus
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+CAN Canada geo:lat=43.81735833 geo:lon=-79.18383100 geotagged Ontario Scarborough "Scarborough (Rouge Hill / Port Union / Highland Creek)" River Hippopotamus Toronto Zoo 

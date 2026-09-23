@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mindfrieze
+Photo URL    : https://www.flickr.com/photos/mindfrieze/8183763968/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Oct 24 10:11:29 GMT+0200 2012
+Upload Date  : Wed Nov 14 02:07:54 GMT+0100 2012
+Geotag Info  : Latitude:49.278332, Longitude:0.260603
+Views        : 7,118
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+On our walk, I called out to some of the animals we saw.  Some came to investigate; some didn't.  This horse was more curious than its partner.
+
+
++--------+
+|  TAGS  |
++--------+
+horse 

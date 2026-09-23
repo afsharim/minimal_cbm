@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Cloudforest
+Photo URL    : https://www.flickr.com/photos/cloudforest/4501824052/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Apr 7 10:14:32 GMT+0200 2010
+Upload Date  : Thu Apr 8 04:37:25 GMT+0200 2010
+Views        : 663
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sea Otter Pair
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+harbor "santa cruz" "sea otters" lutris enhydra 

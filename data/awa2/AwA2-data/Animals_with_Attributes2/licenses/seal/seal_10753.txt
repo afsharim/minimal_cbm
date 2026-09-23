@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : gsputrich
+Photo URL    : https://www.flickr.com/photos/45756675@N03/5578132164/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 13 13:44:00 GMT+0100 2011
+Upload Date  : Thu Mar 31 23:46:50 GMT+0200 2011
+Geotag Info  : Latitude:35.966867, Longitude:-75.628192
+Views        : 340
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Seal Yawn
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Outer Banks, NC
+
+
++--------+
+|  TAGS  |
++--------+
+kite rainbow "Outer Banks NC" Kitty Hawk Kites 

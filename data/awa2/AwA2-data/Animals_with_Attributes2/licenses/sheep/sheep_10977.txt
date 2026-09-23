@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : selmerv
+Photo URL    : https://www.flickr.com/photos/selmer/4901460017/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Aug 3 13:45:05 GMT+0200 2010
+Upload Date  : Tue Aug 17 19:52:37 GMT+0200 2010
+Views        : 32
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

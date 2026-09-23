@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Magic B
+Photo URL    : https://www.flickr.com/photos/bthompson/3912471092/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 12 06:40:05 GMT+0200 2009
+Upload Date  : Sat Sep 12 15:40:05 GMT+0200 2009
+Geotag Info  : Latitude:37.220342, Longitude:-76.488919
+Views        : 216
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Doe a deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+yorktown virginia deer 

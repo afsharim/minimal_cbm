@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : IanMurphy
+Photo URL    : https://www.flickr.com/photos/malico/3463470444/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Apr 21 12:06:21 GMT+0200 2009
+Upload Date  : Tue Apr 21 20:14:35 GMT+0200 2009
+Geotag Info  : Latitude:42.229560, Longitude:-70.980949
+Views        : 1,931
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Mango
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Mango, the Evil Kitty!
+
+
++--------+
+|  TAGS  |
++--------+
+Mango cat persian "flame point" 

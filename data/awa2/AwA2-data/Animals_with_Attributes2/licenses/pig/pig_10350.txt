@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : www.metaphoricalplatypus.com
+Photo URL    : https://www.flickr.com/photos/29638108@N06/5232904659/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 16 12:40:14 GMT+0100 2011
+Upload Date  : Sun Dec 5 04:57:50 GMT+0100 2010
+Views        : 503
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Pig
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Samsung digital camera
+
+
++--------+
+|  TAGS  |
++--------+
+pig animals "farm animals" 

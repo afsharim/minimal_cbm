@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : andrewmalone
+Photo URL    : https://www.flickr.com/photos/andrewmalone/5408843788/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Oct 3 14:53:45 GMT+0200 2005
+Upload Date  : Tue Feb 1 22:37:51 GMT+0100 2011
+Geotag Info  : Latitude:42.975402, Longitude:0.653058
+Views        : 170
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+animal sheep Ore Midi-PyrŽnŽes France Midi-Pyrénées FR 

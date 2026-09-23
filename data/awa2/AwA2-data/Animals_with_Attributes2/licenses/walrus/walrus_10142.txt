@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Scholes William, U.S. Fish and Wildlife Service
+Photo URL    : https://commons.wikimedia.org/wiki/File:Group_of_walrus_odobenus_rosmarus.jpg
+License      : public domain
+Date         : Not given

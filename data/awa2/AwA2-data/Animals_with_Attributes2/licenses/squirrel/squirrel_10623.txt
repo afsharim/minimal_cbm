@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jokermanj
+Photo URL    : https://www.flickr.com/photos/jokermanj/2331149969/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Mar 13 13:31:15 GMT+0100 2008
+Upload Date  : Thu Mar 13 22:24:03 GMT+0100 2008
+Views        : 433
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel with almond (profile)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Squirrel 

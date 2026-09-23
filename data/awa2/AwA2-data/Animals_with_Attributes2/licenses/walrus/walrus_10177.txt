@@ -1,0 +1,12 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Photo URL    : https://commons.wikimedia.org/wiki/File:Walrus_male_animal_swimming_in_ocean_with_pup_on_his_back.jpg
+License      : public domain
+Date         : Not given

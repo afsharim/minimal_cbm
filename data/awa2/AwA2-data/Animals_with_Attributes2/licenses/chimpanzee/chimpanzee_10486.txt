@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mikecogh
+Photo URL    : https://www.flickr.com/photos/mikecogh/10170246626/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Oct 3 14:58:01 GMT+0200 2013
+Upload Date  : Wed Oct 9 15:58:31 GMT+0200 2013
+Geotag Info  : Latitude:-35.103914, Longitude:139.144994
+Views        : 793
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horizontal Thinking
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Monarto zoo chimpanzee resting thinking log 

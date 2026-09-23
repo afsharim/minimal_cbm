@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : NGC56
+Photo URL    : https://www.flickr.com/photos/jrost/5520716585/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 21 18:00:42 GMT+0200 2009
+Upload Date  : Sun Mar 13 01:24:45 GMT+0100 2011
+Views        : 301
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Beaver
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Juanita Bay
+
+This image belongs to the blog and online portfolio of Jason Rost.
+<a href="http://www.jasonrost.com" rel="nofollow">www.jasonrost.com</a>
+
+
++--------+
+|  TAGS  |
++--------+
+Beaver 

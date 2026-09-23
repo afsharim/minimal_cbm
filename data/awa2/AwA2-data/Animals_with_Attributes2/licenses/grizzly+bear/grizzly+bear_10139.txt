@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/18340798278/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 4 13:30:14 GMT+0200 2015
+Upload Date  : Sat Jun 6 18:20:05 GMT+0200 2015
+Geotag Info  : Latitude:48.771125, Longitude:6.897139
+Views        : 3,014
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bear on the rock
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This bear on a rock was just eating. Taken from above.
+
+
++--------+
+|  TAGS  |
++--------+
+bear "brown bear" above portrait face eating rock stones "parc animalier" park "sainte croix" zoo france nikon d4 

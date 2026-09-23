@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : emmajanehw
+Photo URL    : https://www.flickr.com/photos/emmajane/239343660/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Sep 8 10:57:22 GMT+0200 2006
+Upload Date  : Sun Sep 10 17:53:17 GMT+0200 2006
+Views        : 3,891
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+another mouse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+tis the season for mice to come inside
+
+
++--------+
+|  TAGS  |
++--------+
+mouse 

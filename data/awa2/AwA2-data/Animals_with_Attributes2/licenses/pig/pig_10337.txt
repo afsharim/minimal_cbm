@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : peter pearson
+Photo URL    : https://www.flickr.com/photos/peterpearson/3438872006/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Apr 13 12:54:11 GMT+0200 2009
+Upload Date  : Mon Apr 13 18:45:32 GMT+0200 2009
+Views        : 18,989
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Pig
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Pig by the side of the road, New Forest
+
+
++--------+
+|  TAGS  |
++--------+
+pig "New Forest" hampshire 

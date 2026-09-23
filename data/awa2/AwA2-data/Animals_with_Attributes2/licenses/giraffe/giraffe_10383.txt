@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : stachelbeer
+Photo URL    : https://www.flickr.com/photos/mario_storch/2062750821/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 24 12:57:16 GMT+0100 2007
+Upload Date  : Sun Nov 25 21:01:22 GMT+0100 2007
+Geotag Info  : Latitude:52.507787, Longitude:13.334848
+Views        : 54
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Zoo Berlin 

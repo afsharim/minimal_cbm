@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/8537771219/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 3 15:00:34 GMT+0100 2012
+Upload Date  : Fri Mar 8 06:00:13 GMT+0100 2013
+Geotag Info  : Latitude:47.105828, Longitude:6.822745
+Views        : 5,726
+Comments     : 6
+
+
++---------+
+|  TITLE  |
++---------+
+Bear with vegetable in the mouth
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The male bear with some leek(?) in the mouth.
+
+
++--------+
+|  TAGS  |
++--------+
+male leek eating vegetable sitting brown bear big mammal "bois du petit château" "animal park" zoo la-chaux-de-fonds neuchâtel switzerland nikon d4 

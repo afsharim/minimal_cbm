@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jumpyjodes
+Photo URL    : https://www.flickr.com/photos/jumpyjodes/4289912091/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 29 21:30:35 GMT+0200 2009
+Upload Date  : Wed Jan 20 14:41:17 GMT+0100 2010
+Views        : 89
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+zebras
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+San Diego zoo animals summer 

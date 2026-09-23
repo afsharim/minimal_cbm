@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : portuguesewaterdog
+Photo URL    : https://www.flickr.com/photos/31405780@N08/2938607612/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Aug 5 21:38:52 GMT+0200 2008
+Upload Date  : Mon Oct 13 17:34:36 GMT+0200 2008
+Views        : 2
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Horses 

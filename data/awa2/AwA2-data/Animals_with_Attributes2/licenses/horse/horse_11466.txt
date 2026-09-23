@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : reindi
+Photo URL    : https://www.flickr.com/photos/109514714@N04/11031720465/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 15 10:52:00 GMT+0200 2013
+Upload Date  : Sun Nov 24 18:25:59 GMT+0100 2013
+Views        : 518
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Summer stable.
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horse horses 

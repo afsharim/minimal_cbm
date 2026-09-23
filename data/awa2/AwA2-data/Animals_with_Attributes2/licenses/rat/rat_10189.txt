@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : alex012
+Photo URL    : https://www.flickr.com/photos/alex012/5580033084/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Mar 31 17:26:50 GMT+0200 2011
+Upload Date  : Fri Apr 1 18:31:27 GMT+0200 2011
+Geotag Info  : Latitude:55.867581, Longitude:-4.293336
+Views        : 198
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_1442
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+pet rat black 

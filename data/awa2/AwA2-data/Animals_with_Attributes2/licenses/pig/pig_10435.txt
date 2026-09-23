@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Matt From London
+Photo URL    : https://www.flickr.com/photos/londonmatt/14142722998/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 24 15:22:15 GMT+0200 2014
+Upload Date  : Mon Jun 2 15:57:13 GMT+0200 2014
+Geotag Info  : Latitude:51.499700, Longitude:-0.033742
+Views        : 1,091
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Pigs
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+pigs "surrey docks farm" piglets 

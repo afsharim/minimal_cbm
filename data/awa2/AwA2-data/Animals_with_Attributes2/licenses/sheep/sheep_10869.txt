@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Martin Pettitt
+Photo URL    : https://www.flickr.com/photos/mdpettitt/2287631989/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 22 15:26:13 GMT+0200 2007
+Upload Date  : Sun Feb 24 13:42:33 GMT+0100 2008
+Geotag Info  : Latitude:52.329150, Longitude:0.840470
+Views        : 6,727
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Sheep in field in Bardwell Suffolk
+
+
++--------+
+|  TAGS  |
++--------+
+Sheep field Bardwell Suffolk 

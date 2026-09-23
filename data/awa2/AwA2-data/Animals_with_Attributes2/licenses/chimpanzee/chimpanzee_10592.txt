@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Eric Kilby
+Photo URL    : https://www.flickr.com/photos/ekilby/4512548185/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 10 13:56:06 GMT+0200 2010
+Upload Date  : Mon Apr 12 03:23:54 GMT+0200 2010
+Geotag Info  : Latitude:42.064268, Longitude:-71.586366
+Views        : 2,385
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Picnic for Chimps
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+southwick zoo chimp chimpanzee ape picnic baby mother fruit 

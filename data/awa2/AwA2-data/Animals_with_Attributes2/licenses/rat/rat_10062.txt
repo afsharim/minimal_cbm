@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mattymatt
+Photo URL    : https://www.flickr.com/photos/mattymatt/4302153403/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 24 20:12:12 GMT+0100 2010
+Upload Date  : Mon Jan 25 05:15:18 GMT+0100 2010
+Geotag Info  : Latitude:37.774833, Longitude:-122.454667
+Views        : 106
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cozy monster
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+rats 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : argusfoto
+Photo URL    : https://www.flickr.com/photos/argusfoto/14665318955/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 14 07:07:02 GMT+0200 2014
+Upload Date  : Wed Jul 16 02:06:12 GMT+0200 2014
+Geotag Info  : Latitude:33.520844, Longitude:-86.764858
+Views        : 461
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+squirrel in back yard about 20 ft away.
+
+
++--------+
+|  TAGS  |
++--------+
+ZS40 

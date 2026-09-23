@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Paul Stainthorp
+Photo URL    : https://www.flickr.com/photos/pstainthorp/7551816134/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 11 03:10:57 GMT+0200 2004
+Upload Date  : Wed Jul 11 22:20:42 GMT+0200 2012
+Geotag Info  : Latitude:53.251147, Longitude:-0.145220
+Views        : 353
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Red cow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Hemingby, Lincolnshire. Sunday, 8 July, 2012
+
+
++--------+
+|  TAGS  |
++--------+
+hemingby walk cow cattle 

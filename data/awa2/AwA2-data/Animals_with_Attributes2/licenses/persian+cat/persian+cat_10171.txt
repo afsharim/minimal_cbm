@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : kirichkov
+Photo URL    : https://www.flickr.com/photos/kirichkov/3486852176/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Apr 29 20:13:41 GMT+0200 2009
+Upload Date  : Wed Apr 29 20:24:31 GMT+0200 2009
+Views        : 679
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Even cats digg Hoegaarden
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+cats puffy hoegaarden beer "persian cat" 

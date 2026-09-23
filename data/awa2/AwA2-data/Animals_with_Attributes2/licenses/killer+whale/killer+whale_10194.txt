@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tonyfoster
+Photo URL    : https://www.flickr.com/photos/fostert/5330622619/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jan 7 09:30:07 GMT+0100 2011
+Upload Date  : Thu Jan 6 21:30:07 GMT+0100 2011
+Geotag Info  : Latitude:-35.034810, Longitude:173.717708
+Views        : 2,741
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Orca
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Pure and simple: orca and ocean
+
+
++--------+
+|  TAGS  |
++--------+
+Dolphins orca whales whangaroa "NewZealand Northland" 

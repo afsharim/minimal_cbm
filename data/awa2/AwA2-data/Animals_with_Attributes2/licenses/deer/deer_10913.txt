@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : wiennat
+Photo URL    : https://www.flickr.com/photos/wien/4784816161/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 11 11:45:10 GMT+0200 2010
+Upload Date  : Mon Jul 12 05:08:54 GMT+0200 2010
+Views        : 25
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_0734
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Nara Park, Todaiji
+Japan
+
+Jul 11 2010
+
+
++--------+
+|  TAGS  |
++--------+
+nara deer 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sweethaa
+Photo URL    : https://www.flickr.com/photos/sweethaa/1507009228/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Oct 4 15:20:51 GMT+0200 2007
+Upload Date  : Sun Oct 7 17:57:24 GMT+0200 2007
+Views        : 368
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Mus musculus
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+mice 

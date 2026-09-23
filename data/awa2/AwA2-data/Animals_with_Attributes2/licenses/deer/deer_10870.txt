@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : SLR Jester
+Photo URL    : https://www.flickr.com/photos/slrjester/7765364634/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 11 14:36:13 GMT+0200 2012
+Upload Date  : Sun Aug 12 14:45:05 GMT+0200 2012
+Views        : 366
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Grazing Deer Richmond Park
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Richmond Park Deer" 

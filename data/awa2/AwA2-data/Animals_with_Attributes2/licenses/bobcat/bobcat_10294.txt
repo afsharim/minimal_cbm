@@ -1,0 +1,38 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Larry Smith2010
+Photo URL    : https://www.flickr.com/photos/lsmith2010/5048900297/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 3 18:19:22 GMT+0200 2010
+Upload Date  : Mon Oct 4 03:09:22 GMT+0200 2010
+Geotag Info  : Latitude:34.718228, Longitude:-98.639073
+Views        : 1,982
+Comments     : 15
+
+
++---------+
+|  TITLE  |
++---------+
+Bobcat
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+I shot this on an overcast day and even though I was looking right at him, I didn't see him until he moved. Great camouflage!
+
+Wichita Mountains Wildlife Refuge
+SW Oklahoma
+
+
++--------+
+|  TAGS  |
++--------+
+"Wichita Mountains" "Larry Smith" Oklahoma Bobcat "Wichita Mountains Wildlife Refuge" 

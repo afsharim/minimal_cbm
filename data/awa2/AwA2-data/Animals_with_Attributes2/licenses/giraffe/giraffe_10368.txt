@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : phalinn
+Photo URL    : https://www.flickr.com/photos/phalinn/828381219/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 7 22:37:23 GMT+0200 2007
+Upload Date  : Mon Jul 16 16:57:47 GMT+0200 2007
+Geotag Info  : Latitude:51.502612, Longitude:-0.119497
+Views        : 78
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+London Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+london england europe "london zoo" zoo animals mammals reptiles amphibians fishes 

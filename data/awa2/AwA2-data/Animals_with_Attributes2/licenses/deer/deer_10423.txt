@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ed Bierman
+Photo URL    : https://www.flickr.com/photos/edbierman/3633858103/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 17 01:48:26 GMT+0200 2009
+Upload Date  : Wed Jun 17 04:57:29 GMT+0200 2009
+Geotag Info  : Latitude:37.472082, Longitude:-122.280750
+Views        : 196
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+On a walk in Edgewood Park in Redwood City
+
+
++--------+
+|  TAGS  |
++--------+
+"edgewood park" "redwood city" walk 

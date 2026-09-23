@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : KJGarbutt
+Photo URL    : https://www.flickr.com/photos/kjgarbutt/6189688935/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 1 14:34:48 GMT+0200 2011
+Upload Date  : Tue Sep 27 23:07:52 GMT+0200 2011
+Geotag Info  : Latitude:51.535007, Longitude:-0.153808
+Views        : 553
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebras
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+London Zoo KJGarbutt Kurtis Garbutt "Kurtis Garbutt" "London Zoo" Zebra Photography "KJGarbutt Photography" "Kurtis J Garbutt" 

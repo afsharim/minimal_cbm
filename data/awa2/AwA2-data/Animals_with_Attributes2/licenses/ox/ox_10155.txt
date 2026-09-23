@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : immobilized enzyme reactor
+Photo URL    : https://www.flickr.com/photos/99459883@N02/9378777591/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 24 18:25:47 GMT+0200 2013
+Upload Date  : Sun Jul 28 02:09:57 GMT+0200 2013
+Views        : 391
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cattle
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

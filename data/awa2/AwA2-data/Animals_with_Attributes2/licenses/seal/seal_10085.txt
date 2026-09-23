@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : brian.gratwicke
+Photo URL    : https://www.flickr.com/photos/briangratwicke/7081541533/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Mar 14 10:12:05 GMT+0100 2012
+Upload Date  : Sun Apr 15 23:27:03 GMT+0200 2012
+Views        : 1,968
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Blonde Antarctic fur seal
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"taxonomy:binomial=Arctocephalus gazella" "Antarctic furseal" "South Georgia" "Bay of Isles" mammal seal taxonomy:kingdom=Animalia Animalia taxonomy:phylum=Chordata Chordata taxonomy:class=Mammalia Mammalia taxonomy:order=Carnivora Carnivora taxonomy:family=Otariidae Otariidae taxonomy:genus=Arctocephalus Arctocephalus taxonomy:species=gazella "Arctocephalus gazella" "Kerguelen Fur Seal" Arctoc "taxonomy:common=Antarctic Fur Seal" "taxonomy:common=Kerguelen Fur Seal" taxonomy:common=Arctoc "National Geographic Exlplorer" Linblad #greatnatureshots 

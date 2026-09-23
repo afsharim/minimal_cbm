@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jeri gloege
+Photo URL    : https://www.flickr.com/photos/fractalmind/4360550503/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Dec 28 19:09:32 GMT+0100 2009
+Upload Date  : Tue Feb 16 02:50:42 GMT+0100 2010
+Views        : 4
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_0657
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"San Francisco" otter 

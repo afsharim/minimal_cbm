@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : kyz
+Photo URL    : https://www.flickr.com/photos/kyz/2077440518/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Dec 1 04:26:31 GMT+0100 2007
+Upload Date  : Sat Dec 1 05:26:31 GMT+0100 2007
+Geotag Info  : Latitude:55.944935, Longitude:-3.268185
+Views        : 232
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Pygmy hippopotamus
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+at Edinburgh Zoo. So cute!
+
+
++--------+
+|  TAGS  |
++--------+
+crappycameraphone hippopotamus edinburgh zoo animals scotland pygmy-hippopotamus 

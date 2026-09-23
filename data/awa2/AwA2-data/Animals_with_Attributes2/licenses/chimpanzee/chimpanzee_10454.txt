@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ST33VO
+Photo URL    : https://www.flickr.com/photos/st33vo/13915720001/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 19 13:25:02 GMT+0200 2014
+Upload Date  : Sat Apr 19 20:48:51 GMT+0200 2014
+Geotag Info  : Latitude:55.944231, Longitude:-3.267949
+Views        : 450
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Emma
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Chimpanzee at Edinburgh Zoo Budongo Trail born 19/09/1961
+
+
++--------+
+|  TAGS  |
++--------+
+Edinburgh Zoo chimpanzee primate Budongo Trail ape chimp 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : JenniKate Wallace
+Photo URL    : https://www.flickr.com/photos/jennikate/4018329059/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Apr 10 04:55:58 GMT+0200 2009
+Upload Date  : Sat Oct 17 12:04:02 GMT+0200 2009
+Geotag Info  : Latitude:-38.312383, Longitude:145.710425
+Views        : 284
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+The Cows
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

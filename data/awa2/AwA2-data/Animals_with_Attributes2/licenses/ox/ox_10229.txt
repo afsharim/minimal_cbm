@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : vanguardist
+Photo URL    : https://www.flickr.com/photos/vanguardist/2350063046/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 9 11:32:53 GMT+0100 2008
+Upload Date  : Fri Mar 21 16:04:12 GMT+0100 2008
+Views        : 8
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC00033
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

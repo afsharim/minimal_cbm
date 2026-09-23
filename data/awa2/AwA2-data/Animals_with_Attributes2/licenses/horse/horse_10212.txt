@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Evoflash
+Photo URL    : https://www.flickr.com/photos/evoflash/7157666093/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 4 12:32:10 GMT+0200 2012
+Upload Date  : Tue Jun 5 23:08:27 GMT+0200 2012
+Geotag Info  : Latitude:53.594572, Longitude:-9.972145
+Views        : 743
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Connemara 2012
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Sony dsc
+
+
++--------+
+|  TAGS  |
++--------+
+Connemara horse pony 

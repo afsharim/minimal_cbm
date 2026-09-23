@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jim Bauer
+Photo URL    : https://www.flickr.com/photos/lens-cap/8446443942/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Feb 4 18:18:27 GMT+0100 2013
+Upload Date  : Tue Feb 5 01:05:40 GMT+0100 2013
+Views        : 4,086
+Comments     : 39
+
+
++---------+
+|  TITLE  |
++---------+
+Happy Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel Nut cold snow 

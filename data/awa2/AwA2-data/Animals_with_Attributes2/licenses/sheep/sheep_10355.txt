@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : nojhan
+Photo URL    : https://www.flickr.com/photos/nojhan/752522226/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jun 26 15:31:11 GMT+0200 2007
+Upload Date  : Sun Jul 8 07:34:16 GMT+0200 2007
+Geotag Info  : Latitude:48.586827, Longitude:-4.163045
+Views        : 66
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_1444
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+white sheep grass 

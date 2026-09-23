@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : denn
+Photo URL    : https://www.flickr.com/photos/denn/63860716/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Nov 16 10:30:32 GMT+0100 2005
+Upload Date  : Wed Nov 16 12:16:52 GMT+0100 2005
+Views        : 863
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hello there
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+How are you?
+
+
++--------+
+|  TAGS  |
++--------+
+denn cute white mouse newspaper 

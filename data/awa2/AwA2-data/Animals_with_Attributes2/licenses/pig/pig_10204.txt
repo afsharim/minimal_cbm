@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : International Livestock Research Institute
+Photo URL    : https://www.flickr.com/photos/ilri/7507143152/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 6 15:54:15 GMT+0200 2011
+Upload Date  : Thu Jul 5 13:21:57 GMT+0200 2012
+Geotag Info  : Latitude:18.205209, Longitude:105.451179
+Views        : 757
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+MooLaht sow, local Loas pig breed
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A MooLaht sow - a local Lao pig breed, with a body scoring of 1-5 (photo credit: ILRI/Kate Blaszak).
+
+
++--------+
+|  TAGS  |
++--------+
+ILRI Laos Asia "Zoonotic diseases" "Emerging diseases" EcoZD "Indigenous breeds" Pigs crp4 

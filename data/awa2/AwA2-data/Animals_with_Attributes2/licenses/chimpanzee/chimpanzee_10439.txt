@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : berniedup
+Photo URL    : https://www.flickr.com/photos/berniedup/7068174535/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Sep 10 08:03:22 GMT+0200 2008
+Upload Date  : Wed Apr 11 19:05:11 GMT+0200 2012
+Geotag Info  : Latitude:0.439620, Longitude:30.392303
+Views        : 467
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Eastern Chimpanzee (Pan troglodytes schweinfurthii)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Kibale Forest NP, UGANDA
+
+
++--------+
+|  TAGS  |
++--------+
+"Pan troglodytes schweinfurthii" "taxonomy:binomial=Pan troglodytes" "taxonomy:trinomial=Pan troglodytes schweinfurthii" 

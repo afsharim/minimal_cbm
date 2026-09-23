@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Son of Groucho
+Photo URL    : https://www.flickr.com/photos/sonofgroucho/7595379296/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 4 11:47:49 GMT+0200 2012
+Upload Date  : Wed Jul 18 07:54:31 GMT+0200 2012
+Geotag Info  : Latitude:-1.581981, Longitude:35.245100
+Views        : 3,462
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe 1
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+I think this is a Maasai giraffe <a href="http://en.wikipedia.org/wiki/Giraffe" rel="nofollow">en.wikipedia.org/wiki/Giraffe </a> Maasai Mara National Park <a href="http://en.wikipedia.org/wiki/Maasai_Mara" rel="nofollow">en.wikipedia.org/wiki/Maasai_Mara</a>
+
+<a href="http://loc.alize.us/#/flickr:7595379296" rel="nofollow">See where this picture was taken.</a> <a href="http://www.flickr.com/groups/geotagging/discuss/72157594165549916/">[?]</a>
+
+
++--------+
+|  TAGS  |
++--------+
+2012 africa kenya "maasai mara" "masai mara" mara animal geo:lat=-1.581981 geo:lon=35.2451 geotagged giraffe 

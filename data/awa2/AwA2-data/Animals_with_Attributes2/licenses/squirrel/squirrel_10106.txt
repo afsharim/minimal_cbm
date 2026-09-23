@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : howcheng
+Photo URL    : https://www.flickr.com/photos/howcheng/3171241243/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 3 11:51:09 GMT+0100 2009
+Upload Date  : Mon Jan 5 23:03:08 GMT+0100 2009
+Geotag Info  : Latitude:34.202858, Longitude:-118.852071
+Views        : 583
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+California Ground Squirrels 3 of 5
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Pair of California Ground Squirrels (Spermophilus beecheyi). Conejo Creek North Park, Thousand Oaks, CA. Larger version of this photo available at <a href="http://commons.wikimedia.org/wiki/File:CA_Ground_Squirrel_pair.jpg" rel="nofollow">Wikimedia Commons</a>.
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel "Spermophilus beecheyi" 

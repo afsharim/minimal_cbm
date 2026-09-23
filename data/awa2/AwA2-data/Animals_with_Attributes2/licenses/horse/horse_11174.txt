@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : evork
+Photo URL    : https://www.flickr.com/photos/21193111@N06/3340423007/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 19 19:03:09 GMT+0200 2007
+Upload Date  : Mon Mar 9 12:19:48 GMT+0100 2009
+Views        : 27
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+luna2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horse 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : zcat
+Photo URL    : https://www.flickr.com/photos/50138433@N00/284934305/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 10 11:30:56 GMT+0200 2006
+Upload Date  : Tue Oct 31 21:13:06 GMT+0100 2006
+Views        : 224
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+bobcat
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+bobcat "big cats" zoo Hamilton "New Zealand" Gimp animal 

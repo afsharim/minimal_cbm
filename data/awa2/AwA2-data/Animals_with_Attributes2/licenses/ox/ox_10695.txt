@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Martyn Wright
+Photo URL    : https://www.flickr.com/photos/martyn404/5191846067/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 6 13:38:23 GMT+0100 2010
+Upload Date  : Sat Nov 20 17:16:37 GMT+0100 2010
+Views        : 24
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Westmidlands Safari Park
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

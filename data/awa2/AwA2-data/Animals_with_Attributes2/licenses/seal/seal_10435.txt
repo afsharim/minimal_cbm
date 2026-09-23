@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Fuzzy Gerdes
+Photo URL    : https://www.flickr.com/photos/fuzzy/5114653075/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Sep 22 15:50:04 GMT+0200 2010
+Upload Date  : Mon Oct 25 20:25:13 GMT+0200 2010
+Geotag Info  : Latitude:21.873337, Longitude:-159.454847
+Views        : 860
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hawaiian Monk Seal
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+kauai hawaii "hawaiian monk seal" 

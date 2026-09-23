@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Commodore Gandalf Cunningham
+Photo URL    : https://www.flickr.com/photos/gandalfcunningham/5295692874/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 26 15:19:31 GMT+0100 2010
+Upload Date  : Mon Dec 27 04:55:49 GMT+0100 2010
+Views        : 157
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Toronto Zoo - African Otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+toronto zoo african otter 

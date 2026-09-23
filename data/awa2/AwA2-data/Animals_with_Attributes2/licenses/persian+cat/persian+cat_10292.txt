@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mclii
+Photo URL    : https://www.flickr.com/photos/mclii/3559658/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jan 19 19:45:34 GMT+0100 2005
+Upload Date  : Thu Jan 20 04:45:34 GMT+0100 2005
+Views        : 318
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_938_edges-small
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Picture of Kasha behind a vase, on a table. Verona, WI
+
+
++--------+
+|  TAGS  |
++--------+
+cat kasha persian longhair 

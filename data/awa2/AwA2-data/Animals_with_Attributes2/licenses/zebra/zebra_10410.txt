@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Lolabe
+Photo URL    : https://www.flickr.com/photos/todorojo/8654154309/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jan 9 12:38:17 GMT+0100 2013
+Upload Date  : Tue Apr 16 15:15:59 GMT+0200 2013
+Geotag Info  : Latitude:-29.065000, Longitude:25.072300
+Views        : 234
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+SA_best_of 118
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+South Africa
+
+
++--------+
+|  TAGS  |
++--------+
+South Africa Lions Zebras landscapes 

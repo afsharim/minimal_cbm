@@ -1,0 +1,13 @@
++--------------------------------------+
+|     opencage.info Photo Metadata     |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : -
+Photo URL    : http://opencage.info/pics.e/large_18771.asp
+License      : Creative Commons's Attribution-ShareAlike 2.5 (https://creativecommons.org/licenses/by-sa/2.5/)
+Date         : 2014-10-04

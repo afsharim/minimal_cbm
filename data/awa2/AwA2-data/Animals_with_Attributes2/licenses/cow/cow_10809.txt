@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Zach_Beauvais
+Photo URL    : https://www.flickr.com/photos/beauvais/3863521226/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 8 16:06:20 GMT+0200 2009
+Upload Date  : Fri Aug 28 01:01:04 GMT+0200 2009
+Views        : 2,412
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Friendly Shropshire Cows
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Young cows from a walk in Shrops.
+
+
++--------+
+|  TAGS  |
++--------+
+Shropshire cows calves livestock 

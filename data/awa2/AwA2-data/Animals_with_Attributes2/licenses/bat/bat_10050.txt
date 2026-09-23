@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : noii's
+Photo URL    : https://www.flickr.com/photos/noii/3716980535/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 13 10:02:49 GMT+0200 2009
+Upload Date  : Mon Jul 13 20:13:48 GMT+0200 2009
+Geotag Info  : Latitude:13.071478, Longitude:80.255871
+Views        : 18
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+bats
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

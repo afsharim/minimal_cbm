@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : JenniKate Wallace
+Photo URL    : https://www.flickr.com/photos/jennikate/8328959075/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 5 00:24:56 GMT+0200 2011
+Upload Date  : Mon Dec 31 14:08:32 GMT+0100 2012
+Geotag Info  : Latitude:-38.305631, Longitude:145.709609
+Views        : 40
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Nyora
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

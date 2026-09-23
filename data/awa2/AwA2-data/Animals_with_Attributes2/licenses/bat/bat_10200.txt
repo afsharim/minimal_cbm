@@ -1,0 +1,19 @@
++--------------------------------------+
+|       Pixabay Photo Metadata         |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : linn_stokke0
+Photo URL    : https://pixabay.com/en/bat-animal-wildlife-wild-wing-805720/
+License      : CC0 Public Domain (https://creativecommons.org/publicdomain/zero/1.0/deed.en)
+Created      : Aug. 12, 2010
+Uploaded     : June 19, 2015
+
++--------+
+|  TAGS  |
++--------+
+Bat, Animal, Wildlife, Wild, Wing, Vampire, Nature

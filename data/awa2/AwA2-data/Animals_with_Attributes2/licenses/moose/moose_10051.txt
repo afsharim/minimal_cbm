@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Katie (alaskahokie)
+Photo URL    : https://www.flickr.com/photos/alaskahokie/3914601008/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 31 21:42:16 GMT+0200 2009
+Upload Date  : Sun Sep 13 05:20:22 GMT+0200 2009
+Views        : 295
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Bull Moose
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Moose in our front yard.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

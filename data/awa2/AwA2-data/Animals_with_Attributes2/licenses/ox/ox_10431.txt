@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Marc Samsom
+Photo URL    : https://www.flickr.com/photos/marcsamsom/2193902148/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Dec 28 11:50:39 GMT+0100 2007
+Upload Date  : Tue Jan 15 00:05:41 GMT+0100 2008
+Views        : 55
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+kenia-djoser2007-352.jpg
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Djoser junior trip to Kenya
+
+
++--------+
+|  TAGS  |
++--------+
+Kenya Nakuru "marc samsom" 

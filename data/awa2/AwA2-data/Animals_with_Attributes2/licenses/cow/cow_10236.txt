@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ella Mullins
+Photo URL    : https://www.flickr.com/photos/stincodiporco/150404218/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 23 19:30:10 GMT+0200 2006
+Upload Date  : Sun May 21 17:14:30 GMT+0200 2006
+Geotag Info  : Latitude:48.322473, Longitude:-0.109863
+Views        : 210
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Cow Moo Beef 

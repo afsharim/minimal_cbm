@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : pwever
+Photo URL    : https://www.flickr.com/photos/pwever/33337157/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Aug 4 03:05:23 GMT+0200 2004
+Upload Date  : Fri Aug 12 08:10:47 GMT+0200 2005
+Views        : 1,228
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+DSC02727.JPG
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+cow landscape 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : magnetbox
+Photo URL    : https://www.flickr.com/photos/magnetbox/5258389709/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 12 15:24:37 GMT+0100 2010
+Upload Date  : Mon Dec 13 22:19:35 GMT+0100 2010
+Geotag Info  : Latitude:47.608666, Longitude:-122.344667
+Views        : 944
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sleeping otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"sea otter" aquarium 

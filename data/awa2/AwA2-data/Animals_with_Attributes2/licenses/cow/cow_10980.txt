@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Gunnar Wrobel
+Photo URL    : https://www.flickr.com/photos/wrobel/8174664977/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Apr 27 17:10:46 GMT+0200 2012
+Upload Date  : Sun Nov 11 11:33:14 GMT+0100 2012
+Geotag Info  : Latitude:53.718450, Longitude:10.112357
+Views        : 1,045
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Kuh
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+kuh 

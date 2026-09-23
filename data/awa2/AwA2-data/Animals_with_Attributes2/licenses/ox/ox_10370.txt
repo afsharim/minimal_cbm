@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : wbrentprice
+Photo URL    : https://www.flickr.com/photos/wbrentprice/23029452835/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Apr 6 15:24:49 GMT+0200 2011
+Upload Date  : Sun Nov 15 09:00:57 GMT+0100 2015
+Views        : 0
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_3945.jpg
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

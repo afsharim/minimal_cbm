@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jdnx
+Photo URL    : https://www.flickr.com/photos/danramarch/4565230826/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Apr 28 13:33:47 GMT+0200 2010
+Upload Date  : Fri Apr 30 09:23:57 GMT+0200 2010
+Geotag Info  : Latitude:21.270064, Longitude:-157.816640
+Views        : 9,147
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+I think this was the tallest giraffe at the zoo.
+
+
++--------+
+|  TAGS  |
++--------+
+honolulu "honolulu zoo" oahu giraffe zoo 

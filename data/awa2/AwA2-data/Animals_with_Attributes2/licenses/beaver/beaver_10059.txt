@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Carly & Art
+Photo URL    : https://www.flickr.com/photos/wiredwitch/2215869862/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jan 21 15:19:56 GMT+0100 2008
+Upload Date  : Thu Jan 24 03:24:04 GMT+0100 2008
+Geotag Info  : Latitude:38.928283, Longitude:-77.046861
+Views        : 501
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Beaver
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+beaver "national zoo" "Castor canadensis" eating DCIST 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : evil nickname
+Photo URL    : https://www.flickr.com/photos/evilnickname/14046141705/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 27 10:57:52 GMT+0200 2014
+Upload Date  : Mon Apr 28 08:57:38 GMT+0200 2014
+Geotag Info  : Latitude:53.215405, Longitude:5.882766
+Views        : 267
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Raccoon
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Aquazoo Leeuwarden "The Netherlands" Nederland dierentuin zoo wasbeer raccoon 

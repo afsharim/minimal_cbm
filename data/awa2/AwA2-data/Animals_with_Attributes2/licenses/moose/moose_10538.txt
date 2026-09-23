@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Radiho
+Photo URL    : https://www.flickr.com/photos/20641227@N06/2012828569/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 17 23:26:25 GMT+0200 2005
+Upload Date  : Sat Aug 6 17:44:16 GMT+0200 2005
+Views        : 14
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+P1000516
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+moose 

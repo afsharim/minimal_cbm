@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/4716379129/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon May 24 17:31:19 GMT+0200 2010
+Upload Date  : Sun Jun 20 13:00:13 GMT+0200 2010
+Geotag Info  : Latitude:46.947632, Longitude:7.459030
+Views        : 2,528
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+Walking in the grass
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+One of the two young bears walking in the grass of their enclosure of the Bärenpark in Bern.
+
+
++--------+
+|  TAGS  |
++--------+
+bear young cub baby cue walking grass brown bärenpark bern switzerland nikon d300 

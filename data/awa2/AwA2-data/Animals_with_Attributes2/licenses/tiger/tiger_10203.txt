@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Bill Hails
+Photo URL    : https://www.flickr.com/photos/billhails/214127258/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 31 04:53:44 GMT+0200 2006
+Upload Date  : Sun Aug 13 18:51:43 GMT+0200 2006
+Geotag Info  : Latitude:-26.851641, Longitude:152.954492
+Views        : 408
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Siberian Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Australia Zoo, near Brisbane
+
+
++--------+
+|  TAGS  |
++--------+
+tiger 

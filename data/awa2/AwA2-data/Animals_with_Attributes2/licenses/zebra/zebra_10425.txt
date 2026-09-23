@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Dunleavy Family
+Photo URL    : https://www.flickr.com/photos/dunleavy_family/6000660821/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 29 14:19:16 GMT+0200 2011
+Upload Date  : Tue Aug 2 08:54:03 GMT+0200 2011
+Geotag Info  : Latitude:51.072252, Longitude:1.010913
+Views        : 100
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+sharing a stick
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Port Lympne" zebra 

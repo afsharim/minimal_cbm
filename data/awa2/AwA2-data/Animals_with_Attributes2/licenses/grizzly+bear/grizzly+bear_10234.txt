@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Sheep purple
+Photo URL    : https://www.flickr.com/photos/sheeppurple/3820532379/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Aug 12 14:04:37 GMT+0200 2009
+Upload Date  : Fri Aug 14 20:42:00 GMT+0200 2009
+Views        : 1,497
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Brown bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+brown bear berlin zoo 

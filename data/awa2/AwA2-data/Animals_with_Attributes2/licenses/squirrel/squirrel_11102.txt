@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : izzie_whizzie
+Photo URL    : https://www.flickr.com/photos/izzie_whizzie/526565196/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 26 12:27:14 GMT+0200 2007
+Upload Date  : Sat Jun 2 21:24:25 GMT+0200 2007
+Geotag Info  : Latitude:52.053044, Longitude:-2.711691
+Views        : 364
+Comments     : 6
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrels
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+I am so naive, I thought that they were hugging!
+
+
++--------+
+|  TAGS  |
++--------+
+Squirrels PDP(NW) "panasonic dmcfz8" 

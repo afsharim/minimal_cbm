@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : hktang
+Photo URL    : https://www.flickr.com/photos/hktang/4032175227/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Oct 19 14:11:01 GMT+0200 2009
+Upload Date  : Wed Oct 21 21:16:34 GMT+0200 2009
+Geotag Info  : Latitude:-2.644019, Longitude:37.235412
+Views        : 809
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe @ Amboseli
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+They are wandering outside the park!!
+
+
++--------+
+|  TAGS  |
++--------+
+giraffe 

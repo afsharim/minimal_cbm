@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : doegox
+Photo URL    : https://www.flickr.com/photos/doegox/8481774125/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Feb 13 09:20:39 GMT+0100 2013
+Upload Date  : Sun Feb 17 17:53:20 GMT+0100 2013
+Geotag Info  : Latitude:28.407774, Longitude:-16.565269
+Views        : 1,845
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Western Gorilla
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+at Loro Parque, Puerto de la Cruz
+
+Gimp: crop, white balance &amp; unsharp mask
+
+
++--------+
+|  TAGS  |
++--------+
+"Puerto de la Cruz" Tenerife "Loro Parque" "Loro Park" "western gorilla" gorilla "Gorilla gorilla" 

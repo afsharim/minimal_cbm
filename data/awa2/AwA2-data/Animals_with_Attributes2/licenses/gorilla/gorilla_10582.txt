@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ChrisMiller513
+Photo URL    : https://www.flickr.com/photos/sideonecincy/6244365455/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 1 16:22:36 GMT+0200 2011
+Upload Date  : Sat Oct 15 00:04:38 GMT+0200 2011
+Views        : 18
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_9242
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

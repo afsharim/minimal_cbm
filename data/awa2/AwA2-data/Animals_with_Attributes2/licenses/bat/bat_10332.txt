@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Stihler Craig, U.S. Fish and Wildlife Service
+Photo URL    : https://commons.wikimedia.org/wiki/File:Cluster_of_hibernating_virginia_big_eared_bats.jpg
+License      : public domain
+Date         : Not given

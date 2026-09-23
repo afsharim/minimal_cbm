@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : adamr.stone
+Photo URL    : https://www.flickr.com/photos/adamrstone/6016418549/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 1 04:07:21 GMT+0200 2011
+Upload Date  : Sun Aug 7 07:16:17 GMT+0200 2011
+Views        : 72
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebras
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Safari "Shared Accord 2011" 

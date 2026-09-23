@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : h3h
+Photo URL    : https://www.flickr.com/photos/h3h/4719194165/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 20 12:31:56 GMT+0200 2010
+Upload Date  : Mon Jun 21 05:25:17 GMT+0200 2010
+Geotag Info  : Latitude:37.730538, Longitude:-119.570732
+Views        : 155
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Obligatory squirrel shot
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+yosemite squirrel 

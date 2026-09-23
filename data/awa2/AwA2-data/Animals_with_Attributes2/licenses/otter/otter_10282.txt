@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : cchauvet
+Photo URL    : https://www.flickr.com/photos/cchauvet/2655506181/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 7 14:54:57 GMT+0200 2008
+Upload Date  : Thu Jul 10 19:01:05 GMT+0200 2008
+Views        : 13
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Monterey Bay Aquarium
+
+
++--------+
+|  TAGS  |
++--------+
+"ChrisChauvet ChrisChauvet" Monterey 

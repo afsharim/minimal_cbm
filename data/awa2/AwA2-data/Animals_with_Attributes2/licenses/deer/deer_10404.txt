@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : emrank
+Photo URL    : https://www.flickr.com/photos/emrank/3052428893/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Nov 3 11:16:44 GMT+0100 2008
+Upload Date  : Sun Nov 23 16:50:35 GMT+0100 2008
+Geotag Info  : Latitude:35.157442, Longitude:136.977152
+Views        : 197
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Taken at Higashiyama Zoo, Nagoya, Japan.
+Just 15minutes walks from my apartment
+
+
++--------+
+|  TAGS  |
++--------+
+zoo animal 動物 東山動物園 名古屋 "Higashiyama Zoo" Nagoya 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : StevenBrace
+Photo URL    : https://www.flickr.com/photos/30399879@N03/2846279971/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 6 18:40:37 GMT+0200 2008
+Upload Date  : Thu Sep 11 00:58:25 GMT+0200 2008
+Views        : 15
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Scrignari
+Photo URL    : https://www.flickr.com/photos/thebabaganoushkid/5747199324/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jan 20 17:18:54 GMT+0100 2011
+Upload Date  : Sun May 22 18:24:16 GMT+0200 2011
+Views        : 63
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cape fur seals, Cape Cross, Namibia
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

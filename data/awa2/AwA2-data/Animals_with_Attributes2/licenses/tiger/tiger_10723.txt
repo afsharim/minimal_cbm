@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : DWinton
+Photo URL    : https://www.flickr.com/photos/dwinton/8581670382/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Mar 22 17:35:21 GMT+0100 2013
+Upload Date  : Sat Mar 23 01:05:31 GMT+0100 2013
+Geotag Info  : Latitude:31.572173, Longitude:-97.146821
+Views        : 33
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+animals cameronparkzoo texas waco zoo 

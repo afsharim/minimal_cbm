@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : brainstorm1984
+Photo URL    : https://www.flickr.com/photos/brainstorm1984/15008451685/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 14 13:48:01 GMT+0200 2014
+Upload Date  : Sat Aug 23 15:33:52 GMT+0200 2014
+Geotag Info  : Latitude:52.743780, Longitude:9.608736
+Views        : 642
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Ein Tiger im Serengeti-Park Hodenhagen.
+
+A Tiger in the &quot;Serengeti-Park Hodenhagen&quot;.
+
+
++--------+
+|  TAGS  |
++--------+
+Hodenhagen "Panthera tigris" Serengeti-Park Tiger Niedersachsen Deutschland 

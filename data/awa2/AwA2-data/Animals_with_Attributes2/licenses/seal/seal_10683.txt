@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : yashima
+Photo URL    : https://www.flickr.com/photos/yashima/21849996799/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 20 13:41:54 GMT+0200 2015
+Upload Date  : Thu Oct 8 16:32:09 GMT+0200 2015
+Views        : 35
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Scotland - Findhorn Seals
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

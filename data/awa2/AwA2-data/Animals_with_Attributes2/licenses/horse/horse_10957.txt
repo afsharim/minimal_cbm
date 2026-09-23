@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Syrenax
+Photo URL    : https://www.flickr.com/photos/thevex13/6180138480/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 1 00:00:00 GMT+0100 2011
+Upload Date  : Sun Sep 25 05:55:25 GMT+0200 2011
+Views        : 5
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+horses
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : runneralan2004
+Photo URL    : https://www.flickr.com/photos/runneralan/12257935725/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jan 31 10:12:22 GMT+0100 2014
+Upload Date  : Sat Feb 1 23:12:40 GMT+0100 2014
+Geotag Info  : Latitude:38.922391, Longitude:-77.135632
+Views        : 183
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Backyard visitor
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+White-tailed deer in Arlington, Virginia
+
+
++--------+
+|  TAGS  |
++--------+
+Arlingto Virginia deer 

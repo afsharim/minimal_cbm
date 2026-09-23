@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jdmonin
+Photo URL    : https://www.flickr.com/photos/125305574@N02/14395959926/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Nov 3 16:34:14 GMT+0100 2008
+Upload Date  : Sat Jun 14 15:03:11 GMT+0200 2014
+Geotag Info  : Latitude:42.882752, Longitude:-78.726310
+Views        : 183
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Friendly squirrel on the boardwalk
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This squirrel thinks I'm going to feed him. Along the Hummingbird Hollow boardwalk at Stiglmeier Park (IMG_2636)
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel "Stiglmeier Park" boardwalk 

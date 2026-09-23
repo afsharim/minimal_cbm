@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Azmil77
+Photo URL    : https://www.flickr.com/photos/azmil77/2301791806/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 1 12:37:19 GMT+0100 2008
+Upload Date  : Sat Mar 1 07:47:27 GMT+0100 2008
+Geotag Info  : Latitude:3.208957, Longitude:101.757645
+Views        : 280
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Rawrrr!
+
+
++--------+
+|  TAGS  |
++--------+
+Tiger Zoo Wildlife 

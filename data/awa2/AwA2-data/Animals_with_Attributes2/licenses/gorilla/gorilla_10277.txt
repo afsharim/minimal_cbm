@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Lars Juhl Jensen
+Photo URL    : https://www.flickr.com/photos/larsjuhljensen/6443385221/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Nov 10 18:57:33 GMT+0100 2011
+Upload Date  : Fri Dec 2 22:11:22 GMT+0100 2011
+Geotag Info  : Latitude:33.748310, Longitude:-84.391113
+Views        : 573
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Gorilla grayback @ Atlanta Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+atlanta zoo gorilla grayback 

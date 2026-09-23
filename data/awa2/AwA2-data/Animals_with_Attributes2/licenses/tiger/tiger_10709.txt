@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Traveloscopy
+Photo URL    : https://www.flickr.com/photos/rodeime/8195375925/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Sep 29 11:22:39 GMT+0200 2006
+Upload Date  : Sun Nov 18 14:40:30 GMT+0100 2012
+Views        : 62
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

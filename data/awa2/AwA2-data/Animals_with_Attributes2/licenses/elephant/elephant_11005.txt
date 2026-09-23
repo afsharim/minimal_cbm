@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Nigel's Europe & beyond 2
+Photo URL    : https://www.flickr.com/photos/zooeurope/6893655029/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 11 12:45:22 GMT+0100 2012
+Upload Date  : Sat Feb 18 00:01:20 GMT+0100 2012
+Geotag Info  : Latitude:52.644677, Longitude:-1.509418
+Views        : 119
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Twycross Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+elephants
+
+
++--------+
+|  TAGS  |
++--------+
+"Twycross Zoo" elephants 

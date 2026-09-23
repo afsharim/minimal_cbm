@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : soapbeard
+Photo URL    : https://www.flickr.com/photos/soapbeard/2787476742/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 22 13:34:13 GMT+0200 2008
+Upload Date  : Fri Aug 22 18:51:44 GMT+0200 2008
+Geotag Info  : Latitude:51.863294, Longitude:0.835046
+Views        : 244
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephants
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+colchester zoo elephants 

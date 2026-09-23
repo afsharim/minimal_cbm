@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Sayjack
+Photo URL    : https://www.flickr.com/photos/sayjack/397962623/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 14 18:50:48 GMT+0100 2007
+Upload Date  : Wed Feb 21 21:26:12 GMT+0100 2007
+Views        : 282
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Deer "Wild Animal Park California" 

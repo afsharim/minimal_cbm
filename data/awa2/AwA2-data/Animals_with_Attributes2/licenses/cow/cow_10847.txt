@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sebaso
+Photo URL    : https://www.flickr.com/photos/sebaso/15127050523/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 9 09:25:04 GMT+0100 2014
+Upload Date  : Sun Nov 9 12:10:21 GMT+0100 2014
+Views        : 1,416
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hello Moo.
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+by @sebaso CCBYSA4.0
+
+
++--------+
+|  TAGS  |
++--------+
+cow moo 

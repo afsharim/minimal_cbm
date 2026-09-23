@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Filipe.Ramos
+Photo URL    : https://www.flickr.com/photos/filipe-ramos/21394840819/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Oct 17 21:29:01 GMT+0200 2007
+Upload Date  : Mon Sep 21 01:44:47 GMT+0200 2015
+Views        : 148
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hamster sleeping
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+animal hamster "toilet paper" 

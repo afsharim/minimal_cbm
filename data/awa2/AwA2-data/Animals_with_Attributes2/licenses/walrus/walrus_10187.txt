@@ -1,0 +1,12 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Photo URL    : https://commons.wikimedia.org/wiki/File:Walruses_animals_with_large_tusks_laying.jpg
+License      : public domain
+Date         : Not given

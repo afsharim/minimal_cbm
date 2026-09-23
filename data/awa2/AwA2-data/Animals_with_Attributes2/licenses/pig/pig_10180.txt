@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Marie Hale
+Photo URL    : https://www.flickr.com/photos/15016964@N02/5922175134/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 6 11:12:26 GMT+0100 2011
+Upload Date  : Sun Jul 10 15:48:30 GMT+0200 2011
+Views        : 10,090
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Kune kune pig
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Kune kune pig - taken at Chessington Zoo on 6th February 2011
+
+
++--------+
+|  TAGS  |
++--------+
+pig 

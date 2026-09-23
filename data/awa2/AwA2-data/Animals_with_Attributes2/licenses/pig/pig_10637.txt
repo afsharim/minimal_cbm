@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : gitsul.
+Photo URL    : https://www.flickr.com/photos/john_lustig/250907309/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 23 13:05:37 GMT+0200 2006
+Upload Date  : Sun Sep 24 03:26:14 GMT+0200 2006
+Views        : 116
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+pig
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"renaissance festival 2006" renaissance festival 2006 

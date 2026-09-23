@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : regexman
+Photo URL    : https://www.flickr.com/photos/regexman/15076023806/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 31 06:42:46 GMT+0200 2014
+Upload Date  : Mon Sep 1 00:22:29 GMT+0200 2014
+Geotag Info  : Latitude:37.333440, Longitude:-122.092643
+Views        : 35
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : berniedup
+Photo URL    : https://www.flickr.com/photos/berniedup/15971147973/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jan 16 10:35:13 GMT+0100 2015
+Upload Date  : Fri Feb 20 15:26:58 GMT+0100 2015
+Geotag Info  : Latitude:-25.213716, Longitude:31.924338
+Views        : 682
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Burchell's Zebra (Equus quagga burchellii)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Duke's Waterhole, S137 Road South of Lower Sabie, Kruger NP, SOUTH AFRICA
+
+
++--------+
+|  TAGS  |
++--------+
+"Burchell's Zebra" "Duke's Waterhole" "Equus quagga burchellii" Kruger "Lower Sabie" "South Africa" "Taxonomy:binomial=Equus quagga" "Taxonomy:trinomial=Equus quagga burchellii" 

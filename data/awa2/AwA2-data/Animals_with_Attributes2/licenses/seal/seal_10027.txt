@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : hyeongbinkim
+Photo URL    : https://www.flickr.com/photos/hbkim/15169874721/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Sep 4 11:22:47 GMT+0200 2014
+Upload Date  : Mon Sep 8 01:48:27 GMT+0200 2014
+Views        : 57
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+A fine day in Kaikoura with Seal
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Seal Colony
+Kaikoura, NZ
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

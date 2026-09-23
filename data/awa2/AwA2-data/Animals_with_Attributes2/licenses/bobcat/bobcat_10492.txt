@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : library_mistress
+Photo URL    : https://www.flickr.com/photos/library_mistress/383528600/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Dec 26 14:54:42 GMT+0100 2006
+Upload Date  : Thu Feb 8 10:04:49 GMT+0100 2007
+Views        : 722
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lynx
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+lynx in the vienna zoo at Schönbrunn
+
+
++--------+
+|  TAGS  |
++--------+
+schönbrunn wien vienna österreich austria lynx luchs geo:lat=48.1774 geo:lon=16.2456 

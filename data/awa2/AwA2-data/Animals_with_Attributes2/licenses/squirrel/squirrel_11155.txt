@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : marko boni
+Photo URL    : https://www.flickr.com/photos/markoboni/4930466551/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 26 06:18:18 GMT+0200 2010
+Upload Date  : Fri Aug 27 03:49:33 GMT+0200 2010
+Geotag Info  : Latitude:40.618122, Longitude:-73.969531
+Views        : 86
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel pet cage 

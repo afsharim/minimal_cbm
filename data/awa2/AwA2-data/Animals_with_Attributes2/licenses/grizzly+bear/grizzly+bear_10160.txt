@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ThomasKohler
+Photo URL    : https://www.flickr.com/photos/mecklenburg/18053241995/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 23 14:58:53 GMT+0200 2015
+Upload Date  : Sun May 24 22:11:03 GMT+0200 2015
+Geotag Info  : Latitude:54.078527, Longitude:12.091097
+Views        : 585
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+Bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Kamtschatkatbär
+
+
++--------+
+|  TAGS  |
++--------+
+bear bär zoo tier animal braunbär kamschatkabär fressen hunger hungry "Zoo Rostock" Ursus arctos Ursidae brown piscator beringianus kamtschatkabär Kamchatka 

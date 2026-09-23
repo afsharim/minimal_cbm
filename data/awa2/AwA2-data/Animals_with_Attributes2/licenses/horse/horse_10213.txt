@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Stéphane Moussie
+Photo URL    : https://www.flickr.com/photos/stephmouss/4622243778/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri May 14 18:47:15 GMT+0200 2010
+Upload Date  : Wed May 19 19:57:24 GMT+0200 2010
+Geotag Info  : Latitude:53.525935, Longitude:-9.802551
+Views        : 625
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Connemara Horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Connemara Irlande cheval horse 

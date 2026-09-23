@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : John Tedesco
+Photo URL    : https://www.flickr.com/photos/tedescotimes/5203784297/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Nov 23 15:35:42 GMT+0100 2010
+Upload Date  : Wed Nov 24 15:37:12 GMT+0100 2010
+Geotag Info  : Latitude:29.462187, Longitude:-98.473119
+Views        : 446
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Grizzly at the San Antonio Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"San Antonio" Zoo Grizzly Bear 

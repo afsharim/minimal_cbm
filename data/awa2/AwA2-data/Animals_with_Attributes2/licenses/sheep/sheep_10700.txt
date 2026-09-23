@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : CarolineG2011
+Photo URL    : https://www.flickr.com/photos/cgranycome/15404456622/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 20 10:13:45 GMT+0200 2014
+Upload Date  : Tue Sep 30 22:26:49 GMT+0200 2014
+Geotag Info  : Latitude:57.218542, Longitude:-5.948844
+Views        : 5,373
+Comments     : 6
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep and Rainbow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Isle of Skye, Scotland
+
+
++--------+
+|  TAGS  |
++--------+
+Isle Skye Sheep hills landscape rainbow Scotland UK 

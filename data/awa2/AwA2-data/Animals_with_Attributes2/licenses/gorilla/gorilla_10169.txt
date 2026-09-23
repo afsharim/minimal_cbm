@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : docsclassicgirl
+Photo URL    : https://www.flickr.com/photos/127002994@N07/15589127211/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 17 17:55:34 GMT+0200 2015
+Upload Date  : Tue Oct 21 16:19:11 GMT+0200 2014
+Views        : 44
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_5605
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

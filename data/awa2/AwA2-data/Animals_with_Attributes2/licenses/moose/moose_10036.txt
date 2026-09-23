@@ -1,0 +1,39 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : NOAA Photo Library
+Photo URL    : https://www.flickr.com/photos/noaaphotolib/5408283209/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Feb 1 16:57:12 GMT+0100 2011
+Upload Date  : Tue Feb 1 22:57:12 GMT+0100 2011
+Views        : 614
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+anim0665
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Cow moose kneeling to reach the clover. Note satellite dish and weather gear in background.  Alaska, Anchorage area. 2006 September 8. 
+
+Photographer: Dan Petersen, NOAA/NWSFO Anchora
+ge.
+
+Credit: NOAA 200th Photo Contest.
+
+
++--------+
+|  TAGS  |
++--------+
+NOAA moose 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/494136322/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Aug 19 11:44:28 GMT+0200 2003
+Upload Date  : Sat May 12 01:17:48 GMT+0200 2007
+Geotag Info  : Latitude:47.385711, Longitude:8.573412
+Views        : 8,719
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger of Zürich zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Lying and posing on the rock
+
+
++--------+
+|  TAGS  |
++--------+
+tiger "zoo zürich" tigre "panthera tigris" cat feline wildcat bigcat "amur tiger" "siberian tiger" zoo kora female zurich panthera tigris wild big zürich switzerland kitty schweiz felid striped stripes 

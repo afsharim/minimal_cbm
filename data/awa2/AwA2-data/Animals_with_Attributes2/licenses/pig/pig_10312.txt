@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jerrygabby1
+Photo URL    : https://www.flickr.com/photos/56509109@N04/12123797816/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 25 00:38:00 GMT+0100 2014
+Upload Date  : Fri Jan 24 22:05:26 GMT+0100 2014
+Geotag Info  : Latitude:48.911444, Longitude:-122.409496
+Views        : 494
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Pig
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+I'll quit taking bird pictures when pigs fly.  SLOW BIRD DAY
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

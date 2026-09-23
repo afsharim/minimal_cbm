@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : rais58
+Photo URL    : https://www.flickr.com/photos/rais58/6325118855/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Nov 4 16:03:41 GMT+0100 2011
+Upload Date  : Tue Nov 8 14:05:04 GMT+0100 2011
+Views        : 212
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+sheep market
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

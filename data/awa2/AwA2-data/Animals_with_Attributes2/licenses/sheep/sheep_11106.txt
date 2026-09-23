@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : dew drop157
+Photo URL    : https://www.flickr.com/photos/117611583@N07/14147447209/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jan 2 15:33:36 GMT+0100 2014
+Upload Date  : Tue Jun 3 04:01:27 GMT+0200 2014
+Geotag Info  : Latitude:-40.938414, Longitude:174.869384
+Views        : 10,549
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Sheep
+
+
++--------+
+|  TAGS  |
++--------+
+animals farm sheep 

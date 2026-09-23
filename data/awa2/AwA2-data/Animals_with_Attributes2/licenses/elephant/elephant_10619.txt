@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Dennis Heller
+Photo URL    : https://www.flickr.com/photos/28242319@N03/14654022340/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 1 09:37:40 GMT+0200 2014
+Upload Date  : Wed Aug 6 04:04:03 GMT+0200 2014
+Views        : 33
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

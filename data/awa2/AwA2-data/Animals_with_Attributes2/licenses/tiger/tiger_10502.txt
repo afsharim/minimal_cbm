@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : chriswsn
+Photo URL    : https://www.flickr.com/photos/chriswsn/3122310708/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 22 03:15:51 GMT+0200 2007
+Upload Date  : Sat Dec 20 07:41:07 GMT+0100 2008
+Geotag Info  : Latitude:38.928847, Longitude:-77.046475
+Views        : 7,651
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Tiger through some high grass at the exhibit at the Washington DC zoo.
+
+
++--------+
+|  TAGS  |
++--------+
+Zoo "Washington Zoo" Tiger 

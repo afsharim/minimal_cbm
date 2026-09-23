@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Peter G Trimming
+Photo URL    : https://www.flickr.com/photos/peter-trimming/6822916987/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 4 10:21:28 GMT+0100 2012
+Upload Date  : Sun Feb 5 15:02:00 GMT+0100 2012
+Geotag Info  : Latitude:50.663567, Longitude:-1.179742
+Views        : 3,797
+Comments     : 16
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel Portrait
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Seen at the Alverstone Mead Nature Reserve. About as close as I could get!
+
+
++--------+
+|  TAGS  |
++--------+
+Alverstone Mead Nature Reserve IoW Isle Wight Red Squirrel Sciurus vulgaris Mammal 2012 Peter Trimming 

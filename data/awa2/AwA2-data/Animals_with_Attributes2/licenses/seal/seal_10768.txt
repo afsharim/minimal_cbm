@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : nessman
+Photo URL    : https://www.flickr.com/photos/nessman/2542239104/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri May 30 10:32:58 GMT+0200 2008
+Upload Date  : Sun Jun 1 19:30:12 GMT+0200 2008
+Views        : 83
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Seal
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Vancouver Aquarium 

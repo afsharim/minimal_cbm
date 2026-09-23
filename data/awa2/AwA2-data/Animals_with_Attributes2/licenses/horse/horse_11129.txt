@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : flurdy
+Photo URL    : https://www.flickr.com/photos/flurdy/3989857029/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Sep 29 21:54:47 GMT+0200 2009
+Upload Date  : Wed Oct 7 18:12:16 GMT+0200 2009
+Geotag Info  : Latitude:-0.789917, Longitude:-91.097860
+Views        : 174
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Karen on a horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+ecuador galapagos volcano horse 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Nick Bramhall
+Photo URL    : https://www.flickr.com/photos/black_friction/4917259477/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 21 17:04:21 GMT+0200 2010
+Upload Date  : Sun Aug 22 23:55:01 GMT+0200 2010
+Geotag Info  : Latitude:56.974468, Longitude:-3.383645
+Views        : 107
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

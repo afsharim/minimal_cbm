@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : navarvel
+Photo URL    : https://www.flickr.com/photos/131231326@N04/17022870051/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 10 13:43:57 GMT+0200 2011
+Upload Date  : Fri Apr 3 23:46:18 GMT+0200 2015
+Geotag Info  : Latitude:38.999975, Longitude:-94.519318
+Views        : 175
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Chimpanzee
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+<i>Pan troglodytes</i>
+Kansas City Zoo, Kansas City, Jackson County, Missouri
+September 10, 2011
+
+
++--------+
+|  TAGS  |
++--------+
+Mammalia Primates Hominidae Pan "Pan troglodytes" Chimpanzee Missouri "Jackson County" "Kansas City" "Kansas City Zoo" 

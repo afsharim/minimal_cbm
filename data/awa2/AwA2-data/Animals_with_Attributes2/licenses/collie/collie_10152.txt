@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : The Word Factory Ltd
+Photo URL    : https://www.flickr.com/photos/thewordfactory/14642194146/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 16 00:38:27 GMT+0200 2014
+Upload Date  : Wed Jul 16 01:38:34 GMT+0200 2014
+Views        : 44
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Christmas Collie
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

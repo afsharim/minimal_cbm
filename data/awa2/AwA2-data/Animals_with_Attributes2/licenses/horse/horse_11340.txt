@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Peter Glyn
+Photo URL    : https://www.flickr.com/photos/remedy451/7836384452/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 19 12:35:48 GMT+0200 2012
+Upload Date  : Wed Aug 22 08:24:28 GMT+0200 2012
+Geotag Info  : Latitude:51.764639, Longitude:-4.465405
+Views        : 11,867
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Piebald Horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Lovely horse in a field near Laugharne Carmarthenshire. A piebald is one that has a spotting pattern of large unpigmented, usually white, areas of hair, feathers, or scales and normally pigmented patches, generally black.
+
+
++--------+
+|  TAGS  |
++--------+
+Horse Piebald Horses 

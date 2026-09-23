@@ -1,0 +1,13 @@
++--------------------------------------+
+|             Photo Metadata           |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bbqchinchilla
+Photo URL    : http://bbqchinchilla.deviantart.com/art/bat-62679902
+License      : Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 License (https://creativecommons.org/licenses/by-nc-nd/3.0/)
+Date         : August 18, 2007

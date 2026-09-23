@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : spx photos
+Photo URL    : https://www.flickr.com/photos/spaxx12/9635677344/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 30 17:06:53 GMT+0200 2013
+Upload Date  : Sat Aug 31 09:40:06 GMT+0200 2013
+Views        : 488
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+sleeping lynx
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+lynx animal 

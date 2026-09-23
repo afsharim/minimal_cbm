@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Lewis Kelly
+Photo URL    : https://www.flickr.com/photos/43190831@N07/4679581360/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 5 17:11:32 GMT+0200 2010
+Upload Date  : Mon Jun 7 19:54:28 GMT+0200 2010
+Views        : 14
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Horses 

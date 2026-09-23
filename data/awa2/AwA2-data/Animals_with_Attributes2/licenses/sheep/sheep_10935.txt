@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Fuzzy Gerdes
+Photo URL    : https://www.flickr.com/photos/fuzzy/3608105287/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 7 13:27:37 GMT+0200 2009
+Upload Date  : Mon Jun 8 23:37:56 GMT+0200 2009
+Geotag Info  : Latitude:41.208638, Longitude:-87.975940
+Views        : 694
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+sheep 

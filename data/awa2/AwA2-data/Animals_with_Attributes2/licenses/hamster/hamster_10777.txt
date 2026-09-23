@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jim, the Photographer
+Photo URL    : https://www.flickr.com/photos/jcapaldi/4354288385/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 13 18:50:59 GMT+0100 2010
+Upload Date  : Sun Feb 14 01:13:18 GMT+0100 2010
+Geotag Info  : Latitude:39.930142, Longitude:-75.339775
+Views        : 946
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Zippity - Emily's New Hamster
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Zippity is a gift for Emily's 10th Birthday.
+
+
++--------+
+|  TAGS  |
++--------+
+hamster zippity 

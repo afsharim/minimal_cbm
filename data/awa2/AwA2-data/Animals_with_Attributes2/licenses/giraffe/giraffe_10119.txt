@@ -1,0 +1,39 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : BenSanborn
+Photo URL    : https://www.flickr.com/photos/bensanborn/6145564260/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 10 19:22:52 GMT+0200 2011
+Upload Date  : Wed Sep 14 00:53:18 GMT+0200 2011
+Geotag Info  : Latitude:39.852565, Longitude:-81.729354
+Views        : 501
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Curious Giraffe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+After a light dinner and about 10 photos... she started to notice. 
+
+Photo taken at The Wilds in Cumberland, OH.
+Camera: Canon T1i
+Lens: 55-250 f/4.0-5.6
+
+
++--------+
+|  TAGS  |
++--------+
+"The Wilds" Giraffe Curiousity 

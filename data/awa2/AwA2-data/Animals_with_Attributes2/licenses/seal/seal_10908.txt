@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Liam Quinn
+Photo URL    : https://www.flickr.com/photos/liamq/5917215513/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jan 21 16:41:01 GMT+0100 2011
+Upload Date  : Sat Jul 9 06:58:34 GMT+0200 2011
+Geotag Info  : Latitude:-60.648954, Longitude:-45.571460
+Views        : 1,119
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Southern Elephant Seals at Shingle Cove
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+On Coronation Island in the South Orkneys, Antarctica.
+
+
++--------+
+|  TAGS  |
++--------+
+"Southern Elephant Seals" "elephant seals" seals "Mirounga leonina" "Shingle Cove" "Coronation Island" "South Orkney Islands" "South Orkneys" Antarctica wild wildlife 

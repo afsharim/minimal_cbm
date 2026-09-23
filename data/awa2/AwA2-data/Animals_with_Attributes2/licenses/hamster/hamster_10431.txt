@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jpockele
+Photo URL    : https://www.flickr.com/photos/jpockele/301199348/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 19 21:38:04 GMT+0100 2006
+Upload Date  : Sun Nov 19 21:38:04 GMT+0100 2006
+Geotag Info  : Latitude:51.279555, Longitude:4.442338
+Views        : 889
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Knibbel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+knibbel russian dwarf hamster big fat 

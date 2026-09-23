@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mr.Thomas
+Photo URL    : https://www.flickr.com/photos/exalthim/2099370135/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 24 15:05:08 GMT+0100 2007
+Upload Date  : Mon Dec 10 06:14:31 GMT+0100 2007
+Geotag Info  : Latitude:43.602676, Longitude:-116.163511
+Views        : 1,852
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel 2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Took a couple pictures of this squirrel on the walk up to the Old State Penitentiary in Boise, Idaho over Thanksgiving weekend.
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel Boise Idaho "Old State Penitentiary" flickrdiamond 

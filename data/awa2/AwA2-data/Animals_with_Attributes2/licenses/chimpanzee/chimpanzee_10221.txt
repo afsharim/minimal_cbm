@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : nilsrinaldi
+Photo URL    : https://www.flickr.com/photos/nilsrinaldi/5157809749/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Oct 6 11:26:32 GMT+0200 2010
+Upload Date  : Mon Nov 8 16:10:51 GMT+0100 2010
+Views        : 1,643
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Chimpanzee yawning
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Mahale Mountains National Park, Lake Tanganyika, Tanzania
+
+
++--------+
+|  TAGS  |
++--------+
+chimpanzee mahale tanzania 

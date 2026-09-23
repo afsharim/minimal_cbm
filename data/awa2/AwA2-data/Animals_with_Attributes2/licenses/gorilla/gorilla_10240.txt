@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ryan Vaarsi
+Photo URL    : https://www.flickr.com/photos/77799978@N00/6869631740/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Mar 12 13:04:48 GMT+0100 2012
+Upload Date  : Mon Mar 26 01:24:04 GMT+0200 2012
+Geotag Info  : Latitude:34.154076, Longitude:-118.282070
+Views        : 1,147
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Gorilla 1
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+gorilla "lowland gorilla" zoo "Los Angeles Zoo" primate mammal animal 2012 "Canon EOS Rebel Xsi" "endangered species" 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Donnaphoto
+Photo URL    : https://www.flickr.com/photos/77043400@N00/849368068/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 13 02:29:49 GMT+0200 2006
+Upload Date  : Thu Jul 19 07:19:57 GMT+0200 2007
+Views        : 397
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sea Otter - Monterey Aquarium - California July 2007
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Monterey Aquarium" "Sea animals" otters animals 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bunnygoth
+Photo URL    : https://www.flickr.com/photos/bunnygoth/4455442677/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Mar 19 16:10:56 GMT+0100 2010
+Upload Date  : Tue Mar 23 03:01:47 GMT+0100 2010
+Views        : 98
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Miami Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Chimpanzee exhibit at the Miami Metrozoo, Florida
+
+
++--------+
+|  TAGS  |
++--------+
+miami zoo metrozoo florida chimpanzee chimp animals miamizoo 

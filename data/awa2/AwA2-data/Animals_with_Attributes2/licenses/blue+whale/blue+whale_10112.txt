@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : NOAA Photo Library
+Photo URL    : https://www.flickr.com/photos/noaaphotolib/5077885937/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Oct 13 10:14:50 GMT+0200 2010
+Upload Date  : Wed Oct 13 16:20:04 GMT+0200 2010
+Views        : 2,531
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+sanc0112
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Blue whales on the surface.  California, Gulf of the Farallones NMS
+
+Photographer: Dan Shapiro.
+
+
++--------+
+|  TAGS  |
++--------+
+NOAA whale 

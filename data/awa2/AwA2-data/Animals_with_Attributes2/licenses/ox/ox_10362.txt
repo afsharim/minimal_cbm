@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : wyldwest
+Photo URL    : https://www.flickr.com/photos/wyldwest/2756948552/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 10 12:23:09 GMT+0200 2008
+Upload Date  : Tue Aug 12 15:35:28 GMT+0200 2008
+Views        : 27
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_2599
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Wildlife Safari - Winston Oregon
+
+
++--------+
+|  TAGS  |
++--------+
+2008 wyldwest Oregon weekend 

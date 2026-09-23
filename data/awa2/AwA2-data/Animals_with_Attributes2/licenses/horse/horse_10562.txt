@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : foxrosser
+Photo URL    : https://www.flickr.com/photos/foxrosser/1814527059/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 20 12:52:29 GMT+0200 2007
+Upload Date  : Thu Nov 1 20:02:09 GMT+0100 2007
+Views        : 544
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+These pix were taken in the beautiful small town of Washington, Georgia, if you look closely, you can see all the flies on this poor horse!
+
+
++--------+
+|  TAGS  |
++--------+
+horse 

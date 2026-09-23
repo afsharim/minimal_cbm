@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : HealthGauge
+Photo URL    : https://www.flickr.com/photos/healthgauge/21601502280/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Sep 28 17:58:27 GMT+0200 2015
+Upload Date  : Mon Sep 28 19:05:36 GMT+0200 2015
+Views        : 1,073
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Friendly Cow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+<a href="http://www.healthgauge.com/portfolio-tag/dairy-alternatives/" rel="nofollow">www.healthgauge.com/portfolio-tag/dairy-alternatives/</a>
+
+
++--------+
+|  TAGS  |
++--------+
+Cow Dairy 

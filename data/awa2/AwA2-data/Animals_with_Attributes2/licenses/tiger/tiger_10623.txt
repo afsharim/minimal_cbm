@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ShootYallPhotography
+Photo URL    : https://www.flickr.com/photos/cactusandivy/5455549947/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Feb 18 09:08:21 GMT+0100 2011
+Upload Date  : Fri Feb 18 15:08:21 GMT+0100 2011
+Views        : 51
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A tiger at the Honolulu Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+tiger "Honolulu Zoo" Hawaii 

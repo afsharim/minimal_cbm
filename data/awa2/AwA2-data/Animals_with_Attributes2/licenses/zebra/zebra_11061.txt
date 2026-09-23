@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : adam_miguel
+Photo URL    : https://www.flickr.com/photos/adam_miguel/2460330440/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri May 2 13:16:50 GMT+0200 2008
+Upload Date  : Fri May 2 22:54:18 GMT+0200 2008
+Views        : 53
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+zebras
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

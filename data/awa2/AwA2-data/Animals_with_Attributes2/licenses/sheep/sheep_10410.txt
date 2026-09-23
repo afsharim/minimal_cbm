@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : megoizzy
+Photo URL    : https://www.flickr.com/photos/megoizzy/6558799769/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 25 17:55:49 GMT+0200 2011
+Upload Date  : Fri Dec 23 13:01:27 GMT+0100 2011
+Geotag Info  : Latitude:52.971386, Longitude:-4.462738
+Views        : 2,149
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Kissing sheep with onlooker - Wales
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Two sheep kissing while a third looks on. Snapped at Nant Gwrtheryn in North Wales.
+
+
++--------+
+|  TAGS  |
++--------+
+sheep wales "nant gwrtheyrn" 

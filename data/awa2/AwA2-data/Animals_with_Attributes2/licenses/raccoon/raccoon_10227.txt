@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : GerryT
+Photo URL    : https://www.flickr.com/photos/gerrythomasen/19790724/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jan 12 22:15:17 GMT+0100 2001
+Upload Date  : Fri Jun 17 03:17:09 GMT+0200 2005
+Geotag Info  : Latitude:49.183610, Longitude:-123.934621
+Views        : 978
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Raccoon with open mouth
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+It was chewing, not hissing.
+
+
++--------+
+|  TAGS  |
++--------+
+raccoon "newcastle island" 

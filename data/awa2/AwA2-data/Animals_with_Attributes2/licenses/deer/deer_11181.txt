@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Peter G Trimming
+Photo URL    : https://www.flickr.com/photos/peter-trimming/14482003827/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 13 19:33:58 GMT+0200 2014
+Upload Date  : Wed Jul 16 13:28:47 GMT+0200 2014
+Geotag Info  : Latitude:54.385060, Longitude:-3.330405
+Views        : 511
+Comments     : 6
+
+
++---------+
+|  TITLE  |
++---------+
+Roe Deer at Forest How
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Female deer.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

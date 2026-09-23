@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ray Moore- RAR Studios
+Photo URL    : https://www.flickr.com/photos/nilkin67/2178663258/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jan 8 00:04:49 GMT+0100 2008
+Upload Date  : Tue Jan 8 19:03:03 GMT+0100 2008
+Views        : 12
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_0105.JPG
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel 

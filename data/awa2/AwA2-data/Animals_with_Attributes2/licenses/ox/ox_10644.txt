@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Frontierofficial
+Photo URL    : https://www.flickr.com/photos/frontierofficial/6375672333/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Nov 21 10:20:55 GMT+0100 2011
+Upload Date  : Mon Nov 21 11:20:55 GMT+0100 2011
+Views        : 53
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

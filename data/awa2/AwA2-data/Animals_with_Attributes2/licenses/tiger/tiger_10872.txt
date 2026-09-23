@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : fooflington
+Photo URL    : https://www.flickr.com/photos/fooflington/3957144820/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 26 15:56:46 GMT+0200 2009
+Upload Date  : Sun Sep 27 00:29:11 GMT+0200 2009
+Geotag Info  : Latitude:51.270668, Longitude:1.153221
+Views        : 295
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Yawning Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+tiger howletts 

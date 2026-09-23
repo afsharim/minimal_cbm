@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ozzy Delaney
+Photo URL    : https://www.flickr.com/photos/24931020@N02/8244223153/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Dec 4 18:14:39 GMT+0100 2012
+Upload Date  : Tue Dec 4 19:14:39 GMT+0100 2012
+Geotag Info  : Latitude:51.903003, Longitude:0.202045
+Views        : 36
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

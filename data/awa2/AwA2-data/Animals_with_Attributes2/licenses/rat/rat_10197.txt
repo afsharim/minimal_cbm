@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Greencolander
+Photo URL    : https://www.flickr.com/photos/greencolander/3635971689/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 17 14:50:31 GMT+0200 2009
+Upload Date  : Wed Jun 17 22:13:09 GMT+0200 2009
+Views        : 154
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Laura's Rat
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+laura rat 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Joybot
+Photo URL    : https://www.flickr.com/photos/joybot/14773390497/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 11 12:42:49 GMT+0200 2014
+Upload Date  : Mon Aug 18 18:14:31 GMT+0200 2014
+Geotag Info  : Latitude:53.225434, Longitude:-2.887516
+Views        : 100
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Chester Zoo.
+
+
++--------+
+|  TAGS  |
++--------+
+"chester zoo" zoo chester canon 600d eos dslr UK "united kingdom" 

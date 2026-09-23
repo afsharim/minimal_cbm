@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jsmjr
+Photo URL    : https://www.flickr.com/photos/jsmjr/2352085010/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 16 18:46:42 GMT+0100 2008
+Upload Date  : Sat Mar 22 13:19:19 GMT+0100 2008
+Views        : 65
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_5900
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Otter madness
+
+
++--------+
+|  TAGS  |
++--------+
+otters vancouver aquarium 

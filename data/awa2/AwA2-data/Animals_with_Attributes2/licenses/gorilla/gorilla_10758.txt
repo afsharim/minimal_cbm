@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bobosh_t
+Photo URL    : https://www.flickr.com/photos/frted/8047961058/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Oct 1 21:43:47 GMT+0200 2012
+Upload Date  : Tue Oct 2 20:40:42 GMT+0200 2012
+Views        : 840
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Silverback Mountain Gorilla
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Cincinnati Zoo" Zoo animals Cincinnati 10/1/12 "Mountain Gorilla" 

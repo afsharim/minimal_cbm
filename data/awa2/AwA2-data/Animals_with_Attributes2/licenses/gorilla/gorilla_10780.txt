@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Carl Feldman
+Photo URL    : https://www.flickr.com/photos/carlfeldman/2871660504/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Sep 19 20:46:03 GMT+0200 2008
+Upload Date  : Sat Sep 20 02:46:03 GMT+0200 2008
+Views        : 2,280
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+The Great Ape
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Ape gorilla "Cincinnati Zoo" 

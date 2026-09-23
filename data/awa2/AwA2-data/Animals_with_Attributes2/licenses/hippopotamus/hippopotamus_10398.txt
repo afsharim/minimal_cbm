@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : l.madhavan
+Photo URL    : https://www.flickr.com/photos/lmadhavan/7291815534/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 27 14:50:07 GMT+0200 2012
+Upload Date  : Tue May 29 04:24:41 GMT+0200 2012
+Views        : 524
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hippopotamus
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+At Woodland Park Zoo.
+
+
++--------+
+|  TAGS  |
++--------+
+Hippopotamus Hippo "Woodland Park Zoo" 

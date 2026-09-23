@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : HadiHaggins
+Photo URL    : https://www.flickr.com/photos/hadihaggins/7546385570/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 9 13:51:33 GMT+0200 2012
+Upload Date  : Wed Jul 11 01:50:21 GMT+0200 2012
+Geotag Info  : Latitude:58.992481, Longitude:-3.335208
+Views        : 232
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cow Gang
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

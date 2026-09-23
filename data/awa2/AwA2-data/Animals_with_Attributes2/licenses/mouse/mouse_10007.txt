@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : plenty.r.
+Photo URL    : https://www.flickr.com/photos/plenty/6243299821/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Oct 13 13:58:43 GMT+0200 2011
+Upload Date  : Fri Oct 14 16:46:25 GMT+0200 2011
+Views        : 2,101
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+A mouse tale
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This mouse was served with an eviction notice until I realised she had a family.
+She's now back under the rhubarb and the kids are doing fine.
+
+
++--------+
+|  TAGS  |
++--------+
+mouse 

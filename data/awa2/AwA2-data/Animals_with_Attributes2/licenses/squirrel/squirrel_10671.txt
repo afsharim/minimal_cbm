@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : BinaryApe
+Photo URL    : https://www.flickr.com/photos/binaryape/1458555513/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 29 14:34:36 GMT+0200 2007
+Upload Date  : Sat Sep 29 19:49:02 GMT+0200 2007
+Geotag Info  : Latitude:53.535225, Longitude:-2.261021
+Views        : 15,559
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Eating squirrel convenience food.
+
+She has a very striped tail and a lot of ginger fur, not as plain as most greys.
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel "grey squirrel" peanut manchester uk "Heaton Park" écureuil noisette sauvage faune 

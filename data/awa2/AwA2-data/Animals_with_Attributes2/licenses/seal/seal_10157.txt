@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : lilapplebum
+Photo URL    : https://www.flickr.com/photos/20441398@N06/7465325478/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 21 19:11:33 GMT+0200 2012
+Upload Date  : Fri Jun 29 09:13:51 GMT+0200 2012
+Views        : 152
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC00840
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+endangered Hawaiian Monk Seal
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

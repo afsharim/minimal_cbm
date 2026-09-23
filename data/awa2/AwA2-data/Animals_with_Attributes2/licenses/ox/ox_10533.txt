@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Aglarond
+Photo URL    : https://www.flickr.com/photos/aglarond/15190252579/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 24 09:48:14 GMT+0200 2011
+Upload Date  : Sun Sep 28 09:28:14 GMT+0200 2014
+Geotag Info  : Latitude:46.582934, Longitude:17.201414
+Views        : 9
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+P1090337
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Hungarian Buffalo - Buffalo Reserve, Kápolnapuszta
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

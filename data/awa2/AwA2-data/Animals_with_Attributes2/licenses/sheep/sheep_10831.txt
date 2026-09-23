@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bezberesford
+Photo URL    : https://www.flickr.com/photos/bezberesford/446019750/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Apr 4 10:24:08 GMT+0200 2007
+Upload Date  : Wed Apr 4 14:39:10 GMT+0200 2007
+Views        : 18
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+© 2008 All rights reserved by BezBeresford
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

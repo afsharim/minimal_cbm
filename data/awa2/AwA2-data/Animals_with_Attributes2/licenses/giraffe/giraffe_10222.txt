@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : WEAZ 73
+Photo URL    : https://www.flickr.com/photos/weaz73/4412344543/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Sep 29 14:14:09 GMT+0200 2006
+Upload Date  : Sun Mar 7 07:12:23 GMT+0100 2010
+Geotag Info  : Latitude:-33.843455, Longitude:151.241526
+Views        : 1,236
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+giraffe at taronga zoo sydney
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+giraffe at taronga zoo sydney
+
+
++--------+
+|  TAGS  |
++--------+
+giraffe "taronga zoo" "WEAZ 73" 

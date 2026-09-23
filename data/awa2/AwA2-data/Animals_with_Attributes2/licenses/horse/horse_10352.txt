@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Clinton Steeds
+Photo URL    : https://www.flickr.com/photos/cwsteeds/4924168197/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Dec 28 16:12:19 GMT+0100 2009
+Upload Date  : Tue Aug 24 23:29:27 GMT+0200 2010
+Geotag Info  : Latitude:35.023574, Longitude:-94.634234
+Views        : 1,600
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Friendly Horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Moments later, the horse realized I had no treats and walked away.  I was of no more interest.
+
+
++--------+
+|  TAGS  |
++--------+
+OKlahoma Poteau horse 

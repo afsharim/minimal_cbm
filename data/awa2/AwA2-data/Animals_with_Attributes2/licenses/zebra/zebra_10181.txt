@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sdbeazley
+Photo URL    : https://www.flickr.com/photos/sdbeazley/5324882274/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 8 15:23:51 GMT+0200 2008
+Upload Date  : Tue Jan 4 21:15:33 GMT+0100 2011
+Geotag Info  : Latitude:-1.801460, Longitude:35.881347
+Views        : 608
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Four Plains Zebras and an Oxpecker
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Maasai Mara, Kenya, Africa
+Equus quagga
+Buphagus erythrorhynchus
+
+
++--------+
+|  TAGS  |
++--------+
+ngc zebra 

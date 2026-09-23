@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : tanel peets
+Photo URL    : https://www.flickr.com/photos/tanelp/2923364799/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 8 17:21:26 GMT+0100 2008
+Upload Date  : Wed Oct 8 11:16:50 GMT+0200 2008
+Geotag Info  : Latitude:59.010163, Longitude:23.531341
+Views        : 1,283
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+sheep country field noarootsi 

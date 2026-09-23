@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : chartus
+Photo URL    : https://www.flickr.com/photos/chartus/6399649301/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 27 14:00:12 GMT+0200 2010
+Upload Date  : Fri Nov 25 14:53:41 GMT+0100 2011
+Views        : 174
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+behold
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+lynx animal nature 

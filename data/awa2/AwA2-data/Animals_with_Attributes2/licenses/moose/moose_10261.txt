@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : toffehoff
+Photo URL    : https://www.flickr.com/photos/toffehoff/4208723629/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 14 21:39:30 GMT+0200 2009
+Upload Date  : Wed Dec 23 20:12:23 GMT+0100 2009
+Geotag Info  : Latitude:64.302715, Longitude:-146.506805
+Views        : 1,458
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Moose xing
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Alaska moose 

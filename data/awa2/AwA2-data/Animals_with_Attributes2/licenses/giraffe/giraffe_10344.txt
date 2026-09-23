@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Dolfingrl
+Photo URL    : https://www.flickr.com/photos/crazynconfused1981/220621749/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 23 16:24:35 GMT+0200 2006
+Upload Date  : Mon Aug 21 04:51:32 GMT+0200 2006
+Views        : 36
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

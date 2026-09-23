@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : manyfacesphotography
+Photo URL    : https://www.flickr.com/photos/awronwood/6773573679/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jan 27 05:16:49 GMT+0100 2012
+Upload Date  : Sat Jan 28 02:20:24 GMT+0100 2012
+Geotag Info  : Latitude:41.721964, Longitude:-72.700738
+Views        : 714
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+deer in the foggy woods
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+deer as I was exploring cedar hill
+
+
++--------+
+|  TAGS  |
++--------+
+woods deer fog 

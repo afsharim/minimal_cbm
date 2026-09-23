@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : gvgoebel
+Photo URL    : https://www.flickr.com/photos/37467370@N08/7183979467/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Sep 18 10:40:04 GMT+0200 2007
+Upload Date  : Wed Jun 13 19:31:38 GMT+0200 2012
+Views        : 198
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Ygsww_1b
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+walrus statuary, Sea World Orlando, Florida / 2007
+
+
++--------+
+|  TAGS  |
++--------+
+"Sea World Orlando" "walrus statuary" 

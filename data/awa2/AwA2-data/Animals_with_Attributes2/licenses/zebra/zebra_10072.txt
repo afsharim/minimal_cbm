@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Eric Kilby
+Photo URL    : https://www.flickr.com/photos/ekilby/6374120601/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 20 13:23:37 GMT+0100 2011
+Upload Date  : Mon Nov 21 04:42:26 GMT+0100 2011
+Geotag Info  : Latitude:42.305369, Longitude:-71.089098
+Views        : 957
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Baby Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+With adult in the background.  The composition of this shot wound up looking very artificial.
+
+
++--------+
+|  TAGS  |
++--------+
+franklin park zoo zebra baby adult stripes hooves grass 

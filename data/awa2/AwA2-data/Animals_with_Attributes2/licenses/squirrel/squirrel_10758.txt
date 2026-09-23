@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Bichuas (E. Carton)
+Photo URL    : https://www.flickr.com/photos/bichuas/3726993499/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 20 00:29:07 GMT+0200 2009
+Upload Date  : Thu Jul 16 22:43:14 GMT+0200 2009
+Geotag Info  : Latitude:40.741599, Longitude:-73.987944
+Views        : 358
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+New York junio '09
+
+
++--------+
+|  TAGS  |
++--------+
+ardilla comiendo cacahuete parque "new york" NYC "safe creative" 

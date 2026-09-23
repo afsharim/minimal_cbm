@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : JavaSquid
+Photo URL    : https://www.flickr.com/photos/javasquid/1712680947/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Oct 17 13:18:52 GMT+0200 2007
+Upload Date  : Tue Oct 23 19:31:30 GMT+0200 2007
+Views        : 629
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sad-looking Elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"bronx zoo" elephant 071017 

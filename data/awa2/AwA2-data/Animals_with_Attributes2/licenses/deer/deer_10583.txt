@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Michelleyyy
+Photo URL    : https://www.flickr.com/photos/queenmichelle/7938254222/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Sep 5 08:23:02 GMT+0200 2012
+Upload Date  : Wed Sep 5 19:46:49 GMT+0200 2012
+Geotag Info  : Latitude:47.775790, Longitude:9.289197
+Views        : 80
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Germany Vacation 

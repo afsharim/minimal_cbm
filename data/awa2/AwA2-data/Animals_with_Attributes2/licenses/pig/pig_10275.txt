@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : International Livestock Research Institute
+Photo URL    : https://www.flickr.com/photos/ilri/9022215759/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 5 07:54:32 GMT+0200 2013
+Upload Date  : Wed Jun 12 12:18:48 GMT+0200 2013
+Geotag Info  : Latitude:0.365292, Longitude:32.737026
+Views        : 3,135
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Pig in concrete stable in Mukono District, Uganda
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Concrete stys are a rare form of pig housing in Uganda as not many farmers can afford them (photo credit: ILRI/Elisabeth Kilian).
+
+
++--------+
+|  TAGS  |
++--------+
+Uganda Pigs 

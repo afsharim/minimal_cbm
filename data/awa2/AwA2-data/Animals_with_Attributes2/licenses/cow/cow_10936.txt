@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Clownhouse III
+Photo URL    : https://www.flickr.com/photos/clownhousethethird/2949148067/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Oct 17 15:03:47 GMT+0200 2008
+Upload Date  : Fri Oct 17 19:57:14 GMT+0200 2008
+Geotag Info  : Latitude:52.129378, Longitude:5.735721
+Views        : 20,559
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Joe Cow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Just a regular gu.. eh, cow.
+
+
++--------+
+|  TAGS  |
++--------+
+cows cow moo 

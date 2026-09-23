@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Aidan Jones
+Photo URL    : https://www.flickr.com/photos/aidan_jones/1235820054/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 4 04:45:04 GMT+0200 2006
+Upload Date  : Sun Aug 26 02:28:50 GMT+0200 2007
+Views        : 193
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Content Elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+elephant "sri lanka" 

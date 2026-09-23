@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : AlexK100
+Photo URL    : https://www.flickr.com/photos/alexk100/443903877/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 25 19:52:32 GMT+0100 2007
+Upload Date  : Mon Apr 2 20:57:30 GMT+0200 2007
+Views        : 1,177
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Братья
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+rat 

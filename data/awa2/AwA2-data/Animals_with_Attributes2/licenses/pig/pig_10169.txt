@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : adstream
+Photo URL    : https://www.flickr.com/photos/adstream/4529788024/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 17 16:50:16 GMT+0200 2010
+Upload Date  : Sun Apr 18 02:34:09 GMT+0200 2010
+Geotag Info  : Latitude:52.695333, Longitude:4.708135
+Views        : 1,109
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_7326
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+pigs eating 

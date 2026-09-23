@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ahisgett
+Photo URL    : https://www.flickr.com/photos/hisgett/16731523372/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Mar 4 13:58:18 GMT+0100 2015
+Upload Date  : Wed Mar 4 17:37:27 GMT+0100 2015
+Geotag Info  : Latitude:52.514157, Longitude:-2.078797
+Views        : 1,273
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger 5a
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Tiger "Big Cat" 

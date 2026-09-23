@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/17967540321/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Apr 3 13:07:21 GMT+0200 2015
+Upload Date  : Fri May 22 15:00:21 GMT+0200 2015
+Geotag Info  : Latitude:49.244640, Longitude:6.137795
+Views        : 3,161
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Hippo profile
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Profile of one of the hippopotamuses of the Amnéville zoo swimming.
+
+
++--------+
+|  TAGS  |
++--------+
+swimming water surface portrait face profile hippo hippopotamus mammal amnéville zoo france nikon d4 

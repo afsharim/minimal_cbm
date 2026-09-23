@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mliu92
+Photo URL    : https://www.flickr.com/photos/mliu92/4804442075/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 17 20:08:29 GMT+0200 2010
+Upload Date  : Sun Jul 18 16:42:57 GMT+0200 2010
+Geotag Info  : Latitude:32.764639, Longitude:-117.228943
+Views        : 298
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Applause 9736
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Impressive -- stading up and clapping.
+
+
++--------+
+|  TAGS  |
++--------+
+"sea world" "san diego" "shamu rocks" killer whale orca 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sayamindu
+Photo URL    : https://www.flickr.com/photos/sayamindu/7825861538/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 12 20:32:54 GMT+0200 2012
+Upload Date  : Mon Aug 20 21:48:04 GMT+0200 2012
+Views        : 233
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Near Maroon Lake, Colorado
+
+
++--------+
+|  TAGS  |
++--------+
+otter "maroon lake" colorado "maroon bells" 

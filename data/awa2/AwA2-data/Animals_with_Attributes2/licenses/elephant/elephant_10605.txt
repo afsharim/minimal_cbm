@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Andrew and Annemarie
+Photo URL    : https://www.flickr.com/photos/andrew_annemarie/11836075286/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jan 8 11:29:01 GMT+0100 2014
+Upload Date  : Wed Jan 8 13:28:23 GMT+0100 2014
+Geotag Info  : Latitude:19.165843, Longitude:98.912315
+Views        : 505
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Follow our trip at <a href="http://www.trekkingasia.co.uk" rel="nofollow">Trekking Asia</a>.
+
+
++--------+
+|  TAGS  |
++--------+
+file:md5sum=3df95b8364d83e08050a6a2b0a54024c file:sha1sig=de89930eda2696c5a86fa436db019de9a6f9ba22 Elephants thailand 

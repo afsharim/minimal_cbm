@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Dushan and Miae
+Photo URL    : https://www.flickr.com/photos/hanuska/5047234365/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 26 16:34:40 GMT+0200 2010
+Upload Date  : Sun Oct 3 18:08:38 GMT+0200 2010
+Geotag Info  : Latitude:-33.741791, Longitude:151.045103
+Views        : 1,674
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+sheep "Koala Park Sanctuary" "West Pennant Hills" Sydney Australia 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : fiskfisk
+Photo URL    : https://www.flickr.com/photos/fiskfisk/878588200/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 23 15:41:06 GMT+0200 2007
+Upload Date  : Mon Jul 23 22:25:43 GMT+0200 2007
+Geotag Info  : Latitude:58.442500, Longitude:11.430459
+Views        : 2,276
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Pig Pig Pig
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Dirty pig that has been playing around a bit too much in the mud.
+
+
++--------+
+|  TAGS  |
++--------+
+animals muddy "nordens ark" pig 

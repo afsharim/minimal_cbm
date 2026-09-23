@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Kevin Burkett
+Photo URL    : https://www.flickr.com/photos/kevinwburkett/3686242098/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 3 17:33:27 GMT+0200 2009
+Upload Date  : Sat Jul 4 04:27:29 GMT+0200 2009
+Geotag Info  : Latitude:39.945624, Longitude:-75.129468
+Views        : 164
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Biting Hippo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Ouch! One Hippo bites another on the back while playing at the Adventure Aquarium in Camden, N.J.
+
+
++--------+
+|  TAGS  |
++--------+
+Hippopotamus camden philadelphia aquarium 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : daryl_mitchell
+Photo URL    : https://www.flickr.com/photos/daryl_mitchell/8484957526/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jan 11 15:45:09 GMT+0100 2013
+Upload Date  : Mon Feb 18 06:08:19 GMT+0100 2013
+Geotag Info  : Latitude:21.270261, Longitude:-157.818753
+Views        : 1,083
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephants
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+These two Asian elephants, Mari and Vaigai, inhabit the new $12 million elephant habitat at the Honolulu Zoo. It's a 2.5 acre enclosure, nine times larger than the previous one.
+
+
++--------+
+|  TAGS  |
++--------+
+Honolulu Hawaii USA zoo winter 2012 elephant elephas maximus 

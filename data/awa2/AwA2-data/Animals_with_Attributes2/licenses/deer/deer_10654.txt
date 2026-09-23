@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : H. Smithers
+Photo URL    : https://www.flickr.com/photos/36107339@N03/14750463238/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 16 13:21:07 GMT+0200 2014
+Upload Date  : Sat Aug 16 18:45:00 GMT+0200 2014
+Views        : 2,681
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+deer 

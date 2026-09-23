@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : andrew_j_w
+Photo URL    : https://www.flickr.com/photos/andrew_j_w/2443747986/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 26 11:39:30 GMT+0200 2008
+Upload Date  : Sat Apr 26 20:27:15 GMT+0200 2008
+Geotag Info  : Latitude:51.617190, Longitude:-0.379071
+Views        : 1,992
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horses In Field
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horse 

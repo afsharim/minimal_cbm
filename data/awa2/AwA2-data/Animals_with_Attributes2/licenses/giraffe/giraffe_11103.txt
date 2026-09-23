@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MrGuilt
+Photo URL    : https://www.flickr.com/photos/bontempscharly/7714874236/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 4 15:00:34 GMT+0200 2012
+Upload Date  : Sun Aug 5 06:51:58 GMT+0200 2012
+Geotag Info  : Latitude:39.836982, Longitude:-81.736222
+Views        : 256
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Reticulated Giraffe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Animals Giraffe Ohio "Zoos & Aquariums" 

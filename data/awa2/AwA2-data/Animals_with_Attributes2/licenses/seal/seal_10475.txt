@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : gary.leavens
+Photo URL    : https://www.flickr.com/photos/gary_leavens/22259910272/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 31 12:02:09 GMT+0200 2013
+Upload Date  : Sun Oct 18 14:30:31 GMT+0200 2015
+Geotag Info  : Latitude:44.387611, Longitude:-68.203912
+Views        : 7
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_3872
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Harbor Seal
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jefferson Alexandrino
+Photo URL    : https://www.flickr.com/photos/jalex/4377398386/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Feb 1 14:22:56 GMT+0100 2010
+Upload Date  : Mon Feb 22 01:04:14 GMT+0100 2010
+Views        : 426
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Modelo de Testes
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Apresento-lhes... ele, o gato persa mais besta (bosal) que existe.
+
+
++--------+
+|  TAGS  |
++--------+
+cat gato persa persian 

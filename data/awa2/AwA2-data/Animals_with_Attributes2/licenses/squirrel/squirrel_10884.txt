@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Gnilenkov Aleksey
+Photo URL    : https://www.flickr.com/photos/gnilenkov/6270216458/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Oct 20 10:18:50 GMT+0200 2011
+Upload Date  : Sat Oct 22 21:33:45 GMT+0200 2011
+Views        : 6,862
+Comments     : 126
+
+
++---------+
+|  TITLE  |
++---------+
+squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Camera: Phase One 645, Lens: Mamiya Secor 150/3.5, Leaf Aptus 17 - digital back, Russia,  Moscow, Botanical Garden
+<a href="http://www.gnilenkoff.ru" rel="nofollow">www.gnilenkoff.ru</a>
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel "Phase One 645" "Leaf Aptus 17" taxonomy:binomial= Tetranychus urticae "taxonomy:binomial= Tetranychus urticae" 

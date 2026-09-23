@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : D H Wright
+Photo URL    : https://www.flickr.com/photos/dhwright/13578407475/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Apr 1 14:26:26 GMT+0200 2014
+Upload Date  : Wed Apr 2 12:17:25 GMT+0200 2014
+Geotag Info  : Latitude:53.595255, Longitude:-0.387439
+Views        : 1,664
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep - Melton High Wood
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+When I stopped to take a photo through a gap in the hedge the flock came bounding towards me led by the character front and centre, presumably expecting food.
+
+
++--------+
+|  TAGS  |
++--------+
+"Melton Ross" "North Lincolnshire" Sheep 

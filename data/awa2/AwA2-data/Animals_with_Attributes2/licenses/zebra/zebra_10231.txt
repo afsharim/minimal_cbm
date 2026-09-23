@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Warwick Conway
+Photo URL    : https://www.flickr.com/photos/warcon/4795251174/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Apr 20 11:23:00 GMT+0200 2009
+Upload Date  : Thu Jul 15 03:53:24 GMT+0200 2010
+Geotag Info  : Latitude:50.427631, Longitude:-3.582015
+Views        : 74
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hartmann Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Paignton Zoo "Paignton Zoo" Devon 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ke9tv
+Photo URL    : https://www.flickr.com/photos/ke9tv/17095986648/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 25 18:42:50 GMT+0200 2015
+Upload Date  : Mon Apr 27 03:51:04 GMT+0200 2015
+Geotag Info  : Latitude:42.518750, Longitude:-74.152292
+Views        : 82
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Castor canadensis
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A busy beaver
+
+
++--------+
+|  TAGS  |
++--------+
+beaver castor "castor canadensis" hike hiking helderbergs rensselaerville huyck preserve "huyck preserve" 

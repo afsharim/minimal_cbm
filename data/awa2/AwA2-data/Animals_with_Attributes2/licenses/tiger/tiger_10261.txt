@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mark Roche
+Photo URL    : https://www.flickr.com/photos/narco/6006155045/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Aug 3 13:30:11 GMT+0200 2011
+Upload Date  : Wed Aug 3 23:22:45 GMT+0200 2011
+Geotag Info  : Latitude:53.293335, Longitude:-3.747754
+Views        : 479
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sumatran Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Sumatran Tiger" 

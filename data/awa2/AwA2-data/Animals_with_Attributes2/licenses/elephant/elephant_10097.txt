@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Vitorio Benedetti
+Photo URL    : https://www.flickr.com/photos/vbenedetti/4783000174/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 4 14:30:52 GMT+0200 2010
+Upload Date  : Sun Jul 11 15:04:29 GMT+0200 2010
+Geotag Info  : Latitude:52.507340, Longitude:13.340909
+Views        : 444
+Comments     : 10
+
+
++---------+
+|  TITLE  |
++---------+
+Big Love
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Berlin zoo elephant love 

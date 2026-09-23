@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mullica
+Photo URL    : https://www.flickr.com/photos/mullica/2835736443/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 7 08:28:31 GMT+0200 2008
+Upload Date  : Sun Sep 7 17:28:31 GMT+0200 2008
+Views        : 444
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Young Buck
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Young buck deer
+
+
++--------+
+|  TAGS  |
++--------+
+deer male spike buck mammal nature 

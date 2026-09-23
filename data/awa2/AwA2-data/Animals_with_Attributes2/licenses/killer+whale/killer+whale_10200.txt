@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Seabamirum
+Photo URL    : https://www.flickr.com/photos/seabamirum/7316639430/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 26 16:18:19 GMT+0200 2012
+Upload Date  : Fri Jun 1 23:25:14 GMT+0200 2012
+Views        : 1,737
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Orca
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+orca "killer whale" 

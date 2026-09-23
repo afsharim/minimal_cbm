@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jasonsamson88
+Photo URL    : https://www.flickr.com/photos/jasonsamson/2243215078/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 2 13:16:55 GMT+0200 2007
+Upload Date  : Tue Feb 5 00:56:03 GMT+0100 2008
+Geotag Info  : Latitude:46.445427, Longitude:-71.792907
+Views        : 67
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Moose
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Friendly moose in Val-Alain.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

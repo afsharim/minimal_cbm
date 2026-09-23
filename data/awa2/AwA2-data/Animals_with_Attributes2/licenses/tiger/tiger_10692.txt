@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Olliesmith42
+Photo URL    : https://www.flickr.com/photos/ollie_pics/7032599261/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jan 24 14:10:10 GMT+0100 2011
+Upload Date  : Sat Mar 31 20:03:00 GMT+0200 2012
+Views        : 20
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Tiger Nature Animal Wildlife Zoo 

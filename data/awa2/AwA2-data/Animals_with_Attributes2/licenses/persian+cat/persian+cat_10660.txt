@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : igorbischi
+Photo URL    : https://www.flickr.com/photos/23840742@N03/2979973364/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 11 17:17:08 GMT+0200 2008
+Upload Date  : Tue Oct 28 00:47:57 GMT+0100 2008
+Geotag Info  : Latitude:43.794285, Longitude:11.245483
+Views        : 143
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+The king of the house
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+cat cats "persian cat" eyes 

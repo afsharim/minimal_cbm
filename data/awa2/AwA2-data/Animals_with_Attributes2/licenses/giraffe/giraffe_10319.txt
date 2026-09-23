@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : SarahDepper
+Photo URL    : https://www.flickr.com/photos/sarahdepper/2885901004/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Sep 12 07:30:05 GMT+0200 2008
+Upload Date  : Wed Sep 24 21:30:49 GMT+0200 2008
+Geotag Info  : Latitude:-13.812515, Longitude:31.581916
+Views        : 202
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe trotting
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+They are SO graceful when they run!
+
+
++--------+
+|  TAGS  |
++--------+
+Africa Zambia Safari "South Luwangwa" 

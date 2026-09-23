@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : showdayonline
+Photo URL    : https://www.flickr.com/photos/107361063@N05/10680260755/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Nov 4 15:58:45 GMT+0100 2013
+Upload Date  : Tue Nov 5 00:59:10 GMT+0100 2013
+Views        : 282
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+H1901
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Hawarden Show 2007
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

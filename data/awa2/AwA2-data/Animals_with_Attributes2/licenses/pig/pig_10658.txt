@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Chris & Angela Pye
+Photo URL    : https://www.flickr.com/photos/pyepics/6843615627/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Apr 25 13:48:46 GMT+0200 2011
+Upload Date  : Thu Feb 9 00:16:11 GMT+0100 2012
+Geotag Info  : Latitude:52.562665, Longitude:0.930522
+Views        : 66
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+pig
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+animal Farm Nature Norfolk 

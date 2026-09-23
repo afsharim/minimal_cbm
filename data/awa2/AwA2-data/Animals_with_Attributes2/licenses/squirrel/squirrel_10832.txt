@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tattooed Hippy
+Photo URL    : https://www.flickr.com/photos/tattooed-hippy/5336115612/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 8 14:14:05 GMT+0100 2011
+Upload Date  : Sat Jan 8 16:13:33 GMT+0100 2011
+Geotag Info  : Latitude:53.717752, Longitude:-0.899527
+Views        : 258
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Squirrel
+
+
++--------+
+|  TAGS  |
++--------+
+"High Quality" "In Focus" 

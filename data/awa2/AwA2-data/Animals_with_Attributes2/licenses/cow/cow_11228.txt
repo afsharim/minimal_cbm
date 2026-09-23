@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Johnny Malmedy
+Photo URL    : https://www.flickr.com/photos/johnny_malmedy/289792386/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 5 17:13:16 GMT+0100 2006
+Upload Date  : Sun Nov 5 22:02:36 GMT+0100 2006
+Geotag Info  : Latitude:50.538744, Longitude:6.748695
+Views        : 263
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Stadtmensch und Vieh
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Eine Kuh, nein zwei, nein viele... Bei Bad Münstereifel, November 2006.
+
+
++--------+
+|  TAGS  |
++--------+
+Wandern " Natur" " Kuh" 

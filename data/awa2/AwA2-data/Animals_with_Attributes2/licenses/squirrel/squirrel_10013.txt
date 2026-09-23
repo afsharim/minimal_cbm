@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Alan Light
+Photo URL    : https://www.flickr.com/photos/alan-light/4368819052/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Feb 17 19:57:07 GMT+0100 2010
+Upload Date  : Thu Feb 18 21:33:50 GMT+0100 2010
+Views        : 66
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+00000015
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Ground squirrel
+
+
++--------+
+|  TAGS  |
++--------+
+ground squirrel 

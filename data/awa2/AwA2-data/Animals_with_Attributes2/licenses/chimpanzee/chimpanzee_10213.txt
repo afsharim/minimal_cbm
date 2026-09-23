@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Art Poskanzer
+Photo URL    : https://www.flickr.com/photos/posk/2664501612/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 12 12:28:45 GMT+0200 2008
+Upload Date  : Sun Jul 13 17:45:42 GMT+0200 2008
+Views        : 42
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+chimpanzee reflection
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+animals 

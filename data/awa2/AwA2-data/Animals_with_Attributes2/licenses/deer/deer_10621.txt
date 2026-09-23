@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Editor B
+Photo URL    : https://www.flickr.com/photos/editor/9651098108/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 10 14:49:37 GMT+0200 2013
+Upload Date  : Mon Sep 2 02:14:39 GMT+0200 2013
+Geotag Info  : Latitude:37.944183, Longitude:-87.452751
+Views        : 347
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Indiana Vacation "Angel Mounds" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Rorals
+Photo URL    : https://www.flickr.com/photos/rorals/8196225497/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 18 16:07:13 GMT+0100 2012
+Upload Date  : Sun Nov 18 19:12:56 GMT+0100 2012
+Geotag Info  : Latitude:51.455504, Longitude:0.115528
+Views        : 33
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_6662
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Squirrel 

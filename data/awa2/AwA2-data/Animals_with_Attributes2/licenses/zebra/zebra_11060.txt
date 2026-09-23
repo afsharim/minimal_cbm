@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mister-E
+Photo URL    : https://www.flickr.com/photos/mister-e/2246343299/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jan 25 16:46:38 GMT+0100 2008
+Upload Date  : Wed Feb 6 20:07:12 GMT+0100 2008
+Geotag Info  : Latitude:-25.293103, Longitude:31.524947
+Views        : 515
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebras
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"South Africa" zebra "Malelane Road" 

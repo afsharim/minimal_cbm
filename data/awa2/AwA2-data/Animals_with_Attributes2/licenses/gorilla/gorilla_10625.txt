@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : R.T.Lee
+Photo URL    : https://www.flickr.com/photos/rtlphoto/6185798320/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 25 00:10:21 GMT+0200 2011
+Upload Date  : Mon Sep 26 17:51:17 GMT+0200 2011
+Geotag Info  : Latitude:39.975120, Longitude:-75.195167
+Views        : 20
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Looking for Food
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

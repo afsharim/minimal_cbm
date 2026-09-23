@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tim Green aka atoach
+Photo URL    : https://www.flickr.com/photos/atoach/3945654310/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 31 12:11:32 GMT+0200 2009
+Upload Date  : Tue Sep 22 21:35:29 GMT+0200 2009
+Views        : 5,522
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Defiant Sheep, Burley Woodhead
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+sheep 

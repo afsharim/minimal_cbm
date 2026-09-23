@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Vova-goc
+Photo URL    : https://commons.wikimedia.org/wiki/File:Mormopterus_beccarii_astrolabiensis_1.jpg
+License      : GNU Free Documentation License
+Date         : 2012-09-08

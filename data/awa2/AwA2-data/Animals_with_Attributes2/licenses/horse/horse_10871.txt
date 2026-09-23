@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Seth W.
+Photo URL    : https://www.flickr.com/photos/sethw/2181230149/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 6 09:28:56 GMT+0100 2008
+Upload Date  : Thu Jan 10 01:46:22 GMT+0100 2008
+Views        : 705
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horses
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Some parade up in Brooklyn.
+
+
++--------+
+|  TAGS  |
++--------+
+brooklyn horses NYPD 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : tvirus20gamer
+Photo URL    : https://www.flickr.com/photos/37723691@N06/3468871142/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Sep 12 15:02:45 GMT+0200 2008
+Upload Date  : Thu Apr 23 18:43:51 GMT+0200 2009
+Views        : 22
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Raccoon
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

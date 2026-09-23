@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sooolaro
+Photo URL    : https://www.flickr.com/photos/sooolaro/16604463914/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 2 14:05:22 GMT+0200 2005
+Upload Date  : Tue Apr 21 22:12:18 GMT+0200 2015
+Geotag Info  : Latitude:48.135467, Longitude:-123.146631
+Views        : 252
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Brown bear growling
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+brown bear growling growl 

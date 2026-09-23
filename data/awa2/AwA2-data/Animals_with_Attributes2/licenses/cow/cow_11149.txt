@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : alonso_inostrosa
+Photo URL    : https://www.flickr.com/photos/alonsoinostrosa/4421207635/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Mar 5 12:53:40 GMT+0100 2010
+Upload Date  : Wed Mar 10 07:20:37 GMT+0100 2010
+Geotag Info  : Latitude:-39.645618, Longitude:-71.236038
+Views        : 172
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Patagonian Cows
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+On the road between Junín y San Martín de Los Andes, Argentina
+
+
++--------+
+|  TAGS  |
++--------+
+patagonia patagonian cows 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : iyoupapa
+Photo URL    : https://www.flickr.com/photos/iyoupapa/2789810706/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 23 16:42:50 GMT+0200 2008
+Upload Date  : Sat Aug 23 16:54:25 GMT+0200 2008
+Views        : 110,321
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Tiger at Maruyama Zoo.
+
+
++--------+
+|  TAGS  |
++--------+
+Tiger 

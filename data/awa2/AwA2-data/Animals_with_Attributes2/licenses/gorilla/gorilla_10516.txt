@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jon Mountjoy
+Photo URL    : https://www.flickr.com/photos/mountjoy/2433238993/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 19 10:20:54 GMT+0200 2008
+Upload Date  : Tue Apr 22 14:56:41 GMT+0200 2008
+Views        : 214
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_1233.CR2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A gorilla having a snooze
+
+
++--------+
+|  TAGS  |
++--------+
+gorilla jersey geralddurrell 

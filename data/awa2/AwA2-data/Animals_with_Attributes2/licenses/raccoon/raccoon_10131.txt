@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Carlos Alejo
+Photo URL    : https://www.flickr.com/photos/carlosalejo/2414400006/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 12 11:34:33 GMT+0200 2008
+Upload Date  : Mon Apr 14 21:07:32 GMT+0200 2008
+Geotag Info  : Latitude:40.411069, Longitude:-3.762903
+Views        : 4,450
+Comments     : 7
+
+
++---------+
+|  TITLE  |
++---------+
+La saga del zoo de Madrid IV - La mirada del mapache
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+El mapache dormitaba tranquilamente hasta que vio que tenía público, momento en el que salió a iniciar su repertorio.
+
+
++--------+
+|  TAGS  |
++--------+
+zoo madrid mapache tanuki raccoon mirada stare "animal planet" canon eos 400d rebel xti 

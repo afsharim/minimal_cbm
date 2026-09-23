@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Asylumkid
+Photo URL    : https://www.flickr.com/photos/satransport/18141426996/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed May 27 15:52:03 GMT+0200 2015
+Upload Date  : Wed May 27 20:33:44 GMT+0200 2015
+Geotag Info  : Latitude:-34.003906, Longitude:22.362692
+Views        : 144
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

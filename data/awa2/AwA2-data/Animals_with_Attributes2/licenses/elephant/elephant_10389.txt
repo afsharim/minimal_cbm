@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mheisel
+Photo URL    : https://www.flickr.com/photos/mheisel/2940323602/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Oct 13 00:00:01 GMT+0200 2008
+Upload Date  : Tue Oct 14 03:19:27 GMT+0200 2008
+Geotag Info  : Latitude:29.714418, Longitude:-95.391776
+Views        : 215
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Houston Zoo" Houston Elephant 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Peter G Trimming
+Photo URL    : https://www.flickr.com/photos/peter-trimming/14584283177/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 26 09:51:20 GMT+0200 2014
+Upload Date  : Mon Jul 28 22:45:05 GMT+0200 2014
+Geotag Info  : Latitude:50.663627, Longitude:-1.180039
+Views        : 558
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Male Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Seen at Alverstone Mead Nature Reserve.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

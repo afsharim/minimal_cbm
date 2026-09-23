@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Kevin Burkett
+Photo URL    : https://www.flickr.com/photos/kevinwburkett/4088796936/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 8 16:04:10 GMT+0100 2009
+Upload Date  : Mon Nov 9 05:57:52 GMT+0100 2009
+Geotag Info  : Latitude:39.957599, Longitude:-75.168671
+Views        : 142
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+philadelphia "center city" pennsylvania squirrel nature 

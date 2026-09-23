@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Kenichi Nobusue
+Photo URL    : https://www.flickr.com/photos/nobusue/2365472725/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 3 09:56:21 GMT+0100 2008
+Upload Date  : Thu Mar 27 11:38:12 GMT+0100 2008
+Views        : 363
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+ASA ZOO
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The chimpanzee sees and doesn't get tired.
+
+
++--------+
+|  TAGS  |
++--------+
+animal zoo 

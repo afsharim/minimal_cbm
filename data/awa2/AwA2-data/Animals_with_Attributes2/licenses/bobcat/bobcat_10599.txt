@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : spookypeanut
+Photo URL    : https://www.flickr.com/photos/spookypeanut/14025605274/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jan 13 15:33:36 GMT+0100 2012
+Upload Date  : Sun Apr 27 00:40:07 GMT+0200 2014
+Views        : 1,105
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sitting
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+european lynx whipsnade taxonomy:kingdom=Animalia Animalia taxonomy:phylum=Chordata Chordata taxonomy:class=Mammalia Mammalia taxonomy:order=Carnivora Carnivora taxonomy:family=Felidae Felidae taxonomy:genus=Lynx taxonomy:species=lynx "taxonomy:binomial=Lynx lynx" "Lince euroasiático" "Lynx lynx" "Eurasian Lynx" "Lynx Bor" "Lince Boreal" "taxonomy:common=Lince euroasiático" "taxonomy:common=Eurasian Lynx" taxonomy:common=Lynx "taxonomy:common=Lynx Bor" "taxonomy:common=Lince Boreal" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Eric Kilby
+Photo URL    : https://www.flickr.com/photos/ekilby/6957888505/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jan 17 14:40:01 GMT+0100 2012
+Upload Date  : Tue Mar 6 04:43:45 GMT+0100 2012
+Geotag Info  : Latitude:37.733177, Longitude:-122.503287
+Views        : 1,239
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Grizzly on Water's Edge
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+reflections really killed the whole sequence, but it was really cool to see the bear this close up.
+
+
++--------+
+|  TAGS  |
++--------+
+sf zoo san francisco california grizzly bear feeding water 

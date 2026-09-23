@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : gvgoebel
+Photo URL    : https://www.flickr.com/photos/37467370@N08/7623053012/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 5 08:48:34 GMT+0200 2008
+Upload Date  : Sun Jul 22 19:04:18 GMT+0200 2012
+Views        : 278
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Ybhip_1b
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+hippopotamus, Saint Louis Zoo, Missouri / 2008
+
+
++--------+
+|  TAGS  |
++--------+
+animals mammals hippopotamus 

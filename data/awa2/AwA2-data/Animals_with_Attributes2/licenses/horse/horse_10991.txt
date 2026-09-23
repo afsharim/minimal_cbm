@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : cathywilson35
+Photo URL    : https://www.flickr.com/photos/cathywilson35/8675189584/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 20 14:30:23 GMT+0200 2013
+Upload Date  : Tue Apr 23 13:08:35 GMT+0200 2013
+Geotag Info  : Latitude:55.408666, Longitude:12.230833
+Views        : 1,330
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horses
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+denmark "Salamander filter" flickriosapp:filter=Salamander uploaded:by=flickr_mobile Horse Sun Horses 

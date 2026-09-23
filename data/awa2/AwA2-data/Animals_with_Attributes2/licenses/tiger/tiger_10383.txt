@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : minRK
+Photo URL    : https://www.flickr.com/photos/minrk/2316815599/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jan 4 15:15:00 GMT+0100 2008
+Upload Date  : Sat Mar 8 00:01:21 GMT+0100 2008
+Views        : 142
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger Tongue
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+At the zoo
+
+
++--------+
+|  TAGS  |
++--------+
+zoo slc unprocessed tiger animal 

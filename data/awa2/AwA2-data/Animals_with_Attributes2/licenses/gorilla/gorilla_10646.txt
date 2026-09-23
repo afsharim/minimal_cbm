@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : kbaxterk
+Photo URL    : https://www.flickr.com/photos/katekauf/438058374/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Mar 27 14:43:35 GMT+0200 2007
+Upload Date  : Thu Mar 29 01:36:08 GMT+0200 2007
+Views        : 21
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+March 2007 151
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

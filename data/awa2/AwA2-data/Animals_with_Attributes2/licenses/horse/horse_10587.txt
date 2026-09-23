@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : allenthepostman
+Photo URL    : https://www.flickr.com/photos/allenthepostman/2759905603/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 10 09:36:25 GMT+0200 2008
+Upload Date  : Wed Aug 13 20:53:34 GMT+0200 2008
+Views        : 82
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Dover Castle,Aug 2008
+
+
++--------+
+|  TAGS  |
++--------+
+horses dover 

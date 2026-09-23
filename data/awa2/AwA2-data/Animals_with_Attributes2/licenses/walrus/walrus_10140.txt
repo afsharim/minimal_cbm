@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Joel Garlich Miller, U.S. Fish and Wildlife Service
+Photo URL    : https://commons.wikimedia.org/wiki/File:A_walrus_cow_odobenus_rosmarus_takes_a_nap_on_pack_ice.jpg
+License      : public domain
+Date         : Not given

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : stephenhanafin
+Photo URL    : https://www.flickr.com/photos/shanafin/2190126797/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Feb 16 14:19:50 GMT+0100 2007
+Upload Date  : Sun Jan 13 23:54:54 GMT+0100 2008
+Views        : 283
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Bronx Zoo" "New York" Giraffe 

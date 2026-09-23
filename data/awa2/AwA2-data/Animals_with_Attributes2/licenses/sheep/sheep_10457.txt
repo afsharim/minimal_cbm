@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mhaller1979
+Photo URL    : https://www.flickr.com/photos/mhaller1979/5677749266/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 24 18:19:59 GMT+0200 2011
+Upload Date  : Mon May 2 00:35:54 GMT+0200 2011
+Geotag Info  : Latitude:48.127142, Longitude:9.651403
+Views        : 299
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Määähhh
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Sheep bleating at me
+
+
++--------+
+|  TAGS  |
++--------+
+Sheep 

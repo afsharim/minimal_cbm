@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MSVG
+Photo URL    : https://www.flickr.com/photos/msvg/4529547536/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 17 12:45:37 GMT+0200 2010
+Upload Date  : Sun Apr 18 00:41:37 GMT+0200 2010
+Geotag Info  : Latitude:44.076656, Longitude:-80.027782
+Views        : 6,140
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Muscular Horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+muscular white horse rosemont Ontario Canada 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : geraintandkim
+Photo URL    : https://www.flickr.com/photos/geraintandkim/466559641/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Apr 2 05:06:58 GMT+0200 2007
+Upload Date  : Sat Apr 21 01:12:06 GMT+0200 2007
+Views        : 292
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sperm Whale
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

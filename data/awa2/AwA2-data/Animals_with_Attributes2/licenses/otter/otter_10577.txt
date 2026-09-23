@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Andrew*
+Photo URL    : https://www.flickr.com/photos/nez/948552664/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Dec 4 13:43:00 GMT+0100 2004
+Upload Date  : Mon Jul 30 08:43:40 GMT+0200 2007
+Views        : 492
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+Otters, like little furry people
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+otter animal water 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : TheJakeHurst
+Photo URL    : https://www.flickr.com/photos/gooseballpictures/2793646813/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 16 08:15:53 GMT+0200 2008
+Upload Date  : Mon Aug 25 01:04:37 GMT+0200 2008
+Geotag Info  : Latitude:-0.330017, Longitude:36.098070
+Views        : 34
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_0634
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Zebra
+
+
++--------+
+|  TAGS  |
++--------+
+Kenya Safari "Lake Nakuru" Zebra 

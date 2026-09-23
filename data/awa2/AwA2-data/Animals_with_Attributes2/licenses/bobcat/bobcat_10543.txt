@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ozzy Delaney
+Photo URL    : https://www.flickr.com/photos/24931020@N02/8218115942/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 25 13:02:05 GMT+0100 2012
+Upload Date  : Sun Nov 25 19:23:24 GMT+0100 2012
+Geotag Info  : Latitude:52.450190, Longitude:-1.910161
+Views        : 377
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lynx
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

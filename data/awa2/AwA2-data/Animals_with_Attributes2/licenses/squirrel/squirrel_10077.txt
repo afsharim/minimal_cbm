@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Callum.H
+Photo URL    : https://www.flickr.com/photos/c-hoare/8644972359/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Apr 12 15:52:13 GMT+0200 2013
+Upload Date  : Sat Apr 13 18:28:44 GMT+0200 2013
+Geotag Info  : Latitude:50.372606, Longitude:-4.130644
+Views        : 218
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Beaumont Squirrel 120413 (810UZ) (18)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Feeding squirrels at Beaumont Park
+
+
++--------+
+|  TAGS  |
++--------+
+"Beaumont Park" Squirrel 

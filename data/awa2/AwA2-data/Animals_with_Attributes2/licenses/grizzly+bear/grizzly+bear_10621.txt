@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : generalising
+Photo URL    : https://www.flickr.com/photos/shimgray/2796819397/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 24 16:58:33 GMT+0200 2008
+Upload Date  : Mon Aug 25 21:55:04 GMT+0200 2008
+Views        : 158
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+p1210868
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Eurasian Brown Bear (Ursos arctos arctos) at Whipsnade Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+bear "brown bear" "eurasian brown bear" "ursos arctos" "ursos arctos arctos" 

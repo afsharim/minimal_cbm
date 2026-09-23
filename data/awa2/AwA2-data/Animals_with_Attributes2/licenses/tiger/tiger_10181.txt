@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : no prawns
+Photo URL    : https://www.flickr.com/photos/noprawns/489612265/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 21 22:57:01 GMT+0200 2007
+Upload Date  : Tue May 8 10:21:18 GMT+0200 2007
+Views        : 666
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Paradise Wildlife Park
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Bengal Tiger
+
+
++--------+
+|  TAGS  |
++--------+
+Bengal Tiger zoo 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : asokolik
+Photo URL    : https://www.flickr.com/photos/asokolik/8004679378/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Apr 5 14:42:36 GMT+0200 2012
+Upload Date  : Thu Sep 20 02:24:36 GMT+0200 2012
+Geotag Info  : Latitude:42.938218, Longitude:-78.852374
+Views        : 747
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_9666
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Buffalo Zoological Gardens" "Buffalo Zoo" "Grizzly Bear" cub 

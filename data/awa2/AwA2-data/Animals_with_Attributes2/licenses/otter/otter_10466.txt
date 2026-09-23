@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Bill Hails
+Photo URL    : https://www.flickr.com/photos/billhails/105191788/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 26 11:43:38 GMT+0100 2006
+Upload Date  : Mon Feb 27 11:14:29 GMT+0100 2006
+Geotag Info  : Latitude:52.116151, Longitude:0.048494
+Views        : 68
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Otters 2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Shepreth Wildlife Park
+
+
++--------+
+|  TAGS  |
++--------+
+Zoo otter 

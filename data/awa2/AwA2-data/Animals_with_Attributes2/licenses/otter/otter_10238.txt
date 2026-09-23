@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : hans.ewaldreimann
+Photo URL    : https://www.flickr.com/photos/129215273@N03/16047994661/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 7 23:37:35 GMT+0200 2014
+Upload Date  : Thu Dec 18 15:27:12 GMT+0100 2014
+Geotag Info  : Latitude:51.142356, Longitude:14.979686
+Views        : 115
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Otter with duckweed-beard
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Otter Duckweed 

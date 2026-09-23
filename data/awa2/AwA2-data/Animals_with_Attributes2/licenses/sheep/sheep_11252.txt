@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Andrew Gustar
+Photo URL    : https://www.flickr.com/photos/andrewgustar/8661605047/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Apr 18 13:00:34 GMT+0200 2013
+Upload Date  : Fri Apr 19 08:38:35 GMT+0200 2013
+Geotag Info  : Latitude:55.002727, Longitude:-2.394533
+Views        : 225
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Showers
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+northumbria hadrians wall sheep shower 

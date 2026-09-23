@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : robinbos
+Photo URL    : https://www.flickr.com/photos/robinbos/2679935314/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 17 12:00:35 GMT+0200 2008
+Upload Date  : Fri Jul 18 15:10:04 GMT+0200 2008
+Geotag Info  : Latitude:52.785673, Longitude:6.897203
+Views        : 298
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"noorder dierenpark" emmen elephant 

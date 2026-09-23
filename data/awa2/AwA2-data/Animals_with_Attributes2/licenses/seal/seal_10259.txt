@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : paul_houle
+Photo URL    : https://www.flickr.com/photos/paul_houle/6117363422/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 23 14:13:56 GMT+0200 2011
+Upload Date  : Mon Sep 5 20:46:53 GMT+0200 2011
+Views        : 62
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant Seals Fight
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

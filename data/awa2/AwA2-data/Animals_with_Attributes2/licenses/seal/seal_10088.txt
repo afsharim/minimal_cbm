@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Iain_Smith
+Photo URL    : https://www.flickr.com/photos/bloo_toon/5538783557/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Mar 8 10:18:12 GMT+0100 2011
+Upload Date  : Sat Mar 19 07:41:35 GMT+0100 2011
+Geotag Info  : Latitude:57.471520, Longitude:-1.774249
+Views        : 351
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Buchan Ness Seal 02
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Seal Boddam HS10 Wildlife 

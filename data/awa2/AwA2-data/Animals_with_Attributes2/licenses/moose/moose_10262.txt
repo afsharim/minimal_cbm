@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : VSmithUK
+Photo URL    : https://www.flickr.com/photos/vsmithuk/23674358/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 2 12:32:39 GMT+0200 2005
+Upload Date  : Tue Jul 5 05:40:01 GMT+0200 2005
+Geotag Info  : Latitude:61.081868, Longitude:-149.442214
+Views        : 385
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Moose
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Anchorage Alaska Moose Life 

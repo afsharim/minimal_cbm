@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : generalising
+Photo URL    : https://www.flickr.com/photos/shimgray/2728870718/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 2 17:29:48 GMT+0200 2008
+Upload Date  : Sun Aug 3 18:45:18 GMT+0200 2008
+Geotag Info  : Latitude:55.904779, Longitude:-3.186517
+Views        : 163
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+P1210038
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Horse in a field
+
+
++--------+
+|  TAGS  |
++--------+
+horse edinburgh 

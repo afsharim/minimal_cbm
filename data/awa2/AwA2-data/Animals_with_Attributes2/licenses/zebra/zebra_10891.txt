@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Shehan Obeysekera
+Photo URL    : https://www.flickr.com/photos/mshehan/7920218828/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Sep 3 14:50:18 GMT+0200 2012
+Upload Date  : Mon Sep 3 12:13:15 GMT+0200 2012
+Views        : 70
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+At the Dehiwala Zoo, Sri Lanka
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

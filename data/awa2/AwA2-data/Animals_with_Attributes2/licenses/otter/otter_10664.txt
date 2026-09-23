@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : HarshLight
+Photo URL    : https://www.flickr.com/photos/harshlight/2626735653/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 30 16:04:53 GMT+0200 2008
+Upload Date  : Tue Jul 1 08:42:54 GMT+0200 2008
+Geotag Info  : Latitude:36.618145, Longitude:-121.901850
+Views        : 1,430
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sea Otter!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The <a href="http://www.montereybayaquarium.org/efc/living_species/default.asp?hOri=0&amp;hab=3&amp;inhab=214" rel="nofollow">sea otters</a> are definitely one of my favorite exhibits at Monterey Bay Aquarium. They are so adorable!
+
+
++--------+
+|  TAGS  |
++--------+
+"monterey bay aquarium" monterey california aquarium "sea otter" 

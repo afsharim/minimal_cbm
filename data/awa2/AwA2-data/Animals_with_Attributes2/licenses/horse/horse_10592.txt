@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : cobaltfish
+Photo URL    : https://www.flickr.com/photos/cobaltfish/2926380837/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Oct 3 11:20:00 GMT+0200 2008
+Upload Date  : Thu Oct 9 17:49:14 GMT+0200 2008
+Geotag Info  : Latitude:52.500506, Longitude:13.529405
+Views        : 103
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Berlin Teirpark horse 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Marcin Chady
+Photo URL    : https://www.flickr.com/photos/marcinchady/4795225341/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 10 16:24:30 GMT+0200 2010
+Upload Date  : Thu Jul 15 09:13:41 GMT+0200 2010
+Geotag Info  : Latitude:49.011359, Longitude:-118.753881
+Views        : 102
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Moose
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Łoś
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

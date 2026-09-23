@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jmcgross
+Photo URL    : https://www.flickr.com/photos/7493258@N06/3142883819/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 28 16:53:55 GMT+0100 2008
+Upload Date  : Sun Dec 28 08:53:55 GMT+0100 2008
+Views        : 327
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sri Lanka elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Sri_Lankan_elephant 

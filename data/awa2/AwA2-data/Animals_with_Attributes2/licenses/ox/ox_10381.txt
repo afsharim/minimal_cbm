@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tomas Wennstrom
+Photo URL    : https://www.flickr.com/photos/35657317@N03/6062838791/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Aug 9 17:55:48 GMT+0200 2011
+Upload Date  : Sat Aug 20 23:25:03 GMT+0200 2011
+Views        : 43
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_6110.jpg
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

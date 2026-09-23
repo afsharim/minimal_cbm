@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : _somaholiday
+Photo URL    : https://www.flickr.com/photos/75872360@N08/14164391886/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Dec 31 18:59:52 GMT+0100 2013
+Upload Date  : Wed May 14 23:44:01 GMT+0200 2014
+Geotag Info  : Latitude:-42.422292, Longitude:173.717912
+Views        : 679
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+NZ Fur Seal - 1231 2013 001
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Point Kean Fur Seal colony in Kaikoura
+
+
++--------+
+|  TAGS  |
++--------+
+seals animals wildlife marinemammals 

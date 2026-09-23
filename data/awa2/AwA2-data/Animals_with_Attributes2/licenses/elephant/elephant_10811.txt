@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jjmusgrove
+Photo URL    : https://www.flickr.com/photos/jjmusgrove/11970206615/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 22 10:00:46 GMT+0100 2013
+Upload Date  : Wed Jan 15 22:36:11 GMT+0100 2014
+Geotag Info  : Latitude:-3.785798, Longitude:36.046930
+Views        : 198
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephants
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+SONY DSC
+
+
++--------+
+|  TAGS  |
++--------+
+Tanzania OAT 

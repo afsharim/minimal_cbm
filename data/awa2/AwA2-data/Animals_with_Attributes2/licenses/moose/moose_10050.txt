@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Navin75
+Photo URL    : https://www.flickr.com/photos/navin75/209713192/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Aug 1 14:00:45 GMT+0200 2006
+Upload Date  : Tue Aug 8 05:06:30 GMT+0200 2006
+Views        : 578
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bull Moose
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Seen in Grand Tetons
+
+
++--------+
+|  TAGS  |
++--------+
+wyoming tetons "bull moose" 

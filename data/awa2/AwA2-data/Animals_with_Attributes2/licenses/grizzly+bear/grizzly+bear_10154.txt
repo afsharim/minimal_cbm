@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : John Drake Flickr
+Photo URL    : https://www.flickr.com/photos/johndrake45/8729499741/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed May 8 14:47:09 GMT+0200 2013
+Upload Date  : Sun May 12 04:02:52 GMT+0200 2013
+Geotag Info  : Latitude:43.824619, Longitude:-111.783142
+Views        : 171
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bear World: Feeding the Bears
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+bear "brown bear" "bear world" rexburg "yellowstone bear" 

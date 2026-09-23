@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : andrew_j_w
+Photo URL    : https://www.flickr.com/photos/andrew_j_w/4581295404/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 1 13:14:02 GMT+0200 2010
+Upload Date  : Wed May 5 14:30:21 GMT+0200 2010
+Geotag Info  : Latitude:53.228954, Longitude:-1.725196
+Views        : 104
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+cow animal field "peak district" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Aug 23, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Christian Rocque
+Photo URL    : https://www.flickr.com/photos/christianrocque/27002735156/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 14 05:59:28 GMT+0200 2016
+Upload Date  : Sun May 15 22:55:11 GMT+0200 2016
+Geotag Info  : Latitude:46.717842, Longitude:-71.284232
+Views        : 134
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Jack the Colley
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+dog colley collie fall animal tree trees rocks 

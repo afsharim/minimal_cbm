@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Chínmay
+Photo URL    : https://www.flickr.com/photos/chinmaygarway/16069523592/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Dec 18 09:52:00 GMT+0100 2014
+Upload Date  : Sun Dec 21 12:31:44 GMT+0100 2014
+Views        : 16,299
+Comments     : 22
+
+
++---------+
+|  TITLE  |
++---------+
+Rawr.
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Bengal Tiger.
+Pench National Park, Madhya Pradesh, India.
+
+
++--------+
+|  TAGS  |
++--------+
+Bengal tiger 

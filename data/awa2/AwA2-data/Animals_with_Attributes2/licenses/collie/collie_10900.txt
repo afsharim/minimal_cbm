@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Thennicke
+Photo URL    : https://commons.wikimedia.org/wiki/File:Rough_Collie_Canberra_2016.jpg
+License      : Creative Commons (https://en.wikipedia.org/wiki/en:Creative_Commons) Attribution-Share Alike 4.0 International (//creativecommons.org/licenses/by-sa/4.0/deed.en)
+Date         : 2016-04-23 15:42:11

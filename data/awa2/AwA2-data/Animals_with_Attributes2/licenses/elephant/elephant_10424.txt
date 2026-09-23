@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Roger's Eye <(r)>
+Photo URL    : https://www.flickr.com/photos/rogersview/3788300063/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 30 10:14:07 GMT+0200 2009
+Upload Date  : Tue Aug 4 16:58:30 GMT+0200 2009
+Geotag Info  : Latitude:43.817560, Longitude:-79.183005
+Views        : 661
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Zoo Elephant 

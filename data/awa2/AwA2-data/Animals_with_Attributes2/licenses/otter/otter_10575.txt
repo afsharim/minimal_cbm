@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : marsupium photography
+Photo URL    : https://www.flickr.com/photos/hagdorned/16538650221/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 15 14:30:55 GMT+0100 2015
+Upload Date  : Sun Feb 15 19:41:18 GMT+0100 2015
+Views        : 179
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+otters
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Edinburgh Scotland Zoo 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Marco Toet
+Photo URL    : https://www.flickr.com/photos/marcotoet/3814980025/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 28 13:22:28 GMT+0200 2009
+Upload Date  : Wed Aug 12 21:57:07 GMT+0200 2009
+Views        : 46
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+order my pictures <a href="http://myflickrpics.sjootz.nl/albums/" rel="nofollow">here</a> or a canvas <a href="http://myflickrpics.canvasshare.sjootz.nl/albums/" rel="nofollow">here</a>
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

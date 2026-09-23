@@ -1,0 +1,45 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : majunznk
+Photo URL    : https://www.flickr.com/photos/majunznk/8033989227/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Sep 27 00:00:00 GMT+0200 2012
+Upload Date  : Sat Sep 29 00:21:23 GMT+0200 2012
+Geotag Info  : Latitude:33.100143, Longitude:-116.997281
+Views        : 286
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+New baby elephant - one month
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+San Diego Zoo Safari Park
+
+
+
+
+San Diego, CA
+
+
+
+
+2012
+
+
++--------+
+|  TAGS  |
++--------+
+san diego zoo elephants 

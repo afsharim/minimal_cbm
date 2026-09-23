@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : USFS Region 10
+Photo URL    : https://www.flickr.com/photos/alaska_region/14274902499/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 22 11:03:42 GMT+0200 2013
+Upload Date  : Thu Jun 19 23:38:05 GMT+0200 2014
+Views        : 750
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Kootznoowoo Brown Bear 2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Kootznoowoo Wilderness, Admiralty Island National Monument, Tongass National Forest, Alaska. Photo by Don MacDougall USFS
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

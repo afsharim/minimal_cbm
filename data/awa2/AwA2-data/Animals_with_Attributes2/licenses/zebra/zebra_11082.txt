@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : gregw66
+Photo URL    : https://www.flickr.com/photos/gregw66/3688066328/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Oct 11 11:42:52 GMT+0200 2006
+Upload Date  : Sat Jul 4 20:57:12 GMT+0200 2009
+Geotag Info  : Latitude:-19.094398, Longitude:16.175886
+Views        : 1,417
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebras
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Etosha Zebra 

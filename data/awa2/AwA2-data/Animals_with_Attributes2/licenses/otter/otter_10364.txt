@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bl0ndeeo2
+Photo URL    : https://www.flickr.com/photos/bl0ndeeo2/6814910241/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Feb 3 18:52:36 GMT+0100 2012
+Upload Date  : Sat Feb 4 03:52:36 GMT+0100 2012
+Geotag Info  : Latitude:27.993416, Longitude:-81.853981
+Views        : 93
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+otter "Circle B Bar Preserve" 

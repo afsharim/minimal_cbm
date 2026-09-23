@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : docguy
+Photo URL    : https://www.flickr.com/photos/docguy/6897355526/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 24 17:33:44 GMT+0200 2011
+Upload Date  : Wed Apr 4 02:04:37 GMT+0200 2012
+Geotag Info  : Latitude:49.048360, Longitude:-113.910326
+Views        : 1,426
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+New Baby Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Pictures of a brand new baby deer learning to walk. Taken in Waterton National Park, Alberta, Canada in June 2011.
+
+
++--------+
+|  TAGS  |
++--------+
+wildlife deer baby Waterton 

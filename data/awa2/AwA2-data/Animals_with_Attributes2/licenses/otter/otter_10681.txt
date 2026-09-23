@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : NechakoRiver
+Photo URL    : https://www.flickr.com/photos/nechakoriver/2616274332/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 22 23:44:39 GMT+0200 2008
+Upload Date  : Fri Jun 27 17:48:39 GMT+0200 2008
+Geotag Info  : Latitude:49.300844, Longitude:-123.130688
+Views        : 259
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sleeping Sea Otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Vancouver Aquarium BC Canada marine 

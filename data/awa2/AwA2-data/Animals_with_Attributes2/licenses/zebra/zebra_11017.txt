@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MollySVH
+Photo URL    : https://www.flickr.com/photos/18472724@N00/7884061636/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 26 07:41:31 GMT+0200 2012
+Upload Date  : Wed Aug 29 02:34:43 GMT+0200 2012
+Views        : 34
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebras at Karkloof game reserve
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

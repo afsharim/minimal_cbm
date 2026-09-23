@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : traukainehm
+Photo URL    : https://www.flickr.com/photos/trau_kainehm/8800451820/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon May 20 14:43:58 GMT+0200 2013
+Upload Date  : Thu May 23 12:55:15 GMT+0200 2013
+Geotag Info  : Latitude:53.596925, Longitude:9.938586
+Views        : 106
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elefant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Hagenbeck Zoo 

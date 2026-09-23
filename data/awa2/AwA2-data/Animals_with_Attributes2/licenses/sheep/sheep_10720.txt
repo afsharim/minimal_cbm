@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Clownhouse III
+Photo URL    : https://www.flickr.com/photos/clownhousethethird/3262652383/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 7 17:12:37 GMT+0100 2009
+Upload Date  : Sun Feb 8 15:46:09 GMT+0100 2009
+Geotag Info  : Latitude:51.954805, Longitude:5.663259
+Views        : 300
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep Choreography
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Wolfswaard Uiterwaarden Wageningen Sheep 

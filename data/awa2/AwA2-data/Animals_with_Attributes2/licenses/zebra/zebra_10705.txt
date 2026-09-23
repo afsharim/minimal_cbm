@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : WireLizard
+Photo URL    : https://www.flickr.com/photos/wirelizard/1441568734/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Aug 29 16:58:33 GMT+0200 2007
+Upload Date  : Wed Sep 26 07:54:37 GMT+0200 2007
+Geotag Info  : Latitude:-33.462379, Longitude:25.804138
+Views        : 495
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Posing by the side of the road.
+
+
++--------+
+|  TAGS  |
++--------+
+"South Africa" Africa "Addo Elephant National Park" travel wildlife zebra 

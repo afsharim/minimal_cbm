@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jmv
+Photo URL    : https://www.flickr.com/photos/jmv/5963350080/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 13 18:58:44 GMT+0200 2011
+Upload Date  : Fri Jul 22 07:10:19 GMT+0200 2011
+Views        : 436
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cows
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,12 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Photo URL    : https://commons.wikimedia.org/wiki/File:Odobenus_rosmarus_sea_mammals_on_beach.jpg
+License      : public domain
+Date         : Not given

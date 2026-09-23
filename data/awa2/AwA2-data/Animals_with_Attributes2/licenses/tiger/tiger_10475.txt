@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : TRFPhotography
+Photo URL    : https://www.flickr.com/photos/moon-dog/2477207192/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue May 6 16:40:00 GMT+0200 2008
+Upload Date  : Fri May 9 00:50:45 GMT+0200 2008
+Geotag Info  : Latitude:39.750159, Longitude:-104.949688
+Views        : 862
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Tiger 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : marsupium photography
+Photo URL    : https://www.flickr.com/photos/hagdorned/8504481590/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 24 15:00:52 GMT+0100 2013
+Upload Date  : Sun Feb 24 18:45:44 GMT+0100 2013
+Geotag Info  : Latitude:55.859061, Longitude:-3.243573
+Views        : 123
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+boss sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Scotland Edinburgh 

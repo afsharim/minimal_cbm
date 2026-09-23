@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : NH53
+Photo URL    : https://www.flickr.com/photos/nh53/7180407279/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 10 21:28:22 GMT+0200 2012
+Upload Date  : Tue Jun 12 17:44:09 GMT+0200 2012
+Geotag Info  : Latitude:64.507207, Longitude:29.971046
+Views        : 506
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Moose
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+We saw this on an evening drive, the light was very poor
+
+
++--------+
+|  TAGS  |
++--------+
+finland moose 

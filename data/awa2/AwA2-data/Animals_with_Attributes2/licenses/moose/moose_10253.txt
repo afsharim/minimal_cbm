@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ChrisL_AK
+Photo URL    : https://www.flickr.com/photos/fncll/215274007/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 6 18:56:15 GMT+0200 2006
+Upload Date  : Mon Aug 14 20:48:49 GMT+0200 2006
+Geotag Info  : Latitude:63.781424, Longitude:-144.767704
+Views        : 758
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Moose on the Richardson
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This little guy was having an afternoon snack on the highway to Delta...
+
+
++--------+
+|  TAGS  |
++--------+
+moose delta richardson alaska 

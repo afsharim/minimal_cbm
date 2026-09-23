@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : flamesworddragon
+Photo URL    : https://www.flickr.com/photos/flamesworddragon/15311711274/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 10 13:40:26 GMT+0200 2013
+Upload Date  : Wed Dec 3 00:28:54 GMT+0100 2014
+Views        : 2,766
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer at Dyrham
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+deer 

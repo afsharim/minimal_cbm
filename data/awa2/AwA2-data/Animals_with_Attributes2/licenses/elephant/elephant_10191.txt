@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Romantikgeist
+Photo URL    : https://www.flickr.com/photos/romantikgeist/14270440282/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 15 14:54:32 GMT+0200 2013
+Upload Date  : Mon May 26 10:50:41 GMT+0200 2014
+Views        : 60
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elefant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

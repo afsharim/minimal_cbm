@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : chatirygirl
+Photo URL    : https://www.flickr.com/photos/chatiryworld/443377855/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 31 13:34:11 GMT+0200 2007
+Upload Date  : Mon Apr 2 11:47:56 GMT+0200 2007
+Geotag Info  : Latitude:55.945210, Longitude:-3.270750
+Views        : 49
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+otters 2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"edinburgh zoo" zoo otters 

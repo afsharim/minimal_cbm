@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : scott1346
+Photo URL    : https://www.flickr.com/photos/bluecorvette/8318426389/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Nov 21 10:41:32 GMT+0100 2012
+Upload Date  : Fri Dec 28 20:59:29 GMT+0100 2012
+Geotag Info  : Latitude:38.396701, Longitude:-76.662498
+Views        : 1,173
+Comments     : 44
+
+
++---------+
+|  TITLE  |
++---------+
+our squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+animal nature squirrel birdseed buffet colors grey white "1001 Nights" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Karamellzucker
+Photo URL    : https://www.flickr.com/photos/karamell/3415979622/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 5 23:07:04 GMT+0200 2009
+Upload Date  : Sun Apr 5 23:07:04 GMT+0200 2009
+Geotag Info  : Latitude:48.802962, Longitude:9.204483
+Views        : 96
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Flußpferd
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Zoo Wilhelma Stuttgart Flußperd 

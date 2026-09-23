@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : diskychick
+Photo URL    : https://www.flickr.com/photos/diskychick/2733530518/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jun 3 09:08:35 GMT+0200 2008
+Upload Date  : Mon Aug 4 23:28:42 GMT+0200 2008
+Geotag Info  : Latitude:38.930704, Longitude:-77.050337
+Views        : 441
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+Deep in Thought
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Lowland Gorillas at National Zoo in Washington DC.
+
+
++--------+
+|  TAGS  |
++--------+
+gorilla ape expressions zoo nature washington dc "district of columbia" FONZ "National Zoo" "Digital Camera Club" 

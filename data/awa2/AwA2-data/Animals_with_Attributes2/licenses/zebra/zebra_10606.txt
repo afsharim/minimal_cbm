@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mike "Dakinewavamon" Kline
+Photo URL    : https://www.flickr.com/photos/mikekline/331130525/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 25 15:58:38 GMT+0200 2006
+Upload Date  : Sat Dec 23 20:53:10 GMT+0100 2006
+Views        : 639
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra in Color
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Zebra 

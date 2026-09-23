@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : geopungo
+Photo URL    : https://www.flickr.com/photos/36319440@N05/6295649853/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 29 19:47:59 GMT+0200 2011
+Upload Date  : Sun Oct 30 21:27:22 GMT+0100 2011
+Views        : 217
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Taken near Quantico, Virginia
+
+
++--------+
+|  TAGS  |
++--------+
+Quantico Virginia wildlife nature deer 

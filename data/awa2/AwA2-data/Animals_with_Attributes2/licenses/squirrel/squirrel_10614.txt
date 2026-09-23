@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mostly Dans
+Photo URL    : https://www.flickr.com/photos/dannyboymalinga/4663744609/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jun 1 12:21:19 GMT+0200 2010
+Upload Date  : Wed Jun 2 22:02:43 GMT+0200 2010
+Geotag Info  : Latitude:51.559930, Longitude:0.708360
+Views        : 238
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+squirrel snack
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+enjoying a snack of bread
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel feeding wildlife nature 

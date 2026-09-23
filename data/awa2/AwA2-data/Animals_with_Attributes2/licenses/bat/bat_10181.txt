@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : M Hedin
+Photo URL    : https://www.flickr.com/photos/23660854@N07/6866887073/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jan 30 02:17:46 GMT+0100 2012
+Upload Date  : Mon Feb 13 03:30:47 GMT+0100 2012
+Geotag Info  : Latitude:11.454416, Longitude:-85.515003
+Views        : 687
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+White-lined Bat (Saccopteryx); bat bug? (Cimex) below
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+northern slopes of Volcán Maderas, Isla Ometepe, Nicaragua; primary forest intermixed with coffee
+
+
++--------+
+|  TAGS  |
++--------+
+nicaragua "volcan maderas" 

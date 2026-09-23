@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : PhotosByDavid
+Photo URL    : https://www.flickr.com/photos/bigmacsc99/3779976180/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 20 15:56:07 GMT+0200 2009
+Upload Date  : Sun Aug 2 04:56:41 GMT+0200 2009
+Geotag Info  : Latitude:37.271518, Longitude:-79.940528
+Views        : 174
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Wild Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Seen outside of Roanoke, VA.
+
+
++--------+
+|  TAGS  |
++--------+
+roanoke virginia deer "animal planet" "olympus stylus 300 digital" va 

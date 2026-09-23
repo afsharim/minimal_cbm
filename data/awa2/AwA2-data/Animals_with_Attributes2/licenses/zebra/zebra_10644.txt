@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ross Gardiner
+Photo URL    : https://www.flickr.com/photos/rossng/4591855640/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Apr 12 11:17:10 GMT+0200 2010
+Upload Date  : Sun May 9 14:30:14 GMT+0200 2010
+Views        : 934
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra roll
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zebra zoo woburn safari animal 

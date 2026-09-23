@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jlodder
+Photo URL    : https://www.flickr.com/photos/jlodder/8217716665/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 18 18:15:15 GMT+0200 2012
+Upload Date  : Sun Nov 25 22:50:19 GMT+0100 2012
+Views        : 704
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+elephant seals, san simeon
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The Welch Car made a brief stop to view sea lions on the way home from Big Sur.
+
+Cropped in post-processing.
+
+
++--------+
+|  TAGS  |
++--------+
+"san simeon" "elephant seals" 

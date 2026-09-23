@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mathieu Dessus
+Photo URL    : https://www.flickr.com/photos/mathieudessus/949302730/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 28 12:24:28 GMT+0200 2007
+Upload Date  : Mon Jul 30 10:22:01 GMT+0200 2007
+Views        : 275
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Chat & souris
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+cat mouse chat souris animal 

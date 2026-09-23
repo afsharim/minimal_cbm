@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : johncooke
+Photo URL    : https://www.flickr.com/photos/john-cooke-uk/5413819081/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 27 11:05:39 GMT+0100 2010
+Upload Date  : Thu Feb 3 22:58:01 GMT+0100 2011
+Views        : 1,374
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebras in Akagera National Park
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Zebras seen on safari in Akagera National Park, Rwanda
+
+
++--------+
+|  TAGS  |
++--------+
+Rwanda Akagera Safari Africa Zebra 

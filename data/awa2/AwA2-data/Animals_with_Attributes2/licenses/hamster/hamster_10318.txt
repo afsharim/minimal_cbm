@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : acd@photo
+Photo URL    : https://www.flickr.com/photos/acdphotos/4553688646/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 7 18:39:15 GMT+0100 2010
+Upload Date  : Mon Apr 26 06:20:49 GMT+0200 2010
+Geotag Info  : Latitude:19.435999, Longitude:-99.132900
+Views        : 268
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+HAMSTER_SCOFIELD
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

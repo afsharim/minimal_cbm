@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ziman Zimanovich
+Photo URL    : https://www.flickr.com/photos/37957928@N06/14442493041/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Feb 10 15:16:23 GMT+0100 2011
+Upload Date  : Tue Jun 17 20:37:19 GMT+0200 2014
+Views        : 28
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

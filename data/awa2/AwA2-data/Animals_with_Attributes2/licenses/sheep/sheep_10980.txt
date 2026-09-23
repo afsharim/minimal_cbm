@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : dclay
+Photo URL    : https://www.flickr.com/photos/dclay/4939016796/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Aug 25 07:32:08 GMT+0200 2010
+Upload Date  : Sun Aug 29 21:23:40 GMT+0200 2010
+Views        : 19
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

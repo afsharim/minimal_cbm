@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Andrew Dupont
+Photo URL    : https://www.flickr.com/photos/savetheclocktower/3769718281/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 27 10:31:41 GMT+0200 2009
+Upload Date  : Thu Jul 30 00:25:23 GMT+0200 2009
+Geotag Info  : Latitude:47.306282, Longitude:11.379547
+Views        : 763
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep at Seegrube
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+innsbruck seegrube nordpark sheep 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Paolo Camera
+Photo URL    : https://www.flickr.com/photos/vegaseddie/5913664936/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 7 22:38:48 GMT+0200 2011
+Upload Date  : Thu Jul 7 23:38:48 GMT+0200 2011
+Views        : 8,661
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Horse and Jockey Tumble
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Jockey takes a fall from horse during race.
+
+
++--------+
+|  TAGS  |
++--------+
+horse racing fall jockey 

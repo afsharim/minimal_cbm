@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jonnee
+Photo URL    : https://www.flickr.com/photos/jonneestuff/5031038452/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 25 12:25:11 GMT+0200 2010
+Upload Date  : Mon Sep 27 22:09:17 GMT+0200 2010
+Views        : 71
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+tiger woburn safari park Picnik 

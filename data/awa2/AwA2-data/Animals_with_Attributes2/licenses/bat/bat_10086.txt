@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : >>> Silly Rabbit, Trix are for Kids <<<
+Photo URL    : https://www.flickr.com/photos/frankyu/19809772/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jan 2 12:57:31 GMT+0100 2004
+Upload Date  : Fri Jun 17 05:29:50 GMT+0200 2005
+Views        : 804
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+DSCN2556
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Singapore Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+bat singapore 

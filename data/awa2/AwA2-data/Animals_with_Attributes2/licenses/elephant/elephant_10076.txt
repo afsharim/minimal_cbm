@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : andrew lorien
+Photo URL    : https://www.flickr.com/photos/andrewlorien/5977018275/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 26 23:08:26 GMT+0200 2011
+Upload Date  : Tue Jul 26 12:13:46 GMT+0200 2011
+Geotag Info  : Latitude:52.149830, Longitude:5.344634
+Views        : 1,034
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+baby elephant walk(ing)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Dierenpark Amersfoort. this zoo had a fantastic breeding program.
+
+
++--------+
+|  TAGS  |
++--------+
+"baby elephant" 

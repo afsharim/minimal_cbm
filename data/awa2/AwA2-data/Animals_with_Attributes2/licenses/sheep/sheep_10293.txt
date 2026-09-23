@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sebastian.droege
+Photo URL    : https://www.flickr.com/photos/sdroege/4937256443/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 21 18:21:35 GMT+0200 2010
+Upload Date  : Sun Aug 29 14:55:48 GMT+0200 2010
+Geotag Info  : Latitude:51.706900, Longitude:8.851547
+Views        : 737
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Grazing Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+sheep pasture 

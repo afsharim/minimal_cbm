@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Gregory "Slobirdr" Smith
+Photo URL    : https://www.flickr.com/photos/slobirdr/9717995668/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 6 14:27:38 GMT+0200 2011
+Upload Date  : Tue Sep 10 14:55:56 GMT+0200 2013
+Geotag Info  : Latitude:59.826183, Longitude:-150.060882
+Views        : 5,449
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Harbor Seal (Phoca vitulina)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+At the base of Northwestern Glacier (Kenai Fjords NAtional Park) there thousands of burgie bits (chunks of ice that have calved off of the glacier). And these chunks of ice must make it a relatively safe area for young harbor seals relative to killer whales, as I counted over 350 female seals with a young at their side...
+
+
++--------+
+|  TAGS  |
++--------+
+"Phoca vitulina" "Harbor Seal" "Northwestern Glacier" "burgie bits" "Kenai Fjords National Park" "killer whale" 

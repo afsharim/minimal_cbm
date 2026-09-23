@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Autharite
+Photo URL    : https://www.flickr.com/photos/118566686@N08/22408803265/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 8 17:34:14 GMT+0200 2014
+Upload Date  : Fri Oct 23 14:50:14 GMT+0200 2015
+Geotag Info  : Latitude:45.510375, Longitude:-73.592042
+Views        : 37
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC04601
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Raton laveur commun (Procyon lotor)
+
+
++--------+
+|  TAGS  |
++--------+
+"raton laveur" 

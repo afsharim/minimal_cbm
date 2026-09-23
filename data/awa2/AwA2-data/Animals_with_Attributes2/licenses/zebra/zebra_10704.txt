@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Masaru Kamikura
+Photo URL    : https://www.flickr.com/photos/kamikura/1438426166/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Sep 14 15:01:32 GMT+0200 2007
+Upload Date  : Tue Sep 25 16:19:48 GMT+0200 2007
+Views        : 64
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Ueno Zoo" Animals 

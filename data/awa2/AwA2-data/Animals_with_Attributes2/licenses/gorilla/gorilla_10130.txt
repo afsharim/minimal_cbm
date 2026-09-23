@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : comicpie
+Photo URL    : https://www.flickr.com/photos/patio/6632075879/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Dec 26 10:55:46 GMT+0100 2011
+Upload Date  : Wed Jan 4 03:31:30 GMT+0100 2012
+Views        : 11
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Disneyworld Animal Kingdom
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

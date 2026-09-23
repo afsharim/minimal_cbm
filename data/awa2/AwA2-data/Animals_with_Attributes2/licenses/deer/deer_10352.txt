@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : vonguard
+Photo URL    : https://www.flickr.com/photos/vonguard/2286366209/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 23 12:54:44 GMT+0100 2008
+Upload Date  : Sun Feb 24 00:14:32 GMT+0100 2008
+Views        : 704
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+tilden "tilden park" nature deer 

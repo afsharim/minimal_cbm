@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ronsaunders47
+Photo URL    : https://www.flickr.com/photos/ronsaunders47/4595389901/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue May 4 08:15:13 GMT+0200 2010
+Upload Date  : Mon May 10 18:45:15 GMT+0200 2010
+Geotag Info  : Latitude:7.667441, Longitude:80.595703
+Views        : 11,648
+Comments     : 27
+
+
++---------+
+|  TITLE  |
++---------+
+ELEPHANTS OF SRI LANKA. 1
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Taken in the elephant orphanage in Pinaweela in Sri Lanka.
+
+
++--------+
+|  TAGS  |
++--------+
+ELEPHANTS 

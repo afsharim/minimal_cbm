@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : James E. Petts
+Photo URL    : https://www.flickr.com/photos/14730981@N08/11162059576/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 1 14:04:26 GMT+0100 2013
+Upload Date  : Mon Dec 2 01:06:51 GMT+0100 2013
+Geotag Info  : Latitude:51.465319, Longitude:-0.092765
+Views        : 298
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel on pathway
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Ruskin Park, London
+
+
++--------+
+|  TAGS  |
++--------+
+"Ruskin park" squirrel 

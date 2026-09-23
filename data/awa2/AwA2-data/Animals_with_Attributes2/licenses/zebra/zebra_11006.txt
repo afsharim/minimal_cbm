@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Craig Baerwaldt
+Photo URL    : https://www.flickr.com/photos/30632811@N03/3584084179/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 9 00:32:39 GMT+0200 2009
+Upload Date  : Mon Jun 1 09:32:39 GMT+0200 2009
+Geotag Info  : Latitude:-28.128916, Longitude:32.037849
+Views        : 577
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Zebras - Hluhluwe Umfolozi Park
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Licensed under a creative commons share-alike. Use freely but give attribution to Craig Baerwaldt and link to <a href="http://www.craigbaerwaldt.com" rel="nofollow">www.craigbaerwaldt.com</a>
+
+
++--------+
+|  TAGS  |
++--------+
+"Two Zebras" Zebras "South Africa" "Zulu Natal" Hluhluwe Umfolozi Park Safari 

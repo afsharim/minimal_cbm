@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/12088208855/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Sep 13 10:37:33 GMT+0200 2013
+Upload Date  : Wed Jan 22 18:01:34 GMT+0100 2014
+Geotag Info  : Latitude:-25.281954, Longitude:27.107391
+Views        : 10,943
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Three zebras
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This time three zebras, but mostly looking at the wrong side! :P
+
+
++--------+
+|  TAGS  |
++--------+
+wild wildlife zebras equine three standing grass pilanesberg "national park" "south africa" nikon d4 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : paulpiltdown
+Photo URL    : https://www.flickr.com/photos/8269539@N04/22205847019/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Oct 22 11:42:27 GMT+0200 2015
+Upload Date  : Thu Oct 22 22:03:08 GMT+0200 2015
+Geotag Info  : Latitude:52.685077, Longitude:-1.222409
+Views        : 261
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+"Barking"
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Red Deer at Bradgate Park
+
+
++--------+
+|  TAGS  |
++--------+
+red deer Bradgate park 

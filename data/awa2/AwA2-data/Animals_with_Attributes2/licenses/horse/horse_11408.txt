@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Narith5
+Photo URL    : https://www.flickr.com/photos/naritheole/2286299155/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 23 02:03:00 GMT+0100 2008
+Upload Date  : Sat Feb 23 23:41:29 GMT+0100 2008
+Views        : 151
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sandy's Horses
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Horse "Rochester, MN" 

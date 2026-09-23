@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : CJ Sugg
+Photo URL    : https://www.flickr.com/photos/grace-and-peace/16432362539/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Feb 20 20:40:18 GMT+0100 2015
+Upload Date  : Mon Feb 23 01:36:04 GMT+0100 2015
+Geotag Info  : Latitude:36.704826, Longitude:-88.119730
+Views        : 399
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+deer in snow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+deer snow 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : cathywilson35
+Photo URL    : https://www.flickr.com/photos/cathywilson35/8585984718/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 24 13:05:21 GMT+0100 2013
+Upload Date  : Sun Mar 24 14:34:19 GMT+0100 2013
+Geotag Info  : Latitude:55.408589, Longitude:12.230894
+Views        : 575
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horses in the Snow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Horses Snow 

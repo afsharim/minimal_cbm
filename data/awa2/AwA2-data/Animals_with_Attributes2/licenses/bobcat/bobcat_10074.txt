@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/10399983493/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 5 19:04:38 GMT+0200 2013
+Upload Date  : Mon Oct 21 11:00:26 GMT+0200 2013
+Geotag Info  : Latitude:48.710163, Longitude:2.956352
+Views        : 7,029
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Siberian lynx on the grass
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A pretty male Siberian lynx posing.
+
+
++--------+
+|  TAGS  |
++--------+
+lynx siberian lying posing grass male portrait wild cat feline kitty "parc des félins" nesles paris france nikon d4 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Oceancetaceen
+Photo URL    : https://www.flickr.com/photos/oceancetaceen/7672977658/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jan 2 20:13:58 GMT+0100 2003
+Upload Date  : Mon Jul 30 02:59:12 GMT+0200 2012
+Geotag Info  : Latitude:51.437477, Longitude:6.805901
+Views        : 101
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Waschbär (Procyon lotor)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

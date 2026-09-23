@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : flamesworddragon
+Photo URL    : https://www.flickr.com/photos/flamesworddragon/3701863031/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 3 14:40:54 GMT+0200 2009
+Upload Date  : Thu Jul 9 00:38:21 GMT+0200 2009
+Views        : 38
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Regal Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

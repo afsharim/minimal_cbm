@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Lord Biro
+Photo URL    : https://www.flickr.com/photos/paulboxley/65216442/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 19 14:17:25 GMT+0100 2005
+Upload Date  : Sun Nov 20 22:06:57 GMT+0100 2005
+Geotag Info  : Latitude:55.944435, Longitude:-3.268250
+Views        : 629
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+My banana!!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+One chimpanzee had some bananas. I think he was trying to give this other chimp one too, but the other chimp was having none of it.
+
+
++--------+
+|  TAGS  |
++--------+
+unfound photo edinburgh zoo edinburghzoo chimpanzee banana 

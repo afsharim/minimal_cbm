@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : akusnatzky
+Photo URL    : https://www.flickr.com/photos/129134064@N08/15491307837/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 20 15:56:30 GMT+0200 2014
+Upload Date  : Fri Oct 31 22:59:59 GMT+0100 2014
+Views        : 13
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe Zoom
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

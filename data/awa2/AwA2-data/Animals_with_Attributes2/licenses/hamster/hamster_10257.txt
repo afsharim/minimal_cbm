@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : BenedictFrancis
+Photo URL    : https://www.flickr.com/photos/kessiye/2706239326/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 26 15:11:37 GMT+0200 2008
+Upload Date  : Sun Jul 27 10:23:03 GMT+0200 2008
+Views        : 254
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Hamster Gerbil Rat Thing
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Should have taken a name!
+
+
++--------+
+|  TAGS  |
++--------+
+animal portrait zoo 

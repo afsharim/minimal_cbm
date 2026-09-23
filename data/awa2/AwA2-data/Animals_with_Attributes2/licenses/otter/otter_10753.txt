@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : colink.
+Photo URL    : https://www.flickr.com/photos/colink/1573800097/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 7 16:00:38 GMT+0200 2007
+Upload Date  : Mon Oct 15 07:00:46 GMT+0200 2007
+Views        : 224
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+zoo07-67
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Toronto Zoo" otter 

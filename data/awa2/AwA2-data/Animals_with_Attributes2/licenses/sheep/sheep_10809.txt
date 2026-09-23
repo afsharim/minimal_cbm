@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Royalty-free image collection
+Photo URL    : https://www.flickr.com/photos/royalty-free-images/139764662/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Sep 21 11:45:52 GMT+0200 2005
+Upload Date  : Wed May 3 16:55:12 GMT+0200 2006
+Views        : 18,038
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+sheep_3
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+sheep 

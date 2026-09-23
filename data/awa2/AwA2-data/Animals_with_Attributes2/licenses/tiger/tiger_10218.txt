@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bgolub
+Photo URL    : https://www.flickr.com/photos/benjamingolub/2146464822/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Dec 28 13:36:54 GMT+0100 2007
+Upload Date  : Sat Dec 29 15:08:32 GMT+0100 2007
+Geotag Info  : Latitude:43.155781, Longitude:-77.615908
+Views        : 85
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Sleeping Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zoo rochester ny seneca tiger 

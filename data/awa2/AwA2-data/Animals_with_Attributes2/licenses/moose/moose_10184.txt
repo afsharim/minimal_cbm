@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mike Juvrud
+Photo URL    : https://www.flickr.com/photos/mikejuvrud/5364807631/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 16 16:11:14 GMT+0100 2011
+Upload Date  : Tue Jan 18 00:23:02 GMT+0100 2011
+Views        : 109
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_20110116_161115
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Young moose munching some branches along the road.
+
+
++--------+
+|  TAGS  |
++--------+
+anchorage moose view 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Valerie Everett
+Photo URL    : https://www.flickr.com/photos/valeriebb/295869075/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 12 13:34:15 GMT+0100 2006
+Upload Date  : Mon Nov 13 01:08:59 GMT+0100 2006
+Views        : 385
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Eating zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zebra stripes zoo indy 

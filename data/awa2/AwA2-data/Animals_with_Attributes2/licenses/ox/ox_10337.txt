@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : tiswango
+Photo URL    : https://www.flickr.com/photos/tiswango/3342725109/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 8 15:51:55 GMT+0100 2009
+Upload Date  : Tue Mar 10 05:29:31 GMT+0100 2009
+Views        : 6
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_0802
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Florida "Metro Zoo" 

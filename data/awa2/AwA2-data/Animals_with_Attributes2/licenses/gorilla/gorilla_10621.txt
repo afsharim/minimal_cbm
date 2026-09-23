@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : neiljs
+Photo URL    : https://www.flickr.com/photos/neiljs/3828750745/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 15 17:14:53 GMT+0200 2009
+Upload Date  : Mon Aug 17 08:58:02 GMT+0200 2009
+Geotag Info  : Latitude:51.535925, Longitude:-0.158014
+Views        : 477
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+London Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+london zoo animal gorilla 

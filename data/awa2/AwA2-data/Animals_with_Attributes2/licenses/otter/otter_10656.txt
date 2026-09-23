@@ -1,0 +1,38 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : U.S. Department of the Interior
+Photo URL    : https://www.flickr.com/photos/usinterior/9270310148/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue May 7 17:35:04 GMT+0200 2013
+Upload Date  : Fri Jul 12 16:25:28 GMT+0200 2013
+Views        : 511
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sea Otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Seen during a whale watching cruise in Alaska.
+Photo by: Jane Liu
+
+
+seaotter4
+
+
++--------+
+|  TAGS  |
++--------+
+sea otter alaska 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : pquan
+Photo URL    : https://www.flickr.com/photos/pquan/5828478238/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jun 8 09:15:37 GMT+0200 2010
+Upload Date  : Mon Jun 13 13:48:54 GMT+0200 2011
+Geotag Info  : Latitude:28.358511, Longitude:-81.591339
+Views        : 27
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Animal Kingdom-2010-06-08-031
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : planetc1
+Photo URL    : https://www.flickr.com/photos/chiropractic/4775880653/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 2 12:11:30 GMT+0200 2010
+Upload Date  : Fri Jul 9 06:36:28 GMT+0200 2010
+Views        : 735
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Grizzly Bear British Columbia
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Photo taken on Grouse Mountain in North Vancouver
+
+
++--------+
+|  TAGS  |
++--------+
+"Canadian Grizzly" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Eric Kilby
+Photo URL    : https://www.flickr.com/photos/ekilby/17011267507/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 12 11:07:35 GMT+0200 2015
+Upload Date  : Tue Apr 21 04:10:22 GMT+0200 2015
+Geotag Info  : Latitude:42.064268, Longitude:-71.586366
+Views        : 361
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep and Little Lamb
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+southwicks zoo massachusetts sheep lamb 

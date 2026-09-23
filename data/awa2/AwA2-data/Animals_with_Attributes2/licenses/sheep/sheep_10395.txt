@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : walkinguphills
+Photo URL    : https://www.flickr.com/photos/peerlawther/6806367684/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 3 00:00:05 GMT+0100 2012
+Upload Date  : Sun Mar 4 17:08:47 GMT+0100 2012
+Geotag Info  : Latitude:54.166152, Longitude:-2.191600
+Views        : 8,580
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Inquisitive sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A few sheep come to say hello.
+
+
++--------+
+|  TAGS  |
++--------+
+Penyghent "yorkshire dales" "plover hill" "hill fog" rain sheep mountains foxup "halton gill" stainforth "north yorkshire" "dale farm" signposts "pennine way" 

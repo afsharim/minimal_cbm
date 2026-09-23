@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : DncnH
+Photo URL    : https://www.flickr.com/photos/duncanh1/6071245542/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 22 10:48:39 GMT+0200 2011
+Upload Date  : Tue Aug 23 00:11:35 GMT+0200 2011
+Geotag Info  : Latitude:52.938240, Longitude:0.490750
+Views        : 1,442
+Comments     : 25
+
+
++---------+
+|  TITLE  |
++---------+
+Harbour Seal
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Seen at the Hunstanton Sea Life Centre in Norfolk.
+
+
++--------+
+|  TAGS  |
++--------+
+"Phoca vitulina" "Harbour seal" "common seal" seal "Sea Life Centre" Hunstanton Norfolk water 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/8353503848/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 9 17:13:04 GMT+0200 2012
+Upload Date  : Sun Jan 6 12:29:44 GMT+0100 2013
+Geotag Info  : Latitude:46.786470, Longitude:9.675414
+Views        : 3,141
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Another squirrel...
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Yes, another squirrel eating a nut!
+
+
++--------+
+|  TAGS  |
++--------+
+eating food nut sitting way squirrel cute brown mammal arosa switzlerland nikon d4 

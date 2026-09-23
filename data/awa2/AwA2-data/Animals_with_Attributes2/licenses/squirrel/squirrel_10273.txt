@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : homie00001
+Photo URL    : https://www.flickr.com/photos/boseefus/4670329874/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 27 13:05:23 GMT+0100 2010
+Upload Date  : Sat Jun 5 00:03:15 GMT+0200 2010
+Views        : 154
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Harris's Antelope Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Squirrel 

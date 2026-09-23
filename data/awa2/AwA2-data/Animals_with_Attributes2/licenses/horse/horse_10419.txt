@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : DaMongMan
+Photo URL    : https://www.flickr.com/photos/damongman/4509700500/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 10 22:06:56 GMT+0200 2010
+Upload Date  : Sun Apr 11 04:16:06 GMT+0200 2010
+Geotag Info  : Latitude:46.057300, Longitude:-79.448490
+Views        : 902
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+"Here big guy, eat some hay!"
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+&quot;Hey is for horses...&quot;
+
+Wow big eh!
+
+
++--------+
+|  TAGS  |
++--------+
+damongman belgian horse "belgian horse" 

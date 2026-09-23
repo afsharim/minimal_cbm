@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : kevincole
+Photo URL    : https://www.flickr.com/photos/kevcole/1207399898/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri May 25 18:34:48 GMT+0200 2007
+Upload Date  : Thu Aug 23 01:25:15 GMT+0200 2007
+Geotag Info  : Latitude:35.369988, Longitude:-120.864136
+Views        : 292
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+O5365
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Otters kevincole: kevinlcole 

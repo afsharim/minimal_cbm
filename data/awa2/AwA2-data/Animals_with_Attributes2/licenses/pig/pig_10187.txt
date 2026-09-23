@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ufoncz
+Photo URL    : https://www.flickr.com/photos/ufoncz/3849232547/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 18 16:29:51 GMT+0200 2009
+Upload Date  : Sun Aug 23 22:50:45 GMT+0200 2009
+Geotag Info  : Latitude:49.203410, Longitude:16.524124
+Views        : 5,209
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Little wild pig
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Near to Brno (Bystrc) is small preserve with wild pigs, mouflons and other typical czech animals.
+
+
++--------+
+|  TAGS  |
++--------+
+s6500fd brno 

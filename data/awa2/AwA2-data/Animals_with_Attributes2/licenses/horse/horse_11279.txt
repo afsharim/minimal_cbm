@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : dronepicr
+Photo URL    : https://www.flickr.com/photos/132646954@N02/22188855311/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Oct 9 13:25:37 GMT+0200 2015
+Upload Date  : Thu Oct 15 03:04:43 GMT+0200 2015
+Geotag Info  : Latitude:53.339911, Longitude:-6.260387
+Views        : 232
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Pferd frisst Hafer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+fressen Hafer horse Pferd 

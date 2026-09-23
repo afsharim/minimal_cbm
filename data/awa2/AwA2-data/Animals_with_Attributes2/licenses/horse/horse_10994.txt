@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Dan (catching up)
+Photo URL    : https://www.flickr.com/photos/dan1984/9242379324/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 30 07:28:26 GMT+0200 2013
+Upload Date  : Mon Jul 8 20:30:50 GMT+0200 2013
+Views        : 567
+Comments     : 11
+
+
++---------+
+|  TITLE  |
++---------+
+Horses
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Taken in the New Forest
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

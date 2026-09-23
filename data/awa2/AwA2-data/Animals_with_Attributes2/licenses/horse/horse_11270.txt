@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : normanack
+Photo URL    : https://www.flickr.com/photos/29278394@N00/635330688/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jun 26 20:27:34 GMT+0200 2007
+Upload Date  : Wed Jun 27 02:27:34 GMT+0200 2007
+Views        : 128
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+peppery horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+waiting his turn to be ridden
+
+
++--------+
+|  TAGS  |
++--------+
+"horse camp" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : aokettun
+Photo URL    : https://www.flickr.com/photos/aok/289741073/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Sep 25 15:11:54 GMT+0200 2006
+Upload Date  : Sun Nov 5 21:13:56 GMT+0100 2006
+Geotag Info  : Latitude:-42.504249, Longitude:-63.610839
+Views        : 450
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant seals at it
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Some grunting and moaning, very little movement
+
+
++--------+
+|  TAGS  |
++--------+
+Argentina "Peninsula Valdes" Patagonia elephant-seals 

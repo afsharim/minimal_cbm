@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MaxH42
+Photo URL    : https://www.flickr.com/photos/maxh42/9552408941/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 16 09:17:23 GMT+0200 2013
+Upload Date  : Tue Aug 20 15:41:32 GMT+0200 2013
+Geotag Info  : Latitude:-3.564821, Longitude:35.746765
+Views        : 784
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+2013-08-16 09.17.23
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Elephant baby grazing
+
+
++--------+
+|  TAGS  |
++--------+
+animal elephant baby 

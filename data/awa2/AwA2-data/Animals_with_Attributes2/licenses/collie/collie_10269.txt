@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Scott Lindsey
+Photo URL    : https://www.flickr.com/photos/scottlindsey/5426606546/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Feb 7 17:19:13 GMT+0100 2011
+Upload Date  : Tue Feb 8 00:19:44 GMT+0100 2011
+Views        : 336
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+echo skys
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"border collie" "sky houndz" 

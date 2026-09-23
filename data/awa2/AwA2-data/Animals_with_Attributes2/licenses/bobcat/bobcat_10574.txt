@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tiger Girl
+Photo URL    : https://www.flickr.com/photos/tigergirl/3541272284/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 16 13:57:41 GMT+0200 2009
+Upload Date  : Mon May 18 04:16:59 GMT+0200 2009
+Views        : 167
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Minnesota Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Lynx with his tongue sticking out
+
+
++--------+
+|  TAGS  |
++--------+
+minnesota zoo "minnesota zoo" "apple valley" lynx 

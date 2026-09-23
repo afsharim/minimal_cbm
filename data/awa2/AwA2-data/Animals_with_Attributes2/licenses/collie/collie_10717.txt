@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Aug 23, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : IainStars
+Photo URL    : https://www.flickr.com/photos/iainstars/27172967063/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 19 11:19:40 GMT+0200 2016
+Upload Date  : Mon Jun 20 04:01:46 GMT+0200 2016
+Views        : 154
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+My collie and me
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+collie is camping with me
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

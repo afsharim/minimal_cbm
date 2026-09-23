@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : morrowplanet
+Photo URL    : https://www.flickr.com/photos/morrowplanet/3699139599/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 3 11:15:32 GMT+0200 2009
+Upload Date  : Wed Jul 8 03:32:39 GMT+0200 2009
+Views        : 122
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+7/3/09 11:15:32 AM
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Elephants at the St. Louis Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+elephant elephants zoo stlouis 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : AlexisM2010
+Photo URL    : https://www.flickr.com/photos/alexisnmatthews/3739107997/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jun 30 05:15:32 GMT+0200 2009
+Upload Date  : Mon Jul 20 19:35:58 GMT+0200 2009
+Views        : 24
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Photo. Squirrel. Camping tip. July 2009.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

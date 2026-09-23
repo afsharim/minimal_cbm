@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Yuxuan.fishy.Wang
+Photo URL    : https://www.flickr.com/photos/fishywang/5840094336/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 16 16:08:57 GMT+0200 2011
+Upload Date  : Thu Jun 16 19:46:28 GMT+0200 2011
+Views        : 166
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Pig
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+@<a href="http://www.animalschina.org/en" rel="nofollow">Beijing Human and Animal Environmental Education Center</a>
+(They want keep their detailed location privacy, so no geotags.)
+
+
++--------+
+|  TAGS  |
++--------+
+"community service" beijing google googleserve animal BHAEEC pig 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Chris Doelle
+Photo URL    : https://www.flickr.com/photos/shutterdog/2772188883/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 16 18:47:28 GMT+0200 2008
+Upload Date  : Mon Aug 18 02:43:34 GMT+0200 2008
+Views        : 39
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Moose
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The detail is pretty cool
+
+
++--------+
+|  TAGS  |
++--------+
+"blackberry 8330" cabelas 

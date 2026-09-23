@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Werner Vermaak
+Photo URL    : https://www.flickr.com/photos/changereality/5739489504/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 12 15:15:48 GMT+0200 2011
+Upload Date  : Fri May 20 10:30:49 GMT+0200 2011
+Geotag Info  : Latitude:-25.338285, Longitude:27.109966
+Views        : 2,613
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+An Elephant in the Pilanesberg Game Reserve, North West Province.
+
+
++--------+
+|  TAGS  |
++--------+
+"North West" Elephant Bakgatla "Game Reserve" Pilanesberg 

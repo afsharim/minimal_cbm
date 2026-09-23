@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : YLev
+Photo URL    : https://www.flickr.com/photos/i8ipod/8680438311/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Apr 25 08:35:25 GMT+0200 2013
+Upload Date  : Thu Apr 25 19:29:06 GMT+0200 2013
+Geotag Info  : Latitude:47.579304, Longitude:-122.369842
+Views        : 2,372
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Seal pup resting
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Seal pup resting. It's about 3 feet long.
+
+
++--------+
+|  TAGS  |
++--------+
+"Animal planet" "National geographic" seal sealion 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : RZelt
+Photo URL    : https://www.flickr.com/photos/rzelt/377467305/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Feb 2 07:05:58 GMT+0100 2007
+Upload Date  : Fri Feb 2 16:05:58 GMT+0100 2007
+Views        : 19
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Moose @ FAO
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+- Taken at 1:37 PM on January 31, 2007 - cameraphone upload by ShoZu
+
+
++--------+
+|  TAGS  |
++--------+
+ShoZu 

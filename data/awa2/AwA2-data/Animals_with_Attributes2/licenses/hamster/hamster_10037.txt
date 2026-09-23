@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : necrocake
+Photo URL    : https://www.flickr.com/photos/necrocake/3012066999/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Nov 3 23:43:04 GMT+0100 2008
+Upload Date  : Sat Nov 8 14:50:17 GMT+0100 2008
+Views        : 344
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+AJ
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Was eating a grape
+
+
++--------+
+|  TAGS  |
++--------+
+"syrian hamster" hamster pet 

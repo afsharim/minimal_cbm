@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : J Sonder
+Photo URL    : https://www.flickr.com/photos/johnsonderman/1985751253/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 10 10:29:19 GMT+0100 2007
+Upload Date  : Mon Nov 12 17:58:24 GMT+0100 2007
+Geotag Info  : Latitude:38.929535, Longitude:-77.047677
+Views        : 7,848
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Tigers
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Wet Tiger chasing Dry Tiger
+National Zoo, Washington, DC
+
+
++--------+
+|  TAGS  |
++--------+
+Tiger NationalZoo Animals Tigers Zoo WashingtonDC smithsonian 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : PreciousBytes
+Photo URL    : https://www.flickr.com/photos/72562013@N06/10016694146/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 29 13:17:47 GMT+0200 2013
+Upload Date  : Mon Sep 30 11:48:38 GMT+0200 2013
+Geotag Info  : Latitude:-37.780076, Longitude:144.913208
+Views        : 1,484
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Stubborn Clyde - 2013 Royal Melbourne Show
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+2013 Royal Melbourne Show
+
+
++--------+
+|  TAGS  |
++--------+
+Clydesdale Horse 

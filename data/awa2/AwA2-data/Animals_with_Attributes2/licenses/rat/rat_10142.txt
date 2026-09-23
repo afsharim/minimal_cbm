@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Dluogs
+Photo URL    : https://www.flickr.com/photos/dluogs/6269179931/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 4 10:27:19 GMT+0200 2011
+Upload Date  : Sat Oct 22 18:33:25 GMT+0200 2011
+Geotag Info  : Latitude:51.049400, Longitude:-1.336400
+Views        : 2,187
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Brown Rat - Rattus norvegicus 1a
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Young Brown Rat <i><b>Rattus norvegicus</b></i> looking for spilt birdseed on a lawn, Winchester, Hampshire, UK. 4th September 2011.
+
+OS Grid Ref: SU4627  Note - Latitude and Longitude not exact - I have shown it in the middle of the housing estate to avoid giving exact address.
+
+
++--------+
+|  TAGS  |
++--------+
+mammal Rodentia Muridae "Rattus norvegicus" "Brown Rat" rat Hampshire Winchester "Badger Farm" garden "British wildlife" Dluogs "taxonomy:binomial=Rattus norvegicus" "taxonomy:common=Brown Rat" geo:county=Hampshire geo:country=England geo:region=Europe 

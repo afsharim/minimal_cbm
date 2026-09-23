@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Andy Hay
+Photo URL    : https://www.flickr.com/photos/andyhay/16036236751/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 14 13:31:11 GMT+0100 2014
+Upload Date  : Sun Dec 14 14:31:11 GMT+0100 2014
+Geotag Info  : Latitude:55.944258, Longitude:-3.267863
+Views        : 462
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Chimpanzee at Edinburgh Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+2014 "budongo trail" chimpanzee chimpanzees edinburgh "edinburgh zoo" lightroom scotland zoo "United Kingdom" 

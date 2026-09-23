@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Chloe Bray
+Photo URL    : https://www.flickr.com/photos/fieldmouse-/8395792523/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 20 00:06:36 GMT+0100 2013
+Upload Date  : Sun Jan 20 01:17:18 GMT+0100 2013
+Views        : 357
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant at Rhenen Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+elephant zoo Holland 

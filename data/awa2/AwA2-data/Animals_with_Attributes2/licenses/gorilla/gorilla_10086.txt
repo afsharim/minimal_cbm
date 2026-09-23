@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : charlieishere@btinternet.com
+Photo URL    : https://www.flickr.com/photos/100915417@N07/9625258586/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 10 15:42:29 GMT+0200 2013
+Upload Date  : Thu Aug 29 21:49:32 GMT+0200 2013
+Geotag Info  : Latitude:51.463352, Longitude:-2.620979
+Views        : 1,822
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+bristol_zoo_july_2013_1
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The biggest lowland gorilla on the Bristol Zoo gorilla island
+
+
++--------+
+|  TAGS  |
++--------+
+lowlandgorilla leaves "gorilla island" bristolzoo bristol 

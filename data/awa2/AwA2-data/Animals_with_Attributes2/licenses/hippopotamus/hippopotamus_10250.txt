@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mister-E
+Photo URL    : https://www.flickr.com/photos/mister-e/7281397964/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jan 30 05:51:50 GMT+0100 2012
+Upload Date  : Sun May 27 21:26:42 GMT+0200 2012
+Geotag Info  : Latitude:-24.968506, Longitude:31.749461
+Views        : 672
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Hippo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Africa "Kruger National Park" Safari "South Africa" Wildlife hippo hippopotamus "Kruger Park" Mpumalanga 

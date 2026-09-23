@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Eric Kilby
+Photo URL    : https://www.flickr.com/photos/ekilby/15640835003/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 11 15:40:03 GMT+0100 2015
+Upload Date  : Mon Jan 12 05:49:05 GMT+0100 2015
+Geotag Info  : Latitude:42.305272, Longitude:-71.088862
+Views        : 642
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Two Zebras Grazing in Snow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+franklin park zoo boston zebras stripes snow 

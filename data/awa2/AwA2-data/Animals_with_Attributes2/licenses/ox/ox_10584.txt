@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ggoldie
+Photo URL    : https://www.flickr.com/photos/georgegoldie/5432500553/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 11 15:40:02 GMT+0200 2010
+Upload Date  : Thu Feb 10 07:53:00 GMT+0100 2011
+Views        : 112
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Scotland Tour 2010-316.jpg
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Scotland 2010 IFDH book glasgow edinburgh tour" 

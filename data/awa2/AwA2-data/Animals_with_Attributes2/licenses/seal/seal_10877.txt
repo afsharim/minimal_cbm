@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ahisgett
+Photo URL    : https://www.flickr.com/photos/hisgett/1794434322/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Oct 25 11:52:28 GMT+0200 2007
+Upload Date  : Sun Oct 28 20:30:31 GMT+0100 2007
+Geotag Info  : Latitude:54.064500, Longitude:-4.799308
+Views        : 664
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Seals2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Isle of Man" Seal "Calf of Man" Sea "Grey Seal" Hisgett 

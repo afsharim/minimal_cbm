@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ullisan
+Photo URL    : https://www.flickr.com/photos/ullisandersson/2705467024/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 6 12:35:32 GMT+0200 2008
+Upload Date  : Sun Jul 27 03:26:20 GMT+0200 2008
+Views        : 279
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Seal at Aalborg Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Seal at Aalborg Zoo.
+
+
++--------+
+|  TAGS  |
++--------+
+animal seal 

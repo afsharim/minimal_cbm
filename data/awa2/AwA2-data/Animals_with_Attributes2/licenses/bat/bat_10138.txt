@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jomis
+Photo URL    : https://www.flickr.com/photos/jomis/232572803/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 11 16:26:16 GMT+0200 2006
+Upload Date  : Sun Sep 3 12:31:52 GMT+0200 2006
+Geotag Info  : Latitude:48.233363, Longitude:16.398124
+Views        : 479
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+murciélago
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+murciélago de la fruta
+
+
++--------+
+|  TAGS  |
++--------+
+viena vienna wien tiergarten zoo animales animals murciélago bat 

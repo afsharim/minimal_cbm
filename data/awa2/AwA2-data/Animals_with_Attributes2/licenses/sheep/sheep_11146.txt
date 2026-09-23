@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : slashvee
+Photo URL    : https://www.flickr.com/photos/slashvee/17225802655/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Apr 20 07:13:36 GMT+0200 2015
+Upload Date  : Tue Apr 21 20:10:42 GMT+0200 2015
+Geotag Info  : Latitude:38.707781, Longitude:-77.088812
+Views        : 322
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Mt. Vernon, Virginia
+
+
++--------+
+|  TAGS  |
++--------+
+"mt vernon" sheep fences hay 

@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Joel Garlich Miller, U.S. Fish and Wildlife Service
+Photo URL    : https://commons.wikimedia.org/wiki/File:Walrus_cow_with_her_young_calf_on_the_ice_odobenus_rosmarus.jpg
+License      : public domain
+Date         : Not given

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : alex012
+Photo URL    : https://www.flickr.com/photos/alex012/3414568464/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 5 13:27:27 GMT+0200 2009
+Upload Date  : Sun Apr 5 14:27:27 GMT+0200 2009
+Geotag Info  : Latitude:55.880119, Longitude:-4.291834
+Views        : 454
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+I don't care what anyone says, Grey squirrels are still very cute!
+
+
++--------+
+|  TAGS  |
++--------+
+grey squirrel glasgow feeding 

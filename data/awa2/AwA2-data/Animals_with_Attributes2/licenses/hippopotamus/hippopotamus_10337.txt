@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : infowidget
+Photo URL    : https://www.flickr.com/photos/infowidget/1325200025/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Sep 3 14:09:52 GMT+0200 2007
+Upload Date  : Wed Sep 5 03:54:15 GMT+0200 2007
+Views        : 18
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hippopotamus
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+cleveland zoo 

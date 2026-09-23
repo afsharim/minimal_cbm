@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Rouven Kurz
+Photo URL    : https://www.flickr.com/photos/rouven/9183103805/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 1 17:48:47 GMT+0200 2013
+Upload Date  : Mon Jul 1 18:01:16 GMT+0200 2013
+Views        : 114
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elefanten
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

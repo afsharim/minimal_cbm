@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : AdrianaPerezMuñiz
+Photo URL    : https://www.flickr.com/photos/adrianaperez/2288862065/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 6 15:15:32 GMT+0200 2007
+Upload Date  : Sun Feb 24 22:32:28 GMT+0100 2008
+Views        : 857
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Mi hamster
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+hamster roborowski 

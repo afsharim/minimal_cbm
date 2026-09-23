@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : French World Citizen
+Photo URL    : https://www.flickr.com/photos/68777989@N02/9300547199/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 13 13:11:45 GMT+0200 2013
+Upload Date  : Tue Jul 16 21:32:59 GMT+0200 2013
+Views        : 1,208
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

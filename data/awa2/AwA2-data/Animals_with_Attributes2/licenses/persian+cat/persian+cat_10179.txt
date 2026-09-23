@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : allenthepostman
+Photo URL    : https://www.flickr.com/photos/allenthepostman/2203701016/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jan 18 15:47:56 GMT+0100 2008
+Upload Date  : Sat Jan 19 12:31:48 GMT+0100 2008
+Views        : 655
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Fat Cat
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+in shy mode,Jan 2008
+
+
++--------+
+|  TAGS  |
++--------+
+pets cats "chinchilla persian" animals 

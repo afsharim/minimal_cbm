@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Martin Svedén
+Photo URL    : https://www.flickr.com/photos/martin-s/4538953021/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 18 19:16:26 GMT+0200 2010
+Upload Date  : Wed Apr 21 03:02:12 GMT+0200 2010
+Views        : 20,811
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A deer in Richmond Park, London, UK.
+
+
++--------+
+|  TAGS  |
++--------+
+Deer 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : woofiegrrl
+Photo URL    : https://www.flickr.com/photos/meredith/2186152975/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jan 11 17:41:57 GMT+0100 2008
+Upload Date  : Sat Jan 12 05:18:47 GMT+0100 2008
+Geotag Info  : Latitude:32.765552, Longitude:-117.226395
+Views        : 220
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Leaping
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+They are both smaller and larger than I was expecting...this is the first time I've seen a performing orca (killer whale).
+
+
++--------+
+|  TAGS  |
++--------+
+"sea world" "orca show" orca "killer whale" 

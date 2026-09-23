@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : LiS115
+Photo URL    : https://www.flickr.com/photos/lis115/7744683532/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 18 15:59:01 GMT+0200 2012
+Upload Date  : Thu Aug 9 08:24:27 GMT+0200 2012
+Views        : 46
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+ELEPHANTS
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

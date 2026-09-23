@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tim Green aka atoach
+Photo URL    : https://www.flickr.com/photos/atoach/9343248395/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 21 13:43:09 GMT+0200 2013
+Upload Date  : Mon Jul 22 20:54:55 GMT+0200 2013
+Views        : 503
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Highland Bullock
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

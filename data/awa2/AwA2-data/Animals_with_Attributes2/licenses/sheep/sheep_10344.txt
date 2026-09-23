@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : HopeHill
+Photo URL    : https://www.flickr.com/photos/45340412@N06/14811070231/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 3 17:39:02 GMT+0200 2013
+Upload Date  : Sun Aug 3 05:33:30 GMT+0200 2014
+Views        : 21
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_0339
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

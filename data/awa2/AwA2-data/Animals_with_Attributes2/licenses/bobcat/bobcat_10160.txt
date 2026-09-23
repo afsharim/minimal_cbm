@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : 3n
+Photo URL    : https://www.flickr.com/photos/3n/4272173592/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Dec 30 16:01:08 GMT+0100 2009
+Upload Date  : Wed Jan 13 18:40:27 GMT+0100 2010
+Geotag Info  : Latitude:61.124107, Longitude:-149.792541
+Views        : 129
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+a lynx
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+I want.
+
+
++--------+
+|  TAGS  |
++--------+
+geotagged nikon d80 18-200vr zoo alaska lynx 

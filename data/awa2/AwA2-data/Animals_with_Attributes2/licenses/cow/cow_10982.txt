@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : stachelbeer
+Photo URL    : https://www.flickr.com/photos/mario_storch/14582778500/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 28 14:20:49 GMT+0200 2014
+Upload Date  : Mon Jul 28 20:19:32 GMT+0200 2014
+Geotag Info  : Latitude:47.167441, Longitude:11.779469
+Views        : 80
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Kuh
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

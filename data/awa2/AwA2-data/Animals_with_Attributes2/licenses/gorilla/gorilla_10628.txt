@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bedwj099
+Photo URL    : https://www.flickr.com/photos/jerrybedwell/4772441680/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 6 17:43:40 GMT+0200 2010
+Upload Date  : Wed Jul 7 22:14:27 GMT+0200 2010
+Geotag Info  : Latitude:38.254859, Longitude:-85.766403
+Views        : 65
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Louisville Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Definitely the alpha male.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

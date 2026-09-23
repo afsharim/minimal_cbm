@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Charlotte A. Cavatica
+Photo URL    : https://www.flickr.com/photos/99177658@N07/9380618285/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Sep 25 22:08:27 GMT+0200 2012
+Upload Date  : Sun Jul 28 09:27:17 GMT+0200 2013
+Views        : 21
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_5073
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

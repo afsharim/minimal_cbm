@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/11601051756/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 3 16:18:35 GMT+0200 2013
+Upload Date  : Sat Dec 28 11:03:41 GMT+0100 2013
+Geotag Info  : Latitude:47.105828, Longitude:6.822745
+Views        : 5,935
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Female lynx in the tree
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Another picture of the female lynx in the tree...
+
+
++--------+
+|  TAGS  |
++--------+
+lynx wild cat female tree up leaves branches ovserving portrait park zoo "bois du petit château" "la chaux de fonds" switzerland nikon d4 

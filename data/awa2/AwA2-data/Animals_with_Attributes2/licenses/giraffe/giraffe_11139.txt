@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Loozrboy
+Photo URL    : https://www.flickr.com/photos/loozrboy/3745293212/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 19 12:00:02 GMT+0200 2009
+Upload Date  : Wed Jul 22 06:14:08 GMT+0200 2009
+Geotag Info  : Latitude:43.818667, Longitude:-79.187296
+Views        : 240
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tall boy
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Apparently giraffes can't use their log legs to step over small obstacles, or this guy (or gal) and his (or her) buddy would be long gone.
+
+
++--------+
+|  TAGS  |
++--------+
+zoo animal giraffe "Toronto Zoo" 

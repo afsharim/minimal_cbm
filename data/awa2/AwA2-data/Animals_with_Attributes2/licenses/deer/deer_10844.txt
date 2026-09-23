@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : uuzinger
+Photo URL    : https://www.flickr.com/photos/uuzinger/8745778315/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 12 17:29:52 GMT+0200 2013
+Upload Date  : Fri May 17 05:23:22 GMT+0200 2013
+Views        : 45
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+fatass.deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

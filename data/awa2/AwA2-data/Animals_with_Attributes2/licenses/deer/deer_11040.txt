@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : vladeb
+Photo URL    : https://www.flickr.com/photos/28122162@N04/5116212477/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Oct 26 00:00:04 GMT+0200 2010
+Upload Date  : Tue Oct 26 06:00:04 GMT+0200 2010
+Views        : 656
+Comments     : 6
+
+
++---------+
+|  TITLE  |
++---------+
+Mule Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A pix of a mule deer we ran across near the Phantom Range in the canyon.
+
+
++--------+
+|  TAGS  |
++--------+
+"Mule Deer" "Grand Canyon" "Grand Canyon National Park" 

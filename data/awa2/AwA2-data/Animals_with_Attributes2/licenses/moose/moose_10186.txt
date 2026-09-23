@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Laramie River Dude Ranch
+Photo URL    : https://www.flickr.com/photos/24597115@N04/6983214018/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Apr 30 13:37:55 GMT+0200 2012
+Upload Date  : Mon Apr 30 21:37:55 GMT+0200 2012
+Views        : 402
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Laramie River Ranch Moose
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This cow and her calf roamed through the ranch one fine April morning.
+
+
++--------+
+|  TAGS  |
++--------+
+"Laramie River Dude Ranch" moose 

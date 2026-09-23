@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : CGP Grey
+Photo URL    : https://www.flickr.com/photos/cgpgrey/4889345695/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 30 16:36:56 GMT+0200 2007
+Upload Date  : Fri Aug 13 10:47:57 GMT+0200 2010
+Geotag Info  : Latitude:35.664740, Longitude:-121.262326
+Views        : 676
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+California Elephant Seals
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+If you use this photo, please link to <a href="http://www.CGPGrey.com/" rel="nofollow">www.CGPGrey.com</a> for attribution.
+
+
++--------+
+|  TAGS  |
++--------+
+"united states" california "north america" chordata phocidae pinnipedia mirounga carnivora mammalia animalia "elephant seal" "the west" 

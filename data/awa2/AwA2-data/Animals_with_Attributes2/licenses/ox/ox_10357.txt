@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : BigTallGuy
+Photo URL    : https://www.flickr.com/photos/bigtallguy/2551015967/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 4 10:55:00 GMT+0200 2008
+Upload Date  : Wed Jun 4 20:38:30 GMT+0200 2008
+Geotag Info  : Latitude:52.373243, Longitude:-2.296805
+Views        : 116
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_2200_080604_40D
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+IMG_2200 | Canon40D@400mm | 1\320s | f5.6 | ISO200 |
+
+
++--------+
+|  TAGS  |
++--------+
+1/320sec 400mm adobe "Canon EOS 40D" f/5.6 IMG_2200 lightroom raw safaripark westmidlands kidderminster safari animals 

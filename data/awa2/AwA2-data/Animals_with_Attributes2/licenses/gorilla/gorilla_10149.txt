@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : vonguard
+Photo URL    : https://www.flickr.com/photos/vonguard/3376388766/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 21 10:47:58 GMT+0100 2009
+Upload Date  : Sun Mar 22 18:22:11 GMT+0100 2009
+Views        : 5
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_0245.JPG
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

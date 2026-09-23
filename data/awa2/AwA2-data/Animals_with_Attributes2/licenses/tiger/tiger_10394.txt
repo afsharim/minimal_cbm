@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : quiksilver37
+Photo URL    : https://www.flickr.com/photos/quiksilver37/12613518/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 5 16:06:23 GMT+0200 2005
+Upload Date  : Fri May 6 11:47:53 GMT+0200 2005
+Geotag Info  : Latitude:51.353344, Longitude:12.362365
+Views        : 78
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Aufnahme aus dem Zoo Leipzig vom 05.05.2005
+
+
++--------+
+|  TAGS  |
++--------+
+animals zoo tiere leipzig animal tiger 

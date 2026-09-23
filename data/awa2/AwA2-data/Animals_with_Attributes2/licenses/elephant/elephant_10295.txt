@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Kent Wang
+Photo URL    : https://www.flickr.com/photos/kentwang/86437939/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 7 15:07:20 GMT+0100 2006
+Upload Date  : Sat Jan 14 17:38:52 GMT+0100 2006
+Views        : 328
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Houston zoo "Houston Zoo" animal elephant 

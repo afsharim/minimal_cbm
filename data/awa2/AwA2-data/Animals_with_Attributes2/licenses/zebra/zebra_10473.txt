@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : @jbtaylor
+Photo URL    : https://www.flickr.com/photos/jbtaylor/5525059018/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 13 15:41:46 GMT+0100 2011
+Upload Date  : Mon Mar 14 03:37:40 GMT+0100 2011
+Geotag Info  : Latitude:38.929869, Longitude:-77.050337
+Views        : 100
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"National Zoo" Smithsonian "Smithsonian Institution" Zoo zebra zebras 

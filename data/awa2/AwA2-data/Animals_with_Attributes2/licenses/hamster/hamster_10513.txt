@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : solo_time
+Photo URL    : https://www.flickr.com/photos/solo_time/1869006900/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Nov 5 14:45:54 GMT+0100 2007
+Upload Date  : Mon Nov 5 07:45:54 GMT+0100 2007
+Views        : 77
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+osaka03
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+hamster hamsters pets 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Richard.Fisher
+Photo URL    : https://www.flickr.com/photos/richardfisher/8210291985/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 18 08:38:10 GMT+0100 2012
+Upload Date  : Fri Nov 23 15:05:42 GMT+0100 2012
+Geotag Info  : Latitude:51.444178, Longitude:-0.270173
+Views        : 5,253
+Comments     : 27
+
+
++---------+
+|  TITLE  |
++---------+
+Red deer doe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Nikon D800" "AF-S NIKKOR 300mm F/4D IF-ED" "Nikon TC-14E" London "Richmond Park" Morning Sunrise Dawn Mist Fog Golden Photographer Photo Photog "Red Deer" Female Doe 

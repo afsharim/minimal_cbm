@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : AntoGros
+Photo URL    : https://www.flickr.com/photos/atony/6904595870/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Feb 13 13:27:42 GMT+0100 2012
+Upload Date  : Fri Apr 6 16:05:29 GMT+0200 2012
+Geotag Info  : Latitude:28.605866, Longitude:77.245697
+Views        : 6,867
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Trying to Identify this Deer
+
+
++--------+
+|  TAGS  |
++--------+
+Deer 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : insane photoholic
+Photo URL    : https://www.flickr.com/photos/insanephotoholic/3754870907/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 25 17:28:00 GMT+0200 2009
+Upload Date  : Sat Jul 25 19:51:14 GMT+0200 2009
+Views        : 530
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+a happy squirrel enjoying its meal
+
+
++--------+
+|  TAGS  |
++--------+
+animal rodent nature forest squirrel tree 

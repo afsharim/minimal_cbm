@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Derek Keats
+Photo URL    : https://www.flickr.com/photos/dkeats/290812486/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 4 10:51:01 GMT+0100 2006
+Upload Date  : Mon Nov 6 20:55:17 GMT+0100 2006
+Views        : 10,525
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Gorillas with baby in Rwanda at the Volcanoes National Park
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Gorillas in Rwanda at the Volcanoes National Park
+
+
++--------+
+|  TAGS  |
++--------+
+"Volcanoes National Park" " Rwanda" gorilla ape "great apes" 

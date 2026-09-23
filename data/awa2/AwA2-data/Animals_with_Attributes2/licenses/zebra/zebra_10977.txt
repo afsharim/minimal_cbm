@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : coda
+Photo URL    : https://www.flickr.com/photos/coda/191024466/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 16 13:03:55 GMT+0200 2006
+Upload Date  : Sun Jul 16 22:03:55 GMT+0200 2006
+Geotag Info  : Latitude:-19.115326, Longitude:16.123809
+Views        : 7,208
+Comments     : 10
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra, Etosha National Park
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+namibia "southern africa" africa "etosha national park" "game drive" safari wildlife animals 

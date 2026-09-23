@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sfllaw
+Photo URL    : https://www.flickr.com/photos/sfllaw/138397178/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 30 15:05:56 GMT+0200 2006
+Upload Date  : Mon May 1 18:53:28 GMT+0200 2006
+Geotag Info  : Latitude:45.525607, Longitude:-73.573111
+Views        : 1,296
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bat
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+We found a bat sleeping in the monument.  But it was too noisy for it, so it eventually flew off as dusk fell.
+
+
++--------+
+|  TAGS  |
++--------+
+montréal park bat 

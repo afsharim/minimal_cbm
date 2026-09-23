@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : JSmith Portfolio
+Photo URL    : https://www.flickr.com/photos/jsmithportfolio/2319544015/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed May 23 13:02:12 GMT+0200 2007
+Upload Date  : Sun Mar 9 04:55:28 GMT+0100 2008
+Geotag Info  : Latitude:35.342294, Longitude:-119.008283
+Views        : 272
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+animal horse miniature "miniature horse" california bakersfield portrait 

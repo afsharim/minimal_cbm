@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : The Webhamster
+Photo URL    : https://www.flickr.com/photos/the_webhamster/5645340560/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Apr 22 16:09:41 GMT+0200 2011
+Upload Date  : Sat Apr 23 05:30:07 GMT+0200 2011
+Geotag Info  : Latitude:45.303629, Longitude:-75.836466
+Views        : 915
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Red Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+red squirrel 

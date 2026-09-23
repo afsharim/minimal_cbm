@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : hehaden
+Photo URL    : https://www.flickr.com/photos/hellie55/4409490648/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 28 14:29:11 GMT+0100 2010
+Upload Date  : Fri Mar 5 20:48:38 GMT+0100 2010
+Views        : 415
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+animal cat "big cat" tiger "Wildlife Heritage Foundation" FlickrBigCats 

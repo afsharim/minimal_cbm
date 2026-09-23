@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : one_dead_president
+Photo URL    : https://www.flickr.com/photos/35773893@N00/2506704801/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon May 19 13:03:28 GMT+0200 2008
+Upload Date  : Tue May 20 03:56:19 GMT+0200 2008
+Views        : 29
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC02353
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"bronx zoo" 

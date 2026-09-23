@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Dave Hamster
+Photo URL    : https://www.flickr.com/photos/davehamster/6370672809/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Sep 5 16:08:21 GMT+0200 2011
+Upload Date  : Sun Nov 20 19:10:43 GMT+0100 2011
+Geotag Info  : Latitude:52.794782, Longitude:-1.450366
+Views        : 444
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Red Deer Doe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Calke Abbey, Derbyshire
+
+
++--------+
+|  TAGS  |
++--------+
+"Calke Abbey" "National Trust" Derbyshire "Red Deer" Deer Doe 

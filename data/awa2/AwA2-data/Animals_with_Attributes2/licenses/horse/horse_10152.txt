@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Kristine Paulus
+Photo URL    : https://www.flickr.com/photos/kpaulus/7170477169/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 9 04:02:59 GMT+0200 2012
+Upload Date  : Sun Jun 10 00:26:12 GMT+0200 2012
+Geotag Info  : Latitude:40.758505, Longitude:-74.000043
+Views        : 672
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Carriage Horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+I feel so sorry for them - they look miserable.
+
+
++--------+
+|  TAGS  |
++--------+
+horse "carriage horse" 

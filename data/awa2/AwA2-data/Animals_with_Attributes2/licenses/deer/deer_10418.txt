@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : AHLN
+Photo URL    : https://www.flickr.com/photos/anijdam/3587955696/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 31 05:39:10 GMT+0200 2009
+Upload Date  : Tue Jun 2 04:47:55 GMT+0200 2009
+Views        : 130
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

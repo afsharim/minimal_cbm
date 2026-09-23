@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/494174387/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Sep 13 16:44:48 GMT+0200 2006
+Upload Date  : Sat May 12 01:22:50 GMT+0200 2007
+Geotag Info  : Latitude:47.385711, Longitude:8.573412
+Views        : 14,045
+Comments     : 17
+
+
++---------+
+|  TITLE  |
++---------+
+Portrait of the tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Nice portrait of one of the tigers of the Zurich Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+tiger "zoo zürich" FaceOffWinner PhotoFaceOffWinner tigre "panthera tigris" cat feline wildcat bigcat "amur tiger" "siberian tiger" zoo coto PFOGold zurich panthera tigris wild big zürich switzerland kitty schweiz felid striped stripes 

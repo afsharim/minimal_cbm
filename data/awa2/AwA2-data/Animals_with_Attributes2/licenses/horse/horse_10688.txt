@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ItaiNathaniel
+Photo URL    : https://www.flickr.com/photos/itainathaniel/6240747460/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Oct 13 05:58:02 GMT+0200 2011
+Upload Date  : Thu Oct 13 15:28:35 GMT+0200 2011
+Geotag Info  : Latitude:32.574085, Longitude:34.962100
+Views        : 1,520
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horse 

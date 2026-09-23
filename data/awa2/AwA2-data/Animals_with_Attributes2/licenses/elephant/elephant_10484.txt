@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : spamdangler
+Photo URL    : https://www.flickr.com/photos/justcallmehillsy/5050233261/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Sep 27 07:01:55 GMT+0200 2010
+Upload Date  : Mon Oct 4 13:15:21 GMT+0200 2010
+Geotag Info  : Latitude:-34.194197, Longitude:21.637058
+Views        : 1,699
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Garden Route Game Park" elephant 

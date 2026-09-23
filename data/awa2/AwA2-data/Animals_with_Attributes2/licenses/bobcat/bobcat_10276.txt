@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : rjones0856
+Photo URL    : https://www.flickr.com/photos/91829349@N00/3467004038/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 1 00:00:00 GMT+0200 1994
+Upload Date  : Thu Apr 23 00:46:33 GMT+0200 2009
+Geotag Info  : Latitude:37.255268, Longitude:-93.307228
+Views        : 347
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bobcat
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Springfield, MO zoo
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

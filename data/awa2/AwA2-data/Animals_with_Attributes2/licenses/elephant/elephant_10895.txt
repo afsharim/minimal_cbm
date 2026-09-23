@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Dr. Warner
+Photo URL    : https://www.flickr.com/photos/rwwmd/2240184797/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jan 1 00:00:00 GMT+0100 2003
+Upload Date  : Mon Feb 4 03:07:47 GMT+0100 2008
+Views        : 45
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_3141
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+elephant "No Date" 

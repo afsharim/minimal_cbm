@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Alex Valavanis
+Photo URL    : https://www.flickr.com/photos/djsik/4160724498/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Apr 2 22:30:36 GMT+0200 2008
+Upload Date  : Sat Dec 5 18:10:33 GMT+0100 2009
+Geotag Info  : Latitude:18.810524, Longitude:98.948707
+Views        : 78
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hippopotamus
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Hippopotamus, Chiang Mai Zoo, Chiang Mai, Thailand
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

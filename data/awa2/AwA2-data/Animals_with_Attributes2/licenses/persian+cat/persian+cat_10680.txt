@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ben124.
+Photo URL    : https://www.flickr.com/photos/ben124/7576677362/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 26 06:40:22 GMT+0200 2011
+Upload Date  : Sun Jul 15 20:57:53 GMT+0200 2012
+Views        : 2,897
+Comments     : 18
+
+
++---------+
+|  TITLE  |
++---------+
+Top Cat
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+17 years old Top Cat resting after breakfast
+
+
++--------+
+|  TAGS  |
++--------+
+cat "Top cat" "chinchilla Persian" persian white grey flickr 

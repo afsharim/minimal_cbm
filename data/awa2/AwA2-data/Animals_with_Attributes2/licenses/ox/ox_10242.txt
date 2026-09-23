@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : johan wieland
+Photo URL    : https://www.flickr.com/photos/johanwieland/4849643140/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 1 09:10:07 GMT+0200 2010
+Upload Date  : Sun Aug 1 16:30:16 GMT+0200 2010
+Geotag Info  : Latitude:52.605732, Longitude:4.638054
+Views        : 123
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Duinwandeling de Bleek Egmond
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Schotse Hooglanders
+
+
++--------+
+|  TAGS  |
++--------+
+NH NL 

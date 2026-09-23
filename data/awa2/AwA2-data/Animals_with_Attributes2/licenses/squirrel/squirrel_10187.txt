@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : randomlife
+Photo URL    : https://www.flickr.com/photos/davidandreasen/67611784/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 27 12:45:30 GMT+0100 2005
+Upload Date  : Sun Nov 27 22:22:48 GMT+0100 2005
+Views        : 997
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Fat Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+I took this through the window in the living room.  This squirrel has no fear.
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel 

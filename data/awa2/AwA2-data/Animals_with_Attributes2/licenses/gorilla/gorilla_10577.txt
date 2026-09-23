@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : tompagenet
+Photo URL    : https://www.flickr.com/photos/tompagenet/141038018/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon May 1 14:08:59 GMT+0200 2006
+Upload Date  : Fri May 5 23:53:36 GMT+0200 2006
+Views        : 258
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_8361
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"jersey zoo" gorilla 

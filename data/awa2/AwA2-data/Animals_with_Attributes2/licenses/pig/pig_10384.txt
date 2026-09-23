@@ -1,0 +1,39 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mrs Magic
+Photo URL    : https://www.flickr.com/photos/mrsmagic/521781293/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed May 30 15:09:13 GMT+0200 2007
+Upload Date  : Wed May 30 19:14:06 GMT+0200 2007
+Geotag Info  : Latitude:52.460167, Longitude:-1.775450
+Views        : 1,795
+Comments     : 33
+
+
++---------+
+|  TITLE  |
++---------+
+Piggy
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Piglet at Old Rectory Farm which is part of Sheldon Country Park.
+
+Oink.
+
+(#380 in interestingness)
+
+
++--------+
+|  TAGS  |
++--------+
+Pig Piglet "Old Rectory Farm" "Sheldon Country Park" Farm 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Parker Knight
+Photo URL    : https://www.flickr.com/photos/rocketboom/2814512816/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 30 13:33:58 GMT+0200 2008
+Upload Date  : Sun Aug 31 17:40:55 GMT+0200 2008
+Geotag Info  : Latitude:34.062952, Longitude:-118.358057
+Views        : 373
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Seals Tank
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Seals are intuitive animals. I wish I could swim like seals but then, I would have to give up fingers and arm length to be dolphin like body.
+
+
++--------+
+|  TAGS  |
++--------+
+seals sea lions 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : m01229
+Photo URL    : https://www.flickr.com/photos/39908901@N06/8941671555/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Apr 29 14:50:07 GMT+0200 2013
+Upload Date  : Tue Jun 4 01:00:11 GMT+0200 2013
+Geotag Info  : Latitude:38.890800, Longitude:-77.027762
+Views        : 391
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Raccoon
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+d7000 Washington "District of Columbia" "United States" raccoon "museum of natural history" 

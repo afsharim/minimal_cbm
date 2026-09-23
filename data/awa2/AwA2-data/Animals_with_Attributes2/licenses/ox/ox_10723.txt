@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : strato56
+Photo URL    : https://www.flickr.com/photos/strato56/6318932235/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Apr 22 14:05:46 GMT+0200 2011
+Upload Date  : Sun Nov 6 19:53:22 GMT+0100 2011
+Views        : 27
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+ZOO VERONA 2011
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

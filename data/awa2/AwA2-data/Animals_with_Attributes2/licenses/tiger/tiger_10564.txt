@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Dmitry Teslya
+Photo URL    : https://www.flickr.com/photos/dteslya/4254920270/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Sep 25 11:51:56 GMT+0200 2009
+Upload Date  : Thu Jan 7 21:16:01 GMT+0100 2010
+Views        : 497
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+tiger zoo thailand bangkok 

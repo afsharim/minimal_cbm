@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : andjohan
+Photo URL    : https://www.flickr.com/photos/andjohan/515226852/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 20 11:45:25 GMT+0200 2007
+Upload Date  : Sun May 27 00:54:52 GMT+0200 2007
+Views        : 7,904
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Pigs
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Happy pigs
+
+
++--------+
+|  TAGS  |
++--------+
+pig pigs country tail tails pigtail pigtails swine happy 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Janitors
+Photo URL    : https://www.flickr.com/photos/janitors/9796179685/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 16 16:06:37 GMT+0200 2012
+Upload Date  : Wed Sep 18 08:03:10 GMT+0200 2013
+Geotag Info  : Latitude:38.890470, Longitude:-77.021438
+Views        : 114
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Washington DC
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"washington dc" squirrel 

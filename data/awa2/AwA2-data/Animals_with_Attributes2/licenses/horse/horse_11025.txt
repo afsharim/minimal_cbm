@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sonyaseattle
+Photo URL    : https://www.flickr.com/photos/sonya/3552272529/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 16 12:16:47 GMT+0200 2009
+Upload Date  : Fri May 22 02:58:57 GMT+0200 2009
+Views        : 809
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horses1
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Our beach horse-ride.
+
+
++--------+
+|  TAGS  |
++--------+
+mazatlan 2009 beach horse ride 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : VSmithUK
+Photo URL    : https://www.flickr.com/photos/vsmithuk/301522508/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Oct 26 13:48:15 GMT+0200 2006
+Upload Date  : Mon Nov 20 03:51:58 GMT+0100 2006
+Geotag Info  : Latitude:-42.444487, Longitude:-63.613243
+Views        : 509
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Killer Whales
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+<i>Orcinus orca</i>
+
+
++--------+
+|  TAGS  |
++--------+
+_Favorite_ Argentina Life Mammal Patagonia 

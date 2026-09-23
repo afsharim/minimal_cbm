@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : にほ
+Photo URL    : https://www.flickr.com/photos/nihongi/4105296813/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 14 14:55:47 GMT+0100 2009
+Upload Date  : Sun Nov 15 15:55:07 GMT+0100 2009
+Geotag Info  : Latitude:37.732893, Longitude:-122.502998
+Views        : 111
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Chimpanzee@SF Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

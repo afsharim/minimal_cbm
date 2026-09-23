@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Udo Schröter
+Photo URL    : https://www.flickr.com/photos/nordelch/7098695371/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Apr 12 17:14:35 GMT+0200 2012
+Upload Date  : Sat Apr 21 14:16:09 GMT+0200 2012
+Geotag Info  : Latitude:51.923202, Longitude:8.868970
+Views        : 143
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+LWL-Freilichtmuseum Detmold 10
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Pferd
+
+
++--------+
+|  TAGS  |
++--------+
+Ostern Detmold horse 

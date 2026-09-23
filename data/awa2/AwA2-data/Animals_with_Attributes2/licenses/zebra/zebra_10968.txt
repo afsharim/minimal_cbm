@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : VMarte
+Photo URL    : https://www.flickr.com/photos/vee-marte/25066565711/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 20 01:54:15 GMT+0100 2016
+Upload Date  : Sun Feb 21 03:48:20 GMT+0100 2016
+Views        : 16
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Lowry Park Zoo
+Tampa, Florida
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

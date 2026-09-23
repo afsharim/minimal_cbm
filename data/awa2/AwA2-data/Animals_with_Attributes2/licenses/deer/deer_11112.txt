@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : robcollins74
+Photo URL    : https://www.flickr.com/photos/127352397@N04/15214440177/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 27 19:06:14 GMT+0200 2014
+Upload Date  : Tue Sep 30 14:32:14 GMT+0200 2014
+Views        : 103
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Phoenix Park Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Evening shot of deer in Phoenix Park, Dublin
+
+
++--------+
+|  TAGS  |
++--------+
+phoenix park dublin deer 

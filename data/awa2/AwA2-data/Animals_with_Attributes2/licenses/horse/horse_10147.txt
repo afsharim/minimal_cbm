@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mike Lizzi
+Photo URL    : https://www.flickr.com/photos/ragingmike/6161398691/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 27 00:00:00 GMT+0200 2011
+Upload Date  : Mon Sep 19 08:29:04 GMT+0200 2011
+Views        : 1,300
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Caleb's Posse - 2011 Kings Bishop
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Saratoga Racetrack, NY
+
+
++--------+
+|  TAGS  |
++--------+
+horse racing 

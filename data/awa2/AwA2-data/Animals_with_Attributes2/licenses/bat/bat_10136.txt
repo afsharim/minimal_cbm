@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : laradanielle
+Photo URL    : https://www.flickr.com/photos/laradanielle/9184473202/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 26 10:38:49 GMT+0200 2013
+Upload Date  : Mon Jul 1 16:15:57 GMT+0200 2013
+Views        : 284
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Murcielago Bat
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+bat 

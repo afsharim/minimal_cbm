@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : syntart
+Photo URL    : https://www.flickr.com/photos/43932881@N00/4456384599/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Mar 23 03:22:01 GMT+0100 2010
+Upload Date  : Tue Mar 23 12:44:47 GMT+0100 2010
+Views        : 570
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+He looks a lot like Eeyore. So sad! Or, maybe he was partying all night and is just hung over.
+
+
++--------+
+|  TAGS  |
++--------+
+zoo zebra "Taipei Zoo" 

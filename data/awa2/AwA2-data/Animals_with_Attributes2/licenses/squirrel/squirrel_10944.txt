@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Beegee49
+Photo URL    : https://www.flickr.com/photos/beegee49/8626140433/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 7 12:53:22 GMT+0200 2013
+Upload Date  : Sun Apr 7 09:08:27 GMT+0200 2013
+Geotag Info  : Latitude:1.365579, Longitude:103.827713
+Views        : 340
+Comments     : 56
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Elements_Organizer_11 "1001 Nights" "1001 Nights / Magic City" 

@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Paul Stainthorp
+Photo URL    : https://www.flickr.com/photos/pstainthorp/8150123711/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Oct 29 15:05:07 GMT+0100 2012
+Upload Date  : Sat Nov 3 11:28:36 GMT+0100 2012
+Geotag Info  : Latitude:54.317174, Longitude:-4.513363
+Views        : 758
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Moose!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Pairk ny Beiyn Feie, y Curragh, faggys da Balley ny Loghey, Ellan Vannin. Jelune, 29oo Jerrey Fouyir 2012
+<em>(Wildlife Park, the Curraghs, near Ballaugh, Isle of Man. Monday, 29th October 2012)</em>
+
+
++--------+
+|  TAGS  |
++--------+
+curragh curraghs "wildlife park" "pairk ny beiyn feie" moose 

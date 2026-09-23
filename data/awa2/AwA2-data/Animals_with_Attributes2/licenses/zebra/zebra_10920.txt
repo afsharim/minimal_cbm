@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Leandro's World Tour
+Photo URL    : https://www.flickr.com/photos/leandrociuffo/10952861974/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 16 05:08:10 GMT+0100 2013
+Upload Date  : Wed Nov 20 01:05:43 GMT+0100 2013
+Geotag Info  : Latitude:-1.551308, Longitude:30.680694
+Views        : 1,873
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Akagera Park, Rwanda
+
+
++--------+
+|  TAGS  |
++--------+
+Akagera animal Africa Ruanda Rwanda Zebra 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ChrisMiller513
+Photo URL    : https://www.flickr.com/photos/sideonecincy/6643925753/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 30 12:39:06 GMT+0100 2011
+Upload Date  : Fri Jan 6 00:30:19 GMT+0100 2012
+Geotag Info  : Latitude:39.144573, Longitude:-84.508895
+Views        : 66
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_2213
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Zoo Cincy Cincinnati Wildlife Animals Outdoors "Cincinnati Zoo" "Cincy Zoo" 

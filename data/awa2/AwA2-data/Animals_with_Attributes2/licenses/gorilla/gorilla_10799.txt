@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : cristoffercrusell
+Photo URL    : https://www.flickr.com/photos/crusell/2508461156/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 1 07:02:42 GMT+0100 2006
+Upload Date  : Tue May 20 12:34:07 GMT+0200 2008
+Geotag Info  : Latitude:-1.080556, Longitude:29.661389
+Views        : 592
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+bwindi "East Africa" gorilla gorillas "mountain gorillas" uganda 

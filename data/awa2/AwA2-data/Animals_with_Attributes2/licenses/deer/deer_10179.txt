@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : solent66
+Photo URL    : https://www.flickr.com/photos/30775955@N02/2907505716/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Sep 22 13:42:04 GMT+0200 2008
+Upload Date  : Thu Oct 2 16:11:12 GMT+0200 2008
+Views        : 1,570
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer at Daisy Villa
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Some deer in my parents garden
+
+
++--------+
+|  TAGS  |
++--------+
+Deer "Daisy Villa" Parents 

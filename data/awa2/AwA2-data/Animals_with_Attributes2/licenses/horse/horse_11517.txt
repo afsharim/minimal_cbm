@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Nick Savchenko
+Photo URL    : https://www.flickr.com/photos/nsavch/6249318391/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 16 12:24:09 GMT+0200 2011
+Upload Date  : Sun Oct 16 15:13:11 GMT+0200 2011
+Geotag Info  : Latitude:50.375022, Longitude:30.461418
+Views        : 2,164
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Trotter racing
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horse racing 

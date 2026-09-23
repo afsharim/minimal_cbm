@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Gavin Proc
+Photo URL    : https://www.flickr.com/photos/gavinproc/3940208879/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Sep 21 12:29:50 GMT+0200 2009
+Upload Date  : Mon Sep 21 13:29:50 GMT+0200 2009
+Views        : 171
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+horses @ prestonpans
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horses prestonpans rail station 

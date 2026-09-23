@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : José Carlos Cortizo Pérez
+Photo URL    : https://www.flickr.com/photos/josek/1419762573/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 23 18:52:07 GMT+0200 2007
+Upload Date  : Sat Sep 22 03:26:06 GMT+0200 2007
+Views        : 186
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+squirrel.jpg
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel 

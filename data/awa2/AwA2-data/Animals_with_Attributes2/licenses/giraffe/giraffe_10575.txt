@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : markhealey
+Photo URL    : https://www.flickr.com/photos/markjhealey/6038823831/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Aug 10 11:47:37 GMT+0200 2011
+Upload Date  : Sat Aug 13 21:35:03 GMT+0200 2011
+Geotag Info  : Latitude:53.357769, Longitude:-6.309964
+Views        : 65
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Dublin "Dublin Zoo" 

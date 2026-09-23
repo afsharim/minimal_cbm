@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : herefordcat
+Photo URL    : https://www.flickr.com/photos/wiltscat/530413150/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 15 16:08:03 GMT+0200 2007
+Upload Date  : Mon Jun 4 23:25:53 GMT+0200 2007
+Geotag Info  : Latitude:51.074470, Longitude:-2.163147
+Views        : 4,352
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Biig sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+sheep green white 

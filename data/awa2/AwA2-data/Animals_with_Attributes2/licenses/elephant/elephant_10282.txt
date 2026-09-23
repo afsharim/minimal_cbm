@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MikeCrane83
+Photo URL    : https://www.flickr.com/photos/mike_crane/5187778051/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 31 10:44:05 GMT+0100 2010
+Upload Date  : Thu Nov 18 23:40:29 GMT+0100 2010
+Geotag Info  : Latitude:-25.212396, Longitude:28.602905
+Views        : 209
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant_1
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Elephant Africa 

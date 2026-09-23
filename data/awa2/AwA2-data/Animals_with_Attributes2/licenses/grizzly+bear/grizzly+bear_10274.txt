@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Accretion Disc
+Photo URL    : https://www.flickr.com/photos/befuddledsenses/18789450578/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 14 14:19:21 GMT+0200 2015
+Upload Date  : Sat Jun 20 08:39:44 GMT+0200 2015
+Geotag Info  : Latitude:61.124713, Longitude:-149.792232
+Views        : 647
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Brown Bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Alaska Zoo, Anchorage
+
+
++--------+
+|  TAGS  |
++--------+
+alaska zoo anchorage bear 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : iotae
+Photo URL    : https://www.flickr.com/photos/iotae/353632568/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Dec 30 14:32:14 GMT+0100 2006
+Upload Date  : Thu Jan 11 09:31:47 GMT+0100 2007
+Geotag Info  : Latitude:38.635083, Longitude:-90.289278
+Views        : 628
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger relaxing
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+I think he likes looking at us as much as we like looking at him.
+
+
++--------+
+|  TAGS  |
++--------+
+tiger "Saint Louis Zoo" 

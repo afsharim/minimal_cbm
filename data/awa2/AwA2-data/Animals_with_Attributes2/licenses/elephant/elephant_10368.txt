@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : KevinMPringle
+Photo URL    : https://www.flickr.com/photos/26163201@N04/2500787658/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Apr 15 11:54:39 GMT+0200 2005
+Upload Date  : Sun May 18 02:25:15 GMT+0200 2008
+Geotag Info  : Latitude:-25.327890, Longitude:27.137603
+Views        : 407
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Shot with Powershot A85.
+
+
++--------+
+|  TAGS  |
++--------+
+Elephant "South Africa" "Canon PowerShot A85" Pilanesberg 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ahisgett
+Photo URL    : https://www.flickr.com/photos/hisgett/7994780433/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 15 17:29:32 GMT+0200 2012
+Upload Date  : Mon Sep 17 06:21:31 GMT+0200 2012
+Geotag Info  : Latitude:43.629978, Longitude:-110.766309
+Views        : 1,775
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Moose 2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Moose Yellowstone Wyoming 

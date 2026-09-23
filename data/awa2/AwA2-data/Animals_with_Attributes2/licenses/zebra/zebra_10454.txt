@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Graham Crumb
+Photo URL    : https://www.flickr.com/photos/imagicity/4162092436/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 6 14:34:02 GMT+0100 2009
+Upload Date  : Sun Dec 6 04:34:02 GMT+0100 2009
+Views        : 753
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Three Zebras
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Looking singularly unimpressed.
+
+
++--------+
+|  TAGS  |
++--------+
+zebra africa nature wildlife three umfolozi southafrica 

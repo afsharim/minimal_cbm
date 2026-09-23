@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jeroen Moes
+Photo URL    : https://www.flickr.com/photos/jeroenmoes/5410883175/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 25 16:48:01 GMT+0200 2010
+Upload Date  : Wed Feb 2 21:23:20 GMT+0100 2011
+Geotag Info  : Latitude:58.576325, Longitude:26.687047
+Views        : 1,048
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Get outta here!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A (hungry) lynx in Elistvere.
+
+
++--------+
+|  TAGS  |
++--------+
+lynx cougar d90 nikon 18105mm Elistvere EST Estonia geo:lat=58.57632489 geo:lon=26.68704629 geotagged Jõgevamaa 

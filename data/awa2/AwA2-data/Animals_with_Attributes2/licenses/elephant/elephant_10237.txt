@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Derek Keats
+Photo URL    : https://www.flickr.com/photos/dkeats/89018026/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jan 20 12:31:03 GMT+0100 2006
+Upload Date  : Fri Jan 20 21:31:03 GMT+0100 2006
+Geotag Info  : Latitude:-15.739388, Longitude:29.696044
+Views        : 1,894
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant feeding in Zimbabwe (on Kodachrome)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Elephant feeding in Zimbabwe
+
+
++--------+
+|  TAGS  |
++--------+
+africa wildlife scenery elephant zimbabwe 

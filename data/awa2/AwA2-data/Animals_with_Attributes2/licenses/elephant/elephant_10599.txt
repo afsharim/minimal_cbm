@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ranjith Rajasekar
+Photo URL    : https://www.flickr.com/photos/107589954@N04/10687621366/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 18 19:18:50 GMT+0200 2013
+Upload Date  : Tue Nov 5 11:38:40 GMT+0100 2013
+Views        : 800
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Elephant "Small Elephant" "Temple Elephant" "Indian Elephant" 

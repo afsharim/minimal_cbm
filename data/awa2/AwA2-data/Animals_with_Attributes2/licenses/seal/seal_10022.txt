@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : joedecruyenaere
+Photo URL    : https://www.flickr.com/photos/38213125@N00/4250879031/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Dec 29 14:05:21 GMT+0100 2009
+Upload Date  : Wed Jan 6 18:18:07 GMT+0100 2010
+Views        : 31
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+010510 009
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Northern elephant seal bull
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

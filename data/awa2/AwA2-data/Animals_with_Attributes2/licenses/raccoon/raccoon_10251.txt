@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Editor B
+Photo URL    : https://www.flickr.com/photos/editor/2258178973/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 10 00:49:05 GMT+0100 2008
+Upload Date  : Mon Feb 11 22:10:35 GMT+0100 2008
+Views        : 291
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Raccoon
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+She wants some of Archer's cat food.
+
+
++--------+
+|  TAGS  |
++--------+
+"new orleans" louisiana "our house" mid-city raccoon 

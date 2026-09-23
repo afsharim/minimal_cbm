@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MinutesAlone
+Photo URL    : https://www.flickr.com/photos/minutesalone/2581002184/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 15 08:54:18 GMT+0200 2008
+Upload Date  : Sun Jun 15 17:54:18 GMT+0200 2008
+Views        : 2,436
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Herd of sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Shy sheep.. They'd run away everytime i got near
+
+
++--------+
+|  TAGS  |
++--------+
+Sheep herd 

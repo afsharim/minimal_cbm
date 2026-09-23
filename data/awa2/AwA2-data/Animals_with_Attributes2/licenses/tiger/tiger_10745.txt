@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Aldo van Zeeland
+Photo URL    : https://www.flickr.com/photos/aldovanzeeland/12366638113/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Feb 7 11:44:07 GMT+0100 2014
+Upload Date  : Fri Feb 7 17:47:31 GMT+0100 2014
+Geotag Info  : Latitude:52.007161, Longitude:5.897877
+Views        : 354
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+flickrandroidapp:filter=none Tiger Burgers zoo Asian "Burgers' Zoo" 

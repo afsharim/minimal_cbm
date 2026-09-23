@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Nigel's Europe & beyond 2
+Photo URL    : https://www.flickr.com/photos/zooeurope/3812296212/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 8 12:50:42 GMT+0200 2009
+Upload Date  : Tue Aug 11 19:45:02 GMT+0200 2009
+Geotag Info  : Latitude:53.228196, Longitude:-2.889146
+Views        : 148
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Chester Zoo, England
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+giraffes
+
+
++--------+
+|  TAGS  |
++--------+
+Chester Zoo "Chester Zoo" England UK Giraffes 

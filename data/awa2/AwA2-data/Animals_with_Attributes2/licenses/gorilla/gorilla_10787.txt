@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : adrielhampton
+Photo URL    : https://www.flickr.com/photos/adrielhampton/8349742283/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Nov 24 11:04:10 GMT+0100 2011
+Upload Date  : Sat Jan 5 19:56:46 GMT+0100 2013
+Views        : 36
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tokyo 2012 - zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+tokyo zoo 

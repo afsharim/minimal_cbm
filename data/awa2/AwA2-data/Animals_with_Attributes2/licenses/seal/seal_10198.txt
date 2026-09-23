@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : roy.luck
+Photo URL    : https://www.flickr.com/photos/royluck/7805641230/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 15 16:54:08 GMT+0200 2012
+Upload Date  : Sat Aug 18 05:05:50 GMT+0200 2012
+Geotag Info  : Latitude:35.664078, Longitude:-121.259386
+Views        : 111
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant seal lounging on sand
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Southern Big Sur, near San Simeon CA
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

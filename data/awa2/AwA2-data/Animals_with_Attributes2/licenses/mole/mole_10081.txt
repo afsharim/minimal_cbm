@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ciskje
+Photo URL    : https://it.wikipedia.org/wiki/File:European_Mole_HD.JPG
+License      : Public domain
+Date         : 04 March 2008

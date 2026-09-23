@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : neiljohnford
+Photo URL    : https://www.flickr.com/photos/neiljohnford/2449456561/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 27 10:42:51 GMT+0200 2008
+Upload Date  : Mon Apr 28 22:53:22 GMT+0200 2008
+Geotag Info  : Latitude:50.733413, Longitude:-1.559200
+Views        : 23
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+HurstView 067
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"hurst view" "new forest" camping 

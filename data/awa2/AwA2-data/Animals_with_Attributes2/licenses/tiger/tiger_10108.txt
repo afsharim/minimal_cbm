@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : swh
+Photo URL    : https://www.flickr.com/photos/steveharris/402272647/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 18 10:41:53 GMT+0100 2006
+Upload Date  : Sun Feb 25 19:42:39 GMT+0100 2007
+Views        : 161
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+D2A_5797_Tiger.jpg
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+tiger marwell 2007 

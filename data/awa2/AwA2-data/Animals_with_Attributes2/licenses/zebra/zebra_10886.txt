@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : marcwitzel
+Photo URL    : https://www.flickr.com/photos/28244776@N07/7655557640/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 26 00:00:37 GMT+0200 2012
+Upload Date  : Fri Jul 27 12:49:11 GMT+0200 2012
+Views        : 3,454
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Zebra in der Zoom Erlebniswelt in Gelsenkirchen am 26.07.2012
+
+<a href="http://de.wikipedia.org/wiki/Zebra" rel="nofollow">de.wikipedia.org/wiki/Zebra</a>
+
+
++--------+
+|  TAGS  |
++--------+
+Zoom Erlebniswelt Gelsenkirchen Tier Animal Zoo Zebra 

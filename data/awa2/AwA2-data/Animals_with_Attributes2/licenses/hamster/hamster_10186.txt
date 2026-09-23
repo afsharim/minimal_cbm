@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : xerayou
+Photo URL    : https://www.flickr.com/photos/xeranas/4717897342/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 19 15:01:07 GMT+0200 2010
+Upload Date  : Sun Jun 20 18:51:11 GMT+0200 2010
+Geotag Info  : Latitude:54.733244, Longitude:25.249071
+Views        : 2,518
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Dwarf Hamster
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Dwarf Hamster 

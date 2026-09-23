@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Numinosity (Gary J Wood)
+Photo URL    : https://www.flickr.com/photos/garyjwood/2182665079/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Dec 31 15:26:58 GMT+0100 2007
+Upload Date  : Thu Jan 10 17:21:44 GMT+0100 2008
+Geotag Info  : Latitude:29.923797, Longitude:-90.131308
+Views        : 51
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bobcat
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Audubon Zoo" Louisiana "New Orleans" USA 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Karamellzucker
+Photo URL    : https://www.flickr.com/photos/karamell/3618920493/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 12 16:32:09 GMT+0200 2009
+Upload Date  : Fri Jun 12 16:32:09 GMT+0200 2009
+Geotag Info  : Latitude:50.181515, Longitude:8.503289
+Views        : 159
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Flusspferd
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Flusspferd Opel-Zoo Zoo Kronberg Taunus 

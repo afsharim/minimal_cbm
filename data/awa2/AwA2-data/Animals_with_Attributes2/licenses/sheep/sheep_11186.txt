@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : pixelyne
+Photo URL    : https://www.flickr.com/photos/pixelyne/166172569/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 12 19:55:20 GMT+0200 2006
+Upload Date  : Tue Jun 13 04:55:20 GMT+0200 2006
+Geotag Info  : Latitude:42.356998, Longitude:-71.466857
+Views        : 41
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+mill 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jacqui 1686
+Photo URL    : https://www.flickr.com/photos/jacqui_newton/1205136371/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Aug 22 12:05:09 GMT+0200 2007
+Upload Date  : Wed Aug 22 22:30:23 GMT+0200 2007
+Views        : 19
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+P8220026
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

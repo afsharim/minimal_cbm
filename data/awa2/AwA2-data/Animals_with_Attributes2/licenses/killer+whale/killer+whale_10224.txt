@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Dan Hershman
+Photo URL    : https://www.flickr.com/photos/hershman/558648002/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 16 20:06:01 GMT+0200 2007
+Upload Date  : Sun Jun 17 05:06:01 GMT+0200 2007
+Views        : 332
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+orcas1
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+a mother and her calf, J Pod.
+
+
++--------+
+|  TAGS  |
++--------+
+Orca calf 

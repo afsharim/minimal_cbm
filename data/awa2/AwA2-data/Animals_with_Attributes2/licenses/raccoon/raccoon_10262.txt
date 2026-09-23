@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : zimpenfish
+Photo URL    : https://www.flickr.com/photos/zimpenfish/2847006182/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Sep 5 12:36:38 GMT+0200 2008
+Upload Date  : Thu Sep 11 00:04:37 GMT+0200 2008
+Geotag Info  : Latitude:47.500000, Longitude:19.083300
+Views        : 290
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Raccoon
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+budapest 2008 holiday raccoon 

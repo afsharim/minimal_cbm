@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : KathrynW1
+Photo URL    : https://www.flickr.com/photos/kathryn-wright/22648530465/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 31 09:33:10 GMT+0100 2015
+Upload Date  : Sat Oct 31 21:32:13 GMT+0100 2015
+Geotag Info  : Latitude:51.822052, Longitude:-2.173554
+Views        : 23
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+cow 

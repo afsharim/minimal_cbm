@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : eric1g
+Photo URL    : https://www.flickr.com/photos/eric1g/7174211070/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 21 15:52:11 GMT+0200 2012
+Upload Date  : Fri May 11 04:20:53 GMT+0200 2012
+Views        : 122
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe in Chicago
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Chicago "Lincoln Park Zoo" giraffe 

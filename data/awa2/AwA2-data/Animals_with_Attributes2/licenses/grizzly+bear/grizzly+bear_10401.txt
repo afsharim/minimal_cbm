@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : VSmithUK
+Photo URL    : https://www.flickr.com/photos/vsmithuk/23646320/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 8 12:25:17 GMT+0200 2005
+Upload Date  : Tue Jul 5 03:30:50 GMT+0200 2005
+Geotag Info  : Latitude:63.575149, Longitude:-149.793090
+Views        : 329
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Grizzly bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This one was hunting a ground squirrel.
+
+
++--------+
+|  TAGS  |
++--------+
+"Denali National Park" Alaska Grizzly bear Life 

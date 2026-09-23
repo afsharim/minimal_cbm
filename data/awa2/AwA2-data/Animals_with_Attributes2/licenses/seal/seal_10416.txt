@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : larry&flo
+Photo URL    : https://www.flickr.com/photos/grassvalleylarry/8722065876/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue May 7 22:56:18 GMT+0200 2013
+Upload Date  : Thu May 9 01:22:12 GMT+0200 2013
+Views        : 462
+Comments     : 6
+
+
++---------+
+|  TITLE  |
++---------+
+Harbor Seal with pup
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+MacKerricher State Park
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

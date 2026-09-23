@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : timparkinson
+Photo URL    : https://www.flickr.com/photos/timparkinson/272108770/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Oct 6 06:33:47 GMT+0200 2006
+Upload Date  : Tue Oct 17 11:13:08 GMT+0200 2006
+Geotag Info  : Latitude:-39.730000, Longitude:174.410000
+Views        : 937
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Seal @ Kaikoura, New Zealand
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+gybo "new zealand" "south island" kaikoura seal 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : isamiga76
+Photo URL    : https://www.flickr.com/photos/33852840@N06/3706977507/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 10 17:10:20 GMT+0200 2009
+Upload Date  : Fri Jul 10 19:40:44 GMT+0200 2009
+Views        : 8,697
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horse,Normandy-France
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horse 

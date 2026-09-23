@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : brian.gratwicke
+Photo URL    : https://www.flickr.com/photos/briangratwicke/7847984948/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 16 23:49:50 GMT+0200 2012
+Upload Date  : Fri Aug 24 03:16:50 GMT+0200 2012
+Geotag Info  : Latitude:44.102202, Longitude:-110.671148
+Views        : 1,237
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Mule deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Yellowstone Wyoming USA National Park taxonomy:kingdom=Animalia Animalia taxonomy:phylum=Chordata Chordata taxonomy:class=Mammalia Mammalia taxonomy:order=Cetartiodactyla Cetartiodactyla taxonomy:family=Cervidae Cervidae taxonomy:genus=Odocoileus Odocoileus taxonomy:species=hemionus "taxonomy:binomial=Odocoileus hemionus" "Mule Deer" "Odocoileus hemionus" "Venado bura" "Black-tailed Deer" "Cedros Island Black-tailed Deer" "Cedros Island Mule Deer" Bura "Venado Mulo(a)" "taxonomy:common=Mule Deer" "taxonomy:common=Venado bura" "taxonomy:common=Black-tailed Deer" "taxonomy:common=Cedros Island Black-tailed Deer" "taxonomy:common=Cedros Island Mule Deer" taxonomy:common=Bura "taxonomy:common=Venado Mulo(a)" 

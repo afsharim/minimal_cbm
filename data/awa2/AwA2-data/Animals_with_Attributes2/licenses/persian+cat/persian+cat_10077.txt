@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : allenthepostman
+Photo URL    : https://www.flickr.com/photos/allenthepostman/2097682402/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Dec 1 10:04:47 GMT+0100 2007
+Upload Date  : Sun Dec 9 12:30:27 GMT+0100 2007
+Views        : 579
+Comments     : 7
+
+
++---------+
+|  TITLE  |
++---------+
+Bookends
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Fat Cat and Scaredy in the half-completed kitchen
+
+
++--------+
+|  TAGS  |
++--------+
+cats pets persian animals 

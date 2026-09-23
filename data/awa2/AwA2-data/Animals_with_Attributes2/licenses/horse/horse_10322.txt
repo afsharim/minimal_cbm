@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : BarbaraWilli
+Photo URL    : https://www.flickr.com/photos/barbara-pictures/6170175705/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Sep 21 08:57:49 GMT+0200 2011
+Upload Date  : Thu Sep 22 00:11:19 GMT+0200 2011
+Geotag Info  : Latitude:47.408719, Longitude:8.507241
+Views        : 650
+Comments     : 16
+
+
++---------+
+|  TITLE  |
++---------+
+Fairy Horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"horse white" 

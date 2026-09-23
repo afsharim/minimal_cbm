@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Rorals
+Photo URL    : https://www.flickr.com/photos/rorals/16708661520/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Mar 20 13:14:50 GMT+0100 2015
+Upload Date  : Sun Mar 22 18:58:04 GMT+0100 2015
+Geotag Info  : Latitude:55.354623, Longitude:-4.789245
+Views        : 341
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Deer Wildlife Nature Animal Mammal 

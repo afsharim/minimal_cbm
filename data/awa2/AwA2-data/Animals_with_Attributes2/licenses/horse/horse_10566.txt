@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Marco Toet
+Photo URL    : https://www.flickr.com/photos/marcotoet/2309937775/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 18 12:17:26 GMT+0100 2007
+Upload Date  : Tue Mar 4 18:52:20 GMT+0100 2008
+Geotag Info  : Latitude:51.873656, Longitude:5.381369
+Views        : 354
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+tiel wadenoyen "the netherlands" horse 

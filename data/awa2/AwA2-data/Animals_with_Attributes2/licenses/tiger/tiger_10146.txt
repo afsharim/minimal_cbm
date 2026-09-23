@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Adhi Rachdian
+Photo URL    : https://www.flickr.com/photos/rachdian/3843820645/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 24 16:25:43 GMT+0200 2009
+Upload Date  : Sat Aug 22 05:38:27 GMT+0200 2009
+Views        : 1,982
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+Lunch Time
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Class : Mammalia
+Family : Felidae
+Species: Panthera Tigris
+
+
++--------+
+|  TAGS  |
++--------+
+tiger lunch time tigris panther mammalia mamalia harimau putih white 

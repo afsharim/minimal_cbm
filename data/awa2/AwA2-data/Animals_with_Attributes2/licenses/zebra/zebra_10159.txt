@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : JSF539
+Photo URL    : https://www.flickr.com/photos/jsf539/15087976755/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 30 14:46:09 GMT+0200 2014
+Upload Date  : Sun Aug 31 04:04:25 GMT+0200 2014
+Geotag Info  : Latitude:38.549373, Longitude:-90.358085
+Views        : 100
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSCN0399
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Grant's Farm" Missouri animals zebra 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : myahya
+Photo URL    : https://www.flickr.com/photos/myahyaorg/4739593427/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 26 20:28:07 GMT+0200 2010
+Upload Date  : Sun Jun 27 23:58:45 GMT+0200 2010
+Geotag Info  : Latitude:49.224303, Longitude:6.966233
+Views        : 464
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Baby Mouse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Deutsch-Französischer Garten" baby mouse 

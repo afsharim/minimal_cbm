@@ -1,0 +1,19 @@
++--------------------------------------+
+|       Pixabay Photo Metadata         |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Patrice_Audet
+Photo URL    : https://pixabay.com/en/dog-animal-border-border-collie-544736/
+License      : CC0 Public Domain (https://creativecommons.org/publicdomain/zero/1.0/deed.en)
+Created      : April 5, 2011
+Uploaded     : Nov. 25, 2014
+
++--------+
+|  TAGS  |
++--------+
+Dog, Animal, Border, Border Collie, Dogs, Animals

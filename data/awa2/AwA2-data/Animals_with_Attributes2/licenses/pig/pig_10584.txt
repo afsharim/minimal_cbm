@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : San Diego Shooter
+Photo URL    : https://www.flickr.com/photos/nathaninsandiego/9577538897/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 18 09:48:36 GMT+0200 2013
+Upload Date  : Sat Aug 24 01:15:42 GMT+0200 2013
+Geotag Info  : Latitude:32.736738, Longitude:-117.147789
+Views        : 4,234
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Visayan Warty Pigs in the mud
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"san diego" "san diego zoo" "Visayan Warty Pig" pig 

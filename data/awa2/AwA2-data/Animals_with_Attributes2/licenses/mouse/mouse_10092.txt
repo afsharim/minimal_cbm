@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : VicWJ
+Photo URL    : https://www.flickr.com/photos/vicwj/1831854448/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 28 13:44:53 GMT+0100 2007
+Upload Date  : Fri Nov 2 21:39:58 GMT+0100 2007
+Geotag Info  : Latitude:46.328076, Longitude:-0.464515
+Views        : 811
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+mouse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+mouse mice 

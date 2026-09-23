@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : KathrynW1
+Photo URL    : https://www.flickr.com/photos/kathryn-wright/25025907935/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 14 06:17:46 GMT+0100 2016
+Upload Date  : Sun Feb 14 19:01:39 GMT+0100 2016
+Geotag Info  : Latitude:51.773449, Longitude:-1.655942
+Views        : 20
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cotswold Wildlife Park
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Cotswold Wildlife Park" animal sheep 

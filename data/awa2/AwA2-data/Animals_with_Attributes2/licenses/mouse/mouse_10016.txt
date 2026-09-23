@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bollin
+Photo URL    : https://www.flickr.com/photos/bollin/114742047/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 28 17:57:31 GMT+0200 2002
+Upload Date  : Sun Mar 19 19:18:04 GMT+0100 2006
+Views        : 238
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bert
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+my cute mouse
+
+
++--------+
+|  TAGS  |
++--------+
+bert mouse animal 

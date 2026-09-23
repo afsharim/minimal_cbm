@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : WiKiRaW31
+Photo URL    : https://commons.wikimedia.org/wiki/File:Walrus(Odobenus_rosmarus)~11-29-08.jpg
+License      : public domain
+Date         : 2008-11-29

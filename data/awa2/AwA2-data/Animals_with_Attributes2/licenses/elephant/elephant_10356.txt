@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jason Pratt
+Photo URL    : https://www.flickr.com/photos/jasonpratt/2243147681/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 9 09:40:39 GMT+0200 2007
+Upload Date  : Tue Feb 5 08:01:48 GMT+0100 2008
+Geotag Info  : Latitude:40.484624, Longitude:-79.919689
+Views        : 838
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Pittsburgh zoo "Pittsburgh Zoo" elephant 

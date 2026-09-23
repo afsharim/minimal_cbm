@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : USFWS Headquarters
+Photo URL    : https://www.flickr.com/photos/usfwshq/6659379901/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 8 08:54:50 GMT+0100 2012
+Upload Date  : Sun Jan 8 14:54:50 GMT+0100 2012
+Views        : 634
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+bobcat pair
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Bosque del Apache National Wildlife Refuge, NM
+Camera trap project by Matthew Farley, Jennifer Miyashiro and James Stuart
+Photo made available by J.N. Stuart, Creative Commons
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

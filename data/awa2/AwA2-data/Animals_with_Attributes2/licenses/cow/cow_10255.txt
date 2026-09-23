@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : candycanedisco
+Photo URL    : https://www.flickr.com/photos/erinbraham/543045944/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 10 14:27:11 GMT+0200 2007
+Upload Date  : Wed Jun 13 01:35:16 GMT+0200 2007
+Views        : 16
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Cow animal 

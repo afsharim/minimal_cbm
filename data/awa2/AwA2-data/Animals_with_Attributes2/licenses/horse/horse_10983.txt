@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : paulvico
+Photo URL    : https://www.flickr.com/photos/75058251@N05/7929056492/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 2 08:42:30 GMT+0200 2012
+Upload Date  : Tue Sep 4 13:10:26 GMT+0200 2012
+Views        : 941
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horses
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Friends chatting over the fence.
+
+
++--------+
+|  TAGS  |
++--------+
+horse 

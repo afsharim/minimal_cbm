@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Romanito
+Photo URL    : https://www.flickr.com/photos/romanito/159414000/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Aug 24 15:24:55 GMT+0200 2005
+Upload Date  : Sat Jun 3 20:02:20 GMT+0200 2006
+Views        : 240
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Basque Cow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+basque cow 

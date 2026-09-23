@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jon Olav
+Photo URL    : https://www.flickr.com/photos/jonolave/3730305562/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 11 00:03:33 GMT+0200 2009
+Upload Date  : Fri Jul 17 20:43:30 GMT+0200 2009
+Geotag Info  : Latitude:68.292255, Longitude:13.717803
+Views        : 2,430
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Fjord horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Nice forelock :D
+
+
++--------+
+|  TAGS  |
++--------+
+Lofoten fjordhest fjording horse 

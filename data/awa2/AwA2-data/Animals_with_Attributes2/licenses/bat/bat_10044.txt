@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mookitty
+Photo URL    : https://www.flickr.com/photos/mookitty/1866295622/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 3 00:49:45 GMT+0100 2007
+Upload Date  : Mon Nov 5 03:54:02 GMT+0100 2007
+Views        : 20
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bats
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"haydenville tunnel" tunnel 

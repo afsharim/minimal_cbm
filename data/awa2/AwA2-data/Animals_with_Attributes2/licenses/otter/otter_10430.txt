@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : majunznk
+Photo URL    : https://www.flickr.com/photos/majunznk/16062642608/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jan 9 00:00:00 GMT+0100 2015
+Upload Date  : Sun Jan 11 02:47:56 GMT+0100 2015
+Geotag Info  : Latitude:37.749993, Longitude:-122.147476
+Views        : 85
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Oakland Zoo
+Oakland, CA
+December 2014
+
+
++--------+
+|  TAGS  |
++--------+
+"Oakland Zoo" "Oakland, CA" 

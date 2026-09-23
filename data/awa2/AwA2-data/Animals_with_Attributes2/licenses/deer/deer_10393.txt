@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : phalinn
+Photo URL    : https://www.flickr.com/photos/phalinn/2938035362/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 12 11:35:00 GMT+0200 2008
+Upload Date  : Mon Oct 13 13:28:50 GMT+0200 2008
+Geotag Info  : Latitude:2.272715, Longitude:102.276191
+Views        : 111
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Zoo Melaka.
+Ayer Keroh.
+Melaka Bandaraya Bersejarah.
+
+
++--------+
+|  TAGS  |
++--------+
+zoo melaka animals wildlife nature 

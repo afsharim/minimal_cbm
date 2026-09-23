@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Elsie esq.
+Photo URL    : https://www.flickr.com/photos/elsie/21791460735/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Sep 25 13:57:10 GMT+0200 2015
+Upload Date  : Mon Sep 28 20:39:32 GMT+0200 2015
+Geotag Info  : Latitude:50.800594, Longitude:-0.038656
+Views        : 928
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+A certain small dog. .
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Sparky looking exceptionally tiny. . .and cute.
+
+
++--------+
+|  TAGS  |
++--------+
+Chihuahua "Jack Russell" dog terrier Sparky 

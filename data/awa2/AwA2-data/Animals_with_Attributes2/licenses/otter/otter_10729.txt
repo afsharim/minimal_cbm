@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Rusty Clark - On the Air M-F 8am-noon
+Photo URL    : https://www.flickr.com/photos/rusty_clark/8678673402/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Apr 23 10:42:39 GMT+0200 2013
+Upload Date  : Wed Apr 24 18:15:33 GMT+0200 2013
+Views        : 153
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Viera Wetlands, Viera Florida
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+otter pups
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

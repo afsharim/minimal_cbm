@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Titanae
+Photo URL    : https://commons.wikimedia.org/wiki/File:Collie_de_Pelo_Largo.jpg
+License      : Creative Commons (https://en.wikipedia.org/wiki/en:Creative_Commons) CC0 1.0 Universal Public Domain Dedication (//creativecommons.org/publicdomain/zero/1.0/deed.en)
+Date         : 

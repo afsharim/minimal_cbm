@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : amandabhslater
+Photo URL    : https://www.flickr.com/photos/pikerslanefarm/2804457370/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Aug 27 12:10:26 GMT+0200 2008
+Upload Date  : Thu Aug 28 00:20:29 GMT+0200 2008
+Geotag Info  : Latitude:52.022448, Longitude:1.136398
+Views        : 1,798
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tamworth Piglets
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Jimmy's Farm
+
+
++--------+
+|  TAGS  |
++--------+
+"Jimmy's Farm" Essex Pig Co Suffolk pigs 

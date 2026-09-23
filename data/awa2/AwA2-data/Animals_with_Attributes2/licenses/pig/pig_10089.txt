@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Male Gringo
+Photo URL    : https://www.flickr.com/photos/49059422@N06/4495908185/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Feb 19 08:06:21 GMT+0100 2010
+Upload Date  : Tue Apr 6 10:30:26 GMT+0200 2010
+Geotag Info  : Latitude:19.899035, Longitude:-77.083168
+Views        : 686
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cuban Pig
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Pig in Santiago province, Cuba.
+
+
++--------+
+|  TAGS  |
++--------+
+pigs "cuban pigs" cerdos cuba granma 

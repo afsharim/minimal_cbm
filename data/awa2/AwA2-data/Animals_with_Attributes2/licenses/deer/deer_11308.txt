@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : artur.pedziwilk
+Photo URL    : https://www.flickr.com/photos/wilkart/4402620038/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 13 08:11:56 GMT+0200 2008
+Upload Date  : Wed Mar 3 00:01:42 GMT+0100 2010
+Geotag Info  : Latitude:26.014800, Longitude:-81.068800
+Views        : 799
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+White-tailed Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+White-tailed Deer (Odocoileus virginianus), Big Cypress National Preserve, Florida, USA
+
+
++--------+
+|  TAGS  |
++--------+
+white-tailed deer florida big cypress 

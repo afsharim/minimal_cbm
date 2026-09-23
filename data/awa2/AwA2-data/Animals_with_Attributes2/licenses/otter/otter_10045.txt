@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : VicBurolla
+Photo URL    : https://www.flickr.com/photos/38275642@N07/3528820285/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jan 1 00:00:00 GMT+0100 1990
+Upload Date  : Wed May 13 23:54:49 GMT+0200 2009
+Geotag Info  : Latitude:36.617422, Longitude:-121.894083
+Views        : 549
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+California Sea Otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Adult Sea Otter wrapped in kelp with front limbs raised above the water to minimize heat loss.
+
+Monterey Bay, California 1990
+
+
++--------+
+|  TAGS  |
++--------+
+"taxonomy:binomial=enhydra lutris" geo:lat=36°37’02N geo:lon=121°53’50W 

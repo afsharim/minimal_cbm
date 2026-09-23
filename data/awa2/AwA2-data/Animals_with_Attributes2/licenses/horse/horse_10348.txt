@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : TexasDarkHorse
+Photo URL    : https://www.flickr.com/photos/utahdarkhorse/3722946062/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 14 19:12:58 GMT+0200 2009
+Upload Date  : Wed Jul 15 06:41:08 GMT+0200 2009
+Views        : 426
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Freeman Stables
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+pets horse 

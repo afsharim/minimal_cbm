@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : rfaulds
+Photo URL    : https://www.flickr.com/photos/23234562@N04/2224024633/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 29 22:38:07 GMT+0100 2006
+Upload Date  : Mon Jan 28 01:43:34 GMT+0100 2008
+Geotag Info  : Latitude:21.875597, Longitude:-159.456939
+Views        : 4,303
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Monk seal
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Monk seal on Poipu Beach
+
+
++--------+
+|  TAGS  |
++--------+
+Monk seal Poipu Kauai Hawaii beach #GreatNature #animal 

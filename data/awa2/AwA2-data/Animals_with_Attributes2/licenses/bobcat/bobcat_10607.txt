@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : flickkerphotos
+Photo URL    : https://www.flickr.com/photos/38504374@N02/3604437440/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 7 10:43:47 GMT+0200 2009
+Upload Date  : Sun Jun 7 19:43:47 GMT+0200 2009
+Views        : 960
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Spanish Lynx
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Credit: <a href="http://en.wikipedia.org/wiki/File:Linces19.jpg" rel="nofollow"><b>Wikipedia</b></a>
+
+
++--------+
+|  TAGS  |
++--------+
+endangered animals mammals "spanish lynx" 

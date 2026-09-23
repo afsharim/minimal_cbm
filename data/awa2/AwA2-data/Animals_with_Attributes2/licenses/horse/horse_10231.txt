@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : robanhk
+Photo URL    : https://www.flickr.com/photos/robanhk/4601100211/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Apr 26 19:38:05 GMT+0200 2010
+Upload Date  : Wed May 12 17:55:10 GMT+0200 2010
+Geotag Info  : Latitude:47.425568, Longitude:8.508514
+Views        : 37
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Das Pferd
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This is a five-minute bike ride from our house.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

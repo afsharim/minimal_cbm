@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Damoirs
+Photo URL    : https://www.flickr.com/photos/damoirs/15674735334/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 26 21:05:53 GMT+0200 2015
+Upload Date  : Sat Jan 17 02:59:30 GMT+0100 2015
+Views        : 55
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Gorilla
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Taken at Melbourne Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

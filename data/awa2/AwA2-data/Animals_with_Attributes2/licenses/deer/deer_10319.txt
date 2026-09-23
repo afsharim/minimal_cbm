@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : freshtopia.net
+Photo URL    : https://www.flickr.com/photos/freshtopia/634857271/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Nov 19 09:36:15 GMT+0100 2004
+Upload Date  : Wed Jun 27 04:20:01 GMT+0200 2007
+Geotag Info  : Latitude:34.672605, Longitude:135.855474
+Views        : 33
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+travel Japan freshtopia "Oscar Grimm" 

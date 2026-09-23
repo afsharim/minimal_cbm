@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : oddharmonic
+Photo URL    : https://www.flickr.com/photos/oddharmonic/11004007254/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 11 13:06:48 GMT+0200 2013
+Upload Date  : Sat Nov 23 05:09:51 GMT+0100 2013
+Geotag Info  : Latitude:40.031615, Longitude:-104.562174
+Views        : 770
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Walking tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"the wild animal sanctuary" tiger "panthera tigris" 

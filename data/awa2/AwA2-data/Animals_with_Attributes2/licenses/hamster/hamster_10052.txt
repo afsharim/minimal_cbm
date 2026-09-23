@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/15280456527/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 5 12:20:00 GMT+0200 2014
+Upload Date  : Tue Oct 7 11:00:44 GMT+0200 2014
+Geotag Info  : Latitude:49.244640, Longitude:6.137795
+Views        : 4,679
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Alsatian hamster
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This is an Alsatian hamster, a quite big subspecies of hamster. They are quite threatened.
+
+
++--------+
+|  TAGS  |
++--------+
+rodent cute hamster big brown alsatian wood amnéville zoo france nikon d4 

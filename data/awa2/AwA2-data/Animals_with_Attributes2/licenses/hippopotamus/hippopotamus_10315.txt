@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : vmiramontes
+Photo URL    : https://www.flickr.com/photos/vmiramontes/3719891360/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 11 12:23:50 GMT+0200 2009
+Upload Date  : Tue Jul 14 08:32:46 GMT+0200 2009
+Views        : 311
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Hippopotamus at the LA Zoo 071109
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"LA Zoo" hippopotamus 

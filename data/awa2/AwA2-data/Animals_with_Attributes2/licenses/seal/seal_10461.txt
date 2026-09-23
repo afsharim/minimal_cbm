@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : haxney
+Photo URL    : https://www.flickr.com/photos/hax/87624864/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 25 03:17:04 GMT+0200 2005
+Upload Date  : Tue Jan 17 03:19:02 GMT+0100 2006
+Geotag Info  : Latitude:-33.923420, Longitude:18.458404
+Views        : 117
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+img_0590
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Seals "South Africa" 

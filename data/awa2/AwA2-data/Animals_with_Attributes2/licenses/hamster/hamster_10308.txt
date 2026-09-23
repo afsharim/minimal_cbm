@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : PantsMcPantons
+Photo URL    : https://www.flickr.com/photos/pantsmcpantons/7006031306/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon May 7 04:49:50 GMT+0200 2012
+Upload Date  : Mon May 7 13:51:30 GMT+0200 2012
+Views        : 27
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+hamster
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

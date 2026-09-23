@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : oliver.dodd
+Photo URL    : https://www.flickr.com/photos/oliverdodd/3449203921/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Apr 10 10:13:43 GMT+0200 2009
+Upload Date  : Fri Apr 17 12:38:57 GMT+0200 2009
+Views        : 130
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+found dead in grass
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+death dead mole Talpidae 

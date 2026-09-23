@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : normanack
+Photo URL    : https://www.flickr.com/photos/29278394@N00/635271478/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jun 26 20:15:30 GMT+0200 2007
+Upload Date  : Wed Jun 27 02:15:30 GMT+0200 2007
+Views        : 318
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+horse camp horses
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The counselors bring the horses in from the field.
+
+
++--------+
+|  TAGS  |
++--------+
+"horse camp" 

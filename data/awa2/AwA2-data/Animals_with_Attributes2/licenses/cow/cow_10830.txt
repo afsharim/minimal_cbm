@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : lamcopphis
+Photo URL    : https://www.flickr.com/photos/10126935@N05/3785054788/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 2 07:46:14 GMT+0200 2009
+Upload Date  : Mon Aug 3 14:43:46 GMT+0200 2009
+Views        : 958
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Grazing Cows
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+cows pasture 

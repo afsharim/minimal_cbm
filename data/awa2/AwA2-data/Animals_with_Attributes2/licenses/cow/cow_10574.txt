@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ianloic
+Photo URL    : https://www.flickr.com/photos/ianloic/3864425710/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 24 05:56:59 GMT+0200 2009
+Upload Date  : Fri Aug 28 08:52:49 GMT+0200 2009
+Geotag Info  : Latitude:46.138355, Longitude:6.180378
+Views        : 110
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cows
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+cows saleve france alps "haute savoie" 

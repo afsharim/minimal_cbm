@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/9400414690/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon May 13 13:51:46 GMT+0200 2013
+Upload Date  : Tue Jul 30 10:50:30 GMT+0200 2013
+Geotag Info  : Latitude:53.230161, Longitude:-2.889211
+Views        : 5,615
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Chimpanzee sitting in the darkness I
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Portrait of a chimpanzee, taken inside with a quite high ISO...
+
+
++--------+
+|  TAGS  |
++--------+
+chimpanzee chimp ape primate monkey portrait face posing dark inside chester zoo uk "united kingdom" england nikon d4 

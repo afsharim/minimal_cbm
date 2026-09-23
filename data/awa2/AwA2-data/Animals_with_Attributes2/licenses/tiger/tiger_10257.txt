@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : kestrana
+Photo URL    : https://www.flickr.com/photos/kestrana/4397486624/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 27 15:45:56 GMT+0100 2010
+Upload Date  : Mon Mar 1 05:40:00 GMT+0100 2010
+Geotag Info  : Latitude:47.306458, Longitude:-122.525968
+Views        : 87
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sumatran Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"point defiance" animals cats tiger 

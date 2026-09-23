@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : supermattzor
+Photo URL    : https://www.flickr.com/photos/mattzor/954276035/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 18 14:14:53 GMT+0200 2007
+Upload Date  : Mon Jul 30 22:22:38 GMT+0200 2007
+Geotag Info  : Latitude:29.457951, Longitude:-98.699010
+Views        : 270
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+trite - liftoff
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Canon EOS 20d" DLSR "EF 50mm 1:1.8 II" "Sea World" "San Antonio, Tx" Texas Shamu orca "killer whale" 

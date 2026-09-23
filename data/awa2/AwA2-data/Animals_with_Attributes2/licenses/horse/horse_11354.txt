@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : eXtensionHorses
+Photo URL    : https://www.flickr.com/photos/64081615@N06/5840573953/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 16 17:59:44 GMT+0200 2011
+Upload Date  : Fri Jun 17 02:59:44 GMT+0200 2011
+Views        : 1,106
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Pregnant_mare_1
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Pregnant mare in pasture
+
+
++--------+
+|  TAGS  |
++--------+
+"horses eXtensionhorses" foali 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jennifer Turek
+Photo URL    : https://www.flickr.com/photos/groovegrrrrrl/11004693665/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Oct 29 01:12:45 GMT+0100 2013
+Upload Date  : Sat Nov 23 06:54:19 GMT+0100 2013
+Views        : 27
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_7377
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

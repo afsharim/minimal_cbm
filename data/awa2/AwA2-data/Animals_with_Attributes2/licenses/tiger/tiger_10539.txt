@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : andygeek
+Photo URL    : https://www.flickr.com/photos/scarce/3726808488/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 27 14:16:27 GMT+0200 2009
+Upload Date  : Thu Jul 16 15:49:27 GMT+0200 2009
+Geotag Info  : Latitude:-37.784102, Longitude:144.951510
+Views        : 14
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"melbourne zoo" melbourne victoria australia zoo tiger 

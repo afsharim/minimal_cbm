@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Steve Slater (used to be Wildlife Encounters)
+Photo URL    : https://www.flickr.com/photos/wildlife_encounters/15357456435/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 26 15:25:53 GMT+0200 2013
+Upload Date  : Fri Sep 26 08:45:09 GMT+0200 2014
+Views        : 350
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+collie in the meadow in hdr
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+collie in the meadow in hdr
+
+
++--------+
+|  TAGS  |
++--------+
+"Border collie" collie dog "dog in action" hdr nature 

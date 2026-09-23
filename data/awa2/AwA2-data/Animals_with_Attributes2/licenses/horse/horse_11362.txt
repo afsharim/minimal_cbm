@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : stanzebla
+Photo URL    : https://www.flickr.com/photos/stanzebla/14531902876/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 30 16:56:21 GMT+0200 2014
+Upload Date  : Wed Jul 2 04:35:08 GMT+0200 2014
+Views        : 636
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Quitty
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Paint Horse" 

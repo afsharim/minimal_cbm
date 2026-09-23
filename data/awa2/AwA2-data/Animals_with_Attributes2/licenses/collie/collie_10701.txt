@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Aug 23, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Aero Pixels
+Photo URL    : https://www.flickr.com/photos/levien66/27230952973/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 22 15:46:12 GMT+0200 2016
+Upload Date  : Wed Jun 22 21:41:20 GMT+0200 2016
+Views        : 297
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Jack the Border Collie
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+dog pet "border collie" 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Derek Keats
+Photo URL    : https://www.flickr.com/photos/dkeats/5258194215/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 12 13:15:51 GMT+0200 2009
+Upload Date  : Mon Dec 13 21:08:36 GMT+0100 2010
+Views        : 413
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cape Buffalo having a snooze
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Cape Buffalo having a snooze
+
+
++--------+
+|  TAGS  |
++--------+
+buffalo cape africa mammal wildlife 

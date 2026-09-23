@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : andrewmalone
+Photo URL    : https://www.flickr.com/photos/andrewmalone/1491360553/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 22 15:06:42 GMT+0200 2007
+Upload Date  : Sat Oct 6 00:14:15 GMT+0200 2007
+Geotag Info  : Latitude:42.379830, Longitude:-71.410928
+Views        : 338
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horses
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+animal horse 

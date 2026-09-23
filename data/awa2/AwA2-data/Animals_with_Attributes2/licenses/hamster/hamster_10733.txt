@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : steffens77
+Photo URL    : https://www.flickr.com/photos/steffens77/9658022181/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 29 07:45:35 GMT+0200 2013
+Upload Date  : Tue Sep 3 04:13:44 GMT+0200 2013
+Geotag Info  : Latitude:41.970833, Longitude:-91.712000
+Views        : 102
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+hamster Oreo 

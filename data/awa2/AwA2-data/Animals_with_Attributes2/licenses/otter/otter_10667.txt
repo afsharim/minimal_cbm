@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Christopher.Michel
+Photo URL    : https://www.flickr.com/photos/cmichel67/16004399570/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jan 2 15:43:12 GMT+0100 2015
+Upload Date  : Sun Jan 4 07:02:42 GMT+0100 2015
+Views        : 1,638
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sea Otters at the Monterey Bay Aquarium
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Christopher Michel" Monterey Bay Aquarium 

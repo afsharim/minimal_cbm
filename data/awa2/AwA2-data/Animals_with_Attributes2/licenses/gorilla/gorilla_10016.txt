@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : PreciousBytes
+Photo URL    : https://www.flickr.com/photos/72562013@N06/8349542342/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 5 15:04:49 GMT+0100 2013
+Upload Date  : Sat Jan 5 22:04:49 GMT+0100 2013
+Geotag Info  : Latitude:-37.784417, Longitude:144.951086
+Views        : 799
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+294 divided by 7
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Early in the morning the gorillas were no where to be found until mid afternoon. This picture was taken through a pane of glass. Sometimes the gorillas are interested in people by coming near the window which makes it easy to take pictures up and close like this.
+
+
++--------+
+|  TAGS  |
++--------+
+"Melbourne Zoo" gorilla 

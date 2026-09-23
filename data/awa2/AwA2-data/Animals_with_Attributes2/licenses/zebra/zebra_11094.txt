@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : askmeaks
+Photo URL    : https://www.flickr.com/photos/aksinc/5366830737/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jan 10 09:08:29 GMT+0100 2011
+Upload Date  : Tue Jan 18 16:54:29 GMT+0100 2011
+Geotag Info  : Latitude:-1.554460, Longitude:30.718460
+Views        : 192
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebras
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Scared Zebras
+
+
++--------+
+|  TAGS  |
++--------+
+"Akager National Park" Rwanda "Rwanda Trip" "Akagera National Park" Wildlife 

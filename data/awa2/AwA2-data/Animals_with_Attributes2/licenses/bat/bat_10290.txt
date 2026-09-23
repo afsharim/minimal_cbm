@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tobusaru
+Photo URL    : https://commons.wikimedia.org/wiki/File:Artibeus_jamaicensis_los_tuxtlas_2008.jpg
+License      : Creative Commons (https://en.wikipedia.org/wiki/en:Creative_Commons) Attribution 3.0 Unported (//creativecommons.org/licenses/by/3.0/deed.en)
+Date         : 2008-05-24

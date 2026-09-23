@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : windy_
+Photo URL    : https://www.flickr.com/photos/acf_windy/9583947403/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 24 15:26:37 GMT+0200 2013
+Upload Date  : Sat Aug 24 23:51:10 GMT+0200 2013
+Views        : 144
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hebridean CC August Cafe Ride
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

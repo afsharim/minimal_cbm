@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : apasquale
+Photo URL    : https://www.flickr.com/photos/sackettpasquale/3532610411/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 19 11:44:42 GMT+0200 2009
+Upload Date  : Fri May 15 12:42:09 GMT+0200 2009
+Geotag Info  : Latitude:53.354677, Longitude:-6.305186
+Views        : 55
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

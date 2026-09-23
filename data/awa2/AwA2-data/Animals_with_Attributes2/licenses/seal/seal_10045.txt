@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mckaysavage
+Photo URL    : https://www.flickr.com/photos/mckaysavage/9976147865/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jan 14 12:27:51 GMT+0100 2013
+Upload Date  : Sat Sep 28 06:58:19 GMT+0200 2013
+Geotag Info  : Latitude:-64.826785, Longitude:-63.493976
+Views        : 422
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Antarctica 271 - Jougla Point
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+He's a big boy there
+
+
++--------+
+|  TAGS  |
++--------+
+Jougla geotagged Antarctica seal 

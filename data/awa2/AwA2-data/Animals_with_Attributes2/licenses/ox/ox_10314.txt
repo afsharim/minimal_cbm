@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : moedermens
+Photo URL    : https://www.flickr.com/photos/heleenmeijer/7419117770/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Apr 30 15:00:41 GMT+0200 2012
+Upload Date  : Fri Jun 22 12:28:14 GMT+0200 2012
+Views        : 134
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hoorns
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+De Stroeten, Zweeloo, Drenthe
+
+
++--------+
+|  TAGS  |
++--------+
+Drenthe 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : psd
+Photo URL    : https://www.flickr.com/photos/psd/2790990678/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Aug 19 16:27:25 GMT+0200 2008
+Upload Date  : Sun Aug 24 00:42:21 GMT+0200 2008
+Geotag Info  : Latitude:53.078542, Longitude:4.743990
+Views        : 543
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hello
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Holland Netherlands "Frisian Islands" Texel Wadden "Wadden Sea Islands" "Wadden Islands" seal seals "De Koog" Ecomare "Grey Seal" "Halichoerus grypus" wlny:photo=i2v7 wlny:species=sfr wlny:trip=t7m wlny:place=p6v wlny:geotagged=1 

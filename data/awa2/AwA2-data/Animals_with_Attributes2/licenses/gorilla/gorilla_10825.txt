@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : navarvel
+Photo URL    : https://www.flickr.com/photos/131231326@N04/17022869541/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 17 13:44:47 GMT+0200 2011
+Upload Date  : Fri Apr 3 23:46:19 GMT+0200 2015
+Geotag Info  : Latitude:39.002752, Longitude:-94.525637
+Views        : 437
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Western Gorilla
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+<i>Gorilla gorilla</i>
+Kansas City Zoo, Kansas City, Jackson County, Missouri
+September 17, 2011
+
+
++--------+
+|  TAGS  |
++--------+
+Mammalia Primates Hominidae Gorilla "Gorilla gorilla" "Western Gorilla" Missouri "Jackson County" "Kansas City" "Kansas City Zoo" 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jhartranft
+Photo URL    : https://www.flickr.com/photos/12396303@N05/2528782957/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue May 27 16:57:17 GMT+0200 2008
+Upload Date  : Wed May 28 01:14:24 GMT+0200 2008
+Views        : 58
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Picture 087
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Backyard visitor.
+
+
++--------+
+|  TAGS  |
++--------+
+Raccoon 

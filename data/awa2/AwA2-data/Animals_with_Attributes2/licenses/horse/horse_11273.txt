@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ObjektivKRAFT
+Photo URL    : https://www.flickr.com/photos/objektivkraft/4761725600/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 27 11:32:01 GMT+0200 2010
+Upload Date  : Sun Jul 4 22:24:02 GMT+0200 2010
+Views        : 150
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Pferd 2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Svadilfari
+Photo URL    : https://www.flickr.com/photos/22280677@N07/3849332151/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 18 02:40:47 GMT+0200 2009
+Upload Date  : Sun Aug 23 23:19:33 GMT+0200 2009
+Views        : 778
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Cow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Moo
+
+
++--------+
+|  TAGS  |
++--------+
+"Sutton Massachusetts" "Sutton Mass" "Sutton MA" Sutton Massachusetts MA "New England" Cow Bovine Graze Grazing Animal Farm "Farm Animal" 

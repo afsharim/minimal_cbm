@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bysa
+Photo URL    : https://www.flickr.com/photos/bysa/4055343670/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Oct 28 13:22:12 GMT+0100 2009
+Upload Date  : Thu Oct 29 09:54:02 GMT+0100 2009
+Geotag Info  : Latitude:52.963839, Longitude:5.420207
+Views        : 154
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+bysa2328
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Sheep at dike
+
+
++--------+
+|  TAGS  |
++--------+
+Ovis Sheep Animal 

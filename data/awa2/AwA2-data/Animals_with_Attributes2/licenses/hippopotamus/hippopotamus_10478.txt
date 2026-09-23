@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : flöschen
+Photo URL    : https://www.flickr.com/photos/floeschen/5444121321/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jan 21 14:34:10 GMT+0100 2011
+Upload Date  : Mon Feb 14 09:41:37 GMT+0100 2011
+Geotag Info  : Latitude:2.276574, Longitude:31.620720
+Views        : 385
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Hippos!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Murchison Falls National Park" uganda:nationalpark=mfnp MFNP biology:genus=hippopotamus "biology:binominal=Hippopotamus amphibius" "biology:species=H. amphibius" 3:2 hippo biology:class=Mammalia biology:family=Hippopotamidae biology:kingdom=Animalia biology:order=Artiodactyla biology:phylum=Chordata Africa Afrika Uganda 

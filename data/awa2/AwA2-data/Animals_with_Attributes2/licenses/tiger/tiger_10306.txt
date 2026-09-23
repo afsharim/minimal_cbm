@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : RichmondPest
+Photo URL    : https://www.flickr.com/photos/richmondpest/10434289584/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 30 13:19:57 GMT+0200 2012
+Upload Date  : Wed Oct 23 07:19:00 GMT+0200 2013
+Views        : 150
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+tiger 2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+tiger 

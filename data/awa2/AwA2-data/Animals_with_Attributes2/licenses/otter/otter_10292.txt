@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bartkusa
+Photo URL    : https://www.flickr.com/photos/bartkusa/3381817026/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 7 12:14:27 GMT+0100 2009
+Upload Date  : Tue Mar 24 08:17:47 GMT+0100 2009
+Geotag Info  : Latitude:49.301229, Longitude:-123.128499
+Views        : 7
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

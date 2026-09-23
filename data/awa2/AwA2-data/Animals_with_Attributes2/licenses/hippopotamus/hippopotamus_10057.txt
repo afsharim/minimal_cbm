@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : funky1opti
+Photo URL    : https://www.flickr.com/photos/funky1opti/2743862029/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 1 00:00:00 GMT+0200 2008
+Upload Date  : Fri Aug 8 19:09:39 GMT+0200 2008
+Geotag Info  : Latitude:50.961697, Longitude:6.974751
+Views        : 61
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+CIMG3332
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Flusspferde im Kölner Zoo.
+
+
++--------+
+|  TAGS  |
++--------+
+Zoo Tierpark Köln Flusspferd Deutschland Germany 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : huntingdesigns
+Photo URL    : https://www.flickr.com/photos/huntingdesigns/2609159031/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jun 24 22:28:12 GMT+0200 2008
+Upload Date  : Wed Jun 25 07:28:12 GMT+0200 2008
+Views        : 173
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Kevin Arnold" "big cats" captive tiger 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mister.Tee
+Photo URL    : https://www.flickr.com/photos/mister_tee/5799526270/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 4 10:39:57 GMT+0200 2011
+Upload Date  : Sun Jun 5 11:14:13 GMT+0200 2011
+Geotag Info  : Latitude:52.260881, Longitude:4.977385
+Views        : 1,370
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+horses
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Abcoude dressuur horse horses paard paarden springen "concours Hippique abcoude" concours Hippique 

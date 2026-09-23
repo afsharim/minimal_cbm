@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : LongitudeLatitude
+Photo URL    : https://www.flickr.com/photos/longitudelatitude/5212666406/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Nov 4 15:43:21 GMT+0100 2010
+Upload Date  : Sat Nov 27 22:16:33 GMT+0100 2010
+Views        : 572
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+buck
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+one of the many deer I see on my bicycle commute home
+
+
++--------+
+|  TAGS  |
++--------+
+buck white tail deer 

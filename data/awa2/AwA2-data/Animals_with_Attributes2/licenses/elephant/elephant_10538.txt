@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : meglog
+Photo URL    : https://www.flickr.com/photos/meglog/6380206341/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Nov 22 10:16:41 GMT+0100 2011
+Upload Date  : Tue Nov 22 02:16:41 GMT+0100 2011
+Views        : 1,086
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+elephant animal 

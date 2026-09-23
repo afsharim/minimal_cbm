@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : brainstorm1984
+Photo URL    : https://www.flickr.com/photos/brainstorm1984/15083541022/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 14 08:46:56 GMT+0200 2014
+Upload Date  : Sat Aug 30 18:07:55 GMT+0200 2014
+Geotag Info  : Latitude:52.748047, Longitude:9.614672
+Views        : 530
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Eine Giraffe im Serengeti-Park Hodenhagen.
+
+A Giraffe in the &quot;Serengeti-Park Hodenhagen&quot;.
+
+
++--------+
+|  TAGS  |
++--------+
+"Giraffa camelopardalis" Giraffe Hodenhagen Serengeti-Park Niedersachsen Deutschland 

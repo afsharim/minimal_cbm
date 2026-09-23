@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jamesabbott1963
+Photo URL    : https://www.flickr.com/photos/jamesabbott1963/15414684642/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 28 12:51:29 GMT+0200 2014
+Upload Date  : Thu Oct 2 01:08:46 GMT+0200 2014
+Geotag Info  : Latitude:50.485677, Longitude:-120.555253
+Views        : 320
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sept 27-28 Hunting Trip 2014-09-28 032-LR
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Bobcat
+
+
++--------+
+|  TAGS  |
++--------+
+"Logan Lake" "British Columbia" Canada 

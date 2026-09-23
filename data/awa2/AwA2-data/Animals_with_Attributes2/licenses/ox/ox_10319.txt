@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Richo.Fan
+Photo URL    : https://www.flickr.com/photos/richo-fan/4312920736/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Oct 13 10:21:29 GMT+0200 2008
+Upload Date  : Fri Jan 29 02:38:22 GMT+0100 2010
+Geotag Info  : Latitude:28.364157, Longitude:-81.594150
+Views        : 377
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Humongous Horns
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Ankole Cattle.  Man, these things have honkin' huge horns!
+
+
++--------+
+|  TAGS  |
++--------+
+"Walt Disney World" Disney "Animal Kingdom" "Ankole Cattle" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : cheesechoker
+Photo URL    : https://www.flickr.com/photos/srcosmo/3908678004/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 8 17:56:08 GMT+0200 2009
+Upload Date  : Fri Sep 11 04:33:10 GMT+0200 2009
+Geotag Info  : Latitude:45.427770, Longitude:-75.680222
+Views        : 7,247
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Rat
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Rat
+
+
++--------+
+|  TAGS  |
++--------+
+rat rats 2009 colour ottawa 

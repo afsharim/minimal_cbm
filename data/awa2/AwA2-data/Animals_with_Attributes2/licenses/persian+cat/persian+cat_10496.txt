@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : THE Holy Hand Grenade!
+Photo URL    : https://www.flickr.com/photos/pfsullivan_1056/8729452606/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 11 10:37:16 GMT+0200 2013
+Upload Date  : Sat May 11 19:37:16 GMT+0200 2013
+Geotag Info  : Latitude:37.884922, Longitude:-122.296376
+Views        : 11,913
+Comments     : 7
+
+
++---------+
+|  TITLE  |
++---------+
+persian cat A
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A Persian cat belonging to the photographer's new south-side neighbors.  Taken in Albany, CA by a Nikon F4s with a Nikkor 28-80mm ƒ 3.3-5.6 G lens on Kodak Portra 400.
+
+Skittish cat, this is taken at 80mm...
+
+
++--------+
+|  TAGS  |
++--------+
+"Persian cat" Cat "Albany, CA" "Nikon F4s" "Nikon 28-80mm" Kodak "Portra 400" geotagged 

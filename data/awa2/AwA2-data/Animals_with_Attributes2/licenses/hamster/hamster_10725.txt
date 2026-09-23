@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : кофе
+Photo URL    : https://www.flickr.com/photos/raffaello05/5406497743/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Oct 28 03:52:15 GMT+0200 2010
+Upload Date  : Tue Feb 1 07:53:22 GMT+0100 2011
+Views        : 188
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+hamster monster autumn 

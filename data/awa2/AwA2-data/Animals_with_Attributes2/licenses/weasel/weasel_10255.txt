@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : SurreyJohn
+Photo URL    : https://commons.wikimedia.org/wiki/File:Pine_Marten_BWC.JPG
+License      : Creative Commons (https://en.wikipedia.org/wiki/en:Creative_Commons) Attribution-Share Alike 4.0 International (//creativecommons.org/licenses/by-sa/4.0/deed.en)
+Date         : 2015-05-27 14:36:55

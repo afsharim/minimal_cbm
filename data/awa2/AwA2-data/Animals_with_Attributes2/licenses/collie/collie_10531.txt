@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : puliarf
+Photo URL    : https://www.flickr.com/photos/puliarfanita/8695471261/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 28 09:06:56 GMT+0200 2013
+Upload Date  : Tue Apr 30 19:00:09 GMT+0200 2013
+Geotag Info  : Latitude:34.945050, Longitude:-120.442085
+Views        : 1,960
+Comments     : 6
+
+
++---------+
+|  TITLE  |
++---------+
+Santa Maria Agility_1
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Weave pole action at the Santa Maria Kennel Club's spring agility trial 4/28/2013, Border Collie
+
+
++--------+
+|  TAGS  |
++--------+
+"agility dog" agility "agility trial" "santa maria kennel club" 

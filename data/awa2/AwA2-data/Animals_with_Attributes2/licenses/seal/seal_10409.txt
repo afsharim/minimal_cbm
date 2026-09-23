@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : NullSynapse
+Photo URL    : https://www.flickr.com/photos/nullsynapse/7722244830/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 14 19:11:56 GMT+0200 2012
+Upload Date  : Mon Aug 6 04:34:00 GMT+0200 2012
+Geotag Info  : Latitude:48.125638, Longitude:-122.923235
+Views        : 195
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Happiness
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Some content looking seals on Protection Island near Port Townsend, WA
+
+
++--------+
+|  TAGS  |
++--------+
+seals "washington state" "pacific northwest" 

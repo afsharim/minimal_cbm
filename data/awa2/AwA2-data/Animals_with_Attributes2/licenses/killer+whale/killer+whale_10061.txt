@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : andrew.wallwork
+Photo URL    : https://www.flickr.com/photos/awallwork/523229280/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 2 11:44:38 GMT+0200 2006
+Upload Date  : Thu May 31 16:05:35 GMT+0200 2007
+Views        : 412
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_1881
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Pender Island" Orca "Killer Whale" 

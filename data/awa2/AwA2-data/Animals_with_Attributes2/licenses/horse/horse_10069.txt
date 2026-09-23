@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : J.harwood
+Photo URL    : https://www.flickr.com/photos/harwood-images/3365968590/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 26 16:50:01 GMT+0200 2007
+Upload Date  : Wed Mar 18 18:04:30 GMT+0100 2009
+Geotag Info  : Latitude:53.323696, Longitude:-2.485742
+Views        : 358
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Arley Eventing
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Horses 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Kecko
+Photo URL    : https://www.flickr.com/photos/kecko/8698763917/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Apr 30 15:45:09 GMT+0200 2013
+Upload Date  : Wed May 1 20:35:27 GMT+0200 2013
+Geotag Info  : Latitude:46.993146, Longitude:9.507312
+Views        : 1,610
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Masked horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Such a well wrapped horse I've never seen before. It will be mainly a protection against insects, and also from the sun. Pfäfers, Switzerland, April 30, 2013.
+
+
++--------+
+|  TAGS  |
++--------+
+2013 kecko switzerland swiss schweiz suisse svizzera ostschweiz sg pfäfers pferd horse tier animal swissphoto geo:lat=46.9931463741817 geo:lon=9.50731247663498 geotagged 

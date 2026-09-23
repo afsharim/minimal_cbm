@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : stanrandom
+Photo URL    : https://www.flickr.com/photos/stanrandom/3539788637/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon May 4 18:06:08 GMT+0200 2009
+Upload Date  : Mon May 18 00:27:24 GMT+0200 2009
+Views        : 103
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+lynx
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"70-200mm vr" d700 "nikon d700" 

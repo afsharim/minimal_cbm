@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Lennart Tange
+Photo URL    : https://www.flickr.com/photos/lennartt/7624472872/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 21 12:52:17 GMT+0200 2012
+Upload Date  : Sun Jul 22 22:49:05 GMT+0200 2012
+Geotag Info  : Latitude:51.628620, Longitude:4.262180
+Views        : 4,421
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+sheep 

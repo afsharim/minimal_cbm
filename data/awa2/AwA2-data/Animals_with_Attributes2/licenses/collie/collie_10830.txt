@@ -1,0 +1,19 @@
++--------------------------------------+
+|       Pixabay Photo Metadata         |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : 825545
+Photo URL    : https://pixabay.com/en/border-collie-high-grass-summer-750562/
+License      : CC0 Public Domain (https://creativecommons.org/publicdomain/zero/1.0/deed.en)
+Created      : July 17, 2014
+Uploaded     : May 3, 2015
+
++--------+
+|  TAGS  |
++--------+
+Border Collie, High Grass, Summer, Warm, Tricolour Dog

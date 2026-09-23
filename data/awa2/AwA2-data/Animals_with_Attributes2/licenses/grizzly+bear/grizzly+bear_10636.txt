@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/15360913798/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 5 09:54:58 GMT+0200 2014
+Upload Date  : Thu Oct 16 06:00:10 GMT+0200 2014
+Geotag Info  : Latitude:49.244640, Longitude:6.137795
+Views        : 5,811
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Portrait of the bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Again the female bear, but now quite closer.
+
+
++--------+
+|  TAGS  |
++--------+
+close portrait face lips bear "brown bear" female amnéville zoo france nikon d4 

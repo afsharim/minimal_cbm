@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bradley j
+Photo URL    : https://www.flickr.com/photos/detroitsunrise/3157407818/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 28 00:00:00 GMT+0100 2008
+Upload Date  : Thu Jan 1 21:29:34 GMT+0100 2009
+Views        : 55
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hamster
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

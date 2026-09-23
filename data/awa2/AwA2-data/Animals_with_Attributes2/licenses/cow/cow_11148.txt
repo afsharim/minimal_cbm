@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Clownhouse III
+Photo URL    : https://www.flickr.com/photos/clownhousethethird/2949147085/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Oct 17 15:02:55 GMT+0200 2008
+Upload Date  : Fri Oct 17 19:56:44 GMT+0200 2008
+Geotag Info  : Latitude:52.129378, Longitude:5.735721
+Views        : 259
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Party-crashing Cow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+&quot;Free grass?!&quot;
+
+
++--------+
+|  TAGS  |
++--------+
+cows cow moo 

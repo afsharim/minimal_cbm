@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Bjarte Aarmo Lund
+Photo URL    : https://www.flickr.com/photos/bjartelund/4903592735/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 15 17:21:11 GMT+0200 2010
+Upload Date  : Wed Aug 18 11:48:23 GMT+0200 2010
+Views        : 96
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_0742.JPG
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Bjarte aarmo lund 2010
+
+
++--------+
+|  TAGS  |
++--------+
+Svolvær moose 

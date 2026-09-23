@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ahisgett
+Photo URL    : https://www.flickr.com/photos/hisgett/6701527215/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jan 13 13:41:47 GMT+0100 2012
+Upload Date  : Sun Jan 15 16:44:41 GMT+0100 2012
+Geotag Info  : Latitude:52.449821, Longitude:-1.910258
+Views        : 122
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Birmingham 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : dermoidhome
+Photo URL    : https://www.flickr.com/photos/dermoidhome/2571653482/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 5 07:54:50 GMT+0200 2008
+Upload Date  : Thu Jun 12 00:08:16 GMT+0200 2008
+Views        : 100
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Portrait of Swine
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+D80 "Nikkor 18-200 VR" pig 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : brian.gratwicke
+Photo URL    : https://www.flickr.com/photos/briangratwicke/3594340141/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Dec 15 12:10:32 GMT+0100 2009
+Upload Date  : Thu Jun 4 13:07:44 GMT+0200 2009
+Views        : 723
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Mum and cubs
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+India June 2009 Panthera tigris mammal tiger "taxonomy:binomial=Panthera tigris" 

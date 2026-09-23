@@ -1,0 +1,38 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jonworth
+Photo URL    : https://www.flickr.com/photos/jonworth/294251909/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Oct 23 12:43:59 GMT+0200 2006
+Upload Date  : Sat Nov 11 07:46:36 GMT+0100 2006
+Geotag Info  : Latitude:52.407812, Longitude:-1.102924
+Views        : 132
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Gongoozling sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+You can see a little spot of orange spray paint on its back, used for identification.
+
+--Near Crick, England
+--IMG_4801
+
+
++--------+
+|  TAGS  |
++--------+
+"Jon Worth" England 2006 

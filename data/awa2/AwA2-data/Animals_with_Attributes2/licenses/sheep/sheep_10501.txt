@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sethoscope
+Photo URL    : https://www.flickr.com/photos/sethoscope/2856831379/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 9 12:32:32 GMT+0200 2008
+Upload Date  : Sun Sep 14 23:39:58 GMT+0200 2008
+Geotag Info  : Latitude:58.975794, Longitude:-2.952967
+Views        : 85
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+n1019829
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+sheep
+
+
++--------+
+|  TAGS  |
++--------+
+scotland orkney kirkwall "agricultural show" sheep 

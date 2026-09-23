@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : oggierite
+Photo URL    : https://www.flickr.com/photos/oggierite/8619820818/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Apr 4 13:09:59 GMT+0200 2013
+Upload Date  : Thu Apr 4 18:01:12 GMT+0200 2013
+Views        : 8
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+04041343
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

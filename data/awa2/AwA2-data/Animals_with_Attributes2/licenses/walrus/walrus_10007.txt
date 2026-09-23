@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : eliduke
+Photo URL    : https://www.flickr.com/photos/elisfanclub/1130882465/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 10 14:20:21 GMT+0200 2007
+Upload Date  : Fri Aug 10 15:20:21 GMT+0200 2007
+Views        : 258
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+a trip to the Indianapolis Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+walruses
+
+
++--------+
+|  TAGS  |
++--------+
+indy zoo indianapoliszoo walruses 

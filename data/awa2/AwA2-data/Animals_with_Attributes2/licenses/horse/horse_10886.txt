@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mrs. Gemstone
+Photo URL    : https://www.flickr.com/photos/gemstone/2653801377/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 2 05:17:11 GMT+0200 2008
+Upload Date  : Thu Jul 10 03:55:29 GMT+0200 2008
+Geotag Info  : Latitude:63.277813, Longitude:18.832926
+Views        : 2,443
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horses
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Horses in the field close to my parents' house.
+
+
++--------+
+|  TAGS  |
++--------+
+Sweden horse häst Sverige 

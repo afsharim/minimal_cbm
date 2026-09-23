@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : liza31337
+Photo URL    : https://www.flickr.com/photos/lizadaly/1796734020/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 28 15:38:12 GMT+0100 2007
+Upload Date  : Mon Oct 29 03:22:56 GMT+0100 2007
+Geotag Info  : Latitude:42.446562, Longitude:-71.361662
+Views        : 165
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+HELLO COW
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+cow 

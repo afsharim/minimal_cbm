@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : roger4336
+Photo URL    : https://www.flickr.com/photos/24736216@N07/3324157010/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 16 00:00:06 GMT+0200 1990
+Upload Date  : Mon Mar 2 23:22:55 GMT+0100 2009
+Geotag Info  : Latitude:55.988300, Longitude:-3.333663
+Views        : 1,273
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep at Dalmeny House
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+You can't leave Scotland without a picture of sheep.  These sheep were on the grounds of Dalmeny House.
+
+
++--------+
+|  TAGS  |
++--------+
+sheep scotland 1990 dalmeny "dalmeny house" queensferry "south queensferry" 

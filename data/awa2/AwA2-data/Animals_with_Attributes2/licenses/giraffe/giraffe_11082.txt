@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : edenpictures
+Photo URL    : https://www.flickr.com/photos/edenpictures/3836109312/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 16 16:31:58 GMT+0200 2009
+Upload Date  : Wed Aug 19 06:55:48 GMT+0200 2009
+Geotag Info  : Latitude:42.749706, Longitude:-87.783304
+Views        : 993
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Racine Giraffes
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+At the Racine Zoo. These are Masai giraffes, the subspecies normally found in Kenya.
+
+
++--------+
+|  TAGS  |
++--------+
+giraffes "Racine Zoo" zoo Racine Wisconsin "Masai giraffe" "Kilimanjaro giraffe" Picnik 

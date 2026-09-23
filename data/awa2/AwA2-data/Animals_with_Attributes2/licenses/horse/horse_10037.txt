@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Kevin Burkett
+Photo URL    : https://www.flickr.com/photos/kevinwburkett/4725701433/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 21 12:43:47 GMT+0200 2010
+Upload Date  : Wed Jun 23 04:00:51 GMT+0200 2010
+Views        : 125
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+A horse is a horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horse animals Indiana nature 

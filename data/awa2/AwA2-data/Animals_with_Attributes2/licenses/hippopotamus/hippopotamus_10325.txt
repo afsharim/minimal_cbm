@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mosher13
+Photo URL    : https://www.flickr.com/photos/70231879@N02/14018934996/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Dec 24 16:42:52 GMT+0100 2013
+Upload Date  : Mon Apr 28 02:18:47 GMT+0200 2014
+Views        : 173
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hippopotamus Smile
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Pictures from the San Diego Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+Hippopotamus Hippo Zoo 

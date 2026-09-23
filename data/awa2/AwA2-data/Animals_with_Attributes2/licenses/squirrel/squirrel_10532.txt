@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Kreoko
+Photo URL    : https://www.flickr.com/photos/kreoko/7978004820/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Sep 11 17:35:22 GMT+0200 2012
+Upload Date  : Wed Sep 12 01:46:04 GMT+0200 2012
+Geotag Info  : Latitude:50.944699, Longitude:-1.435035
+Views        : 24
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel #2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

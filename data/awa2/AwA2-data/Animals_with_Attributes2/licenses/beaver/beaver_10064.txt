@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : SpaceAgeSage
+Photo URL    : https://www.flickr.com/photos/28181943@N04/2947695653/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 23 09:11:52 GMT+0200 2008
+Upload Date  : Fri Oct 17 03:51:27 GMT+0200 2008
+Views        : 602
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Beaver
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Not alive -- a stuffed display
+
+
++--------+
+|  TAGS  |
++--------+
+wild beaver 

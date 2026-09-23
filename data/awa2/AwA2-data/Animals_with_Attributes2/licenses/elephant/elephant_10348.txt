@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : wendylin20
+Photo URL    : https://www.flickr.com/photos/wendyjlin/2073957693/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Aug 14 02:52:50 GMT+0200 2007
+Upload Date  : Thu Nov 29 23:22:00 GMT+0100 2007
+Views        : 148
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+I think we drove too close to the elephant because he looks really angry here.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

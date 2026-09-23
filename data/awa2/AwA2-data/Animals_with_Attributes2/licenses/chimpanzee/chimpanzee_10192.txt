@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mykaul
+Photo URL    : https://www.flickr.com/photos/mykaul/3429781192/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Apr 9 09:58:19 GMT+0200 2009
+Upload Date  : Fri Apr 10 20:39:10 GMT+0200 2009
+Views        : 130
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Chimpanzee family
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Ramat Gan Safari
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

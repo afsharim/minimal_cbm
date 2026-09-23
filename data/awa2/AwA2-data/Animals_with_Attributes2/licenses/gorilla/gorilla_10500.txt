@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : kchottie88
+Photo URL    : https://www.flickr.com/photos/dsoaks/7169103545/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 8 11:33:49 GMT+0200 2012
+Upload Date  : Sat Jun 9 15:43:25 GMT+0200 2012
+Views        : 6
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMAG0307
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

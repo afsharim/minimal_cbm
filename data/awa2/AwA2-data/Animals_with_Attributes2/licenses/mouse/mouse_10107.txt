@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : panli54
+Photo URL    : https://www.flickr.com/photos/53911972@N03/4988915147/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Sep 14 00:26:53 GMT+0200 2010
+Upload Date  : Tue Sep 14 09:26:53 GMT+0200 2010
+Views        : 51
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Mouse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

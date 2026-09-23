@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : cyanocorax
+Photo URL    : https://www.flickr.com/photos/cyanocorax/21933628260/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Sep 21 18:53:07 GMT+0200 2015
+Upload Date  : Tue Oct 13 03:02:33 GMT+0200 2015
+Geotag Info  : Latitude:-2.655262, Longitude:37.287980
+Views        : 213
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+African elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+elephant kenya "amboseli national park" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : chipmunk_1
+Photo URL    : https://www.flickr.com/photos/42919152@N04/7288461920/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 26 12:25:33 GMT+0200 2012
+Upload Date  : Mon May 28 20:05:19 GMT+0200 2012
+Geotag Info  : Latitude:42.444469, Longitude:-72.894027
+Views        : 35
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+20120526 Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Cummington Sheep Fair 2012.
+
+
++--------+
+|  TAGS  |
++--------+
+Cummington 

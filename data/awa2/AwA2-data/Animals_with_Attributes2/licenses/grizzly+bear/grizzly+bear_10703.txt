@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ettore Balocchi
+Photo URL    : https://www.flickr.com/photos/29882791@N02/8300299010/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jan 7 16:25:03 GMT+0100 2009
+Upload Date  : Sun Dec 23 13:30:21 GMT+0100 2012
+Views        : 221
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Ursidae - Ursus arctos - Brown Bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Brown Bear
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

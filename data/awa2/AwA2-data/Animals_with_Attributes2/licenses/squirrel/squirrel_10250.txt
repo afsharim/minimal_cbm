@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Lets Go Out Bournemouth and Poole
+Photo URL    : https://www.flickr.com/photos/letsgoout-bournemouthandpoole/8960108864/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri May 24 11:08:26 GMT+0200 2013
+Upload Date  : Wed Jun 5 16:47:47 GMT+0200 2013
+Geotag Info  : Latitude:50.717574, Longitude:-1.876065
+Views        : 95
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Grey Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Lower Gardens, Bournemouth
+
+
++--------+
+|  TAGS  |
++--------+
+gardens squirrel "grey squirrel" bournemouth "lower gardens" 

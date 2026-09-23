@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : spalti
+Photo URL    : https://www.flickr.com/photos/spalti/3959904738/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 26 14:04:40 GMT+0200 2009
+Upload Date  : Sun Sep 27 21:03:38 GMT+0200 2009
+Views        : 155
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_8100
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Tierpark Hellabrunn
+
+
++--------+
+|  TAGS  |
++--------+
+"Tierpark Hellabrunn" Elefant 

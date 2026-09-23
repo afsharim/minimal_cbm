@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Paulio Geordio
+Photo URL    : https://www.flickr.com/photos/pauliogeordio/2252089269/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jun 19 20:10:51 GMT+0200 2007
+Upload Date  : Sat Feb 9 17:06:08 GMT+0100 2008
+Views        : 84
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+Elephants
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

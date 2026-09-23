@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : nickobec
+Photo URL    : https://www.flickr.com/photos/nickobec/348983036/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 7 22:18:11 GMT+0100 2007
+Upload Date  : Sun Jan 7 15:18:11 GMT+0100 2007
+Geotag Info  : Latitude:-32.253821, Longitude:115.798988
+Views        : 3,223
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+willow in motion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Willow on her daily walk, the motion blur is due to tracking
+
+
++--------+
+|  TAGS  |
++--------+
+willow "border collie" " blue merle" 

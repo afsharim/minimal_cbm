@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : The Eggplant
+Photo URL    : https://www.flickr.com/photos/eggplant/29203547/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 26 16:38:43 GMT+0200 2005
+Upload Date  : Thu Jul 28 12:01:31 GMT+0200 2005
+Geotag Info  : Latitude:49.300550, Longitude:-123.130903
+Views        : 60
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+otter aquarium floating 

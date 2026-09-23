@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : evil nickname
+Photo URL    : https://www.flickr.com/photos/evilnickname/19868298650/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 23 14:16:27 GMT+0200 2015
+Upload Date  : Mon Jul 27 16:54:09 GMT+0200 2015
+Geotag Info  : Latitude:51.514766, Longitude:5.105752
+Views        : 232
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Beekse Bergen" zoo safaripark "The Netherlands" Hilvarenbeek Nederland dierentuin otter 

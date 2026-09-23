@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Average Jane
+Photo URL    : https://www.flickr.com/photos/averagejane/3036756228/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 15 22:52:30 GMT+0100 2008
+Upload Date  : Mon Nov 17 01:55:30 GMT+0100 2008
+Views        : 266
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Siobhan is ready to play
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+collie frisbee 

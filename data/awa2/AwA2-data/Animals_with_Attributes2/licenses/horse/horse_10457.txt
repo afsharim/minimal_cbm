@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bagsgroove
+Photo URL    : https://www.flickr.com/photos/bagsgroove/5489639440/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Feb 28 16:19:23 GMT+0100 2011
+Upload Date  : Tue Mar 1 19:17:41 GMT+0100 2011
+Views        : 2,900
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Horse Curiosity
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The farmer was coming !
+
+
++--------+
+|  TAGS  |
++--------+
+horses staring 

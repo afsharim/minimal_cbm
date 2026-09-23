@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jlhopgood
+Photo URL    : https://www.flickr.com/photos/jlhopgood/6082934313/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 18 21:58:03 GMT+0200 2011
+Upload Date  : Fri Aug 26 20:25:13 GMT+0200 2011
+Geotag Info  : Latitude:27.946529, Longitude:-82.459266
+Views        : 265
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger Cuddles
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+tiger animal "busch gardens" 

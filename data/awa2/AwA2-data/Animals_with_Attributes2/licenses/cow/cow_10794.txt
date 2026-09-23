@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : X-Bofh
+Photo URL    : https://www.flickr.com/photos/xbofh/393984806/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 20 14:09:28 GMT+0200 2006
+Upload Date  : Sun Feb 18 14:26:32 GMT+0100 2007
+Geotag Info  : Latitude:43.318683, Longitude:-2.011013
+Views        : 103
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Flying cow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+spain nature cow gipuzkoa 

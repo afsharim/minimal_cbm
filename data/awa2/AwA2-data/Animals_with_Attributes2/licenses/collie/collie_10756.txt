@@ -1,0 +1,19 @@
++--------------------------------------+
+|       Pixabay Photo Metadata         |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : rihaij
+Photo URL    : https://pixabay.com/en/dog-border-collie-herding-dog-1307500/
+License      : CC0 Public Domain (https://creativecommons.org/publicdomain/zero/1.0/deed.en)
+Created      : April 3, 2016
+Uploaded     : 3 months ago
+
++--------+
+|  TAGS  |
++--------+
+Dog, Border Collie, Herding Dog, British Sheepdog

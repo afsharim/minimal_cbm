@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : kkirugi
+Photo URL    : https://www.flickr.com/photos/kkirugi/4923612498/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 20 17:10:45 GMT+0200 2010
+Upload Date  : Tue Aug 24 16:01:05 GMT+0200 2010
+Views        : 5,151
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+deer
+Children Grand Park
+Seoul, Korea
+
+
++--------+
+|  TAGS  |
++--------+
+deer 

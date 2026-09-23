@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Harlequeen
+Photo URL    : https://www.flickr.com/photos/harlequeen/9295894858/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 13 13:20:43 GMT+0200 2013
+Upload Date  : Mon Jul 15 21:52:11 GMT+0200 2013
+Geotag Info  : Latitude:52.410220, Longitude:-0.329418
+Views        : 6,466
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+zebra 2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+hamertonzoopark hamerton zebra mammal 

@@ -1,0 +1,38 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Todd Huffman
+Photo URL    : https://www.flickr.com/photos/oddwick/574776236/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 31 17:20:29 GMT+0200 2007
+Upload Date  : Wed Jun 20 12:26:36 GMT+0200 2007
+Geotag Info  : Latitude:51.442934, Longitude:-0.264272
+Views        : 1,068
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This is smack in the middle of London.   (Sort of <a href="http://maps.google.com/maps?f=q&amp;hl=de&amp;q=Richmond+Park,+Richmond,+Greater+London+TW10,+Vereinigtes+K%c3%b6nigreich&amp;sll=37.0625,-95.677071&amp;sspn=32.66491,59.238281&amp;ie=UTF8&amp;cd=1&amp;ll=51.493355,-0.280151&amp;spn=0.401,0.925598&amp;z=10&amp;om=1)" rel="nofollow">maps.google.com/maps?f=q&amp;hl=de&amp;q=Richmond+Park,+R...</a>
+The herd has been there for 380 years.
+
+´In 1625 Charles I brought his court to Richmond Palace to escape the plague in London and turned it into a park for red and fallow deer.' (from Wikipedia)
+
+
++--------+
+|  TAGS  |
++--------+
+deer urbanwildlife london richmondpark 

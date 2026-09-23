@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : JerryFrausto
+Photo URL    : https://www.flickr.com/photos/gorefiendus/2758715063/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 10 16:15:42 GMT+0200 2008
+Upload Date  : Wed Aug 13 10:25:45 GMT+0200 2008
+Geotag Info  : Latitude:38.138775, Longitude:-122.233457
+Views        : 713
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe eating frozen carrots
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Six Flags Discovery Kingdom Giraffe 

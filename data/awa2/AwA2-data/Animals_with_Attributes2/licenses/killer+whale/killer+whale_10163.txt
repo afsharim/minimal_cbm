@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Putneypics
+Photo URL    : https://www.flickr.com/photos/38983646@N06/3724918559/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Sep 1 04:34:25 GMT+0200 2006
+Upload Date  : Thu Jul 16 04:50:11 GMT+0200 2009
+Geotag Info  : Latitude:48.388634, Longitude:-122.803802
+Views        : 2,692
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+orca by alex
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+If you want a good picture, hand the carmera to your kid...
+
+
++--------+
+|  TAGS  |
++--------+
+"Port Townsend" Washington "killer whale" orca rainbow wildlife "Puget Sound" whale 

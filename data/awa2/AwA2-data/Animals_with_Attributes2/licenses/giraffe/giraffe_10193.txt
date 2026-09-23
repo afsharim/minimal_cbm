@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Drew Avery
+Photo URL    : https://www.flickr.com/photos/33590535@N06/5572975970/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Feb 19 16:03:38 GMT+0100 2010
+Upload Date  : Wed Mar 30 02:45:08 GMT+0200 2011
+Geotag Info  : Latitude:51.534163, Longitude:-0.160503
+Views        : 520
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe {Giraffa camelopardalis}
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+London Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+"London Zoo" Taxonomy:common=Giraffe "taxonomy:binomial=Giraffa camelopardalis" 

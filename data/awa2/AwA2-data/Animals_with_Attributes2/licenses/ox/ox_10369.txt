@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bobgoffi
+Photo URL    : https://www.flickr.com/photos/8607227@N08/22832358765/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 24 09:07:49 GMT+0200 2015
+Upload Date  : Fri Nov 6 21:00:46 GMT+0100 2015
+Views        : 9
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_3914.jpg
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

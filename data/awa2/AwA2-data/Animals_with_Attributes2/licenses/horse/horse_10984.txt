@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : barryskeates
+Photo URL    : https://www.flickr.com/photos/barryskeates/7963833426/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 1 14:58:37 GMT+0200 2012
+Upload Date  : Sun Sep 9 19:07:49 GMT+0200 2012
+Geotag Info  : Latitude:51.411413, Longitude:-1.287567
+Views        : 502
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+horses
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+canon 550d "Canon 550d" horses newbury berkshire 

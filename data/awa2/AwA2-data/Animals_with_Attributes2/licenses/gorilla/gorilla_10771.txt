@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Dave Proffer
+Photo URL    : https://www.flickr.com/photos/deepphoto/463726089/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Mar 20 12:35:03 GMT+0100 2007
+Upload Date  : Wed Apr 18 08:10:44 GMT+0200 2007
+Geotag Info  : Latitude:-1.549333, Longitude:29.476666
+Views        : 848
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Susa group, mountain gorillas
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+africa-0703 gorillas-susa Rwanda Ruhengeri 

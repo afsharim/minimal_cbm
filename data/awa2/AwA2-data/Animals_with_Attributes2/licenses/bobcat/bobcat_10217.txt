@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : donjd2
+Photo URL    : https://www.flickr.com/photos/ddebold/8396160535/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 19 13:49:00 GMT+0100 2013
+Upload Date  : Sun Jan 20 03:57:42 GMT+0100 2013
+Geotag Info  : Latitude:37.325200, Longitude:-121.706223
+Views        : 845
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bobcat in Joseph D Grant County Park
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+bobcat "grant county park" "San Jose" CA USA 

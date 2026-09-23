@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jon Olav
+Photo URL    : https://www.flickr.com/photos/jonolave/3730467064/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 12 16:41:19 GMT+0200 2009
+Upload Date  : Fri Jul 17 21:53:18 GMT+0200 2009
+Geotag Info  : Latitude:68.243618, Longitude:13.756427
+Views        : 5,737
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Wild pig
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Lofoten pig "wild boar" "wild pig" 

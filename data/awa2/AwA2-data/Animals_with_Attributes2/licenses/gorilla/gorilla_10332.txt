@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : chadh
+Photo URL    : https://www.flickr.com/photos/chadh-flickr/468165725/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 21 13:48:41 GMT+0200 2007
+Upload Date  : Sun Apr 22 12:28:49 GMT+0200 2007
+Geotag Info  : Latitude:37.733050, Longitude:-122.503137
+Views        : 2,221
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+gorilla yawn
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"San Francisco Zoo" gorilla yawn 

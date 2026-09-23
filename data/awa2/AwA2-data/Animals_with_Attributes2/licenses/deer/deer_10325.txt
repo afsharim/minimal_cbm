@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : steffens77
+Photo URL    : https://www.flickr.com/photos/steffens77/1173485319/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Aug 20 10:31:55 GMT+0200 2003
+Upload Date  : Sun Aug 19 21:53:15 GMT+0200 2007
+Geotag Info  : Latitude:43.654692, Longitude:-89.821643
+Views        : 302
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Wisconsin Dells" "Deer Park" animals 

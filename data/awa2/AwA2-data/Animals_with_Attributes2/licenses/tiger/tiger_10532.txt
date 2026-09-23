@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : damselfly58
+Photo URL    : https://www.flickr.com/photos/damselfly58/3578449224/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 28 13:48:30 GMT+0200 2009
+Upload Date  : Sat May 30 13:08:24 GMT+0200 2009
+Views        : 72
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+tiger "melbourne zoo" "sumatran tiger" 

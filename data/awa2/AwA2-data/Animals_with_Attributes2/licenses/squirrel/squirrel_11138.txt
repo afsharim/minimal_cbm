@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : vidalia_11
+Photo URL    : https://www.flickr.com/photos/56832361@N00/3998792084/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Oct 8 04:31:23 GMT+0200 2009
+Upload Date  : Sat Oct 10 20:09:17 GMT+0200 2009
+Views        : 111
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+The squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Photo by Mark.
+
+
++--------+
+|  TAGS  |
++--------+
+animals squirrel rodent tame park 

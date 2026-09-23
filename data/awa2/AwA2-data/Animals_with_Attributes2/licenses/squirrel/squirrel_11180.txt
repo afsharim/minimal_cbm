@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : soapbeard
+Photo URL    : https://www.flickr.com/photos/soapbeard/5346124269/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jan 11 13:08:56 GMT+0100 2011
+Upload Date  : Tue Jan 11 18:08:55 GMT+0100 2011
+Geotag Info  : Latitude:52.473671, Longitude:1.707558
+Views        : 32
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+What?
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"oulton broad" squirrel 

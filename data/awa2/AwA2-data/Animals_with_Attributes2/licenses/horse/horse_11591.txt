@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tim Green aka atoach
+Photo URL    : https://www.flickr.com/photos/atoach/5087447054/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 16 14:40:40 GMT+0200 2010
+Upload Date  : Sat Oct 16 22:20:55 GMT+0200 2010
+Views        : 22,637
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+White Horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+in the rain, Old Farnley, Leeds
+
+
++--------+
+|  TAGS  |
++--------+
+white horse 

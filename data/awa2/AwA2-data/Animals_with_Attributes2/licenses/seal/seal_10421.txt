@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ahisgett
+Photo URL    : https://www.flickr.com/photos/hisgett/15574459510/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Oct 8 11:09:26 GMT+0200 2014
+Upload Date  : Mon Nov 10 20:41:01 GMT+0100 2014
+Geotag Info  : Latitude:36.810793, Longitude:-121.786582
+Views        : 873
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+Harbor Seal
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+California 

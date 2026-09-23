@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Kaeru
+Photo URL    : https://www.flickr.com/photos/kaeru/9875124555/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 22 16:22:48 GMT+0200 2013
+Upload Date  : Sun Sep 22 16:22:48 GMT+0200 2013
+Geotag Info  : Latitude:52.092310, Longitude:5.190912
+Views        : 115
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"instagram app" square "square format" iphoneography uploaded:by=instagram foursquare:venue=4baf5c80f964a5204afa3be3 

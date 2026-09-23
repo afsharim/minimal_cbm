@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Meerling
+Photo URL    : https://www.flickr.com/photos/meerling/163815395/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 9 14:15:03 GMT+0200 2006
+Upload Date  : Fri Jun 9 23:15:03 GMT+0200 2006
+Views        : 8
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSCN0963
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+rats 

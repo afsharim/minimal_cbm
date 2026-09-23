@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mr. Littlehand
+Photo URL    : https://www.flickr.com/photos/73577218@N00/5480223358/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 19 18:50:09 GMT+0100 2011
+Upload Date  : Sat Feb 26 23:21:24 GMT+0100 2011
+Views        : 159
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer at Hollywood reservoir
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"hollywood reservoir" hollywood deer 

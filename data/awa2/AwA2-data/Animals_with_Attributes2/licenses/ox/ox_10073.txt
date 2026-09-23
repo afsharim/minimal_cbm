@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mariachily
+Photo URL    : https://www.flickr.com/photos/mariachily/5505639628/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 5 18:19:39 GMT+0100 2011
+Upload Date  : Mon Mar 7 08:56:53 GMT+0100 2011
+Views        : 29
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+aww
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : EVERYMAN FILMS
+Photo URL    : https://www.flickr.com/photos/seattlecamera/14406829536/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 14 14:47:40 GMT+0200 2014
+Upload Date  : Sun Jun 15 21:37:51 GMT+0200 2014
+Geotag Info  : Latitude:51.331808, Longitude:1.114025
+Views        : 313
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DEER
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

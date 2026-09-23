@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Splotch1
+Photo URL    : https://www.flickr.com/photos/splotch1/4827895472/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 14 10:09:30 GMT+0200 2010
+Upload Date  : Sun Jul 25 20:47:28 GMT+0200 2010
+Views        : 100
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Chubster
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Chubster my new hamster
+
+
++--------+
+|  TAGS  |
++--------+
+Chubster Hamster 

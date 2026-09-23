@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : dr. friendly
+Photo URL    : https://www.flickr.com/photos/57777529@N02/5398832374/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 29 12:05:16 GMT+0100 2011
+Upload Date  : Sat Jan 29 19:48:35 GMT+0100 2011
+Geotag Info  : Latitude:53.240091, Longitude:10.048997
+Views        : 198
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+damwild
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+fallow deer
+
+
++--------+
+|  TAGS  |
++--------+
+damwild "fallow deer" 

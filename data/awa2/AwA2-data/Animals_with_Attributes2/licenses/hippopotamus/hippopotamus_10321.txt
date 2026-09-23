@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : diana_robinson
+Photo URL    : https://www.flickr.com/photos/dianasch/16333965057/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Feb 14 01:32:37 GMT+0100 2012
+Upload Date  : Fri Feb 13 17:36:13 GMT+0100 2015
+Geotag Info  : Latitude:-2.113107, Longitude:34.870147
+Views        : 3,789
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Hippopotamus in the Serengeti, Tanzania
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Hippopotamus (Hippopotamus amphibius) in the Serengeti, Tanzania
+
+
++--------+
+|  TAGS  |
++--------+
+Hippos Serengeti "East Africa" Tanzania "Nikon D3s" "Diana Robinson" "Hippopotamus amphibius" Hippopotamus 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : corie.bidgood
+Photo URL    : https://www.flickr.com/photos/123320664@N04/13864886015/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 5 14:30:33 GMT+0200 2012
+Upload Date  : Tue Apr 15 08:17:22 GMT+0200 2014
+Geotag Info  : Latitude:-25.040815, Longitude:31.624145
+Views        : 371
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebras
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Kruger Park, SA
+
+
++--------+
+|  TAGS  |
++--------+
+KrugerPark SouthAfrica Africa Zebras Safari Animals Nature NationalGeographic Travel World 

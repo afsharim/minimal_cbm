@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Simon Harriyott
+Photo URL    : https://www.flickr.com/photos/harriyott/5222083192/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Nov 9 15:11:22 GMT+0100 2010
+Upload Date  : Tue Nov 30 22:41:10 GMT+0100 2010
+Views        : 33
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

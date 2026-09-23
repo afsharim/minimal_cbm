@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/8275981851/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 25 16:18:08 GMT+0200 2012
+Upload Date  : Sun Dec 16 06:29:41 GMT+0100 2012
+Geotag Info  : Latitude:46.565115, Longitude:6.773371
+Views        : 4,315
+Comments     : 13
+
+
++---------+
+|  TITLE  |
++---------+
+Bear in the grasses
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+One of the brown bears (a couple) walking in the grass...
+
+
++--------+
+|  TAGS  |
++--------+
+brown bear walking grass female servion zoo lausanne switzerland nikon d4 

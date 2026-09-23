@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : spots pics
+Photo URL    : https://www.flickr.com/photos/71868399@N02/7164231281/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 7 09:37:31 GMT+0200 2012
+Upload Date  : Thu Jun 7 22:53:18 GMT+0200 2012
+Views        : 42
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

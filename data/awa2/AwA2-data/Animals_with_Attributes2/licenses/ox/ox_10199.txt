@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : farewellutopia
+Photo URL    : https://www.flickr.com/photos/farewellutopia/6009194881/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Aug 2 11:06:59 GMT+0200 2011
+Upload Date  : Thu Aug 4 22:18:35 GMT+0200 2011
+Views        : 18
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_0068
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

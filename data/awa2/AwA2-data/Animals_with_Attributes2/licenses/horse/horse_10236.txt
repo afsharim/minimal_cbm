@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : dmytrok
+Photo URL    : https://www.flickr.com/photos/klimenko/4633465232/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 23 12:29:40 GMT+0200 2010
+Upload Date  : Sun May 23 23:43:46 GMT+0200 2010
+Geotag Info  : Latitude:49.378181, Longitude:10.180120
+Views        : 491
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Der Meistertrunk
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Rothenburg ob der Tauber, Germany
+
+
++--------+
+|  TAGS  |
++--------+
+meistertrunk Rothenburg ob der Tauber Germany bayern franken pferd horse rider reiter deutschland 

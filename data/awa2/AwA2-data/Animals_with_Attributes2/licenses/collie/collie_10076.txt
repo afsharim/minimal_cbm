@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Victoria Reay
+Photo URL    : https://www.flickr.com/photos/vkreay/138990624/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 2 17:06:56 GMT+0200 2004
+Upload Date  : Tue May 2 11:59:41 GMT+0200 2006
+Views        : 2,731
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Ben dog
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Maureen, Stuart, and Stephanie's dog.
+
+
++--------+
+|  TAGS  |
++--------+
+"border collie" dog ben 

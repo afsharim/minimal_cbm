@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ruth and Dave
+Photo URL    : https://www.flickr.com/photos/ruthanddave/50843974/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 23 00:00:00 GMT+0200 1997
+Upload Date  : Sun Oct 9 19:29:33 GMT+0200 2005
+Geotag Info  : Latitude:2.277603, Longitude:31.677875
+Views        : 470
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Hippos, Murchison Falls National Park
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+hippos hippopotamus "murchison falls" uganda 

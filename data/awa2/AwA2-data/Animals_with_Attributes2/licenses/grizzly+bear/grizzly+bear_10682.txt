@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Zoo Hluboka
+Photo URL    : https://commons.wikimedia.org/wiki/File:Medv%C4%9Bd_plav%C3%BD_(Ursus_arctos_isabellinus).jpg
+License      : Creative Commons (https://en.wikipedia.org/wiki/en:Creative_Commons) Attribution-Share Alike 4.0 International (//creativecommons.org/licenses/by-sa/4.0/deed.en)
+Date         : 2014-10-08 14:04:02

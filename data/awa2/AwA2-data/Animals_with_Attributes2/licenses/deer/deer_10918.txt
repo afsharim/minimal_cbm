@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : channone
+Photo URL    : https://www.flickr.com/photos/channone/3696619309/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 5 16:58:41 GMT+0200 2009
+Upload Date  : Tue Jul 7 09:30:59 GMT+0200 2009
+Geotag Info  : Latitude:40.250249, Longitude:-94.333076
+Views        : 179
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_1261
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Deer
+
+
++--------+
+|  TAGS  |
++--------+
+Missouri Albany deer 

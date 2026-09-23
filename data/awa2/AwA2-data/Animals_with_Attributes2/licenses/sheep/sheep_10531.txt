@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : stanzebla
+Photo URL    : https://www.flickr.com/photos/stanzebla/9204538818/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 15 18:52:04 GMT+0200 2013
+Upload Date  : Wed Jul 3 23:24:36 GMT+0200 2013
+Views        : 617
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+On charges of wool theft
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+&quot;Where's my wool?&quot;
+Des Wolldiebstahls angeklagt. &quot;Wo ist meine Wolle?&quot;
+
+
++--------+
+|  TAGS  |
++--------+
+"shorn sheep" "geschorene Schafe" 

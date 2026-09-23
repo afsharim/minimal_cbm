@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jac099
+Photo URL    : https://www.flickr.com/photos/jac099/17837497938/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 16 12:59:41 GMT+0200 2015
+Upload Date  : Sun May 24 05:04:37 GMT+0200 2015
+Views        : 70
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hippopotamus
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+<a href="http://www.wired.com/2013/12/hippopotamus-ranching/" rel="nofollow">www.wired.com/2013/12/hippopotamus-ranching/</a>
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

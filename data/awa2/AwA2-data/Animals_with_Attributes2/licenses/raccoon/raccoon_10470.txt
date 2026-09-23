@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/6195969400/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 9 11:32:31 GMT+0200 2011
+Upload Date  : Thu Sep 29 21:00:21 GMT+0200 2011
+Geotag Info  : Latitude:52.702030, Longitude:10.262775
+Views        : 6,738
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Walking raccoon
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+One of the few raccoons of the Filmtierpark Eschede walking in the grass.
+
+
++--------+
+|  TAGS  |
++--------+
+raccoon mammal brown walking pacing grass filmtierpark eschede germany nikon d700 

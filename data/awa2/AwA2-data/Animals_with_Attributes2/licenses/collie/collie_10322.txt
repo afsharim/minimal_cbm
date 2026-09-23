@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sjbroom
+Photo URL    : https://www.flickr.com/photos/broomy/25769919444/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 19 08:30:21 GMT+0100 2013
+Upload Date  : Mon Apr 11 21:07:18 GMT+0200 2016
+Views        : 15
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_0018
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"border collie" dog 

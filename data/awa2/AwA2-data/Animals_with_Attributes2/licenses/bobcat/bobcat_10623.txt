@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Immortel
+Photo URL    : https://www.flickr.com/photos/immortel/7961321326/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 8 14:57:37 GMT+0200 2012
+Upload Date  : Sun Sep 9 11:45:59 GMT+0200 2012
+Views        : 171
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Two big kitties at Ähtäri zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+lynx ähtäri zoo 

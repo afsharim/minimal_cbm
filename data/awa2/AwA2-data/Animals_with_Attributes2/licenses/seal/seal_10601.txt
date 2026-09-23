@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mike__Lawrence
+Photo URL    : https://www.flickr.com/photos/mike__lawrence/23421105113/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Dec 28 13:22:40 GMT+0100 2015
+Upload Date  : Tue Dec 29 18:02:24 GMT+0100 2015
+Views        : 88
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Norfolk Seals
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Seals "Grey Seals" Seal "Norfolk Seals" "Norfolk Seal" 

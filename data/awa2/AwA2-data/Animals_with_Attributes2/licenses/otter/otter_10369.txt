@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jlhopgood
+Photo URL    : https://www.flickr.com/photos/jlhopgood/7255447848/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed May 23 11:22:41 GMT+0200 2012
+Upload Date  : Wed May 23 15:15:56 GMT+0200 2012
+Geotag Info  : Latitude:50.899299, Longitude:-1.516260
+Views        : 135
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"The New Forest Wildlife Park" Otter 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Achre
+Photo URL    : https://www.flickr.com/photos/62358201@N04/5674802329/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 30 10:00:08 GMT+0200 2011
+Upload Date  : Sun May 1 11:49:51 GMT+0200 2011
+Geotag Info  : Latitude:52.504957, Longitude:13.528761
+Views        : 364
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+tiger zoo animals tiergarten berlin 

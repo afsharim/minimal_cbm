@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ardet
+Photo URL    : https://www.flickr.com/photos/ardet/3807769984/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 6 11:48:08 GMT+0200 2009
+Upload Date  : Mon Aug 10 13:35:02 GMT+0200 2009
+Views        : 340
+Comments     : 14
+
+
++---------+
+|  TITLE  |
++---------+
+Breakfast
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Esquirol fent l'esmorzar del dia a Hyde Park
+
+
++--------+
+|  TAGS  |
++--------+
+esquirol ardilla londres squirrel 

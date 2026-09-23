@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : kat.dodd
+Photo URL    : https://www.flickr.com/photos/katdodd/3521982030/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 11 18:10:48 GMT+0200 2009
+Upload Date  : Mon May 11 13:21:24 GMT+0200 2009
+Geotag Info  : Latitude:52.512695, Longitude:-4.053354
+Views        : 45
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep 9
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

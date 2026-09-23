@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : husbandunit
+Photo URL    : https://www.flickr.com/photos/70172955@N00/2288713741/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jan 2 14:28:41 GMT+0100 2008
+Upload Date  : Sun Feb 24 21:36:42 GMT+0100 2008
+Views        : 75
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Colchester zoo" tiger Essex "United Kingdom" colchester uk 

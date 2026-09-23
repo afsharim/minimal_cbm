@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Bering Land Bridge National Preserve
+Photo URL    : https://www.flickr.com/photos/bering_land_bridge/3766818218/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 27 19:09:47 GMT+0200 2006
+Upload Date  : Tue Jul 28 21:41:46 GMT+0200 2009
+Views        : 5,841
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Least Weasel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Mustela nivalis, Latin name of the least weasel.
+
+
++--------+
+|  TAGS  |
++--------+
+"National Park Service" "Bering Land Bridge National Preserve" "National Park" Alaska "Least Weasel" Ermine "Cottonwood Shelter Cabin" Wildlife 

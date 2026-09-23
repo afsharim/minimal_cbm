@@ -1,0 +1,39 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : berniedup
+Photo URL    : https://www.flickr.com/photos/berniedup/19647856508/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Mar 1 00:00:00 GMT+0100 1991
+Upload Date  : Sun Jul 19 21:33:36 GMT+0200 2015
+Geotag Info  : Latitude:26.021154, Longitude:76.454114
+Views        : 394
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger (Panthera tigris) juvenile
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Ranthambore NP, Rajasthan, INDIA
+
+ 
+
+Scanned Slide from March 1991
+
+
++--------+
+|  TAGS  |
++--------+
+INDIA "Panthera tigris" Rajasthan Ranthambore "Taxonomy:binomial=Panthera tigris" Tiger 

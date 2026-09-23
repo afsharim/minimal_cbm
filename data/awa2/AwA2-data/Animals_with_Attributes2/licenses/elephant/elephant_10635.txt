@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : llee_wu
+Photo URL    : https://www.flickr.com/photos/13523064@N03/16351445362/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jan 21 15:39:28 GMT+0100 2015
+Upload Date  : Sat Jan 24 05:56:08 GMT+0100 2015
+Views        : 105
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+2015 Guangzhou ZOO elephant 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ElizaC3
+Photo URL    : https://www.flickr.com/photos/93413187@N06/8491421219/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Feb 20 14:57:29 GMT+0100 2013
+Upload Date  : Wed Feb 20 15:31:54 GMT+0100 2013
+Views        : 16
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+qwedsa 

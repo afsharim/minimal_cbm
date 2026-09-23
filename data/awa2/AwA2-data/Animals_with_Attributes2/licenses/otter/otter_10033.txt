@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : woofiegrrl
+Photo URL    : https://www.flickr.com/photos/meredith/74322299/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Dec 16 23:58:38 GMT+0100 2005
+Upload Date  : Sat Dec 17 05:58:38 GMT+0100 2005
+Geotag Info  : Latitude:38.914444, Longitude:-77.251739
+Views        : 1,710
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Baby Otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+otter "baby animals" 

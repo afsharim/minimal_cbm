@@ -1,0 +1,38 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : naturalengland
+Photo URL    : https://www.flickr.com/photos/naturalengland/6383916965/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Nov 11 12:26:15 GMT+0100 2011
+Upload Date  : Tue Nov 22 17:59:09 GMT+0100 2011
+Views        : 713
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Pigs
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Free range pigs 
+Burnham Beeches National Nature Reserve  
+near Slough 
+Buckingham 
+Copyright Paul Glendell/Natural England
+
+
++--------+
+|  TAGS  |
++--------+
+"Burnham Beeches" "National Nature Reserve" 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Wrenaissance
+Photo URL    : https://www.flickr.com/photos/wrenaissance/533854490/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Nov 28 13:40:10 GMT+0100 2002
+Upload Date  : Thu Jun 7 02:51:01 GMT+0200 2007
+Views        : 187
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+tiger_1536
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+See more at <a href="http://wrenaissance.com" rel="nofollow">Wrenaissance Reflections</a>
+
+
++--------+
+|  TAGS  |
++--------+
+tigers 

@@ -1,0 +1,19 @@
++--------------------------------------+
+|       Pixabay Photo Metadata         |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sarangib
+Photo URL    : https://pixabay.com/en/bat-flying-fox-animal-mammal-hang-672815/
+License      : CC0 Public Domain (https://creativecommons.org/publicdomain/zero/1.0/deed.en)
+Created      : March 12, 2015
+Uploaded     : March 16, 2015
+
++--------+
+|  TAGS  |
++--------+
+Bat, Flying Fox, Animal, Mammal, Hang, Hanging, Claws

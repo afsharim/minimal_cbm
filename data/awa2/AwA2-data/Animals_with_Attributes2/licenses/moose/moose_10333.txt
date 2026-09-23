@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ideatrendz
+Photo URL    : https://www.flickr.com/photos/ideatrendz/3573749473/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon May 25 19:26:56 GMT+0200 2009
+Upload Date  : Fri May 29 00:24:25 GMT+0200 2009
+Views        : 3
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Moose
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ken Corregan
+Photo URL    : https://www.flickr.com/photos/kensbirds/2965760444/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Sep 29 17:41:17 GMT+0200 2008
+Upload Date  : Thu Oct 23 01:37:59 GMT+0200 2008
+Views        : 125
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+BACKYARD BOBCAT
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

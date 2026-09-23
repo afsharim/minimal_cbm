@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bert_m_b
+Photo URL    : https://www.flickr.com/photos/bert_m_b/2397701256/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Apr 7 18:18:52 GMT+0200 2008
+Upload Date  : Tue Apr 8 04:00:26 GMT+0200 2008
+Views        : 276
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Wee Sheep (Itchy)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+lamb sheep 

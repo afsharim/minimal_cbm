@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : __Wichid__
+Photo URL    : https://www.flickr.com/photos/-wichid/4738187922/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 26 13:54:26 GMT+0200 2010
+Upload Date  : Sun Jun 27 10:58:35 GMT+0200 2010
+Geotag Info  : Latitude:-37.786521, Longitude:144.949836
+Views        : 665
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sumatran Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Give me a nibble.
+
+
++--------+
+|  TAGS  |
++--------+
+"Melbourne Zoo Tiger Cubs" 

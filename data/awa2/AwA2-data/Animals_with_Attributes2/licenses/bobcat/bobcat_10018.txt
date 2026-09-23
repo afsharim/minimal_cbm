@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/6206080799/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 9 18:10:38 GMT+0200 2011
+Upload Date  : Mon Oct 3 06:31:03 GMT+0200 2011
+Geotag Info  : Latitude:52.702030, Longitude:10.262775
+Views        : 14,140
+Comments     : 21
+
+
++---------+
+|  TITLE  |
++---------+
+Profile portrait of Luca the lynx
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This is a profile portrait of Luca, one of the lynxes of the Filmtierpark Eschede. He is really beautiful! :)
+
+
++--------+
+|  TAGS  |
++--------+
+lynx feline wild cat posing sitting male grass portrait face profile filmtierpark eschede germany nikon d700 

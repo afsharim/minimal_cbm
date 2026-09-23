@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Joanna Bourne
+Photo URL    : https://www.flickr.com/photos/66992990@N00/2408212569/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Mar 15 16:35:06 GMT+0100 2006
+Upload Date  : Sun Apr 13 02:01:25 GMT+0200 2008
+Views        : 3,624
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+dog and cat on sofa in front of the fire
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+cat and dog on sofa in front of the fire.  Himalayan, collie
+
+
++--------+
+|  TAGS  |
++--------+
+animals dog cat collie "persian cat" Himalayan 

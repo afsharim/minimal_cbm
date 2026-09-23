@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Matt Ritchie
+Photo URL    : https://www.flickr.com/photos/mattritchie/2263036556/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 30 18:06:04 GMT+0200 2007
+Upload Date  : Wed Feb 13 15:37:26 GMT+0100 2008
+Views        : 18
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_0145
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+pig 

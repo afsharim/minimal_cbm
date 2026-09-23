@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : alan goudy
+Photo URL    : https://www.flickr.com/photos/95561244@N02/8719003384/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Apr 16 14:11:41 GMT+0200 2008
+Upload Date  : Tue May 7 23:46:34 GMT+0200 2013
+Views        : 131
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+otters
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

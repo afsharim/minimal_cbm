@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : | sabu |
+Photo URL    : https://www.flickr.com/photos/saschabucher/5519311867/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Nov 18 14:59:06 GMT+0100 2009
+Upload Date  : Sat Mar 12 15:15:59 GMT+0100 2011
+Views        : 902
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Schwein
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Tier Schwein xxx 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : T. Carrigan
+Photo URL    : https://www.flickr.com/photos/tcarrigan/2760704062/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 10 03:46:38 GMT+0200 2008
+Upload Date  : Wed Aug 13 20:33:05 GMT+0200 2008
+Geotag Info  : Latitude:42.002876, Longitude:-74.433145
+Views        : 39
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_0101
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+catskills ny claryville horses carrigan 

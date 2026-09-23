@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Makuahine Pa'i Ki'i
+Photo URL    : https://www.flickr.com/photos/hawaii-mcgraths/571295877/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 11 20:33:16 GMT+0200 2005
+Upload Date  : Sun Jun 12 05:33:16 GMT+0200 2005
+Views        : 56
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Centers Beach seal
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

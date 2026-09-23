@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Andrew D Smith
+Photo URL    : https://www.flickr.com/photos/andrewdsmith/2822007323/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 30 18:15:15 GMT+0200 2008
+Upload Date  : Tue Sep 2 22:40:56 GMT+0200 2008
+Views        : 57
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+dsc_0503.jpg
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horse 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ☺ Lee J Haywood
+Photo URL    : https://www.flickr.com/photos/leehaywood/5120907461/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 2 12:24:37 GMT+0200 2010
+Upload Date  : Wed Oct 27 21:38:50 GMT+0200 2010
+Views        : 402
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Swishing tail
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A happy horse.
+
+
++--------+
+|  TAGS  |
++--------+
+horse "swishing tail" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jccalvo
+Photo URL    : https://www.flickr.com/photos/24300137@N02/3749451680/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 20 03:23:32 GMT+0200 2009
+Upload Date  : Thu Jul 23 15:45:14 GMT+0200 2009
+Geotag Info  : Latitude:-33.870415, Longitude:151.210327
+Views        : 45
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Murciélago
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Bat Sydney 

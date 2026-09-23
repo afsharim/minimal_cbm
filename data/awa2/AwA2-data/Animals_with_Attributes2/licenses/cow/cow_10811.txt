@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Simmy's Photography
+Photo URL    : https://www.flickr.com/photos/simmysphotos/7443537894/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 25 18:10:47 GMT+0200 2012
+Upload Date  : Tue Jun 26 00:08:03 GMT+0200 2012
+Geotag Info  : Latitude:55.723000, Longitude:-4.403500
+Views        : 3,678
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Friesian cow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Friesian Cow 

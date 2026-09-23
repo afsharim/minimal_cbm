@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jonesemyr
+Photo URL    : https://www.flickr.com/photos/47557199@N03/5845273438/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 26 13:29:01 GMT+0200 2011
+Upload Date  : Sat Jun 18 14:56:47 GMT+0200 2011
+Geotag Info  : Latitude:28.409078, Longitude:-16.566457
+Views        : 1,535
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Killer Whale at Loro Parque
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Loro Parque Tenerife May 2011.
+
+
++--------+
+|  TAGS  |
++--------+
+"Killer Whales" "Loro Parque" Tenerife 

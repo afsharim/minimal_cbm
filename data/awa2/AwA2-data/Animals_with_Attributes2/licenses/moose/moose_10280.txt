@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ynskjen
+Photo URL    : https://www.flickr.com/photos/20299709@N00/231967876/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 29 12:13:38 GMT+0100 2004
+Upload Date  : Sat Sep 2 20:00:26 GMT+0200 2006
+Geotag Info  : Latitude:52.778106, Longitude:6.897525
+Views        : 1,205
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+moose
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+I've been hunted while capturing this picture
+<a href="http://flickr.com/photos/70823799@N00/238609286/">flickr.com/photos/70823799@N00/238609286/</a>
+
+
++--------+
+|  TAGS  |
++--------+
+moose emmen gewei nature fauna 

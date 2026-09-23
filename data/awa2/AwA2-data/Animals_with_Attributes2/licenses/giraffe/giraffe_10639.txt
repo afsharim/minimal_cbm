@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : brian.gratwicke
+Photo URL    : https://www.flickr.com/photos/briangratwicke/8325773339/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Dec 27 08:07:02 GMT+0100 2012
+Upload Date  : Sun Dec 30 19:08:02 GMT+0100 2012
+Geotag Info  : Latitude:-17.837950, Longitude:31.088712
+Views        : 2,051
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Mukuvisi Woodlands" Harare Zimbabwe taxonomy:kingdom=Animalia Animalia taxonomy:phylum=Chordata Chordata taxonomy:class=Mammalia Mammalia taxonomy:order=Artiodactyla Artiodactyla taxonomy:family=Giraffidae Giraffidae taxonomy:genus=Giraffa Giraffa taxonomy:species=camelopardalis "taxonomy:binomial=Giraffa camelopardalis" Giraffe "Giraffa camelopardalis" "Niger Giraffe" "Nigerien Giraffe" "West African Giraffe" taxonomy:common=Giraffe "taxonomy:common=Niger Giraffe" "taxonomy:common=Nigerien Giraffe" "taxonomy:common=West African Giraffe" 

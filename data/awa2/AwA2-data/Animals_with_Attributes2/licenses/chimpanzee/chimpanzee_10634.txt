@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : pelican
+Photo URL    : https://www.flickr.com/photos/pelican/15867645745/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 22 09:26:02 GMT+0100 2014
+Upload Date  : Mon Nov 24 13:06:40 GMT+0100 2014
+Views        : 297
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Taronga zoo, Sydney, Australia
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Sigma 70-300mm F4-5.6 Macro" K-5 "taronga zoo" sydney zoo chimpanzee 

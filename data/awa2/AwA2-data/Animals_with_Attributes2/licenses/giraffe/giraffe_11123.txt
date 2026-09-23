@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Michael Fraley
+Photo URL    : https://www.flickr.com/photos/mrfraley/14800700531/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 22 13:59:00 GMT+0200 2014
+Upload Date  : Fri Aug 1 21:03:49 GMT+0200 2014
+Views        : 131
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+San Francisco Zoo 219
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Olympus E-420
+Zuiko 14-42mm/f3.5-5.6
+Auto ISO
+07/07/2014
+
+
++--------+
+|  TAGS  |
++--------+
+Giraffe 

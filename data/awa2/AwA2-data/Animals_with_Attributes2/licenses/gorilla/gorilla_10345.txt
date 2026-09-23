@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : pfly
+Photo URL    : https://www.flickr.com/photos/pfly/182065181/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 4 06:02:52 GMT+0200 2006
+Upload Date  : Wed Jul 5 04:09:54 GMT+0200 2006
+Views        : 1,244
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Gorilla
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+gorilla seattle zoo 

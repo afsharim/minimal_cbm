@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : NatalieMaynor
+Photo URL    : https://www.flickr.com/photos/nataliemaynor/125263596/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 8 12:09:11 GMT+0200 2006
+Upload Date  : Sat Apr 8 21:09:11 GMT+0200 2006
+Views        : 569
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Cemetery Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Vicksburg National Cemetery
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel cemetery Vicksburg Mississippi 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : NatalieMaynor
+Photo URL    : https://www.flickr.com/photos/nataliemaynor/1030725919/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 6 00:00:00 GMT+0200 2007
+Upload Date  : Mon Aug 6 21:22:35 GMT+0200 2007
+Views        : 622
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Cows
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Norwegian cows soaking up the summer sun.
+
+
++--------+
+|  TAGS  |
++--------+
+Oslo Norway cows 

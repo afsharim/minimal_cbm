@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Land Rover Our Planet
+Photo URL    : https://www.flickr.com/photos/our-planet/5936174013/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Feb 26 15:22:03 GMT+0100 2009
+Upload Date  : Thu Jul 14 12:55:44 GMT+0200 2011
+Geotag Info  : Latitude:48.665500, Longitude:19.701740
+Views        : 1,406
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+A lynx seen on the Biosphere Expedition in Slovakia
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Land Rover Our Planet" "Biosphere Expeditions" Slovakia Lynx Voluntourism 

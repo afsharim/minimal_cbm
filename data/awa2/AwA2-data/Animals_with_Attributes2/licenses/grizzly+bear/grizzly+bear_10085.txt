@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : John Critchley
+Photo URL    : https://www.flickr.com/photos/10094212@N05/15452804465/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 4 12:36:54 GMT+0200 2014
+Upload Date  : Mon Oct 6 01:13:16 GMT+0200 2014
+Geotag Info  : Latitude:50.593699, Longitude:-124.852066
+Views        : 610
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+811_1636.jpg
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Ursus arctos
+
+
++--------+
+|  TAGS  |
++--------+
+Grizzly fishing 

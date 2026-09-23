@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jacky_oh_yeah
+Photo URL    : https://www.flickr.com/photos/jacky_oh_yeah/2969374519/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Oct 20 15:05:34 GMT+0200 2008
+Upload Date  : Fri Oct 24 22:05:34 GMT+0200 2008
+Views        : 263
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+hay is for horses
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horses 

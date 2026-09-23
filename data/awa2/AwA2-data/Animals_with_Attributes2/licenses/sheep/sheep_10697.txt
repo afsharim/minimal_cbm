@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jo Reeve
+Photo URL    : https://www.flickr.com/photos/jo_garbutt/14046929962/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 26 16:40:29 GMT+0200 2014
+Upload Date  : Mon Apr 28 16:28:24 GMT+0200 2014
+Geotag Info  : Latitude:52.905962, Longitude:1.258412
+Views        : 117
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep and Lambs
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Felbrigg Hall
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

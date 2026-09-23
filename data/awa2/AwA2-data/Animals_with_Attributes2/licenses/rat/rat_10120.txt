@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : njh
+Photo URL    : https://www.flickr.com/photos/njh/13401273/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Mar 29 23:28:49 GMT+0200 2005
+Upload Date  : Wed May 11 13:41:20 GMT+0200 2005
+Views        : 400
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+'Bunny' the Rat
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+rat 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Carsten aus Bonn
+Photo URL    : https://www.flickr.com/photos/zickzangel/4869366921/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 3 20:14:43 GMT+0200 2010
+Upload Date  : Sat Aug 7 23:11:09 GMT+0200 2010
+Geotag Info  : Latitude:50.734662, Longitude:7.098965
+Views        : 137
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+LOH 

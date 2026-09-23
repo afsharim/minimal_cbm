@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : lightmatter
+Photo URL    : https://www.flickr.com/photos/lightmatter/2306045150/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 2 14:55:23 GMT+0100 2008
+Upload Date  : Sun Mar 2 23:55:23 GMT+0100 2008
+Views        : 85
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+animal 

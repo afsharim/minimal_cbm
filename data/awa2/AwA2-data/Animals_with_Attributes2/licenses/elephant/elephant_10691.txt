@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Bluelemur
+Photo URL    : https://www.flickr.com/photos/bluelemur/87500673/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 8 22:19:24 GMT+0200 2005
+Upload Date  : Mon Jan 16 22:00:00 GMT+0100 2006
+Views        : 495
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephants
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+On a river safari from Mvuu Lodge in Malawi.
+
+
++--------+
+|  TAGS  |
++--------+
+malawi africa animals elephant 

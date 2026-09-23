@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ingunn@remax.is
+Photo URL    : https://www.flickr.com/photos/mynd/243277832/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Sep 14 16:52:58 GMT+0200 2006
+Upload Date  : Thu Sep 14 20:20:35 GMT+0200 2006
+Views        : 879
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Icelandic horse" "Íslenski hesturinn" Iceland Ísland horse hestur ihn "Icelandic animal" "Íslensk dýr" Animals Dýr Animal ihn_picture Icelandic photos 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Greg Walters
+Photo URL    : https://www.flickr.com/photos/gregwalters/2224182456/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 3 00:19:39 GMT+0100 2006
+Upload Date  : Sun Jan 27 21:44:05 GMT+0100 2008
+Views        : 33
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Spelunking
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+bsa bat 

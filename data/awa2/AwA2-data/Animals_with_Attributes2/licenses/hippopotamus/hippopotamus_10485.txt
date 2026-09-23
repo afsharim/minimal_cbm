@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mitchell3417
+Photo URL    : https://www.flickr.com/photos/mitchell3417/2640181032/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 2 18:50:57 GMT+0200 2008
+Upload Date  : Sat Jul 5 22:10:50 GMT+0200 2008
+Views        : 573
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hungry Hippo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Hippo 

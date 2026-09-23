@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Orion Wiseman
+Photo URL    : https://www.flickr.com/photos/79305942@N00/2819625213/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Aug 6 16:00:01 GMT+0200 2008
+Upload Date  : Tue Sep 2 05:29:27 GMT+0200 2008
+Views        : 30
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

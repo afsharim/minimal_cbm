@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : goatsgreetings
+Photo URL    : https://www.flickr.com/photos/71641788@N00/4872452326/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 2 07:10:49 GMT+0200 2006
+Upload Date  : Sun Aug 8 18:48:58 GMT+0200 2010
+Geotag Info  : Latitude:56.159986, Longitude:-4.075103
+Views        : 692
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A Giraffe in Blairdrummond Safari Park.
+
+
++--------+
+|  TAGS  |
++--------+
+Giraffe Blairdrummond Safari 

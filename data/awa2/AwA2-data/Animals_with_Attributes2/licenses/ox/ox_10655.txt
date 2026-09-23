@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tudor Passion
+Photo URL    : https://www.flickr.com/photos/mem0rex/12142820585/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 25 16:33:30 GMT+0100 2014
+Upload Date  : Sun Jan 26 01:57:57 GMT+0100 2014
+Views        : 100
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+flickriosapp:filter=NoFilter uploaded:by=flickr_mobile 

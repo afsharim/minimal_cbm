@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : flamesworddragon
+Photo URL    : https://www.flickr.com/photos/flamesworddragon/6333220964/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Nov 1 12:45:37 GMT+0100 2011
+Upload Date  : Thu Nov 10 23:46:35 GMT+0100 2011
+Geotag Info  : Latitude:51.479512, Longitude:-2.363948
+Views        : 292
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer at Dyrham Park 2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Dryham Park" Deer 

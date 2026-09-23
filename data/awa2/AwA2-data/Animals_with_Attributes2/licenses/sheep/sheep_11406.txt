@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : CaptainBagpuss
+Photo URL    : https://www.flickr.com/photos/79245843@N02/9183656685/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 7 10:25:55 GMT+0200 2012
+Upload Date  : Mon Jul 1 19:00:10 GMT+0200 2013
+Views        : 73
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Wooly Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

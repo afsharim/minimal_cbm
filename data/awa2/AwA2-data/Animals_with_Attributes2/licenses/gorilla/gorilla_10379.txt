@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Kevin Burkett
+Photo URL    : https://www.flickr.com/photos/kevinwburkett/3824306827/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 15 15:15:06 GMT+0200 2009
+Upload Date  : Sun Aug 16 03:58:31 GMT+0200 2009
+Geotag Info  : Latitude:39.972055, Longitude:-75.195794
+Views        : 153
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Gorilla
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+From the Philadelphia Zoo, Aug. 15, 2009
+
+
++--------+
+|  TAGS  |
++--------+
+animal animals philadelphia pennsylvania zoo 

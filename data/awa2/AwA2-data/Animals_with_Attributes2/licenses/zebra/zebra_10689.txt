@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Hector Garcia
+Photo URL    : https://www.flickr.com/photos/hectorgarcia/436485155/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Mar 27 16:32:13 GMT+0200 2007
+Upload Date  : Tue Mar 27 17:23:10 GMT+0200 2007
+Views        : 65
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Melbourne Zoo, Australia
+
+
++--------+
+|  TAGS  |
++--------+
+australia melbourne "melbourne zoo" 

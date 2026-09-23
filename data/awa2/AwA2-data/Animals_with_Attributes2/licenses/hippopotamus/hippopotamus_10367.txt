@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : VSmithUK
+Photo URL    : https://www.flickr.com/photos/vsmithuk/2891392162/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 18 12:20:45 GMT+0200 2008
+Upload Date  : Sat Sep 27 03:27:50 GMT+0200 2008
+Geotag Info  : Latitude:-27.682464, Longitude:32.328557
+Views        : 66
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hippopotamus
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+<i>Hippopotamus amphibius</i>, seen from Nsumo observation platforms, Mkhuze
+
+
++--------+
+|  TAGS  |
++--------+
+"South Africa" Mkhuze Kwazulu-Natal Mammal _Favorite_ Life 

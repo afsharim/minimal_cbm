@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Matt From London
+Photo URL    : https://www.flickr.com/photos/londonmatt/15434455246/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 5 15:30:21 GMT+0200 2014
+Upload Date  : Mon Oct 6 13:24:40 GMT+0200 2014
+Geotag Info  : Latitude:51.850049, Longitude:-0.545681
+Views        : 197
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lynx
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+whipsnade "whipsnade zoo" animals lynx cat 

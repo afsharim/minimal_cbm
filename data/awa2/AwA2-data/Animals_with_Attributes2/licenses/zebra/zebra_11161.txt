@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : aenigmatēs
+Photo URL    : https://www.flickr.com/photos/aenigmates/6088789796/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 27 12:18:50 GMT+0200 2011
+Upload Date  : Sun Aug 28 13:53:14 GMT+0200 2011
+Geotag Info  : Latitude:-33.843624, Longitude:151.240475
+Views        : 563
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebras, Taronga Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zebra "taronga zoo" zoo "by Mary" 

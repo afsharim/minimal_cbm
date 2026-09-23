@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : c. bueno
+Photo URL    : https://www.flickr.com/photos/wailysis/2561216531/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 4 11:36:36 GMT+0200 2008
+Upload Date  : Sun Jun 8 20:33:06 GMT+0200 2008
+Views        : 43
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+deers?
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ianturton
+Photo URL    : https://www.flickr.com/photos/ianturton/2170023436/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 5 14:47:46 GMT+0100 2008
+Upload Date  : Sat Jan 5 22:30:08 GMT+0100 2008
+Geotag Info  : Latitude:40.835437, Longitude:-77.812364
+Views        : 769
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Pig
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+On today's walk I discovered that there are a pair of pigs living at the end of our road.
+
+
++--------+
+|  TAGS  |
++--------+
+pig "state college" pa 

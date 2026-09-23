@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Dave Hamster
+Photo URL    : https://www.flickr.com/photos/davehamster/349191905/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 7 17:40:19 GMT+0100 2007
+Upload Date  : Sun Jan 7 18:40:19 GMT+0100 2007
+Geotag Info  : Latitude:53.336408, Longitude:-2.404632
+Views        : 977
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Red Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Tatton Park
+
+
++--------+
+|  TAGS  |
++--------+
+"tatton Park" deer "red deer" Stag England UK 

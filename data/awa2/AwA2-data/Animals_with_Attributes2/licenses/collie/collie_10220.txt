@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : fishbulb9
+Photo URL    : https://www.flickr.com/photos/whereisduff/4772063016/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 2 10:15:37 GMT+0200 2010
+Upload Date  : Wed Jul 7 19:49:30 GMT+0200 2010
+Views        : 397
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Dog
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+3/4 Border collie, 1/4 Golder retriever
+
+
++--------+
+|  TAGS  |
++--------+
+dog "border collie" cushion retriever 

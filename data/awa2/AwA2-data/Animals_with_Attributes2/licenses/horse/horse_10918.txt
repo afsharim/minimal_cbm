@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : yashima
+Photo URL    : https://www.flickr.com/photos/yashima/4640519942/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue May 25 23:56:17 GMT+0200 2010
+Upload Date  : Wed May 26 01:30:01 GMT+0200 2010
+Geotag Info  : Latitude:65.363402, Longitude:-20.830078
+Views        : 445
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horses
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+iceland 

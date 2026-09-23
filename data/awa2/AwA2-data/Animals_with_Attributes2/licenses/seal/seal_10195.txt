@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : chrispearson72
+Photo URL    : https://www.flickr.com/photos/chrispearson72/2377356917/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 16 14:11:26 GMT+0100 2008
+Upload Date  : Mon Mar 31 21:09:07 GMT+0200 2008
+Geotag Info  : Latitude:-52.802761, Longitude:-59.853515
+Views        : 70
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant Seal in Kelp Bed cooling Down!!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

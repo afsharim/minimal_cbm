@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : theogeo
+Photo URL    : https://www.flickr.com/photos/theogeo/2489052840/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon May 12 11:41:06 GMT+0200 2008
+Upload Date  : Tue May 13 08:30:09 GMT+0200 2008
+Views        : 115
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+charlie
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+My sister's newest dog.
+
+
++--------+
+|  TAGS  |
++--------+
+chihuahua 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : RichardBowen
+Photo URL    : https://www.flickr.com/photos/rbowen/2522450681/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 25 10:28:48 GMT+0200 2008
+Upload Date  : Mon May 26 04:17:22 GMT+0200 2008
+Views        : 1,689
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Raccoon
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+<a href="http://wooga.drbacchus.com/raccoons" rel="nofollow">wooga.drbacchus.com/raccoons</a>
+
+
++--------+
+|  TAGS  |
++--------+
+Raccoon 

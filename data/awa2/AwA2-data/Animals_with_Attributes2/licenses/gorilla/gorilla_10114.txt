@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : marada
+Photo URL    : https://www.flickr.com/photos/marada/1562415883/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 13 14:56:21 GMT+0200 2007
+Upload Date  : Sun Oct 14 00:33:08 GMT+0200 2007
+Geotag Info  : Latitude:40.156671, Longitude:-83.122944
+Views        : 310
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Columbus Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"African Forest" Gorilla "Columbus Zoo" 

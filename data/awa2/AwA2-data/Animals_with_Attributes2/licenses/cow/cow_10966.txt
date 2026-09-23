@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : m.prinke
+Photo URL    : https://www.flickr.com/photos/mprinke/14124970754/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 4 13:55:35 GMT+0200 2014
+Upload Date  : Tue May 6 21:05:49 GMT+0200 2014
+Geotag Info  : Latitude:52.534463, Longitude:11.026780
+Views        : 383
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Kuh und Kalb
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Drömling 

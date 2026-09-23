@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : iamjessekeating
+Photo URL    : https://www.flickr.com/photos/iamjessekeating/3655392010/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jun 23 03:28:45 GMT+0200 2009
+Upload Date  : Tue Jun 23 23:36:13 GMT+0200 2009
+Views        : 19
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephants
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

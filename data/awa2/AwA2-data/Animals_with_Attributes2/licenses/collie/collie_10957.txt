@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Svenska Mässan
+Photo URL    : https://commons.wikimedia.org/wiki/File:COLLIE,_L%C3%85NGH%C3%85RIG,_Speedycrown%E2%80%99s_It%E2%80%99s_A_Miracle_Succes_(24208350131).jpg
+License      : Creative Commons (https://en.wikipedia.org/wiki/en:Creative_Commons) Attribution 2.0 Generic (//creativecommons.org/licenses/by/2.0/deed.en)
+Date         : 2016-01-09 13:54

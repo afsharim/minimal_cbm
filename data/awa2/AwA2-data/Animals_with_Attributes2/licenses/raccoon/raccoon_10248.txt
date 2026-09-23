@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Alan Light
+Photo URL    : https://www.flickr.com/photos/alan-light/1862185802/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 4 13:16:48 GMT+0100 2007
+Upload Date  : Sun Nov 4 22:16:48 GMT+0100 2007
+Views        : 1,610
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Raccoon
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Feeding a raccoon
+
+
++--------+
+|  TAGS  |
++--------+
+feeding raccoon 

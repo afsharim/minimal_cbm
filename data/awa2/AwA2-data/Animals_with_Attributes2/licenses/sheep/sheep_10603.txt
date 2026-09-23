@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : nothingatall
+Photo URL    : https://www.flickr.com/photos/nothingatall/4872192934/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 8 14:54:35 GMT+0200 2010
+Upload Date  : Sun Aug 8 17:22:05 GMT+0200 2010
+Geotag Info  : Latitude:53.534976, Longitude:-1.967840
+Views        : 147
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Ron
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+sheep dovestone 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : UnseenGhost
+Photo URL    : https://www.flickr.com/photos/123531332@N06/15118465249/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 20 12:16:27 GMT+0200 2014
+Upload Date  : Sun Sep 21 09:09:16 GMT+0200 2014
+Views        : 158
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Cape May Zoo: Safari Exhibit
+Free For Reuse
+
+
++--------+
+|  TAGS  |
++--------+
+zebra safari exhibit zoo CapeMay CC Animal 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Aug 23, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Bob Hetherington
+Photo URL    : https://www.flickr.com/photos/105332966@N07/28939577645/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 12 10:43:05 GMT+0200 2016
+Upload Date  : Fri Aug 12 22:24:59 GMT+0200 2016
+Views        : 71
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Collie dog
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Lovely collie dog outside shop in Stockbridge Edinburgh.
+
+
++--------+
+|  TAGS  |
++--------+
+"out door" Stockbridge Edinburgh collie street dog 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jamarmstrong
+Photo URL    : https://www.flickr.com/photos/jamarmstrong/5232278303/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Dec 3 12:09:01 GMT+0100 2010
+Upload Date  : Sun Dec 5 00:04:13 GMT+0100 2010
+Geotag Info  : Latitude:52.736460, Longitude:-2.561187
+Views        : 770
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Winter Feed
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+sheep Winter food cold snow 

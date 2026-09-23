@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Elecé
+Photo URL    : https://www.flickr.com/photos/luisdcarbia/5237955825/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Dec 6 17:43:50 GMT+0100 2010
+Upload Date  : Mon Dec 6 17:43:50 GMT+0100 2010
+Views        : 540
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Gorilla gorilla beringei
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Female mountain gorilla taking a sunbath with her baby.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

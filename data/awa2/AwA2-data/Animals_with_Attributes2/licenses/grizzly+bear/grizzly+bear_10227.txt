@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : phalinn
+Photo URL    : https://www.flickr.com/photos/phalinn/957501709/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 29 16:04:00 GMT+0200 2007
+Upload Date  : Tue Jul 31 05:40:43 GMT+0200 2007
+Geotag Info  : Latitude:3.207832, Longitude:101.756486
+Views        : 335
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Brown Bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Zoo Negara
+
+
++--------+
+|  TAGS  |
++--------+
+"zoo negara" malaysia zoo "kuala lumpur" kl asia animals wildlife birds mammals photography phalinn syahmi 

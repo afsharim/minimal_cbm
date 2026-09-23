@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Sergey Galyonkin
+Photo URL    : https://www.flickr.com/photos/sergesegal/1083214415/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 11 14:40:56 GMT+0200 2007
+Upload Date  : Sat Aug 11 18:55:22 GMT+0200 2007
+Views        : 221
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel kyiv tree 

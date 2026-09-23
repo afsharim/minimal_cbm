@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Erik Charlton
+Photo URL    : https://www.flickr.com/photos/erikcharlton/4984248278/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 1 14:55:16 GMT+0200 2010
+Upload Date  : Sun Sep 12 23:06:35 GMT+0200 2010
+Views        : 790
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Cornelius
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Zoo SF "San Francisco" chimpanzee "Planet of the Apes" 

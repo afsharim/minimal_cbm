@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : hobgadlng
+Photo URL    : https://www.flickr.com/photos/hobgadlng/7671150378/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 1 09:33:44 GMT+0200 2012
+Upload Date  : Sun Jul 29 22:45:41 GMT+0200 2012
+Geotag Info  : Latitude:-18.930807, Longitude:14.791889
+Views        : 212
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Namibia Etosha animal giraffe 

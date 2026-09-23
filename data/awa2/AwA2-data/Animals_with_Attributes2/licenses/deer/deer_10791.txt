@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : intoxination
+Photo URL    : https://www.flickr.com/photos/intoxination/2446078547/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 27 13:08:27 GMT+0200 2008
+Upload Date  : Sun Apr 27 22:02:36 GMT+0200 2008
+Views        : 22
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_1403
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Deer 

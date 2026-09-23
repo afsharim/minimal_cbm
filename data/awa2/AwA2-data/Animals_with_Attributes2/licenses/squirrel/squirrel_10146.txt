@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Chris.L.Dodds
+Photo URL    : https://www.flickr.com/photos/chris_dodds/9733500466/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Sep 5 15:24:47 GMT+0200 2013
+Upload Date  : Thu Sep 12 19:26:39 GMT+0200 2013
+Geotag Info  : Latitude:37.213925, Longitude:-113.022193
+Views        : 396
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Diabetus Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel zion national park 

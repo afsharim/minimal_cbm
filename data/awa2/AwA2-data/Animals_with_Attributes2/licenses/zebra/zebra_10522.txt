@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ryan Vaarsi
+Photo URL    : https://www.flickr.com/photos/77799978@N00/6848061830/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Mar 12 12:40:43 GMT+0100 2012
+Upload Date  : Sun Mar 18 22:09:12 GMT+0100 2012
+Geotag Info  : Latitude:34.153685, Longitude:-118.282155
+Views        : 619
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra 1
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zebra animal "LA Zoo" 2012 "Canon EOS Rebel Xsi" 

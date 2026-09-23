@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : kloniwotski
+Photo URL    : https://www.flickr.com/photos/kloniwotski/16567779009/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 8 15:19:05 GMT+0100 2015
+Upload Date  : Sun Mar 8 16:19:50 GMT+0100 2015
+Views        : 397
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Richmond Park, 7 Mar 2015
+
+
++--------+
+|  TAGS  |
++--------+
+deer "richmond park" "tamron 500mm f/8 55b" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : russellstreet
+Photo URL    : https://www.flickr.com/photos/russellstreet/4567000141/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Feb 28 09:49:37 GMT+0100 2006
+Upload Date  : Sat May 1 09:59:29 GMT+0200 2010
+Geotag Info  : Latitude:-42.402306, Longitude:173.680563
+Views        : 270
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+New Zealand Fur Seal
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Animal "Arctocephalus forsteri" Kaikora Kekeno "New Zealand" "New Zealand Fur Seal" "Ohau Point" "South Island" NZL 

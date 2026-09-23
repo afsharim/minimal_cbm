@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jklawiter
+Photo URL    : https://www.flickr.com/photos/wariat/3002087363/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 3 14:04:23 GMT+0200 2008
+Upload Date  : Tue Nov 4 15:42:15 GMT+0100 2008
+Geotag Info  : Latitude:52.399748, Longitude:16.996665
+Views        : 74
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+img_0969
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+nature zebra 

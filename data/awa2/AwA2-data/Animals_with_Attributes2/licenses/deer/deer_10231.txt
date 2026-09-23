@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Nick_Rowland
+Photo URL    : https://www.flickr.com/photos/nick_rowland/24118576249/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jan 19 13:01:28 GMT+0100 2016
+Upload Date  : Tue Jan 19 20:45:34 GMT+0100 2016
+Geotag Info  : Latitude:52.177879, Longitude:1.196651
+Views        : 126
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer Grazing
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"helmingham hall" suffolk "deer park" deer 

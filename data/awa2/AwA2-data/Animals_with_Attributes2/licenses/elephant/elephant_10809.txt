@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Meraj Chhaya
+Photo URL    : https://www.flickr.com/photos/merajchhaya/11371288573/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 8 19:30:12 GMT+0100 2013
+Upload Date  : Sat Dec 14 20:19:03 GMT+0100 2013
+Views        : 1,029
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Elephants
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Chobe National Park near Kasane, Botswana
+
+
++--------+
+|  TAGS  |
++--------+
+Botswana "Chobe National Park" Kasane elephants "North West" 

@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mariomassone
+Photo URL    : https://commons.wikimedia.org/wiki/File:Steinmarder_(cropped).jpg
+License      : Creative Commons (https://en.wikipedia.org/wiki/en:Creative_Commons) Attribution 2.0 Germany (//creativecommons.org/licenses/by/2.0/de/deed.en)
+Date         : 2011-06-27 16:32

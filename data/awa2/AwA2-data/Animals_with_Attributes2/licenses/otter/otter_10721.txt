@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : KAZ2.0
+Photo URL    : https://www.flickr.com/photos/kaz20/2617069745/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 27 14:44:49 GMT+0200 2008
+Upload Date  : Sat Jun 28 08:58:01 GMT+0200 2008
+Geotag Info  : Latitude:36.618284, Longitude:-121.901931
+Views        : 352
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Raw Monterey Bay Aquarium Sea Otter "Canon EOS Kiss Digital N" 

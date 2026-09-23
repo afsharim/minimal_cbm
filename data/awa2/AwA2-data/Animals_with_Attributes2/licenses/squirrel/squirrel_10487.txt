@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tiocfaidh ár lá 1916
+Photo URL    : https://www.flickr.com/photos/tiocfaidh_ar_la_1916/6909500002/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 7 09:36:52 GMT+0200 2012
+Upload Date  : Sun Apr 8 05:44:58 GMT+0200 2012
+Views        : 2
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Saturday Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"2012 04-07" 

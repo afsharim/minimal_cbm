@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : russiansilver
+Photo URL    : https://www.flickr.com/photos/33747634@N04/6375008539/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 19 14:23:38 GMT+0100 2011
+Upload Date  : Mon Nov 21 07:58:52 GMT+0100 2011
+Views        : 80
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Siberian Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"louisville zoo" tiger 

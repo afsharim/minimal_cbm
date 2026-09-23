@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : pfarrell95
+Photo URL    : https://www.flickr.com/photos/65005341@N03/6060616346/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 15 16:11:31 GMT+0200 2011
+Upload Date  : Sat Aug 20 01:17:48 GMT+0200 2011
+Views        : 129
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Doe in the Yard
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+She is a regular
+
+
++--------+
+|  TAGS  |
++--------+
+deer 

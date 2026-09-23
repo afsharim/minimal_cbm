@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : GregTheBusker
+Photo URL    : https://www.flickr.com/photos/gregthebusker/10286065213/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 12 07:26:31 GMT+0200 2013
+Upload Date  : Tue Oct 15 08:36:36 GMT+0200 2013
+Geotag Info  : Latitude:37.467882, Longitude:-88.156787
+Views        : 21,191
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bats
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

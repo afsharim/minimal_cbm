@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : vic15
+Photo URL    : https://www.flickr.com/photos/vic15/4748589496/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 30 08:12:38 GMT+0200 2010
+Upload Date  : Wed Jun 30 10:34:55 GMT+0200 2010
+Views        : 43
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Hamster
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+P1020079
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

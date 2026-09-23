@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : P_Linehan
+Photo URL    : https://www.flickr.com/photos/p_linehan/158642742/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 2 05:48:31 GMT+0200 2006
+Upload Date  : Fri Jun 2 14:48:31 GMT+0200 2006
+Geotag Info  : Latitude:37.716977, Longitude:-97.408561
+Views        : 57
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Wich122
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+elephant 

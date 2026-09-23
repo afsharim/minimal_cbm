@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : vagueonthehow
+Photo URL    : https://www.flickr.com/photos/vagueonthehow/14398173926/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 12 15:51:19 GMT+0200 2014
+Upload Date  : Sat Jun 14 20:51:19 GMT+0200 2014
+Geotag Info  : Latitude:53.610509, Longitude:-1.567997
+Views        : 496
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Yorkshire Sculpture Park
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"yorkshire sculpture park" scenery sheep 

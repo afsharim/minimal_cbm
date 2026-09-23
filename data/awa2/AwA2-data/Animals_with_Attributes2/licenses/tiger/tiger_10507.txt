@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : pbryd
+Photo URL    : https://www.flickr.com/photos/pbryd/3215921011/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jan 21 15:52:06 GMT+0100 2009
+Upload Date  : Thu Jan 22 00:52:06 GMT+0100 2009
+Views        : 896
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+orange and black stripey cat
+
+
++--------+
+|  TAGS  |
++--------+
+tiger FlickrBigCats 

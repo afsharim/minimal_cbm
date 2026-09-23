@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Rose Robinson
+Photo URL    : https://www.flickr.com/photos/rosedavies/55685774/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 5 14:03:14 GMT+0200 2005
+Upload Date  : Mon Oct 24 21:20:34 GMT+0200 2005
+Geotag Info  : Latitude:-3.159542, Longitude:35.618019
+Views        : 2,636
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Zebras
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zebra ngorongoro "ngorongoro crater" africa safari geotagged geo:lat=-3.159542 geo:lon=35.618019 wildanimal 

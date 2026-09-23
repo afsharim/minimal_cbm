@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : randomduck
+Photo URL    : https://www.flickr.com/photos/rudiriet/8057741551/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Sep 26 16:09:39 GMT+0200 2012
+Upload Date  : Fri Oct 5 23:32:37 GMT+0200 2012
+Views        : 232
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Grizzly in the water
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+At Hogle Zoo.
+
+
++--------+
+|  TAGS  |
++--------+
+Utah "Hogle Zoo" 

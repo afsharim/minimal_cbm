@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jaakko.hakulinen
+Photo URL    : https://www.flickr.com/photos/jshakulinen/9114872907/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 20 17:41:01 GMT+0200 2013
+Upload Date  : Sun Jun 23 15:52:12 GMT+0200 2013
+Geotag Info  : Latitude:51.513656, Longitude:5.104780
+Views        : 309
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Saukko
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+otter 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : phalinn
+Photo URL    : https://www.flickr.com/photos/phalinn/674910155/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 28 21:33:01 GMT+0200 2007
+Upload Date  : Sat Jun 30 23:12:31 GMT+0200 2007
+Geotag Info  : Latitude:51.502612, Longitude:-0.119497
+Views        : 77
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+London
+
+
++--------+
+|  TAGS  |
++--------+
+london england europe "travel photography" "london eye" "big ben" westminister tube underground syad apai phalinn "oxford street" "trafalgar square" people 

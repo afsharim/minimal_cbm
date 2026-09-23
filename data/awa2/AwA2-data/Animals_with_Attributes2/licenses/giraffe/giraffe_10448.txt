@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Chadica
+Photo URL    : https://www.flickr.com/photos/chadica/3224849771/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 11 07:18:31 GMT+0100 2009
+Upload Date  : Sun Jan 25 16:24:14 GMT+0100 2009
+Geotag Info  : Latitude:-1.235866, Longitude:34.690704
+Views        : 1,795
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Kenya "Masai Mara" Safari giraffe "masai giraffe" "Animal Planet" 

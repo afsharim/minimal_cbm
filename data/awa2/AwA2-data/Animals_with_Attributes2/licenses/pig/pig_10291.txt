@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : angus mcdiarmid
+Photo URL    : https://www.flickr.com/photos/angusmcdiarmid/5696418154/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 7 15:54:17 GMT+0200 2011
+Upload Date  : Sat May 7 16:54:17 GMT+0200 2011
+Views        : 88
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Pig portrait
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+At Gorgie city farm.
+
+
++--------+
+|  TAGS  |
++--------+
+square iphoneography 

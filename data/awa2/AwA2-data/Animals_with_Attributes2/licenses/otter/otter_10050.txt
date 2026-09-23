@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : totobotteri
+Photo URL    : https://www.flickr.com/photos/totobotteri/2634433762/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jun 3 00:14:51 GMT+0200 2008
+Upload Date  : Thu Jul 3 19:08:12 GMT+0200 2008
+Views        : 1
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Clawed Otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

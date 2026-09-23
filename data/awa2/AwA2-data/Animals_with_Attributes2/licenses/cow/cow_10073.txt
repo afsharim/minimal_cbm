@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : omba_de
+Photo URL    : https://www.flickr.com/photos/eric-omba/481860241/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 9 13:18:52 GMT+0200 2006
+Upload Date  : Wed May 2 23:30:41 GMT+0200 2007
+Views        : 982
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Austrian dairy cow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+brown, austrian dairy cow, located in the zillertal alps
+
+
++--------+
+|  TAGS  |
++--------+
+cow kuh zillertal alps alpen tiere animal eric omba decorated_animal 

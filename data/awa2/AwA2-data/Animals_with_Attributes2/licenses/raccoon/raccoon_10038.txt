@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Nagyman
+Photo URL    : https://www.flickr.com/photos/nagy/3698955503/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 4 17:52:43 GMT+0200 2009
+Upload Date  : Wed Jul 8 02:17:17 GMT+0200 2009
+Views        : 100
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Backyard Nature
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+raccoon 

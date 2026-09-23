@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/494136328/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 30 15:29:52 GMT+0200 2004
+Upload Date  : Sat May 12 01:17:49 GMT+0200 2007
+Geotag Info  : Latitude:47.385711, Longitude:8.573412
+Views        : 12,086
+Comments     : 13
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger of Zürich zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Handsome, isn't he?
+
+
++--------+
+|  TAGS  |
++--------+
+tiger "zoo zürich" tigre "panthera tigris" cat feline wildcat bigcat "amur tiger" "siberian tiger" zoo coto zurich panthera tigris wild big zürich switzerland kitty schweiz felid striped stripes 

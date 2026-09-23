@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Marie Hale
+Photo URL    : https://www.flickr.com/photos/15016964@N02/5697155834/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 15 13:09:24 GMT+0200 2010
+Upload Date  : Sat May 7 21:29:55 GMT+0200 2011
+Views        : 2,031
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Grant's zebras
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Grant's zebras - taken at Trotters World of Animals on 15th May 2010
+
+
++--------+
+|  TAGS  |
++--------+
+zebra 

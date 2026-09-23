@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bradspry
+Photo URL    : https://www.flickr.com/photos/bradspry/3184822545/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 12 12:28:13 GMT+0100 2008
+Upload Date  : Sat Jan 10 20:16:33 GMT+0100 2009
+Views        : 40
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Kannapolis 2.0
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+kannapolis2 horse 

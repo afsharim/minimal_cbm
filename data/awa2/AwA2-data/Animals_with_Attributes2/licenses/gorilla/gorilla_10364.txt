@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : andrew_j_w
+Photo URL    : https://www.flickr.com/photos/andrew_j_w/2669343698/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 13 16:16:02 GMT+0200 2008
+Upload Date  : Mon Jul 14 23:56:25 GMT+0200 2008
+Geotag Info  : Latitude:51.535498, Longitude:-0.153594
+Views        : 845
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Gorilla
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"regents park" "london zoo" animal gorilla 

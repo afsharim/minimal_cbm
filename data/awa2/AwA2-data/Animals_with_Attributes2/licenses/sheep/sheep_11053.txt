@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Simon Wheatley
+Photo URL    : https://www.flickr.com/photos/simonwheatley/7322485696/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 2 16:09:35 GMT+0200 2012
+Upload Date  : Sun Jun 3 11:11:57 GMT+0200 2012
+Geotag Info  : Latitude:53.568166, Longitude:-2.017000
+Views        : 92
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Gotta love 'em.
+
+
++--------+
+|  TAGS  |
++--------+
+"Pennine Divide" Pennines "Peak District" Walk Delph Castleshaw "Walk 2 in The Pennine Divide" 

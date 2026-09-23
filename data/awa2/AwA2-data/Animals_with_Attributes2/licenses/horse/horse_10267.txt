@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sk8geek
+Photo URL    : https://www.flickr.com/photos/sk8geek/7173324313/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 19 08:52:42 GMT+0200 2012
+Upload Date  : Sun Jun 10 20:17:52 GMT+0200 2012
+Views        : 433
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_1841
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horse 

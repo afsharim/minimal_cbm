@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : thomasgerhard
+Photo URL    : https://www.flickr.com/photos/thomasgerhard/8216662052/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Nov 9 16:15:24 GMT+0100 2012
+Upload Date  : Sun Nov 25 09:36:44 GMT+0100 2012
+Geotag Info  : Latitude:-33.384953, Longitude:26.368955
+Views        : 1,011
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+giraffe 

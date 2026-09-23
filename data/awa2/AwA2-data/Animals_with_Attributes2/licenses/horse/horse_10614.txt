@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mjafernandez
+Photo URL    : https://www.flickr.com/photos/manuelfernandez/3489475939/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jan 6 11:35:32 GMT+0100 2009
+Upload Date  : Fri May 1 03:04:39 GMT+0200 2009
+Views        : 15
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

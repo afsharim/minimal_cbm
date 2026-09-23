@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : wondible
+Photo URL    : https://www.flickr.com/photos/wondible/5693370428/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue May 3 13:12:34 GMT+0200 2011
+Upload Date  : Fri May 6 15:39:48 GMT+0200 2011
+Views        : 7
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_2571
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

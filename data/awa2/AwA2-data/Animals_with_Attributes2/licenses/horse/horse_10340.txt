@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : gssavage
+Photo URL    : https://www.flickr.com/photos/gssavage/4707077194/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 5 15:00:54 GMT+0200 2010
+Upload Date  : Wed Jun 16 20:44:51 GMT+0200 2010
+Views        : 939
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Flying horse?
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+musselburgh racing flying-horse 

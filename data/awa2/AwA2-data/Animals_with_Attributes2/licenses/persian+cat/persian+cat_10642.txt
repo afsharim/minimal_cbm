@@ -1,0 +1,49 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Takashi(aes256)
+Photo URL    : https://www.flickr.com/photos/htakashi/8246103256/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 2 13:09:19 GMT+0100 2012
+Upload Date  : Wed Dec 5 01:06:35 GMT+0100 2012
+Geotag Info  : Latitude:35.729444, Longitude:139.716516
+Views        : 7,516
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Super fluffy cat
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+How fluffy!
+What a beautiful eyes!
+About this cat:
+Name: Kuririn
+Gender: Male
+Kind: Persian
+
+ニャんという立派な毛並み！
+ニャんという目力！
+いつ見てもこの立派な毛並みには感動します。
+名前：くりりんくん
+性別：男の子
+種類：ペルシャ
+
+[ Nikon D4, Nikon AF-S NIKKOR 85mm f/1.4G, f/2.8, 1/100sec, ISO360 ]
+
+
++--------+
+|  TAGS  |
++--------+
+"Nikon D4" "Nikon AF-S NIKKOR 85mm f/1.4G" "Cat Cafe" Persian Nekorobi Fluffy Kuririn 猫カフェ ペルシャ ねころび もふもふ ふわふわ クリリン 豊島区 東京都 日本 

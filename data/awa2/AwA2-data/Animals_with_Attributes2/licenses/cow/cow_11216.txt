@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Clownhouse III
+Photo URL    : https://www.flickr.com/photos/clownhousethethird/2950009126/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Oct 17 15:08:54 GMT+0200 2008
+Upload Date  : Fri Oct 17 20:01:35 GMT+0200 2008
+Geotag Info  : Latitude:52.129378, Longitude:5.735721
+Views        : 2,641
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Smartass Cow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+..follows up every comment by looking smug.
+
+
++--------+
+|  TAGS  |
++--------+
+cows cow moo 

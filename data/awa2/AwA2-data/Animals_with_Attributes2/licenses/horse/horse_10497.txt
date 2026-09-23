@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : -904
+Photo URL    : https://www.flickr.com/photos/kaay904/9239588764/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 17 19:20:43 GMT+0200 2010
+Upload Date  : Mon Jul 8 13:33:34 GMT+0200 2013
+Views        : 683
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horse photoshoot
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+One of my school assignment.
+
+
++--------+
+|  TAGS  |
++--------+
+horse closeup 

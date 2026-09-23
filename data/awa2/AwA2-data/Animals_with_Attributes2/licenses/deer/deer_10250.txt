@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : DavidGeen
+Photo URL    : https://www.flickr.com/photos/dgeen/5231639804/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Dec 4 11:14:01 GMT+0100 2010
+Upload Date  : Sat Dec 4 15:22:28 GMT+0100 2010
+Geotag Info  : Latitude:51.435905, Longitude:-0.278391
+Views        : 1,972
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer in Richmond Park
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Richmond Park" Winter deer 

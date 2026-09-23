@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tim Green aka atoach
+Photo URL    : https://www.flickr.com/photos/atoach/4268989089/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Dec 28 15:16:50 GMT+0100 2009
+Upload Date  : Tue Jan 12 20:01:17 GMT+0100 2010
+Geotag Info  : Latitude:50.168377, Longitude:-5.075554
+Views        : 595
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+by the Penryn River, looking towards Falmouth
+
+
++--------+
+|  TAGS  |
++--------+
+sheep flushing falmouth penryn cornwall 

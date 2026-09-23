@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : krugergirl26
+Photo URL    : https://www.flickr.com/photos/71888644@N00/8372178079/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Dec 27 04:56:21 GMT+0100 2012
+Upload Date  : Sat Jan 12 13:50:27 GMT+0100 2013
+Geotag Info  : Latitude:-25.294371, Longitude:31.926269
+Views        : 64
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra again
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

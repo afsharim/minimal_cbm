@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : TimWilson
+Photo URL    : https://www.flickr.com/photos/timwilson/184580711/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 7 23:41:41 GMT+0200 2006
+Upload Date  : Sat Jul 8 08:56:50 GMT+0200 2006
+Geotag Info  : Latitude:32.764650, Longitude:-117.225322
+Views        : 486
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Shamu launch
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Timed this one perfectly. Notice the trainer &quot;flying&quot; in front of the flag.
+
+
++--------+
+|  TAGS  |
++--------+
+seaworld shamu orca "killer whale" "san diego" ca vacation 

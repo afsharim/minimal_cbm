@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Brian G. Foltz
+Photo URL    : https://www.flickr.com/photos/44526432@N05/4095500045/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jan 1 00:00:00 GMT+0100 2007
+Upload Date  : Wed Nov 11 20:16:21 GMT+0100 2009
+Views        : 11
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra in Kruger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

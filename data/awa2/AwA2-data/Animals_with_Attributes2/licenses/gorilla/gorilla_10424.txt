@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : m01229
+Photo URL    : https://www.flickr.com/photos/39908901@N06/7059059281/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 8 12:32:13 GMT+0200 2012
+Upload Date  : Mon Apr 9 04:17:38 GMT+0200 2012
+Geotag Info  : Latitude:38.926293, Longitude:-77.048723
+Views        : 807
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Gorilla
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zoo gorilla "sad zoo animals" "National Zoo" "zoo animals" 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : John Vetterli
+Photo URL    : https://www.flickr.com/photos/jvetterli/256911172/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 30 15:06:41 GMT+0200 2006
+Upload Date  : Sun Oct 1 04:53:40 GMT+0200 2006
+Views        : 566
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant 4
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+At the TPMG Toronto Zoo meetup.
+
+
++--------+
+|  TAGS  |
++--------+
+tpmg zoo elephant 

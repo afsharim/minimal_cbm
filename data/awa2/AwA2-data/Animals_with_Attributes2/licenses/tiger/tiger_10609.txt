@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sometimesong
+Photo URL    : https://www.flickr.com/photos/sometimesong/5111352673/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 16 16:00:03 GMT+0200 2010
+Upload Date  : Sun Oct 24 22:26:48 GMT+0200 2010
+Views        : 166
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Wildlife Heritage Foundation, Smarden, Kent
+
+<a href="http://www.whf.org.uk/" rel="nofollow">www.whf.org.uk/</a>
+
+
++--------+
+|  TAGS  |
++--------+
+sometimesong 2010 whf "wildlife heritage foundation" cat feline ashford kent june tiger smarden 

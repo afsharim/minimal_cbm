@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sacratomato_hr
+Photo URL    : https://www.flickr.com/photos/the_h/3599953407/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed May 13 16:46:56 GMT+0200 2009
+Upload Date  : Sat Jun 6 16:11:53 GMT+0200 2009
+Geotag Info  : Latitude:49.252690, Longitude:7.060604
+Views        : 640
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sniff sniff
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Part of a Rollerblade trip in Scheidt...Highland cattle between the road and the RR tracks
+
+
++--------+
+|  TAGS  |
++--------+
+Highland cattle Scheidt 

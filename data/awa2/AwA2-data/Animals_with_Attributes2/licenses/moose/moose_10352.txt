@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : suecan1
+Photo URL    : https://www.flickr.com/photos/suecan/4358880115/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 28 17:42:22 GMT+0200 2006
+Upload Date  : Mon Feb 15 16:21:49 GMT+0100 2010
+Views        : 17
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+moose
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

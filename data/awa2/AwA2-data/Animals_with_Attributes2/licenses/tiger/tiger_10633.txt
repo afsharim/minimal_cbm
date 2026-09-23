@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : adelpha_uk
+Photo URL    : https://www.flickr.com/photos/adelpha_uk/5617326956/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 9 08:51:43 GMT+0200 2011
+Upload Date  : Wed Apr 13 21:53:16 GMT+0200 2011
+Geotag Info  : Latitude:51.742150, Longitude:-0.071797
+Views        : 5
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Rocky
+
+
++--------+
+|  TAGS  |
++--------+
+totag 

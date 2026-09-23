@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Justin·Doles
+Photo URL    : https://www.flickr.com/photos/justin-doles/8908450454/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 16 16:37:19 GMT+0200 2011
+Upload Date  : Sat Jun 1 05:21:22 GMT+0200 2013
+Geotag Info  : Latitude:39.143262, Longitude:-84.508721
+Views        : 748
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Silverback Gorilla
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+@ Cincinnati Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+animal "Cincinnati Zoo & Botanical Garden" gorilla "Cincinnati Zoo" zoo ohio cincinnati nikon D3100 

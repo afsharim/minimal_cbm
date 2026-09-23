@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : wilkinism
+Photo URL    : https://www.flickr.com/photos/92325441@N05/14748905184/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 22 10:56:15 GMT+0200 2013
+Upload Date  : Sat Jul 26 21:54:28 GMT+0200 2014
+Views        : 94
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sea Otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Sea Otter" "Cook Inlet" 

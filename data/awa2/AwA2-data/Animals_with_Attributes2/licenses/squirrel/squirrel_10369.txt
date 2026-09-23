@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : rvr
+Photo URL    : https://www.flickr.com/photos/rvr/7151669995/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri May 6 23:09:33 GMT+0200 2011
+Upload Date  : Mon May 7 10:05:41 GMT+0200 2012
+Geotag Info  : Latitude:37.746659, Longitude:-119.583885
+Views        : 102
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Little Guest
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Visitor Center, Yosemite National Park, California.
+
+
++--------+
+|  TAGS  |
++--------+
+yosemite california squirrel 

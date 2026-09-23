@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Lee Cannon
+Photo URL    : https://www.flickr.com/photos/leecannon/5035124764/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 18 17:27:17 GMT+0200 2010
+Upload Date  : Wed Sep 29 03:50:42 GMT+0200 2010
+Geotag Info  : Latitude:38.546948, Longitude:-75.159723
+Views        : 2,815
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cows
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Cows grazing in the pasture but keeping a sharp on on me.
+
+
++--------+
+|  TAGS  |
++--------+
+Cows pasture grazing grass moo bovine field udder 

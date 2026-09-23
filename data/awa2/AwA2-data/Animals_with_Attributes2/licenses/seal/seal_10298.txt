@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : cambodia4kidsorg
+Photo URL    : https://www.flickr.com/photos/cambodia4kidsorg/4227298988/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Dec 28 13:20:11 GMT+0100 2009
+Upload Date  : Wed Dec 30 03:26:16 GMT+0100 2009
+Views        : 43
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant Seals
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+elephantseals 

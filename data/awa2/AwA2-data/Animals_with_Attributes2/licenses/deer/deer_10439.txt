@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : DrBartje
+Photo URL    : https://www.flickr.com/photos/drbartje/3870421128/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 28 15:54:22 GMT+0200 2009
+Upload Date  : Sun Aug 30 12:08:48 GMT+0200 2009
+Views        : 103
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Safari Park Beekse Bergen (<a href="http://www.safaripark.nl/" rel="nofollow">www.safaripark.nl/</a>)
+
+
++--------+
+|  TAGS  |
++--------+
+"Safari Park" "Beekse Bergen" 

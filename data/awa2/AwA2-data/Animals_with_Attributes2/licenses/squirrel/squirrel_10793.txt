@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : zoonabar
+Photo URL    : https://www.flickr.com/photos/zoonabar/4649988956/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 29 14:06:45 GMT+0200 2010
+Upload Date  : Sat May 29 15:06:45 GMT+0200 2010
+Geotag Info  : Latitude:51.502949, Longitude:-0.204470
+Views        : 151
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Velvia 50" Film "Canon EOS 33" "Holland Park" Squirrel 

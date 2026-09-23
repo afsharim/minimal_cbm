@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : woot882002
+Photo URL    : https://www.flickr.com/photos/35267167@N00/99164941/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jan 31 13:53:10 GMT+0100 2006
+Upload Date  : Mon Feb 13 10:50:31 GMT+0100 2006
+Views        : 355
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bengal Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+White Bengal Tiger,
+Singapore Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+singapore zoo tiger 

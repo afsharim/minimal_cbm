@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jdriselvato
+Photo URL    : https://commons.wikimedia.org/wiki/File:Buddy_the_border_collie_at_one_years_old.JPG
+License      : Creative Commons (//en.wikipedia.org/wiki/en:Creative_Commons) CC0 1.0 Universal Public Domain Dedication (//creativecommons.org/publicdomain/zero/1.0/deed.en)
+Date         : 

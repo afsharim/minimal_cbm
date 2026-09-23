@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Sladey
+Photo URL    : https://www.flickr.com/photos/scslade/3433724047/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Apr 8 09:06:13 GMT+0200 2009
+Upload Date  : Sun Apr 12 14:41:36 GMT+0200 2009
+Views        : 15
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

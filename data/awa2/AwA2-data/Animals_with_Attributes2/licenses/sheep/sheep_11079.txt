@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Shepard4711
+Photo URL    : https://www.flickr.com/photos/shepard4711/8624573629/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 6 16:25:39 GMT+0200 2013
+Upload Date  : Sat Apr 6 21:28:54 GMT+0200 2013
+Views        : 88
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Trying out my new Nikkor 70-200mm f4.
+Raw-converted in Lightroom, no adjustments.
+
+
++--------+
+|  TAGS  |
++--------+
+Rot 

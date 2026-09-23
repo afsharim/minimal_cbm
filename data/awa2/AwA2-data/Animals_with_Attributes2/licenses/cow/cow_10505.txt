@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mags D
+Photo URL    : https://www.flickr.com/photos/msrd/61621776/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Nov 9 18:24:46 GMT+0100 2005
+Upload Date  : Wed Nov 9 19:24:46 GMT+0100 2005
+Views        : 237
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cows
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Remember,  the cows are watchting...
+
+
++--------+
+|  TAGS  |
++--------+
+Cows 

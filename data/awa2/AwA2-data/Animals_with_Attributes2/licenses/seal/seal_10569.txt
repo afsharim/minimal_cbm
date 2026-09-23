@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : fil_pulon
+Photo URL    : https://www.flickr.com/photos/fil_pulon/2304003628/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Feb 21 21:09:46 GMT+0100 2008
+Upload Date  : Sun Mar 2 06:34:20 GMT+0100 2008
+Views        : 118
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Monk Seal
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Endangered monk seal chillin like a villian in Kauai
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

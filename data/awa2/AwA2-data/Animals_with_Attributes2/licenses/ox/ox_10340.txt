@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Fat Bear Photography
+Photo URL    : https://www.flickr.com/photos/fatbearphotography/16475603718/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Feb 27 13:17:12 GMT+0100 2015
+Upload Date  : Fri Feb 27 16:17:19 GMT+0100 2015
+Views        : 89
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_1027-14
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"car photography" "fat bear photography" car photography 

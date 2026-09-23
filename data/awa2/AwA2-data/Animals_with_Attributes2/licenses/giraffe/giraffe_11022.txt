@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : nichcollins
+Photo URL    : https://www.flickr.com/photos/nicholascollins/1182992282/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 11 14:50:52 GMT+0100 2007
+Upload Date  : Mon Aug 20 15:48:22 GMT+0200 2007
+Geotag Info  : Latitude:35.147547, Longitude:-89.986052
+Views        : 109
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Memphis Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Giraffes
+
+
++--------+
+|  TAGS  |
++--------+
+giraffe zoo memphis animals 

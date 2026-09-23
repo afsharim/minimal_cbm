@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : size4riggerboots
+Photo URL    : https://www.flickr.com/photos/tamsintog/15938127765/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Nov 8 16:31:21 GMT+0100 2013
+Upload Date  : Wed Dec 3 15:55:03 GMT+0100 2014
+Geotag Info  : Latitude:-54.281449, Longitude:-36.509381
+Views        : 881
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant Seal, South Georgia
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"South Georgia" "Merchant Navy" "Pharos SG" 

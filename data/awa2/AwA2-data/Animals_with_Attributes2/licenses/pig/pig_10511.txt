@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : quimby
+Photo URL    : https://www.flickr.com/photos/orqwith/4899487264/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 16 15:18:34 GMT+0200 2010
+Upload Date  : Tue Aug 17 00:22:32 GMT+0200 2010
+Views        : 96
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Shugborough Tamworth Pig
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+shugborough staffordshire tamworth pig farm 

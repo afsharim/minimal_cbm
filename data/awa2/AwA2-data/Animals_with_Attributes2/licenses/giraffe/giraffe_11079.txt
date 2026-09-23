@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/4908318845/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 30 16:02:07 GMT+0200 2010
+Upload Date  : Fri Aug 20 00:51:54 GMT+0200 2010
+Geotag Info  : Latitude:48.806298, Longitude:9.205083
+Views        : 12,699
+Comments     : 9
+
+
++---------+
+|  TITLE  |
++---------+
+Portrait of a giraffe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Portrait of a rather young giraffe of the Wilhelma zoo in Stuttgart, otherwise nothing really special. I hope you like it though.
+
+
++--------+
+|  TAGS  |
++--------+
+giraffe portrait face neck horns young bokeh wilhelma zoo stuttgart germany nikon d300 

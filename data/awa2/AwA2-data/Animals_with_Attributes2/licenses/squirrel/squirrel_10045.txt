@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : IABoomerFlickr
+Photo URL    : https://www.flickr.com/photos/9464504@N06/4059142136/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Oct 30 14:04:41 GMT+0100 2009
+Upload Date  : Fri Oct 30 20:28:30 GMT+0100 2009
+Geotag Info  : Latitude:41.590989, Longitude:-93.788094
+Views        : 1,059
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+A visitor
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A squirrel that stopped by for a handout.
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel chips autumn 

@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : nmahieu
+Photo URL    : https://www.flickr.com/photos/nmahieu/7677838098/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 30 11:45:51 GMT+0200 2012
+Upload Date  : Mon Jul 30 19:04:38 GMT+0200 2012
+Geotag Info  : Latitude:51.478711, Longitude:-0.231959
+Views        : 100
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+London Wetland Centre
+30 July 2012
+
+
++--------+
+|  TAGS  |
++--------+
+"London Wetland Centre" mammals 

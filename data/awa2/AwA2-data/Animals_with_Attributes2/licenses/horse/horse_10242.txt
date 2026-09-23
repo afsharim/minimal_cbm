@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : carterse
+Photo URL    : https://www.flickr.com/photos/australianshepherds/2624920198/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 28 04:53:18 GMT+0200 2008
+Upload Date  : Mon Jun 30 16:03:06 GMT+0200 2008
+Geotag Info  : Latitude:38.823092, Longitude:-104.846692
+Views        : 1,307
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Dr. Lang & Mattie
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horse face rider 

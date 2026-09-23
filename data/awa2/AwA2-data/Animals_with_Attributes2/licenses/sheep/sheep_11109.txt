@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : treehouse1977
+Photo URL    : https://www.flickr.com/photos/treehouse1977/14281976611/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue May 27 14:19:27 GMT+0200 2014
+Upload Date  : Tue May 27 21:46:29 GMT+0200 2014
+Geotag Info  : Latitude:51.063212, Longitude:-2.310316
+Views        : 617
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+silton dorset sheep field 

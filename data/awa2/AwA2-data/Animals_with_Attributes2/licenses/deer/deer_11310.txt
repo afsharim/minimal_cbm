@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : tuchodi
+Photo URL    : https://www.flickr.com/photos/tuchodi/23715739784/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jan 12 12:09:40 GMT+0100 2016
+Upload Date  : Tue Jan 12 23:58:54 GMT+0100 2016
+Views        : 217
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+White-tailed Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+buck "White-tailed Deer" 

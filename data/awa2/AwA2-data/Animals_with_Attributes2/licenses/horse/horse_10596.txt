@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : zieak
+Photo URL    : https://www.flickr.com/photos/zieak/3054905379/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 23 23:23:06 GMT+0100 2008
+Upload Date  : Mon Nov 24 09:23:06 GMT+0100 2008
+Views        : 94
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Taos "New Mexico" horse mane 

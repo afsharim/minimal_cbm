@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : angies
+Photo URL    : https://www.flickr.com/photos/angies/194653851/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Mar 24 13:18:10 GMT+0100 2006
+Upload Date  : Fri Jul 21 13:11:01 GMT+0200 2006
+Views        : 105
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Snow lynx
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+cornwall march 2006 newquay zoo lynx geo:lat=50.41048 geo:lon=-5.06827 

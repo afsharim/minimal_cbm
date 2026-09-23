@@ -1,0 +1,39 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : heatheronhertravels
+Photo URL    : https://www.flickr.com/photos/heatheronhertravels/3433657057/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Apr 6 09:33:36 GMT+0200 2009
+Upload Date  : Sun Apr 12 14:06:52 GMT+0200 2009
+Views        : 742
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Berlin Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This photo links to my blog article
+<a href="http://www.heatheronhertravels.com/see-the-animals-at-berlin-zoo-but-bristol-zoos-better/" rel="nofollow">www.heatheronhertravels.com/see-the-animals-at-berlin-zoo...</a>
+
+This photo is licenced under Creative commons for use including commercial on condition that you link back to or credit <a href="http://www.heatheronhertravels.com/" rel="nofollow">www.heatheronhertravels.com/</a>. 
+
+See my profile for more detail.
+
+
++--------+
+|  TAGS  |
++--------+
+"Berlin Zoo" Elephant 

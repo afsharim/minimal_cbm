@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : zabdiel
+Photo URL    : https://www.flickr.com/photos/zabdiel/4335626868/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 6 14:31:26 GMT+0100 2010
+Upload Date  : Sat Feb 6 20:56:54 GMT+0100 2010
+Geotag Info  : Latitude:50.917818, Longitude:-1.515082
+Views        : 813
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+North American River Otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+taxonomy:kingdom=Animalia Animalia taxonomy:phylum=Chordata Chordata taxonomy:class=Mammalia Mammalia taxonomy:order=Carnivora Carnivora taxonomy:family=Mustelidae Mustelidae taxonomy:genus=Lontra taxonomy:species=canadensis "taxonomy:binomial=Lontra canadensis" "Lontra canadensis" "loutre de rivire" "northern river otter" "Nutria-de ro norteamericana" "river otter" "taxonomy:common=loutre de rivire" "taxonomy:common=northern river otter" "taxonomy:common=Nutria-de ro norteamericana" "taxonomy:common=river otter" wlny:photo=i6bh wlny:species=saw wlny:trip=thz wlny:place=p1c wlny:geotagged=1 

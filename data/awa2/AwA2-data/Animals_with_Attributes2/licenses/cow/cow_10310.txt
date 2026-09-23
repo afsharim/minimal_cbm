@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Edward Stephenson
+Photo URL    : https://www.flickr.com/photos/edwardstephenson/3392274605/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 26 12:43:06 GMT+0200 2006
+Upload Date  : Sat Mar 28 19:50:55 GMT+0100 2009
+Views        : 19
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

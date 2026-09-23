@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Anton Fomkin
+Photo URL    : https://www.flickr.com/photos/antonfomkin/4893059251/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 15 15:03:36 GMT+0200 2010
+Upload Date  : Sun Aug 15 13:03:36 GMT+0200 2010
+Views        : 2,030
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel eating a nut
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel nut grass 

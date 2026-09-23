@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mary Brennann
+Photo URL    : https://www.flickr.com/photos/perogiemary/2539524222/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 25 19:11:01 GMT+0200 2008
+Upload Date  : Sat May 31 20:58:42 GMT+0200 2008
+Views        : 350
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Grizzlies on the North Shore
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Grizzly!
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

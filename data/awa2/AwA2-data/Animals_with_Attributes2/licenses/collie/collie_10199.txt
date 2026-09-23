@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : A Glass of Chianti
+Photo URL    : https://www.flickr.com/photos/aglassofchianti/51362529/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Aug 30 16:34:45 GMT+0200 2005
+Upload Date  : Tue Oct 11 01:13:24 GMT+0200 2005
+Geotag Info  : Latitude:32.636050, Longitude:-97.370624
+Views        : 229
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Dakota in the backyard
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+He is a pretty dog.  Really.
+
+
++--------+
+|  TAGS  |
++--------+
+dog "border collie" Dakota 

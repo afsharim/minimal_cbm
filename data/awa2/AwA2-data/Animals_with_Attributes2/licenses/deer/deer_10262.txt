@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ReflectedSerendipity
+Photo URL    : https://www.flickr.com/photos/sjdunphy/2594000350/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 8 13:54:35 GMT+0200 2008
+Upload Date  : Fri Jun 20 00:11:41 GMT+0200 2008
+Views        : 113
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer in the distance
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Spotted in Sussex
+
+
++--------+
+|  TAGS  |
++--------+
+deer woodland Sussex 

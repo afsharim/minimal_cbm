@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Fugue
+Photo URL    : https://www.flickr.com/photos/fugue/361678867/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jan 8 15:29:50 GMT+0100 2007
+Upload Date  : Thu Jan 18 18:01:59 GMT+0100 2007
+Geotag Info  : Latitude:-24.374619, Longitude:28.660583
+Views        : 534
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe Having a Nap 5
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The sleepy giraffe finally wakes up.
+
+
++--------+
+|  TAGS  |
++--------+
+ubumanzi "south africa" bosveld bushveld safari giraffe 

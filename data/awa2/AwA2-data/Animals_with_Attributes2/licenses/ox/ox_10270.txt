@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : a.froese
+Photo URL    : https://www.flickr.com/photos/anfroese/4064973704/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 1 15:05:40 GMT+0100 2009
+Upload Date  : Sun Nov 1 18:06:06 GMT+0100 2009
+Geotag Info  : Latitude:51.804952, Longitude:10.242776
+Views        : 618
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Guck mich nicht so an
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Ich habe nichts zu fressen für Dich
+
+
++--------+
+|  TAGS  |
++--------+
+"Bad Grund" Harz Niedersachsen Kuh cow 

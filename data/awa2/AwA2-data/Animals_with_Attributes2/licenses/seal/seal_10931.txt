@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mykaul
+Photo URL    : https://www.flickr.com/photos/mykaul/260841493/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Oct 2 16:33:16 GMT+0200 2006
+Upload Date  : Wed Oct 4 21:01:04 GMT+0200 2006
+Geotag Info  : Latitude:35.148108, Longitude:-120.650814
+Views        : 97
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+The Elephant Seals
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Monterey Bay, California
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

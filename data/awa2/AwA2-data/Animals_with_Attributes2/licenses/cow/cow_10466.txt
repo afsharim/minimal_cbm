@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : freddie boy
+Photo URL    : https://www.flickr.com/photos/froderik/2951279106/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 28 11:40:51 GMT+0200 2008
+Upload Date  : Sat Oct 18 08:48:59 GMT+0200 2008
+Geotag Info  : Latitude:59.425176, Longitude:17.884325
+Views        : 109
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+cows encounter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+cow 

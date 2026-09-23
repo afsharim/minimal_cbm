@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/11525960713/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 2 14:00:17 GMT+0200 2013
+Upload Date  : Tue Dec 24 06:02:43 GMT+0100 2013
+Geotag Info  : Latitude:46.565115, Longitude:6.773371
+Views        : 6,662
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bear playing with the branch II
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Another picture of the bear's training!
+
+
++--------+
+|  TAGS  |
++--------+
+male syrian bear brown branch sport exerceise playing fun standing servion zoo lausanne switzerland nikon d4 

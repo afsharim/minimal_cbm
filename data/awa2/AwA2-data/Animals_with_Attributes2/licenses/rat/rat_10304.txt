@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : AlexK100
+Photo URL    : https://www.flickr.com/photos/alexk100/444028910/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Dec 16 16:29:56 GMT+0100 2006
+Upload Date  : Mon Apr 2 22:51:35 GMT+0200 2007
+Views        : 766
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Дерик
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+rat 

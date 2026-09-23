@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Susan Ellis, Bugwoord.org
+Photo URL    : https://commons.wikimedia.org/wiki/File:Epomophorus_wahlbergi1.jpg
+License      : Creative Commons (//en.wikipedia.org/wiki/en:Creative_Commons) Attribution 3.0 United States (//creativecommons.org/licenses/by/3.0/us/deed.en)
+Date         : 

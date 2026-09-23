@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : amandabhslater
+Photo URL    : https://www.flickr.com/photos/pikerslanefarm/8783055540/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue May 21 15:29:29 GMT+0200 2013
+Upload Date  : Wed May 22 12:08:36 GMT+0200 2013
+Geotag Info  : Latitude:52.500757, Longitude:-2.805290
+Views        : 243
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Shropshire Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Acton Scott Historic Working Farm
+
+
++--------+
+|  TAGS  |
++--------+
+"Acton Scott" farm historic working Victorian 

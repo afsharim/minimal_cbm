@@ -1,0 +1,38 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : YellowstoneNPS
+Photo URL    : https://www.flickr.com/photos/yellowstonenps/15665989939/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Nov 20 10:31:21 GMT+0100 2014
+Upload Date  : Sat Nov 22 17:00:23 GMT+0100 2014
+Views        : 4,432
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Grizzly bear near Canyon
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+NPS photo by Neal Herbert;
+Grizzly near Canyon;
+November 20, 2014;
+Catalog #19754d;
+Original #0414
+
+
++--------+
+|  TAGS  |
++--------+
+"Yellowstone National Park" Grizzly Bear 

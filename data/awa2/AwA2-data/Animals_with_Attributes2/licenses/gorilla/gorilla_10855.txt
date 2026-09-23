@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : John St John Photography
+Photo URL    : https://www.flickr.com/photos/jpstjohn/6172104731/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 28 14:57:18 GMT+0200 2011
+Upload Date  : Thu Sep 22 17:46:58 GMT+0200 2011
+Geotag Info  : Latitude:40.847839, Longitude:-73.881758
+Views        : 1,401
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+"You lookin' at me?"
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Bronx Zoo" animals gorilla Silverback 

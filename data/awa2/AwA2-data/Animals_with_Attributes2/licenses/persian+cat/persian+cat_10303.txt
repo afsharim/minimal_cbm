@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Phil Roeder
+Photo URL    : https://www.flickr.com/photos/tabor-roeder/16276797698/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Feb 4 08:41:59 GMT+0100 2015
+Upload Date  : Sat Feb 7 16:41:07 GMT+0100 2015
+Geotag Info  : Latitude:41.578775, Longitude:-93.660356
+Views        : 1,054
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Indoor
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Frau ... a German cat on a Persian rug.
+
+Photo taken as part of a lesson in white balance for a class at the Des Moines Art Center.
+
+
++--------+
+|  TAGS  |
++--------+
+"Des Moines" Iowa "Canon 15mm f2.8" cat "black and white" rug "Persian rug" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : NWCouncil
+Photo URL    : https://www.flickr.com/photos/nwcouncil/7362487662/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 3 11:09:58 GMT+0200 2011
+Upload Date  : Mon Jun 11 20:24:24 GMT+0200 2012
+Views        : 5,028
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Seal
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Seal at Yachats, Oregon
+Photo: Tony Grover
+
+
++--------+
+|  TAGS  |
++--------+
+oregon seal grover yachats 

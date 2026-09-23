@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : gharness
+Photo URL    : https://www.flickr.com/photos/gharness/5994341768/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 30 11:25:54 GMT+0200 2011
+Upload Date  : Sun Jul 31 17:20:53 GMT+0200 2011
+Geotag Info  : Latitude:43.655930, Longitude:-116.671779
+Views        : 1,134
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Pigs
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Pigs at the Canyon County Fair in Caldwell, Idaho.
+
+
++--------+
+|  TAGS  |
++--------+
+idaho caldwell "canyon county fair" "county fair" fair "canyon county" pigs hogs swine ffa 

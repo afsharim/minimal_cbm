@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Simon Cocks
+Photo URL    : https://www.flickr.com/photos/simon_cocks/4809460984/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 16 16:11:26 GMT+0200 2010
+Upload Date  : Mon Jul 19 19:27:44 GMT+0200 2010
+Geotag Info  : Latitude:53.904135, Longitude:-1.096572
+Views        : 1,096
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+One Sheep...
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Sheep in a field in York
+
+
++--------+
+|  TAGS  |
++--------+
+16/06/2010 sheep field animal "sheep portrait" "animal photography" "animal portrait" grey "sheep in a field" Olympus "Olympus E-Series" "Olympus E-420" e420 "Four Thirds" simoncocks 

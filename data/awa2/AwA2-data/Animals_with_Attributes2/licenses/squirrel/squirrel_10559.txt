@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Cristiano Betta
+Photo URL    : https://www.flickr.com/photos/cristiano_betta/1184966043/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 18 15:30:00 GMT+0200 2007
+Upload Date  : Mon Aug 20 21:42:04 GMT+0200 2007
+Geotag Info  : Latitude:51.501997, Longitude:-0.181660
+Views        : 139
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel chewing Nut
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Squirrel 

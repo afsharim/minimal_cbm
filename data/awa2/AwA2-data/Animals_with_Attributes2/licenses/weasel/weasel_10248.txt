@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : David Castor (dcastor)
+Photo URL    : https://commons.wikimedia.org/wiki/File:Mustela_putorius-1.jpg
+License      : public domain
+Date         : 08.09.2009

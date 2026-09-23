@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Stuart.Bassil
+Photo URL    : https://www.flickr.com/photos/93014478@N00/3358790995/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Mar 16 09:31:12 GMT+0100 2009
+Upload Date  : Mon Mar 16 10:31:12 GMT+0100 2009
+Views        : 31,515
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+An elephant in the Kruger National Park, South Africa
+
+
++--------+
+|  TAGS  |
++--------+
+"kruger national park" elephant 

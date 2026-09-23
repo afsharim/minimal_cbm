@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Photo_Robson
+Photo URL    : https://www.flickr.com/photos/martinrobson/7107278493/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Apr 5 12:45:17 GMT+0200 2012
+Upload Date  : Mon Apr 23 22:17:10 GMT+0200 2012
+Geotag Info  : Latitude:50.656433, Longitude:-1.220011
+Views        : 316
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+20120405-P4050751
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+OLYMPUS DIGITAL CAMERA
+
+
++--------+
+|  TAGS  |
++--------+
+"Amazon World" Europe Events Flickr Hampshire Holiday "Isle of Wight" Otter Places Subject UK animals public "exif:focal_length=150 mm" exif:iso_speed=400 geo:country= exif:model=e-620 geo:city= geo:state= geo:lon=-1.2200111111111 "exif:aperture=ƒ / 5.6" camera:model=e-620 geo:location= "camera:make=olympus imaging corp." geo:lat=50.656433333333 "exif:make=olympus imaging corp." "exif:lens=olympus 40-150mm lens" 

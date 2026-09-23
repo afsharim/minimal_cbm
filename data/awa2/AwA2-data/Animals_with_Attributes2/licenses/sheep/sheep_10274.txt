@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : deanwiles
+Photo URL    : https://www.flickr.com/photos/hundredline/6072282495/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 12 16:57:48 GMT+0200 2011
+Upload Date  : Tue Aug 23 11:46:47 GMT+0200 2011
+Geotag Info  : Latitude:-35.884599, Longitude:137.569427
+Views        : 414
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Full
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Kangaroo Island
+
+
++--------+
+|  TAGS  |
++--------+
+sheep 

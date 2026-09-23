@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Martin Cathrae
+Photo URL    : https://www.flickr.com/photos/suckamc/172327646/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 17 19:58:03 GMT+0200 2006
+Upload Date  : Thu Jun 22 03:40:41 GMT+0200 2006
+Geotag Info  : Latitude:44.667187, Longitude:-78.211326
+Views        : 1,295
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Beaver Swimming
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Caught a beaver swimming by our site, checking us out.
+
+
++--------+
+|  TAGS  |
++--------+
+"canoe trip 2006" beaver swimming water "kawartha highlands park" kawartha ontario canada 

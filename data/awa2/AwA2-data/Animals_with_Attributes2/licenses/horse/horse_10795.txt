@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : NH53
+Photo URL    : https://www.flickr.com/photos/nh53/15615766635/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Oct 17 15:41:12 GMT+0200 2014
+Upload Date  : Fri Oct 24 15:40:45 GMT+0200 2014
+Geotag Info  : Latitude:52.516351, Longitude:13.378182
+Views        : 248
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horse-drawn Carriage
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+germany berlin horse 

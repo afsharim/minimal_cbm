@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : M.J.K.Ranch
+Photo URL    : https://www.flickr.com/photos/bluebelltwist/2043454625/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 17 03:56:02 GMT+0100 2007
+Upload Date  : Sun Nov 18 18:55:21 GMT+0100 2007
+Views        : 1,133
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+bridleless
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+stacy westfall
+equine horse expo
+
+
++--------+
+|  TAGS  |
++--------+
+horses 

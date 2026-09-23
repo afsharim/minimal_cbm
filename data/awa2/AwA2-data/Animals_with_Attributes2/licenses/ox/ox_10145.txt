@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mcoughlin
+Photo URL    : https://www.flickr.com/photos/mcoughlin/11414456006/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 24 00:00:19 GMT+0100 2013
+Upload Date  : Tue Dec 17 06:51:17 GMT+0100 2013
+Geotag Info  : Latitude:-3.185482, Longitude:35.572892
+Views        : 583
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cape Buffalo, Adorned with Birds
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+I think the birds are oxpeckers (really), and, based on the beak of the one in the background, looks like they're red-billed oxpeckers.
+Ngorongoro Crater, Tanzania.
+
+
++--------+
+|  TAGS  |
++--------+
+"cape buffalo" ngorongoro tanzania oxpecker 

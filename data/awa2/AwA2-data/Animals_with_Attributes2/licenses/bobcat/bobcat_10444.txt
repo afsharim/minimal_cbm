@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ahisgett
+Photo URL    : https://www.flickr.com/photos/hisgett/4995874043/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Sep 16 14:47:52 GMT+0200 2010
+Upload Date  : Thu Sep 16 18:59:22 GMT+0200 2010
+Geotag Info  : Latitude:52.449821, Longitude:-1.910258
+Views        : 858
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Lynx 2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Lynx Big Cat 

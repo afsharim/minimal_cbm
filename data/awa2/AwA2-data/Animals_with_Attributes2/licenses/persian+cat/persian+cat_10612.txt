@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Kekka
+Photo URL    : https://www.flickr.com/photos/kekka/314257162/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Dec 4 21:26:22 GMT+0100 2006
+Upload Date  : Mon Dec 4 21:26:22 GMT+0100 2006
+Views        : 476
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Sleepy Sine
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+She loves to sleep in my bed.
+
+
++--------+
+|  TAGS  |
++--------+
+mobile cameraphone sine persian colourpoint sleepy bed 

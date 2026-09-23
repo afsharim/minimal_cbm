@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : 2e14
+Photo URL    : https://www.flickr.com/photos/2e14/4631580145/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 22 11:48:59 GMT+0200 2010
+Upload Date  : Sun May 23 16:27:50 GMT+0200 2010
+Geotag Info  : Latitude:52.379502, Longitude:9.770772
+Views        : 904
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+giraffe hannover tiere zoo animals 

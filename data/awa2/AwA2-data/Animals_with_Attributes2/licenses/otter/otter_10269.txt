@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Benson Kua
+Photo URL    : https://www.flickr.com/photos/bensonkua/1487556446/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 23 03:31:57 GMT+0200 2007
+Upload Date  : Fri Oct 5 05:17:02 GMT+0200 2007
+Views        : 193
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Toronto Zoo 

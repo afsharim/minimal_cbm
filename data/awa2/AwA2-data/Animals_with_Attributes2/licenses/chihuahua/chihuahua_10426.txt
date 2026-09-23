@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Juan.JGG
+Photo URL    : https://www.flickr.com/photos/juanjgg/8857935735/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 4 11:59:52 GMT+0200 2011
+Upload Date  : Mon May 27 21:56:46 GMT+0200 2013
+Views        : 194
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Playing @ the Park
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+My dogs playing at the park.
+Torrejon de Ardoz - Madrid - Spain
+
+
++--------+
+|  TAGS  |
++--------+
+dog chihuahua chuguagua 

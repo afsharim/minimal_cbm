@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Outburner
+Photo URL    : https://www.flickr.com/photos/latzko/5264617337/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Dec 15 16:36:23 GMT+0100 2010
+Upload Date  : Thu Dec 16 03:15:06 GMT+0100 2010
+Geotag Info  : Latitude:46.668110, Longitude:14.019756
+Views        : 1,461
+Comments     : 9
+
+
++---------+
+|  TITLE  |
++---------+
+ha ha ha
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Haflingergestüt Ossiach
+Nikon D300
+Nikkor 24-70af-s
+
+
++--------+
+|  TAGS  |
++--------+
+pferd haflinger horse laughing "nikon d300" "ossiacher tauern" carinthia austria "Nikkor 24-70af-s" 

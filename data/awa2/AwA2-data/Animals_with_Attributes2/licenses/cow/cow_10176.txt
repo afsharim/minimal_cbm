@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Christinamari
+Photo URL    : https://www.flickr.com/photos/christinamari76/5894375264/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 2 09:07:03 GMT+0200 2011
+Upload Date  : Sat Jul 2 18:07:03 GMT+0200 2011
+Geotag Info  : Latitude:51.268859, Longitude:0.068549
+Views        : 1,693
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cow in a field
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Encountered near Westerham, England, while illegally cycling along a footpath.
+
+
++--------+
+|  TAGS  |
++--------+
+cow landscape england 

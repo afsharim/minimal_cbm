@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : phidauex
+Photo URL    : https://www.flickr.com/photos/phidauex/10164379206/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 14 07:36:02 GMT+0200 2013
+Upload Date  : Wed Oct 9 06:41:37 GMT+0200 2013
+Geotag Info  : Latitude:48.029494, Longitude:11.520647
+Views        : 332
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Wild Pig in Munich
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+animals germany honeymoon munich travel Grünwald Bavaria 

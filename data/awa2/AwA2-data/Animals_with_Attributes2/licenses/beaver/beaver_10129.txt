@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ryan Hodnett
+Photo URL    : https://www.flickr.com/photos/ryanhodnett/22780269450/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Sep 21 12:04:13 GMT+0200 2015
+Upload Date  : Thu Nov 12 21:42:53 GMT+0100 2015
+Views        : 29
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+North American Beaver (Castor canadensis)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Location: Algonquin Provincial Park, Ontario, Canada.
+
+
++--------+
+|  TAGS  |
++--------+
+"Castor canadensis" "North American Beaver" Beaver Rodentia Rodents Mammals 

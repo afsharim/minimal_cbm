@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sally9258
+Photo URL    : https://www.flickr.com/photos/9258photo/4004208237/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 11 15:42:56 GMT+0200 2009
+Upload Date  : Mon Oct 12 15:37:21 GMT+0200 2009
+Views        : 330
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC02631
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+dog "border collie" 

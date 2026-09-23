@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : francois.michonneau
+Photo URL    : https://www.flickr.com/photos/francois_michonneau/5610644834/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Apr 17 15:57:59 GMT+0200 2009
+Upload Date  : Mon Apr 11 19:15:47 GMT+0200 2011
+Geotag Info  : Latitude:29.713252, Longitude:-82.452714
+Views        : 329
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Peromyscus gossypinus
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Mammals Mouse 

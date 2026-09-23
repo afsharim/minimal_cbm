@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : JosephSardin
+Photo URL    : https://www.flickr.com/photos/14328577@N08/3438278101/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Apr 13 18:56:36 GMT+0200 2009
+Upload Date  : Mon Apr 13 20:00:49 GMT+0200 2009
+Geotag Info  : Latitude:48.303418, Longitude:1.541519
+Views        : 575
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Souris 3
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Souris photographiée d'un peu loin. Il faut dire qu'après 20 minutes de planque dans une position inconfortable, je me suis dis qu'une photo de loin serait mieux que rien.
+
+
++--------+
+|  TAGS  |
++--------+
+souris mouse 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : thomas pix
+Photo URL    : https://www.flickr.com/photos/thomaspix/479135705/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 29 16:52:47 GMT+0200 2007
+Upload Date  : Tue May 1 02:03:11 GMT+0200 2007
+Geotag Info  : Latitude:38.557864, Longitude:-122.696771
+Views        : 100
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+zebra grazing
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+safari west sonoma california animals 

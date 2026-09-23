@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : psflannery
+Photo URL    : https://www.flickr.com/photos/paulflannery/2739210221/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 7 00:11:30 GMT+0200 2008
+Upload Date  : Thu Aug 7 01:11:30 GMT+0200 2008
+Views        : 172
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+dead mouse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+studio "studio documentary" mouse dead 

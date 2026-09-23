@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : .RGB.
+Photo URL    : https://www.flickr.com/photos/rbulmahn/4925200827/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Aug 24 09:31:13 GMT+0200 2010
+Upload Date  : Wed Aug 25 07:10:25 GMT+0200 2010
+Geotag Info  : Latitude:38.636001, Longitude:-90.289056
+Views        : 301
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_18780
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"St. Louis Zoo" Chimpanzee 

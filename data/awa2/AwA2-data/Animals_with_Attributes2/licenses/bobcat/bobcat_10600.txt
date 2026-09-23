@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : dominiqs
+Photo URL    : https://www.flickr.com/photos/dominiqs/2430886086/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 20 16:29:45 GMT+0200 2008
+Upload Date  : Mon Apr 21 10:28:04 GMT+0200 2008
+Geotag Info  : Latitude:45.527020, Longitude:11.062331
+Views        : 7,802
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Sleeping beauty
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Taken in Parco Al Bosco, near Verona. (<a href="http://www.flickr.com/photos/kaibara/2434011115/">this is my brother's version of the same big cat</a>)
+
+
++--------+
+|  TAGS  |
++--------+
+animals lynx mammals nature Romagnano Verona Italy sleeping 

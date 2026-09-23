@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Dave Stokes
+Photo URL    : https://www.flickr.com/photos/33909700@N02/3159669562/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 17 12:47:45 GMT+0200 2008
+Upload Date  : Fri Jan 2 12:49:22 GMT+0100 2009
+Geotag Info  : Latitude:51.373066, Longitude:-0.308218
+Views        : 43,934
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Tiger
+
+
++--------+
+|  TAGS  |
++--------+
+Animals Tiger 

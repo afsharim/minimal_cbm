@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : crschmidt
+Photo URL    : https://www.flickr.com/photos/crschmidt/3009023673/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Nov 5 22:56:51 GMT+0100 2008
+Upload Date  : Fri Nov 7 05:40:00 GMT+0100 2008
+Geotag Info  : Latitude:34.684290, Longitude:135.839843
+Views        : 96
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Photos from the Great Buddha Temple in Nara, Japan.
+
+
++--------+
+|  TAGS  |
++--------+
+datetaken:year=2008 datetaken:month=11 datetaken:day=06 nara temple Nara-ken Japan 

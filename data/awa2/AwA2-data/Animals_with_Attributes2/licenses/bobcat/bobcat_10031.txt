@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/7487369660/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 29 18:04:29 GMT+0200 2012
+Upload Date  : Mon Jul 2 17:00:18 GMT+0200 2012
+Geotag Info  : Latitude:52.702030, Longitude:10.262775
+Views        : 4,530
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Walking Luca
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Next picture of Luca the pretty lynx walking in the grass...
+
+
++--------+
+|  TAGS  |
++--------+
+lynx wild cat male walking grass portrait pretty filmtierpark park eschede germany nikon d700 

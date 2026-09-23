@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : rahego
+Photo URL    : https://www.flickr.com/photos/rahego/7834001484/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 12 17:11:21 GMT+0200 2012
+Upload Date  : Tue Aug 21 23:50:17 GMT+0200 2012
+Views        : 6,105
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tengo una vaca lechera
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+¡no es una vaca cualquiera!
+
+
++--------+
+|  TAGS  |
++--------+
+vaca cow 

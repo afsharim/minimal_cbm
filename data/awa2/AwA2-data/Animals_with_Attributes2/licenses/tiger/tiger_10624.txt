@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : wo.men
+Photo URL    : https://www.flickr.com/photos/16aabb16/5460629305/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 3 13:21:08 GMT+0200 2010
+Upload Date  : Sun Feb 20 12:06:28 GMT+0100 2011
+Geotag Info  : Latitude:49.450355, Longitude:11.148290
+Views        : 353
+Comments     : 21
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Nürnberger Tierpark" Tierpark Tiere "Tierpark Nürnberg" Tiger "Panthera tigris" 

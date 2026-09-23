@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : kissyface
+Photo URL    : https://www.flickr.com/photos/kissyface/2138687729/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Dec 27 02:06:26 GMT+0100 2007
+Upload Date  : Wed Dec 26 22:36:20 GMT+0100 2007
+Views        : 115
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+He seemed kind of sad.  So we talked to him for a little while. =)
+
+
++--------+
+|  TAGS  |
++--------+
+Raw 

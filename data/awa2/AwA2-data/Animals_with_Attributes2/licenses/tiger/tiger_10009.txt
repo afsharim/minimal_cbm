@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/633384081/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 9 14:18:03 GMT+0200 2007
+Upload Date  : Tue Jun 26 22:49:35 GMT+0200 2007
+Geotag Info  : Latitude:52.508189, Longitude:13.338603
+Views        : 12,493
+Comments     : 30
+
+
++---------+
+|  TITLE  |
++---------+
+Caged tiger 2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Portrait of one of the tigers, in the cage
+
+
++--------+
+|  TAGS  |
++--------+
+zoo animal tiger "panthera tigris" cage berlin portrait tongue PhotoFaceOffWinner tigre cat feline wildcat bigcat PFOSilver panthera tigris wild big kitty felid striped stripes 

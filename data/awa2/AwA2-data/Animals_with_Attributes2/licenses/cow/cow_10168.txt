@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : psyberartist
+Photo URL    : https://www.flickr.com/photos/psyberartist/8307567193/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 23 16:26:41 GMT+0100 2012
+Upload Date  : Tue Dec 25 22:57:24 GMT+0100 2012
+Geotag Info  : Latitude:27.465098, Longitude:-82.534489
+Views        : 309
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+cow field
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+cow cattle calf farm portrait 

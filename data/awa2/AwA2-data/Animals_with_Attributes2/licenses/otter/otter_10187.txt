@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Bob the courier
+Photo URL    : https://www.flickr.com/photos/27828336@N00/17134085221/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Apr 10 14:53:57 GMT+0200 2015
+Upload Date  : Mon Apr 13 16:15:11 GMT+0200 2015
+Geotag Info  : Latitude:56.518878, Longitude:-5.345106
+Views        : 279
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Otter (3)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Scottish Sea Life Centre, near Oban
+
+
++--------+
+|  TAGS  |
++--------+
+Oban Otter "Scottish Sea Life Centre" Scotland 

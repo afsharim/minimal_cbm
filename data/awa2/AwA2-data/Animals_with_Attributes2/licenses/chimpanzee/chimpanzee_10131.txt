@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Eric Kilby
+Photo URL    : https://www.flickr.com/photos/ekilby/14218390931/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 12 15:00:53 GMT+0200 2014
+Upload Date  : Mon May 19 15:18:35 GMT+0200 2014
+Geotag Info  : Latitude:42.064268, Longitude:-71.586366
+Views        : 1,250
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Chimp Sitting and Looking
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+southwicks zoo ape primate chimp chimpanzee 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Marie Hale
+Photo URL    : https://www.flickr.com/photos/15016964@N02/5895401696/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 29 10:41:30 GMT+0200 2010
+Upload Date  : Sun Jul 3 00:17:09 GMT+0200 2011
+Views        : 3,024
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Asian elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Asian elephant - taken at Twycross Zoo on 29th August 2010
+
+
++--------+
+|  TAGS  |
++--------+
+elephant 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : eedrummer
+Photo URL    : https://www.flickr.com/photos/gregorowicz/5888949883/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 26 14:44:31 GMT+0200 2011
+Upload Date  : Fri Jul 1 02:15:50 GMT+0200 2011
+Geotag Info  : Latitude:36.518440, Longitude:-121.952728
+Views        : 40
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+They are way more friendly on the west coast
+
+
++--------+
+|  TAGS  |
++--------+
+pointlobos 

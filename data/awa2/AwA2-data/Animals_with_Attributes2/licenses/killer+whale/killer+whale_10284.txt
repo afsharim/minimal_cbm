@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : D-Stanley
+Photo URL    : https://www.flickr.com/photos/davidstanleytravel/8846735427/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 26 15:38:29 GMT+0200 2013
+Upload Date  : Mon May 27 00:43:38 GMT+0200 2013
+Geotag Info  : Latitude:49.237663, Longitude:-126.101074
+Views        : 1,565
+Comments     : 14
+
+
++---------+
+|  TITLE  |
++---------+
+Transient Killer Whales
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Transient killer whales in Clayoquot Sound near Tofino, British Columbia, Canada.
+
+
++--------+
+|  TAGS  |
++--------+
+tofino "vancouver island" "British Columbia" Canada cloudy day 

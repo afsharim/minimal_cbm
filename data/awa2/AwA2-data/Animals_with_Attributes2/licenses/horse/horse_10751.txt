@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Wynand Basson
+Photo URL    : https://www.flickr.com/photos/wynandbasson/11371048803/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Nov 13 19:06:21 GMT+0100 2012
+Upload Date  : Sat Dec 14 19:49:07 GMT+0100 2013
+Views        : 289
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Late afternoon sun bringing out the golden glow of this magnificent animal
+
+
++--------+
+|  TAGS  |
++--------+
+horse animals sunset landscapes "golden glow" magnificent beauty 

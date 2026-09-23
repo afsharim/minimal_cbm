@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : vandermeulen_melissa
+Photo URL    : https://www.flickr.com/photos/melissa_vandermeulen/1440431611/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Sep 25 21:23:31 GMT+0200 2007
+Upload Date  : Wed Sep 26 06:23:31 GMT+0200 2007
+Views        : 9
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+pigs
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

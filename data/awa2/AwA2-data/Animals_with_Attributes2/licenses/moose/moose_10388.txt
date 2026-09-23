@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mmmavocado
+Photo URL    : https://www.flickr.com/photos/mmmavocado/5753390767/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue May 17 12:28:31 GMT+0200 2011
+Upload Date  : Tue May 24 07:32:53 GMT+0200 2011
+Geotag Info  : Latitude:43.832842, Longitude:-110.515251
+Views        : 40
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Moose
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+In Grand Teton National Park
+
+
++--------+
+|  TAGS  |
++--------+
+Yellowstone 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : rubengarciajrphotography
+Photo URL    : https://www.flickr.com/photos/jrphotographyme/6468894503/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 20 01:36:43 GMT+0100 2011
+Upload Date  : Wed Dec 7 01:45:03 GMT+0100 2011
+Geotag Info  : Latitude:34.009554, Longitude:-81.074037
+Views        : 1,361
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Gorilla
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Riverbank Zoo South Carolina
+
+
++--------+
+|  TAGS  |
++--------+
+"Riverbanks Zoo" zoo "South Carolina" animals monkeys nature wildlife gorilla closeup 

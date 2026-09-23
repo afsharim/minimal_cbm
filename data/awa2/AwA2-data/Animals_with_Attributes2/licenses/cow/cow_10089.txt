@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jmgold
+Photo URL    : https://www.flickr.com/photos/jmgold/1464210385/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 23 12:51:36 GMT+0200 2007
+Upload Date  : Sun Sep 30 23:12:21 GMT+0200 2007
+Geotag Info  : Latitude:42.090707, Longitude:-72.614672
+Views        : 236
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Big Cow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Big E" "West Springfield" fair Massachusetts 

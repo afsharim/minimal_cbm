@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mrsdkrebs
+Photo URL    : https://www.flickr.com/photos/mrsdkrebs/6834540730/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Mar 13 18:07:14 GMT+0100 2012
+Upload Date  : Wed Mar 14 01:23:25 GMT+0100 2012
+Views        : 2,609
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bandit, the Border Collie
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"border collie" 

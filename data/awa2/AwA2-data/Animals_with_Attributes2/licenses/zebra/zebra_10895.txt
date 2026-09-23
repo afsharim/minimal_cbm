@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ralph and jenny
+Photo URL    : https://www.flickr.com/photos/ralphandjenny/8053716306/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Sep 28 14:07:41 GMT+0200 2012
+Upload Date  : Thu Oct 4 16:32:28 GMT+0200 2012
+Geotag Info  : Latitude:32.419315, Longitude:-86.277618
+Views        : 7,353
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Zebra in Montgomery Zoo.  The animals have plenty of room at this Alabama zoo.
+
+
++--------+
+|  TAGS  |
++--------+
+"AF VR Zoom 70-200mm f/2.8G IF-ED" alabama animals "Grant's Zebra" mammals Montgomery "Montgomery Zoo" "NIKON D7000" "Nikon TC-14E II 1.4x Teleconverter" wildlife zebra zoo "zoological garden" "zoological park" 

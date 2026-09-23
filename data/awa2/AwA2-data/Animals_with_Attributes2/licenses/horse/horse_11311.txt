@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Nico Kaiser
+Photo URL    : https://www.flickr.com/photos/nicokaiser/10057848924/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 15 14:44:13 GMT+0200 2013
+Upload Date  : Wed Oct 2 20:56:06 GMT+0200 2013
+Geotag Info  : Latitude:55.234169, Longitude:-6.328689
+Views        : 1,729
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Pferd
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Ein Pferd steht auf einer Wiese an der Causeway Coastal Route
+
+
++--------+
+|  TAGS  |
++--------+
+Ballintoy "Northern Ireland" "United Kingdom" canon 60d 

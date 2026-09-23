@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jill Kemerer
+Photo URL    : https://www.flickr.com/photos/jillkemerer/15469041395/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Sep 16 12:06:47 GMT+0200 2014
+Upload Date  : Tue Oct 7 16:35:16 GMT+0200 2014
+Views        : 371
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+elephant at the zoo
+
+
++--------+
+|  TAGS  |
++--------+
+elephant brown zoo trunk animal 

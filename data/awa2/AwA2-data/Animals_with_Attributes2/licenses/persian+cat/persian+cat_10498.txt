@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Graham Poulter
+Photo URL    : https://www.flickr.com/photos/grahampoulter/3348576093/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Mar 12 16:57:04 GMT+0100 2009
+Upload Date  : Thu Mar 12 15:57:04 GMT+0100 2009
+Geotag Info  : Latitude:-33.980858, Longitude:18.464605
+Views        : 402
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Persian cat that lives in the store
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+cat 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Maurice Koop
+Photo URL    : https://www.flickr.com/photos/mauricekoop/2395869711/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 6 16:57:54 GMT+0200 2008
+Upload Date  : Mon Apr 7 20:26:44 GMT+0200 2008
+Geotag Info  : Latitude:51.868247, Longitude:5.886064
+Views        : 3,905
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Border Collie
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Border Collie" Nijmegen "Waalstrand 'De Sprok'" 

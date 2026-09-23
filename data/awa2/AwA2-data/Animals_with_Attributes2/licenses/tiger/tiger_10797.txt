@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : brx0
+Photo URL    : https://www.flickr.com/photos/atul666/4629603359/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Apr 16 15:42:10 GMT+0200 2010
+Upload Date  : Sat May 22 22:39:42 GMT+0200 2010
+Geotag Info  : Latitude:45.508955, Longitude:-122.713819
+Views        : 587
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger, Oregon Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+oregon-zoo tiger portland 

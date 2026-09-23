@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ian02054
+Photo URL    : https://www.flickr.com/photos/ian02054/13975957449/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 10 13:56:50 GMT+0200 2014
+Upload Date  : Sun May 11 21:07:03 GMT+0200 2014
+Geotag Info  : Latitude:42.109684, Longitude:-71.319873
+Views        : 153
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Leave it to Beaver
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Nikon D90" "Stony Brook" Wildlife Beaver 

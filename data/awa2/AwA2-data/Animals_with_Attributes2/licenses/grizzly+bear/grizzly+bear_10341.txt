@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : fung.leo
+Photo URL    : https://www.flickr.com/photos/fungleo/3892305065/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 10 11:09:03 GMT+0200 2009
+Upload Date  : Sun Sep 6 16:26:59 GMT+0200 2009
+Geotag Info  : Latitude:51.047033, Longitude:-114.030017
+Views        : 1,002
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Epic Bear.
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Like I said.  Some animals know how to pose.
+
+
++--------+
+|  TAGS  |
++--------+
+grizzly bear calgary zoo alberta canada fence canon eos digital rebel xsi 55-200mm 

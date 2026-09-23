@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : [MGM]
+Photo URL    : https://www.flickr.com/photos/mgerlach/4500868423/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Apr 7 18:50:47 GMT+0200 2010
+Upload Date  : Thu Apr 8 02:02:05 GMT+0200 2010
+Views        : 254
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Origami
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Mi nueva mascota. Es el hamster más bakanoso de todo el planeta!
+
+
++--------+
+|  TAGS  |
++--------+
+origami hamster pet 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : digitonin
+Photo URL    : https://www.flickr.com/photos/digitonin/2879795540/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 13 08:58:33 GMT+0200 2008
+Upload Date  : Tue Sep 23 20:24:39 GMT+0200 2008
+Geotag Info  : Latitude:34.022386, Longitude:-118.289794
+Views        : 91
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_9846
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : alberth2
+Photo URL    : https://www.flickr.com/photos/alberth2/2237205308/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Feb 28 15:27:58 GMT+0100 2007
+Upload Date  : Sat Feb 2 18:28:43 GMT+0100 2008
+Geotag Info  : Latitude:-45.867301, Longitude:170.747280
+Views        : 209
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep @ Otago Peninsula
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Otago Peninsula" Sheep 

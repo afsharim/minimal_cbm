@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : >>> Silly Rabbit, Trix are for Kids <<<
+Photo URL    : https://www.flickr.com/photos/frankyu/19978567/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jan 2 12:53:50 GMT+0100 2004
+Upload Date  : Sat Jun 18 04:11:36 GMT+0200 2005
+Views        : 163
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSCN2541
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+bat eating
+
+
++--------+
+|  TAGS  |
++--------+
+bat 

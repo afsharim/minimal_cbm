@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Drew Avery
+Photo URL    : https://www.flickr.com/photos/33590535@N06/3680660947/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 10 11:42:41 GMT+0200 2009
+Upload Date  : Thu Jul 2 12:33:22 GMT+0200 2009
+Geotag Info  : Latitude:1.404264, Longitude:103.789429
+Views        : 3,164
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Bengal White Tiger {Panthera tigris tigris}
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Singapore Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+"singapore zoo" "taxonomy:common=Bengal White Tiger" "taxonomy:binomial=Panthera tigris" 

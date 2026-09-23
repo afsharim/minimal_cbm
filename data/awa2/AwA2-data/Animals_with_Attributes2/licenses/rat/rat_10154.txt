@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : wollombi
+Photo URL    : https://www.flickr.com/photos/wollombi/95732930/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 5 20:46:49 GMT+0100 2006
+Upload Date  : Sun Feb 5 14:02:22 GMT+0100 2006
+Geotag Info  : Latitude:-32.962417, Longitude:151.107916
+Views        : 710
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cornered!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+laguna "rattus norvegicus" "brown rat" "yango creek" wollombi pc2325 nsw "New South Wales" "Hunter Valley" "Wollombi Valley" Australia geo:location=Wollombi geotagged geo:lat=-32.963262 geo:lon=151.107277 "bulls run" bunda-pun-yara 

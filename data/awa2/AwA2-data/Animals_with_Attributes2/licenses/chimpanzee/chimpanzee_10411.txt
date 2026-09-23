@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : view from 5'2"
+Photo URL    : https://www.flickr.com/photos/viewfrom52/2081372947/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Nov 23 10:13:09 GMT+0100 2007
+Upload Date  : Sun Dec 2 23:28:02 GMT+0100 2007
+Geotag Info  : Latitude:-25.785285, Longitude:31.075344
+Views        : 379
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cozi - Doing his Dance
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+look out for the flying stones
+
+
++--------+
+|  TAGS  |
++--------+
+chimpanzee 

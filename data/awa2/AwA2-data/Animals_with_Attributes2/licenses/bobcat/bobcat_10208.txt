@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Richard Masoner / Cyclelicious
+Photo URL    : https://www.flickr.com/photos/bike/356351313/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 13 16:54:24 GMT+0100 2007
+Upload Date  : Sun Jan 14 01:54:08 GMT+0100 2007
+Geotag Info  : Latitude:36.959421, Longitude:-122.084176
+Views        : 1,159
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+Bobcat at Wilder Ranch
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+We spotted this bobcat walking down the RR tracks while we walked around Wilder Ranch State Park in California.
+
+
++--------+
+|  TAGS  |
++--------+
+bobcat wilder+ranch tracks wildlife 

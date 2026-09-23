@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Derek Keats
+Photo URL    : https://www.flickr.com/photos/dkeats/6073140257/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 19 14:24:00 GMT+0200 2011
+Upload Date  : Tue Aug 23 17:55:45 GMT+0200 2011
+Views        : 249
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Portrait of two zebras drinking
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Portrait of two zebras drinking
+
+
++--------+
+|  TAGS  |
++--------+
+KwaZulu-Natal "South Africa" "Mkhuze Game Reserve" 

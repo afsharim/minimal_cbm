@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Photographing Travis
+Photo URL    : https://www.flickr.com/photos/photographingtravis/24502414592/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 23 09:24:38 GMT+0100 2016
+Upload Date  : Mon Jan 25 21:22:53 GMT+0100 2016
+Geotag Info  : Latitude:37.114488, Longitude:-122.326492
+Views        : 393
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant Seal Adventure
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Ano Nuevo State Park, Pescadero, California
+
+
++--------+
+|  TAGS  |
++--------+
+animals "ano nuevo" beach creatures "elephant seal" "half moon bay" nature park pescadero 

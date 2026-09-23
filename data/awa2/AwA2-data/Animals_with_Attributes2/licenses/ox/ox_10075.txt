@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Larry Smith2010
+Photo URL    : https://www.flickr.com/photos/lsmith2010/5414006289/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 29 10:35:30 GMT+0100 2011
+Upload Date  : Fri Feb 4 00:25:06 GMT+0100 2011
+Geotag Info  : Latitude:34.704717, Longitude:-98.672847
+Views        : 1,013
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+Beast
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Texas Longhorn in the Wichita Mountains Wildlife Refuge
+SW Oklahoma
+
+
++--------+
+|  TAGS  |
++--------+
+"Wichita Mountains" "Larry Smith" Oklahoma "Wichita Mountains Wildlife Refuge" 

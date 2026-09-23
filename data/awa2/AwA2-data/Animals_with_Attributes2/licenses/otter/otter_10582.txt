@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : nordique
+Photo URL    : https://www.flickr.com/photos/nordique/9226269164/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 5 14:56:14 GMT+0200 2013
+Upload Date  : Sat Jul 6 22:37:19 GMT+0200 2013
+Geotag Info  : Latitude:47.665119, Longitude:-122.349539
+Views        : 20
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Otters!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

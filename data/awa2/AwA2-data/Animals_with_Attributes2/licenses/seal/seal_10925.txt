@@ -1,0 +1,39 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/3548494917/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri May 8 14:52:46 GMT+0200 2009
+Upload Date  : Wed May 20 18:33:33 GMT+0200 2009
+Geotag Info  : Latitude:46.934821, Longitude:7.449455
+Views        : 11,772
+Comments     : 144
+
+
++---------+
+|  TITLE  |
++---------+
+Swimming seal
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A harbor seal of the Dählhölzli zoo in Bern swimming in the pond. This time I was quite lucky with the light and distance.
+
+Made it in Explore, #281, May 20th, 2009
+
+<a href="http://loc.alize.us/#/flickr:3548494917" rel="nofollow">See where this picture was taken.</a> <a href="http://www.flickr.com/groups/geotagging/discuss/72157594165549916/">[?]</a>
+
+
++--------+
+|  TAGS  |
++--------+
+harbor seal water surface swimming eyes cute zoo bern switzerland nikon d300 explore dählhölzli berne VosPlusBellesPhotos geo:lat=46.934821 geo:lon=7.449455 geotagged 

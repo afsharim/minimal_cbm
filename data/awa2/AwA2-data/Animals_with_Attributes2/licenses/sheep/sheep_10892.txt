@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Joye~
+Photo URL    : https://www.flickr.com/photos/25692668@N06/2826567960/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 28 07:16:09 GMT+0200 2008
+Upload Date  : Thu Sep 4 01:42:07 GMT+0200 2008
+Views        : 150
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Connemara region, Ireland
+Along the R344, near Finnisglin
+
+
++--------+
+|  TAGS  |
++--------+
+Ireland g5 "Microsoft Office Picture Manager" 

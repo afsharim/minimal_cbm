@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jjandames
+Photo URL    : https://www.flickr.com/photos/jjandames/6267693965/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Oct 21 08:40:31 GMT+0200 2011
+Upload Date  : Sat Oct 22 04:38:29 GMT+0200 2011
+Views        : 21
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"North Carolina" "Grandfather Mountain" 

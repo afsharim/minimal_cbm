@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Alex Popovkin, Bahia, Brazil
+Photo URL    : https://www.flickr.com/photos/plants_of_russian_in_brazil/6285837314/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Oct 26 12:19:54 GMT+0200 2011
+Upload Date  : Thu Oct 27 12:12:18 GMT+0200 2011
+Geotag Info  : Latitude:-11.961410, Longitude:-38.042907
+Views        : 1,683
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Eptesicus sp., Vespertilionidae, Atlantic forest, northern littoral of Bahia, Brazil
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+taxonomy:family=Vespertilionidae taxonomy:genus=Eptesicus geo:country=Brazil geo:lat=-12.01 geo:lon=-38.02 geo:alt=150 "Entre Rios, Bahia, Brazil" "Bahia, Brazil" Brazil "Atlantic forest" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Indo_girl2010
+Photo URL    : https://www.flickr.com/photos/jen_lipp/5227567599/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Nov 24 05:31:16 GMT+0100 2010
+Upload Date  : Fri Dec 3 04:24:18 GMT+0100 2010
+Geotag Info  : Latitude:-6.577132, Longitude:106.787624
+Views        : 914
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer portrait
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+deer 

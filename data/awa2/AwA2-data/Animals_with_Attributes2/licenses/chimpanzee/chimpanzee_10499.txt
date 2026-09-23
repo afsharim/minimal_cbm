@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ravend
+Photo URL    : https://www.flickr.com/photos/ravendr78/6206312342/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 2 14:09:14 GMT+0200 2011
+Upload Date  : Mon Oct 3 04:52:56 GMT+0200 2011
+Views        : 177
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_2430
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Piggyback!
+
+
++--------+
+|  TAGS  |
++--------+
+"Knoxville Zoo" chimpanzee 

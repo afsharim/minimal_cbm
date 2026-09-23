@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jim Bauer
+Photo URL    : https://www.flickr.com/photos/lens-cap/9470224956/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 3 16:23:04 GMT+0200 2013
+Upload Date  : Fri Aug 9 04:36:10 GMT+0200 2013
+Geotag Info  : Latitude:43.031945, Longitude:-88.040699
+Views        : 1,719
+Comments     : 11
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Milwaukee County Zoo" animals 

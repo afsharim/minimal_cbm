@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : totobotteri
+Photo URL    : https://www.flickr.com/photos/totobotteri/2575000025/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 2 22:16:36 GMT+0200 2008
+Upload Date  : Fri Jun 13 17:38:47 GMT+0200 2008
+Views        : 3
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Nile Hippopotamus
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

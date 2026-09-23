@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Charlie Day DaytimeStudios
+Photo URL    : https://www.flickr.com/photos/60700203@N03/5598056383/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Apr 7 11:01:43 GMT+0200 2011
+Upload Date  : Thu Apr 7 20:18:22 GMT+0200 2011
+Geotag Info  : Latitude:37.608571, Longitude:-122.016531
+Views        : 316
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep on Hillside
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Shot at Dry Creek Estate in Union City.
+
+
++--------+
+|  TAGS  |
++--------+
+California "Dry Creek Estate" Grassland Park Sheep "Union City" 

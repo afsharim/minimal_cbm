@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : berniedup
+Photo URL    : https://www.flickr.com/photos/berniedup/12011266365/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Dec 9 11:51:28 GMT+0100 2013
+Upload Date  : Sat Jan 18 14:42:38 GMT+0100 2014
+Geotag Info  : Latitude:-24.474337, Longitude:31.974849
+Views        : 943
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hippos (Hippopotamus amphibius)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Sweni Waterhole, S137 Road East of Satara, Kruger NP, SOUTH AFRICA
+
+
++--------+
+|  TAGS  |
++--------+
+"Hippopotamus amphibius" "taxonomy:binomial=Hippopotamus amphibius" 

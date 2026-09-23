@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : elyob
+Photo URL    : https://www.flickr.com/photos/elyob/3440090528/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 12 13:28:37 GMT+0200 2009
+Upload Date  : Tue Apr 14 02:00:46 GMT+0200 2009
+Geotag Info  : Latitude:51.173656, Longitude:-2.272404
+Views        : 23
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Longleat Giraffes
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

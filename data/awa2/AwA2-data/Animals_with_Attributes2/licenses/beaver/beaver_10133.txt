@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : tuchodi
+Photo URL    : https://www.flickr.com/photos/tuchodi/832995991/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 13 20:08:30 GMT+0200 2007
+Upload Date  : Tue Jul 17 05:09:32 GMT+0200 2007
+Geotag Info  : Latitude:56.621389, Longitude:-122.437778
+Views        : 313
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Our Friend the Beaver
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Beaver in the Upper Halfway River
+
+
++--------+
+|  TAGS  |
++--------+
+beaver "halfway river" geotagged geo:lon=-122.437778 geo:lat=56.621389 

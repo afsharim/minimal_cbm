@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : stanrandom
+Photo URL    : https://www.flickr.com/photos/stanrandom/374887472/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 27 14:03:35 GMT+0100 2007
+Upload Date  : Tue Jan 30 23:43:32 GMT+0100 2007
+Views        : 288
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+grey squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Too contrasty?
+
+
++--------+
+|  TAGS  |
++--------+
+nikon d200 "nikon d200" squirrel "grey squirrel" "gray squirrel" "70-200mm vr" 

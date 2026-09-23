@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : krishanu_seal
+Photo URL    : https://www.flickr.com/photos/krishanu_seal/6992127732/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 1 00:00:00 GMT+0200 2006
+Upload Date  : Thu May 3 10:28:29 GMT+0200 2012
+Geotag Info  : Latitude:12.301014, Longitude:76.668128
+Views        : 45
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebras, Mysore Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

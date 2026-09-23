@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jeffk
+Photo URL    : https://www.flickr.com/photos/jeffk/76056663/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Nov 10 12:58:24 GMT+0100 2005
+Upload Date  : Thu Dec 22 00:04:48 GMT+0100 2005
+Geotag Info  : Latitude:21.881461, Longitude:-159.476219
+Views        : 456
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Eyeing the Sea
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A monk seal prepares to head to sea as the sun sets.
+
+
++--------+
+|  TAGS  |
++--------+
+monk seal sunset kauai honeymoon 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : leo.laempel
+Photo URL    : https://www.flickr.com/photos/laempel/5966867234/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 14 15:58:00 GMT+0200 2011
+Upload Date  : Sat Jul 23 14:27:19 GMT+0200 2011
+Views        : 30
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Etosha Zebras
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Hulk, Smash!
+Photo URL    : https://www.flickr.com/photos/focalpunkt/8370171457/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jan 11 18:26:01 GMT+0100 2013
+Upload Date  : Fri Jan 11 19:28:10 GMT+0100 2013
+Views        : 196
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Here s the infamous mouse Well he s a hamster name
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

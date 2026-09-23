@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : David A Mitchell
+Photo URL    : https://www.flickr.com/photos/firstmac/7425931512/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 21 09:38:10 GMT+0200 2012
+Upload Date  : Sat Jun 23 16:58:54 GMT+0200 2012
+Views        : 73
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_8754-94.jpg
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Colombian Ground Squirrel" 

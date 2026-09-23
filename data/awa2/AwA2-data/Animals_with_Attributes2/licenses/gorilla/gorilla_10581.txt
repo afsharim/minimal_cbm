@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : aberg94
+Photo URL    : https://www.flickr.com/photos/photographyab/4599004663/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue May 11 16:20:20 GMT+0200 2010
+Upload Date  : Tue May 11 22:20:20 GMT+0200 2010
+Views        : 20
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_9219
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

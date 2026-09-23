@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : CMDPalmr
+Photo URL    : https://www.flickr.com/photos/100433692@N04/9574854995/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Mar 6 11:17:45 GMT+0100 2012
+Upload Date  : Fri Aug 23 16:00:14 GMT+0200 2013
+Geotag Info  : Latitude:26.445061, Longitude:-81.737251
+Views        : 211
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+deer 001
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+deer Estero 

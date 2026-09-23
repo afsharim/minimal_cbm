@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Iain Farrell
+Photo URL    : https://www.flickr.com/photos/iain/7220202770/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed May 16 19:22:39 GMT+0200 2012
+Upload Date  : Fri May 18 09:57:19 GMT+0200 2012
+Geotag Info  : Latitude:54.482738, Longitude:-0.970348
+Views        : 154
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Big cow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+darktable highland cow 

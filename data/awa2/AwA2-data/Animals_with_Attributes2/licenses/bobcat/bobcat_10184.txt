@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : VanDerMouche
+Photo URL    : https://www.flickr.com/photos/mgoulet/2517114091/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Apr 25 15:25:38 GMT+0200 2008
+Upload Date  : Sat May 24 06:22:55 GMT+0200 2008
+Geotag Info  : Latitude:45.559640, Longitude:-73.549776
+Views        : 240
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Biodome-4
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Lynx.
+
+
++--------+
+|  TAGS  |
++--------+
+2008 Lynx Biodome Montréal 

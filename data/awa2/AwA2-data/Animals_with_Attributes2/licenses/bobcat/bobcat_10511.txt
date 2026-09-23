@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jacme31
+Photo URL    : https://www.flickr.com/photos/jacme31/3941896253/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Aug 12 20:22:01 GMT+0200 2009
+Upload Date  : Mon Sep 21 23:41:22 GMT+0200 2009
+Geotag Info  : Latitude:48.664663, Longitude:-72.457580
+Views        : 1,127
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Lynx
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+zoo sauvage de saint félicien
+
+
++--------+
+|  TAGS  |
++--------+
+québec canada zoo St-Félicien "zoo sauvage" lynx 

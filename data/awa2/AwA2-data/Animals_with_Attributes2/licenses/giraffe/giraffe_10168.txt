@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : yenna
+Photo URL    : https://www.flickr.com/photos/yenna/4006941721/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 11 16:08:33 GMT+0200 2009
+Upload Date  : Tue Oct 13 07:11:09 GMT+0200 2009
+Geotag Info  : Latitude:42.104389, Longitude:-88.454193
+Views        : 56
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+freakin' giraffe!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"goebberts farm" autumnisawesome 

@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/4873350684/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 26 12:58:09 GMT+0200 2010
+Upload Date  : Sun Aug 8 23:15:40 GMT+0200 2010
+Geotag Info  : Latitude:46.565115, Longitude:6.773371
+Views        : 2,715
+Comments     : 6
+
+
++---------+
+|  TITLE  |
++---------+
+Female Syrian Bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+One of the two Syrian bears of the zoo of Servion : the female.
+Now they live in a newer and bigger enclosure, with lots of grass.
+
+
++--------+
+|  TAGS  |
++--------+
+bear female walking portrait syrian brown zoo servion switzerland nikon d300 

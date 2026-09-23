@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : eXtensionHorses
+Photo URL    : https://www.flickr.com/photos/64081615@N06/5887979197/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 30 11:05:57 GMT+0200 2011
+Upload Date  : Thu Jun 30 20:05:57 GMT+0200 2011
+Views        : 1,363
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Oregon_Horses_neglected
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Horses in poor condition. Photo source: Patricia Evans, Utah State University. 
+
+More info: <a href="http://www.extension.org/pages/20162/unwanted-horses" rel="nofollow">www.extension.org/pages/20162/unwanted-horses</a>
+
+
++--------+
+|  TAGS  |
++--------+
+horse extensionhorses 

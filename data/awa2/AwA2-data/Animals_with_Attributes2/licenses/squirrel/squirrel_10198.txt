@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : quattrostagioni
+Photo URL    : https://www.flickr.com/photos/quattrostagioni/5648074402/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 2 17:37:00 GMT+0200 2011
+Upload Date  : Sun Apr 24 02:45:10 GMT+0200 2011
+Geotag Info  : Latitude:51.453498, Longitude:-2.607128
+Views        : 147
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Freeze, Mister!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Stopped for loitering with intent to steal nuts
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel 

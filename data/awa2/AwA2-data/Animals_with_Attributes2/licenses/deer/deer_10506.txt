@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : darrinsimmons
+Photo URL    : https://www.flickr.com/photos/darrinsimmons/5307568863/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Dec 30 09:08:17 GMT+0100 2010
+Upload Date  : Fri Dec 31 00:58:50 GMT+0100 2010
+Geotag Info  : Latitude:39.430624, Longitude:-122.183675
+Views        : 71
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+darrinsimmons wildlife "Sacramento National Wildlife Refuge" "National Wildlife Refuge" 

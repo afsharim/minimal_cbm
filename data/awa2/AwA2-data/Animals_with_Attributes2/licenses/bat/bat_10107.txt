@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : berniedup
+Photo URL    : https://www.flickr.com/photos/berniedup/24776812271/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 1 00:00:00 GMT+0100 1992
+Upload Date  : Sun Feb 7 11:26:10 GMT+0100 2016
+Geotag Info  : Latitude:10.834238, Longitude:-85.612978
+Views        : 445
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Gray Sac-winged Bat (Balantiopteryx plicata)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+La Casona, Santa Rosa NP, Guanacaste, COSTA RICA
+
+Scanned Slide from 1992
+
+
++--------+
+|  TAGS  |
++--------+
+"Balantiopteryx plicata" "COSTA RICA" "Gray Sac-winged Bat" Guanacaste "La Casona" "Santa Rosa" "Taxonomy:binomial=Balantiopteryx plicata" 

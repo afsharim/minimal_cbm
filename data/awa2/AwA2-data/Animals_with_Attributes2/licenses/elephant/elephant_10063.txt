@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : andrusdevelopment
+Photo URL    : https://www.flickr.com/photos/wandrus/3865569500/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 15 11:08:42 GMT+0200 2009
+Upload Date  : Fri Aug 28 19:53:16 GMT+0200 2009
+Geotag Info  : Latitude:39.750720, Longitude:-104.946041
+Views        : 765
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Asian Elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+denver zoo animal asian elephant 

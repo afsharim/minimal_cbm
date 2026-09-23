@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jbangelo
+Photo URL    : https://www.flickr.com/photos/bobshowrocks/2632455780/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 30 15:08:21 GMT+0200 2008
+Upload Date  : Thu Jul 3 00:15:18 GMT+0200 2008
+Geotag Info  : Latitude:47.667453, Longitude:-122.350766
+Views        : 86
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+seattle_0836
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Giraffe!!!
+
+
++--------+
+|  TAGS  |
++--------+
+Giraffe Seattle Zoo 

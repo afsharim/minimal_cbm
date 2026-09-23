@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jeremy Rebelka
+Photo URL    : https://www.flickr.com/photos/jeremyrebelka/3298429547/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Feb 20 13:22:26 GMT+0100 2008
+Upload Date  : Sun Feb 22 03:48:59 GMT+0100 2009
+Views        : 27
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel dublin "botanic garden" 

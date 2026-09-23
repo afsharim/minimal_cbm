@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Andrew E Davies
+Photo URL    : https://www.flickr.com/photos/aed/14751313184/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 26 16:24:08 GMT+0200 2014
+Upload Date  : Sun Jul 27 04:24:40 GMT+0200 2014
+Geotag Info  : Latitude:43.818365, Longitude:-79.183530
+Views        : 54
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+AED_6040
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+toronto zoo "'toronto zoo'" giraffe 

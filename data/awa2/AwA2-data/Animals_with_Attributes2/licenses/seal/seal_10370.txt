@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : romano.nicola1980
+Photo URL    : https://www.flickr.com/photos/nicolaromano/16047857296/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jan 4 14:58:50 GMT+0100 2007
+Upload Date  : Sun Dec 21 21:05:35 GMT+0100 2014
+Geotag Info  : Latitude:-40.506131, Longitude:172.656669
+Views        : 74
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Fur seal
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+animals mammals 

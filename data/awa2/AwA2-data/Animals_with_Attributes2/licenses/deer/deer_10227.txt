@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : wcstaney
+Photo URL    : https://www.flickr.com/photos/9906786@N02/9560033070/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 13 08:26:02 GMT+0200 2013
+Upload Date  : Sat Apr 13 15:26:02 GMT+0200 2013
+Views        : 70
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer Feeding
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Hill Country" "New Braunfels" Texas 

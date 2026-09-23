@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : spitecho
+Photo URL    : https://www.flickr.com/photos/spitecho/2497586985/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri May 16 18:10:51 GMT+0200 2008
+Upload Date  : Sat May 17 02:57:54 GMT+0200 2008
+Views        : 176
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+s5005400
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Nom nom FEETS nom nom!
+
+
++--------+
+|  TAGS  |
++--------+
+hamsters 

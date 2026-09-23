@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mazpho.to
+Photo URL    : https://www.flickr.com/photos/mazdotnu/3105287214/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 20 10:45:36 GMT+0200 2006
+Upload Date  : Sat Dec 13 18:39:55 GMT+0100 2008
+Geotag Info  : Latitude:54.371017, Longitude:-3.080892
+Views        : 32
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+img_5664
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+sheep animal 

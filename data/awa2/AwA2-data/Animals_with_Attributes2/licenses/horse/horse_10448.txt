@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : runneralan2004
+Photo URL    : https://www.flickr.com/photos/runneralan/3651852163/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 22 10:29:04 GMT+0200 2009
+Upload Date  : Tue Jun 23 03:19:52 GMT+0200 2009
+Geotag Info  : Latitude:40.767411, Longitude:-73.980002
+Views        : 456
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horse and pigeons
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Central Park South. Can't a horse eat in peace?
+
+
++--------+
+|  TAGS  |
++--------+
+"New York" horse pigeons 

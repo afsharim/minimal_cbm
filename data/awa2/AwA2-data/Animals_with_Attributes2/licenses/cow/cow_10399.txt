@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : illustir
+Photo URL    : https://www.flickr.com/photos/alper/13982320375/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 20 15:58:45 GMT+0200 2014
+Upload Date  : Wed Apr 23 14:59:55 GMT+0200 2014
+Views        : 2,517
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+cow brodowin 

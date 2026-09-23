@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : __lucy
+Photo URL    : https://www.flickr.com/photos/97019115@N00/2988144159/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Oct 30 16:01:27 GMT+0100 2008
+Upload Date  : Fri Oct 31 10:40:24 GMT+0100 2008
+Views        : 706
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+horses
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horse stables farm 

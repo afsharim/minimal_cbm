@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Janeob9
+Photo URL    : https://www.flickr.com/photos/66088826@N03/6907465906/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 7 12:11:58 GMT+0200 2012
+Upload Date  : Sat Apr 7 15:51:18 GMT+0200 2012
+Views        : 13
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+2012YIP 7 April - Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

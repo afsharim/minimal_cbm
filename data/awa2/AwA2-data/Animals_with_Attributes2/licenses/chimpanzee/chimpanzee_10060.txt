@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : NatalieMaynor
+Photo URL    : https://www.flickr.com/photos/nataliemaynor/290165526/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 4 12:06:24 GMT+0100 2006
+Upload Date  : Mon Nov 6 04:26:53 GMT+0100 2006
+Views        : 214
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Being Mooned by Chimps
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Jackson (Mississippi) Zoo.
+
+
++--------+
+|  TAGS  |
++--------+
+chimpanzee Jackson Mississippi zoo 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : echoforsberg
+Photo URL    : https://www.flickr.com/photos/echoforsberg/13859697755/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Apr 4 23:10:13 GMT+0200 2014
+Upload Date  : Tue Apr 15 02:14:09 GMT+0200 2014
+Views        : 4
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSCN2121
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

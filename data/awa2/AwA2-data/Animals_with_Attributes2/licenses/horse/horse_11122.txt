@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jude Doyland
+Photo URL    : https://www.flickr.com/photos/doyland/4770669808/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 6 10:41:03 GMT+0200 2010
+Upload Date  : Wed Jul 7 08:03:06 GMT+0200 2010
+Views        : 180
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+July 6 Mommy horse(idoyland)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horse 

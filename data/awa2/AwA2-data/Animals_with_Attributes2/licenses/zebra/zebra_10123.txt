@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Eric Kilby
+Photo URL    : https://www.flickr.com/photos/ekilby/1465722014/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 30 15:28:35 GMT+0200 2007
+Upload Date  : Mon Oct 1 02:35:57 GMT+0200 2007
+Geotag Info  : Latitude:42.064268, Longitude:-71.586366
+Views        : 250
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Clashing Stripes
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+southwick zoo zebra group stripes 

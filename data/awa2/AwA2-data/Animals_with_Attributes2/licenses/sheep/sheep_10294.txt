@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : akfoto
+Photo URL    : https://www.flickr.com/photos/akfoto/23502945036/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Dec 3 13:10:29 GMT+0100 2015
+Upload Date  : Sat Dec 5 04:28:22 GMT+0100 2015
+Views        : 93
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Grazing Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Animals Sheep Grazing Lambs 

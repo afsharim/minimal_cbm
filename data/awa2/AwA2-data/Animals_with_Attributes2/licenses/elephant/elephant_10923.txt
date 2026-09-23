@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : VSmithUK
+Photo URL    : https://www.flickr.com/photos/vsmithuk/4984072/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Feb 17 20:50:13 GMT+0100 2005
+Upload Date  : Fri Feb 18 04:34:52 GMT+0100 2005
+Geotag Info  : Latitude:14.120261, Longitude:99.130840
+Views        : 383
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Kwai Noi, Elephants
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+elephants thailand Life 

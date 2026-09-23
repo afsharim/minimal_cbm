@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Stevepartos
+Photo URL    : https://www.flickr.com/photos/stevepartos/5993806412/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 15 22:09:06 GMT+0200 2011
+Upload Date  : Sun Jul 31 14:06:46 GMT+0200 2011
+Geotag Info  : Latitude:38.769744, Longitude:-9.096336
+Views        : 171
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Otter at the Lisbon Aquarium
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+lisbon otter lisboa portugal aquarium 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : David Locke1
+Photo URL    : https://www.flickr.com/photos/davidlocke/3462283893/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Apr 20 10:54:50 GMT+0200 2009
+Upload Date  : Tue Apr 21 17:44:27 GMT+0200 2009
+Views        : 548
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+sheep wool "honeysuckle farm" nikon d40 hornsea 

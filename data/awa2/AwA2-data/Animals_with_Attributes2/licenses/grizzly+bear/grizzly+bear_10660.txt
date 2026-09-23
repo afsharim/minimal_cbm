@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/5895929097/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 16 12:07:19 GMT+0200 2011
+Upload Date  : Sun Jul 3 08:58:53 GMT+0200 2011
+Geotag Info  : Latitude:47.050651, Longitude:8.554229
+Views        : 4,670
+Comments     : 13
+
+
++---------+
+|  TITLE  |
++---------+
+Sleepy bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A bear of the Tierpark Arth Goldau was pretty tired and found a nice place for a nap...
+
+
++--------+
+|  TAGS  |
++--------+
+bear brown big mammal sleepy lying nap cute grass stone tierpark arth goldau switzerland nikon d700 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : The Consortium
+Photo URL    : https://www.flickr.com/photos/the-consortium/4503844631/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 28 15:13:20 GMT+0200 2010
+Upload Date  : Fri Apr 9 04:42:24 GMT+0200 2010
+Geotag Info  : Latitude:39.749102, Longitude:-104.952025
+Views        : 173
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Denver Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Grizzly bear
+
+
++--------+
+|  TAGS  |
++--------+
+"By KLH" "Denver Zoo" 2010 

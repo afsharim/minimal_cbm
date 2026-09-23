@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Woodlouse
+Photo URL    : https://www.flickr.com/photos/woodlouse/3991466198/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 22 08:15:15 GMT+0200 2008
+Upload Date  : Thu Oct 8 00:21:20 GMT+0200 2009
+Views        : 4,100
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+zebra crossing
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Zebra in the Ngorogoro crater, Tanzania. Another overcast day...
+
+
++--------+
+|  TAGS  |
++--------+
+Tanzania zebra ngorogoro "single file" 

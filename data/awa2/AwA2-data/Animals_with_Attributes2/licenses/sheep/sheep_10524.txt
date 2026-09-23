@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ndrwfgg
+Photo URL    : https://www.flickr.com/photos/ndrwfgg/278145664/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 6 14:16:48 GMT+0200 2006
+Upload Date  : Tue Oct 24 12:18:21 GMT+0200 2006
+Views        : 5,417
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+Offa's Dyke Walk 3 / black sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+There really <i>is</i> a black sheep in this family!
+
+
++--------+
+|  TAGS  |
++--------+
+"black sheep" 

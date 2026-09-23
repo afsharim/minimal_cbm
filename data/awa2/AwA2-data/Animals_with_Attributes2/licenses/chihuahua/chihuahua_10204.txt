@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Manel
+Photo URL    : https://www.flickr.com/photos/manel/5201111011/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 21 12:55:34 GMT+0100 2010
+Upload Date  : Tue Nov 23 15:54:09 GMT+0100 2010
+Geotag Info  : Latitude:39.020102, Longitude:-0.282487
+Views        : 228
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Esperanza
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Vaquera chihuahueña por naturaleza. Mascota de Xafant Talons.
+
+
++--------+
+|  TAGS  |
++--------+
+Chihuahueño Chihuahua perro vaquero ojos mirada 

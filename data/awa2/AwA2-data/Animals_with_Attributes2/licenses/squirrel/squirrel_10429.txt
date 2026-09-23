@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ta-tiana Di
+Photo URL    : https://www.flickr.com/photos/ta-tiana_di/20125231114/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 12 19:16:42 GMT+0200 2015
+Upload Date  : Fri Aug 21 04:22:13 GMT+0200 2015
+Views        : 1,635
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Photogenic Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel 

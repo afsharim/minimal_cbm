@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mjambon
+Photo URL    : https://www.flickr.com/photos/mjambon/7325333576/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 2 15:33:02 GMT+0200 2012
+Upload Date  : Sun Jun 3 08:14:37 GMT+0200 2012
+Views        : 265
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Deer Hollow Farm, Rancho San Antonio Open Space Preserve, Los Altos, California.
+
+
++--------+
+|  TAGS  |
++--------+
+cow 

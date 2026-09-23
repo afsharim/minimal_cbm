@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : misteraitch
+Photo URL    : https://www.flickr.com/photos/misteraitch/2334679201/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Aug 8 18:32:13 GMT+0200 2007
+Upload Date  : Sat Mar 15 18:00:54 GMT+0100 2008
+Geotag Info  : Latitude:59.643371, Longitude:17.408566
+Views        : 767
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horses at Segersta
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A mare &amp; her foal near Segersta Herrgård: my brother-in-law took this one.
+
+
++--------+
+|  TAGS  |
++--------+
+horses segersta "canon eos400d" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : m3lty
+Photo URL    : https://www.flickr.com/photos/m3lty/4481443385/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Mar 31 01:08:22 GMT+0200 2010
+Upload Date  : Thu Apr 1 18:28:31 GMT+0200 2010
+Geotag Info  : Latitude:35.711682, Longitude:139.765169
+Views        : 13
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC02465
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

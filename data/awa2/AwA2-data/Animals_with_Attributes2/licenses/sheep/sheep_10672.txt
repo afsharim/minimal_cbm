@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : hectorthebat
+Photo URL    : https://www.flickr.com/photos/hectorthebat/501092941/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed May 16 19:47:14 GMT+0200 2007
+Upload Date  : Wed May 16 19:47:14 GMT+0200 2007
+Geotag Info  : Latitude:53.229313, Longitude:-1.613445
+Views        : 966
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep 2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+sheffield sheep 

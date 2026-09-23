@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : frontriver
+Photo URL    : https://www.flickr.com/photos/greensurvey/2997261981/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Oct 30 10:04:56 GMT+0100 2008
+Upload Date  : Mon Nov 3 03:45:25 GMT+0100 2008
+Views        : 13
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+hawaii 

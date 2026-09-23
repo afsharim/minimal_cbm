@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Pets4Dawn
+Photo URL    : https://www.flickr.com/photos/pics4dawn/10773528176/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Nov 1 10:30:56 GMT+0100 2013
+Upload Date  : Sun Nov 10 09:48:41 GMT+0100 2013
+Geotag Info  : Latitude:35.030586, Longitude:-120.622095
+Views        : 2,928
+Comments     : 14
+
+
++---------+
+|  TITLE  |
++---------+
+Raccoon (procyon lotor)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+found at Oso Flaco Lake while birding
+
+
++--------+
+|  TAGS  |
++--------+
+Animals Locations "Oso Flaco" Wild "procyon lotor" racoon Nipomo California "United States" "Common Raccoon" "Northern Raccoon" "North American Raccoon" 

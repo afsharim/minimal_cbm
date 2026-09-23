@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Simmy's Photography
+Photo URL    : https://www.flickr.com/photos/simmysphotos/7442746638/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 25 18:05:42 GMT+0200 2012
+Upload Date  : Mon Jun 25 22:12:19 GMT+0200 2012
+Geotag Info  : Latitude:55.723000, Longitude:-4.403667
+Views        : 3,658
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Two Aberdeen Angus Cows
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Aberdeen Angus Cows 

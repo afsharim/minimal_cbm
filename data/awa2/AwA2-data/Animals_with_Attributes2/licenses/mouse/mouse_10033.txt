@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : poppet with a camera
+Photo URL    : https://www.flickr.com/photos/infobunny/7328158914/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 3 13:56:30 GMT+0200 2012
+Upload Date  : Sun Jun 3 17:50:22 GMT+0200 2012
+Views        : 221
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+died
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+field mouse 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Curimedia | P H O T O G R A P H Y
+Photo URL    : https://www.flickr.com/photos/curimedia/8783294977/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed May 2 23:44:40 GMT+0200 2012
+Upload Date  : Wed May 22 21:04:03 GMT+0200 2013
+Geotag Info  : Latitude:32.765372, Longitude:-117.226653
+Views        : 345
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+killer whales @ Ocean Show
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

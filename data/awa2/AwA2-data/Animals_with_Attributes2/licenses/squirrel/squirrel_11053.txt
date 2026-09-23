@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Photographing Travis
+Photo URL    : https://www.flickr.com/photos/photographingtravis/20647983471/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 19 13:30:02 GMT+0200 2008
+Upload Date  : Mon Aug 17 04:11:10 GMT+0200 2015
+Geotag Info  : Latitude:35.365805, Longitude:-120.849898
+Views        : 934
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+San Luis Obispo, California
+
+
++--------+
+|  TAGS  |
++--------+
+mission missions roadtrip "san luis obispo" slo trip 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jim, the Photographer
+Photo URL    : https://www.flickr.com/photos/jcapaldi/3676678845/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jun 30 10:50:41 GMT+0200 2009
+Upload Date  : Wed Jul 1 05:19:51 GMT+0200 2009
+Geotag Info  : Latitude:39.972647, Longitude:-75.196180
+Views        : 32
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bats
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Philadelphia Zoo" zoo 

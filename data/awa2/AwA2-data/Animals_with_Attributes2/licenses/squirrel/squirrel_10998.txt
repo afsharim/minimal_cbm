@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : larsjuh
+Photo URL    : https://www.flickr.com/photos/larsjuh/14167781038/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Apr 25 13:01:36 GMT+0200 2014
+Upload Date  : Thu Jun 5 22:06:32 GMT+0200 2014
+Geotag Info  : Latitude:49.303663, Longitude:-123.143478
+Views        : 133
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"18-105mm 3.5-5.6" 2014 Canada "Canada 2014" Vancouver eekhoorn squirrel Brits-Columbia 

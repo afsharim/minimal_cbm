@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Clownhouse III
+Photo URL    : https://www.flickr.com/photos/clownhousethethird/2216804408/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Sep 19 17:22:49 GMT+0200 2007
+Upload Date  : Thu Jan 24 15:57:21 GMT+0100 2008
+Geotag Info  : Latitude:51.974901, Longitude:5.692634
+Views        : 517
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Crazy horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horse crazy 

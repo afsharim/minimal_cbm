@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : DRAMOS19
+Photo URL    : https://www.flickr.com/photos/28795465@N03/8647782256/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 13 13:12:47 GMT+0200 2013
+Upload Date  : Sun Apr 14 07:28:05 GMT+0200 2013
+Views        : 37
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephants
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

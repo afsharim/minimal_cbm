@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : VisitSormland
+Photo URL    : https://www.flickr.com/photos/stua/5702209437/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon May 9 09:04:36 GMT+0200 2011
+Upload Date  : Mon May 9 09:04:36 GMT+0200 2011
+Views        : 375
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Moose
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Creative Commons License and may be used for commercial work. Attribute this picture Sörmlands turismutveckling AB and link to <a href="http://www.stua.se" rel="nofollow">www.stua.se</a>
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

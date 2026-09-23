@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : DrBartje
+Photo URL    : https://www.flickr.com/photos/drbartje/3868614758/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 28 13:23:36 GMT+0200 2009
+Upload Date  : Sat Aug 29 21:50:50 GMT+0200 2009
+Geotag Info  : Latitude:51.517235, Longitude:5.111646
+Views        : 7,796
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Elephant @ Safari Park Beekse Bergen (<a href="http://www.safaripark.nl/" rel="nofollow">www.safaripark.nl/</a>)
+
+
++--------+
+|  TAGS  |
++--------+
+Elephant "Safari Park" "Beekse Bergen" 

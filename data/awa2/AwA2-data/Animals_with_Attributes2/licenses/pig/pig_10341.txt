@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : billhd
+Photo URL    : https://www.flickr.com/photos/billhd/3747803406/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 22 19:08:22 GMT+0200 2009
+Upload Date  : Thu Jul 23 01:10:11 GMT+0200 2009
+Views        : 5,156
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Pig
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Fowlerville Fair
+
+Bill H-D
+
+
++--------+
+|  TAGS  |
++--------+
+pig snout fair 

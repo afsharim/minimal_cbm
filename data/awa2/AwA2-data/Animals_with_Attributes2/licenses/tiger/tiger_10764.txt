@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Stiller Beobachter
+Photo URL    : https://www.flickr.com/photos/a-herzog/15258943457/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 4 14:26:44 GMT+0200 2014
+Upload Date  : Sun Oct 5 11:54:11 GMT+0200 2014
+Geotag Info  : Latitude:49.448844, Longitude:11.145427
+Views        : 1,575
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Nürnberger Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+tiger predator zoo animal 

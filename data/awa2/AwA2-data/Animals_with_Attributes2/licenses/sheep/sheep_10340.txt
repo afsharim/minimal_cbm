@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : nojhan
+Photo URL    : https://www.flickr.com/photos/nojhan/448671636/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Apr 6 16:05:01 GMT+0200 2007
+Upload Date  : Fri Apr 6 22:13:45 GMT+0200 2007
+Geotag Info  : Latitude:49.016706, Longitude:3.276329
+Views        : 134
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_0296
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+sheep hen 

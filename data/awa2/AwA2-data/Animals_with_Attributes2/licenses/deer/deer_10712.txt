@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Infomastern
+Photo URL    : https://www.flickr.com/photos/infomastern/23984032836/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Nov 13 10:51:47 GMT+0100 2015
+Upload Date  : Sun Dec 27 21:53:35 GMT+0100 2015
+Views        : 366
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Danmark Denmark Dyrehaven Jægersborg "Jægersborg Dyrehave" autumn deer forest park skog woods "exif:model=canon eos 760d" geo:country= camera:make=canon geo:city= "camera:model=canon eos 760d" geo:state= geo:location= "exif:focal_length=90 mm" "exif:lens=ef-s18-200mm f/3.5-5.6 is" "exif:aperture=ƒ / 5,6" exif:iso_speed=2000 exif:make=canon 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jnissa
+Photo URL    : https://www.flickr.com/photos/jnissa/1505332201/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 30 04:52:58 GMT+0200 2007
+Upload Date  : Sun Oct 7 16:00:50 GMT+0200 2007
+Views        : 1,131
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+bwindi_126
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Bwindi Mountain Gorilla
+
+
++--------+
+|  TAGS  |
++--------+
+bwindi africa uganda gorilla 

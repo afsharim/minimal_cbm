@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : brian.gratwicke
+Photo URL    : https://www.flickr.com/photos/briangratwicke/7847983672/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 16 23:49:05 GMT+0200 2012
+Upload Date  : Fri Aug 24 03:16:33 GMT+0200 2012
+Geotag Info  : Latitude:44.102202, Longitude:-110.671148
+Views        : 818
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Yellowstone Wyoming USA National Park taxonomy:kingdom=Animalia Animalia taxonomy:phylum=Chordata Chordata taxonomy:class=Mammalia Mammalia taxonomy:order=Carnivora Carnivora taxonomy:family=Mustelidae Mustelidae taxonomy:genus=Lontra Lontra taxonomy:species=canadensis "taxonomy:binomial=Lontra canadensis" "Lontra canadensis" "loutre de rivière" "Northern River Otter" "Nutria-de río norteamericana" "river otter" "North American Otter" "North American River Otter" "Loutre Du Canada" "Nutria De Canad" "Nutria Norteamericana" "taxonomy:common=loutre de rivière" "taxonomy:common=Northern River Otter" "taxonomy:common=Nutria-de río norteamericana" "taxonomy:common=river otter" "taxonomy:common=North American Otter" "taxonomy:common=North American River Otter" "taxonomy:common=Loutre Du Canada" "taxonomy:common=Nutria De Canad" "taxonomy:common=Nutria Norteamericana" #greatnatureshots 

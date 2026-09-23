@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : corsi photo
+Photo URL    : https://www.flickr.com/photos/corsinet/5837415594/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 15 00:54:19 GMT+0200 2011
+Upload Date  : Wed Jun 15 22:50:47 GMT+0200 2011
+Geotag Info  : Latitude:41.656617, Longitude:-87.786936
+Views        : 122
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lunch time
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+animal squirrel nature 

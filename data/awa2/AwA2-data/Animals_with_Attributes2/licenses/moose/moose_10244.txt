@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Powhusku
+Photo URL    : https://www.flickr.com/photos/hubbardcoe/4843967365/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 20 14:41:42 GMT+0200 2010
+Upload Date  : Fri Jul 30 21:30:54 GMT+0200 2010
+Geotag Info  : Latitude:44.473117, Longitude:-109.892747
+Views        : 5,490
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Moose In My Yard
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Moose on Northfork Near Cody, WY
+
+
++--------+
+|  TAGS  |
++--------+
+Moose 

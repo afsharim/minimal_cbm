@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : vomsorb
+Photo URL    : https://www.flickr.com/photos/vomsorb/3353604/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 19 18:08:25 GMT+0200 2002
+Upload Date  : Fri Jan 14 17:02:53 GMT+0100 2005
+Views        : 235
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_0324
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Deer #42, Alberta, Canada.
+
+
++--------+
+|  TAGS  |
++--------+
+deer alberta canada 

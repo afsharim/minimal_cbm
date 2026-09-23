@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : turloughmor
+Photo URL    : https://www.flickr.com/photos/turloughmor/3750556852/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 23 13:01:17 GMT+0200 2009
+Upload Date  : Thu Jul 23 23:10:43 GMT+0200 2009
+Views        : 107
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Yorkshire Moor cows
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

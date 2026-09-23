@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : krugergirl26
+Photo URL    : https://www.flickr.com/photos/71888644@N00/8387049627/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Dec 27 09:16:50 GMT+0100 2012
+Upload Date  : Wed Jan 16 23:13:49 GMT+0100 2013
+Views        : 34
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_2224
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

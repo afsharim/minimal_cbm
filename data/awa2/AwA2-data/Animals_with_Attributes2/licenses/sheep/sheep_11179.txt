@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Bobolink
+Photo URL    : https://www.flickr.com/photos/bobolink/8795605757/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 23 13:41:57 GMT+0200 2013
+Upload Date  : Thu May 23 22:04:22 GMT+0200 2013
+Geotag Info  : Latitude:44.293860, Longitude:-77.665132
+Views        : 2,343
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep, Hoard's Station, Ontario_8452
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Sheep "Hoard's Station" Ontario 

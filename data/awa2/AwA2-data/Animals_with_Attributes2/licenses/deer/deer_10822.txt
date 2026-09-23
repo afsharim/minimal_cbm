@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : andrew_j_w
+Photo URL    : https://www.flickr.com/photos/andrew_j_w/3731936887/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 13 14:32:56 GMT+0200 2009
+Upload Date  : Sat Jul 18 18:52:04 GMT+0200 2009
+Geotag Info  : Latitude:54.187803, Longitude:-2.983131
+Views        : 463
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Fallow Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Apparently there are around four hundred fallow deer on the Holker Hall estate.
+
+
++--------+
+|  TAGS  |
++--------+
+animal "fallow deer" "holker hall" 

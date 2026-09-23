@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mostly Dans
+Photo URL    : https://www.flickr.com/photos/dannyboymalinga/5339524231/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 9 13:14:13 GMT+0100 2011
+Upload Date  : Sun Jan 9 19:57:03 GMT+0100 2011
+Geotag Info  : Latitude:51.633045, Longitude:0.418864
+Views        : 563
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+grey squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+First sunny day of 2011, a perfect squirrel picture.
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel wildlife nature close-up 

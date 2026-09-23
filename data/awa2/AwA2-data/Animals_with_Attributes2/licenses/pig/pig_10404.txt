@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Laurie Lopes
+Photo URL    : https://www.flickr.com/photos/14233187@N03/6273015817/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Oct 10 16:27:09 GMT+0200 2011
+Upload Date  : Sun Oct 23 20:16:28 GMT+0200 2011
+Views        : 6
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Pigs 4
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

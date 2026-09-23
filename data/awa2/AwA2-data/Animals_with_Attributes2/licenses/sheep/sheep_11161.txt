@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : peter pearson
+Photo URL    : https://www.flickr.com/photos/peterpearson/22096466721/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 11 11:44:08 GMT+0200 2015
+Upload Date  : Sun Oct 11 09:44:14 GMT+0200 2015
+Views        : 41
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

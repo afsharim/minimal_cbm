@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Twmpyn
+Photo URL    : https://www.flickr.com/photos/twmpyn/6625628923/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Dec 19 14:01:02 GMT+0100 2011
+Upload Date  : Tue Jan 3 05:38:16 GMT+0100 2012
+Geotag Info  : Latitude:-34.919296, Longitude:138.602485
+Views        : 104
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hippo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"hippo. hippopotamus" "adelaide zoo" 

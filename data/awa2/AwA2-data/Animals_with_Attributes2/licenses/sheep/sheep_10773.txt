@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Bobolink
+Photo URL    : https://www.flickr.com/photos/bobolink/15157794129/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Sep 24 14:34:52 GMT+0200 2014
+Upload Date  : Wed Sep 24 22:10:27 GMT+0200 2014
+Geotag Info  : Latitude:44.354664, Longitude:-77.935380
+Views        : 1,623
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep on Centre Line Rd., Peterborough County, Ontario_1804
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+There are three shepherds and a sheep dog driving this flock
+
+
++--------+
+|  TAGS  |
++--------+
+Sheep "Centre Line" "Peterborough County" Ontario 

@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Laura Huyet
+Photo URL    : https://commons.wikimedia.org/wiki/File:Un_chiot_de_race_Border_Collie_en_mai_2009_-_2.JPG
+License      : Creative Commons (https://en.wikipedia.org/wiki/en:Creative_Commons) 4.0 International (//creativecommons.org/licenses/by-sa/4.0/)
+Date         : 2009-05-21

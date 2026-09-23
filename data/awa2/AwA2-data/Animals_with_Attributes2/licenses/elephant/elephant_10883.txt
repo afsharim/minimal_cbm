@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : upton
+Photo URL    : https://www.flickr.com/photos/upton/4766667121/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 20 07:06:29 GMT+0200 2010
+Upload Date  : Tue Jul 6 09:21:42 GMT+0200 2010
+Geotag Info  : Latitude:-3.178189, Longitude:35.568311
+Views        : 106
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_1523
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Tanzania elephant 

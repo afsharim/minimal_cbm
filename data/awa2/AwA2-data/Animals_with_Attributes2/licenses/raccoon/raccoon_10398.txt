@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Digital Sextant
+Photo URL    : https://www.flickr.com/photos/digitalsextant/6486832685/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Nov 24 12:08:35 GMT+0100 2011
+Upload Date  : Sat Dec 10 15:38:04 GMT+0100 2011
+Views        : 262
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+raccoons.CR2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Photo taken at the Brookfield zoo
+
+
++--------+
+|  TAGS  |
++--------+
+animal zoo brookfieldzoo brookfield 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : kisforkate
+Photo URL    : https://www.flickr.com/photos/kisforkateatkins/5957269531/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 7 19:55:51 GMT+0200 2011
+Upload Date  : Wed Jul 20 14:55:31 GMT+0200 2011
+Views        : 38
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Moose
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Horseshoe Lake, Denali National Park
+
+
++--------+
+|  TAGS  |
++--------+
+alaska 

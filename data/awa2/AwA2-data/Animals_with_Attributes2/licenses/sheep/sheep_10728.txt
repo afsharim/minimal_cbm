@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : J.BC
+Photo URL    : https://www.flickr.com/photos/26518303@N00/255185878/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Sep 28 15:38:48 GMT+0200 2006
+Upload Date  : Fri Sep 29 00:38:48 GMT+0200 2006
+Views        : 71
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+sheep D
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+animals 

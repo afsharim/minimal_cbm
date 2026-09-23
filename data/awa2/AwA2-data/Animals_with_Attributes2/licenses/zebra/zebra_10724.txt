@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Scott Sewell
+Photo URL    : https://www.flickr.com/photos/scottsewell/2489568989/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 1 10:46:43 GMT+0200 2008
+Upload Date  : Tue May 13 20:49:17 GMT+0200 2008
+Views        : 39
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Kenya Safari 

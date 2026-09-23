@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : michimaya
+Photo URL    : https://www.flickr.com/photos/michimaya/4581864275/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed May 5 12:15:33 GMT+0200 2010
+Upload Date  : Wed May 5 23:03:03 GMT+0200 2010
+Geotag Info  : Latitude:51.547189, Longitude:13.057658
+Views        : 113
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Pferd Paddock
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Sächsisches Hauptstaatsgestüt Graditz
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

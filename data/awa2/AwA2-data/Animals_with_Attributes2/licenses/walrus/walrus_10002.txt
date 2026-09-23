@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Rojer
+Photo URL    : https://www.flickr.com/photos/rojer/4889972288/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 19 16:39:26 GMT+0200 2010
+Upload Date  : Sat Aug 14 05:19:09 GMT+0200 2010
+Geotag Info  : Latitude:32.764885, Longitude:-117.222624
+Views        : 106
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+100_6294
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+walrus "walrus parts" 

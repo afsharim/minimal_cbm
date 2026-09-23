@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : SnapAdik
+Photo URL    : https://www.flickr.com/photos/hubertyu/9366634917/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 20 14:12:37 GMT+0200 2013
+Upload Date  : Fri Jul 26 07:53:39 GMT+0200 2013
+Geotag Info  : Latitude:47.667699, Longitude:-122.350444
+Views        : 133
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hippopotamus
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+seattle "Woodland Park Zoo" zoo animals 

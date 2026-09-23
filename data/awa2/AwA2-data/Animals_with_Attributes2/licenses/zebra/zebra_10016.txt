@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : RichardBH
+Photo URL    : https://www.flickr.com/photos/rbh/9657545723/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Aug 28 15:25:11 GMT+0200 2013
+Upload Date  : Tue Sep 3 03:13:57 GMT+0200 2013
+Views        : 352
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+#12 Something with Stripes - Zebras
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+African Lion Safari
+
+
++--------+
+|  TAGS  |
++--------+
+"African Lion Safari" SummerAssign 

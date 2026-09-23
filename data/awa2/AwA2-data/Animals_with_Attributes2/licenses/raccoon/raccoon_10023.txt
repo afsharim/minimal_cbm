@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : AtomicLlama
+Photo URL    : https://www.flickr.com/photos/mharriger/2499842576/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 17 10:52:44 GMT+0200 2008
+Upload Date  : Sat May 17 18:52:44 GMT+0200 2008
+Geotag Info  : Latitude:41.240161, Longitude:-96.000625
+Views        : 926
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Baby Raccoon 1
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+I saw this little guy hanging out by a tree between the sidewalk and street while I was out for a walk. When he was still there an hour later, I called the humane society, who were going to send someone out to check on him. I hope he ends up OK.
+
+
++--------+
+|  TAGS  |
++--------+
+raccoon 

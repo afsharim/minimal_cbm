@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : hellobobbigbunny
+Photo URL    : https://www.flickr.com/photos/bobsteiner/3347799949/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Feb 16 23:15:55 GMT+0100 2009
+Upload Date  : Thu Mar 12 05:40:00 GMT+0100 2009
+Views        : 309
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Sabi Sabi Game Reserve - Kruger National Park - South Africa
+
+
++--------+
+|  TAGS  |
++--------+
+Giraffe Safari Adventure "Sabi Sabi" Kruger Nature Travel "South Africa" 

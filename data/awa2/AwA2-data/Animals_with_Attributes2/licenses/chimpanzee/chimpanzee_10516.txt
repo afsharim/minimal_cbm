@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : richardrichard
+Photo URL    : https://www.flickr.com/photos/richardtoller/9490123762/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 27 12:18:48 GMT+0200 2013
+Upload Date  : Sun Aug 11 23:33:51 GMT+0200 2013
+Views        : 325
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_5626
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Chimpanzee, Mahale Mountains
+
+
++--------+
+|  TAGS  |
++--------+
+Chimpanzee "Mahale Mountains" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Emmy_Animals
+Photo URL    : https://www.flickr.com/photos/44711529@N04/6102383757/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 22 15:13:10 GMT+0200 2009
+Upload Date  : Thu Sep 1 13:21:21 GMT+0200 2011
+Geotag Info  : Latitude:51.463409, Longitude:-2.622339
+Views        : 288
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Silverback Lowland Gorilla Close Up
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Taken at Bristol Zoo, UK
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

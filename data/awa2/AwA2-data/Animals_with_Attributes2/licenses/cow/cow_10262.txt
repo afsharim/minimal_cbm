@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : rightee
+Photo URL    : https://www.flickr.com/photos/rightee/1038291792/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 18 14:20:02 GMT+0200 2007
+Upload Date  : Tue Aug 7 12:12:44 GMT+0200 2007
+Views        : 72
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+cow 

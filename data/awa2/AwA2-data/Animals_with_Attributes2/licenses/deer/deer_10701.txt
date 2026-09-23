@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : borade.amit
+Photo URL    : https://www.flickr.com/photos/130037287@N03/20919263746/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 15 15:53:42 GMT+0200 2015
+Upload Date  : Fri Aug 28 10:07:38 GMT+0200 2015
+Views        : 28
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Wild life
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

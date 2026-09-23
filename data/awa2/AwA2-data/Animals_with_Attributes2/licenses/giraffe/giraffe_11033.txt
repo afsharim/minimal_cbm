@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mister-E
+Photo URL    : https://www.flickr.com/photos/mister-e/3692689939/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Apr 1 17:31:21 GMT+0200 2009
+Upload Date  : Mon Jul 6 08:40:07 GMT+0200 2009
+Geotag Info  : Latitude:-24.992945, Longitude:31.532552
+Views        : 329
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Mr Giraffe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Africa Kruger "Kruger National Park" "South Africa" giraffe 

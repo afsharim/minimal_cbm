@@ -1,0 +1,40 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Lip Kee
+Photo URL    : https://www.flickr.com/photos/lipkee/624296077/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Mar 2 20:09:20 GMT+0100 2006
+Upload Date  : Tue Jun 26 00:55:23 GMT+0200 2007
+Geotag Info  : Latitude:1.435711, Longitude:103.712310
+Views        : 954
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Otter - pair relaxing
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Smooth Otter 
+Lutrogale perspicillata
+Location:  Sungai Buloh Wetland Reserve
+2nd. March 2006
+
+Status threatened: <a href="http://www.iucnredlist.org/search/details.php/12427/all" rel="nofollow">www.iucnredlist.org/search/details.php/12427/all</a>
+
+
++--------+
+|  TAGS  |
++--------+
+"Smooth Otter" "Lutrogale perspicillata" 

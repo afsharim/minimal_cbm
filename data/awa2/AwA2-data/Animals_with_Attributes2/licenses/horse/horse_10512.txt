@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Nick Savchenko
+Photo URL    : https://www.flickr.com/photos/nsavch/6132258333/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 10 11:27:24 GMT+0200 2011
+Upload Date  : Sat Sep 10 13:33:50 GMT+0200 2011
+Geotag Info  : Latitude:50.274969, Longitude:30.328960
+Views        : 3,548
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horse riding
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horse riding 

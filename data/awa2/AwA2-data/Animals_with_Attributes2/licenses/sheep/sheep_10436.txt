@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : flamesworddragon
+Photo URL    : https://www.flickr.com/photos/flamesworddragon/8851793187/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Apr 24 15:53:02 GMT+0200 2013
+Upload Date  : Mon May 27 11:40:09 GMT+0200 2013
+Views        : 192
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+lambs
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+sheep 

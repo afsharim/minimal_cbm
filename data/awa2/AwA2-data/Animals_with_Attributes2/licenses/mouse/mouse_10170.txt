@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Sonneteer
+Photo URL    : https://www.flickr.com/photos/kenneyjs/5250155086/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 15 07:35:45 GMT+0200 2010
+Upload Date  : Fri Dec 10 23:31:23 GMT+0100 2010
+Views        : 365
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Trapped
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Mouse 

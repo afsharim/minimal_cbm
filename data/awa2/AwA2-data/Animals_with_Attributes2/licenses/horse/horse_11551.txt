@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : grongar
+Photo URL    : https://www.flickr.com/photos/grongar/5534736998/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Mar 16 11:10:10 GMT+0100 2011
+Upload Date  : Thu Mar 17 14:01:25 GMT+0100 2011
+Views        : 61
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horses 

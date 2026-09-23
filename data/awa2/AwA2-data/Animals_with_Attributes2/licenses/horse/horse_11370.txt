@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jahab
+Photo URL    : https://www.flickr.com/photos/54278155@N07/9336991611/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 3 12:23:49 GMT+0200 2013
+Upload Date  : Mon Jul 22 01:55:56 GMT+0200 2013
+Views        : 474
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Ranger Horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Painted Desert horse 

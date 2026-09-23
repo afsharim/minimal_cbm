@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : markheybo
+Photo URL    : https://www.flickr.com/photos/cybercafe/23400803764/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Dec 7 14:21:28 GMT+0100 2015
+Upload Date  : Mon Dec 28 19:38:39 GMT+0100 2015
+Geotag Info  : Latitude:53.368277, Longitude:-1.828417
+Views        : 107
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Watching Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+sheep peakdistrict 

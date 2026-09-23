@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mafue
+Photo URL    : https://www.flickr.com/photos/mafue/3591506443/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jun 2 06:36:51 GMT+0200 2009
+Upload Date  : Wed Jun 3 14:31:27 GMT+0200 2009
+Views        : 88
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+mafue 2009 howletts zoo elephant DSC-T100 

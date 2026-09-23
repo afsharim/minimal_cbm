@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Suzanne Schroeter
+Photo URL    : https://www.flickr.com/photos/shezamm/5289984074/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 31 12:39:34 GMT+0100 2006
+Upload Date  : Sat Dec 25 09:50:36 GMT+0100 2010
+Geotag Info  : Latitude:28.522701, Longitude:-81.389122
+Views        : 45
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Seal
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Seal "Sea World Florida" 

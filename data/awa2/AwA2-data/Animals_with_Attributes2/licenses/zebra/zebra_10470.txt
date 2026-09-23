@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : S.Zelov
+Photo URL    : https://www.flickr.com/photos/30822869@N03/3849830023/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Aug 19 01:49:52 GMT+0200 2009
+Upload Date  : Mon Aug 24 01:56:58 GMT+0200 2009
+Views        : 112
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zoo "zebra chicago" 

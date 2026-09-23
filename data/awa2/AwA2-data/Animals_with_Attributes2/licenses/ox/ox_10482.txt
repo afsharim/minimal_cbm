@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mmmavocado
+Photo URL    : https://www.flickr.com/photos/mmmavocado/8520640494/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Mar 1 13:20:09 GMT+0100 2013
+Upload Date  : Sat Mar 2 05:35:15 GMT+0100 2013
+Geotag Info  : Latitude:61.637685, Longitude:-149.126529
+Views        : 561
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Musk Ox Farm, near Palmer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Smabs Sputzer
+Photo URL    : https://www.flickr.com/photos/10413717@N08/5100179843/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Oct 20 13:15:58 GMT+0200 2010
+Upload Date  : Thu Oct 21 00:04:39 GMT+0200 2010
+Geotag Info  : Latitude:53.426604, Longitude:-2.081694
+Views        : 1,553
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Cows
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Sleeping cows
+
+
++--------+
+|  TAGS  |
++--------+
+cows milk urban back door bottles dozing 

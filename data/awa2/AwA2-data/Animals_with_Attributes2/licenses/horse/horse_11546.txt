@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : selenas_stock
+Photo URL    : https://www.flickr.com/photos/selenas_stock/4085080390/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 7 22:30:12 GMT+0100 2009
+Upload Date  : Sun Nov 8 05:34:35 GMT+0100 2009
+Views        : 488
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"morgan horse" morgan 

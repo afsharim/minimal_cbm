@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : 24hrt
+Photo URL    : https://www.flickr.com/photos/traffichaze/6494907913/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 11 21:24:53 GMT+0100 2011
+Upload Date  : Sun Dec 11 22:24:53 GMT+0100 2011
+Geotag Info  : Latitude:51.194511, Longitude:-2.278110
+Views        : 156
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Relaxed Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+big cats longleat tiger 

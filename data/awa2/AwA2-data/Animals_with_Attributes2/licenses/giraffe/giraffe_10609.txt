@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Der Stefan
+Photo URL    : https://www.flickr.com/photos/derstefan/7303751568/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed May 30 13:58:47 GMT+0200 2012
+Upload Date  : Wed May 30 21:48:15 GMT+0200 2012
+Views        : 567
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zoo osnabrück animal giraffe 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : richardghawley
+Photo URL    : https://www.flickr.com/photos/richardghawley/3567984778/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 23 12:50:44 GMT+0200 2009
+Upload Date  : Tue May 26 22:02:05 GMT+0200 2009
+Views        : 1,258
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Mongolian Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Location: Banham Zoo, Norfolk
+
+
++--------+
+|  TAGS  |
++--------+
+"Mongolian Sheep" sheep 

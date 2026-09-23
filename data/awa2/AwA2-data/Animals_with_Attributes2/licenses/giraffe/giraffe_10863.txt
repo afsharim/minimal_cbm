@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : elPadawan
+Photo URL    : https://www.flickr.com/photos/elpadawan/8057725959/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Sep 28 11:09:09 GMT+0200 2012
+Upload Date  : Fri Oct 5 23:26:04 GMT+0200 2012
+Geotag Info  : Latitude:50.776650, Longitude:15.075546
+Views        : 2,695
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffes
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Giraffes, Zoo Liberec
+
+
++--------+
+|  TAGS  |
++--------+
+Giraffes mammals nature "Zoo Liberec" Liberec "Czech Republic" "0928-0929 - Liberec + Frýdlant" 2012 

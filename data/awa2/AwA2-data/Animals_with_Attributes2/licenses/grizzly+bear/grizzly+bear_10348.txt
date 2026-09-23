@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Anup Shah
+Photo URL    : https://www.flickr.com/photos/anupshah/18812629666/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 14 13:41:42 GMT+0200 2015
+Upload Date  : Mon Jun 15 21:24:21 GMT+0200 2015
+Views        : 243
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+European brown bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"European brown bear" "Whipsnade Zoo" Wildlife bear 

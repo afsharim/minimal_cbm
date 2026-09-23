@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : aegidian
+Photo URL    : https://www.flickr.com/photos/aegidian/16238504770/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 31 12:03:59 GMT+0100 2015
+Upload Date  : Mon Feb 2 10:01:33 GMT+0100 2015
+Views        : 315
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Chester Zoo" Chester Zoo Tiger 

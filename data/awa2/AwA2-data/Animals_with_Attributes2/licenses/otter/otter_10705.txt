@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Pranavian
+Photo URL    : https://www.flickr.com/photos/pranavian/4939191531/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 27 13:03:37 GMT+0200 2010
+Upload Date  : Mon Aug 30 01:14:22 GMT+0200 2010
+Geotag Info  : Latitude:50.897294, Longitude:-1.506156
+Views        : 331
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+The Scratch
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+scratch otter animal mammal zoo "Aaron Pickett" 

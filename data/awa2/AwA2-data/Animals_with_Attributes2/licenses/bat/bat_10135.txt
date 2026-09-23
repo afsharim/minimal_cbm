@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Josuah
+Photo URL    : https://www.flickr.com/photos/practicasdpermacultura/4842925541/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 28 22:47:13 GMT+0200 2010
+Upload Date  : Fri Jul 30 13:33:58 GMT+0200 2010
+Views        : 121
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Murciélago b
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

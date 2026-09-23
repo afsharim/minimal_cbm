@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : maliciousmonkey
+Photo URL    : https://www.flickr.com/photos/maliciousmonkey/2895558480/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Aug 19 21:49:57 GMT+0200 2008
+Upload Date  : Sun Sep 28 17:37:37 GMT+0200 2008
+Geotag Info  : Latitude:42.470799, Longitude:-70.947496
+Views        : 814
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Rat Scarf
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Doppler with a rat scarf.  (We can't have her catching cold.)
+
+
++--------+
+|  TAGS  |
++--------+
+rat scarf knitting hands cute 

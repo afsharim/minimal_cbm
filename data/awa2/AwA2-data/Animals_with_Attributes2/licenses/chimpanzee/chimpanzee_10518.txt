@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : .RGB.
+Photo URL    : https://www.flickr.com/photos/rbulmahn/4925792494/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Aug 24 09:26:12 GMT+0200 2010
+Upload Date  : Wed Aug 25 07:08:36 GMT+0200 2010
+Geotag Info  : Latitude:38.636001, Longitude:-90.289056
+Views        : 281
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_18769
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"St. Louis Zoo" Chimpanzee 

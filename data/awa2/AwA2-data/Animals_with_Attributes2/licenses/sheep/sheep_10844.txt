@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Olivier Bruchez
+Photo URL    : https://www.flickr.com/photos/bruchez/846886041/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 14 13:01:53 GMT+0200 2007
+Upload Date  : Wed Jul 18 23:57:11 GMT+0200 2007
+Geotag Info  : Latitude:46.041314, Longitude:7.317425
+Views        : 278
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Near Sovereu, in Bagnes, Valais, Switzerland.
+
+
++--------+
+|  TAGS  |
++--------+
+dâ crêt bagnes entremont valais wallis switzerland suisse europe hiking randonnée alps alpes mountains montagnes mountain montagne fionnay sarshlau sheep mouton moutons sovereu 

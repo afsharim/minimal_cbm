@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Deathbob
+Photo URL    : https://www.flickr.com/photos/deathbob/3216944312/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 17 21:08:57 GMT+0100 2009
+Upload Date  : Thu Jan 22 02:21:28 GMT+0100 2009
+Views        : 395
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC05337
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+sheep
+
+
++--------+
+|  TAGS  |
++--------+
+sheep 

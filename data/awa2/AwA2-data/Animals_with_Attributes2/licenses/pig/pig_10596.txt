@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/854301146/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 15 11:24:39 GMT+0200 2007
+Upload Date  : Thu Jul 19 22:43:35 GMT+0200 2007
+Geotag Info  : Latitude:46.977573, Longitude:7.057020
+Views        : 6,688
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Young pig
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Pig living on a big and nice breeding center near of the shore of the Lake of Neuchâtel
+
+
++--------+
+|  TAGS  |
++--------+
+"lake of neuchâtel" switzerland pig shore portrait farm PFOGold 

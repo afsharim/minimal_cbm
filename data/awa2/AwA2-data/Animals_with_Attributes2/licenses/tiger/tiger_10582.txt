@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : redcrowstudio
+Photo URL    : https://www.flickr.com/photos/redcrowstudio/3753124277/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 22 10:14:25 GMT+0200 2009
+Upload Date  : Sat Jul 25 03:17:18 GMT+0200 2009
+Views        : 24
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+zooatlanta003
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Tiger
+
+
++--------+
+|  TAGS  |
++--------+
+zoo "zoo atlanta" tiger 

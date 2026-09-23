@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : eGuide Travel
+Photo URL    : https://www.flickr.com/photos/eguidetravel/4685080338/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 13 04:44:59 GMT+0100 2010
+Upload Date  : Wed Jun 9 13:36:48 GMT+0200 2010
+Geotag Info  : Latitude:53.394282, Longitude:-2.027664
+Views        : 1,210
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+<a href="http://www.ukeguide.com" rel="nofollow">UK eGuide</a> provides travel information on every place in the United Kingdom.
+
+
++--------+
+|  TAGS  |
++--------+
+"united kingdom" eguide "uk eguide" eguides "eguide travel" uk "uk travel" england scotland sheep 

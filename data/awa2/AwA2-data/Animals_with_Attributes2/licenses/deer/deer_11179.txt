@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : christopher.d.heald
+Photo URL    : https://www.flickr.com/photos/husker_alum/7778567530/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 6 09:23:26 GMT+0200 2012
+Upload Date  : Tue Aug 14 05:10:41 GMT+0200 2012
+Views        : 163
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+RMNP-42
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Mule Deer in Moraine Campground.
+
+
++--------+
+|  TAGS  |
++--------+
+RMNP Deer 

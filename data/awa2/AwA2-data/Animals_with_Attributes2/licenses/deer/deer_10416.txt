@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : switchstyle
+Photo URL    : https://www.flickr.com/photos/shuichi/3574899558/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Mar 18 07:33:18 GMT+0100 2009
+Upload Date  : Fri May 29 03:10:38 GMT+0200 2009
+Views        : 51
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+home animals 

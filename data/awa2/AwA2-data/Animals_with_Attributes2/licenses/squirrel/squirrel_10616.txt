@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : TheMrsNatG
+Photo URL    : https://www.flickr.com/photos/beansmail/6006939678/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Aug 3 18:15:50 GMT+0200 2011
+Upload Date  : Thu Aug 4 00:54:29 GMT+0200 2011
+Geotag Info  : Latitude:51.473364, Longitude:0.005621
+Views        : 33
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel still poses
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Squirrel 

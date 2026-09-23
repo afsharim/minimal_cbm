@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ktenter
+Photo URL    : https://www.flickr.com/photos/ktenter/3727028690/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Apr 8 12:05:30 GMT+0200 2009
+Upload Date  : Thu Jul 16 17:27:24 GMT+0200 2009
+Geotag Info  : Latitude:51.433584, Longitude:6.802039
+Views        : 1,115
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elefant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Ein Elefant im Zoo Duisburg
+
+
++--------+
+|  TAGS  |
++--------+
+Zoo Duisburg Tiere Animals Elefant Elephant Deutschland Germany Ruhrgebiet "Zoo Duisburg" 

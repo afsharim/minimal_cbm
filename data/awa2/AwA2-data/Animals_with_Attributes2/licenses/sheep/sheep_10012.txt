@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Kevin Ryder
+Photo URL    : https://www.flickr.com/photos/labdog2010/4830804279/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 26 13:59:08 GMT+0200 2010
+Upload Date  : Mon Jul 26 19:09:11 GMT+0200 2010
+Views        : 640
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+003
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+sheep 

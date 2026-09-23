@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Cloudtail the Snow Leopard
+Photo URL    : https://www.flickr.com/photos/blacktigersdream/9350757097/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 1 10:18:39 GMT+0200 2013
+Upload Date  : Tue Jul 23 19:51:26 GMT+0200 2013
+Geotag Info  : Latitude:47.385275, Longitude:8.574056
+Views        : 2,772
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A picture from an amur tiger, I've seen at Zoo Zurich
+
+
++--------+
+|  TAGS  |
++--------+
+zoo; zurich; zürich; tier; animal; säugetier; mammal; katze; cat; großkatze; raubkatze; big_cat; panthera; tigris; amur; tiger; sibirischer 

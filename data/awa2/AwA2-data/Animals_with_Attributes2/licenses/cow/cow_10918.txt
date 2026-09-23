@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tim Green aka atoach
+Photo URL    : https://www.flickr.com/photos/atoach/2664328309/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 12 13:16:54 GMT+0200 2008
+Upload Date  : Sun Jul 13 21:07:51 GMT+0200 2008
+Geotag Info  : Latitude:53.800232, Longitude:-1.916642
+Views        : 1,564
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+inquisitive bullock
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Lower Shay Farm, Denholme
+
+
++--------+
+|  TAGS  |
++--------+
+cow bullock cattle 

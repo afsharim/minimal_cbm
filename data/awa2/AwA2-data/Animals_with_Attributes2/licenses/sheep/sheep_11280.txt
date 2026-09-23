@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : deanwiles
+Photo URL    : https://www.flickr.com/photos/hundredline/6072820892/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Aug 17 10:54:45 GMT+0200 2011
+Upload Date  : Tue Aug 23 11:44:28 GMT+0200 2011
+Geotag Info  : Latitude:-35.884599, Longitude:137.569427
+Views        : 471
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Suckers
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Kangaroo Island
+
+
++--------+
+|  TAGS  |
++--------+
+sheep 

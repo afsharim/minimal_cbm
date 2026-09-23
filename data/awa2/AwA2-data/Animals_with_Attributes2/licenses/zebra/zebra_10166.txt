@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : joshparent
+Photo URL    : https://www.flickr.com/photos/joshparent/2446757502/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 27 13:04:25 GMT+0200 2007
+Upload Date  : Sun Apr 27 21:16:58 GMT+0200 2008
+Views        : 497
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Eeyore as a Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This is the worlds saddest Zebra.
+Photo courtesy of <a href="http://www.flickr.com/photos/aesanfacon/">www.flickr.com/photos/aesanfacon/</a>
+
+
++--------+
+|  TAGS  |
++--------+
+zebra sad zoo 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Eric Borda
+Photo URL    : https://www.flickr.com/photos/eric81/13189162125/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 15 14:21:21 GMT+0100 2014
+Upload Date  : Sun Mar 16 14:39:13 GMT+0100 2014
+Geotag Info  : Latitude:44.986049, Longitude:7.369937
+Views        : 298
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_7515
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Parco ZOOM - Cumiana
+
+
++--------+
+|  TAGS  |
++--------+
+parco zoom animali animal "eric borda" zoo bufalo 

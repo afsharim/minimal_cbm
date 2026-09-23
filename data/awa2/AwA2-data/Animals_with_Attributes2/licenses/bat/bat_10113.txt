@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Marcin Chady
+Photo URL    : https://www.flickr.com/photos/marcinchady/14390784270/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 3 12:22:02 GMT+0200 2014
+Upload Date  : Sat Jul 5 09:29:33 GMT+0200 2014
+Geotag Info  : Latitude:49.266605, Longitude:-123.007242
+Views        : 250
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_1966
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+bat nietoperz 

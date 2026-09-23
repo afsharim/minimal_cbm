@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : farhad pocha
+Photo URL    : https://www.flickr.com/photos/far/497794613/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Apr 11 14:45:27 GMT+0200 2007
+Upload Date  : Mon May 14 13:36:42 GMT+0200 2007
+Views        : 15
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+horses
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+prague, czech republic - easter 2007
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

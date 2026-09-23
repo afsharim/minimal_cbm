@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : marsupium photography
+Photo URL    : https://www.flickr.com/photos/hagdorned/19563099400/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 16 12:34:58 GMT+0200 2015
+Upload Date  : Thu Jul 16 21:54:17 GMT+0200 2015
+Geotag Info  : Latitude:49.469566, Longitude:9.794211
+Views        : 164
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+having a splash about
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+two otters at the Wildpark
+
+
++--------+
+|  TAGS  |
++--------+
+"Bad Mergentheim" Germany Wildpark 

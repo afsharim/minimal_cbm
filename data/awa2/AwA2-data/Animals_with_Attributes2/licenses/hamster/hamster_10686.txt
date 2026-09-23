@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Su--May
+Photo URL    : https://www.flickr.com/photos/su-may/8397666307/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 20 14:48:34 GMT+0100 2013
+Upload Date  : Sun Jan 20 15:50:04 GMT+0100 2013
+Geotag Info  : Latitude:51.441958, Longitude:-0.052942
+Views        : 911
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tarquin the hamster
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Tarquin prefers to just dig and sleep in the wooden shavings. He would ignore the tissues and pushed them aside. Our little tough and rough hamster.
+
+
++--------+
+|  TAGS  |
++--------+
+"Tarquin the hamster" "Male syrian hamster from Harrods" 

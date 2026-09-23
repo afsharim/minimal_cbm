@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : GerryT
+Photo URL    : https://www.flickr.com/photos/gerrythomasen/19790778/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jan 12 22:14:14 GMT+0100 2001
+Upload Date  : Fri Jun 17 03:17:30 GMT+0200 2005
+Geotag Info  : Latitude:49.183077, Longitude:-123.934578
+Views        : 791
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Raccoon
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Oops, gave a wild animal in a Provincial Park some apple. It was skinny!
+
+
++--------+
+|  TAGS  |
++--------+
+raccoon "newcastle island" 

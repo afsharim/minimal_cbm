@@ -1,0 +1,38 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : AfrikaForce
+Photo URL    : https://www.flickr.com/photos/afrikaforce/5154776967/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 7 21:01:43 GMT+0100 2010
+Upload Date  : Sun Nov 7 20:01:43 GMT+0100 2010
+Geotag Info  : Latitude:4.358906, Longitude:18.555049
+Views        : 4,074
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Claude - Central African Republic
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Sex: Male
+Age: 6 years (approx.)
+Location: Bangui Zoo grounds
+Details: CITES export permit already obtained; cared for by former U.S. ambassador and wife until leaving Central African Republic in August.
+
+
++--------+
+|  TAGS  |
++--------+
+Chimpanzee "Central African Republic" Africa Conservation endangered 

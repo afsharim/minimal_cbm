@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/25568486636/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 27 13:05:17 GMT+0100 2016
+Upload Date  : Mon Mar 7 21:01:14 GMT+0100 2016
+Geotag Info  : Latitude:47.050651, Longitude:8.554229
+Views        : 1,653
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lynx behind the log
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Portrait of one of the lynxes posing for me behind a log
+
+
++--------+
+|  TAGS  |
++--------+
+lynx wild cat portrait face log wood goldau "arth goldau" tierpark zoo switzerland nikon d4 

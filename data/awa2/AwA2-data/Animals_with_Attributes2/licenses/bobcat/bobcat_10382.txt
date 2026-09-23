@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Neil T
+Photo URL    : https://www.flickr.com/photos/neilt/4790972799/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 7 15:06:21 GMT+0200 2010
+Upload Date  : Tue Jul 13 23:48:21 GMT+0200 2010
+Geotag Info  : Latitude:54.322931, Longitude:-4.514007
+Views        : 278
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Eurasian Lynx
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+isleofman curraghswildlifepark lynx eurasianlynx wlny:geotagged=1 

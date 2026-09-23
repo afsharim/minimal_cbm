@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : harum.koh
+Photo URL    : https://www.flickr.com/photos/harumkoh/16823282338/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Apr 29 09:43:01 GMT+0200 2013
+Upload Date  : Thu Apr 2 18:13:01 GMT+0200 2015
+Views        : 324
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+photos for zoo guide
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Adventure world, Shirahama, Wakayama prefecture.
+<a href="http://www.inaturalist.org/guides/1775" rel="nofollow">www.inaturalist.org/guides/1775</a>
+
+
++--------+
+|  TAGS  |
++--------+
+taxonomy:kingdom=Animalia Animalia taxonomy:phylum=Chordata Chordata taxonomy:subphylum=Vertebrata Vertebrata taxonomy:class=Mammalia Mammalia taxonomy:order=Carnivora Carnivora taxonomy:family=Ursidae Ursidae taxonomy:genus=Ursus Ursus taxonomy:species=arctos "taxonomy:binomial=Ursus arctos" "taxonomy:trinomial=Ursus arctos arctos" "Ursus arctos arctos" "Eurasian Brown Bear" "Syrian Brown Bear" "Europäischer Braunbär" "taxonomy:common=Eurasian Brown Bear" "taxonomy:common=Syrian Brown Bear" "taxonomy:common=Europäischer Braunbär" 

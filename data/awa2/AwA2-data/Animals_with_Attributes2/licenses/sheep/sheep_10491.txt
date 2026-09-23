@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Sunfox
+Photo URL    : https://www.flickr.com/photos/sunfox/3038718775/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 8 13:58:41 GMT+0100 2008
+Upload Date  : Mon Nov 17 23:53:00 GMT+0100 2008
+Geotag Info  : Latitude:47.339171, Longitude:3.726425
+Views        : 89
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Moutons en bourgogne
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+sheep green countryside 

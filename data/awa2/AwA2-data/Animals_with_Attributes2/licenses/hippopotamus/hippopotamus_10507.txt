@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : zanthrax-dot-nl
+Photo URL    : https://www.flickr.com/photos/zanthraxnl/3669619796/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 28 14:39:01 GMT+0200 2009
+Upload Date  : Sun Jun 28 23:11:46 GMT+0200 2009
+Views        : 99
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_4717
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Pygmy hippopotamus" 

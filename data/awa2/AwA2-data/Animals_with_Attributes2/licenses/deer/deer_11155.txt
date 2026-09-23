@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : don_macauley
+Photo URL    : https://www.flickr.com/photos/27770620@N02/6227076309/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 9 15:12:32 GMT+0200 2011
+Upload Date  : Sun Oct 9 21:30:18 GMT+0200 2011
+Geotag Info  : Latitude:51.437173, Longitude:-0.264908
+Views        : 1,110
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Red Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+red deer "Richmond Park" Cervus elaphus 

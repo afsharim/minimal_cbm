@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ariane Middel
+Photo URL    : https://www.flickr.com/photos/ariii/2763961465/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 28 16:05:44 GMT+0200 2008
+Upload Date  : Fri Aug 15 06:38:38 GMT+0200 2008
+Views        : 37
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+2008_0728-16.05.44_ariii
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"San Diego" "San Diego Zoo" 2008 Canon animals 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : codersquid
+Photo URL    : https://www.flickr.com/photos/sheila/2058369729/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Nov 23 23:45:43 GMT+0100 2007
+Upload Date  : Sat Nov 24 06:45:43 GMT+0100 2007
+Geotag Info  : Latitude:44.927240, Longitude:-124.018081
+Views        : 101
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+P1010057.JPG
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+beach bird border collie dog 

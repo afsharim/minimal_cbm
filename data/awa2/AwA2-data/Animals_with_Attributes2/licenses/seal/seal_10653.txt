@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : The Eggplant
+Photo URL    : https://www.flickr.com/photos/eggplant/15265207187/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Sep 23 19:32:38 GMT+0200 2014
+Upload Date  : Sun Oct 5 23:09:18 GMT+0200 2014
+Geotag Info  : Latitude:37.810684, Longitude:-122.411568
+Views        : 106
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Pier 39 Seals
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"San Francisco" "Fisherman's Wharf" "Pier 39" seals 

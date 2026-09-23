@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Derek Keats
+Photo URL    : https://www.flickr.com/photos/dkeats/89018162/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jan 20 12:31:43 GMT+0100 2006
+Upload Date  : Fri Jan 20 21:31:43 GMT+0100 2006
+Views        : 485
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+zebra1
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Herd of zebra in Zimbabwe
+
+
++--------+
+|  TAGS  |
++--------+
+africa wildlife scenery zebra mammals zimbabwe 

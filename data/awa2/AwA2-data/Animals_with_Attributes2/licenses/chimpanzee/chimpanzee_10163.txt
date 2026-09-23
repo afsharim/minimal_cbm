@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : _somaholiday
+Photo URL    : https://www.flickr.com/photos/75872360@N08/14726817931/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 26 15:04:45 GMT+0100 2012
+Upload Date  : Thu Jul 24 04:30:11 GMT+0200 2014
+Geotag Info  : Latitude:32.738771, Longitude:-96.816029
+Views        : 116
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Chimpanzee (Pan troglodytes), Dallas Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Chimpanzee (Pan troglodytes), Dallas Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+animals zoo primates 

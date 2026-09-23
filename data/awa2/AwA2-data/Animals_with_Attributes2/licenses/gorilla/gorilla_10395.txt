@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : __Wichid__
+Photo URL    : https://www.flickr.com/photos/-wichid/4738182430/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 26 12:54:34 GMT+0200 2010
+Upload Date  : Sun Jun 27 10:54:57 GMT+0200 2010
+Geotag Info  : Latitude:-37.786521, Longitude:144.949836
+Views        : 1,193
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Gorilla
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Melbourne Zoo Gorilla" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Marshmallow
+Photo URL    : https://www.flickr.com/photos/tmarschner/2729647854/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 19 11:11:08 GMT+0200 2008
+Upload Date  : Sun Aug 3 22:45:38 GMT+0200 2008
+Geotag Info  : Latitude:58.454918, Longitude:-154.078788
+Views        : 5,777
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Alaskan Brown Bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Alaskan Brown Bear, Hallo Bay, Katmai National Park, Alaska
+
+
++--------+
+|  TAGS  |
++--------+
+alaskan brown bear hallo bay katmai national park 

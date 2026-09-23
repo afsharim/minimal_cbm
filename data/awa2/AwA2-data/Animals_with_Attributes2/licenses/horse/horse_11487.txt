@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : heystrobelight
+Photo URL    : https://www.flickr.com/photos/heystrobelight/5479471601/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 26 13:21:10 GMT+0100 2011
+Upload Date  : Sat Feb 26 22:21:10 GMT+0100 2011
+Views        : 199
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+the brown horse.
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+this one liked me.
+
+
++--------+
+|  TAGS  |
++--------+
+horse eye close up 

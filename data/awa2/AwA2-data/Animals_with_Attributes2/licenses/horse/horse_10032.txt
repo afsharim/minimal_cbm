@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : weisserstier
+Photo URL    : https://www.flickr.com/photos/alfreddiem/14815496038/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Apr 24 10:55:35 GMT+0200 2014
+Upload Date  : Fri Aug 22 21:53:27 GMT+0200 2014
+Geotag Info  : Latitude:47.639774, Longitude:13.769903
+Views        : 163
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+140424__Altaussee_03
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Spaziergang rund um den Altausseer See
+
+
++--------+
+|  TAGS  |
++--------+
+Pferd horse animal Tier Altaussee 

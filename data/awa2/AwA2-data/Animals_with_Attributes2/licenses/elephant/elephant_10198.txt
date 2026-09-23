@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : thomasgerhard
+Photo URL    : https://www.flickr.com/photos/thomasgerhard/8216655632/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Nov 9 17:11:45 GMT+0100 2012
+Upload Date  : Sun Nov 25 09:32:32 GMT+0100 2012
+Geotag Info  : Latitude:-33.378448, Longitude:26.393694
+Views        : 378
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elefantenliebe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Elefant mit Jungtier
+Elephant with young one
+
+
++--------+
+|  TAGS  |
++--------+
+elephant Elefant 

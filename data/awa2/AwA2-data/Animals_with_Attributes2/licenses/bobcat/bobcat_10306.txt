@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Dave Williss
+Photo URL    : https://www.flickr.com/photos/dwilliss/7924899742/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Sep 3 14:27:42 GMT+0200 2012
+Upload Date  : Mon Sep 3 23:38:40 GMT+0200 2012
+Geotag Info  : Latitude:41.010011, Longitude:-96.302881
+Views        : 1,235
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bobcat
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+bobcat 

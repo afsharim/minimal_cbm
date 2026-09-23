@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : masao nakagami
+Photo URL    : https://www.flickr.com/photos/goro_memo/3224697104/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 24 11:51:01 GMT+0100 2009
+Upload Date  : Sun Jan 25 05:53:50 GMT+0100 2009
+Views        : 280
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+rat
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+2009
+
+
++--------+
+|  TAGS  |
++--------+
+animal rat zoo 

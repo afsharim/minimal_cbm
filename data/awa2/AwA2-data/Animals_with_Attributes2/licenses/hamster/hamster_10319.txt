@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Erling A
+Photo URL    : https://www.flickr.com/photos/klemenz777/116526691/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jan 25 18:45:48 GMT+0100 2006
+Upload Date  : Thu Mar 23 00:02:09 GMT+0100 2006
+Views        : 877
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hamster!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+hamster 01 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Kent Wang
+Photo URL    : https://www.flickr.com/photos/kentwang/24153997435/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 20 16:31:49 GMT+0100 2015
+Upload Date  : Mon Jan 4 10:47:25 GMT+0100 2016
+Views        : 35
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hippopotamus
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Kruger National Park" hippopotamus 

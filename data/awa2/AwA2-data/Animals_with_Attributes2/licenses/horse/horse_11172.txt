@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Irelynkiss
+Photo URL    : https://www.flickr.com/photos/irelynkiss/6434331559/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 19 14:53:32 GMT+0100 2011
+Upload Date  : Thu Dec 1 04:25:38 GMT+0100 2011
+Views        : 2,844
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Lovely Horses
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horses 

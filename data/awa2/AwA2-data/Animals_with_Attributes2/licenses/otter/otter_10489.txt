@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jeff Kubina
+Photo URL    : https://www.flickr.com/photos/kubina/132167366/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Apr 11 10:50:14 GMT+0200 2006
+Upload Date  : Fri Apr 21 04:26:15 GMT+0200 2006
+Geotag Info  : Latitude:39.094285, Longitude:-84.497512
+Views        : 477
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Otters
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"newport aquarium" aquarium "newport on the levee" otter otters 200604 2006 color vacation public cincinnati ohio "taken by jeff kubina" newport kentucky 

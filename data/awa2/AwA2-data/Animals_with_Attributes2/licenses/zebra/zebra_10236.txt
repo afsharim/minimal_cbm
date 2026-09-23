@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : chris.murphy
+Photo URL    : https://www.flickr.com/photos/chris-murphy/4542728686/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 3 06:48:21 GMT+0200 2010
+Upload Date  : Thu Apr 22 07:10:50 GMT+0200 2010
+Views        : 103
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hell's Gate-5
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+rain "Lake Naivasha" zebra Kenya 

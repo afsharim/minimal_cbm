@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : stachelbeer
+Photo URL    : https://www.flickr.com/photos/mario_storch/3830343409/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 14 16:00:15 GMT+0200 2009
+Upload Date  : Mon Aug 17 20:48:30 GMT+0200 2009
+Geotag Info  : Latitude:49.448186, Longitude:11.142357
+Views        : 477
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Tiergarten Nürnberg" Tiger 

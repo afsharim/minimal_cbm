@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jkirkhart35
+Photo URL    : https://www.flickr.com/photos/jkirkhart35/3479535813/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Apr 23 10:25:39 GMT+0200 2009
+Upload Date  : Mon Apr 27 17:03:01 GMT+0200 2009
+Views        : 162
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Raccoon (Procyon lotor)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

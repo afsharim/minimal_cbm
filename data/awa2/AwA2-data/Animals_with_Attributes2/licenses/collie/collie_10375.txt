@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jammach_uk
+Photo URL    : https://www.flickr.com/photos/jammach_uk/466952299/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 18 10:59:34 GMT+0200 2004
+Upload Date  : Sat Apr 21 12:09:54 GMT+0200 2007
+Geotag Info  : Latitude:55.523237, Longitude:-4.632968
+Views        : 476
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Jock on Troon Beach
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+My parent's dog, Jock, poised to play fetch, on Troon beach, Scotland
+
+
++--------+
+|  TAGS  |
++--------+
+border collie 

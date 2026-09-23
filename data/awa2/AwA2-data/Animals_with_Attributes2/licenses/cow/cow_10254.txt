@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Joi
+Photo URL    : https://www.flickr.com/photos/joi/536858611/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 8 20:48:03 GMT+0200 2007
+Upload Date  : Sat Jun 9 06:56:18 GMT+0200 2007
+Geotag Info  : Latitude:47.308103, Longitude:8.552684
+Views        : 22,709
+Comments     : 6
+
+
++---------+
+|  TITLE  |
++---------+
+Cow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Cow with cowbell
+
+
++--------+
+|  TAGS  |
++--------+
+cowbell cow places:locality=pMz1z4CeCZ9yIhw 

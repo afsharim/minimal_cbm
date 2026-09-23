@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Oliver Ruhm
+Photo URL    : https://www.flickr.com/photos/ruhm/1180268352/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 18 15:33:46 GMT+0200 2007
+Upload Date  : Mon Aug 20 09:55:57 GMT+0200 2007
+Views        : 512
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zoo zurich animals zebra 

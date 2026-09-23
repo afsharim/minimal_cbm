@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : FireChickenTA99
+Photo URL    : https://www.flickr.com/photos/firechickenta99/3232787428/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 11 13:36:34 GMT+0200 2004
+Upload Date  : Wed Jan 28 00:26:24 GMT+0100 2009
+Geotag Info  : Latitude:30.445903, Longitude:-90.149962
+Views        : 1,080
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Allie the horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This was the horse that my son rode at a horse camp that we sent him to one summer.
+
+
++--------+
+|  TAGS  |
++--------+
+Horses 

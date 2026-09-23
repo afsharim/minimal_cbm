@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Airwolfhound
+Photo URL    : https://www.flickr.com/photos/24874528@N04/5503730146/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 6 10:46:01 GMT+0100 2011
+Upload Date  : Sun Mar 6 21:14:55 GMT+0100 2011
+Views        : 4,526
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+So much for squirrel-proof birdfeeders :-)
+
+
++--------+
+|  TAGS  |
++--------+
+Squirrel 

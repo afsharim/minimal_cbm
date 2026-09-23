@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : archie2
+Photo URL    : https://www.flickr.com/photos/niekel/3336447386/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 7 16:00:21 GMT+0100 2009
+Upload Date  : Sat Mar 7 22:36:14 GMT+0100 2009
+Geotag Info  : Latitude:47.384455, Longitude:8.574464
+Views        : 35
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Zoo Zurich
+
+
++--------+
+|  TAGS  |
++--------+
+Animal Switzerland tijger zoo zurich Places nature 

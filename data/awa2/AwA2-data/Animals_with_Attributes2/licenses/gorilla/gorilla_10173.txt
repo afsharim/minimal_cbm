@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : docsclassicgirl
+Photo URL    : https://www.flickr.com/photos/127002994@N07/15591619755/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 17 18:01:24 GMT+0200 2015
+Upload Date  : Tue Oct 21 16:19:16 GMT+0200 2014
+Views        : 27
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_5693
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

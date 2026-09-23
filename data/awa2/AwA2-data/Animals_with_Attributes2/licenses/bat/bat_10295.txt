@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Don Pfritzer
+Photo URL    : https://commons.wikimedia.org/wiki/File:Little_Brown_Bat_FWS.jpg
+License      : public domain
+Date         : 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ross Catrow
+Photo URL    : https://www.flickr.com/photos/maxpower/5009203930/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Sep 20 11:29:55 GMT+0200 2010
+Upload Date  : Mon Sep 20 20:09:09 GMT+0200 2010
+Geotag Info  : Latitude:37.385060, Longitude:-77.764019
+Views        : 177
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Huuuuulllo.
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+giraffe "richmond metro zoo" 

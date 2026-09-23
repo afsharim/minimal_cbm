@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : TheGirlsNY
+Photo URL    : https://www.flickr.com/photos/thegirlsny/3759693592/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 25 15:01:43 GMT+0200 2009
+Upload Date  : Sun Jul 26 23:38:00 GMT+0200 2009
+Views        : 616
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger stripes
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Bronx Zoo" Tiger 

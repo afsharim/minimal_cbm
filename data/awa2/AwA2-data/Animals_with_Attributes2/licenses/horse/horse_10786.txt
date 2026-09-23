@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : wka
+Photo URL    : https://www.flickr.com/photos/wka/24498368629/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jan 19 17:47:15 GMT+0100 2016
+Upload Date  : Sun Feb 7 05:59:39 GMT+0100 2016
+Geotag Info  : Latitude:20.125961, Longitude:-155.788087
+Views        : 23
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+hawaii bigisland kahuaranch ranch horse grass hills 

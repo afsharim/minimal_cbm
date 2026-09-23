@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Kekka
+Photo URL    : https://www.flickr.com/photos/kekka/225399348/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 27 17:43:04 GMT+0100 2005
+Upload Date  : Sat Aug 26 20:49:27 GMT+0200 2006
+Views        : 519
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Strofe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+cat persian colourpoint 

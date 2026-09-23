@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : gailhampshire
+Photo URL    : https://www.flickr.com/photos/gails_pictures/8213108571/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 11 11:21:03 GMT+0100 2012
+Upload Date  : Sat Nov 24 16:03:45 GMT+0100 2012
+Geotag Info  : Latitude:19.953569, Longitude:79.294288
+Views        : 562
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Royal Bengal Tiger. Panthera tigris tigris.
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+India Animals 

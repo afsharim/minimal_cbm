@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : NH53
+Photo URL    : https://www.flickr.com/photos/nh53/7453516858/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 18 11:57:15 GMT+0200 2012
+Upload Date  : Wed Jun 27 11:27:41 GMT+0200 2012
+Geotag Info  : Latitude:46.666225, Longitude:12.419357
+Views        : 1,263
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horses
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+By Alpe Nemes Hütte
+
+
++--------+
+|  TAGS  |
++--------+
+dolomites horse 

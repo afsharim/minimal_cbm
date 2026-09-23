@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ooblitz_babyoo
+Photo URL    : https://www.flickr.com/photos/9315987@N05/3964712053/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Sep 2 13:17:44 GMT+0200 2009
+Upload Date  : Tue Sep 29 09:02:01 GMT+0200 2009
+Views        : 15
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

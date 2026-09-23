@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Lil Shepherd
+Photo URL    : https://www.flickr.com/photos/lilshepherd/6916701021/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Nov 25 12:20:20 GMT+0100 2011
+Upload Date  : Tue Feb 21 16:59:03 GMT+0100 2012
+Views        : 672
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Roan Horse and Rider at Roding
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horse "roding meadows" 

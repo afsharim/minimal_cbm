@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Aug 23, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : dogsbylori
+Photo URL    : https://www.flickr.com/photos/dogsbylori/26556571643/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue May 17 22:19:23 GMT+0200 2016
+Upload Date  : Sun May 22 04:55:42 GMT+0200 2016
+Views        : 67
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_0377_HDR_edit
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"dogs smelling roses" "photo by dogsbylori" "Blue Merle Collie" "Photographed by Lori Abrams Rauchwerger" "Robbie Bleu" "Rough Coat Collie" 

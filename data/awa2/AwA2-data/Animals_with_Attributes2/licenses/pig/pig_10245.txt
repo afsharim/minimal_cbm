@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : johnmuk
+Photo URL    : https://www.flickr.com/photos/jm999uk/8719060980/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 21 11:54:29 GMT+0200 2013
+Upload Date  : Wed May 8 00:06:26 GMT+0200 2013
+Views        : 28
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Pig Portrait
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Taken at Shugborough on the 21st April, 2013
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

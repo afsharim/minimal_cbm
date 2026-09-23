@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Chris Sorge
+Photo URL    : https://www.flickr.com/photos/stone65/7043345525/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Apr 3 03:11:25 GMT+0200 2012
+Upload Date  : Wed Apr 4 01:10:31 GMT+0200 2012
+Geotag Info  : Latitude:42.906148, Longitude:-79.622039
+Views        : 2,021
+Comments     : 188
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Furry little guy
+
+
++--------+
+|  TAGS  |
++--------+
+Squirrel "Remember That Moment Level 1" "Remember That Moment Level 2" ”SweetFreedom” 

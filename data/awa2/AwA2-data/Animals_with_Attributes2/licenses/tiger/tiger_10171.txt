@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ganders
+Photo URL    : https://www.flickr.com/photos/ganders/3267188307/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Dec 29 13:57:47 GMT+0100 2008
+Upload Date  : Tue Feb 10 00:00:26 GMT+0100 2009
+Geotag Info  : Latitude:51.865653, Longitude:0.835561
+Views        : 57
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Pacing Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+colchester zoo "colchester zoo" tiger 

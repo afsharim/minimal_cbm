@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : robby-T
+Photo URL    : https://www.flickr.com/photos/robbyt/432707643/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Mar 23 19:20:56 GMT+0100 2007
+Upload Date  : Sat Mar 24 21:04:39 GMT+0100 2007
+Geotag Info  : Latitude:44.954351, Longitude:-93.486356
+Views        : 286
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+beavers in motion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+beavers minnesota beaver "Castor canadensis" 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : vmiramontes
+Photo URL    : https://www.flickr.com/photos/vmiramontes/3628181820/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 14 11:17:29 GMT+0200 2009
+Upload Date  : Mon Jun 15 07:46:16 GMT+0200 2009
+Views        : 925
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Chimpanzee at the LA Zoo 061409
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+chimpanzee "LA Zoo" 

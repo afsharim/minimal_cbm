@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : kkirugi
+Photo URL    : https://www.flickr.com/photos/kkirugi/4923018541/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 21 13:32:44 GMT+0200 2010
+Upload Date  : Tue Aug 24 16:00:32 GMT+0200 2010
+Views        : 682
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+seal
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+seal
+Children Grand Park
+Seoul, Korea
+
+
++--------+
+|  TAGS  |
++--------+
+seal 

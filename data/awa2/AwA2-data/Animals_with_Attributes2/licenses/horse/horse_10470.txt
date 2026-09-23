@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : lifecreations
+Photo URL    : https://www.flickr.com/photos/tigerzeye/200490549/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 28 12:54:15 GMT+0200 2006
+Upload Date  : Fri Jul 28 21:54:15 GMT+0200 2006
+Views        : 461
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Horse Hindsight
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+grazing horses 

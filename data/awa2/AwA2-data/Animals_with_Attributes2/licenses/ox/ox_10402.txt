@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : spadged
+Photo URL    : https://www.flickr.com/photos/spadged/9265188462/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 6 15:46:22 GMT+0200 2013
+Upload Date  : Thu Jul 11 22:11:03 GMT+0200 2013
+Views        : 17
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_9810
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

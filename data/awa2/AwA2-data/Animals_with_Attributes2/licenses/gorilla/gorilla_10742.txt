@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : D.Kirk
+Photo URL    : https://www.flickr.com/photos/ladyicon/6454267815/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Dec 3 13:07:35 GMT+0100 2011
+Upload Date  : Sun Dec 4 19:51:42 GMT+0100 2011
+Views        : 32
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Silver back
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

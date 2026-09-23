@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : xabeldiz
+Photo URL    : https://www.flickr.com/photos/xabeldiz/5509648870/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 6 18:32:32 GMT+0100 2011
+Upload Date  : Tue Mar 8 17:03:40 GMT+0100 2011
+Geotag Info  : Latitude:43.239387, Longitude:-6.595444
+Views        : 100
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Cast a Line
+Photo URL    : https://www.flickr.com/photos/58754750@N08/5681774539/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Apr 19 01:22:32 GMT+0200 2011
+Upload Date  : Tue May 3 03:30:56 GMT+0200 2011
+Views        : 1,909
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+cow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+cow "cow with tag in ear" "brown and white cow" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mertie.
+Photo URL    : https://www.flickr.com/photos/100780486@N02/18191260420/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 23 14:08:04 GMT+0200 2015
+Upload Date  : Tue Jun 2 12:05:54 GMT+0200 2015
+Geotag Info  : Latitude:-34.913419, Longitude:138.605489
+Views        : 257
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffes at Adelaide Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Kimya ♀ and Dharba ♀
+
+
++--------+
+|  TAGS  |
++--------+
+"Adelaide Zoo" Zoo Giraffe 

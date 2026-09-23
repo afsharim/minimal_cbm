@@ -1,0 +1,38 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Portt
+Photo URL    : https://www.flickr.com/photos/portt/5156269381/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 7 12:05:22 GMT+0100 2010
+Upload Date  : Mon Nov 8 03:41:30 GMT+0100 2010
+Geotag Info  : Latitude:43.820904, Longitude:-79.182372
+Views        : 3,413
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Tatiana, the Toronto Zoo's Siberian Tiger.
+<a href="http://www.torontozoo.com" rel="nofollow">www.torontozoo.com</a>
+
+70-200+TC1.4
+
+
++--------+
+|  TAGS  |
++--------+
+Tiger zoo "toronto zoo" toronto nikon D80 

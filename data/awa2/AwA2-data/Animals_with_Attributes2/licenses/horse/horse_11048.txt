@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Forsaken Fotos
+Photo URL    : https://www.flickr.com/photos/55229469@N07/10077489273/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Oct 3 04:59:35 GMT+0200 2013
+Upload Date  : Fri Oct 4 02:50:17 GMT+0200 2013
+Views        : 525
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Idlewild
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Horses 

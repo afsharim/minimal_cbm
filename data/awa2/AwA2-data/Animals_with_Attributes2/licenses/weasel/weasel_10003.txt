@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Peter G Trimming
+Photo URL    : https://www.flickr.com/photos/peter-trimming/5493645447/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 26 13:10:01 GMT+0100 2011
+Upload Date  : Thu Mar 3 12:17:49 GMT+0100 2011
+Views        : 406
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+'Storm'
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Male polecat; seen at the British Wildlife Centre, Newchapel, Surrey.
+
+
++--------+
+|  TAGS  |
++--------+
+British Wildlife Centre Newchapel Surrey Polecat Mustela putorius Peter Trimming 

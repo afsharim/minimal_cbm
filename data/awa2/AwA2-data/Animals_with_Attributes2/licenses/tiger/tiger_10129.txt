@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Bogeycat
+Photo URL    : https://www.flickr.com/photos/lynmarie/15662959919/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Mar 26 15:26:54 GMT+0100 2014
+Upload Date  : Sat Nov 22 06:37:15 GMT+0100 2014
+Geotag Info  : Latitude:40.107224, Longitude:-104.520492
+Views        : 613
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Handsome Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Wild Animal Sanctuary, Keenesburg, CO
+
+
++--------+
+|  TAGS  |
++--------+
+tiger 

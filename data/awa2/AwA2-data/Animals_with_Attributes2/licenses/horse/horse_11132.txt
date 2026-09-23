@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : breyeschow
+Photo URL    : https://www.flickr.com/photos/reyes-chow/1715073171/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Oct 22 20:39:12 GMT+0200 2007
+Upload Date  : Tue Oct 23 22:24:38 GMT+0200 2007
+Views        : 27
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Kevin on a horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Kevin Horse 

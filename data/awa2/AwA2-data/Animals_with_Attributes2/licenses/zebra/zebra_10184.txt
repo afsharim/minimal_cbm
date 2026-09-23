@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ryan Kilpatrick
+Photo URL    : https://www.flickr.com/photos/rkilpatrick21/6329965816/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Nov 7 09:13:00 GMT+0100 2011
+Upload Date  : Wed Nov 9 21:07:43 GMT+0100 2011
+Geotag Info  : Latitude:-25.256262, Longitude:27.082822
+Views        : 73
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe & zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

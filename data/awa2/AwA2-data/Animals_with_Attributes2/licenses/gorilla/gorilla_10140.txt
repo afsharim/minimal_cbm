@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bedwj099
+Photo URL    : https://www.flickr.com/photos/jerrybedwell/10877753934/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 10 10:19:22 GMT+0100 2013
+Upload Date  : Sat Nov 16 01:39:00 GMT+0100 2013
+Views        : 72
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_0121
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Grumpy gentleman early in the morning
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

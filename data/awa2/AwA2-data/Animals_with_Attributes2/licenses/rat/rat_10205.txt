@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : doublecompile
+Photo URL    : https://www.flickr.com/photos/doublecompile/8323543440/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Dec 29 16:18:58 GMT+0100 2012
+Upload Date  : Sat Dec 29 22:33:57 GMT+0100 2012
+Geotag Info  : Latitude:39.384263, Longitude:-76.658820
+Views        : 178
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Meet Remy! Our new rat friend!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+pets animals rats 

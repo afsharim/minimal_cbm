@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mr Moss
+Photo URL    : https://www.flickr.com/photos/barneymoss/9001418970/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 3 12:24:36 GMT+0200 2013
+Upload Date  : Mon Jun 10 00:37:09 GMT+0200 2013
+Geotag Info  : Latitude:51.534702, Longitude:-0.154762
+Views        : 1,173
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+tiger "london zoo" zsl 

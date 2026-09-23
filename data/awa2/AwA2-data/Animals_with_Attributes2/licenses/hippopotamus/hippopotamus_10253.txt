@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jonathan_siberry
+Photo URL    : https://www.flickr.com/photos/jonathansiberry/7843847782/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 18 13:15:16 GMT+0200 2012
+Upload Date  : Thu Aug 23 13:10:03 GMT+0200 2012
+Views        : 379
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Hippo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A day at Whipsnade Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+hippo teeth yawn 

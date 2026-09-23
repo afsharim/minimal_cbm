@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : missbossy
+Photo URL    : https://www.flickr.com/photos/missbossy/10242622676/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Oct 1 05:19:42 GMT+0200 2013
+Upload Date  : Sun Oct 13 12:14:15 GMT+0200 2013
+Views        : 367
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+At Heathcote Haven B&amp;B
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

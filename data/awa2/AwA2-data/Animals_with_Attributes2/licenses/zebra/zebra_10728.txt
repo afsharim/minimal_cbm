@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : The Queen of the Cats
+Photo URL    : https://www.flickr.com/photos/modcatqueen/2640238301/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 5 19:23:31 GMT+0200 2008
+Upload Date  : Sun Jul 6 04:23:31 GMT+0200 2008
+Views        : 11
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+At the Bronx Zoo!
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

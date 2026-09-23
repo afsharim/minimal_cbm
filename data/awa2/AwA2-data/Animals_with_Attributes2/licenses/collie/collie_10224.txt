@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Drab Makyo
+Photo URL    : https://www.flickr.com/photos/ranna/4128414494/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Nov 23 08:46:44 GMT+0100 2009
+Upload Date  : Mon Nov 23 16:46:44 GMT+0100 2009
+Geotag Info  : Latitude:40.578238, Longitude:-105.029993
+Views        : 284
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Doubleperk
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Zeph's other ear is starting to perk up too
+
+
++--------+
+|  TAGS  |
++--------+
+zephyr puppy "border collie" "week 10" 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : HitchChic
+Photo URL    : https://www.flickr.com/photos/hitchchic/1119128962/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 13 15:23:39 GMT+0200 2007
+Upload Date  : Tue Aug 14 22:41:37 GMT+0200 2007
+Views        : 14
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Moose
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+sawtellmountain 

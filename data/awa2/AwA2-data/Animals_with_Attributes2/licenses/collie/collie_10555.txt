@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jo Naylor
+Photo URL    : https://www.flickr.com/photos/pandora_6666/3380447500/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 1 12:00:46 GMT+0100 2006
+Upload Date  : Mon Mar 23 22:12:17 GMT+0100 2009
+Views        : 119
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+silly collie.jpg
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+From my friend Micheal's farm 
+<i>Uploaded with the <a href="http://www.flock.com/" rel="nofollow">Flock Browser</a></i>
+
+
++--------+
+|  TAGS  |
++--------+
+farm animal nature outdoors 

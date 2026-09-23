@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : magerleagues
+Photo URL    : https://www.flickr.com/photos/mager/14208520839/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 5 14:56:12 GMT+0200 2014
+Upload Date  : Wed Jun 11 04:15:58 GMT+0200 2014
+Views        : 78
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep everywhere
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

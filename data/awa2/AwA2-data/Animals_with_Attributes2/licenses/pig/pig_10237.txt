@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : gilder_2001
+Photo URL    : https://www.flickr.com/photos/74796355@N00/711474980/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 28 10:02:57 GMT+0100 2007
+Upload Date  : Wed Jul 4 04:14:56 GMT+0200 2007
+Views        : 9
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Pig Face
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

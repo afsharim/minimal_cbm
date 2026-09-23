@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : cpence
+Photo URL    : https://www.flickr.com/photos/pence/5629225900/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 10 13:03:28 GMT+0200 2011
+Upload Date  : Mon Apr 18 00:09:05 GMT+0200 2011
+Geotag Info  : Latitude:41.670291, Longitude:-86.218788
+Views        : 97
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Amur Tiger (Panthera tigris altaica)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Looking for a belly-scratch.  Of course, then it'd eat you, but still.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

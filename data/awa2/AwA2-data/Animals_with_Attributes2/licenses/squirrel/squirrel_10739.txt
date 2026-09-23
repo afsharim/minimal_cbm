@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : zoonabar
+Photo URL    : https://www.flickr.com/photos/zoonabar/3263878150/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 8 13:44:20 GMT+0100 2009
+Upload Date  : Sun Feb 8 18:13:40 GMT+0100 2009
+Geotag Info  : Latitude:51.509834, Longitude:-0.228679
+Views        : 178
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Squirrel "Hammersmith Park" 

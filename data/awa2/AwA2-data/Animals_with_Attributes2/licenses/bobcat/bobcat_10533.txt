@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ericderedelijkheid
+Photo URL    : https://www.flickr.com/photos/58438371@N02/6032458382/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 11 11:06:03 GMT+0200 2011
+Upload Date  : Thu Aug 11 16:05:50 GMT+0200 2011
+Geotag Info  : Latitude:52.150686, Longitude:5.348417
+Views        : 171
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lynx
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Lynx 

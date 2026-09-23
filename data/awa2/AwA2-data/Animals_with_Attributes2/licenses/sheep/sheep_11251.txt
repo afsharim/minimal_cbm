@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Just chaos
+Photo URL    : https://www.flickr.com/photos/7326810@N08/5219313526/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 28 12:24:21 GMT+0200 2010
+Upload Date  : Mon Nov 29 23:35:23 GMT+0100 2010
+Views        : 202
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Shetland Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

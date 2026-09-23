@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : stachelbeer
+Photo URL    : https://www.flickr.com/photos/mario_storch/3497063973/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri May 1 12:55:38 GMT+0200 2009
+Upload Date  : Sun May 3 19:10:06 GMT+0200 2009
+Geotag Info  : Latitude:52.019648, Longitude:13.532752
+Views        : 323
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Kuh
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Johannismühle Kuh 

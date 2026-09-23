@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ChodHound
+Photo URL    : https://www.flickr.com/photos/chodhound/8129038441/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 27 23:42:06 GMT+0200 2012
+Upload Date  : Sun Oct 28 00:42:06 GMT+0200 2012
+Views        : 4
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+flickrandroidapp:filter=none 

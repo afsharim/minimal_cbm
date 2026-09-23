@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mcgrayjr
+Photo URL    : https://www.flickr.com/photos/mcgrayjr/4533279687/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 18 21:51:37 GMT+0200 2010
+Upload Date  : Mon Apr 19 06:51:37 GMT+0200 2010
+Views        : 24
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

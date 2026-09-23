@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Charles Haynes
+Photo URL    : https://www.flickr.com/photos/haynes/7285013588/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 26 16:31:31 GMT+0200 2012
+Upload Date  : Mon May 28 09:01:30 GMT+0200 2012
+Geotag Info  : Latitude:2.278466, Longitude:31.593825
+Views        : 133
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephants
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Kampala Uganda 

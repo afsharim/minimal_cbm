@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : athomson
+Photo URL    : https://www.flickr.com/photos/athomson/225232538/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Aug 15 08:55:59 GMT+0200 2006
+Upload Date  : Sat Aug 26 17:09:31 GMT+0200 2006
+Geotag Info  : Latitude:43.573924, Longitude:-80.678100
+Views        : 224
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Cows
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Taken on the Toronto-Waterloo-Port Elgin bicycle trip.
+
+
++--------+
+|  TAGS  |
++--------+
+ontario rural cows farms waterloo 

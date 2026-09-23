@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ahisgett
+Photo URL    : https://www.flickr.com/photos/hisgett/15398433657/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Oct 8 12:06:09 GMT+0200 2014
+Upload Date  : Mon Oct 20 18:30:03 GMT+0200 2014
+Geotag Info  : Latitude:36.810896, Longitude:-121.788534
+Views        : 437
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Sea Otter 9
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+California Moss Landing 

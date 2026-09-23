@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : NH53
+Photo URL    : https://www.flickr.com/photos/nh53/7365613368/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 9 23:20:01 GMT+0200 2012
+Upload Date  : Tue Jun 12 17:37:33 GMT+0200 2012
+Geotag Info  : Latitude:64.507207, Longitude:29.971046
+Views        : 6,332
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Brown Bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+finland bear 

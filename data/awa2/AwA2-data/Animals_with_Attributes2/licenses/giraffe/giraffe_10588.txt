@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Roger Luijten
+Photo URL    : https://www.flickr.com/photos/66555186@N02/6312727618/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Nov 4 16:04:42 GMT+0100 2011
+Upload Date  : Fri Nov 4 18:08:47 GMT+0100 2011
+Geotag Info  : Latitude:50.868785, Longitude:6.045510
+Views        : 244
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Gaia Zoo" Kerkrade Canon "EOS 400D" "EF 70-200mm f/2.8L IS II USM" Giraffe 

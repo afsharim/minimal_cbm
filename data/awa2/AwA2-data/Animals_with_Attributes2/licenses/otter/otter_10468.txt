@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : The Lamb Family
+Photo URL    : https://www.flickr.com/photos/lambfamilyphotos/290260626/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 28 13:50:41 GMT+0200 2006
+Upload Date  : Mon Nov 6 06:20:14 GMT+0100 2006
+Geotag Info  : Latitude:47.669086, Longitude:-122.351217
+Views        : 200
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Otters 3
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+otter 

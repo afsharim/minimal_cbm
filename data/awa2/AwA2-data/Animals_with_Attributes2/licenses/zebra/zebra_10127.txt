@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Graham S Dean Photography
+Photo URL    : https://www.flickr.com/photos/britanglishman/5880724912/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 27 14:08:11 GMT+0200 2011
+Upload Date  : Tue Jun 28 13:02:09 GMT+0200 2011
+Geotag Info  : Latitude:51.863018, Longitude:0.835650
+Views        : 170
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Colchester Zoo (43)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Colchester Zoo Zebra 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Noel Reynolds
+Photo URL    : https://www.flickr.com/photos/29237715@N05/8645561569/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 13 17:23:09 GMT+0200 2013
+Upload Date  : Sat Apr 13 22:16:50 GMT+0200 2013
+Geotag Info  : Latitude:47.548740, Longitude:7.587679
+Views        : 2,869
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+bat
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+bat 

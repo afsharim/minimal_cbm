@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : DHPersonal
+Photo URL    : https://www.flickr.com/photos/medhead/14305223091/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 17 11:26:23 GMT+0200 2014
+Upload Date  : Sat May 31 01:13:42 GMT+0200 2014
+Geotag Info  : Latitude:36.211922, Longitude:-95.908423
+Views        : 570
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tulsa Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Shots taken during a May 2014 trip to the Tulsa Zoo.
+
+
++--------+
+|  TAGS  |
++--------+
+tulsa oklahoma zoo chimpanzee ok 

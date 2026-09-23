@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : SnapAdik
+Photo URL    : https://www.flickr.com/photos/hubertyu/9369381306/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 20 10:48:16 GMT+0200 2013
+Upload Date  : Fri Jul 26 07:44:35 GMT+0200 2013
+Geotag Info  : Latitude:47.667699, Longitude:-122.350444
+Views        : 191
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Brown Bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Ursus arctos
+
+
++--------+
+|  TAGS  |
++--------+
+seattle "Woodland Park Zoo" zoo animals 

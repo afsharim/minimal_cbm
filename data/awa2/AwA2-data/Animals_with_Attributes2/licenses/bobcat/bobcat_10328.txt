@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Nohrmal
+Photo URL    : https://www.flickr.com/photos/nohrmal/24865700362/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 29 14:31:17 GMT+0100 2015
+Upload Date  : Fri Feb 12 21:18:34 GMT+0100 2016
+Geotag Info  : Latitude:35.431102, Longitude:-118.888359
+Views        : 30
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bobcat
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A bobcat lounging in the afternoon sun.
+
+
++--------+
+|  TAGS  |
++--------+
+CALM bobcat zoo Bakersfield California 

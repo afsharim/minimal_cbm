@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Marcin Chady
+Photo URL    : https://www.flickr.com/photos/marcinchady/7055831829/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Apr 5 16:19:11 GMT+0200 2012
+Upload Date  : Sun Apr 8 07:48:33 GMT+0200 2012
+Geotag Info  : Latitude:49.300108, Longitude:-123.117859
+Views        : 56
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Raccoon
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

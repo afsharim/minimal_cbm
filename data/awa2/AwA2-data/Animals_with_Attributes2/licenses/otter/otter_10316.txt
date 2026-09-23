@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : adactio
+Photo URL    : https://www.flickr.com/photos/adactio/4509335504/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Apr 8 12:23:30 GMT+0200 2010
+Upload Date  : Sun Apr 11 01:31:48 GMT+0200 2010
+Views        : 526
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Seattle otter aquarium 

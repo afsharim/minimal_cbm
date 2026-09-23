@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : upton
+Photo URL    : https://www.flickr.com/photos/upton/256679997/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 30 15:25:47 GMT+0200 2006
+Upload Date  : Sat Sep 30 23:25:47 GMT+0200 2006
+Geotag Info  : Latitude:39.734118, Longitude:-104.981907
+Views        : 162
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel eating bread I completely shouldn't have given him.
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel animal 

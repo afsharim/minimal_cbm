@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : blachswan
+Photo URL    : https://www.flickr.com/photos/blachswan/18687380623/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 1 16:01:30 GMT+0200 2015
+Upload Date  : Wed Jul 1 02:02:16 GMT+0200 2015
+Geotag Info  : Latitude:47.678961, Longitude:12.010897
+Views        : 229
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Bayrischzell. Bavaria. Germany.
+
+
++--------+
+|  TAGS  |
++--------+
+Germany Europe Bayrischzell horse 

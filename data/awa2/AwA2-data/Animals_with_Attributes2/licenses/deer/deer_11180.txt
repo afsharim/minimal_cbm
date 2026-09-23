@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ahisgett
+Photo URL    : https://www.flickr.com/photos/hisgett/15080333353/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Sep 26 14:54:37 GMT+0200 2014
+Upload Date  : Mon Nov 3 12:17:17 GMT+0100 2014
+Geotag Info  : Latitude:36.035052, Longitude:-112.122882
+Views        : 698
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Roadside Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Grand Canyon Mule Deer 

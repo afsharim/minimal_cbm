@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Richard New Forest
+Photo URL    : https://commons.wikimedia.org/wiki/File:Welsh_Sheepdog.jpg
+License      : Creative Commons (//en.wikipedia.org/wiki/en:Creative_Commons) 3.0 Unported (//creativecommons.org/licenses/by-sa/3.0/deed.en)
+Date         : 

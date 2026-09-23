@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : thepatrick
+Photo URL    : https://www.flickr.com/photos/pftqg/4852628317/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Mar 5 12:33:02 GMT+0100 2010
+Upload Date  : Mon Aug 2 14:39:46 GMT+0200 2010
+Views        : 41
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Oh, hello
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+ca bc vancouver squirrel 

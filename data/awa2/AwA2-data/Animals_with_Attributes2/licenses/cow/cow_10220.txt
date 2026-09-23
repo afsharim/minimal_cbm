@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : hans s
+Photo URL    : https://www.flickr.com/photos/archeon/13577117/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 12 16:53:15 GMT+0200 2005
+Upload Date  : Thu May 12 19:02:44 GMT+0200 2005
+Geotag Info  : Latitude:52.136965, Longitude:4.519672
+Views        : 2,149
+Comments     : 7
+
+
++---------+
+|  TITLE  |
++---------+
+cow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+and you have to watch out for cows crossing the road...
+
+
++--------+
+|  TAGS  |
++--------+
+roadtowork netherlands pasture dailycommute cow 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : PhilyFn
+Photo URL    : https://www.flickr.com/photos/philyfn/2411333406/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Dec 13 14:04:42 GMT+0100 2005
+Upload Date  : Sun Apr 13 21:31:05 GMT+0200 2008
+Geotag Info  : Latitude:28.355906, Longitude:-81.587734
+Views        : 12
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+011406 594.jpg
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Disney World" "Animal Kingdom" 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : cogdogblog
+Photo URL    : https://www.flickr.com/photos/cogdog/8149298650/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Nov 2 16:32:21 GMT+0100 2012
+Upload Date  : Sat Nov 3 02:24:57 GMT+0100 2012
+Views        : 462
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Who Ya Calling Sheep?
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+sheep 

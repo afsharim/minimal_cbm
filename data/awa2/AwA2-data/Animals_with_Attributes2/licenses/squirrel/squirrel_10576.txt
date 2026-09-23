@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Anton Fomkin
+Photo URL    : https://www.flickr.com/photos/antonfomkin/4893661444/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 15 15:07:05 GMT+0200 2010
+Upload Date  : Sun Aug 15 13:07:05 GMT+0200 2010
+Geotag Info  : Latitude:55.617782, Longitude:37.680337
+Views        : 1,187
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel got a nut
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+tree squirrel nut green 

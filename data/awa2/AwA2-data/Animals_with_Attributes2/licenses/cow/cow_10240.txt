@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Kevin Saff
+Photo URL    : https://www.flickr.com/photos/kevinsaff/199020137/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 14 13:59:24 GMT+0200 2006
+Upload Date  : Wed Jul 26 21:44:10 GMT+0200 2006
+Views        : 85
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+calgary stampede cow 

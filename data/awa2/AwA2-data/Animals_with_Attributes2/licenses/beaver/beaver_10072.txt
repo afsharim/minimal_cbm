@@ -1,0 +1,38 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ryan Somma
+Photo URL    : https://www.flickr.com/photos/ideonexus/4201400785/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jan 1 00:01:37 GMT+0100 1980
+Upload Date  : Mon Dec 21 03:02:23 GMT+0100 2009
+Views        : 273
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Beaver
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Castor canadensis
+
+Taken at the Virginia Living Museum.
+
+Visit <a href="http://ideonexus.com" rel="nofollow">ideonexus.com</a> for daily science links.
+
+
++--------+
+|  TAGS  |
++--------+
+Castor canadensis Beaver Virginia Living Museum 

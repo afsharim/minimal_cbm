@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ericpetorphotography
+Photo URL    : https://www.flickr.com/photos/peteypab2133/8711569503/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 5 04:39:47 GMT+0200 2013
+Upload Date  : Mon May 6 02:54:08 GMT+0200 2013
+Views        : 28
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+bats
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

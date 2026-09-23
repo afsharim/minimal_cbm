@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : LFLamb
+Photo URL    : https://www.flickr.com/photos/49708076@N05/5696230026/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 16 15:52:51 GMT+0200 2010
+Upload Date  : Sat May 7 15:37:38 GMT+0200 2011
+Geotag Info  : Latitude:35.989396, Longitude:-79.443054
+Views        : 184
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Rocket J. Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Cedarock squirrel 

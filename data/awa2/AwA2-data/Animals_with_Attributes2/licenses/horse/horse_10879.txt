@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Capt' Gorgeous
+Photo URL    : https://www.flickr.com/photos/ben_salter/2408104534/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 12 11:55:25 GMT+0200 2008
+Upload Date  : Sat Apr 12 18:25:10 GMT+0200 2008
+Geotag Info  : Latitude:51.570294, Longitude:-3.157829
+Views        : 966
+Comments     : 6
+
+
++---------+
+|  TITLE  |
++---------+
+horses
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+I wonder what these two were talking about?
+
+
++--------+
+|  TAGS  |
++--------+
+Cerphilly mountain farm animals horses trees woods path mud flowers insects "Ben Salter" 

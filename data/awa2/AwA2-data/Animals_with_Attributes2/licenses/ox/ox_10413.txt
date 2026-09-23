@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : cerrahg
+Photo URL    : https://www.flickr.com/photos/cerrahg/14579799804/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 29 08:27:04 GMT+0200 2013
+Upload Date  : Sat Jul 5 22:09:52 GMT+0200 2014
+Views        : 24
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMGP7318
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

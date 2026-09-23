@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : fifikins
+Photo URL    : https://www.flickr.com/photos/fifikins/4213954392/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Dec 22 17:26:09 GMT+0100 2009
+Upload Date  : Fri Dec 25 20:23:39 GMT+0100 2009
+Views        : 456
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephants
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Kruger National Park" Kruger elephant 

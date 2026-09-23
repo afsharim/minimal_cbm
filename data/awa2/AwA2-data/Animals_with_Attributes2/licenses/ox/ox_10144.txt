@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mcoughlin
+Photo URL    : https://www.flickr.com/photos/mcoughlin/11414451846/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 24 00:00:16 GMT+0100 2013
+Upload Date  : Tue Dec 17 06:50:51 GMT+0100 2013
+Geotag Info  : Latitude:-3.185482, Longitude:35.572892
+Views        : 416
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cape Buffalo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Ngorongoro Crater, Tanzania.
+
+
++--------+
+|  TAGS  |
++--------+
+"cape buffalo" ngorongoro tanzania 

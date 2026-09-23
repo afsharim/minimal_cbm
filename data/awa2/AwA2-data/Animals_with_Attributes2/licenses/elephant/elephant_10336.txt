@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Maltesen
+Photo URL    : https://www.flickr.com/photos/maltesenwordpresscom/931201726/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 28 17:13:46 GMT+0200 2007
+Upload Date  : Sat Jul 28 21:43:08 GMT+0200 2007
+Geotag Info  : Latitude:55.673180, Longitude:12.521431
+Views        : 522
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The male elephant Chieng Mai
+
+
++--------+
+|  TAGS  |
++--------+
+"Copenhagen Zoo" Frederiksberg Elefant 

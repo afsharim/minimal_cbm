@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : wendylin20
+Photo URL    : https://www.flickr.com/photos/wendyjlin/2076281720/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Aug 14 21:37:50 GMT+0200 2007
+Upload Date  : Fri Nov 30 17:18:42 GMT+0100 2007
+Views        : 41
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephants
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Fun Fact: Elephants grow throughout their entire life.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

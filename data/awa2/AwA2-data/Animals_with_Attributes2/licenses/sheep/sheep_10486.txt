@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Molechaser
+Photo URL    : https://www.flickr.com/photos/molechaser/4164180826/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 6 13:49:48 GMT+0100 2009
+Upload Date  : Sun Dec 6 21:44:06 GMT+0100 2009
+Geotag Info  : Latitude:38.707756, Longitude:-77.087475
+Views        : 487
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Mount Vernon Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Sheep grazing at Mount Vernon, George Washington's home in Virginia.
+
+
++--------+
+|  TAGS  |
++--------+
+sheep mount vernon mountvernon mtvernon george washington georgewashington virginia 

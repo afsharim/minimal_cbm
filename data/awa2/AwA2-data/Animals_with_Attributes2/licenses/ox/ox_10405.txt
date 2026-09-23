@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : l2x
+Photo URL    : https://www.flickr.com/photos/szipiszopi/14858043192/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Aug 5 13:52:54 GMT+0200 2014
+Upload Date  : Fri Aug 8 12:37:27 GMT+0200 2014
+Geotag Info  : Latitude:52.367183, Longitude:4.912400
+Views        : 54
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_20140805_135253
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

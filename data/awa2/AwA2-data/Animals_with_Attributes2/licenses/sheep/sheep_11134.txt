@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Alex.m.Hayward
+Photo URL    : https://www.flickr.com/photos/75967467@N02/16146501982/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Sep 11 20:30:45 GMT+0200 2012
+Upload Date  : Tue Dec 30 16:11:00 GMT+0100 2014
+Views        : 768
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Sheep 

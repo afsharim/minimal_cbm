@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Larry Smith2010
+Photo URL    : https://www.flickr.com/photos/lsmith2010/5037330461/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Sep 29 18:33:23 GMT+0200 2010
+Upload Date  : Thu Sep 30 03:22:45 GMT+0200 2010
+Geotag Info  : Latitude:34.718475, Longitude:-98.638815
+Views        : 984
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Bobcat
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Wichita Mountains Wildlife Refuge
+SW Oklahoma
+
+
++--------+
+|  TAGS  |
++--------+
+"Wichita Mountains" "Larry Smith" Oklahoma Bobcat "Wichita Mountains Wildlife Refuge" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Theodore Scott
+Photo URL    : https://www.flickr.com/photos/theodorescott/4063055498/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Oct 30 11:53:58 GMT+0100 2009
+Upload Date  : Sun Nov 1 04:25:22 GMT+0100 2009
+Geotag Info  : Latitude:29.719937, Longitude:-95.391991
+Views        : 1,752
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Hermann Park Squirrel Thug
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The squirrels in Hermann Park, Houston, are used to people. Several approached me. They seemed upset that I wasn't giving them food. I really thought this guy was going to mug me.
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel houston "hermann park" texas 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Meerling
+Photo URL    : https://www.flickr.com/photos/meerling/164787102/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 3 13:43:29 GMT+0200 2006
+Upload Date  : Sun Jun 11 13:52:34 GMT+0200 2006
+Views        : 694
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Socrates T. Rat
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+socrates rats outdoors 

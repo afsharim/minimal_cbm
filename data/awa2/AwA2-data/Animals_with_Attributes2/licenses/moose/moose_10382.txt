@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : smerikal
+Photo URL    : https://www.flickr.com/photos/smerikal/5532243523/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 22 13:09:28 GMT+0200 2007
+Upload Date  : Wed Mar 16 19:51:18 GMT+0100 2011
+Geotag Info  : Latitude:64.452191, Longitude:27.479003
+Views        : 362
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Moose
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+P4220311
+
+
++--------+
+|  TAGS  |
++--------+
+Finland moose young cc "Creative Commons" "CC BY-SA" hirvi 

@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Smudge 9000
+Photo URL    : https://www.flickr.com/photos/smudge9000/9575609072/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 13 14:57:45 GMT+0200 2013
+Upload Date  : Fri Aug 23 08:22:42 GMT+0200 2013
+Geotag Info  : Latitude:79.357561, Longitude:20.753175
+Views        : 1,384
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Sleeping Walrus pile.
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A selection of images from a recent trip to Svalbard.
+<a href="http://www.flickr.com/photos/smudge9000/sets/72157634799866136/">See the full set here eventually...</a>
+
+
++--------+
+|  TAGS  |
++--------+
+2013 Arctic "Odobenus rosmarus" Summer Svalbard Torellneset mammal walrus "Svalbard and Jan Mayen" 

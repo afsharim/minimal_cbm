@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Arctic Wolf Pictures
+Photo URL    : https://www.flickr.com/photos/arcticwoof/6959408368/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 28 16:52:27 GMT+0100 2009
+Upload Date  : Mon Apr 23 11:04:50 GMT+0200 2012
+Views        : 116
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Anotter otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Am I doing this right ?
+
+
++--------+
+|  TAGS  |
++--------+
+animals otter lutra ice water 

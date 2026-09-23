@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jill Bearup
+Photo URL    : https://www.flickr.com/photos/jillbearup/7141639879/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 15 15:13:43 GMT+0200 2008
+Upload Date  : Fri May 4 13:31:04 GMT+0200 2012
+Views        : 335
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Or is it Benedict Cumberbatch in a cunning disguise?
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

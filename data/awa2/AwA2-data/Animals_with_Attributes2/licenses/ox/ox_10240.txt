@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Pollybear70
+Photo URL    : https://www.flickr.com/photos/pollybear/22593847813/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Oct 29 17:09:09 GMT+0100 2015
+Upload Date  : Sun Nov 22 22:21:58 GMT+0100 2015
+Views        : 3
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSCN7035
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

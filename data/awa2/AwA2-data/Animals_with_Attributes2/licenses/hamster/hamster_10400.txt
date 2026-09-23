@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : superba_
+Photo URL    : https://www.flickr.com/photos/superba_/4898219335/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 12 18:52:28 GMT+0200 2010
+Upload Date  : Mon Aug 16 20:53:02 GMT+0200 2010
+Views        : 294
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_8862
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Dwarf hamster, jus' chillin' at the pet store.
+
+
++--------+
+|  TAGS  |
++--------+
+hamster 

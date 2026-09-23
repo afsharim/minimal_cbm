@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : amy_elizabeth_west
+Photo URL    : https://www.flickr.com/photos/amy_elizabeth_west/1799469014/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Oct 10 23:43:54 GMT+0200 2007
+Upload Date  : Mon Oct 29 16:36:28 GMT+0100 2007
+Geotag Info  : Latitude:44.837318, Longitude:-92.247390
+Views        : 393
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+fluffy blond bat at rest
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Crystal Cave, WI
+
+
++--------+
+|  TAGS  |
++--------+
+bats 

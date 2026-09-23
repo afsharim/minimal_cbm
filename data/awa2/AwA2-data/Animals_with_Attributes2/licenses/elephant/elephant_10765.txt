@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : NH53
+Photo URL    : https://www.flickr.com/photos/nh53/5185098493/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Nov 17 13:47:04 GMT+0100 2010
+Upload Date  : Wed Nov 17 22:47:04 GMT+0100 2010
+Geotag Info  : Latitude:-19.130896, Longitude:23.041076
+Views        : 20,694
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Elephants
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+There were elephants outside the reserve, too.
+
+
++--------+
+|  TAGS  |
++--------+
+botswana elephant moremi 

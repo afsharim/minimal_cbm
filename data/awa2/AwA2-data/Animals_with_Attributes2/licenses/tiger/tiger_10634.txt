@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : super-structure
+Photo URL    : https://www.flickr.com/photos/jason_coleman/5618937725/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 10 12:52:30 GMT+0200 2011
+Upload Date  : Thu Apr 14 17:35:55 GMT+0200 2011
+Views        : 24
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Columbus OH "Columbus Zoo" 

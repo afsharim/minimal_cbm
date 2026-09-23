@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : wrumsby
+Photo URL    : https://www.flickr.com/photos/wrumsby/3215830109/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 18 07:51:31 GMT+0100 2009
+Upload Date  : Thu Jan 22 00:07:22 GMT+0100 2009
+Views        : 720
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Sniff at Home
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+sniff chihuahua dog 

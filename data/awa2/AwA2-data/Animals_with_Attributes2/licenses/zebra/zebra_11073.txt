@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Lukas
+Photo URL    : https://www.flickr.com/photos/lukas/3050096456/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 8 07:08:29 GMT+0100 2008
+Upload Date  : Sat Nov 22 11:48:16 GMT+0100 2008
+Views        : 84
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebras
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+africa kenya 

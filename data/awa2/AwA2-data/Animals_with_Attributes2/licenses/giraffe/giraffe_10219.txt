@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jamiejohndavies
+Photo URL    : https://www.flickr.com/photos/jamiejohn/2484190320/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 11 15:36:42 GMT+0200 2008
+Upload Date  : Sun May 11 21:41:45 GMT+0200 2008
+Views        : 54
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe at London Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Park Animals Summer "Regents Park Zoo" "London Zoo" Zoo 

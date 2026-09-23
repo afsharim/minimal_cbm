@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : cluczkow
+Photo URL    : https://www.flickr.com/photos/cluczkow/4404912099/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Feb 25 08:03:42 GMT+0100 2010
+Upload Date  : Thu Mar 4 04:32:53 GMT+0100 2010
+Geotag Info  : Latitude:30.283721, Longitude:-98.894645
+Views        : 266
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+deer "country inn & cottages" 

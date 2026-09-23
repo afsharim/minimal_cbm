@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Stephen Fulljames
+Photo URL    : https://www.flickr.com/photos/emptyjames/3457506190/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 19 14:14:20 GMT+0200 2009
+Upload Date  : Mon Apr 20 00:52:07 GMT+0200 2009
+Geotag Info  : Latitude:50.849550, Longitude:0.117480
+Views        : 98
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheeps
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+farm "middle farm" lewes sussex 

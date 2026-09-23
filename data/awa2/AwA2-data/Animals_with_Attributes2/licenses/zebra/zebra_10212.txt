@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : nigelharper
+Photo URL    : https://www.flickr.com/photos/ixion/3962824678/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 26 13:14:47 GMT+0200 2009
+Upload Date  : Mon Sep 28 16:23:57 GMT+0200 2009
+Geotag Info  : Latitude:53.226372, Longitude:-2.884250
+Views        : 60
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Grevy's Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Chester Zoo England 

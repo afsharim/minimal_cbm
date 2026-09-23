@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : JosieMM1013
+Photo URL    : https://www.flickr.com/photos/josiemm1013/8840861971/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 18 00:00:05 GMT+0200 2013
+Upload Date  : Sun May 26 15:58:59 GMT+0200 2013
+Geotag Info  : Latitude:53.479056, Longitude:-1.418781
+Views        : 324
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+I've always thought that sheep have very strange eyes.
+
+
++--------+
+|  TAGS  |
++--------+
+"South Yorkshire" Wentworth "Wentworth Woodhouse Gardens" Animal Animals "Animal Farm" "Petting Zoo" Sheep 

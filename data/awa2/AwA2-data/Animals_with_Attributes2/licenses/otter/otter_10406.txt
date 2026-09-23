@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Junk Food Monkey
+Photo URL    : https://www.flickr.com/photos/99908158@N05/10785555494/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 14 12:36:48 GMT+0200 2013
+Upload Date  : Sun Nov 10 22:04:18 GMT+0100 2013
+Views        : 113
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Lucky shot of otter
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

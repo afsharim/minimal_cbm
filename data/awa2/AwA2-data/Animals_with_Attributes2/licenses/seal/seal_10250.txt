@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ahisgett
+Photo URL    : https://www.flickr.com/photos/hisgett/15577954062/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Oct 6 16:19:17 GMT+0200 2014
+Upload Date  : Sun Oct 19 23:17:56 GMT+0200 2014
+Geotag Info  : Latitude:35.663196, Longitude:-121.258765
+Views        : 167
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant Seals 5
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+California 

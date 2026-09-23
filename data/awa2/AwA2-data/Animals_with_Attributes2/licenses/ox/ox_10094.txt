@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : rfc1036
+Photo URL    : https://www.flickr.com/photos/rfc1036/9394388583/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 22 09:02:08 GMT+0200 2013
+Upload Date  : Mon Jul 29 23:49:29 GMT+0200 2013
+Geotag Info  : Latitude:40.446718, Longitude:15.022537
+Views        : 333
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bubalus bubalis
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

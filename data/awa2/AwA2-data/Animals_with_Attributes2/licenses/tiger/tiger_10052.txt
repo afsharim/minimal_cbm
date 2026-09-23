@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mostly Dans
+Photo URL    : https://www.flickr.com/photos/dannyboymalinga/4707526598/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 16 12:32:46 GMT+0200 2010
+Upload Date  : Wed Jun 16 23:42:24 GMT+0200 2010
+Geotag Info  : Latitude:51.863400, Longitude:0.835604
+Views        : 1,162
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Amur tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Formerly known as the Siberian tiger
+
+
++--------+
+|  TAGS  |
++--------+
+amur tiger colchester zoo 

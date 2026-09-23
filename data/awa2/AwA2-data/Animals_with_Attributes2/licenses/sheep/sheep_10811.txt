@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : dam
+Photo URL    : https://www.flickr.com/photos/mellis/1170753/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 31 17:01:53 GMT+0100 2004
+Upload Date  : Sun Oct 31 22:27:37 GMT+0100 2004
+Views        : 229
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Sheep at La Desnalpa in Settimo.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

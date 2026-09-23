@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : NOAA Photo Library
+Photo URL    : https://www.flickr.com/photos/noaaphotolib/5277235703/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Dec 20 11:44:54 GMT+0100 2010
+Upload Date  : Mon Dec 20 17:52:22 GMT+0100 2010
+Views        : 642
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+anim1135
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Killer Whale. 
+
+Photographer: Allen Shimada NOAA/NMFS/OST/AMD.
+
+
++--------+
+|  TAGS  |
++--------+
+NOAA 

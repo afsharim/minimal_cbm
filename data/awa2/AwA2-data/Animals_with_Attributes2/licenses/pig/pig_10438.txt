@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : DerekL
+Photo URL    : https://www.flickr.com/photos/derekl/15867953691/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Nov 24 09:06:53 GMT+0100 2014
+Upload Date  : Mon Nov 24 19:00:52 GMT+0100 2014
+Geotag Info  : Latitude:52.836127, Longitude:0.632463
+Views        : 62
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Pigs
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"King's Lynn and West Norfolk Dis" England "United Kingdom" "King's Lynn and West Norfolk District" 

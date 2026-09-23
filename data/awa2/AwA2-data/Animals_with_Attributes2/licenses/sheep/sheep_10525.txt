@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jorn van Maanen
+Photo URL    : https://www.flickr.com/photos/demaneschijn/22155832972/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Oct 14 09:09:25 GMT+0200 2015
+Upload Date  : Wed Oct 14 18:35:58 GMT+0200 2015
+Views        : 2,452
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Oh... Hello
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Beeeeh
+
+
++--------+
+|  TAGS  |
++--------+
+"looking into camera" white sheep 

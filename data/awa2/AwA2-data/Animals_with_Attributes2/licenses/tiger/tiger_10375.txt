@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Doug Beckers
+Photo URL    : https://www.flickr.com/photos/dougbeckers/4548429196/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 3 19:11:29 GMT+0200 2010
+Upload Date  : Sat Apr 24 17:44:05 GMT+0200 2010
+Views        : 430
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger Temple
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Indochinese Tigers at the Tiger Temple - Wat Pa Luangta Bua Yannasampanno, 3 hours north of Bangkok Thailand
+
+
++--------+
+|  TAGS  |
++--------+
+"Panthera tigris corbetti" "Indochinese Tiger" Thailand 

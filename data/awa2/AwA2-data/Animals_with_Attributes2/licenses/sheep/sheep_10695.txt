@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : franklin_hunting
+Photo URL    : https://www.flickr.com/photos/franklin_hunting/2445714307/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 19 11:15:58 GMT+0200 2008
+Upload Date  : Sun Apr 27 20:04:55 GMT+0200 2008
+Views        : 782
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep and Lambs
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Wyken
+
+
++--------+
+|  TAGS  |
++--------+
+wyken sheep lambs 

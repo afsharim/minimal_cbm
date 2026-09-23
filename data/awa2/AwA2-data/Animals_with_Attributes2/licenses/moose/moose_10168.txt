@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : probabilistic
+Photo URL    : https://www.flickr.com/photos/probabilistic/3644953893/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 20 15:58:19 GMT+0200 2009
+Upload Date  : Sun Jun 21 04:05:48 GMT+0200 2009
+Geotag Info  : Latitude:51.047383, Longitude:-114.039459
+Views        : 160
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_0620
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Antisocial moose.
+
+
++--------+
+|  TAGS  |
++--------+
+"Calgary Zoo" moose 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ryan Kilpatrick
+Photo URL    : https://www.flickr.com/photos/rkilpatrick21/6069103572/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 20 10:17:52 GMT+0200 2011
+Upload Date  : Mon Aug 22 12:01:17 GMT+0200 2011
+Geotag Info  : Latitude:-24.173223, Longitude:28.687362
+Views        : 248
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Zebra at Entabeni
+
+
++--------+
+|  TAGS  |
++--------+
+Entabeni nature "South Africa" wildlife safari animals 

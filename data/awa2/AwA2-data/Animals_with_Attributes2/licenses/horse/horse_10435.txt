@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sandyhd
+Photo URL    : https://www.flickr.com/photos/sandyhd/18584624130/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 17 08:01:34 GMT+0200 2004
+Upload Date  : Sat Jun 13 18:04:13 GMT+0200 2015
+Views        : 375
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horse 1
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Took this while visiting a freind and her horses in South Carolina.
+
+
++--------+
+|  TAGS  |
++--------+
+Aiken "South Carolina" horses 

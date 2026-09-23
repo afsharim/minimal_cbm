@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Loz Flowers
+Photo URL    : https://www.flickr.com/photos/blahflowers/7988929762/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Sep 5 13:56:55 GMT+0200 2012
+Upload Date  : Sat Sep 15 19:10:53 GMT+0200 2012
+Geotag Info  : Latitude:51.162068, Longitude:-3.585920
+Views        : 89
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Dunkery Hill, Exmoor
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The lady don't care.
+
+
++--------+
+|  TAGS  |
++--------+
+Exmoor "Dunkery Hill" cows Somerset 

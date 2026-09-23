@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : stanzebla
+Photo URL    : https://www.flickr.com/photos/stanzebla/14335860557/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 25 13:55:52 GMT+0200 2014
+Upload Date  : Fri Jun 27 23:44:22 GMT+0200 2014
+Geotag Info  : Latitude:49.225963, Longitude:0.499953
+Views        : 1,209
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+The horse of the vet
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+is not scared of people or dogs.
+
+
++--------+
+|  TAGS  |
++--------+
+horses Pferde chevaux 

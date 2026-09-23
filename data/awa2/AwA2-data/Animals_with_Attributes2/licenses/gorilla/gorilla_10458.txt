@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MoneLoe
+Photo URL    : https://www.flickr.com/photos/132000096@N07/18387006022/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jun 2 10:03:13 GMT+0200 2015
+Upload Date  : Tue Jun 2 19:42:54 GMT+0200 2015
+Geotag Info  : Latitude:-1.432193, Longitude:29.538116
+Views        : 1,849
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Gorilla, Rwanda
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Silverback, Mr. Happy, from the Hirwa Group in the Volcanoes National Parc in Rwanda
+
+
++--------+
+|  TAGS  |
++--------+
+Rwanda Hirwa Happy 

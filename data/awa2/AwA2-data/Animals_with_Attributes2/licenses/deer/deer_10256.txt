@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : molajen
+Photo URL    : https://www.flickr.com/photos/molajen/3246456698/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 1 11:34:08 GMT+0100 2009
+Upload Date  : Mon Feb 2 04:18:32 GMT+0100 2009
+Views        : 1,630
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Deer in Snow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This deer had been feeding on branches trimmed from freshly cut trees.
+
+
++--------+
+|  TAGS  |
++--------+
+"white tailed deer" deer "Georgian Bay" Ontario animal 

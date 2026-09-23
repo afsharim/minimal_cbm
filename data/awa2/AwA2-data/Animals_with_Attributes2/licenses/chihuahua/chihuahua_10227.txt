@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : dvdspg
+Photo URL    : https://www.flickr.com/photos/dvdspg/6151395921/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Sep 13 18:57:30 GMT+0200 2011
+Upload Date  : Fri Sep 16 04:26:26 GMT+0200 2011
+Geotag Info  : Latitude:18.767900, Longitude:-70.161743
+Views        : 801
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hola mundo! Soy Nano.
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Mi perro chihuahua de 7 meses.
+
+
++--------+
+|  TAGS  |
++--------+
+Chihuahua perro Nano alerta pose posando 

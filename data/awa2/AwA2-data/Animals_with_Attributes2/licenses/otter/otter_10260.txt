@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : RobRyb
+Photo URL    : https://www.flickr.com/photos/robryb/357419940/
+License      : (c) All Rights Reserved
+Taken Date   : Sat Dec 16 12:49:39 GMT+0100 2006
+Upload Date  : Sun Jan 14 22:57:19 GMT+0100 2007
+Views        : 25
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+getting violent now. Nibbling took place
+
+
++--------+
+|  TAGS  |
++--------+
+Otter 

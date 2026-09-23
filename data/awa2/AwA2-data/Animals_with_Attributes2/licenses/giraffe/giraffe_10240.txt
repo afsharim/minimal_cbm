@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mark Hadley
+Photo URL    : https://www.flickr.com/photos/markhadley/859290816/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon May 21 14:23:22 GMT+0200 2007
+Upload Date  : Fri Jul 20 16:56:14 GMT+0200 2007
+Geotag Info  : Latitude:53.228331, Longitude:-2.879962
+Views        : 225
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+giraffe closeup
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"chester zoo" giraffe 

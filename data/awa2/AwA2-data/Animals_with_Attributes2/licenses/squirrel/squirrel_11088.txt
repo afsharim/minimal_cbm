@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : oosp
+Photo URL    : https://www.flickr.com/photos/mhl20/19332591150/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 1 21:14:10 GMT+0200 2015
+Upload Date  : Wed Jul 8 12:49:33 GMT+0200 2015
+Views        : 102
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A (very tame) squirrel in St James's Park
+
+
++--------+
+|  TAGS  |
++--------+
+checksum:sha1=59ece2310c845acbc752817e2aa3b50b291aa923 checksum:md5=8e43aed6b9f7e8ba973808bd4f7aa9cd squirrel 

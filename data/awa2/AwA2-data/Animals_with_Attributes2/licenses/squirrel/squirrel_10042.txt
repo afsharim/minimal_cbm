@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : girolame
+Photo URL    : https://www.flickr.com/photos/girolame/9059709814/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 12 16:19:33 GMT+0200 2013
+Upload Date  : Sun Jun 16 18:38:19 GMT+0200 2013
+Views        : 92
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+A squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel usa 

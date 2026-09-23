@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Marji Beach
+Photo URL    : https://www.flickr.com/photos/rinalia/3678071123/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 1 08:43:47 GMT+0200 2009
+Upload Date  : Wed Jul 1 17:43:47 GMT+0200 2009
+Views        : 464
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Olivia
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This is Olivia, she's a potbellied pig with moxie. 
+
+<a href="http://www.animalplace.org" rel="nofollow">www.animalplace.org</a>
+
+
++--------+
+|  TAGS  |
++--------+
+"animal place" "potbellied pig" pig 

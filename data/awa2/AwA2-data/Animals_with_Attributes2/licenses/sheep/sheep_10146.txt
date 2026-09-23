@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tim Sheerman-Chase
+Photo URL    : https://www.flickr.com/photos/tim_uk/6406081621/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 26 13:03:48 GMT+0100 2011
+Upload Date  : Sat Nov 26 18:13:34 GMT+0100 2011
+Geotag Info  : Latitude:51.201334, Longitude:0.785395
+Views        : 952
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+CIMG5969 Sheep in Field
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+sheep field specimen life Ovis 

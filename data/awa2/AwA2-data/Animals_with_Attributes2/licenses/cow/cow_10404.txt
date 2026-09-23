@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ramendan
+Photo URL    : https://www.flickr.com/photos/crapeye/14449369446/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 20 08:55:01 GMT+0200 2014
+Upload Date  : Sat Jun 21 15:08:02 GMT+0200 2014
+Views        : 3,511
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+cow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+cattle cow 

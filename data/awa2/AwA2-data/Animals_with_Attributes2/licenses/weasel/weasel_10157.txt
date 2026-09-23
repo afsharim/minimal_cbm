@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Peter G Trimming
+Photo URL    : https://www.flickr.com/photos/peter-trimming/8686087113/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 27 12:43:27 GMT+0200 2013
+Upload Date  : Sat Apr 27 22:24:39 GMT+0200 2013
+Geotag Info  : Latitude:51.172613, Longitude:-0.048789
+Views        : 320
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Weasel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Seen at the British Wildlife Centre, Newchapel, Surrey.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : m•o•m•o
+Photo URL    : https://www.flickr.com/photos/momocita/2979812639/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Oct 27 20:41:34 GMT+0100 2008
+Upload Date  : Tue Oct 28 05:15:18 GMT+0100 2008
+Views        : 2,154
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Nara deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Nara, Japan
+
+
++--------+
+|  TAGS  |
++--------+
+Japan 

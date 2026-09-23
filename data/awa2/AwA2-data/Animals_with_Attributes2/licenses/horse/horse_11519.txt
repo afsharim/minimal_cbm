@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Paul Kehrer
+Photo URL    : https://www.flickr.com/photos/paulkehrer/3622503754/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jun 2 17:05:00 GMT+0200 2009
+Upload Date  : Sat Jun 13 17:44:49 GMT+0200 2009
+Views        : 205
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Trotting
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horses 

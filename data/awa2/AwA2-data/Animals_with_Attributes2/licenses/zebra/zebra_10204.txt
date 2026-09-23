@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : berniedup
+Photo URL    : https://www.flickr.com/photos/berniedup/7667401954/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Mar 1 00:00:00 GMT+0100 2004
+Upload Date  : Sun Jul 29 11:22:48 GMT+0200 2012
+Geotag Info  : Latitude:0.619342, Longitude:37.647399
+Views        : 430
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Grevy's Zebra (Equus grevyi)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Samburu National Reserve, KENYA
+
+Scanned slide from 2004
+
+
++--------+
+|  TAGS  |
++--------+
+"Equus grevyi" "taxonomy:binomial=Equus grevyi" 

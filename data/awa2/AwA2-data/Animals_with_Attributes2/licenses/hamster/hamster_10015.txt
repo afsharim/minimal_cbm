@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : GreggMP
+Photo URL    : https://www.flickr.com/photos/greggmichaelphotography/6290114246/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Oct 28 12:22:22 GMT+0200 2011
+Upload Date  : Sat Oct 29 00:00:29 GMT+0200 2011
+Views        : 497
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+070
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+hamster 

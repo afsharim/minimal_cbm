@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Cecil Sanders
+Photo URL    : https://www.flickr.com/photos/cecilsanders/2978331541/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 30 12:05:17 GMT+0200 2008
+Upload Date  : Mon Oct 27 19:51:48 GMT+0100 2008
+Geotag Info  : Latitude:61.803898, Longitude:-149.263601
+Views        : 5,616
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+Alaska Weasel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+© Cecil Sanders
+
+
++--------+
+|  TAGS  |
++--------+
+"cecil sanders nikon" "hatcher pass" marmot palmer alaska weasel 

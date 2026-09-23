@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : 2e14
+Photo URL    : https://www.flickr.com/photos/2e14/4674022745/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 5 12:07:02 GMT+0200 2010
+Upload Date  : Sun Jun 6 13:48:16 GMT+0200 2010
+Geotag Info  : Latitude:52.380550, Longitude:9.768390
+Views        : 210
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Flusspferd / Hippo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+flusspferd hannover zoo tiere animals hippo 

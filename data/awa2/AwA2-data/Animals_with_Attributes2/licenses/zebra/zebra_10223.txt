@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Harlequeen
+Photo URL    : https://www.flickr.com/photos/harlequeen/7913342000/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 18 16:14:14 GMT+0200 2012
+Upload Date  : Sun Sep 2 15:29:59 GMT+0200 2012
+Geotag Info  : Latitude:58.660602, Longitude:16.396064
+Views        : 358
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Grevy's Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+KolmardenDjurpark Kolmarden zoo Grevy Zebra 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : lightmatter
+Photo URL    : https://www.flickr.com/photos/lightmatter/90532088/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jan 23 21:18:24 GMT+0100 2006
+Upload Date  : Tue Jan 24 06:18:24 GMT+0100 2006
+Views        : 430
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hippopotamus
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+animal hippopotamus hippo submerged 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : synspectrum
+Photo URL    : https://www.flickr.com/photos/epector/21240260363/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Sep 30 16:51:12 GMT+0200 2015
+Upload Date  : Thu Oct 1 14:34:23 GMT+0200 2015
+Views        : 25
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Springbrook Prairie, DuPage CO
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : tom.lubbock
+Photo URL    : https://www.flickr.com/photos/tomlubbock/10652093284/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Sep 16 16:52:38 GMT+0200 2013
+Upload Date  : Sun Nov 3 19:31:32 GMT+0100 2013
+Views        : 162
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_3775
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zebra 

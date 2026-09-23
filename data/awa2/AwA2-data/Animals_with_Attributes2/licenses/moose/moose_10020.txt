@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mike Juvrud
+Photo URL    : https://www.flickr.com/photos/mikejuvrud/5406515415/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jan 31 21:55:53 GMT+0100 2011
+Upload Date  : Tue Feb 1 08:04:36 GMT+0100 2011
+Geotag Info  : Latitude:61.192325, Longitude:-149.865016
+Views        : 112
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+AK_Picture 006
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+moose bike winter anchorage trail 

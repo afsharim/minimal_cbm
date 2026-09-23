@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Eric Kilby
+Photo URL    : https://www.flickr.com/photos/ekilby/3558400364/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 23 13:49:23 GMT+0200 2009
+Upload Date  : Sun May 24 03:53:23 GMT+0200 2009
+Geotag Info  : Latitude:42.064268, Longitude:-71.586366
+Views        : 401
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra - Two of Them Grazing
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zebra pair southwicks zoo grazing 

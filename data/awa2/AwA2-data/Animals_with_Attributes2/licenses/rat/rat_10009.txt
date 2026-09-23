@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : madaise
+Photo URL    : https://www.flickr.com/photos/madaise/2256998852/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 10 06:33:47 GMT+0100 2008
+Upload Date  : Mon Feb 11 04:15:28 GMT+0100 2008
+Views        : 258
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+rat
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"pet rat" otis 

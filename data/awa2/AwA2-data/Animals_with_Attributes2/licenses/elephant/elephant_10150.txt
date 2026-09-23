@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : PHeede
+Photo URL    : https://www.flickr.com/photos/pheede/190887955/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 16 11:08:54 GMT+0200 2006
+Upload Date  : Sun Jul 16 19:28:43 GMT+0200 2006
+Views        : 46
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC01799
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zoo elephant 

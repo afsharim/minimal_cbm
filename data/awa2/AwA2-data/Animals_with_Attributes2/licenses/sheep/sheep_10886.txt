@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : colinpoe
+Photo URL    : https://www.flickr.com/photos/colinpoe/2763220995/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 11 05:46:41 GMT+0200 2008
+Upload Date  : Fri Aug 15 00:46:10 GMT+0200 2008
+Views        : 865
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"England 2008" Sheep Yorkshire 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mmmavocado
+Photo URL    : https://www.flickr.com/photos/mmmavocado/9135537633/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 17 08:00:16 GMT+0200 2013
+Upload Date  : Tue Jun 25 20:50:37 GMT+0200 2013
+Geotag Info  : Latitude:-24.769961, Longitude:31.383991
+Views        : 96
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Burchell's zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Inyati Game Lodge, Sabi Sand area, Kruger
+
+
++--------+
+|  TAGS  |
++--------+
+"South Africa" 

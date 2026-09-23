@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : paslotte
+Photo URL    : https://www.flickr.com/photos/paslotte/16761638726/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Feb 23 06:55:09 GMT+0100 2015
+Upload Date  : Wed Mar 11 20:49:46 GMT+0100 2015
+Geotag Info  : Latitude:-18.406654, Longitude:23.477783
+Views        : 143
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+hippopotamus_1
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+hippopotamus flodhest 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : photoverulam
+Photo URL    : https://www.flickr.com/photos/photoverulam/5370702405/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 22 16:05:29 GMT+0100 2009
+Upload Date  : Wed Jan 19 23:35:19 GMT+0100 2011
+Geotag Info  : Latitude:51.159672, Longitude:0.663127
+Views        : 762
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+The Lynx Effect
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A great day out at the Wildlife Heritage Foundation in Kent, March 2009
+
+
++--------+
+|  TAGS  |
++--------+
+lynx "Wildlife Heritage Foundation" kent 

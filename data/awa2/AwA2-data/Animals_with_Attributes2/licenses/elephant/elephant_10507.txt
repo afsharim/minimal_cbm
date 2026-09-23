@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ross_hawkes
+Photo URL    : https://www.flickr.com/photos/rosshawkes/5529200729/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 8 16:53:40 GMT+0200 2004
+Upload Date  : Tue Mar 15 17:59:18 GMT+0100 2011
+Views        : 20,674
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+An elephant at Walt Disney World's Animal Kingdom.
+
+
++--------+
+|  TAGS  |
++--------+
+Florida Orlando elephant "Animal Kingdom" Disney "Walt Disney World" 

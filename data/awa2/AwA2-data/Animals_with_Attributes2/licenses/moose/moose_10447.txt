@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Bering Land Bridge National Preserve
+Photo URL    : https://www.flickr.com/photos/bering_land_bridge/9514270204/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 28 00:22:37 GMT+0200 2012
+Upload Date  : Thu Aug 15 04:04:18 GMT+0200 2013
+Views        : 373
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Moose
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Moose can be found in and around the Preserve. Their typical diet includes tasty willows and grasses,
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Annelieke B
+Photo URL    : https://www.flickr.com/photos/anneliekeb/5678750801/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon May 2 00:59:43 GMT+0200 2011
+Upload Date  : Mon May 2 09:59:43 GMT+0200 2011
+Views        : 109
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+tough sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+St Maarten, april 2011
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

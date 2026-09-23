@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jumilla
+Photo URL    : https://www.flickr.com/photos/jumilla/7096815227/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Apr 6 17:57:51 GMT+0200 2012
+Upload Date  : Fri Apr 20 20:15:34 GMT+0200 2012
+Views        : 248
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Happy seal
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Berlin Zoo" seal 

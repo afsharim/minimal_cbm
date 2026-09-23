@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : weslowik
+Photo URL    : https://www.flickr.com/photos/7702946@N02/6125469051/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 27 12:17:18 GMT+0200 2011
+Upload Date  : Thu Sep 8 04:24:59 GMT+0200 2011
+Views        : 114
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Illinois horses on Granart Rd
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+2011 Horse 

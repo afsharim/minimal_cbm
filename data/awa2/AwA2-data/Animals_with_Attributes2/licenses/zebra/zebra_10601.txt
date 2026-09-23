@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : corrieb
+Photo URL    : https://www.flickr.com/photos/corrieb/3912961408/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Sep 11 10:26:31 GMT+0200 2009
+Upload Date  : Fri Sep 11 19:26:31 GMT+0200 2009
+Geotag Info  : Latitude:-33.843375, Longitude:151.241419
+Views        : 117
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra Head
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Taronga Zoo, Mosman
+
+
++--------+
+|  TAGS  |
++--------+
+corrie sydney nsw "Taronga Zoo" 

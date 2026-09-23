@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bryce_edwards
+Photo URL    : https://www.flickr.com/photos/bryce_edwards/3544006789/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed May 13 12:59:35 GMT+0200 2009
+Upload Date  : Tue May 19 04:37:55 GMT+0200 2009
+Geotag Info  : Latitude:45.577162, Longitude:-78.414144
+Views        : 189
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Moose
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Algonquin Provincial Park
+Ontario, Canada
+
+
++--------+
+|  TAGS  |
++--------+
+pentaxk10d 

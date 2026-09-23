@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Björn Groß
+Photo URL    : https://www.flickr.com/photos/damescalito/14268338895/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 24 10:19:32 GMT+0200 2014
+Upload Date  : Sun May 25 21:43:53 GMT+0200 2014
+Views        : 222
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+I C U II
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

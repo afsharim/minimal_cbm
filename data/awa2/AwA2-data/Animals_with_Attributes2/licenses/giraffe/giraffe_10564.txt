@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : omninate
+Photo URL    : https://www.flickr.com/photos/nate_kate/5703432829/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 8 11:26:39 GMT+0200 2011
+Upload Date  : Mon May 9 18:12:50 GMT+0200 2011
+Geotag Info  : Latitude:42.939131, Longitude:-78.852825
+Views        : 2,075
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Giraffe at the Buffalo Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+Giraffe Buffalo NY USA 

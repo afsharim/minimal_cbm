@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : larsjuh
+Photo URL    : https://www.flickr.com/photos/larsjuh/4039207081/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Oct 22 14:53:38 GMT+0200 2009
+Upload Date  : Sat Oct 24 17:31:32 GMT+0200 2009
+Geotag Info  : Latitude:50.300655, Longitude:5.270925
+Views        : 67
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+More cows
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+2009 "ardennen 2009" cows 

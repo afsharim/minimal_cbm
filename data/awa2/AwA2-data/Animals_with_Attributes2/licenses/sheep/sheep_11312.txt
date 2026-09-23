@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Iain Farrell
+Photo URL    : https://www.flickr.com/photos/iain/7463607762/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 27 20:16:58 GMT+0200 2012
+Upload Date  : Fri Jun 29 01:25:52 GMT+0200 2012
+Views        : 19
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+They grow up so fast
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+darktable sheep lamb 

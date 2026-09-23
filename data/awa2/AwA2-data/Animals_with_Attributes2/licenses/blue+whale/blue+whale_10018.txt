@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Carlos Adampol
+Photo URL    : https://www.flickr.com/photos/cadampol/1540613406/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jan 2 13:23:49 GMT+0100 2006
+Upload Date  : Tue Jan 10 14:43:17 GMT+0100 2006
+Views        : 313
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Ballena Azul, Guerrero Negro, BCS
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

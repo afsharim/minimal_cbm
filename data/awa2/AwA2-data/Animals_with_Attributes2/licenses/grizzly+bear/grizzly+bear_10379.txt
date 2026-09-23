@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Gregory "Slobirdr" Smith
+Photo URL    : https://www.flickr.com/photos/slobirdr/18757714333/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 12 18:26:41 GMT+0200 2015
+Upload Date  : Fri Jul 3 14:13:05 GMT+0200 2015
+Geotag Info  : Latitude:63.504474, Longitude:-150.060195
+Views        : 1,667
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+Grizzly Bear (Ursus arctos ssp.)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A Toklat color-morph grizzly just eat of Stony Hill in Denali National Park...
+
+
++--------+
+|  TAGS  |
++--------+
+"Grizzly Bear (Ursus arctos ssp.)" "Denali National Park" "North Face Lodge" "Naturalist Journeys" Toklat "Gregory Slobirdr Smith" 

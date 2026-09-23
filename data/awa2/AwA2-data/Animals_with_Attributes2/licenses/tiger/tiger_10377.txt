@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : olerousing
+Photo URL    : https://www.flickr.com/photos/rousing/2592704809/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Mar 20 13:07:27 GMT+0100 2008
+Upload Date  : Thu Jun 19 20:35:36 GMT+0200 2008
+Geotag Info  : Latitude:14.119928, Longitude:99.383869
+Views        : 187
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger temple1
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Thailand "Tiger Temple" 

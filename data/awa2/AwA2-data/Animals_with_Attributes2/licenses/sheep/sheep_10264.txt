@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : barmala
+Photo URL    : https://www.flickr.com/photos/barmala/2706432280/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 21 13:05:01 GMT+0200 2008
+Upload Date  : Sun Jul 27 12:33:06 GMT+0200 2008
+Geotag Info  : Latitude:45.862294, Longitude:11.802755
+Views        : 1,635
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Flock of Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A flock of sheep at Montegrappa
+Schafherde am Montegrappa
+
+
++--------+
+|  TAGS  |
++--------+
+Sheep Schafherde 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : HockeyholicAZ
+Photo URL    : https://www.flickr.com/photos/hockeyholic/8428321006/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 4 09:20:04 GMT+0100 2012
+Upload Date  : Tue Jan 29 22:40:11 GMT+0100 2013
+Views        : 89
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_4672
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"phoenix zoo" zoo zebra 

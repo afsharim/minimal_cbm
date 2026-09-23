@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Andrea-Moore
+Photo URL    : https://www.flickr.com/photos/73959633@N06/10660966965/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 8 18:54:17 GMT+0200 2013
+Upload Date  : Mon Nov 4 03:10:00 GMT+0100 2013
+Views        : 255
+Comments     : 9
+
+
++---------+
+|  TITLE  |
++---------+
+AndreaMoore_Shot15_After
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+F/5.6
+ISO 100
+Shutter 1/50
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

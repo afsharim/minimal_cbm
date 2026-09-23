@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : seanness
+Photo URL    : https://www.flickr.com/photos/seanness/11179844554/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Dec 2 15:01:02 GMT+0100 2013
+Upload Date  : Tue Dec 3 00:01:02 GMT+0100 2013
+Geotag Info  : Latitude:36.617730, Longitude:-121.901592
+Views        : 62
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Otter time
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"instagram app" square "square format" iphoneography uploaded:by=instagram foursquare:venue=4a028eeef964a5205d711fe3 

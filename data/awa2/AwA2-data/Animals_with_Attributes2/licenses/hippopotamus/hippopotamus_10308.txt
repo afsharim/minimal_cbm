@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Joel Carnat
+Photo URL    : https://www.flickr.com/photos/21708387@N02/14761218045/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 26 12:11:37 GMT+0200 2014
+Upload Date  : Mon Jul 28 00:09:38 GMT+0200 2014
+Views        : 304
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hippopotamus amphibius
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Hippopotamus / Hippopotame amphibie
+
+
++--------+
+|  TAGS  |
++--------+
+"hippopotamus amphibius" hippopotamus "hippopotame amphibie" hippo hippopotame 

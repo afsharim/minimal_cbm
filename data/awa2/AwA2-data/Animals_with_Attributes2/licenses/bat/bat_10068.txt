@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : berniedup
+Photo URL    : https://www.flickr.com/photos/berniedup/7027010897/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Mar 5 09:23:06 GMT+0100 2012
+Upload Date  : Thu Mar 29 17:54:02 GMT+0200 2012
+Geotag Info  : Latitude:-26.472186, Longitude:20.612239
+Views        : 2,149
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Cape Serotine Bat (Eptesicus capensis)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Twee Rivieren Camp, Kgalagadi Transfrontier Park, SOUTH AFRICA
+
+
++--------+
+|  TAGS  |
++--------+
+Chiroptera "Eptesicus capensis" "Neoromicia capensis" "South Africa" "taxonomy:binomial=Eptesicus capensis" Vespertilionidae 

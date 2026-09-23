@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : TexasDarkHorse
+Photo URL    : https://www.flickr.com/photos/utahdarkhorse/3473224471/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Apr 24 13:37:00 GMT+0200 2009
+Upload Date  : Sat Apr 25 19:45:06 GMT+0200 2009
+Geotag Info  : Latitude:29.709226, Longitude:-95.396347
+Views        : 181
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Kim &amp; I visited the Houston Zoo on her birthday.
+
+
++--------+
+|  TAGS  |
++--------+
+Houston Zoo 

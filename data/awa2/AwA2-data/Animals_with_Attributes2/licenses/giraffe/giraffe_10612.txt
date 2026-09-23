@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : BarbaraWilli
+Photo URL    : https://www.flickr.com/photos/barbara-pictures/7428428088/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 21 09:44:22 GMT+0200 2012
+Upload Date  : Sun Jun 24 00:52:03 GMT+0200 2012
+Geotag Info  : Latitude:47.223415, Longitude:8.820648
+Views        : 2,207
+Comments     : 11
+
+
++---------+
+|  TITLE  |
++---------+
+giraffe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+giraffe "Kinderzoo Rapperswil" zoo 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : pasujoba
+Photo URL    : https://www.flickr.com/photos/pasujoba44/3224976015/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 25 10:09:16 GMT+0200 2008
+Upload Date  : Sun Jan 25 17:16:23 GMT+0100 2009
+Geotag Info  : Latitude:40.563894, Longitude:8.316650
+Views        : 296
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horses in Sardinia
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horses cart chat friends sardinia 

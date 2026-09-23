@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Metastabil01
+Photo URL    : https://commons.wikimedia.org/wiki/File:Rumaenien_baer_bei_sinaia_im_juli_2007.jpg
+License      : public domain
+Date         : 2007-07-13

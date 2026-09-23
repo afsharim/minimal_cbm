@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : manumenal
+Photo URL    : https://www.flickr.com/photos/mmenal/6959867189/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Mar 1 12:53:10 GMT+0100 2012
+Upload Date  : Tue Mar 6 21:55:11 GMT+0100 2012
+Geotag Info  : Latitude:26.295800, Longitude:73.024406
+Views        : 58
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Vache dans Sardar Market.
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

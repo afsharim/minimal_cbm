@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MrGuilt
+Photo URL    : https://www.flickr.com/photos/bontempscharly/7714882078/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 4 16:05:24 GMT+0200 2012
+Upload Date  : Sun Aug 5 06:53:52 GMT+0200 2012
+Geotag Info  : Latitude:39.838502, Longitude:-81.726250
+Views        : 95
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lone Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Animals Ohio "Zoos & Aquariums" 

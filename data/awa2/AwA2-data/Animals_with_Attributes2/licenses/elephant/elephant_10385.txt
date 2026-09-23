@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : cobaltfish
+Photo URL    : https://www.flickr.com/photos/cobaltfish/2927307494/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Oct 3 12:57:21 GMT+0200 2008
+Upload Date  : Thu Oct 9 18:25:02 GMT+0200 2008
+Geotag Info  : Latitude:52.500506, Longitude:13.529405
+Views        : 113
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+taking a snack of grass, from just outside the pen
+
+
++--------+
+|  TAGS  |
++--------+
+Berlin Elephant grass Teirpark 

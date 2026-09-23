@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : treeferris
+Photo URL    : https://www.flickr.com/photos/treeferris/21402007273/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Oct 7 11:05:06 GMT+0200 2015
+Upload Date  : Wed Oct 7 20:26:50 GMT+0200 2015
+Views        : 120
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer Cleaning
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Nara - Yoyogi Park
+
+
++--------+
+|  TAGS  |
++--------+
+Deer 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Martin Pettitt
+Photo URL    : https://www.flickr.com/photos/mdpettitt/2542325184/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 29 12:30:49 GMT+0200 2008
+Upload Date  : Sun Jun 1 20:00:11 GMT+0200 2008
+Geotag Info  : Latitude:52.178431, Longitude:1.335139
+Views        : 416
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Easton Farm Park Suffolk
+
+
++--------+
+|  TAGS  |
++--------+
+Easton Farm Park Suffolk animals horse galope 

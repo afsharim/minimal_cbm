@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Pascal
+Photo URL    : https://www.flickr.com/photos/walschots/5023192963/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Sep 24 13:05:23 GMT+0200 2010
+Upload Date  : Sat Sep 25 20:35:57 GMT+0200 2010
+Views        : 88
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Gorilla
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

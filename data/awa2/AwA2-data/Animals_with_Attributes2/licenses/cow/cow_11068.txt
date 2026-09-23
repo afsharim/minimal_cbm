@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : hans s
+Photo URL    : https://www.flickr.com/photos/archeon/268660409/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Oct 13 08:44:40 GMT+0200 2006
+Upload Date  : Fri Oct 13 19:18:49 GMT+0200 2006
+Views        : 782
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+more cows
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+live on the edge of our hometown, so a lot of cows nearby
+
+
++--------+
+|  TAGS  |
++--------+
+mist cows cow 

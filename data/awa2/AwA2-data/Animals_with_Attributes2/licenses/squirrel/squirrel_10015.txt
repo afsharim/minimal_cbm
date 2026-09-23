@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jannok
+Photo URL    : https://www.flickr.com/photos/jannok/8555581308/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Dec 8 12:47:03 GMT+0100 2012
+Upload Date  : Wed Mar 13 19:49:36 GMT+0100 2013
+Geotag Info  : Latitude:59.379053, Longitude:24.718331
+Views        : 355
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+31 Heidi
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Sciurus vulgaris" wildlife squirrel 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jon Mountjoy
+Photo URL    : https://www.flickr.com/photos/mountjoy/5194825004/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Nov 9 15:00:08 GMT+0100 2010
+Upload Date  : Sun Nov 21 12:56:40 GMT+0100 2010
+Views        : 872
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephants
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+sibuya elephant "african elephant" 

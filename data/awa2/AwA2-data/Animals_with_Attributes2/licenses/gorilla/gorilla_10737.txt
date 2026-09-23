@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/14287458302/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 22 12:29:01 GMT+0100 2014
+Upload Date  : Wed May 28 11:00:07 GMT+0200 2014
+Geotag Info  : Latitude:47.385711, Longitude:8.573412
+Views        : 11,916
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Serious gorilla
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+One of the gorillas of the Zürich zoo, looking serious!
+
+
++--------+
+|  TAGS  |
++--------+
+primate ape monkey gorilla black serious portrait profile face zoo zürich switzerland nikon d4 

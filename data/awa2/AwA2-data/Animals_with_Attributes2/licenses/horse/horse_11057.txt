@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jordi Payà Canals
+Photo URL    : https://www.flickr.com/photos/arg0s/2778642441/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 15 15:28:13 GMT+0200 2008
+Upload Date  : Tue Aug 19 23:38:18 GMT+0200 2008
+Geotag Info  : Latitude:43.206184, Longitude:2.365268
+Views        : 112
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_0022
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horses 

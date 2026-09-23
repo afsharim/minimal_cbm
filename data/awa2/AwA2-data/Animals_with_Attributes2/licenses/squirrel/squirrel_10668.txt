@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sharedferret
+Photo URL    : https://www.flickr.com/photos/sharedferret/851957189/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 18 09:40:02 GMT+0200 2007
+Upload Date  : Thu Jul 19 18:18:17 GMT+0200 2007
+Geotag Info  : Latitude:44.778331, Longitude:-66.762971
+Views        : 156
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Taken outside our cottage on Grand Manan Island.
+
+
++--------+
+|  TAGS  |
++--------+
+"grand manan" canada "new brunswick" squirrel 

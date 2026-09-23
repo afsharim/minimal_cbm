@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/16014568657/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Aug 19 12:24:22 GMT+0200 2014
+Upload Date  : Mon Jan 5 01:00:12 GMT+0100 2015
+Geotag Info  : Latitude:52.502534, Longitude:13.528075
+Views        : 4,906
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Last portrait of the sleepy lynx
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Another and last portrait of the sleepy lynx!
+
+
++--------+
+|  TAGS  |
++--------+
+sleepy portrait face cute lynx male big wild cat berlin tierpark zoo germany nikon d4 

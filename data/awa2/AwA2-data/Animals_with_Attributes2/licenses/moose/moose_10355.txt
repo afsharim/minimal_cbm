@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Michael M. S.
+Photo URL    : https://www.flickr.com/photos/39965300@N07/4360794370/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 28 16:50:15 GMT+0100 2009
+Upload Date  : Mon Feb 15 23:30:13 GMT+0100 2010
+Views        : 114
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Moose
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+moose "Nova Scotia" Canada Wildlife 

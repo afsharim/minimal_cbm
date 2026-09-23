@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : rveenen
+Photo URL    : https://www.flickr.com/photos/robertvee/75035546/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 30 03:25:48 GMT+0100 2003
+Upload Date  : Mon Dec 19 04:44:50 GMT+0100 2005
+Views        : 188
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+A beautiful animal!!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horses 

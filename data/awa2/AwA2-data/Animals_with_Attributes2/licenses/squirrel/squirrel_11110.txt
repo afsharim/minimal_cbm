@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : woofiegrrl
+Photo URL    : https://www.flickr.com/photos/meredith/5294778470/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 27 13:39:41 GMT+0100 2010
+Upload Date  : Sun Dec 26 23:20:44 GMT+0100 2010
+Views        : 77
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrels
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+My mom has bird feeders and gets squirrels too.
+
+
++--------+
+|  TAGS  |
++--------+
+squirrels 

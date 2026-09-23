@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : yashima
+Photo URL    : https://www.flickr.com/photos/yashima/21849054268/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 20 13:45:12 GMT+0200 2015
+Upload Date  : Thu Oct 8 16:32:35 GMT+0200 2015
+Views        : 38
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Scotland - Findhorn Seal Poser
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

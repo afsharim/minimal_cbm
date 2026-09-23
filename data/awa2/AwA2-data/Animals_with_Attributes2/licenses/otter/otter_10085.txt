@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : dr. friendly
+Photo URL    : https://www.flickr.com/photos/57777529@N02/5398912528/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 29 12:54:04 GMT+0100 2011
+Upload Date  : Sat Jan 29 20:20:14 GMT+0100 2011
+Geotag Info  : Latitude:53.237294, Longitude:10.044905
+Views        : 550
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+fischotter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+european otter
+
+
++--------+
+|  TAGS  |
++--------+
+fischotter "european otter" 

@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : m01229
+Photo URL    : https://www.flickr.com/photos/39908901@N06/9305289154/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 9 18:35:54 GMT+0200 2013
+Upload Date  : Wed Jul 17 03:37:01 GMT+0200 2013
+Geotag Info  : Latitude:43.366661, Longitude:-110.446670
+Views        : 421
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Moose
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Follow along on our travel adventures over at the blog!
+<a href="http://www.weregoingonvacation.com" rel="nofollow">www.weregoingonvacation.com</a>
+
+
++--------+
+|  TAGS  |
++--------+
+d5100 Jackson Wyoming "United States" moose animals wildlife 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : dr. friendly
+Photo URL    : https://www.flickr.com/photos/57777529@N02/5397931421/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 29 11:13:22 GMT+0100 2011
+Upload Date  : Sat Jan 29 17:46:43 GMT+0100 2011
+Geotag Info  : Latitude:53.238569, Longitude:10.041647
+Views        : 230
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+rothirsch
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+red deer
+
+
++--------+
+|  TAGS  |
++--------+
+"red deer" rothirsch 

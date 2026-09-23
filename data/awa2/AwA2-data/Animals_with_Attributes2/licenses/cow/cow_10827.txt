@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : a.froese
+Photo URL    : https://www.flickr.com/photos/anfroese/7424943404/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 14 12:45:58 GMT+0200 2012
+Upload Date  : Sat Jun 23 13:02:36 GMT+0200 2012
+Geotag Info  : Latitude:47.746292, Longitude:8.059415
+Views        : 148
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+graue Kuh in der Mitte
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Schluchtensteig Schwarzwald Baden-Württemberg 

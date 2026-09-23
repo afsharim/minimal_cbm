@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : simon_music
+Photo URL    : https://www.flickr.com/photos/fruey/6032973034/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 8 13:33:24 GMT+0200 2011
+Upload Date  : Thu Aug 11 19:24:31 GMT+0200 2011
+Geotag Info  : Latitude:46.509617, Longitude:-0.745568
+Views        : 433
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe in Zoo near Mervent
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+At Natur'Zoo, a good selection of animals large and small. Wonderful forest and views in the area too.
+
+
++--------+
+|  TAGS  |
++--------+
+flickroid france giraffe zoo mervent natur'zoo 

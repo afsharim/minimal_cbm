@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : nmahieu
+Photo URL    : https://www.flickr.com/photos/nmahieu/7871108994/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jan 1 11:25:25 GMT+0100 2009
+Upload Date  : Mon Aug 27 11:11:11 GMT+0200 2012
+Geotag Info  : Latitude:51.488183, Longitude:-0.214367
+Views        : 56
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+squirrel
+01 January 2009
+Margravine Cemetery, Fulham, London, UK
+
+
++--------+
+|  TAGS  |
++--------+
+mammals "Margravine Cemetery" 

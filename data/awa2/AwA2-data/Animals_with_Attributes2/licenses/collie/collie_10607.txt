@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : scohoust
+Photo URL    : https://www.flickr.com/photos/scohoust/8254942394/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Nov 29 15:36:42 GMT+0100 2012
+Upload Date  : Sat Dec 8 13:58:38 GMT+0100 2012
+Geotag Info  : Latitude:56.114238, Longitude:-3.939800
+Views        : 91
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tykka
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+tykka dog collie "border collie" 

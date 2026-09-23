@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mike__Lawrence
+Photo URL    : https://www.flickr.com/photos/mike__lawrence/3642633418/
+License      : (c) All Rights Reserved
+Taken Date   : Fri Jun 5 14:10:25 GMT+0200 2009
+Upload Date  : Sat Jun 20 01:10:53 GMT+0200 2009
+Views        : 193
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Amur Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Amur Tiger" Tiger 

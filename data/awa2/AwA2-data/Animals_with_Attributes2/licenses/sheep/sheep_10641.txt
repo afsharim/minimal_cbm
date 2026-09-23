@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : timo_w2s
+Photo URL    : https://www.flickr.com/photos/timo_w2s/3573687697/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 28 22:53:31 GMT+0200 2009
+Upload Date  : Thu May 28 23:53:31 GMT+0200 2009
+Geotag Info  : Latitude:56.383454, Longitude:-5.429477
+Views        : 283
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Scottish Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Sheep posing by Loch Nell, near Oban, Scotland
+
+
++--------+
+|  TAGS  |
++--------+
+scotland 

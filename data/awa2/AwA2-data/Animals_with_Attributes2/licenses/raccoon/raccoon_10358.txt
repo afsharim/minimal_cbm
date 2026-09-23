@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Easternblot
+Photo URL    : https://www.flickr.com/photos/easternblot/528637735/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 3 02:01:45 GMT+0200 2007
+Upload Date  : Mon Jun 4 00:21:52 GMT+0200 2007
+Views        : 241
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Raccoon!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+in the ROM
+
+
++--------+
+|  TAGS  |
++--------+
+romcrystalopening raccoon 

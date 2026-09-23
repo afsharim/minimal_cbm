@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Hickey Bill, U.S. Fish and Wildlife Service
+Photo URL    : https://commons.wikimedia.org/wiki/File:Walruses_odobenus_rosmarus_largest_pinniped_marine_mammals.jpg
+License      : public domain
+Date         : Not given

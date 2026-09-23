@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : generalising
+Photo URL    : https://www.flickr.com/photos/shimgray/5232267401/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Oct 26 14:29:08 GMT+0200 2010
+Upload Date  : Sat Dec 4 23:59:44 GMT+0100 2010
+Geotag Info  : Latitude:42.445160, Longitude:-76.485555
+Views        : 79
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+_A263144
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Grey squirrel with acorns
+
+
++--------+
+|  TAGS  |
++--------+
+ithaca squirrel 

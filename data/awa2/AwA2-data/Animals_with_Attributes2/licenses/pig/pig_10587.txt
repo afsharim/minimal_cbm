@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Cloudtail the Snow Leopard
+Photo URL    : https://www.flickr.com/photos/blacktigersdream/8704210392/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 23 11:57:04 GMT+0100 2013
+Upload Date  : Fri May 3 08:02:14 GMT+0200 2013
+Geotag Info  : Latitude:47.385275, Longitude:8.574056
+Views        : 700
+Comments     : 11
+
+
++---------+
+|  TITLE  |
++---------+
+What's up?
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A picture from a pig, I've seen at Zoo Zurich
+
+
++--------+
+|  TAGS  |
++--------+
+zoo; zurich; zürich; pig; schwein; tier; säugetier; animal; mammal 

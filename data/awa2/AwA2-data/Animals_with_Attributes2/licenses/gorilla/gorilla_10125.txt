@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : marada
+Photo URL    : https://www.flickr.com/photos/marada/3665964575/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 27 14:18:37 GMT+0200 2009
+Upload Date  : Sun Jun 28 01:55:54 GMT+0200 2009
+Geotag Info  : Latitude:28.362968, Longitude:-81.594783
+Views        : 451
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Disney Animal Kingdom
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Disney Animal Kingdom" 2009 Gorilla 

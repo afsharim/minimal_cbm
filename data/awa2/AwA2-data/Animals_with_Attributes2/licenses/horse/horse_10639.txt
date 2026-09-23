@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : LHOON
+Photo URL    : https://www.flickr.com/photos/lhoon/4444452972/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 14 15:03:21 GMT+0100 2010
+Upload Date  : Fri Mar 19 00:36:19 GMT+0100 2010
+Geotag Info  : Latitude:51.391300, Longitude:4.511608
+Views        : 543
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+belgium belgique belgië noorderkempen antwerpen gr5 horse 

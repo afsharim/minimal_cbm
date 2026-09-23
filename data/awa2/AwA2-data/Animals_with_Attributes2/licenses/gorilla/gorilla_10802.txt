@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mattprice
+Photo URL    : https://www.flickr.com/photos/mattprice/3560704937/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 12 14:04:05 GMT+0200 2009
+Upload Date  : Mon May 25 02:55:57 GMT+0200 2009
+Views        : 4
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ramendan
+Photo URL    : https://www.flickr.com/photos/crapeye/5005888326/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 18 08:30:25 GMT+0200 2010
+Upload Date  : Sun Sep 19 22:52:52 GMT+0200 2010
+Geotag Info  : Latitude:45.259724, Longitude:-96.408376
+Views        : 102
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Fox Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+nature squirrel wildlife 

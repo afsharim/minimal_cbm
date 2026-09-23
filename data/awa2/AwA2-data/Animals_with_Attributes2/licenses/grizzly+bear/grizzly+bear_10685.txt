@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : USFS Region 10
+Photo URL    : https://www.flickr.com/photos/alaska_region/13223538015/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Mar 17 09:33:20 GMT+0100 2014
+Upload Date  : Mon Mar 17 19:02:34 GMT+0100 2014
+Views        : 477
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+TNF ANAN
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The Anan Wildlife Observatory, located 30 miles southeast of the town of Wrangell, is one of five Forest Service designated bear-viewing areas in the Tongass. Bear viewing areas offer visitors a safe place to view and photograph these iconic creatures 
+in their natural habitats. Anan Creek also has the largest run of pink salmon in Southeast Alaska, which supports the high density of black and brown bears that gather there.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

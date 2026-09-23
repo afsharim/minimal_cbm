@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : underthemoonjp
+Photo URL    : https://www.flickr.com/photos/underthemoonjp/6291581800/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 29 14:13:00 GMT+0200 2011
+Upload Date  : Sat Oct 29 14:56:25 GMT+0200 2011
+Geotag Info  : Latitude:35.918720, Longitude:139.632344
+Views        : 95
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Pigs
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+<a href="http://loc.alize.us/#/flickr:6291581800" rel="nofollow">See where this picture was taken.</a> <a href="http://www.flickr.com/groups/geotagging/discuss/72157594165549916/">[?]</a>
+
+
++--------+
+|  TAGS  |
++--------+
+zoo Omiya Saitama Japan 2011 animal pig geo:lat=35.91872 geo:lon=139.632344 geotagged 

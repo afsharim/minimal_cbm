@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : gudi&cris
+Photo URL    : https://www.flickr.com/photos/gudi3101/4370121365/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Dec 25 09:45:06 GMT+0100 2009
+Upload Date  : Fri Feb 19 17:58:54 GMT+0100 2010
+Views        : 636
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Uganda 2009
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Bwindi impenetrable forest, gorilla
+
+
++--------+
+|  TAGS  |
++--------+
+gorilla "bwindi forest" uganda 

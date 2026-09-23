@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Roubicek
+Photo URL    : https://www.flickr.com/photos/roubicek/2594128095/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 18 16:45:54 GMT+0200 2008
+Upload Date  : Fri Jun 20 09:03:47 GMT+0200 2008
+Views        : 47
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+moose
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+canada 

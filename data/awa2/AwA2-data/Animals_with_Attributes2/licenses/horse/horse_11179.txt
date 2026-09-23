@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : chrisarellano
+Photo URL    : https://www.flickr.com/photos/chrisarellano/6143063838/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 11 10:54:19 GMT+0200 2011
+Upload Date  : Tue Sep 13 06:52:13 GMT+0200 2011
+Views        : 1,390
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Madison Horse Riding
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Madison Horse Riding" 

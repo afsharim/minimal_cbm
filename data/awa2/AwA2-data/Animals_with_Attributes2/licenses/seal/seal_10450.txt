@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : neiljs
+Photo URL    : https://www.flickr.com/photos/neiljs/4372497892/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Oct 23 12:32:07 GMT+0200 2009
+Upload Date  : Sat Feb 20 09:05:22 GMT+0100 2010
+Geotag Info  : Latitude:-34.059912, Longitude:18.327426
+Views        : 269
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hout Bay, Western Cape, South Africa
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Hout Bay" "Western Cape" south africa seal island coast sea 

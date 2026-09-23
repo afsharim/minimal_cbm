@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : alex.ch
+Photo URL    : https://www.flickr.com/photos/alex-photos/250691351/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 23 15:27:29 GMT+0200 2006
+Upload Date  : Sat Sep 23 21:42:11 GMT+0200 2006
+Views        : 85
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zürich: Kuh auf dem Hönggerberg
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+animal cow zurich 

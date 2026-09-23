@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ajburcar
+Photo URL    : https://www.flickr.com/photos/ajburcarannis/4646695232/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 27 16:54:04 GMT+0200 2010
+Upload Date  : Fri May 28 05:18:33 GMT+0200 2010
+Views        : 99
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Moose
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Moose Minnesota Nature 

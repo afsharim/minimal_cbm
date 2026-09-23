@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : 5lab
+Photo URL    : https://www.flickr.com/photos/5lab/4004022775/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Oct 1 09:24:41 GMT+0200 2009
+Upload Date  : Mon Oct 12 14:13:43 GMT+0200 2009
+Views        : 75
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_8546
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Kenya 2009" Kenya Buffalo "Lake Nakuru" Safari 

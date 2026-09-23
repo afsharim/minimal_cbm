@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : brad_holt
+Photo URL    : https://www.flickr.com/photos/brad_holt/2533236593/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 29 09:07:50 GMT+0200 2008
+Upload Date  : Thu May 29 16:07:50 GMT+0200 2008
+Geotag Info  : Latitude:35.007362, Longitude:-96.913704
+Views        : 3,632
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+A horse is a horse, of course, of course.
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Why a horse?  I don't know... there was a horse... I had a camera... things just came together, you know?
+
+
++--------+
+|  TAGS  |
++--------+
+horse 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Michel Aubry
+Photo URL    : https://www.flickr.com/photos/mikeab/4390924438/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 11 16:08:40 GMT+0200 2003
+Upload Date  : Fri Feb 26 23:16:05 GMT+0100 2010
+Geotag Info  : Latitude:45.412912, Longitude:-72.735671
+Views        : 221
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+hippopotame
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Zoo Granby Hippopotame Hippopotamus 

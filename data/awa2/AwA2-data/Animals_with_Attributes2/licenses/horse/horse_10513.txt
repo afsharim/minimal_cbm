@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : fussy onion
+Photo URL    : https://www.flickr.com/photos/fussyonion/7147530649/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 29 08:59:13 GMT+0200 2012
+Upload Date  : Sun May 6 09:12:04 GMT+0200 2012
+Views        : 325
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horse Riding
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+It was freezing
+
+
++--------+
+|  TAGS  |
++--------+
+horse riding manchester 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Joanna Bourne
+Photo URL    : https://www.flickr.com/photos/66992990@N00/6039507883/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 8 12:40:47 GMT+0200 2010
+Upload Date  : Sun Aug 14 01:52:00 GMT+0200 2011
+Views        : 3,802
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+dog on sofa
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+dog, collie, sofa, nap
+
+
++--------+
+|  TAGS  |
++--------+
+dog collie sofa nap 

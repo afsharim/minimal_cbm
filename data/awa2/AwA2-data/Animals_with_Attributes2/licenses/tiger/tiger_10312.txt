@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ross Elliott
+Photo URL    : https://www.flickr.com/photos/ross_elliott/4650218703/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 13 17:29:32 GMT+0100 2010
+Upload Date  : Sat May 29 21:24:55 GMT+0200 2010
+Geotag Info  : Latitude:50.428260, Longitude:-3.582894
+Views        : 786
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger 0310 2635
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Tiger Cat 

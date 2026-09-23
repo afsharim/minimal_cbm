@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : clry2
+Photo URL    : https://www.flickr.com/photos/clry2/16950354380/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Apr 6 10:36:55 GMT+0200 2015
+Upload Date  : Mon Apr 13 21:30:28 GMT+0200 2015
+Views        : 203
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Otters
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+animals otters safari 

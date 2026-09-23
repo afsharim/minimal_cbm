@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Eljay
+Photo URL    : https://www.flickr.com/photos/eljay/6091955479/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 25 15:14:36 GMT+0200 2011
+Upload Date  : Mon Aug 29 11:36:38 GMT+0200 2011
+Views        : 26
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"brittany 2011" "jardin du moulin neuf" 

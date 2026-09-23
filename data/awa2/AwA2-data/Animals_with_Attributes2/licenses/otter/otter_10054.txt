@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Eric Kilby
+Photo URL    : https://www.flickr.com/photos/ekilby/17060877332/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 4 15:12:48 GMT+0200 2015
+Upload Date  : Tue Apr 7 05:32:38 GMT+0200 2015
+Geotag Info  : Latitude:42.462697, Longitude:-71.093636
+Views        : 317
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Crouched Otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+stone zoo massachusetts river otter 

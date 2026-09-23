@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ewen and donabel
+Photo URL    : https://www.flickr.com/photos/donabelandewen/346225214/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Dec 28 13:26:46 GMT+0100 2006
+Upload Date  : Fri Jan 5 05:14:30 GMT+0100 2007
+Views        : 292
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Brown Bear's back to us
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"brown bear" bear 

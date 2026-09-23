@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : GorissenM
+Photo URL    : https://www.flickr.com/photos/71963413@N06/6887354501/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Mar 2 00:27:07 GMT+0100 2007
+Upload Date  : Thu Feb 16 19:15:08 GMT+0100 2012
+Geotag Info  : Latitude:52.294281, Longitude:5.643796
+Views        : 585
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Pet Hamster Hammie
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This used to be my grumpy pet hamster in 2007. Unfortunately it died form constipation.....what a way to go :-(.
+
+
++--------+
+|  TAGS  |
++--------+
+Pet Hamster Hammie Wheel 

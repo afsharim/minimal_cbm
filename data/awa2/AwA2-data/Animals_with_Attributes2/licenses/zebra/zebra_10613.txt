@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mister-E
+Photo URL    : https://www.flickr.com/photos/mister-e/2358531959/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jan 28 09:18:52 GMT+0100 2008
+Upload Date  : Mon Mar 24 22:05:00 GMT+0100 2008
+Geotag Info  : Latitude:-24.523196, Longitude:31.967549
+Views        : 532
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra in Looking-at-Camera Shock
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Kruger "Kruger National Park" "South Africa" "game reserve" zebra 

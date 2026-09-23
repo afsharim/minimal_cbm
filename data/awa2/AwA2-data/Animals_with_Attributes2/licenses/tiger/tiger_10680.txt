@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : johnmuk
+Photo URL    : https://www.flickr.com/photos/jm999uk/6837010182/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Mar 14 13:51:10 GMT+0100 2012
+Upload Date  : Wed Mar 14 23:24:01 GMT+0100 2012
+Views        : 40
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Taken on my birthday, 14th March, 2012 at West Midlands Safari Park
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

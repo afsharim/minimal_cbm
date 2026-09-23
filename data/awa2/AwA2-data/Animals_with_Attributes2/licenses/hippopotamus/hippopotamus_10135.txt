@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : berniedup
+Photo URL    : https://www.flickr.com/photos/berniedup/16587676107/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jan 22 16:38:14 GMT+0100 2015
+Upload Date  : Thu Mar 12 17:35:56 GMT+0100 2015
+Geotag Info  : Latitude:-25.116067, Longitude:31.911849
+Views        : 678
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hippo (Hippopotamus amphibius) with open mouth
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Sunset Dam, Lower Sabie, Kruger NP, SOUTH AFRICA
+
+
++--------+
+|  TAGS  |
++--------+
+Hippo "Hippopotamus amphibius" Kruger "Lower Sabie" "South Africa" "Sunset Dam" "taxonomy:binomial=Hippopotamus amphibius" 

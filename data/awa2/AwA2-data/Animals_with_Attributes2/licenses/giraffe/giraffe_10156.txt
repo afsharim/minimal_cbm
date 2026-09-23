@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : girlzilla09
+Photo URL    : https://www.flickr.com/photos/girlzilla09/7750863302/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Aug 9 23:43:35 GMT+0200 2011
+Upload Date  : Fri Aug 10 06:39:39 GMT+0200 2012
+Views        : 24
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSCN5159
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

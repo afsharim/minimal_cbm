@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : KimonBerlin
+Photo URL    : https://www.flickr.com/photos/kimon/3356436621/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Feb 16 06:30:52 GMT+0100 2009
+Upload Date  : Sun Mar 15 18:54:07 GMT+0100 2009
+Geotag Info  : Latitude:35.663293, Longitude:-121.257777
+Views        : 96
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_7976_1
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"elephant seal" "piedras blancas" california 

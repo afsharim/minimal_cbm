@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Elliot Moore
+Photo URL    : https://www.flickr.com/photos/elliotmoore/155914221/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 28 15:48:22 GMT+0200 2006
+Upload Date  : Tue May 30 00:31:14 GMT+0200 2006
+Views        : 37
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Animals Whipsnade zoo 

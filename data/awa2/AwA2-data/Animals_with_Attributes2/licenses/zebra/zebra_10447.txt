@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : QuakeUp!
+Photo URL    : https://www.flickr.com/photos/quakeup/8881324394/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Mar 7 00:37:03 GMT+0100 2013
+Upload Date  : Wed May 29 20:24:27 GMT+0200 2013
+Geotag Info  : Latitude:-1.839134, Longitude:34.942474
+Views        : 1,601
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tanzania-Serengeti-MbuziMaweSafariDrive-6
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Zebra migration in the Serengeti
+
+
++--------+
+|  TAGS  |
++--------+
+"Serengeti National Park" Tanzania safari zebra Africa migration d7000 Nikon 

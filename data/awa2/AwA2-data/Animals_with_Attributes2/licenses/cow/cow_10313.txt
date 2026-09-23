@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sanbeiji
+Photo URL    : https://www.flickr.com/photos/sanbeiji/3440397466/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Apr 13 16:27:00 GMT+0200 2009
+Upload Date  : Tue Apr 14 03:54:52 GMT+0200 2009
+Geotag Info  : Latitude:37.808665, Longitude:-121.858549
+Views        : 117
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+cow bovine tassajara 

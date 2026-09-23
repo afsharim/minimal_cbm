@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jim, the Photographer
+Photo URL    : https://www.flickr.com/photos/jcapaldi/5049122673/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 3 15:59:52 GMT+0200 2010
+Upload Date  : Mon Oct 4 04:19:17 GMT+0200 2010
+Geotag Info  : Latitude:39.887265, Longitude:-75.404791
+Views        : 110
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Linvilla Orchards" horse 

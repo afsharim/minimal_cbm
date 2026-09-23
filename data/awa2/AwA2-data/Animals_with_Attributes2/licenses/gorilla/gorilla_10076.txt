@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Nigel's Europe & beyond 2
+Photo URL    : https://www.flickr.com/photos/zooeurope/6015253486/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 17 13:47:12 GMT+0200 2011
+Upload Date  : Sat Aug 6 19:45:35 GMT+0200 2011
+Geotag Info  : Latitude:52.507993, Longitude:13.337831
+Views        : 116
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Berlin Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Gorillas
+
+
++--------+
+|  TAGS  |
++--------+
+Berlin Germany "Berlin Zoo" 

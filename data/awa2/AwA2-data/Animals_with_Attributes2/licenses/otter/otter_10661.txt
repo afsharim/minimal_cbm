@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Oregon State University
+Photo URL    : https://www.flickr.com/photos/oregonstateuniversity/11652670925/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 28 17:41:02 GMT+0200 2012
+Upload Date  : Mon Dec 30 20:54:49 GMT+0100 2013
+Views        : 755
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sea otter, credit Norman S. Smith copy
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Sea otter are among predators whose ecological impacts have been documented by Bill Ripple and his colleagues. Photo: Norman S. Smith
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

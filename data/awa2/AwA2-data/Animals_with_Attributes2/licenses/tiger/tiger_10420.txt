@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Rparle
+Photo URL    : https://www.flickr.com/photos/rparle/289868969/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 4 13:26:43 GMT+0100 2006
+Upload Date  : Sun Nov 5 23:16:41 GMT+0100 2006
+Geotag Info  : Latitude:53.355162, Longitude:-6.306409
+Views        : 305
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zoo dublinzoo Tiger "Panthera tigris" wlny:photo=i36a wlny:species=s1y wlny:trip=tag wlny:place=p6p wlny:geotagged=1 

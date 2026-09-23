@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : J'Roo
+Photo URL    : https://www.flickr.com/photos/jnicho02/1389613059/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 16 00:24:11 GMT+0200 2007
+Upload Date  : Sun Sep 16 08:17:22 GMT+0200 2007
+Geotag Info  : Latitude:47.667497, Longitude:-122.349693
+Views        : 21
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hippos
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Hippos
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

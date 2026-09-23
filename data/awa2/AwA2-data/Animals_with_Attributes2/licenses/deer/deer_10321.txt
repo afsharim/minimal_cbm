@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : debbilytle
+Photo URL    : https://www.flickr.com/photos/debbiring/727617870/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 4 10:08:53 GMT+0200 2007
+Upload Date  : Thu Jul 5 16:37:33 GMT+0200 2007
+Geotag Info  : Latitude:32.038602, Longitude:-84.784841
+Views        : 109
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Westville Georgia deer 

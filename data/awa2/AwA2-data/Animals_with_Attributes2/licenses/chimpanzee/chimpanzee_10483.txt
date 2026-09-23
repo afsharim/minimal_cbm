@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Eric Kilby
+Photo URL    : https://www.flickr.com/photos/ekilby/6811775654/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jan 17 14:02:21 GMT+0100 2012
+Upload Date  : Tue Mar 6 04:42:44 GMT+0100 2012
+Geotag Info  : Latitude:37.733177, Longitude:-122.503287
+Views        : 475
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hobo Chimps
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+with a blanket and a box of cheerios
+
+
++--------+
+|  TAGS  |
++--------+
+sf zoo san francisco california primates chimpanzee blanket cereal 

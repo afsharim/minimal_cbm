@@ -1,0 +1,38 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jim, the Photographer
+Photo URL    : https://www.flickr.com/photos/jcapaldi/8569646907/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Mar 18 10:19:50 GMT+0100 2013
+Upload Date  : Tue Mar 19 02:02:01 GMT+0100 2013
+Geotag Info  : Latitude:39.957171, Longitude:-75.171246
+Views        : 156
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bobcat with Prey
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Academy of Natural Sciences of Drexel University
+1900 Benjamin Franklin Parkway
+Philadelphia, PA 19103
+March 18, 2013
+
+
++--------+
+|  TAGS  |
++--------+
+Philadelphia science museum Parkway "Academy of Natural Sciences" 

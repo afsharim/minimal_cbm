@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : madaise
+Photo URL    : https://www.flickr.com/photos/madaise/2648774606/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 6 20:19:04 GMT+0200 2008
+Upload Date  : Tue Jul 8 05:45:38 GMT+0200 2008
+Views        : 65
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+112
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+rats 

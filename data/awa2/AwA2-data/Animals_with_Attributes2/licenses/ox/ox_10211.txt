@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : robmadeo
+Photo URL    : https://www.flickr.com/photos/robmadeo/6230967391/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 24 09:41:46 GMT+0200 2011
+Upload Date  : Mon Oct 10 19:32:59 GMT+0200 2011
+Views        : 44
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_0686
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

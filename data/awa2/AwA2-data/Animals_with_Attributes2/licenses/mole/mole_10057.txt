@@ -1,0 +1,13 @@
++--------------------------------------+
+|             Photo Metadata           |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Alex McLachlan
+Photo URL    : http://www.calacademy.org/sites/default/files/blogs/projectlab/wp-content/uploads/2013/06/photo3-copy.jpg
+License      : CC BY-NC 2.0 (https://creativecommons.org/licenses/by-nc/2.0/)
+Date         : -

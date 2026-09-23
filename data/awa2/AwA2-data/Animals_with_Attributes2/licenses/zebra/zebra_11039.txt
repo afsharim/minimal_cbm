@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mara 1
+Photo URL    : https://www.flickr.com/photos/flametree/418984840/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Feb 8 21:29:47 GMT+0100 2007
+Upload Date  : Mon Mar 12 17:11:25 GMT+0100 2007
+Views        : 917
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Zebras on the Look Out !
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+These can be found when out on a horse ride at Antelope Park in Zimbabwe.
+
+
++--------+
+|  TAGS  |
++--------+
+AntelopePark Lions Cubs WorkingwithLions Zimbabwe Animals Wildlife 

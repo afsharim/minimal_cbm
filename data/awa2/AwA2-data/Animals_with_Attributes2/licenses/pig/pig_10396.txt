@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : kat.dodd
+Photo URL    : https://www.flickr.com/photos/katdodd/3448014693/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Apr 13 17:06:24 GMT+0200 2009
+Upload Date  : Fri Apr 17 00:29:44 GMT+0200 2009
+Geotag Info  : Latitude:52.541702, Longitude:-3.076686
+Views        : 20
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Pigs (23)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+13/04/09
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

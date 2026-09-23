@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : s_mestdagh
+Photo URL    : https://www.flickr.com/photos/s_mestdagh/8566049275/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 17 12:54:54 GMT+0100 2013
+Upload Date  : Mon Mar 18 00:33:31 GMT+0100 2013
+Views        : 160
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+2013 Visit to the Denver Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+grizzly bear
+
+
++--------+
+|  TAGS  |
++--------+
+2013 colorado wildlife 

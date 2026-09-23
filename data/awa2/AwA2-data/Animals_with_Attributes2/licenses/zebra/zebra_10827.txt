@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : davida3
+Photo URL    : https://www.flickr.com/photos/davida3/5239002316/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Nov 4 13:43:39 GMT+0100 2010
+Upload Date  : Mon Dec 6 20:29:45 GMT+0100 2010
+Views        : 422
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Kenya chronicals
+mgraine
+
+
++--------+
+|  TAGS  |
++--------+
+zebra kenya migraine 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sz.u.
+Photo URL    : https://www.flickr.com/photos/szulat/1469176861/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jan 16 12:45:10 GMT+0100 2006
+Upload Date  : Mon Oct 1 23:34:26 GMT+0200 2007
+Geotag Info  : Latitude:50.202341, Longitude:21.718940
+Views        : 1,189
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Angry Cow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+cow village animal domestic green 

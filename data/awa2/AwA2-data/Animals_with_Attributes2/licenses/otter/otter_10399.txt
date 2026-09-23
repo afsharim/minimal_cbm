@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : aesoler
+Photo URL    : https://www.flickr.com/photos/100393636@N07/9553070120/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Aug 20 06:28:59 GMT+0200 2013
+Upload Date  : Tue Aug 20 06:29:08 GMT+0200 2013
+Views        : 14
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

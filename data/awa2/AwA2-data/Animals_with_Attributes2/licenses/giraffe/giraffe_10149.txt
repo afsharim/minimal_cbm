@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MZKM
+Photo URL    : https://www.flickr.com/photos/120288612@N02/13141215204/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 8 12:50:56 GMT+0200 2011
+Upload Date  : Fri Mar 14 06:28:03 GMT+0100 2014
+Views        : 88
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC00642
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+SONY DSC
+
+
++--------+
+|  TAGS  |
++--------+
+Giraffe 

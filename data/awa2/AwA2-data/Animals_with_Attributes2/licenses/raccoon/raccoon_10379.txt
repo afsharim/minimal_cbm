@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : dbaron
+Photo URL    : https://www.flickr.com/photos/dbaron/2712403533/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 28 17:49:07 GMT+0200 2008
+Upload Date  : Tue Jul 29 08:00:20 GMT+0200 2008
+Geotag Info  : Latitude:49.295388, Longitude:-123.144882
+Views        : 1,253
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Raccoons
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Raccoons in Stanley Park.  (dsc07134)
+
+
++--------+
+|  TAGS  |
++--------+
+Canada "British Columbia" Vancouver "Stanley Park" Raccoon Procyon "Procyon lotor" "P. lotor" animal geotagged geo:lat=49.295388 geo:lon=-123.144882 

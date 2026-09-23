@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ejmc
+Photo URL    : https://www.flickr.com/photos/ejmc/13409944663/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Mar 25 12:44:41 GMT+0100 2014
+Upload Date  : Tue Mar 25 20:08:43 GMT+0100 2014
+Geotag Info  : Latitude:30.187264, Longitude:-97.871359
+Views        : 1,089
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Test new Fuji X-T1
+
+
++--------+
+|  TAGS  |
++--------+
+"LBJ Wildflower Center" 

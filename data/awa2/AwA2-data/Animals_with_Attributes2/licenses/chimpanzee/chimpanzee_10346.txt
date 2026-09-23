@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : lownote
+Photo URL    : https://www.flickr.com/photos/lownote/3848031086/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 23 14:07:48 GMT+0200 2009
+Upload Date  : Sun Aug 23 09:59:31 GMT+0200 2009
+Geotag Info  : Latitude:53.229780, Longitude:-2.876079
+Views        : 62
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Chimpanzees 2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Danny Nicholson
+Photo URL    : https://www.flickr.com/photos/dannynic/3258141720/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Feb 2 21:12:01 GMT+0100 2009
+Upload Date  : Fri Feb 6 14:00:42 GMT+0100 2009
+Views        : 424
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Ruby
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+ruby hamster 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Donnaphoto
+Photo URL    : https://www.flickr.com/photos/77043400@N00/862087170/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 10 05:21:08 GMT+0200 2005
+Upload Date  : Sat Jul 21 03:03:40 GMT+0200 2007
+Views        : 129
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Walrus - Somebody feed me
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Sea World - Florida - June 2006
+
+
++--------+
+|  TAGS  |
++--------+
+walrus act stage "sea world" florida animals 

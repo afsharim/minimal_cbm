@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : PhylB
+Photo URL    : https://www.flickr.com/photos/pgautier/756014293/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 4 13:03:54 GMT+0200 2007
+Upload Date  : Sun Jul 8 23:40:03 GMT+0200 2007
+Views        : 80
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+zebras
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+safari denmark 

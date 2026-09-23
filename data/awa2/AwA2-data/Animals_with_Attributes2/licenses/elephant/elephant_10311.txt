@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : phalinn
+Photo URL    : https://www.flickr.com/photos/phalinn/221284281/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 6 14:22:28 GMT+0200 2006
+Upload Date  : Mon Aug 21 21:25:49 GMT+0200 2006
+Geotag Info  : Latitude:3.207832, Longitude:101.756486
+Views        : 284
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+At Zoo Negara, KL
+
+
++--------+
+|  TAGS  |
++--------+
+birds animals kids malaysia phalinn 

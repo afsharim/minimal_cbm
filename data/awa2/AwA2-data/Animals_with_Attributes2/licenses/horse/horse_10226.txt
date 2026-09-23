@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Neillwphoto
+Photo URL    : https://www.flickr.com/photos/neillwphoto/8361189870/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Feb 28 13:46:10 GMT+0100 2012
+Upload Date  : Tue Jan 8 11:30:20 GMT+0100 2013
+Views        : 1,094
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Curious Horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A friendly and inquisitive horse in a field just outside Arbirlot.
+
+The same horse as the previous photo just taken at a different angle and has no post processing applied.
+
+
++--------+
+|  TAGS  |
++--------+
+Horse 

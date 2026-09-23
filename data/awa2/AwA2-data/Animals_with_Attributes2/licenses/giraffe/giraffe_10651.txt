@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : D Piddy
+Photo URL    : https://www.flickr.com/photos/d_piddy/8563493367/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 23 14:54:50 GMT+0100 2013
+Upload Date  : Sun Mar 17 08:39:56 GMT+0100 2013
+Geotag Info  : Latitude:-36.862300, Longitude:174.721176
+Views        : 105
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Each giraffe's pattern is a unique &quot;fingerprint&quot;, it's colours work as a camouflage, helping the giraffes blend with the world around them
+
+
++--------+
+|  TAGS  |
++--------+
+Canon 7D Eos Zoo Giraffe 

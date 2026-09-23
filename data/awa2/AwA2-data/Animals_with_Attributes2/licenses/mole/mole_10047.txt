@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Aug 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : chalkahlom
+Photo URL    : https://www.flickr.com/photos/96910466@N08/27444655624/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 3 14:23:22 GMT+0200 2016
+Upload Date  : Sun Jul 3 15:56:34 GMT+0200 2016
+Views        : 32
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Mole
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

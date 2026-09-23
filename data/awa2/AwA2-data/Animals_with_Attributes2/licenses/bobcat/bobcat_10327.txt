@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Larry Crovo
+Photo URL    : https://www.flickr.com/photos/36021475@N07/21096708166/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Sep 2 14:12:04 GMT+0200 2015
+Upload Date  : Fri Sep 4 01:07:58 GMT+0200 2015
+Views        : 107
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Bobcat
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+There were a pair of beautiful Bob Cats. They don't belong in cages either.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

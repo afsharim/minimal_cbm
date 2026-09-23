@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Skrewtape
+Photo URL    : https://www.flickr.com/photos/skrewtape/856282700/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jan 1 00:00:00 GMT+0100 2007
+Upload Date  : Fri Jul 20 04:49:45 GMT+0200 2007
+Geotag Info  : Latitude:37.730239, Longitude:-122.502502
+Views        : 339
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This picture is at extreme zoom and heavily cropped, but you can't really tell; this new camera is really nice.
+
+
++--------+
+|  TAGS  |
++--------+
+San Francisco Zoo Zebra 

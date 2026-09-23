@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Noel Reynolds
+Photo URL    : https://www.flickr.com/photos/29237715@N05/5918002287/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 12 16:00:44 GMT+0200 2011
+Upload Date  : Sat Jul 9 14:58:51 GMT+0200 2011
+Views        : 711
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep ear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Sheep scratches ear 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : steve p2008
+Photo URL    : https://www.flickr.com/photos/stevepj2009/3225083601/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 25 16:07:03 GMT+0100 2009
+Upload Date  : Sun Jan 25 17:58:13 GMT+0100 2009
+Views        : 7,297
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+sheep 

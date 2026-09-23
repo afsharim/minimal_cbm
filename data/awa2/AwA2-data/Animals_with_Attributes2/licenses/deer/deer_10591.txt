@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Emily Carlin
+Photo URL    : https://www.flickr.com/photos/emiline220/8139061009/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 7 18:30:35 GMT+0200 2012
+Upload Date  : Tue Oct 30 18:59:45 GMT+0100 2012
+Geotag Info  : Latitude:36.063670, Longitude:-86.806282
+Views        : 265
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+deer forest woods 

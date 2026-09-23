@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Dave Hoover
+Photo URL    : https://www.flickr.com/photos/redsquirrel/6836097729/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jan 31 22:41:44 GMT+0100 2011
+Upload Date  : Tue Feb 7 16:49:46 GMT+0100 2012
+Views        : 181
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Male Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The guide said he must have been cold...
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

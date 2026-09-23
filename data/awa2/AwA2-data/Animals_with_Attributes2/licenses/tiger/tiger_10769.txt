@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Zervas
+Photo URL    : https://www.flickr.com/photos/zervas/15672190933/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jan 16 01:53:48 GMT+0100 2015
+Upload Date  : Fri Jan 16 10:53:48 GMT+0100 2015
+Views        : 52
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Harbin Tiger reserve
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

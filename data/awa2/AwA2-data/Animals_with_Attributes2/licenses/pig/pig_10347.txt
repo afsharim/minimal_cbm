@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Michael Newton
+Photo URL    : https://www.flickr.com/photos/newton/4870743018/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 24 16:01:02 GMT+0200 2010
+Upload Date  : Sun Aug 8 04:56:09 GMT+0200 2010
+Geotag Info  : Latitude:43.155081, Longitude:-72.747001
+Views        : 4,416
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Pig
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+pig vermont 

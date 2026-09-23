@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Denis Defreyne
+Photo URL    : https://www.flickr.com/photos/denisdefreyne/1091483253/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 12 13:14:11 GMT+0200 2007
+Upload Date  : Sun Aug 12 13:32:37 GMT+0200 2007
+Views        : 2,010
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Dead Mouse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A dead mouse I found in the garden.
+
+
++--------+
+|  TAGS  |
++--------+
+mouse dead 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : kevinzim
+Photo URL    : https://www.flickr.com/photos/86624586@N00/109679837/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 5 09:33:34 GMT+0100 2006
+Upload Date  : Wed Mar 8 16:50:28 GMT+0100 2006
+Geotag Info  : Latitude:0.201015, Longitude:37.403640
+Views        : 512
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+giraffe crossing
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Lewa.
+
+
++--------+
+|  TAGS  |
++--------+
+kenya africa 

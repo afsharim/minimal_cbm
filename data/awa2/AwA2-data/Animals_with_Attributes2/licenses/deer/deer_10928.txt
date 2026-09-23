@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : xuhulk
+Photo URL    : https://www.flickr.com/photos/crimsonninjagirl/2751544590/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 4 08:11:41 GMT+0200 2008
+Upload Date  : Mon Aug 11 00:56:04 GMT+0200 2008
+Views        : 166
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+img_3228
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Deer running towards the road
+
+
++--------+
+|  TAGS  |
++--------+
+deer 

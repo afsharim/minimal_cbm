@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Goldmund100
+Photo URL    : https://www.flickr.com/photos/luca_volpi/5568146012/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Mar 28 15:56:20 GMT+0200 2011
+Upload Date  : Mon Mar 28 15:56:20 GMT+0200 2011
+Geotag Info  : Latitude:43.849353, Longitude:12.210445
+Views        : 615
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Cavallo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horse cavallo portrait 

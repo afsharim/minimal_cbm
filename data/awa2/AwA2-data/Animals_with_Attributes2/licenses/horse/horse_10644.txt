@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Peter O'Connor aka anemoneprojectors
+Photo URL    : https://www.flickr.com/photos/anemoneprojectors/4575820069/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Apr 27 13:58:51 GMT+0200 2010
+Upload Date  : Tue May 4 00:00:47 GMT+0200 2010
+Geotag Info  : Latitude:51.938433, Longitude:-0.187173
+Views        : 37,648
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+Horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Lovely horse at Manor Farm, Hertfordshire (near Stevenage), 27 April 2010
+
+He did come to say hello but wouldn't stop for a portrait photo.
+
+
++--------+
+|  TAGS  |
++--------+
+Horse "Manor Farm" Hertfordshire Stevenage Equine Equus "Equus ferus" "Equus ferus caballus" 

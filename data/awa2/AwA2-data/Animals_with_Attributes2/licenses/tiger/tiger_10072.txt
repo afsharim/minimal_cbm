@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Shaunak Modi
+Photo URL    : https://www.flickr.com/photos/biwan/8717647645/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 2 08:28:28 GMT+0200 2013
+Upload Date  : Tue May 7 22:27:29 GMT+0200 2013
+Geotag Info  : Latitude:20.135246, Longitude:79.475784
+Views        : 1,046
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Bengal Tiger - Panthera Tigris
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Pandharpauni female, Tadoba
+
+
++--------+
+|  TAGS  |
++--------+
+"Tadoba Andhari Tiger Reserve" Maharashtra India "Shaunak B Modi" Big Cats 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Edward Dalmulder
+Photo URL    : https://www.flickr.com/photos/edwarddalmulder/4428376753/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 7 13:40:47 GMT+0100 2010
+Upload Date  : Sat Mar 13 10:47:52 GMT+0100 2010
+Geotag Info  : Latitude:52.165469, Longitude:4.624235
+Views        : 617
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horse life #7
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Manege Paard horse 

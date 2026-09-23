@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : craig1709
+Photo URL    : https://www.flickr.com/photos/craig1709/2483878307/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 11 20:17:27 GMT+0200 2008
+Upload Date  : Mon May 12 00:34:59 GMT+0200 2008
+Views        : 63
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cows
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+cows 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Laddir
+Photo URL    : https://www.flickr.com/photos/laddir/6204029533/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 2 14:38:31 GMT+0200 2011
+Upload Date  : Sun Oct 2 19:43:25 GMT+0200 2011
+Geotag Info  : Latitude:52.507249, Longitude:13.339698
+Views        : 260
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hippo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Nilpferd hippo zoo berlin "zoo berlin" 

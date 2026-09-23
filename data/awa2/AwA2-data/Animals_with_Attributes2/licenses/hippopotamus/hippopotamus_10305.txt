@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Roberto Verzo
+Photo URL    : https://www.flickr.com/photos/verzo/4603222943/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 2 10:54:03 GMT+0200 2009
+Upload Date  : Thu May 13 13:55:44 GMT+0200 2010
+Views        : 549
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hippopotamus amphibius
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Tiergarten Schönbrunn, Vienna Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+Hippopotamus amphisbius Nilpferd Flusspferd Schönbrunn Tiergarten Zoo Vienna Austria Wien 

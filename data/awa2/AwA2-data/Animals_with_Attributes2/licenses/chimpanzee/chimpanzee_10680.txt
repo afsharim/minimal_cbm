@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : BFS Man
+Photo URL    : https://www.flickr.com/photos/bfs_man/5359150284/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 15 12:04:29 GMT+0100 2011
+Upload Date  : Sun Jan 16 04:36:14 GMT+0100 2011
+Geotag Info  : Latitude:29.714799, Longitude:-95.394716
+Views        : 295
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Well, The Day Was Cool
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Chimpanzee at the Houston Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+Chimpanzee primate "Houston Zoo" Houston Texas 

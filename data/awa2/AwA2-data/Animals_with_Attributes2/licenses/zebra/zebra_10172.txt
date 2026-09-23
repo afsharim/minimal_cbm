@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : northways
+Photo URL    : https://www.flickr.com/photos/apes_abroad/15789877346/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Nov 11 23:48:18 GMT+0100 2014
+Upload Date  : Mon Nov 17 20:04:13 GMT+0100 2014
+Views        : 1,510
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Etosha zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

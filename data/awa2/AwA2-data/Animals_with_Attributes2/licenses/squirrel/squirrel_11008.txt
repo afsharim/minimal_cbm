@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Gerry Petrin
+Photo URL    : https://www.flickr.com/photos/gerryp25/14773653949/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 5 19:10:52 GMT+0200 2013
+Upload Date  : Mon Aug 18 18:54:48 GMT+0200 2014
+Views        : 88
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Canon EOS 60D" nature 

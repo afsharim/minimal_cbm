@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : thornypup
+Photo URL    : https://www.flickr.com/photos/michaelloudon/6411402903/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 18 11:59:18 GMT+0200 2011
+Upload Date  : Sun Nov 27 15:05:13 GMT+0100 2011
+Views        : 55
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+the pigs next door
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+pig 

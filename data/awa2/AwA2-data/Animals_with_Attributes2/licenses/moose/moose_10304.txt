@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : m.prinke
+Photo URL    : https://www.flickr.com/photos/mprinke/1229078189/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 10 11:58:06 GMT+0200 2007
+Upload Date  : Sat Aug 25 10:31:31 GMT+0200 2007
+Geotag Info  : Latitude:59.328395, Longitude:18.106443
+Views        : 1,131
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Moose
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Moose, Skansen, Stockholm
+
+
++--------+
+|  TAGS  |
++--------+
+skansen stockholm sweden schweden city capital animal moose älg elch zoo 

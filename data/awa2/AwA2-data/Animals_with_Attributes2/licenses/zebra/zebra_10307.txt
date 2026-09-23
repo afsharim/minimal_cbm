@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mackenzieeeee
+Photo URL    : https://www.flickr.com/photos/mackenzieeeee/191922156/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 23 13:21:22 GMT+0200 2006
+Upload Date  : Mon Jul 17 20:47:13 GMT+0200 2006
+Views        : 53
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+LA Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+zebra
+
+
++--------+
+|  TAGS  |
++--------+
+"L.A. Zoo" zoo animals zebra 

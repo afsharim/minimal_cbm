@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : irishjaunt
+Photo URL    : https://www.flickr.com/photos/irishjaunt/4338497376/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 8 07:03:59 GMT+0100 2008
+Upload Date  : Sun Feb 7 20:22:35 GMT+0100 2010
+Geotag Info  : Latitude:53.538018, Longitude:-9.931983
+Views        : 799
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Irish sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+ireland irish irishjaunt sheep countryside "irish sheep" connemara 

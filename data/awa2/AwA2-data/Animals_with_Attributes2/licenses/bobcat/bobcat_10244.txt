@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Loimere
+Photo URL    : https://www.flickr.com/photos/loimere/1176438402/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 9 12:45:52 GMT+0200 2007
+Upload Date  : Mon Aug 20 02:06:02 GMT+0200 2007
+Geotag Info  : Latitude:45.091387, Longitude:-63.388752
+Views        : 78
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Bobcat
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"East Coast Trip" Loimere 

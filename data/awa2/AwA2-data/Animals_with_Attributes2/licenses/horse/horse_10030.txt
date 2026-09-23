@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : M^3
+Photo URL    : https://www.flickr.com/photos/mckechnie/7019253761/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Feb 16 08:47:40 GMT+0100 2012
+Upload Date  : Tue Mar 27 01:43:02 GMT+0200 2012
+Views        : 58
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+2012-02-16 08.47.40.jpg
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horse 

@@ -1,0 +1,19 @@
++--------------------------------------+
+|       Pixabay Photo Metadata         |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : moerschy
+Photo URL    : https://pixabay.com/en/walrus-mammal-sea-lion-919572/
+License      : CC0 Public Domain (https://creativecommons.org/publicdomain/zero/1.0/deed.en)
+Created      : July 3, 2015
+Uploaded     : 10 months ago
+
++--------+
+|  TAGS  |
++--------+
+Walrus, Mammal, Sea Lion, Meeresbewohner

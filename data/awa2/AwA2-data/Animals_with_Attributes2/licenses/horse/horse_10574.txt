@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : possan
+Photo URL    : https://www.flickr.com/photos/possan/2426446668/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 19 15:06:15 GMT+0200 2008
+Upload Date  : Sun Apr 20 00:02:21 GMT+0200 2008
+Views        : 999
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+fisheye horse funny 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Adam J Skowronski
+Photo URL    : https://www.flickr.com/photos/adam_skowronski/15483067857/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Oct 14 16:18:56 GMT+0200 2014
+Upload Date  : Thu Oct 30 21:24:31 GMT+0100 2014
+Geotag Info  : Latitude:25.574961, Longitude:-80.362459
+Views        : 1,115
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Raccoon
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Raccoon
+
+
++--------+
+|  TAGS  |
++--------+
+Raccoon 

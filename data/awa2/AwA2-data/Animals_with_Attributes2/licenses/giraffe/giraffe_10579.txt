@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : j0hncooke
+Photo URL    : https://www.flickr.com/photos/cookies_world/6155059681/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 30 12:04:44 GMT+0200 2011
+Upload Date  : Sat Sep 17 14:41:46 GMT+0200 2011
+Views        : 41
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Dublin Zoo" Dublin Zoo 

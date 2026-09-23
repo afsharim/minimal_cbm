@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : stantontcady
+Photo URL    : https://www.flickr.com/photos/terrycady/3590097581/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Mar 26 07:48:00 GMT+0100 2009
+Upload Date  : Wed Jun 3 02:01:22 GMT+0200 2009
+Geotag Info  : Latitude:32.734666, Longitude:-117.151834
+Views        : 15
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_6280
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"san diego" "san diego zoo" zoo california geotagged 

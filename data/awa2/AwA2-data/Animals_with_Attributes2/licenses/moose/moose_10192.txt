@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Alex1961
+Photo URL    : https://www.flickr.com/photos/alex1961/406255691/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Feb 28 19:59:17 GMT+0100 2007
+Upload Date  : Thu Mar 1 01:59:17 GMT+0100 2007
+Views        : 11
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+m5.jpg
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"5 Wadsworth" Moose 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : dw_ross
+Photo URL    : https://www.flickr.com/photos/dw_ross/5373796879/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jan 20 13:22:50 GMT+0100 2011
+Upload Date  : Fri Jan 21 03:09:00 GMT+0100 2011
+Views        : 3,237
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+20110120_1704
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Sumatran Tiger (Panthera tigris sumatrae)
+
+
++--------+
+|  TAGS  |
++--------+
+Nikkor "National Zoo" "Nikon D7000" "70-300mm f/4.5-5.6G VR" 

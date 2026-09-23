@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Cyrond
+Photo URL    : https://www.flickr.com/photos/banhardt/2718174084/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue May 27 16:04:48 GMT+0200 2008
+Upload Date  : Thu Jul 31 00:09:55 GMT+0200 2008
+Geotag Info  : Latitude:49.413936, Longitude:8.663953
+Views        : 344
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Kaffeekränzchen
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Susi, Lulu und Henry essen mal zusammen...
+
+
++--------+
+|  TAGS  |
++--------+
+Schmipanse Chimpanzee Zoo Affe Menschenaffe "eos 350d" ape "Zoo Heidelberg" "Heidelberger Zoo" 

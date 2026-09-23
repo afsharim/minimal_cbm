@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : foilman
+Photo URL    : https://www.flickr.com/photos/foilman/3462554850/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 18 14:20:06 GMT+0200 2009
+Upload Date  : Tue Apr 21 13:02:37 GMT+0200 2009
+Geotag Info  : Latitude:51.042807, Longitude:-1.323163
+Views        : 1,436
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cows
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+cow field winchester 

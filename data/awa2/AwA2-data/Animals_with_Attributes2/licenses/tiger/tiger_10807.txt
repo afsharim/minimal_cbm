@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : d4vidbruce
+Photo URL    : https://www.flickr.com/photos/d4vidbruce/105026434/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Dec 28 14:20:34 GMT+0100 2005
+Upload Date  : Mon Feb 27 03:59:38 GMT+0100 2006
+Geotag Info  : Latitude:38.928519, Longitude:-77.046119
+Views        : 4,170
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Tigers
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Tigers, National Zoo, Washington, DC
+
+<a href="http://www.robogeo.com/Flickr2Map/" rel="nofollow">Google Earth</a> | <a href="http://maps.google.com/maps?t=k&amp;hl=en&amp;q=38.928519 ,-77.046119" rel="nofollow">Google Maps</a>
+
+
++--------+
+|  TAGS  |
++--------+
+washingtondc zoo tiger nationalzoo geotagged geo:lat=38.928519 geo:lon=-77.046119 

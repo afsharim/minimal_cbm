@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : computerjoe
+Photo URL    : https://www.flickr.com/photos/webbysworld/491509818/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 5 11:45:19 GMT+0200 2007
+Upload Date  : Wed May 9 20:19:15 GMT+0200 2007
+Geotag Info  : Latitude:54.277102, Longitude:-2.956008
+Views        : 61
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+windermere "lake district" "Aquarium of the Lakes" otter 

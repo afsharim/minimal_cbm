@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : johnmuk
+Photo URL    : https://www.flickr.com/photos/jm999uk/187980686/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 8 16:44:48 GMT+0200 2006
+Upload Date  : Wed Jul 12 12:57:59 GMT+0200 2006
+Views        : 42,361
+Comments     : 21
+
+
++---------+
+|  TITLE  |
++---------+
+Pig!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Pig at Rays Farm, Shropshire
+Cropped in Paint Shop Pro
+
+
++--------+
+|  TAGS  |
++--------+
+"rays farm" shropshire 2006 nature pig cropped tag1 tag2 tag3 taggedout 

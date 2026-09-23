@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : vanaddie
+Photo URL    : https://www.flickr.com/photos/vanaddie/7590968870/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 4 12:55:01 GMT+0200 2005
+Upload Date  : Tue Jul 17 18:00:16 GMT+0200 2012
+Views        : 146
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+John Ball Zoo, 2005
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+john ball zoo grand rapids chimpanzee 

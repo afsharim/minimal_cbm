@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MadMarlin
+Photo URL    : https://www.flickr.com/photos/madmarlin_/4870206959/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 7 22:30:03 GMT+0200 2010
+Upload Date  : Sun Aug 8 05:30:03 GMT+0200 2010
+Views        : 1,311
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+img018
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Sea World Killer Whale Shamu San Antonio TX
+
+
++--------+
+|  TAGS  |
++--------+
+San Antonio Sea World killer whale shamu 

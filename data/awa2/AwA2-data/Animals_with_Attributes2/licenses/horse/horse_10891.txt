@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : kyducks
+Photo URL    : https://www.flickr.com/photos/teamtiredfeet/2780653680/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 20 12:47:00 GMT+0200 2003
+Upload Date  : Wed Aug 20 07:17:53 GMT+0200 2008
+Views        : 4
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+horses
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Eugene Celebration 2003" 

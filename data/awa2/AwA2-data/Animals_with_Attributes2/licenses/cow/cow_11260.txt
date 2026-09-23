@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Pinti 1
+Photo URL    : https://www.flickr.com/photos/pinti1/7809387676/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 18 13:48:06 GMT+0200 2012
+Upload Date  : Sat Aug 18 19:47:17 GMT+0200 2012
+Views        : 111
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Together Cow!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+cows farm nature wildlife 

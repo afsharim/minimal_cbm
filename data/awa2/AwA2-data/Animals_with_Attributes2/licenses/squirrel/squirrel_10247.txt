@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Chris Parker2012
+Photo URL    : https://www.flickr.com/photos/chrisparker2012/8417329897/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 27 12:01:16 GMT+0100 2013
+Upload Date  : Sun Jan 27 00:38:33 GMT+0100 2013
+Geotag Info  : Latitude:50.736020, Longitude:-2.013030
+Views        : 76
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Grey squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Upton wildlife nature "Upton Park" squirrel mammal animal 

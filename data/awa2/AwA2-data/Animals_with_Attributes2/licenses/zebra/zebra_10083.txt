@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : iRonInk
+Photo URL    : https://www.flickr.com/photos/ironink/17208730399/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 24 14:37:14 GMT+0200 2014
+Upload Date  : Wed May 6 23:29:39 GMT+0200 2015
+Geotag Info  : Latitude:43.817807, Longitude:-79.184131
+Views        : 107
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Black with White Stripes
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Taken at the Toronto Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+"Toronto Zoo" Zebra 

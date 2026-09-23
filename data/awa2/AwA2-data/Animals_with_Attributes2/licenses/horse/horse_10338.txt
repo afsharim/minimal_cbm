@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : C MB 166
+Photo URL    : https://www.flickr.com/photos/cmb166/9100542344/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 15 16:26:31 GMT+0200 2013
+Upload Date  : Fri Jun 21 13:31:32 GMT+0200 2013
+Geotag Info  : Latitude:51.110978, Longitude:11.523896
+Views        : 369
+Comments     : 7
+
+
++---------+
+|  TITLE  |
++---------+
+Flora
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Seena, Germany: A horse named Flora lives on grandfather's farm.
+
+
++--------+
+|  TAGS  |
++--------+
+Deutschland Germany Sachsen-Anhalt Saxony-Anhalt Seena Eckartsberga Mauer wall Pferd horse Wiese meadow 

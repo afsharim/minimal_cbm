@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Roadrunner38124
+Photo URL    : https://www.flickr.com/photos/roadrunner38124/2197325781/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 10 15:18:13 GMT+0200 2006
+Upload Date  : Wed Jan 16 19:50:24 GMT+0100 2008
+Geotag Info  : Latitude:52.222699, Longitude:10.514087
+Views        : 545
+Comments     : 6
+
+
++---------+
+|  TITLE  |
++---------+
+Waschbär
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+...im Braunschweiger Zoo  (Stöckheim)
+
+
++--------+
+|  TAGS  |
++--------+
+Waschbär Zoo Stöckheim Braunschweig coon raccoon 

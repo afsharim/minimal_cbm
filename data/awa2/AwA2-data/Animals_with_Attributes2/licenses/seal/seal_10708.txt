@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : smagdali
+Photo URL    : https://www.flickr.com/photos/smagdali/6863319823/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 28 16:14:17 GMT+0100 2012
+Upload Date  : Sun Feb 12 17:14:59 GMT+0100 2012
+Views        : 4,502
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Seal at Kalk Bay Harbour
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+seal 

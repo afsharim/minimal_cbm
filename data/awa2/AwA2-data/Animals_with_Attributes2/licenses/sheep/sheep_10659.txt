@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : JCVD100
+Photo URL    : https://www.flickr.com/photos/jcvd100/5589848673/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 27 19:00:54 GMT+0200 2011
+Upload Date  : Tue Apr 5 00:05:11 GMT+0200 2011
+Views        : 723
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep (Ovis aries)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"taxonomy:binomial=Ovis aries" domestic sheep farm "Heifer International" 

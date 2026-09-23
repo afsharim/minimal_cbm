@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Bobolink
+Photo URL    : https://www.flickr.com/photos/bobolink/15519374205/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 12 14:08:22 GMT+0200 2014
+Upload Date  : Sun Oct 12 23:01:13 GMT+0200 2014
+Geotag Info  : Latitude:44.295588, Longitude:-77.553305
+Views        : 1,459
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+Grey Squirrel_0047
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Grey Squirrel" Stirling Ontario 

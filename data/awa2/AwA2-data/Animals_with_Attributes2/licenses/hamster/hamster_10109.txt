@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Nina Stawski
+Photo URL    : https://www.flickr.com/photos/nstawski/7944130350/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 2 14:09:08 GMT+0200 2012
+Upload Date  : Thu Sep 6 18:04:16 GMT+0200 2012
+Geotag Info  : Latitude:41.242530, Longitude:-122.018282
+Views        : 5,357
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+Chipmunk
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+hamster funny pictures chipmunk 

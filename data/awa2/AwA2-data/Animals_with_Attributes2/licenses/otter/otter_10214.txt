@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : brownphotographic
+Photo URL    : https://www.flickr.com/photos/brownphotographic/21480163583/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 20 09:55:39 GMT+0200 2015
+Upload Date  : Mon Oct 12 03:02:52 GMT+0200 2015
+Views        : 191
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Otter eating frog
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+otter eating frog 

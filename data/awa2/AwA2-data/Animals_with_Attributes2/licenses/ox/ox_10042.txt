@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : alx_chief
+Photo URL    : https://www.flickr.com/photos/7398484@N02/6370975675/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 20 12:36:30 GMT+0100 2011
+Upload Date  : Sun Nov 20 19:59:40 GMT+0100 2011
+Views        : 351
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+20111120Cow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+&quot;Quoi?&quot;
+A cow at High Tilberthwaite.
+
+
++--------+
+|  TAGS  |
++--------+
+cow horns "lake district" 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : 1nativeTexan
+Photo URL    : https://www.flickr.com/photos/35272601@N00/2420022520/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 12 02:22:06 GMT+0200 2008
+Upload Date  : Thu Apr 17 02:09:47 GMT+0200 2008
+Views        : 17
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+NC Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+'NC Zoo' elephant 

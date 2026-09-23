@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : pelican
+Photo URL    : https://www.flickr.com/photos/pelican/4354470/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 8 11:50:08 GMT+0100 2005
+Upload Date  : Sun Feb 6 17:44:18 GMT+0100 2005
+Views        : 824
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Ueno zoo, Tokyo, Japan
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Don't look at me.
+
+
++--------+
+|  TAGS  |
++--------+
+zoo ueno gorilla 

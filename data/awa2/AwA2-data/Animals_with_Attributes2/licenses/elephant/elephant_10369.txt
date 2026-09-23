@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : acmoraes
+Photo URL    : https://www.flickr.com/photos/acmoraes/2512603130/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 3 10:33:11 GMT+0200 2008
+Upload Date  : Thu May 22 00:54:47 GMT+0200 2008
+Geotag Info  : Latitude:-15.819671, Longitude:-47.961158
+Views        : 115
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

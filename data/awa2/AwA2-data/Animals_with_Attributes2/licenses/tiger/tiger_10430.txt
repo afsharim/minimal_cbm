@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : funkypancake
+Photo URL    : https://www.flickr.com/photos/funkypancake/408528804/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jan 1 00:00:00 GMT+0100 2007
+Upload Date  : Sat Mar 3 09:39:00 GMT+0100 2007
+Geotag Info  : Latitude:51.006491, Longitude:-1.309175
+Views        : 33
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+<a href="http://www.funkypancake.com/blog" rel="nofollow">www.funkypancake.com/blog</a>
+
+
++--------+
+|  TAGS  |
++--------+
+funkypancake jan07 tiger "marwell zoo" zoo animals www.funkypancake.com 

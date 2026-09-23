@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Dave Catchpole
+Photo URL    : https://www.flickr.com/photos/yaketyyakyak/4975054222/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Sep 7 12:58:34 GMT+0200 2010
+Upload Date  : Thu Sep 9 22:17:16 GMT+0200 2010
+Geotag Info  : Latitude:51.863347, Longitude:0.834853
+Views        : 254
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Colchester Zoo 07-09-10
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Chimpanzee
+
+
++--------+
+|  TAGS  |
++--------+
+"Colchester Zoo" Colchester Zoo Animals Essex Canon September 2010 Chimpanzee 

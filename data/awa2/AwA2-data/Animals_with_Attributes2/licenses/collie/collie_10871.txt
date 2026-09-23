@@ -1,0 +1,12 @@
++--------------------------------------+
+|       Pixabay Photo Metadata         |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : michelle dunbar
+Photo URL    : http://www.publicdomainpictures.net/view-image.php?image=16929&picture=border-collie-welpen
+License      : Public Domain (https://creativecommons.org/publicdomain/zero/1.0/)

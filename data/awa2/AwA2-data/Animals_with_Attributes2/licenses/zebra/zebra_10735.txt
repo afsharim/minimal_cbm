@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Martin Pettitt
+Photo URL    : https://www.flickr.com/photos/mdpettitt/2743221791/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Aug 5 10:22:59 GMT+0200 2008
+Upload Date  : Fri Aug 8 13:14:03 GMT+0200 2008
+Geotag Info  : Latitude:51.863275, Longitude:0.835690
+Views        : 754
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Colchester Zoo Essex
+
+
++--------+
+|  TAGS  |
++--------+
+zebra colchester zoo essex 

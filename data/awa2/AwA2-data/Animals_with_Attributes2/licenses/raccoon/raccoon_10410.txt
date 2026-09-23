@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Stéfan
+Photo URL    : https://www.flickr.com/photos/st3f4n/2736623424/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 2 23:56:02 GMT+0200 2008
+Upload Date  : Tue Aug 5 22:13:11 GMT+0200 2008
+Geotag Info  : Latitude:47.231036, Longitude:-1.207766
+Views        : 617
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Ratons laveurs
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"zoo de la boissière du doré" "la boissière du doré" 44 loire-atlantique "pays de la loire" "raton laveur" animal raccoon 

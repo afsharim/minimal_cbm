@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jdsmith1021
+Photo URL    : https://www.flickr.com/photos/jdsmith1021/3624370302/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 13 14:52:00 GMT+0200 2009
+Upload Date  : Sun Jun 14 07:09:16 GMT+0200 2009
+Geotag Info  : Latitude:45.509113, Longitude:-122.713594
+Views        : 247
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Oregon Zoo -- Giraffe 003
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"oregon zoo" oregon zoo portland pdx giraffe 

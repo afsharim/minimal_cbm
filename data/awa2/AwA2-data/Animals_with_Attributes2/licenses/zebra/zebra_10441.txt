@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : annrkiszt
+Photo URL    : https://www.flickr.com/photos/annrkiszt/3902380811/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Aug 25 13:05:45 GMT+0200 2009
+Upload Date  : Wed Sep 9 07:31:09 GMT+0200 2009
+Views        : 165
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+stripes
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Grey's Zebra
+
+
++--------+
+|  TAGS  |
++--------+
+"metro zoo" toronto animals exotic pentax zebra 

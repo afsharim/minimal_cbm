@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Keven Law
+Photo URL    : https://commons.wikimedia.org/wiki/File:European_polecat_by_Keven_Law.jpg
+License      : Creative Commons (https://en.wikipedia.org/wiki/en:Creative_Commons) Attribution-Share Alike 2.0 Generic (//creativecommons.org/licenses/by-sa/2.0/deed.en)
+Date         : 2008-08-17 15:03

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : choogie
+Photo URL    : https://www.flickr.com/photos/25898350@N06/3379630220/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Mar 20 13:15:30 GMT+0100 2009
+Upload Date  : Mon Mar 23 16:58:31 GMT+0100 2009
+Views        : 67
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+desert squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+desert "desert squirrel" arizona 

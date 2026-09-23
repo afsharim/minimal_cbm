@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : geopungo
+Photo URL    : https://www.flickr.com/photos/36319440@N05/3354591714/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Mar 3 00:08:16 GMT+0100 2009
+Upload Date  : Sat Mar 14 20:39:29 GMT+0100 2009
+Views        : 74
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer 2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Taken while geocaching in Virginia
+
+
++--------+
+|  TAGS  |
++--------+
+deer virginia animal nature brown 

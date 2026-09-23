@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : aka Kath
+Photo URL    : https://www.flickr.com/photos/aka_kath/2740567392/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Aug 5 10:06:30 GMT+0200 2008
+Upload Date  : Thu Aug 7 05:05:17 GMT+0200 2008
+Geotag Info  : Latitude:42.662399, Longitude:-86.209137
+Views        : 109
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"reunion 2008" saugatuck 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : robinbos
+Photo URL    : https://www.flickr.com/photos/robinbos/2679145105/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 17 15:53:13 GMT+0200 2008
+Upload Date  : Fri Jul 18 15:28:47 GMT+0200 2008
+Geotag Info  : Latitude:52.785673, Longitude:6.897203
+Views        : 976
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"noorder dierenpark" emmen tiger 

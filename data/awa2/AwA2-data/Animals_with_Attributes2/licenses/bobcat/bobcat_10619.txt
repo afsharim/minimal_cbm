@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Philippe Berdalle
+Photo URL    : https://www.flickr.com/photos/berdcris2011/383015807/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 3 17:02:19 GMT+0100 2007
+Upload Date  : Wed Feb 7 21:29:18 GMT+0100 2007
+Views        : 62
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+THOIRY
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+le chat descend du lynx  03/02/2007
+
+
++--------+
+|  TAGS  |
++--------+
+lynx 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : andrew_j_w
+Photo URL    : https://www.flickr.com/photos/andrew_j_w/4581237858/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Apr 30 15:21:03 GMT+0200 2010
+Upload Date  : Wed May 5 13:54:33 GMT+0200 2010
+Geotag Info  : Latitude:53.337689, Longitude:-2.025432
+Views        : 84
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"lyme park" "lyme hall" animal deer 

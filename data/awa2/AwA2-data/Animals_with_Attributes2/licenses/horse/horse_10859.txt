@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bengarrison
+Photo URL    : https://www.flickr.com/photos/bengarrison/640939995/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jun 19 09:28:59 GMT+0200 2007
+Upload Date  : Wed Jun 27 23:37:56 GMT+0200 2007
+Geotag Info  : Latitude:45.848730, Longitude:-84.618501
+Views        : 820
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horses
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+honeymoon michigan mackinaw island horses 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : petercastleton
+Photo URL    : https://www.flickr.com/photos/petercastleton/7170194679/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 4 19:33:49 GMT+0200 2012
+Upload Date  : Sat Jun 9 22:33:34 GMT+0200 2012
+Views        : 3,370
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+nosey cow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+don't think that's a bump on it's head
+
+
++--------+
+|  TAGS  |
++--------+
+cow bump nose 

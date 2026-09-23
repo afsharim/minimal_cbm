@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/4283191966/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri May 8 12:03:02 GMT+0200 2009
+Upload Date  : Sun Jan 17 23:24:30 GMT+0100 2010
+Geotag Info  : Latitude:46.934821, Longitude:7.449455
+Views        : 15,006
+Comments     : 28
+
+
++---------+
+|  TITLE  |
++---------+
+Scratching bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Another old (May 2009) brown bear picture taken in the Dählhölzli zoo in Bern, this time scratching his forehead, quite funny!
+
+
++--------+
+|  TAGS  |
++--------+
+bear ursus male brown water bath scratching claws funny dählhölzli zoo bern switzerland nikon d300 thinking 

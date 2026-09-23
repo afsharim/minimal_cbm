@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Alan Weir
+Photo URL    : https://www.flickr.com/photos/allys_scotland/3538793625/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 16 11:08:48 GMT+0200 2009
+Upload Date  : Sun May 17 19:03:12 GMT+0200 2009
+Views        : 60
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

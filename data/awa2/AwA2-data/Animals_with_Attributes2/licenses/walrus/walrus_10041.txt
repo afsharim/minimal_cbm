@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : How I See The World Around Me
+Photo URL    : https://www.flickr.com/photos/how_i_see_the_world/2394228355/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 6 14:37:57 GMT+0200 2008
+Upload Date  : Mon Apr 7 05:41:04 GMT+0200 2008
+Views        : 40
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Pacific Walrus
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+April 6th, 2008
+
+
++--------+
+|  TAGS  |
++--------+
+zoo 

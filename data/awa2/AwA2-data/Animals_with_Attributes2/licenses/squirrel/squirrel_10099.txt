@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Herkie
+Photo URL    : https://www.flickr.com/photos/dherholz/2294913473/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 24 14:49:54 GMT+0100 2008
+Upload Date  : Wed Feb 27 06:49:00 GMT+0100 2008
+Views        : 46
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Buffet
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+<a href="http://flickr.com/groups/project_365/">Project 365</a> day 55 of 365.
+
+
++--------+
+|  TAGS  |
++--------+
+project365 squirrel 

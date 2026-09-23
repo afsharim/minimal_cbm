@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : denn
+Photo URL    : https://www.flickr.com/photos/denn/2333235/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 19 19:58:37 GMT+0100 2004
+Upload Date  : Sun Dec 19 12:58:37 GMT+0100 2004
+Views        : 166
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lazy Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+animals tiger denn 

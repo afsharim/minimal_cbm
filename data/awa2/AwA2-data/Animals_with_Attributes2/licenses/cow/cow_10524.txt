@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : fsgm
+Photo URL    : https://www.flickr.com/photos/fmei/378856742/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 3 16:42:44 GMT+0100 2007
+Upload Date  : Sun Feb 4 01:42:44 GMT+0100 2007
+Geotag Info  : Latitude:27.335613, Longitude:-81.246085
+Views        : 93
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+cows
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+route 621 cows 

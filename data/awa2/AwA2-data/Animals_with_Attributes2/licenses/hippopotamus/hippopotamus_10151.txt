@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/15261916700/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 6 18:08:58 GMT+0200 2014
+Upload Date  : Sun Oct 5 18:00:08 GMT+0200 2014
+Geotag Info  : Latitude:49.244640, Longitude:6.137795
+Views        : 4,097
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Hippo at the surface
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Portrait of an hippopotamus at the surface of the water.
+
+
++--------+
+|  TAGS  |
++--------+
+hippo hippopotamus portrait face water surface amnéville zoo france nikon d4 

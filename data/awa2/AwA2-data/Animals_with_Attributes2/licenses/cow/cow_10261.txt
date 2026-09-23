@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Caitlinator
+Photo URL    : https://www.flickr.com/photos/caitlinator/1032559667/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 27 03:01:38 GMT+0200 2007
+Upload Date  : Tue Aug 7 01:09:38 GMT+0200 2007
+Views        : 185
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This calf was about eight months old.
+
+
++--------+
+|  TAGS  |
++--------+
+Vermont cow 

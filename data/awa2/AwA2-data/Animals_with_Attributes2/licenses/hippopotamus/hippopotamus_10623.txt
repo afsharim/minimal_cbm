@@ -1,0 +1,39 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Michael Fraley
+Photo URL    : https://www.flickr.com/photos/mrfraley/14270935165/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon May 12 12:48:32 GMT+0200 2014
+Upload Date  : Mon May 26 05:07:29 GMT+0200 2014
+Views        : 411
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+San Francisco Zoo 211
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Panasonic DMC-FZ28
+Leica 27-486mm/f2.8-4.4
+Auto ISO
+05/12/2014
+
+Hippopotamus
+
+
++--------+
+|  TAGS  |
++--------+
+Hippopotamus 

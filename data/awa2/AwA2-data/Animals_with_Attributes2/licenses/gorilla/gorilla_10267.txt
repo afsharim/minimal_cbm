@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ricketyus
+Photo URL    : https://www.flickr.com/photos/rickety/4711848512/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Mar 9 11:50:31 GMT+0100 2010
+Upload Date  : Fri Jun 18 15:37:24 GMT+0200 2010
+Views        : 272
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Gorilla Eating
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Fort Worth Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+Animal 

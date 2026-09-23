@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : HDValentin
+Photo URL    : https://www.flickr.com/photos/vbachem/6338578751/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Sep 1 00:00:00 GMT+0200 2011
+Upload Date  : Sun Nov 13 04:01:04 GMT+0100 2011
+Geotag Info  : Latitude:49.414742, Longitude:8.661957
+Views        : 171
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+ZooHD2011-055
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+2011 "Amt 11" Führung "Stadt Heidelberg" "Zoo Heidelberg" 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : eileenmak
+Photo URL    : https://www.flickr.com/photos/eileenmak/8247649753/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Nov 16 21:27:49 GMT+0100 2012
+Upload Date  : Thu Dec 6 01:05:50 GMT+0100 2012
+Views        : 23
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Perth Zoo. It is a type of river otter, but I don't know from where it comes.
+
+
++--------+
+|  TAGS  |
++--------+
+Australia "Perth, WA" "Perth Zoo" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : cogdogblog
+Photo URL    : https://www.flickr.com/photos/cogdog/5925431482/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 9 09:51:03 GMT+0200 2011
+Upload Date  : Mon Jul 11 08:02:28 GMT+0200 2011
+Geotag Info  : Latitude:42.545049, Longitude:-108.123836
+Views        : 366
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horse Talk
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horse wyoming odyssey 

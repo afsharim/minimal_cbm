@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : A.Davey
+Photo URL    : https://www.flickr.com/photos/adavey/5067637337/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Nov 7 16:56:58 GMT+0100 2007
+Upload Date  : Sun Oct 10 17:53:00 GMT+0200 2010
+Views        : 343
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hippos and Crocs
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Ethiopia, 2007.
+
+
++--------+
+|  TAGS  |
++--------+
+hippos hippopotami crocodiles ethiopia 

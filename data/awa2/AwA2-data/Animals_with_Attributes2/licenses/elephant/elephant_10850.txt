@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : rich115
+Photo URL    : https://www.flickr.com/photos/richardgiles/5312374736/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 1 14:45:36 GMT+0100 2011
+Upload Date  : Sat Jan 1 14:54:09 GMT+0100 2011
+Geotag Info  : Latitude:-8.517999, Longitude:115.353797
+Views        : 628
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Family Trip to Bali
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+bali elephant 

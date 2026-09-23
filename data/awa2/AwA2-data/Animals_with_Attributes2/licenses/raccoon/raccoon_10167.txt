@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/8458310542/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 23 17:48:31 GMT+0200 2012
+Upload Date  : Sat Feb 9 11:00:07 GMT+0100 2013
+Geotag Info  : Latitude:47.561469, Longitude:8.915491
+Views        : 9,851
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Portrait of a funny raccoon
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Cute and funny portrait of a raccoon, taken at the Plättli Zoo.
+
+
++--------+
+|  TAGS  |
++--------+
+raccoon portrait funny tongue plättli zoo frauenfeld switzerland nikon d4 

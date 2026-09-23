@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : tbridge
+Photo URL    : https://www.flickr.com/photos/tbridge/9375008396/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 26 15:31:37 GMT+0200 2013
+Upload Date  : Sat Jul 27 03:21:21 GMT+0200 2013
+Geotag Info  : Latitude:44.618737, Longitude:-124.047349
+Views        : 111
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Otter fight!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Oregon Coast Aquarium" "Newport Oregon" "Canon EF 24-105mm f/4L IS" 

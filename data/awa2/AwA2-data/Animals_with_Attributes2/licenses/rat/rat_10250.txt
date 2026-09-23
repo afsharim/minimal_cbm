@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jonathan_siberry
+Photo URL    : https://www.flickr.com/photos/jonathansiberry/8554755142/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Mar 13 13:00:26 GMT+0100 2013
+Upload Date  : Wed Mar 13 14:15:03 GMT+0100 2013
+Views        : 173
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Rat
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+rat mammal nature wildlife rodent 

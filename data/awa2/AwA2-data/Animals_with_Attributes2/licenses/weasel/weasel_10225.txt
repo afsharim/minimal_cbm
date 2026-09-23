@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Steve Hillebrand, USFWS
+Photo URL    : https://commons.wikimedia.org/wiki/File:Mustela_erminea_upright.jpg
+License      : public domain
+Date         : 2006-08-29

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : storebukkebruse
+Photo URL    : https://www.flickr.com/photos/tusnelda/17528297368/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 14 14:47:14 GMT+0200 2015
+Upload Date  : Sat May 16 08:50:17 GMT+0200 2015
+Views        : 401
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Met some cows
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

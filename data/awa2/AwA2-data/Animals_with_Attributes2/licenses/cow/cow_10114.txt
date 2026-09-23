@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : humphrey the camel
+Photo URL    : https://www.flickr.com/photos/humphreythecamel/1497578681/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Sep 17 20:52:29 GMT+0200 2007
+Upload Date  : Sat Oct 6 18:51:08 GMT+0200 2007
+Geotag Info  : Latitude:51.006194, Longitude:-4.289817
+Views        : 1,211
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Camel meets Cow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Humphrey is a little nervous meeting new friends...but they quickly strike up a conversation
+
+
++--------+
+|  TAGS  |
++--------+
+Humphrey Camel Coast Along 2007 Cow 

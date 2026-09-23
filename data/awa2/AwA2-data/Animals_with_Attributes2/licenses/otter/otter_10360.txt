@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Twmpyn
+Photo URL    : https://www.flickr.com/photos/twmpyn/6625627423/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Dec 19 13:14:56 GMT+0100 2011
+Upload Date  : Tue Jan 3 05:37:59 GMT+0100 2012
+Geotag Info  : Latitude:-34.924786, Longitude:138.596649
+Views        : 435
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+You'll see he's blind in the left eye
+
+
++--------+
+|  TAGS  |
++--------+
+adelaide zoo. otter 

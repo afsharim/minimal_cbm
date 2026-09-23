@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : asw909
+Photo URL    : https://www.flickr.com/photos/asw909/7355645772/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 9 12:31:33 GMT+0200 2012
+Upload Date  : Sun Jun 10 00:03:32 GMT+0200 2012
+Geotag Info  : Latitude:51.848530, Longitude:-0.541484
+Views        : 784
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Reticulated Giraffe: Whipsnade Zoo: 09-June 2012
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Whipsnade Zoo "Reticulated Giraffe" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : lynnz28
+Photo URL    : https://www.flickr.com/photos/lynnholland/2241057468/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Feb 1 13:23:06 GMT+0100 2008
+Upload Date  : Mon Feb 4 03:47:00 GMT+0100 2008
+Geotag Info  : Latitude:42.290516, Longitude:-83.710241
+Views        : 93
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Eating under the feeder
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Squirrel visitor
+
+
++--------+
+|  TAGS  |
++--------+
+wildlife squirrel winter food seeds 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : wanderingone
+Photo URL    : https://www.flickr.com/photos/wanderingone/362066449/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jan 18 11:22:02 GMT+0100 2007
+Upload Date  : Fri Jan 19 02:10:06 GMT+0100 2007
+Geotag Info  : Latitude:27.982917, Longitude:-82.460838
+Views        : 457
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Dizzy and Princess Kitty
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+cat persian mutt "cat and dog" dizzy "princess kitty" 

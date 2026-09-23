@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : spiraltri3e
+Photo URL    : https://www.flickr.com/photos/spiral/761220100/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 9 13:29:47 GMT+0200 2007
+Upload Date  : Mon Jul 9 14:29:47 GMT+0200 2007
+Views        : 709
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+hamster
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+animals pets hamster 

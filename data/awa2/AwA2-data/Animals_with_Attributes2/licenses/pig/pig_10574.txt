@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Beatrize C.
+Photo URL    : https://www.flickr.com/photos/86166514@N02/7899723424/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 31 20:02:24 GMT+0200 2012
+Upload Date  : Fri Aug 31 14:12:28 GMT+0200 2012
+Views        : 19
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+pigs 

@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : majunznk
+Photo URL    : https://www.flickr.com/photos/majunznk/16132521710/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jan 8 00:00:00 GMT+0100 2015
+Upload Date  : Mon Jan 19 20:48:55 GMT+0100 2015
+Geotag Info  : Latitude:37.749552, Longitude:-122.146596
+Views        : 559
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Oakland Zoo
+Oakland, CA
+December 2014
+
+
++--------+
+|  TAGS  |
++--------+
+"Oakland Zoo" Giraffes 

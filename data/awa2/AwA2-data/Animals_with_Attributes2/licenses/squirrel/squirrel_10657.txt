@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : macinjoshdotcom
+Photo URL    : https://www.flickr.com/photos/macinjoshdotcom/400096714/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Feb 23 16:06:29 GMT+0100 2007
+Upload Date  : Fri Feb 23 22:20:50 GMT+0100 2007
+Geotag Info  : Latitude:42.729085, Longitude:-84.479970
+Views        : 34
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

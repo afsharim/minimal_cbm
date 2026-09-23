@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ljheidel
+Photo URL    : https://www.flickr.com/photos/ljheidel/956684379/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 15 12:43:04 GMT+0200 2007
+Upload Date  : Tue Jul 31 03:28:21 GMT+0200 2007
+Geotag Info  : Latitude:39.785026, Longitude:-86.113693
+Views        : 41
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_5498
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Indiana Squirrels 

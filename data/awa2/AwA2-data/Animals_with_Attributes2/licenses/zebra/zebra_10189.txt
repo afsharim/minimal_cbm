@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : kuribo
+Photo URL    : https://www.flickr.com/photos/kuribo/8211052128/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Mar 20 16:14:41 GMT+0100 2008
+Upload Date  : Fri Nov 23 11:40:25 GMT+0100 2012
+Views        : 225
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Grant's Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Animal "Grant's Zebra" "Equus quagga boehmi" 

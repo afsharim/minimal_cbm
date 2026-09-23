@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : HarmonyonPlanetEarth
+Photo URL    : https://www.flickr.com/photos/barrigoni/8068603169/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Oct 1 08:51:02 GMT+0200 2012
+Upload Date  : Tue Oct 9 00:01:31 GMT+0200 2012
+Views        : 6
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bobcat | Pt Reyes | 2012-10-01at08-51-02
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

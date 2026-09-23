@@ -1,0 +1,40 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : TheGrantPeters
+Photo URL    : https://www.flickr.com/photos/grantpetersphotography/7033028489/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 24 11:55:32 GMT+0100 2012
+Upload Date  : Sat Mar 31 22:56:27 GMT+0200 2012
+Geotag Info  : Latitude:-17.964853, Longitude:25.739593
+Views        : 584
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+A family of Hippos
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Model: Canon EOS 7D
+Lens: Canon EF 100-400mm f/4.5-5.6L
+ISO: 160
+Focal Length: 400mm
+
+Spotted: Zambezi River, Southern Zambia | Dusk
+
+
++--------+
+|  TAGS  |
++--------+
+Hippopotamus Africa Zambia Zambezi River Victoria Falls 

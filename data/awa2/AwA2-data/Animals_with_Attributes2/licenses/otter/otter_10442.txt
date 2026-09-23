@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : brian.gratwicke
+Photo URL    : https://www.flickr.com/photos/briangratwicke/24371106864/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 13 10:26:25 GMT+0100 2016
+Upload Date  : Sat Feb 13 17:49:05 GMT+0100 2016
+Views        : 381
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+taxonomy:kingdom=Animalia Animalia taxonomy:phylum=Chordata Chordata taxonomy:subphylum=Vertebrata Vertebrata taxonomy:class=Mammalia Mammalia taxonomy:order=Carnivora Carnivora taxonomy:family=Mustelidae Mustelidae taxonomy:genus=Lontra Lontra taxonomy:species=canadensis "taxonomy:binomial=Lontra canadensis" "Lontra canadensis" "Northern River Otter" "North American Otter" "Nutria De Canad" "river otter" "loutre de rivière" "Nutria Norteamericana" "Loutre Du Canada" "North American River Otter" "Nutria de río norteamericana" "taxonomy:common=Northern River Otter" "taxonomy:common=North American Otter" "taxonomy:common=Nutria De Canad" "taxonomy:common=river otter" "taxonomy:common=loutre de rivière" "taxonomy:common=Nutria Norteamericana" "taxonomy:common=Loutre Du Canada" "taxonomy:common=North American River Otter" "taxonomy:common=Nutria de río norteamericana" 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : vic15
+Photo URL    : https://www.flickr.com/photos/vic15/4297388405/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 23 17:38:22 GMT+0100 2010
+Upload Date  : Sat Jan 23 18:00:33 GMT+0100 2010
+Views        : 830
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+sleepy hamster
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+hamster pet animal cute 

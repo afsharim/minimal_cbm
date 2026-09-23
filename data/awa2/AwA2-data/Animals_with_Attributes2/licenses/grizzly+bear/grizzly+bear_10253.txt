@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bgreenlee
+Photo URL    : https://www.flickr.com/photos/bgreenlee/8604956260/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 30 14:32:02 GMT+0100 2013
+Upload Date  : Sun Mar 31 05:31:06 GMT+0200 2013
+Geotag Info  : Latitude:47.669751, Longitude:-122.350788
+Views        : 311
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Brown Bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Woodland Park Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

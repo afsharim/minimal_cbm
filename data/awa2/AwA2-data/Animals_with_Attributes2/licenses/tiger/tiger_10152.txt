@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Raphael Quinet
+Photo URL    : https://www.flickr.com/photos/raphaelquinet/1321825026/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 1 16:23:49 GMT+0200 2007
+Upload Date  : Tue Sep 4 16:25:06 GMT+0200 2007
+Geotag Info  : Latitude:50.499533, Longitude:5.741579
+Views        : 84
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+MondeSauvage-162349
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Tiger / <i>Tigre (Panthera tigris)</i>
+
+
++--------+
+|  TAGS  |
++--------+
+Belgium Aywaille MondeSauvage tiger 

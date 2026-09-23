@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : joebiologyuni
+Photo URL    : https://www.flickr.com/photos/joebiologyuni/3532751178/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 14 21:38:12 GMT+0200 2009
+Upload Date  : Fri May 15 04:38:12 GMT+0200 2009
+Views        : 300
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A tiger shot through bars, relaxing in the golden glow of the evening sun at the Blank Park Zoo in Des Moines, Iowa.
+
+
++--------+
+|  TAGS  |
++--------+
+tiger zoo "blank park zoo" animal "big cat" cat desmoines 40d animals 

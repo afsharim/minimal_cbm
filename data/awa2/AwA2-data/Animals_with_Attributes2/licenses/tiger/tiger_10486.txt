@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ojbyrne
+Photo URL    : https://www.flickr.com/photos/ojbyrne/2760844963/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 4 12:39:23 GMT+0200 2008
+Upload Date  : Thu Aug 14 03:42:47 GMT+0200 2008
+Geotag Info  : Latitude:45.042963, Longitude:-73.521602
+Views        : 449
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Quebec "Parc Safari" Tiger 

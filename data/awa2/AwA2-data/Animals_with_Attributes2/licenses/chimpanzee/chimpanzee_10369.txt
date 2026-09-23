@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : The Dilly Lama
+Photo URL    : https://www.flickr.com/photos/dylwalters/1202675601/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 15 02:15:44 GMT+0200 2007
+Upload Date  : Wed Aug 22 16:29:34 GMT+0200 2007
+Geotag Info  : Latitude:0.315340, Longitude:32.578926
+Views        : 1,855
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Chimpanzees
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The genetic closest primate to humans. In the Uganda Wildlife Education Centre in Entebbe.
+
+
++--------+
+|  TAGS  |
++--------+
+Uganda "East Africa" Africa Travel Backpacking Chimpanzee 

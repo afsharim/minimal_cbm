@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mattlingard
+Photo URL    : https://www.flickr.com/photos/madrattling/8435663044/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 7 16:56:49 GMT+0200 2012
+Upload Date  : Fri Feb 1 15:50:48 GMT+0100 2013
+Geotag Info  : Latitude:35.663713, Longitude:-121.258239
+Views        : 51
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant Seals
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : dyniss
+Photo URL    : https://www.flickr.com/photos/dyniss/5919902461/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 30 20:30:06 GMT+0200 2011
+Upload Date  : Sun Jul 10 02:44:17 GMT+0200 2011
+Geotag Info  : Latitude:35.595623, Longitude:-121.126195
+Views        : 615
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sleepy Seal
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Cute little sleepy fella sunbathing.
+
+
++--------+
+|  TAGS  |
++--------+
+elephant seal seals coast land sand 

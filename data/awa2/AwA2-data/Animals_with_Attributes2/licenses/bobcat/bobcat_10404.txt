@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Lazurite
+Photo URL    : https://www.flickr.com/photos/lazurite/4621631942/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 16 11:34:43 GMT+0200 2010
+Upload Date  : Wed May 19 15:26:10 GMT+0200 2010
+Geotag Info  : Latitude:41.669688, Longitude:-86.218396
+Views        : 756
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Günther the Bobcat
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Potawatomi Zoo
+May 16, 2010
+
+
++--------+
+|  TAGS  |
++--------+
+gunther bobcat "potawatomi zoo" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sewm
+Photo URL    : https://www.flickr.com/photos/sewm/4842073313/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 1 18:31:59 GMT+0200 2010
+Upload Date  : Fri Jul 30 04:29:02 GMT+0200 2010
+Geotag Info  : Latitude:45.555166, Longitude:-78.586667
+Views        : 70
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+algonquin camping nature moose 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Photommo
+Photo URL    : https://www.flickr.com/photos/photommo/5920462183/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 1 21:30:01 GMT+0200 2011
+Upload Date  : Sun Jul 10 06:32:42 GMT+0200 2011
+Geotag Info  : Latitude:48.554355, Longitude:-114.007894
+Views        : 237
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Grizzly Bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Camas Rd., Glacier National Park
+
+
++--------+
+|  TAGS  |
++--------+
+Glacier National Park Montana USA 2011 grizzly Bear wildlife fauna brown animal 

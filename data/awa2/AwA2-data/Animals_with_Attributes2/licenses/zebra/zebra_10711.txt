@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : tehbieber
+Photo URL    : https://www.flickr.com/photos/tehbieber/2069849475/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Nov 2 09:02:39 GMT+0100 2007
+Upload Date  : Wed Nov 28 05:13:03 GMT+0100 2007
+Geotag Info  : Latitude:28.039163, Longitude:-82.418982
+Views        : 122
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A zebra I photographed at Busch Gardens, about a month ago (yes, I know, the photographs are going up late...)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

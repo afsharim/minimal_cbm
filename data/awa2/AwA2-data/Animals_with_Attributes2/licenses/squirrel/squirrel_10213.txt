@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : OwenXu
+Photo URL    : https://www.flickr.com/photos/owenxu/5893400220/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 2 00:33:20 GMT+0200 2011
+Upload Date  : Sat Jul 2 09:33:20 GMT+0200 2011
+Geotag Info  : Latitude:36.057070, Longitude:-112.140734
+Views        : 172
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Got any food?
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Fat little squirrel scavenging for food
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel "grand canyon" 

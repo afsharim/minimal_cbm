@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : view from 5'2"
+Photo URL    : https://www.flickr.com/photos/viewfrom52/2081809198/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Nov 22 09:04:06 GMT+0100 2007
+Upload Date  : Sun Dec 2 21:18:06 GMT+0100 2007
+Geotag Info  : Latitude:-24.261989, Longitude:31.530761
+Views        : 6,114
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Best Elephant Photo!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+yes, he was THAT close
+
+
++--------+
+|  TAGS  |
++--------+
+africa safari kruger elephant 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : size4riggerboots
+Photo URL    : https://www.flickr.com/photos/tamsintog/12644257275/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Sep 14 09:08:09 GMT+0200 2012
+Upload Date  : Thu Feb 20 01:33:56 GMT+0100 2014
+Geotag Info  : Latitude:-54.282439, Longitude:-36.489994
+Views        : 65
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Fur Seals, South Georgia
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Pharos SG" "South Georgia" 

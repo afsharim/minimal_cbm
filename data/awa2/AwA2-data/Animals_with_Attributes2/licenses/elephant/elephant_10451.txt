@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : russellstreet
+Photo URL    : https://www.flickr.com/photos/russellstreet/4387203758/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 28 14:01:31 GMT+0100 2008
+Upload Date  : Thu Feb 25 11:17:53 GMT+0100 2010
+Geotag Info  : Latitude:-33.844459, Longitude:151.241116
+Views        : 307
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Animal "Asiatic Elephant" Australia Elephant "Elephas maximus" Sydney "Taronga Zoo" "New South Wales" AU 

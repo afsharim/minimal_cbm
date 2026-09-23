@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Capt' Gorgeous
+Photo URL    : https://www.flickr.com/photos/ben_salter/3263846770/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 8 12:26:07 GMT+0100 2009
+Upload Date  : Sun Feb 8 18:02:54 GMT+0100 2009
+Geotag Info  : Latitude:51.577762, Longitude:-3.668661
+Views        : 509
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Woolly Jumpers
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+sheep snow wool 

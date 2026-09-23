@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : dwmizell
+Photo URL    : https://www.flickr.com/photos/dwmizell/5693510349/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri May 6 12:35:05 GMT+0200 2011
+Upload Date  : Fri May 6 20:32:47 GMT+0200 2011
+Geotag Info  : Latitude:41.833090, Longitude:-83.476020
+Views        : 143
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Juplen 400mm f/6.3 lens.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

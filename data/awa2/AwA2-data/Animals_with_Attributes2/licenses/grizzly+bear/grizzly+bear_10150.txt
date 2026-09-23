@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/17106147306/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 18 12:21:08 GMT+0100 2015
+Upload Date  : Mon Apr 13 11:00:11 GMT+0200 2015
+Geotag Info  : Latitude:47.050651, Longitude:8.554229
+Views        : 4,284
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Bear walking over the river
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+I like this picture of a brown bear crossing the river!
+
+
++--------+
+|  TAGS  |
++--------+
+crossing river snow winter water profile paw action bear brown european tierpark zoo arth goldau switzerland nikon d4 

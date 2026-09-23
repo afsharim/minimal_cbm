@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : amandabhslater
+Photo URL    : https://www.flickr.com/photos/pikerslanefarm/9087824368/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 17 14:09:06 GMT+0200 2013
+Upload Date  : Wed Jun 19 21:29:20 GMT+0200 2013
+Geotag Info  : Latitude:52.051540, Longitude:1.435861
+Views        : 1,012
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Suffolk Horses
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Suffolk Punch Trust. Hollesley, Suffolk
+
+
++--------+
+|  TAGS  |
++--------+
+Suffolk horse Hollesley punch 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Joei2013
+Photo URL    : https://www.flickr.com/photos/joei2013/8549878695/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 10 07:54:45 GMT+0100 2013
+Upload Date  : Tue Mar 12 05:53:33 GMT+0100 2013
+Views        : 19
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_3229
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : VirtualWolf
+Photo URL    : https://www.flickr.com/photos/virtualwolf/4699128612/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 13 15:00:26 GMT+0200 2010
+Upload Date  : Mon Jun 14 08:04:56 GMT+0200 2010
+Geotag Info  : Latitude:-34.482345, Longitude:150.799863
+Views        : 1,627
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Stoned Cow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+&quot;Duuuuuude. This grass is sweeeeeeet.&quot;
+
+
++--------+
+|  TAGS  |
++--------+
+Places Cow "New South Wales" "Kembla Grange" Equipment Domesticated Australia "South Coast" "Canon EF 35mm f/2" "Canon EOS 7D" Animal 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : windytan
+Photo URL    : https://www.flickr.com/photos/windytan/9537390463/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 18 13:55:26 GMT+0200 2013
+Upload Date  : Sun Aug 18 19:27:46 GMT+0200 2013
+Geotag Info  : Latitude:60.175021, Longitude:24.988453
+Views        : 1,480
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Brown bear (Ursus arctos)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+korkeasaari 

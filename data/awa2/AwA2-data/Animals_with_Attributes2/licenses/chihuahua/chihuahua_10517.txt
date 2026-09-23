@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : tv42
+Photo URL    : https://www.flickr.com/photos/tv42/4172808585/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 28 14:35:52 GMT+0200 2009
+Upload Date  : Thu Dec 10 04:36:10 GMT+0100 2009
+Geotag Info  : Latitude:34.197999, Longitude:-118.340000
+Views        : 307
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Two laptops at work
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+And some yummy Gai Kuo.
+
+
++--------+
+|  TAGS  |
++--------+
+dog chihuahua 

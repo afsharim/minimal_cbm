@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Yukari*
+Photo URL    : https://www.flickr.com/photos/yukariryu/121153744/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 1 16:57:31 GMT+0200 2006
+Upload Date  : Sat Apr 1 10:57:31 GMT+0200 2006
+Views        : 32,018
+Comments     : 11
+
+
++---------+
+|  TITLE  |
++---------+
+hamster
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+pet hamster hamutaro mouse 

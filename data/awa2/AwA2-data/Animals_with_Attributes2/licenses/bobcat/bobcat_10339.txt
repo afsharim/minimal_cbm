@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Rusty Clark - On the Air M-F 8am-noon
+Photo URL    : https://www.flickr.com/photos/rusty_clark/8143142531/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Oct 30 14:11:57 GMT+0100 2012
+Upload Date  : Thu Nov 1 01:25:34 GMT+0100 2012
+Views        : 196
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Brevard Zoo, Viera FL
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+bobcat
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

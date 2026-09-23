@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : little miss ladybug
+Photo URL    : https://www.flickr.com/photos/61556972@N05/5725827469/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 18 15:13:13 GMT+0200 2009
+Upload Date  : Mon May 16 14:26:30 GMT+0200 2011
+Views        : 430
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hippopotamus
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+hippopotamus 

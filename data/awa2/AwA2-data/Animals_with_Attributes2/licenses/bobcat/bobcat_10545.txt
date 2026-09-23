@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : BiTurbo228
+Photo URL    : https://www.flickr.com/photos/81749070@N07/8526496544/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 11 14:05:30 GMT+0200 2011
+Upload Date  : Mon Mar 4 00:41:33 GMT+0100 2013
+Views        : 42
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lynx
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

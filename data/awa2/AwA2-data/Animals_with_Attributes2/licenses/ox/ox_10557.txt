@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : RNW.org
+Photo URL    : https://www.flickr.com/photos/rnw/6321563927/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 5 03:59:59 GMT+0100 2011
+Upload Date  : Mon Nov 7 12:07:24 GMT+0100 2011
+Views        : 188
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Reporoa
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Foto: Margo de Haas
+
+Koe van Brigitte van Zaal en tomatenkweker Bert van Geffen in Reporoa
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

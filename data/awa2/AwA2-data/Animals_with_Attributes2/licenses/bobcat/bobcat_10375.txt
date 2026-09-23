@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Just chaos
+Photo URL    : https://www.flickr.com/photos/7326810@N08/2453883088/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Apr 11 10:28:03 GMT+0200 2008
+Upload Date  : Wed Apr 30 06:16:04 GMT+0200 2008
+Views        : 624
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Eurasian Lynx - Angara
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

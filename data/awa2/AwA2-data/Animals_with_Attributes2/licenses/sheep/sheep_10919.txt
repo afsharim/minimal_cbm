@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Morten Holm
+Photo URL    : https://www.flickr.com/photos/mortenholm/3349101825/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 21 16:22:37 GMT+0100 2009
+Upload Date  : Thu Mar 12 20:26:19 GMT+0100 2009
+Geotag Info  : Latitude:55.659226, Longitude:12.137918
+Views        : 87
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Sheep by Munkesøgaard
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

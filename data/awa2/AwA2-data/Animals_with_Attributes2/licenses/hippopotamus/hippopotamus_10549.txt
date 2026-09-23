@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : liesvanrompaey
+Photo URL    : https://www.flickr.com/photos/liesvanrompaey/5610502931/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Apr 11 19:03:06 GMT+0200 2011
+Upload Date  : Mon Apr 11 22:03:06 GMT+0200 2011
+Geotag Info  : Latitude:16.037317, Longitude:-16.471595
+Views        : 719
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Not in a zoo!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+nijlpaard hippopotamus hippopotame "Hippopotamus amphibius" Senegal Bango "Senegal river" "taxonomy:binomial=Hippopotamus amphibius" taxonomy:kingdom=Animalia Animalia taxonomy:phylum=Chordata Chordata taxonomy:class=Mammalia Mammalia taxonomy:order=Cetartiodactyla Cetartiodactyla taxonomy:family=Hippopotamidae Hippopotamidae taxonomy:genus=Hippopotamus taxonomy:species=amphibius "Common Hippopotamus" "Large Hippo" Hipop taxonomy:common=hippopotamus "taxonomy:common=Common Hippopotamus" "taxonomy:common=Large Hippo" taxonomy:common=Hippopotame taxonomy:common=Hipop 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : andrewmalone
+Photo URL    : https://www.flickr.com/photos/andrewmalone/1491312701/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Sep 21 17:49:16 GMT+0200 2007
+Upload Date  : Fri Oct 5 23:56:12 GMT+0200 2007
+Geotag Info  : Latitude:42.379830, Longitude:-71.410928
+Views        : 1,087
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Arabian horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+animal horse 

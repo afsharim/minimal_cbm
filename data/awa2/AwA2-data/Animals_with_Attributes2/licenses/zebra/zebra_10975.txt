@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Marcus Hansson
+Photo URL    : https://www.flickr.com/photos/marcus_hansson/2732101045/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 15 12:46:03 GMT+0200 2008
+Upload Date  : Mon Aug 4 20:16:40 GMT+0200 2008
+Geotag Info  : Latitude:58.666450, Longitude:16.440696
+Views        : 262
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra, eating.
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+2008 

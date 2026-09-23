@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jans canon
+Photo URL    : https://www.flickr.com/photos/43158397@N02/5121576728/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 24 14:23:26 GMT+0200 2010
+Upload Date  : Wed Oct 27 22:07:30 GMT+0200 2010
+Views        : 1,104
+Comments     : 7
+
+
++---------+
+|  TITLE  |
++---------+
+Autumn squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel autumn 

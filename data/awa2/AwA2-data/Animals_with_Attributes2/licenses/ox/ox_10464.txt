@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Adam Jones, Ph.D. - Global Photo Archive
+Photo URL    : https://www.flickr.com/photos/adam_jones/12225326536/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jan 20 21:54:16 GMT+0100 2014
+Upload Date  : Thu Jan 30 23:54:27 GMT+0100 2014
+Views        : 209
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Man with Buffalo - Outside Hsipaw - Myanmar (Burma)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

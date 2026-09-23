@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mike193823319483
+Photo URL    : https://www.flickr.com/photos/89376071@N07/19286802512/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 13 15:08:17 GMT+0200 2015
+Upload Date  : Tue Jun 30 02:27:11 GMT+0200 2015
+Views        : 19
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_8957
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+rat
+
+
++--------+
+|  TAGS  |
++--------+
+young rat 

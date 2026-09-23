@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Nigel's Europe & beyond 2
+Photo URL    : https://www.flickr.com/photos/zooeurope/14304975446/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 25 09:33:57 GMT+0200 2014
+Upload Date  : Mon Jun 2 12:14:17 GMT+0200 2014
+Views        : 474
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Singapore Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Zebra
+
+
++--------+
+|  TAGS  |
++--------+
+"Singapore Zoo" Zebra 

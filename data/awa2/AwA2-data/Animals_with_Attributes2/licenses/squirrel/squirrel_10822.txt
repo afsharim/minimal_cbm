@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : likeaduck
+Photo URL    : https://www.flickr.com/photos/thartz00/5042382205/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 2 12:35:34 GMT+0200 2010
+Upload Date  : Sat Oct 2 00:42:13 GMT+0200 2010
+Geotag Info  : Latitude:39.821367, Longitude:-75.761997
+Views        : 468
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel 

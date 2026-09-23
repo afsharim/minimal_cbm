@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Martin Cathrae
+Photo URL    : https://www.flickr.com/photos/suckamc/4172223092/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Dec 5 15:56:58 GMT+0100 2009
+Upload Date  : Wed Dec 9 17:31:06 GMT+0100 2009
+Geotag Info  : Latitude:36.609792, Longitude:-121.895692
+Views        : 1,590
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Sea Otters
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The best picture I could get of wild sea otters.  I only saw one at a distance after this, and even this wasn't very close.  (or very good conditions)
+
+
++--------+
+|  TAGS  |
++--------+
+"sea otter" otter pacific ocean mammal cute 

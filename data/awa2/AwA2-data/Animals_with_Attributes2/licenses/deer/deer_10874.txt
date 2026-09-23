@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jan Tik
+Photo URL    : https://www.flickr.com/photos/jantik/4992200/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Feb 17 13:54:39 GMT+0100 2005
+Upload Date  : Fri Feb 18 09:13:55 GMT+0100 2005
+Geotag Info  : Latitude:48.139057, Longitude:-122.765350
+Views        : 932
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+Have a Heart
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+How about some hay? (Blacktail deer)
+
+
++--------+
+|  TAGS  |
++--------+
+blacktail deer top-v111 

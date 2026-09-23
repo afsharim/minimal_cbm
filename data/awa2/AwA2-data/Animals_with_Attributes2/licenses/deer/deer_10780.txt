@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bobosh_t
+Photo URL    : https://www.flickr.com/photos/frted/4097574883/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Nov 12 13:33:22 GMT+0100 2008
+Upload Date  : Thu Nov 12 15:09:07 GMT+0100 2009
+Views        : 57
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_0059
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Deer 

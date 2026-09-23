@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Gog Llundain
+Photo URL    : https://www.flickr.com/photos/gogllundain/2911855322/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Apr 24 15:11:20 GMT+0200 2008
+Upload Date  : Sat Oct 4 11:23:55 GMT+0200 2008
+Geotag Info  : Latitude:51.188435, Longitude:-2.271938
+Views        : 489
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Longleat - Nico
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Gorilla Nico Longleat 

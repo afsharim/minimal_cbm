@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : candyschwartz
+Photo URL    : https://www.flickr.com/photos/candy-s/6366176437/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 7 11:28:09 GMT+0200 2011
+Upload Date  : Sun Nov 20 01:46:12 GMT+0100 2011
+Geotag Info  : Latitude:50.178663, Longitude:-5.425862
+Views        : 304
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Paradise Park, Cornwall
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Sheep
+
+
++--------+
+|  TAGS  |
++--------+
+"Paradise Park, Cornwall" sheep 

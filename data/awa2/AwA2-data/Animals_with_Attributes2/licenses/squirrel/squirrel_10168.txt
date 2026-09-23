@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : aeu04117
+Photo URL    : https://www.flickr.com/photos/aeu04117/359663920/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jan 16 14:08:27 GMT+0100 2007
+Upload Date  : Tue Jan 16 19:36:10 GMT+0100 2007
+Geotag Info  : Latitude:55.869387, Longitude:-4.283809
+Views        : 181
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+DSCF0510
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+I'm so proud of this photograph of a squirrel
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel nuts "Kelvingrove park" 

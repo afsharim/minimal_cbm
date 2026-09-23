@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Nickolas Titkov
+Photo URL    : https://www.flickr.com/photos/titkov/2440570506/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 5 15:16:20 GMT+0200 2008
+Upload Date  : Fri Apr 25 08:15:20 GMT+0200 2008
+Geotag Info  : Latitude:55.830287, Longitude:37.641348
+Views        : 266
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+PER
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+05/04/2008
+Выставка «Содружество-2008»
+PER
+
+
++--------+
+|  TAGS  |
++--------+
+Содружество; Sodruzhestvo; cat show; выставка; кошки; cats; PER Persian Персидские 

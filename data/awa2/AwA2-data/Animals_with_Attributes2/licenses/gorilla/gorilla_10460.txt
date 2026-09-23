@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : にほ
+Photo URL    : https://www.flickr.com/photos/nihongi/4452690599/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 21 08:26:00 GMT+0100 2010
+Upload Date  : Mon Mar 22 05:47:27 GMT+0100 2010
+Geotag Info  : Latitude:37.731582, Longitude:-122.504618
+Views        : 411
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Gorilla@SF Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

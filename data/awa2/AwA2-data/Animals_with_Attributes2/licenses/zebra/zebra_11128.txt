@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Chris Alban Hansen
+Photo URL    : https://www.flickr.com/photos/chrisalban/8922415198/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 21 16:47:39 GMT+0200 2013
+Upload Date  : Sun Jun 2 11:56:57 GMT+0200 2013
+Geotag Info  : Latitude:55.670905, Longitude:12.520766
+Views        : 134
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebras
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Zoo Copenhagen
+
+
++--------+
+|  TAGS  |
++--------+
+"Zoo Copenhagen" 

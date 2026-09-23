@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : kat93117
+Photo URL    : https://www.flickr.com/photos/kat226/4246985696/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jan 4 12:11:48 GMT+0100 2010
+Upload Date  : Tue Jan 5 04:43:33 GMT+0100 2010
+Views        : 40
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bobcat
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

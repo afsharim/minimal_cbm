@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : BIGDOG3c (J. Todd Poling)
+Photo URL    : https://www.flickr.com/photos/bigdog3c/2739797975/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 2 13:58:49 GMT+0200 2008
+Upload Date  : Thu Aug 7 05:32:42 GMT+0200 2008
+Views        : 134
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Ohio State Fair 2008
+
+
++--------+
+|  TAGS  |
++--------+
+"Ohio State Fair" BIGDOG3c "Canon 40D" Canon 

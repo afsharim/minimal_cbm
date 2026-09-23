@@ -1,0 +1,38 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Matt McGee
+Photo URL    : https://www.flickr.com/photos/pleeker/133313766/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Apr 7 09:40:44 GMT+0200 2006
+Upload Date  : Sun Apr 23 09:59:32 GMT+0200 2006
+Views        : 1,128
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+&quot;Nature's great masterpiece, an Elephant. The only harmless great thing; the giant of beasts.&quot; 
+
+- John Donne in <i>The Progress of the Soul</i>
+
+Photo taken at the Oregon Zoo, Portland, Ore.
+
+
++--------+
+|  TAGS  |
++--------+
+elephant animal zoo "oregon zoo" portland oregon sepia animalplanet 

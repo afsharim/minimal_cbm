@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : blprnt_van
+Photo URL    : https://www.flickr.com/photos/blprnt/9410704282/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 29 13:08:57 GMT+0200 2013
+Upload Date  : Wed Jul 31 19:38:24 GMT+0200 2013
+Views        : 366
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

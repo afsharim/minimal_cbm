@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : fireflythegreat
+Photo URL    : https://www.flickr.com/photos/fireflythegreat/5577910495/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Mar 30 17:42:42 GMT+0200 2011
+Upload Date  : Fri Apr 1 03:00:03 GMT+0200 2011
+Geotag Info  : Latitude:42.994586, Longitude:-85.738594
+Views        : 531
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bobcat
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+bobcat 

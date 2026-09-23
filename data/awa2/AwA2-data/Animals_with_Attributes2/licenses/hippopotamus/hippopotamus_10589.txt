@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Kentaro Ohno
+Photo URL    : https://www.flickr.com/photos/inucara/15198579185/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 4 13:30:01 GMT+0100 2014
+Upload Date  : Wed Sep 10 15:44:33 GMT+0200 2014
+Geotag Info  : Latitude:43.769322, Longitude:142.478741
+Views        : 193
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+カバ / Hippopotamus
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+旭山動物園 / Asahiyama Zoo
+Asahikawa, Hokkaido
+
+
++--------+
+|  TAGS  |
++--------+
+旭山動物園 動物園 zoo 旭川 北海道 旭川市 日本 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bsterling
+Photo URL    : https://www.flickr.com/photos/bsterling/5964621872/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jun 28 13:23:59 GMT+0200 2011
+Upload Date  : Fri Jul 22 18:48:29 GMT+0200 2011
+Geotag Info  : Latitude:51.239498, Longitude:-115.856498
+Views        : 246
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Grizzly
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : dreel
+Photo URL    : https://www.flickr.com/photos/dreel/449222577/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 3 13:00:20 GMT+0200 2006
+Upload Date  : Sat Apr 7 10:40:44 GMT+0200 2007
+Views        : 13
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+2326
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+pig 

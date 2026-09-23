@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : generalising
+Photo URL    : https://www.flickr.com/photos/shimgray/2797797966/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 24 12:01:27 GMT+0200 2008
+Upload Date  : Mon Aug 25 22:37:09 GMT+0200 2008
+Views        : 205
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+p1210593
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Common hippopotamus (Hippopotamus amphibius) at Whipsnade Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+hippopotamus "Hippopotamus amphibius" 

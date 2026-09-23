@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : PretendSky
+Photo URL    : https://www.flickr.com/photos/115521320@N03/12182315896/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Mar 29 17:10:55 GMT+0200 2011
+Upload Date  : Tue Jan 28 04:09:07 GMT+0100 2014
+Views        : 22
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Milo the hamster
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+holds still for 3 seconds
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Olivier Bruchez
+Photo URL    : https://www.flickr.com/photos/bruchez/223154991/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 2 13:54:41 GMT+0200 2006
+Upload Date  : Wed Aug 23 23:02:35 GMT+0200 2006
+Geotag Info  : Latitude:46.002618, Longitude:7.326676
+Views        : 409
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+bonatchiesse mauvoisin wallis valais switzerland suisse alps alpes mountain montagne hiking randonnée bagnes mountains montagnes europe animal animals animaux sheep mouton moutons geo:lat=46.002618 geo:lon=7.326676 geotagged "approximately geotagged" 

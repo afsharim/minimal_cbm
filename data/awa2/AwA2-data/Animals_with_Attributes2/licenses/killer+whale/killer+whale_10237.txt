@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : roger4336
+Photo URL    : https://www.flickr.com/photos/24736216@N07/4941651992/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 1 00:00:00 GMT+0100 1996
+Upload Date  : Mon Aug 30 14:43:12 GMT+0200 2010
+Geotag Info  : Latitude:28.409652, Longitude:-81.459052
+Views        : 6,423
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Sea World - Orca in Shamu Stadium
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Two orca (&quot;killer whales&quot;)  in a performance at Shamu Stadium at Sea World, in Orlando, Florida.
+
+
++--------+
+|  TAGS  |
++--------+
+orca "killer whale" shamu stadium "sea world" orlando florida 1996 park "theme park" "amusement park" 

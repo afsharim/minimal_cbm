@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : D. Scott Taylor
+Photo URL    : https://www.flickr.com/photos/azequine_surgeon/17102329452/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Nov 25 15:38:58 GMT+0100 2009
+Upload Date  : Sat Apr 11 02:53:26 GMT+0200 2015
+Geotag Info  : Latitude:33.451291, Longitude:-111.947645
+Views        : 1,333
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe on blue
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Giraffe Animals Zoo Phoenix Arizona 

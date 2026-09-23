@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : klamathvx
+Photo URL    : https://www.flickr.com/photos/klamathvx/2335016617/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jun 29 10:22:06 GMT+0200 2004
+Upload Date  : Sat Mar 15 20:42:06 GMT+0100 2008
+Geotag Info  : Latitude:39.972557, Longitude:-75.197360
+Views        : 270
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hippo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+hippo hippopotamus "Philadelphia Zoo" water 

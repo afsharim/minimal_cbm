@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : cbowns
+Photo URL    : https://www.flickr.com/photos/cipherswarm/518127780/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 3 14:58:34 GMT+0200 2006
+Upload Date  : Mon May 28 18:57:32 GMT+0200 2007
+Views        : 343
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horse and Field
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horse field trees grass green 

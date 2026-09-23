@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Exceluk1
+Photo URL    : https://www.flickr.com/photos/43836186@N02/7875057474/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 18 16:19:10 GMT+0200 2012
+Upload Date  : Mon Aug 27 21:58:10 GMT+0200 2012
+Geotag Info  : Latitude:53.331041, Longitude:-2.095300
+Views        : 25
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_0164
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Horse 

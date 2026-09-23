@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Nick Saltmarsh
+Photo URL    : https://www.flickr.com/photos/nsalt/439681573/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Oct 30 14:19:54 GMT+0100 2002
+Upload Date  : Fri Mar 30 14:47:59 GMT+0200 2007
+Geotag Info  : Latitude:52.713497, Longitude:0.902659
+Views        : 2,001
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Norfolk Horned Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Norfolk Horned Sheep - Roots of Norfolk, Gressenhall, Norfolk - 30th October 2002
+<a href="http://www.tracingpaper.org.uk" rel="nofollow">www.tracingpaper.org.uk</a>
+
+
++--------+
+|  TAGS  |
++--------+
+food Norfolk horned sheep Gressenhall farming livestock EastAnglia geotagged nsalt "nick saltmarsh" 

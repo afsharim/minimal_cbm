@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Sue & Pip
+Photo URL    : https://www.flickr.com/photos/sued2/3879283620/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 25 13:16:01 GMT+0200 2009
+Upload Date  : Tue Sep 1 22:12:38 GMT+0200 2009
+Geotag Info  : Latitude:52.065103, Longitude:-2.234344
+Views        : 173
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Happy as pigs in ....
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+worcestershire pigs tamworths "Clive's Fruit Farm" 

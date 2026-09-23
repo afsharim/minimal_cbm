@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : daniel.demonceau
+Photo URL    : https://www.flickr.com/photos/danieldemonceau/7767774408/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 5 17:35:26 GMT+0200 2012
+Upload Date  : Sun Aug 12 21:02:22 GMT+0200 2012
+Geotag Info  : Latitude:50.703361, Longitude:6.047951
+Views        : 80
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Hollingworth, John and Karen, U. S. Fish and Wildlife Service
+Photo URL    : https://commons.wikimedia.org/wiki/File:Kodiak_Brown_Bear.jpg
+License      : public domain
+Date         : 

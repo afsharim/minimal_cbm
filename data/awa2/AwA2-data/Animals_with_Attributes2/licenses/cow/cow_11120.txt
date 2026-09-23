@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jinxmcc
+Photo URL    : https://www.flickr.com/photos/64443083@N00/11618414183/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 14 16:44:26 GMT+0200 2013
+Upload Date  : Sun Dec 29 07:34:31 GMT+0100 2013
+Views        : 693
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+On the fifth day of Christmas
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Five Belted Galloways
+
+(a remarkable breed of cattle)
+
+
++--------+
+|  TAGS  |
++--------+
+cattle "oreo cows" "remarkable breed" 

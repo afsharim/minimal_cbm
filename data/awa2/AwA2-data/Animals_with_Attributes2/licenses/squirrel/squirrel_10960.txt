@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : John W. Tuggle
+Photo URL    : https://www.flickr.com/photos/22565768@N04/9063097738/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 15 22:10:59 GMT+0200 2013
+Upload Date  : Mon Jun 17 01:31:31 GMT+0200 2013
+Views        : 174
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

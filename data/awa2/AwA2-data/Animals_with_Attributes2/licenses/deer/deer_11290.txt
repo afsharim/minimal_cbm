@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Steven Braddom
+Photo URL    : https://www.flickr.com/photos/wavefront/4671691243/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 23 14:27:10 GMT+0200 2010
+Upload Date  : Sat Jun 5 19:08:25 GMT+0200 2010
+Views        : 147
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+westwind deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+deer westwind barn 

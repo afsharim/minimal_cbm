@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Drew Avery
+Photo URL    : https://www.flickr.com/photos/33590535@N06/3527063625/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri May 8 08:00:00 GMT+0200 2009
+Upload Date  : Wed May 13 08:19:57 GMT+0200 2009
+Geotag Info  : Latitude:39.749301, Longitude:-104.957027
+Views        : 678
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+River Hippopotamus {hippopotamus amphibius}
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Denver Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+"Denver Zoo" "taxonomy:common=river hippopotamus" "taxonomy:binomial=hippopotamus amphibius" 

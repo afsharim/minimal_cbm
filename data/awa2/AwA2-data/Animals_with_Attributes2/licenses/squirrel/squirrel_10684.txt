@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : diveofficer
+Photo URL    : https://www.flickr.com/photos/diveofficer/2347001896/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Mar 13 15:44:23 GMT+0100 2008
+Upload Date  : Thu Mar 20 04:04:55 GMT+0100 2008
+Geotag Info  : Latitude:30.427694, Longitude:-97.841663
+Views        : 299
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel rocks curb 

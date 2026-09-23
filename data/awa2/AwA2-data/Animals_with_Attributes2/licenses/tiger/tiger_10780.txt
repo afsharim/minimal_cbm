@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : benjgibbs
+Photo URL    : https://www.flickr.com/photos/bengibbs/16729861706/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 8 11:13:23 GMT+0100 2015
+Upload Date  : Sun Mar 8 19:25:30 GMT+0100 2015
+Views        : 528
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+2015 03 08_Marwell_1781
+
+
++--------+
+|  TAGS  |
++--------+
+marwell tiger zoo 

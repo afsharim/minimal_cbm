@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : rarvesen
+Photo URL    : https://www.flickr.com/photos/rarvesen/8453537208/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jun 26 22:00:47 GMT+0200 2012
+Upload Date  : Thu Feb 7 15:15:42 GMT+0100 2013
+Geotag Info  : Latitude:43.771093, Longitude:-110.672149
+Views        : 739
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+American Beaver (Castor canadensis), Grand Teton National Park
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Grand Teton National Park" "Grand Teton" beaver 

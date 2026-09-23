@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mrlaugh
+Photo URL    : https://www.flickr.com/photos/mrlaugh/5965710445/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 4 19:29:22 GMT+0200 2011
+Upload Date  : Sat Jul 23 07:37:14 GMT+0200 2011
+Geotag Info  : Latitude:30.261346, Longitude:-97.745323
+Views        : 261
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+austin bats0075
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Austin bats 

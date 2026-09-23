@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jeckman
+Photo URL    : https://www.flickr.com/photos/jeckman/530616921/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon May 28 11:38:49 GMT+0200 2007
+Upload Date  : Mon May 28 18:38:49 GMT+0200 2007
+Geotag Info  : Latitude:51.894927, Longitude:-9.602394
+Views        : 88
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Irish Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Ireland 

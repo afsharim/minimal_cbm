@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : kevinzim
+Photo URL    : https://www.flickr.com/photos/86624586@N00/10176570/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Apr 20 15:36:02 GMT+0200 2005
+Upload Date  : Thu Apr 21 01:36:02 GMT+0200 2005
+Geotag Info  : Latitude:51.810700, Longitude:-1.637600
+Views        : 13,024
+Comments     : 6
+
+
++---------+
+|  TITLE  |
++---------+
+cow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Cow chewing England's green and pleasant land, Burford. <a href="http://geobloggers.tafoni.net/" rel="nofollow">geotagged</a>
+
+
++--------+
+|  TAGS  |
++--------+
+animal animals zoology wildlife wild nature natural rural cow buttercup bull floodplain cows cowclap farm freisian meadow friesian field holsteiner geotagged geo:lat=51.8107 geo:lon=-1.6376 cattle OM10 burford oxfordshire windrush 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Fisherga
+Photo URL    : https://www.flickr.com/photos/gailfisher/114416283/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 18 21:37:08 GMT+0100 2006
+Upload Date  : Sun Mar 19 03:37:08 GMT+0100 2006
+Views        : 2,142
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+cow moose Jackson WY
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+moose 

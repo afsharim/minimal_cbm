@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : karanj
+Photo URL    : https://www.flickr.com/photos/karanj/16457217699/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jan 23 14:35:23 GMT+0100 2015
+Upload Date  : Wed Feb 25 13:19:49 GMT+0100 2015
+Geotag Info  : Latitude:29.108676, Longitude:75.665931
+Views        : 39
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

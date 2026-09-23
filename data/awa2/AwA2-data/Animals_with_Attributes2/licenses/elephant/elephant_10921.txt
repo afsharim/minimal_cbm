@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : meemal
+Photo URL    : https://www.flickr.com/photos/meemal/3764909671/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jun 2 05:11:21 GMT+0200 2009
+Upload Date  : Tue Jul 28 14:50:42 GMT+0200 2009
+Views        : 82
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Koh Phan Nang
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+elephant 

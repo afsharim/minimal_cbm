@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mikecogh
+Photo URL    : https://www.flickr.com/photos/mikecogh/6518530821/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 4 04:37:58 GMT+0100 2011
+Upload Date  : Fri Dec 16 02:07:23 GMT+0100 2011
+Geotag Info  : Latitude:-34.914510, Longitude:138.606004
+Views        : 162
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Otter in Pond
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+otters zoo animals cute pond 

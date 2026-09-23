@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Chris Parker2012
+Photo URL    : https://www.flickr.com/photos/chrisparker2012/7290884764/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Aug 24 13:18:57 GMT+0200 2011
+Upload Date  : Tue May 29 01:53:37 GMT+0200 2012
+Geotag Info  : Latitude:-24.395257, Longitude:31.309318
+Views        : 240
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Timbavati Kruger National Park" giraffe timbavati kruger "Fuji HS20 EXR" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Eric Kilby
+Photo URL    : https://www.flickr.com/photos/ekilby/24600297443/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Feb 15 14:45:28 GMT+0100 2016
+Upload Date  : Wed Feb 24 05:22:10 GMT+0100 2016
+Geotag Info  : Latitude:42.462713, Longitude:-71.093668
+Views        : 342
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Canada Lynx Walking in the Snow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+stone zoo animal cat canada lynx snow winter 

@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Wojsyl
+Photo URL    : https://commons.wikimedia.org/wiki/File:Poland_Kampinos_Alces_alces_1.jpg
+License      : Creative Commons (//en.wikipedia.org/wiki/en:Creative_Commons) Attribution-Share Alike 2.5 Generic (//creativecommons.org/licenses/by-sa/2.5/deed.en)
+Date         : 2006-04-11

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : robinbos
+Photo URL    : https://www.flickr.com/photos/robinbos/2679132901/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 17 13:05:35 GMT+0200 2008
+Upload Date  : Fri Jul 18 15:21:22 GMT+0200 2008
+Geotag Info  : Latitude:52.785673, Longitude:6.897203
+Views        : 258
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+giraffe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"noorder dierenpark" emmen giraffe 

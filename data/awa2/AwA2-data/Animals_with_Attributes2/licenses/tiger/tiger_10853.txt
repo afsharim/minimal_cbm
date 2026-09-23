@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Major Clanger
+Photo URL    : https://www.flickr.com/photos/major_clanger/3152418230/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Dec 30 12:53:10 GMT+0100 2008
+Upload Date  : Wed Dec 31 02:24:52 GMT+0100 2008
+Views        : 763
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zoo Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Oregon Zoo Tiger - ROAR!
+
+
++--------+
+|  TAGS  |
++--------+
+tiger oregonzoo portland oregon 

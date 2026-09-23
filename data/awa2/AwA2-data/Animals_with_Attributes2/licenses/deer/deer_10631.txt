@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : tristanf
+Photo URL    : https://www.flickr.com/photos/tristanf/11030174345/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 24 10:55:48 GMT+0100 2013
+Upload Date  : Sun Nov 24 16:53:55 GMT+0100 2013
+Views        : 168
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

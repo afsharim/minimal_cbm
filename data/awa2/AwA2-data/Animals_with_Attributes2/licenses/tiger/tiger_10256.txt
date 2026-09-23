@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : russellstreet
+Photo URL    : https://www.flickr.com/photos/russellstreet/4387212806/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 28 14:19:34 GMT+0100 2008
+Upload Date  : Thu Feb 25 11:25:39 GMT+0100 2010
+Geotag Info  : Latitude:-33.843834, Longitude:151.239825
+Views        : 364
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sumatran Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Animal Australia "Panthera tigris sumatrae" "Sumatran Tiger" Sydney "Taronga Zoo" "New South Wales" AU 

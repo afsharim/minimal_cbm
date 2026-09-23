@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : quinnums
+Photo URL    : https://www.flickr.com/photos/quinn/13799668/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri May 13 14:23:37 GMT+0200 2005
+Upload Date  : Sat May 14 11:18:52 GMT+0200 2005
+Views        : 171
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_0639.JPG
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"San Francisco Zoo" zebra 

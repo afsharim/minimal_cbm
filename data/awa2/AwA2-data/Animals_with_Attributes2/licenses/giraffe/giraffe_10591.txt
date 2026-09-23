@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : lisa.m.jeans
+Photo URL    : https://www.flickr.com/photos/lisajeans/6341807971/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Nov 9 20:14:38 GMT+0100 2011
+Upload Date  : Mon Nov 14 01:39:34 GMT+0100 2011
+Views        : 102
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+giraffe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+creatures 

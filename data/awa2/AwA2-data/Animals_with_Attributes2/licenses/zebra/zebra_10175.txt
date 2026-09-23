@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Kayleigh F
+Photo URL    : https://www.flickr.com/photos/kayleighfung/7550794986/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 11 17:47:12 GMT+0200 2012
+Upload Date  : Wed Jul 11 19:21:16 GMT+0200 2012
+Geotag Info  : Latitude:-3.076066, Longitude:37.349395
+Views        : 168
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Fighting Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : stanzebla
+Photo URL    : https://www.flickr.com/photos/stanzebla/16182784626/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jan 2 14:53:07 GMT+0100 2015
+Upload Date  : Mon Jan 5 22:27:50 GMT+0100 2015
+Geotag Info  : Latitude:49.187116, Longitude:0.605716
+Views        : 2,778
+Comments     : 15
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep are posing
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+in the park
+
+
++--------+
+|  TAGS  |
++--------+
+sheep Schafe moutons 

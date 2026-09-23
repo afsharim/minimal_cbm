@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : BenjaminHill
+Photo URL    : https://www.flickr.com/photos/benjaminhill/2792183922/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 21 16:51:43 GMT+0200 2008
+Upload Date  : Sun Aug 24 10:33:14 GMT+0200 2008
+Geotag Info  : Latitude:-37.624837, Longitude:176.163024
+Views        : 93
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Whats a trip to NZ without sheep
+
+
++--------+
+|  TAGS  |
++--------+
+bmhmln honeymoon BMHMLNHoneymoon 

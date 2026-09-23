@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mzungu Chick
+Photo URL    : https://www.flickr.com/photos/22797461@N07/2288348576/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Feb 15 10:43:32 GMT+0100 2008
+Upload Date  : Sun Feb 24 12:52:23 GMT+0100 2008
+Views        : 172
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+baby zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : DoNotLick
+Photo URL    : https://www.flickr.com/photos/donotlick/7389509830/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 29 10:51:46 GMT+0200 2012
+Upload Date  : Sun Jun 17 23:49:35 GMT+0200 2012
+Geotag Info  : Latitude:43.817265, Longitude:-79.182715
+Views        : 41
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hippopotamus
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+at the Toronto Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+"Toronto Zoo" animal animals 

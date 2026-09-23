@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mliu92
+Photo URL    : https://www.flickr.com/photos/mliu92/3436010089/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 12 11:08:28 GMT+0200 2009
+Upload Date  : Mon Apr 13 04:08:05 GMT+0200 2009
+Geotag Info  : Latitude:32.736885, Longitude:-117.148933
+Views        : 182
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Slobber Bear 1826
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Blackie's feeling the heat today.
+
+
++--------+
+|  TAGS  |
++--------+
+"san diego" zoo mongolian brown bear blackie 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jacme31
+Photo URL    : https://www.flickr.com/photos/jacme31/5301201792/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Dec 27 13:56:28 GMT+0100 2010
+Upload Date  : Tue Dec 28 21:15:13 GMT+0100 2010
+Geotag Info  : Latitude:43.002544, Longitude:1.158885
+Views        : 830
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Limousine ariégeoise
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Ariège Saint-Lizier Montjoie vache limousine ariégeoise 3371 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Drew Coffman
+Photo URL    : https://www.flickr.com/photos/drewcoffman/3828408851/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 15 17:39:51 GMT+0200 2009
+Upload Date  : Mon Aug 17 06:26:12 GMT+0200 2009
+Geotag Info  : Latitude:28.062700, Longitude:-82.413248
+Views        : 592
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Raccoon
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Raccoon USF 50mm t1i 

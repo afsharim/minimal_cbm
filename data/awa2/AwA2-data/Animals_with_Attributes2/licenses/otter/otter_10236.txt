@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : i eated a cookie
+Photo URL    : https://www.flickr.com/photos/russellbernice/498183540/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 5 18:01:34 GMT+0200 2007
+Upload Date  : Mon May 14 19:25:51 GMT+0200 2007
+Geotag Info  : Latitude:47.668161, Longitude:-122.350584
+Views        : 166
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+otter underwater
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+seattle "woodland park zoo" otter 

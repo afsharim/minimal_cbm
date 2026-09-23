@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : paulpiltdown
+Photo URL    : https://www.flickr.com/photos/8269539@N04/16118729191/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Dec 27 15:13:47 GMT+0100 2014
+Upload Date  : Sat Dec 27 18:08:27 GMT+0100 2014
+Geotag Info  : Latitude:52.564768, Longitude:-0.754623
+Views        : 222
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Otter at Eyebrook
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Posing after lunch!
+
+
++--------+
+|  TAGS  |
++--------+
+otter eyebrook reservoir 

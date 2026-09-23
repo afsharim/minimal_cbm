@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : stoneflower
+Photo URL    : https://www.flickr.com/photos/stoneflower/1446854267/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 11 13:00:42 GMT+0200 2007
+Upload Date  : Thu Sep 27 13:39:25 GMT+0200 2007
+Views        : 140
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Chimp
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+chimpanzee "chester zoo" 

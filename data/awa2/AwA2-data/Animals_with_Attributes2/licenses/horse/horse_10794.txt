@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : NH53
+Photo URL    : https://www.flickr.com/photos/nh53/11051151395/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Nov 19 13:52:00 GMT+0100 2013
+Upload Date  : Mon Nov 25 17:04:29 GMT+0100 2013
+Geotag Info  : Latitude:-34.508041, Longitude:138.963274
+Views        : 1,219
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horse-drawn Carriage
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The easy way to travel!
+
+
++--------+
+|  TAGS  |
++--------+
+australia barossa horse 

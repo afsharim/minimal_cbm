@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Chris Happel
+Photo URL    : https://www.flickr.com/photos/chris_happel/3757112799/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 25 20:57:50 GMT+0200 2009
+Upload Date  : Sun Jul 26 13:39:08 GMT+0200 2009
+Views        : 1,130
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+treed raccoon
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+raccoon 

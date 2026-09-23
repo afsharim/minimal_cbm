@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tim Green aka atoach
+Photo URL    : https://www.flickr.com/photos/atoach/8175796811/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 11 13:34:35 GMT+0100 2012
+Upload Date  : Sun Nov 11 18:47:24 GMT+0100 2012
+Geotag Info  : Latitude:53.768150, Longitude:-1.901124
+Views        : 571
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Brown and white sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+sheep horns 

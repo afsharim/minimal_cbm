@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : blumblaum
+Photo URL    : https://www.flickr.com/photos/blumblaum/3867935246/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Aug 5 15:54:06 GMT+0200 2009
+Upload Date  : Sat Aug 29 17:32:44 GMT+0200 2009
+Geotag Info  : Latitude:53.465218, Longitude:8.476274
+Views        : 3,458
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+the sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+You like this photo? Just take it – it’s provided under the creative commons license.
+
+
++--------+
+|  TAGS  |
++--------+
+Germany Deutschland Niedersachsen Nordenham nature sheep Schaf Deich 

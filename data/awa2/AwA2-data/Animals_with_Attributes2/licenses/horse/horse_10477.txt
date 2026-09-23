@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : DJ-Dwayne [Returning in 2015/16]
+Photo URL    : https://www.flickr.com/photos/dj-dwayne/4434305885/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 14 15:08:42 GMT+0100 2010
+Upload Date  : Mon Mar 15 10:43:35 GMT+0100 2010
+Geotag Info  : Latitude:-34.453448, Longitude:140.617253
+Views        : 1,948
+Comments     : 7
+
+
++---------+
+|  TITLE  |
++---------+
+Horse In Field
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+<a href="http://creativecommons.org/licenses/by/2.5/au/" rel="nofollow"></a>This work by <a href="http://www.flickr.com/photos/dj-dwayne">Dwayne Madden</a> is licensed under a <a href="http://creativecommons.org/licenses/by/2.5/au/" rel="nofollow">Creative Commons Attribution 2.5 Australia License</a>.
+
+
++--------+
+|  TAGS  |
++--------+
+Horse field brown 

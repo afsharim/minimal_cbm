@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : chriscom
+Photo URL    : https://www.flickr.com/photos/chrigu/482847904/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 22 20:20:10 GMT+0200 2006
+Upload Date  : Thu May 3 19:25:59 GMT+0200 2007
+Views        : 151
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Wideangle cow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A cow along the way to the spannort hütte
+
+
++--------+
+|  TAGS  |
++--------+
+spannort switzerland mountaineering cow 

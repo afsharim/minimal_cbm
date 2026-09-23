@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : patrickschmetzer
+Photo URL    : https://www.flickr.com/photos/gluster2/8560145136/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Mar 15 13:10:19 GMT+0100 2013
+Upload Date  : Fri Mar 15 16:36:33 GMT+0100 2013
+Views        : 80
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+My Favorite Animal
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

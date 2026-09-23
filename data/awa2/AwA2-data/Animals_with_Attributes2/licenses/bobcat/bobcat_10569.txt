@@ -1,0 +1,38 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jonathan.alvarsson
+Photo URL    : https://www.flickr.com/photos/jonathanalvarsson/1017018470/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 4 16:48:06 GMT+0200 2007
+Upload Date  : Sun Aug 5 13:33:15 GMT+0200 2007
+Views        : 852
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Lynx.jpg
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This cat lay on display on top of a tree in the middle of its enclosure at Skansen Zoo in Stockholm Sweden. 
+
+The picture is taken with ISO 1600 with quite heavy noise reduction applied afterwards which is why it almost looks a bit painted.
+
+Here is another picture of the same cat: <a href="http://www.flickr.com/photos/jonathanalvarsson/1018086516/">www.flickr.com/photos/jonathanalvarsson/1018086516/</a>
+
+
++--------+
+|  TAGS  |
++--------+
+Skansen Lynx "Lynx lynx" lodjur 

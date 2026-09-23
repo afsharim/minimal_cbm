@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : amitp
+Photo URL    : https://www.flickr.com/photos/amitp/24942211876/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jan 1 12:02:27 GMT+0100 2016
+Upload Date  : Fri Feb 12 03:17:04 GMT+0100 2016
+Views        : 267
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Moss Landing Otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Seen from Elkhorn Slough Safari, a nice boat tour of the slough and its wildlife
+
+
++--------+
+|  TAGS  |
++--------+
+creatures "elkhorn slough" "moss landing" otter e-m1 

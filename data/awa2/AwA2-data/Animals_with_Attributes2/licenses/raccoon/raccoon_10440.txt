@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mpfau64
+Photo URL    : https://www.flickr.com/photos/120177649@N03/15552273022/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Oct 22 12:43:27 GMT+0200 2013
+Upload Date  : Thu Oct 16 23:16:14 GMT+0200 2014
+Views        : 27
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Thale, Hexentanzplatz: Tierpark
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Waschbär
+<a href="http://de.wikipedia.org/wiki/Waschb%c3%a4r" rel="nofollow">de.wikipedia.org/wiki/Waschb%C3%A4r</a>
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Hasan Basri AKIRMAK
+Photo URL    : https://www.flickr.com/photos/hbamoba/3552194966/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 21 17:38:49 GMT+0200 2009
+Upload Date  : Thu May 21 20:01:34 GMT+0200 2009
+Views        : 125
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_1834
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zebra 

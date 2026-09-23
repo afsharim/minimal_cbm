@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : zieak
+Photo URL    : https://www.flickr.com/photos/zieak/4507099451/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Apr 5 14:43:25 GMT+0200 2010
+Upload Date  : Sat Apr 10 13:42:18 GMT+0200 2010
+Views        : 55
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffes
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

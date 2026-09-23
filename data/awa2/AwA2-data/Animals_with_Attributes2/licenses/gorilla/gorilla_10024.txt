@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Panegyrics of Granovetter
+Photo URL    : https://www.flickr.com/photos/sarah_c_murray/4968765279/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 26 09:40:45 GMT+0200 2010
+Upload Date  : Wed Sep 8 01:12:18 GMT+0200 2010
+Geotag Info  : Latitude:37.733797, Longitude:-122.505025
+Views        : 322
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+7125
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"san francisco zoo" "sweet dude" "maximum gorilla" perplexed 

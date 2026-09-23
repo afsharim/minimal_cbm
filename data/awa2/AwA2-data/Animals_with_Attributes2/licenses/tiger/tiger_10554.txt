@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : phalinn
+Photo URL    : https://www.flickr.com/photos/phalinn/3950632034/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Sep 24 15:51:02 GMT+0200 2009
+Upload Date  : Thu Sep 24 15:02:29 GMT+0200 2009
+Geotag Info  : Latitude:3.207832, Longitude:101.756486
+Views        : 77
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Tiger
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

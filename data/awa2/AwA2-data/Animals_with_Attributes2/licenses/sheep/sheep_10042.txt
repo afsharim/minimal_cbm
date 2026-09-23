@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Friar's Balsam
+Photo URL    : https://www.flickr.com/photos/friarsbalsam/4603976870/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Oct 7 15:08:31 GMT+0200 2009
+Upload Date  : Thu May 13 15:18:22 GMT+0200 2010
+Geotag Info  : Latitude:-39.698337, Longitude:175.825366
+Views        : 374
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+20091007_Near_Taihape_008
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+sheep near Taihape
+
+
++--------+
+|  TAGS  |
++--------+
+sheep taihape 

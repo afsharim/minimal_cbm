@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Just chaos
+Photo URL    : https://www.flickr.com/photos/7326810@N08/1440552171/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Sep 25 11:47:41 GMT+0200 2007
+Upload Date  : Wed Sep 26 07:03:52 GMT+0200 2007
+Views        : 203
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sea Otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Enhydra lutris
+
+
++--------+
+|  TAGS  |
++--------+
+Montereybayaquarium Carnivore Zoo Mammal 

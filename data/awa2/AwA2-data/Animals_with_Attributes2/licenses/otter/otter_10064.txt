@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jamie.lovelock
+Photo URL    : https://www.flickr.com/photos/jamx/3153080401/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Dec 30 13:21:11 GMT+0100 2008
+Upload Date  : Wed Dec 31 16:18:19 GMT+0100 2008
+Geotag Info  : Latitude:53.227464, Longitude:-2.879061
+Views        : 30
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_4370.JPG
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Otters "Chester Zoo" 

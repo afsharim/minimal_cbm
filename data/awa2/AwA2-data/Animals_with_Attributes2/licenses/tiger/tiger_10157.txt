@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : HBarrison
+Photo URL    : https://www.flickr.com/photos/hbarrison/6990033509/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 4 14:22:09 GMT+0100 2012
+Upload Date  : Sat Mar 17 16:39:28 GMT+0100 2012
+Geotag Info  : Latitude:38.929830, Longitude:-77.050130
+Views        : 572
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+National Zoo_2012 03 04_0240
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The tiger (Panthera tigris) is the largest cat species.  This is the Sumatran sub-specie (Panthera tigris sumatrae) found only on the Indonesian island of Sumatra and critically endangered.  Their most recognizable feature is a pattern of dark vertical stripes on reddish-orange fur with lighter underparts.
+
+
++--------+
+|  TAGS  |
++--------+
+"Washington DC" HBarrison "Harvey Barrison" tiger "Taxonomy:binomial=Panthera tigris" 

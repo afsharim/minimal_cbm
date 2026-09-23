@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jon Mountjoy
+Photo URL    : https://www.flickr.com/photos/mountjoy/5194888360/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Nov 10 15:05:54 GMT+0100 2010
+Upload Date  : Sun Nov 21 13:31:00 GMT+0100 2010
+Views        : 1,855
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+sibuya zebra 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Callum.H
+Photo URL    : https://www.flickr.com/photos/c-hoare/8479537985/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Feb 14 13:11:08 GMT+0100 2013
+Upload Date  : Sun Feb 17 01:02:47 GMT+0100 2013
+Geotag Info  : Latitude:50.373304, Longitude:-4.130462
+Views        : 157
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel1
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Squirrel 

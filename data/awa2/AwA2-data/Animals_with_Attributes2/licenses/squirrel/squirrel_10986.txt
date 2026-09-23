@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : kmague
+Photo URL    : https://www.flickr.com/photos/kmague/12759412685/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 2 00:00:00 GMT+0100 2013
+Upload Date  : Tue Feb 25 02:11:10 GMT+0100 2014
+Views        : 63
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel nature animal 

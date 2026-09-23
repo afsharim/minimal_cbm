@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Marion Doss
+Photo URL    : https://www.flickr.com/photos/ooocha/2704743755/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 20 12:31:41 GMT+0200 2007
+Upload Date  : Sun Jul 27 04:11:36 GMT+0200 2008
+Geotag Info  : Latitude:39.056617, Longitude:-95.727052
+Views        : 294
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Photograph taken 20 May 2007 at Topeka Zoo, Topeka, Shawnee County, Kansas by Barbara Reyes.
+
+
++--------+
+|  TAGS  |
++--------+
+Zebra zoo "Topeka Zoo" "Gage Park" Topeka "Shawnee County" Kansas 

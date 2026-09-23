@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Photos_by_Angela
+Photo URL    : https://www.flickr.com/photos/angelabethell/4036183433/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Oct 23 14:59:08 GMT+0200 2009
+Upload Date  : Fri Oct 23 10:19:51 GMT+0200 2009
+Views        : 47
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Paradise Valley Wildlife Park - Rotorua, NZ
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

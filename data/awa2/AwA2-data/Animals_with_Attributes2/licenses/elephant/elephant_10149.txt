@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jacobms
+Photo URL    : https://www.flickr.com/photos/jacobms/2116381018/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 16 14:28:00 GMT+0100 2007
+Upload Date  : Sun Dec 16 23:34:23 GMT+0100 2007
+Geotag Info  : Latitude:55.671994, Longitude:12.523319
+Views        : 45
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC00693
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+elephant 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Aphexlee
+Photo URL    : https://www.flickr.com/photos/aphexlee/21142445176/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 5 08:08:07 GMT+0200 2015
+Upload Date  : Sat Sep 5 20:20:50 GMT+0200 2015
+Geotag Info  : Latitude:51.459419, Longitude:-0.063248
+Views        : 269
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Border Collie
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Peckham Rye Fete" "Peckham Rye Dog Show" "Peckham Rye" Dog "Dog Show" "Border Collie" 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : phxphotomom
+Photo URL    : https://www.flickr.com/photos/89869485@N03/8223378496/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Apr 11 10:55:19 GMT+0200 2012
+Upload Date  : Tue Nov 27 06:26:08 GMT+0100 2012
+Views        : 38
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+HIMG_9497
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+deers
+
+
++--------+
+|  TAGS  |
++--------+
+deers zoo 

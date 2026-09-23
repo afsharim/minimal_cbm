@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Thomas Brenner
+Photo URL    : https://www.flickr.com/photos/thomasbrenner/3658764628/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 27 20:47:03 GMT+0200 2008
+Upload Date  : Thu Jun 25 02:30:19 GMT+0200 2009
+Geotag Info  : Latitude:49.950466, Longitude:11.590375
+Views        : 320
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Fledermaus
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Fledermaus Tier 

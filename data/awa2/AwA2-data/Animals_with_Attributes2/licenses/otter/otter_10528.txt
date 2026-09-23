@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Loimere
+Photo URL    : https://www.flickr.com/photos/loimere/3990719871/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 27 06:03:57 GMT+0200 2009
+Upload Date  : Thu Oct 8 00:25:49 GMT+0200 2009
+Geotag Info  : Latitude:53.355341, Longitude:-6.306109
+Views        : 59
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Otters
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Ireland Loimere otter 

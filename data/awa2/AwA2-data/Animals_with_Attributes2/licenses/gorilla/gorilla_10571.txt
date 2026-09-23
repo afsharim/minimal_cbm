@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ohyeahrogerthat
+Photo URL    : https://www.flickr.com/photos/57830566@N04/6973055461/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Mar 7 11:20:53 GMT+0100 2012
+Upload Date  : Sun Mar 11 18:18:29 GMT+0100 2012
+Views        : 9
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_7689
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Makuahine Pa'i Ki'i
+Photo URL    : https://www.flickr.com/photos/hawaii-mcgraths/3640198042/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 14 11:45:46 GMT+0200 2009
+Upload Date  : Fri Jun 19 02:54:50 GMT+0200 2009
+Views        : 619
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Waikiki Aquarium--Monk Seal 1
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"waikiki aquarium" seal "monk seal" "hawaiian monk seal" 

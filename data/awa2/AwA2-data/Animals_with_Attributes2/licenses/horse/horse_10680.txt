@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : david.james.harris
+Photo URL    : https://www.flickr.com/photos/davidjamesharris/5890092793/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 23 14:52:45 GMT+0200 2011
+Upload Date  : Fri Jul 1 12:44:24 GMT+0200 2011
+Views        : 21
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

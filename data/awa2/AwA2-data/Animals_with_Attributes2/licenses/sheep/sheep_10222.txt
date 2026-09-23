@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : 吳姐夫
+Photo URL    : https://www.flickr.com/photos/50183640@N05/5441011340/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jan 20 10:00:05 GMT+0100 2011
+Upload Date  : Sun Feb 13 08:15:56 GMT+0100 2011
+Views        : 12
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_8171
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Dagmar Poláčková
+Photo URL    : https://commons.wikimedia.org/wiki/File:Border_collie_herding-paseni.jpg
+License      : public domain
+Date         : 

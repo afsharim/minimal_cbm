@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Earthman
+Photo URL    : https://www.flickr.com/photos/earthman/117062030/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Mar 23 21:07:17 GMT+0100 2006
+Upload Date  : Fri Mar 24 06:07:17 GMT+0100 2006
+Views        : 110
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Do I Know You?
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Raccoon 

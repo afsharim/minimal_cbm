@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : dibaer
+Photo URL    : https://www.flickr.com/photos/didierbaertschiger/4485815457/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 3 11:16:42 GMT+0200 2010
+Upload Date  : Sat Apr 3 11:16:42 GMT+0200 2010
+Geotag Info  : Latitude:14.611491, Longitude:-90.527343
+Views        : 11,959
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Guatemala - Zoo - Giraffe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+<a href="http://bighugelabs.com/onblack.php?id=4485815457" rel="nofollow">View On Black</a>
+
+
++--------+
+|  TAGS  |
++--------+
+Guatemala "Guatemala City" Zoo Giraffe Girafe Animal "Nikon D80" D80 

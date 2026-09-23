@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : brookscl
+Photo URL    : https://www.flickr.com/photos/chrisbrooks/88106315/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 15 10:19:09 GMT+0100 2006
+Upload Date  : Wed Jan 18 06:57:04 GMT+0100 2006
+Views        : 197
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Harbor Seals at Salishan
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+seals 

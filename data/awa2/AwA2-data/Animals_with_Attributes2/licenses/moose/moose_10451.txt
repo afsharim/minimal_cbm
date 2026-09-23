@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jeff Pang
+Photo URL    : https://www.flickr.com/photos/jeffpang/9960996526/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Sep 10 19:04:31 GMT+0200 2013
+Upload Date  : Fri Sep 27 06:49:56 GMT+0200 2013
+Geotag Info  : Latitude:48.890568, Longitude:-113.809776
+Views        : 3,949
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Moose
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Bull moose swimming across Glenns Lake. Glacier National Park, September 2013.
+
+
++--------+
+|  TAGS  |
++--------+
+"stony indian" cosley wildlife 

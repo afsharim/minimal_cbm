@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Harlequeen
+Photo URL    : https://www.flickr.com/photos/harlequeen/503130080/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 10 11:27:54 GMT+0200 2005
+Upload Date  : Fri May 18 12:27:05 GMT+0200 2007
+Geotag Info  : Latitude:52.116869, Longitude:0.039928
+Views        : 3,464
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sleepy Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A sleepy tiger on his perch at Shepreth Wildlife Park
+
+
++--------+
+|  TAGS  |
++--------+
+siberian tiger shepreth 

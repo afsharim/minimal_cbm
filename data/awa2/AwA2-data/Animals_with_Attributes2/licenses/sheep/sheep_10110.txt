@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : donjd2
+Photo URL    : https://www.flickr.com/photos/ddebold/3628876216/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 12 11:01:54 GMT+0200 2009
+Upload Date  : Mon Jun 15 14:02:52 GMT+0200 2009
+Views        : 698
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Bighorn Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A Bighorn Sheep in Yellowstone  National Park
+
+
++--------+
+|  TAGS  |
++--------+
+vacation "yellowstone national park" "bighorn sheep" WY USA 

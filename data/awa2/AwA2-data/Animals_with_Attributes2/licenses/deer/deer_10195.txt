@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jonnnnnn
+Photo URL    : https://www.flickr.com/photos/25120637@N05/3368195847/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Feb 23 15:38:14 GMT+0100 2009
+Upload Date  : Thu Mar 19 22:27:23 GMT+0100 2009
+Views        : 1,727
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+deer buck
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+deer buck 

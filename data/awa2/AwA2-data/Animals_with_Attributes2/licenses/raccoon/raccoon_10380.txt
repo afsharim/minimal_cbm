@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mafue
+Photo URL    : https://www.flickr.com/photos/mafue/2884399112/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Sep 30 22:05:06 GMT+0200 2008
+Upload Date  : Wed Sep 24 06:31:03 GMT+0200 2008
+Geotag Info  : Latitude:49.300777, Longitude:-123.130881
+Views        : 65
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Raccoons
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+mafue "vancouver aquarium" fave DSC-T100 

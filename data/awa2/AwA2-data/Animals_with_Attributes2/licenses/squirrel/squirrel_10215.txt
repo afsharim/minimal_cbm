@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Bobolink
+Photo URL    : https://www.flickr.com/photos/bobolink/5185371912/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Nov 17 14:52:25 GMT+0100 2010
+Upload Date  : Wed Nov 17 20:29:44 GMT+0100 2010
+Geotag Info  : Latitude:44.295622, Longitude:-77.553434
+Views        : 162
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Gray Squirrel_3925
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+For Elke
+
+
++--------+
+|  TAGS  |
++--------+
+"Grey Squirrel" Stirling Ontario 

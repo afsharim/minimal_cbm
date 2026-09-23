@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Björn Söderqvist
+Photo URL    : https://www.flickr.com/photos/kapten/3160926857/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jan 2 13:13:37 GMT+0100 2009
+Upload Date  : Sat Jan 3 02:06:03 GMT+0100 2009
+Views        : 283
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Hippo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Hippo cphtur20090102 zoo copenhagen 

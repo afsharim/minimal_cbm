@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : tim ellis
+Photo URL    : https://www.flickr.com/photos/tim_ellis/14658273053/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 1 13:49:47 GMT+0200 2014
+Upload Date  : Sun Jul 13 00:06:15 GMT+0200 2014
+Geotag Info  : Latitude:51.937422, Longitude:-1.837087
+Views        : 474
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Gloucestershire Old Spot
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A day out at <a href="http://www.cotswoldfarmpark.co.uk/" rel="nofollow">Cotswold Farm Park</a>
+
+
++--------+
+|  TAGS  |
++--------+
+"Cotswold Farm Park" "Rare Breeds Survival trust" Farm Cotswolds "Adam Henson" "Orchard Pig" "Gloucestershire Old Spot" pig "Guiting Power" UK msh0315 msh0315-7 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Karamellzucker
+Photo URL    : https://www.flickr.com/photos/karamell/1294700519/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 1 17:48:49 GMT+0200 2007
+Upload Date  : Sat Sep 1 17:48:49 GMT+0200 2007
+Geotag Info  : Latitude:51.240426, Longitude:7.109870
+Views        : 149
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Zoo Wuppertal Tiger zoowuppertal 

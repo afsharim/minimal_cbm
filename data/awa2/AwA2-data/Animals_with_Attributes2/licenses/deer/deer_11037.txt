@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : GregTheBusker
+Photo URL    : https://www.flickr.com/photos/gregthebusker/4474120650/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 27 10:24:28 GMT+0100 2010
+Upload Date  : Mon Mar 29 20:14:05 GMT+0200 2010
+Geotag Info  : Latitude:46.926908, Longitude:-119.237666
+Views        : 311
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Mule Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+March 2010 Othello Washington Mule deer 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : andrew_j_w
+Photo URL    : https://www.flickr.com/photos/andrew_j_w/8688063743/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 28 11:55:59 GMT+0200 2013
+Upload Date  : Sun Apr 28 15:14:34 GMT+0200 2013
+Geotag Info  : Latitude:51.838058, Longitude:-0.270023
+Views        : 1,000
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep and Lambs
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+sheep lamb animal 

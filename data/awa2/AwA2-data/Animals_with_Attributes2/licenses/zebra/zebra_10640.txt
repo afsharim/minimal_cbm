@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Eric Kilby
+Photo URL    : https://www.flickr.com/photos/ekilby/14571874632/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 3 12:12:58 GMT+0200 2014
+Upload Date  : Fri Jul 4 17:28:58 GMT+0200 2014
+Geotag Info  : Latitude:42.305284, Longitude:-71.088967
+Views        : 1,409
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra Profile
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+franklin park zoo boston zebra profile stripes 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Richo.Fan
+Photo URL    : https://www.flickr.com/photos/richo-fan/4310074845/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 11 12:11:16 GMT+0200 2008
+Upload Date  : Thu Jan 28 04:40:29 GMT+0100 2010
+Geotag Info  : Latitude:28.360107, Longitude:-81.590008
+Views        : 8,224
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tigers
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Two tigers resting on a hot day at Animal Kingdom, Walt Disney World.
+
+
++--------+
+|  TAGS  |
++--------+
+Disney "Walt Disney World" "Animal Kingdom" tiger tigers "wild cat" "big cat" "Panthera tigris" "Apex predators" 

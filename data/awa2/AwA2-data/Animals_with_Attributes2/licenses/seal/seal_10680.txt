@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : NOAA Photo Library
+Photo URL    : https://www.flickr.com/photos/noaaphotolib/5077887007/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Oct 13 10:14:50 GMT+0200 2010
+Upload Date  : Wed Oct 13 16:20:29 GMT+0200 2010
+Views        : 734
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+sanc0167
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Two male elephant seals fighting on the beach at San Miguel Island. California, Channel Islands NMS. 
+2007 January 31.
+
+Photographer: Robert Schwemmer, CINMS, NOAA.
+
+
++--------+
+|  TAGS  |
++--------+
+NOAA seals 

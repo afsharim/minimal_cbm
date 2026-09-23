@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Stylva
+Photo URL    : https://www.flickr.com/photos/stylva/3475091601/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Apr 13 09:49:36 GMT+0200 2009
+Upload Date  : Sun Apr 26 10:52:22 GMT+0200 2009
+Geotag Info  : Latitude:59.904219, Longitude:15.560846
+Views        : 222
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tamlin and Barry
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horses easter tamlin barry 

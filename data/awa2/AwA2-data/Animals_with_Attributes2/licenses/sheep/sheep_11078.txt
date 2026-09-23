@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ruocaled
+Photo URL    : https://www.flickr.com/photos/ruocaled/8598918079/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 10 04:05:14 GMT+0100 2013
+Upload Date  : Fri Mar 29 08:08:55 GMT+0100 2013
+Views        : 310
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+@ Beacon Hill Children's Farm - Beacon Hill Park
+
+
++--------+
+|  TAGS  |
++--------+
+zoo beacon hill park animal 

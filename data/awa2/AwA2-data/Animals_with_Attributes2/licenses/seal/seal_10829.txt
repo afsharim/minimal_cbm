@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Paul Walter, Newbury, UK
+Photo URL    : https://www.flickr.com/photos/paulwalter/8395045199/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 16 12:49:35 GMT+0200 2003
+Upload Date  : Sat Jan 19 20:14:16 GMT+0100 2013
+Views        : 82
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Seals at Blakeney, Norfolk, UK
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

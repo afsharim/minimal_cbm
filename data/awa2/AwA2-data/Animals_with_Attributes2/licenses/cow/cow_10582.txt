@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : dbaron
+Photo URL    : https://www.flickr.com/photos/dbaron/4488338663/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 3 22:25:59 GMT+0200 2010
+Upload Date  : Sun Apr 4 07:24:48 GMT+0200 2010
+Geotag Info  : Latitude:37.511633, Longitude:-121.817917
+Views        : 1,863
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cows
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Sunol Regional Wilderness, springtime.  (dsc05664)
+
+
++--------+
+|  TAGS  |
++--------+
+USA California Sunol "Sunol Regional Wilderness" "East Bay Regional Parks District" ebparks nature grass green mammal cow cattle Bos "B. taurus" "Bos taurus" geotagged geo:lat=37.511633 geo:lon=-121.817917 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Paris-Tourist.com
+Photo URL    : https://www.flickr.com/photos/75381832@N06/15992663485/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 4 13:17:20 GMT+0200 2014
+Upload Date  : Wed Dec 10 21:12:58 GMT+0100 2014
+Geotag Info  : Latitude:48.832620, Longitude:2.417764
+Views        : 40
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+ParisTouristcom_3098
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Grevy zebra.
+
+
++--------+
+|  TAGS  |
++--------+
+Parc zoologique Paris Zoo 

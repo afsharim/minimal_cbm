@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : RB.rajesh
+Photo URL    : https://www.flickr.com/photos/rajesh_balakrishnan/446051812/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 18 16:56:30 GMT+0100 2007
+Upload Date  : Wed Apr 4 15:20:51 GMT+0200 2007
+Geotag Info  : Latitude:12.001711, Longitude:76.276702
+Views        : 575
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant herd
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Spot the baby!
+
+
++--------+
+|  TAGS  |
++--------+
+Kabini elephants travel 

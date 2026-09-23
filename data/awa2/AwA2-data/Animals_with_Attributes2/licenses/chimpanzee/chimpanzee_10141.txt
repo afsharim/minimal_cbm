@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jerseygal2009
+Photo URL    : https://www.flickr.com/photos/jerseygal2009/4209261802/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 26 08:10:06 GMT+0200 2009
+Upload Date  : Wed Dec 23 18:21:15 GMT+0100 2009
+Geotag Info  : Latitude:51.850201, Longitude:-0.543136
+Views        : 220
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Chimp
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Whipsnade Zoo" zoo chimp chimpanzee grass animals "animal park" 

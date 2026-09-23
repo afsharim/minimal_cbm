@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : KimonBerlin
+Photo URL    : https://www.flickr.com/photos/kimon/2834769203/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 2 13:20:37 GMT+0200 2008
+Upload Date  : Sun Sep 7 08:44:44 GMT+0200 2008
+Views        : 21
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_3615
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"rocky mountain national park" moose 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : RLEVANS
+Photo URL    : https://www.flickr.com/photos/rlevans/407179495/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Feb 28 22:12:14 GMT+0100 2007
+Upload Date  : Thu Mar 1 23:11:24 GMT+0100 2007
+Views        : 4
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_3556.JPG
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Rats 

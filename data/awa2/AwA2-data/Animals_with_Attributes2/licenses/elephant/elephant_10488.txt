@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : oliver.dodd
+Photo URL    : https://www.flickr.com/photos/oliverdodd/5116055325/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Sep 27 02:31:47 GMT+0200 2010
+Upload Date  : Tue Oct 26 04:56:57 GMT+0200 2010
+Views        : 573
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+africa tanzania safari serengeti elephant 

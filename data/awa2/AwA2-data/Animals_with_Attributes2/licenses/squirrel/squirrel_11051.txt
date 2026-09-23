@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MiniF1
+Photo URL    : https://www.flickr.com/photos/minif1/19789558882/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 15 09:41:22 GMT+0200 2015
+Upload Date  : Sat Jul 18 13:26:36 GMT+0200 2015
+Views        : 49
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Taken at Llanerchindda Farm, Camarthenshire
+
+
++--------+
+|  TAGS  |
++--------+
+climbing 

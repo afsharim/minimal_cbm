@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : deischi
+Photo URL    : https://www.flickr.com/photos/deischi/5733578909/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 15 09:55:52 GMT+0200 2011
+Upload Date  : Wed May 18 18:00:54 GMT+0200 2011
+Views        : 375
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra - Close up
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+im Zoo im Bannerghatta National Park.
+
+
++--------+
+|  TAGS  |
++--------+
+Zebra 

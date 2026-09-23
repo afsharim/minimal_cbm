@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : arielmatzuk
+Photo URL    : https://www.flickr.com/photos/arielmatzuk/265281631/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 1 00:00:00 GMT+0200 2006
+Upload Date  : Mon Oct 9 21:30:27 GMT+0200 2006
+Geotag Info  : Latitude:40.013219, Longitude:-105.296144
+Views        : 197
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Boulder, CO
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel " animal" " nature" " boulder" " colorado" slideshow 

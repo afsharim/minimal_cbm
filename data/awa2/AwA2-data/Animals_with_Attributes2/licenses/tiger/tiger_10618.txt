@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : KIMKAT2
+Photo URL    : https://www.flickr.com/photos/bubbleimages/5304220245/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 23 21:08:08 GMT+0100 2008
+Upload Date  : Wed Dec 29 23:40:21 GMT+0100 2010
+Views        : 36
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

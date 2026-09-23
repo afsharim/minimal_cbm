@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MRBECK
+Photo URL    : https://www.flickr.com/photos/mrbeck/1981339391/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 13 12:58:03 GMT+0100 2004
+Upload Date  : Mon Nov 12 11:54:03 GMT+0100 2007
+Geotag Info  : Latitude:42.502355, Longitude:-83.023252
+Views        : 108
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+squirrel sniffing ground
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Squirrel looking for something to eat in the backyard.
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel outdoors nature animal 

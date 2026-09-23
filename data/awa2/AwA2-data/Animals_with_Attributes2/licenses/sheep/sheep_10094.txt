@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tony Austin
+Photo URL    : https://www.flickr.com/photos/tonyaustin/5543701064/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 20 14:59:51 GMT+0100 2011
+Upload Date  : Sun Mar 20 18:20:38 GMT+0100 2011
+Geotag Info  : Latitude:53.594258, Longitude:-0.917706
+Views        : 476
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Baby Sheeps!!!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+sheep lamb geotagged geo:lat=53.59425880446219 geo:lon=-0.9177060616295752 

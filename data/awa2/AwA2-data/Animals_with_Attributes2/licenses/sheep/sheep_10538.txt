@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ana _Rey
+Photo URL    : https://www.flickr.com/photos/anarey/8719478090/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 4 17:53:40 GMT+0200 2013
+Upload Date  : Wed May 8 03:38:20 GMT+0200 2013
+Geotag Info  : Latitude:54.754845, Longitude:-8.430633
+Views        : 524
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Ovejas
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Visita al Condado de <a href="http://en.wikipedia.org/wiki/Donegal" rel="nofollow">Donegal</a>
+
+
++--------+
+|  TAGS  |
++--------+
+ovejas sheep lamb 

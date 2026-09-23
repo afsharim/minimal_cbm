@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : smy315
+Photo URL    : https://www.flickr.com/photos/smyoon315/15361068773/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Aug 27 04:10:58 GMT+0200 2014
+Upload Date  : Tue Dec 9 05:12:15 GMT+0100 2014
+Views        : 56
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Franklin Park Zoo 56
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

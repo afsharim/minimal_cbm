@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ☺ Lee J Haywood
+Photo URL    : https://www.flickr.com/photos/leehaywood/4709550459/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 14 16:01:37 GMT+0200 2010
+Upload Date  : Thu Jun 17 22:54:54 GMT+0200 2010
+Views        : 295
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Antler view
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Taken at Wollaton Park.
+
+
++--------+
+|  TAGS  |
++--------+
+"Wollaton Park" deer antlers 

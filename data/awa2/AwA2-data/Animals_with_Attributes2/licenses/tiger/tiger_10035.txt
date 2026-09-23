@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : GreggMP
+Photo URL    : https://www.flickr.com/photos/greggmichaelphotography/3896665426/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 6 14:33:51 GMT+0200 2009
+Upload Date  : Mon Sep 7 16:10:41 GMT+0200 2009
+Views        : 98
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+218
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+tiger
+
+
++--------+
+|  TAGS  |
++--------+
+tiger animal zoo 

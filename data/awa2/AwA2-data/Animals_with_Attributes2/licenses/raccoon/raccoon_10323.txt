@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : gsloan
+Photo URL    : https://www.flickr.com/photos/gsloan/8705488145/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 28 13:49:21 GMT+0200 2013
+Upload Date  : Sat May 4 05:16:50 GMT+0200 2013
+Views        : 444
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Raccoon
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

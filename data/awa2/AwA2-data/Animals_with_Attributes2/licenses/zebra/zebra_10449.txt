@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mcoughlin
+Photo URL    : https://www.flickr.com/photos/mcoughlin/11414819423/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Nov 25 00:00:04 GMT+0100 2013
+Upload Date  : Tue Dec 17 07:14:38 GMT+0100 2013
+Geotag Info  : Latitude:-1.975774, Longitude:34.998321
+Views        : 614
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Teensiest Zebra of the Trip?
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Serengeti National Park, Tanzania
+
+
++--------+
+|  TAGS  |
++--------+
+zebra colt serengeti tanzania 

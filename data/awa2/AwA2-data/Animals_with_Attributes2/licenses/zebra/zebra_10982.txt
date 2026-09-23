@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Steven Gerner
+Photo URL    : https://www.flickr.com/photos/sgerner/7849467814/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 4 17:57:52 GMT+0200 2009
+Upload Date  : Fri Aug 24 09:58:38 GMT+0200 2012
+Views        : 292
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra, Kruger, South Africa
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Wildlife SouthAfrica "Animal Planet" 

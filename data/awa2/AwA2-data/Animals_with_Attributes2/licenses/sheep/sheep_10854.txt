@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : meemal
+Photo URL    : https://www.flickr.com/photos/meemal/1424248870/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 8 11:03:20 GMT+0200 2007
+Upload Date  : Sat Sep 22 18:50:35 GMT+0200 2007
+Views        : 142
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+sheep grass broadbottom 

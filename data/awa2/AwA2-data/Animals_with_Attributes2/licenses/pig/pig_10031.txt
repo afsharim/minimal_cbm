@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Phil Roeder
+Photo URL    : https://www.flickr.com/photos/tabor-roeder/9573624296/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 11 14:27:34 GMT+0200 2013
+Upload Date  : Fri Aug 23 00:33:06 GMT+0200 2013
+Geotag Info  : Latitude:41.595595, Longitude:-93.551974
+Views        : 2,129
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+2013 Iowa State Fair
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Sweet dreams.
+
+
++--------+
+|  TAGS  |
++--------+
+"Des Moines" Iowa "Iowa State Fair" "Canon EF 50mm f1.8" agriculture pig hog 

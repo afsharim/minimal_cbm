@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : dbaron
+Photo URL    : https://www.flickr.com/photos/dbaron/16331273689/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Feb 13 02:20:02 GMT+0100 2015
+Upload Date  : Fri Feb 13 11:29:10 GMT+0100 2015
+Geotag Info  : Latitude:-33.842778, Longitude:151.239970
+Views        : 159
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Chimpanzees (Mother and Child)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(dsc00719)
+
+
++--------+
+|  TAGS  |
++--------+
+Australia "New South Wales" NSW Sydney Zoo "Taronga Zoo" geotagged geo:lat=-33.842778 geo:lon=151.239970 

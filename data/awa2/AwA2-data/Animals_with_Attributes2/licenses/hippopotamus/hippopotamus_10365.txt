@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : dougwoods
+Photo URL    : https://www.flickr.com/photos/deerwooduk/2833558220/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 24 15:08:18 GMT+0200 2008
+Upload Date  : Sat Sep 6 18:06:05 GMT+0200 2008
+Views        : 154
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hippopotamus
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A hippopotamus taken while on safari at mizima springs in Kenya
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

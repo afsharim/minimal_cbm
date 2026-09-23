@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jlhopgood
+Photo URL    : https://www.flickr.com/photos/jlhopgood/6441207069/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Aug 16 12:57:09 GMT+0200 2011
+Upload Date  : Fri Dec 2 13:28:21 GMT+0100 2011
+Views        : 1,205
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+animal print zebra 

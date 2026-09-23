@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : surabhidhake
+Photo URL    : https://www.flickr.com/photos/surabhidhake/3176937261/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jan 7 14:19:29 GMT+0100 2009
+Upload Date  : Wed Jan 7 20:19:29 GMT+0100 2009
+Geotag Info  : Latitude:44.875092, Longitude:-68.678627
+Views        : 947
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Horse "Whitter Farm in Maine" 

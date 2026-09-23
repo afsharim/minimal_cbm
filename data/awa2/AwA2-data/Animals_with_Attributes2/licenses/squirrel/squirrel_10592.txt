@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : The Webhamster
+Photo URL    : https://www.flickr.com/photos/the_webhamster/8350848623/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 29 15:05:21 GMT+0200 2012
+Upload Date  : Sun Jan 6 01:27:50 GMT+0100 2013
+Geotag Info  : Latitude:45.302565, Longitude:-75.870637
+Views        : 336
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel On A Branch
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel brank pinecone 

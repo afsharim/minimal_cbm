@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ☺ Lee J Haywood
+Photo URL    : https://www.flickr.com/photos/leehaywood/4229525380/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 31 16:33:24 GMT+0200 2009
+Upload Date  : Wed Dec 30 22:35:04 GMT+0100 2009
+Views        : 481
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horse approaching
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A horse approaches us carefully, as it is called over.
+
+
++--------+
+|  TAGS  |
++--------+
+horse field grass walking 

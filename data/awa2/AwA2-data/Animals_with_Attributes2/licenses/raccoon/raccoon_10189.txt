@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bobdobbsisdead
+Photo URL    : https://www.flickr.com/photos/bobdobbsisdead/5304318606/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Dec 29 11:40:13 GMT+0100 2010
+Upload Date  : Wed Dec 29 20:40:13 GMT+0100 2010
+Views        : 357
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Raccoon at Raccoon Bridge
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+At Raccoon Bridge in Stanley Park
+
+
++--------+
+|  TAGS  |
++--------+
+raccoon "raccoon bridge" "stanley park" 

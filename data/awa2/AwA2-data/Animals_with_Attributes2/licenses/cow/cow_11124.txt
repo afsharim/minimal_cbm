@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Clownhouse III
+Photo URL    : https://www.flickr.com/photos/clownhousethethird/2949159285/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Oct 17 15:10:03 GMT+0200 2008
+Upload Date  : Fri Oct 17 20:02:37 GMT+0200 2008
+Geotag Info  : Latitude:52.129378, Longitude:5.735721
+Views        : 238
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Outsider Cow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+doesn't know what's &quot;goin' on&quot;.
+
+
++--------+
+|  TAGS  |
++--------+
+cows cow moo 

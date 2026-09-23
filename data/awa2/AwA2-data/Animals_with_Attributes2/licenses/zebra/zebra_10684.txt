@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Shazron
+Photo URL    : https://www.flickr.com/photos/shazron/334848202/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 24 16:12:32 GMT+0200 2000
+Upload Date  : Wed Dec 27 07:44:56 GMT+0100 2006
+Geotag Info  : Latitude:43.866218, Longitude:-81.254882
+Views        : 412
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+black on white or white on black?
+
+
++--------+
+|  TAGS  |
++--------+
+safari canada zebra 

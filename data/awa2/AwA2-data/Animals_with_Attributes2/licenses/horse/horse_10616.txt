@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : memyni
+Photo URL    : https://www.flickr.com/photos/memyni/3635301718/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 13 15:28:35 GMT+0200 2009
+Upload Date  : Wed Jun 17 10:16:43 GMT+0200 2009
+Geotag Info  : Latitude:-32.854499, Longitude:151.623044
+Views        : 1,083
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horse eye blaze brown white nose mane ear 

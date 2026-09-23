@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : blackdood
+Photo URL    : https://www.flickr.com/photos/blackdood/4564055925/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Apr 29 16:18:15 GMT+0200 2010
+Upload Date  : Fri Apr 30 03:46:14 GMT+0200 2010
+Views        : 27
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

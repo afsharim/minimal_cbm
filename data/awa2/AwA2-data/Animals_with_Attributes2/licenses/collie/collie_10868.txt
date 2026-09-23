@@ -1,0 +1,12 @@
++--------------------------------------+
+|       Pixabay Photo Metadata         |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Debi Geroux
+Photo URL    : http://www.publicdomainpictures.net/view-image.php?image=86250&picture=hundekopf
+License      : Public Domain (https://creativecommons.org/publicdomain/zero/1.0/)

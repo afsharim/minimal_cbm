@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : cpence
+Photo URL    : https://www.flickr.com/photos/pence/6094535033/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 11 17:31:33 GMT+0200 2011
+Upload Date  : Tue Aug 30 02:35:41 GMT+0200 2011
+Geotag Info  : Latitude:-24.925516, Longitude:31.815032
+Views        : 21
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hippopotamus (Hippopotamus amphibius)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+At this point the guide was pretty freaked, apparently he didn't like hippos.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

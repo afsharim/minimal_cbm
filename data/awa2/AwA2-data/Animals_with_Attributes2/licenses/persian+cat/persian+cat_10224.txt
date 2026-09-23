@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ferruiz
+Photo URL    : https://www.flickr.com/photos/ferruiz/2211327842/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jan 22 00:20:17 GMT+0100 2008
+Upload Date  : Tue Jan 22 04:20:17 GMT+0100 2008
+Geotag Info  : Latitude:-37.246386, Longitude:-73.321723
+Views        : 833
+Comments     : 7
+
+
++---------+
+|  TITLE  |
++---------+
+Gatito Persa
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+El hijo de la alfonsina
+
+
++--------+
+|  TAGS  |
++--------+
+alfonsina gatito cat gato persa "gato persa" arauco 

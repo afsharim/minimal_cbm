@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : docentjoyce
+Photo URL    : https://www.flickr.com/photos/docentjoyce/3853691077/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 24 10:26:54 GMT+0200 2009
+Upload Date  : Tue Aug 25 02:42:45 GMT+0200 2009
+Views        : 3,369
+Comments     : 14
+
+
++---------+
+|  TITLE  |
++---------+
+Oso Flaco Lake Raccoons.
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A marvelous boardwalk crosses Oso Flaco Lake.  These young raccoons came up from one of the reed islands.  They were probably looking for a handout.  
+
+(Oso Flaco is noted for its great birding.)
+
+
++--------+
+|  TAGS  |
++--------+
+raccoons wildlife nature "Oso Flaco Lake" "taxonomy:binomial=Procyon lotor" 

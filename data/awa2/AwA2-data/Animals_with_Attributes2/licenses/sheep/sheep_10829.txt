@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : B.D.'s world
+Photo URL    : https://www.flickr.com/photos/bdsworld/366271088/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 20 04:30:58 GMT+0100 2007
+Upload Date  : Mon Jan 22 22:32:59 GMT+0100 2007
+Geotag Info  : Latitude:47.570735, Longitude:-121.881980
+Views        : 191
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"River Valley Cheese" "Fall City" Washington farm 

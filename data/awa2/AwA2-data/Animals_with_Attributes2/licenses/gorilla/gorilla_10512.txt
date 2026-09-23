@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : aaron_anderer
+Photo URL    : https://www.flickr.com/photos/aaron_anderer/2579352200/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 29 13:15:18 GMT+0200 2007
+Upload Date  : Sun Jun 15 02:58:32 GMT+0200 2008
+Geotag Info  : Latitude:37.730159, Longitude:-122.502456
+Views        : 19
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_0988
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

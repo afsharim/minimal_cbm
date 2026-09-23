@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : DarrelBirkett
+Photo URL    : https://www.flickr.com/photos/darrelbirkett/4956267471/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 4 10:40:49 GMT+0200 2010
+Upload Date  : Sat Sep 4 13:40:18 GMT+0200 2010
+Views        : 106
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Pride
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+D3000 horse 

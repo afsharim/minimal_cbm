@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Alex1961
+Photo URL    : https://www.flickr.com/photos/alex1961/407371133/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Mar 1 21:22:54 GMT+0100 2007
+Upload Date  : Fri Mar 2 03:22:54 GMT+0100 2007
+Views        : 295
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+moose.jpg
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Yellowstone Moose 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ignacio Gómez Cuesta
+Photo URL    : https://www.flickr.com/photos/igcuesta/6703331017/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 14 13:34:15 GMT+0100 2012
+Upload Date  : Sun Jan 15 21:40:55 GMT+0100 2012
+Views        : 63
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Collie
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

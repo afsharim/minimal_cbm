@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : TomKremer
+Photo URL    : https://www.flickr.com/photos/komtiki/3342851788/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 28 13:28:00 GMT+0100 2009
+Upload Date  : Tue Mar 10 00:15:34 GMT+0100 2009
+Geotag Info  : Latitude:53.354905, Longitude:-6.304500
+Views        : 212
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Zoo Dublin: Hippo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Dublin 2009 Zoo" Dublin Zoo Animal 5dmk2 5dmkII 100-400mm Hippopotame Nilpferd Hippo 

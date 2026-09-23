@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Charlie Dave
+Photo URL    : https://www.flickr.com/photos/charliedave/3695051269/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 24 17:21:18 GMT+0200 2009
+Upload Date  : Mon Jul 6 23:47:13 GMT+0200 2009
+Views        : 769
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Shire Horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A real live &quot;Perceval&quot; at Shugborough
+
+
++--------+
+|  TAGS  |
++--------+
+"Shire Horse" Shugborough 

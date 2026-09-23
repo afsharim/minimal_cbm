@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : NH53
+Photo URL    : https://www.flickr.com/photos/nh53/5185099635/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Nov 17 13:47:35 GMT+0100 2010
+Upload Date  : Wed Nov 17 22:47:35 GMT+0100 2010
+Geotag Info  : Latitude:-19.130896, Longitude:23.041076
+Views        : 1,115
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hippo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This was the only occasion we saw a hippo out of water
+
+
++--------+
+|  TAGS  |
++--------+
+botswana moremi hippo hippopotamus 

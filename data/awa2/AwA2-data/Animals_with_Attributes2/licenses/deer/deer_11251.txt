@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Theodore Scott
+Photo URL    : https://www.flickr.com/photos/theodorescott/4264367143/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Nov 9 09:09:01 GMT+0100 2009
+Upload Date  : Mon Jan 11 05:11:51 GMT+0100 2010
+Views        : 612
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Three Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+At Mercer Arboretum, they scatter feed for the deer. They are still skittish though, so it is hard to get close enough for a sharp photo.
+
+
++--------+
+|  TAGS  |
++--------+
+"Mercer Arboretum" deer forest houston texas 

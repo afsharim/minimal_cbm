@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : girolame
+Photo URL    : https://www.flickr.com/photos/girolame/138397611/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 26 01:05:41 GMT+0200 2004
+Upload Date  : Mon May 1 18:54:00 GMT+0200 2006
+Views        : 78
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Le zoo d'Anvers
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zoo anvers antwerp castor "zoo d'anvers" "antwerp zoo" 

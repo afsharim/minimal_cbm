@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : karlnorling
+Photo URL    : https://www.flickr.com/photos/karlnorling/9532686964/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 1 16:32:37 GMT+0200 2013
+Upload Date  : Sat Aug 17 19:40:55 GMT+0200 2013
+Views        : 248
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horses in Vieques
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horses horse vieques 

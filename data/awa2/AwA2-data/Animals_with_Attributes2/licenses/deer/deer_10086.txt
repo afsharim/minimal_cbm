@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : London looks
+Photo URL    : https://www.flickr.com/photos/londonlooks/4089224224/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 8 17:47:18 GMT+0100 2009
+Upload Date  : Mon Nov 9 09:47:19 GMT+0100 2009
+Views        : 382
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+big antlers
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+deer antler 

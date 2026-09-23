@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : PatrickRohe
+Photo URL    : https://www.flickr.com/photos/patrickrohe/5564294675/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Mar 11 10:03:05 GMT+0100 2011
+Upload Date  : Sun Mar 27 18:48:26 GMT+0200 2011
+Geotag Info  : Latitude:38.602383, Longitude:-78.364967
+Views        : 30
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_6429
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Some deer along Skyline Drive; the sun was pointed right at me as I was trying to get some photos of the deer, so pardon the lens flare.
+
+
++--------+
+|  TAGS  |
++--------+
+skylinedrive deer 

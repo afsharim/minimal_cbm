@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Liam Quinn
+Photo URL    : https://www.flickr.com/photos/liamq/6086430485/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jan 25 07:41:01 GMT+0100 2011
+Upload Date  : Sat Aug 27 23:19:24 GMT+0200 2011
+Geotag Info  : Latitude:-64.750000, Longitude:-63.083333
+Views        : 2,544
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Killer Whale in the Gerlache Strait, Antarctica
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Killer Whale" whale orca "Orcinus orca" "Gerlache Strait" Antarctica "Antarctic Peninsula" 

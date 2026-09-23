@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : andrew_mc_d
+Photo URL    : https://www.flickr.com/photos/andrew_mc_d/6089274813/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 20 14:42:19 GMT+0200 2011
+Upload Date  : Sun Aug 28 19:40:20 GMT+0200 2011
+Views        : 127
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Horse in jimjams, spotted in Antelope Park
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

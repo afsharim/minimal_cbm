@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : AZAdam
+Photo URL    : https://www.flickr.com/photos/azadam/149107952/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 18 08:57:19 GMT+0200 2006
+Upload Date  : Fri May 19 06:47:46 GMT+0200 2006
+Geotag Info  : Latitude:35.519198, Longitude:-97.474715
+Views        : 737
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Chimp
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+chimp chimpanzee primate monkey oklahoma "oklahoma city" zoo "oklahoma city zoo" animal animals 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : fleurione
+Photo URL    : https://www.flickr.com/photos/fleurione/153814066/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 25 13:53:45 GMT+0200 2006
+Upload Date  : Fri May 26 23:28:12 GMT+0200 2006
+Geotag Info  : Latitude:55.948300, Longitude:-3.269000
+Views        : 106
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Otters
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+at Edinburgh zoo, 25/5/06
+
+
++--------+
+|  TAGS  |
++--------+
+zoo edinburghzoo edinburgh animals otters 

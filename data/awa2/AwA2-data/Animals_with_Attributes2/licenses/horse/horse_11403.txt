@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Stephen Horvath
+Photo URL    : https://www.flickr.com/photos/stephenhorvath/2478539827/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 18 13:54:46 GMT+0100 2007
+Upload Date  : Fri May 9 23:58:44 GMT+0200 2008
+Views        : 354
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Salvador Criollo Horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+These horses were at Lago de Coatepeque in El Salvador.
+
+
++--------+
+|  TAGS  |
++--------+
+Horses 

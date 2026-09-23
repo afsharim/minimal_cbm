@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : davida3
+Photo URL    : https://www.flickr.com/photos/davida3/5204577625/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Nov 1 15:44:03 GMT+0100 2010
+Upload Date  : Wed Nov 24 21:42:39 GMT+0100 2010
+Views        : 166
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+stereo zebras
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+kenya chronicals
+
+
++--------+
+|  TAGS  |
++--------+
+zebras kenya 

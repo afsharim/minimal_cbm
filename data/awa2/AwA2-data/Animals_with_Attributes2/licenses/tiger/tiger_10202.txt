@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mike Bowler
+Photo URL    : https://www.flickr.com/photos/mbowler/111138243/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 8 16:08:03 GMT+0100 2003
+Upload Date  : Sun Mar 12 04:01:18 GMT+0100 2006
+Geotag Info  : Latitude:43.818697, Longitude:-79.185161
+Views        : 1,157
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Siberian tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+siberiantiger tiger torontozoo 

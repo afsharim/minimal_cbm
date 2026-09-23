@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jan Tik
+Photo URL    : https://www.flickr.com/photos/jantik/3689556/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 23 10:42:04 GMT+0100 2005
+Upload Date  : Sun Jan 23 11:42:04 GMT+0100 2005
+Views        : 438
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Cindy's
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Hugo, MN
+
+
++--------+
+|  TAGS  |
++--------+
+horse horses 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Marcin Wichary
+Photo URL    : https://www.flickr.com/photos/mwichary/3410794626/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Apr 3 11:17:44 GMT+0200 2009
+Upload Date  : Sat Apr 4 02:57:36 GMT+0200 2009
+Views        : 60
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+A squirrel next to the White House
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"washington, d.c." squirrel 

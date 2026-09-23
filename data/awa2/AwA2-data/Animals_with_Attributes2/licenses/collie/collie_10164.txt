@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Joanna Bourne
+Photo URL    : https://www.flickr.com/photos/66992990@N00/6853370811/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Feb 10 13:37:50 GMT+0100 2012
+Upload Date  : Fri Feb 10 22:37:50 GMT+0100 2012
+Views        : 991
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Collie of Paris
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+man, collie, dog, paris, bicycle, walking dog, walks dog, paris street, parisian, parisian sidewalk
+
+
++--------+
+|  TAGS  |
++--------+
+man collie dog paris bicycle "walking dog" "walks dog" "paris street" parisian "parisian sidewalk" 

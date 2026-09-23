@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Samuel Charles Pearce
+Photo URL    : https://www.flickr.com/photos/25869927@N03/3193288815/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jan 17 03:50:58 GMT+0100 2007
+Upload Date  : Tue Jan 13 12:23:41 GMT+0100 2009
+Views        : 49
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+seal
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

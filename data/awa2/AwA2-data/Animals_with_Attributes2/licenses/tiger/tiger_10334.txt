@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : antaldaniel
+Photo URL    : https://www.flickr.com/photos/antaldaniel/8052232662/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Oct 3 19:44:54 GMT+0200 2012
+Upload Date  : Thu Oct 4 03:04:28 GMT+0200 2012
+Geotag Info  : Latitude:40.858681, Longitude:-73.876619
+Views        : 351
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger cub
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+nyc tiger cub 

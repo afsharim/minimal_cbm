@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : laucky
+Photo URL    : https://www.flickr.com/photos/tlauckner/4929731304/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 5 14:15:59 GMT+0200 2010
+Upload Date  : Thu Aug 26 17:45:51 GMT+0200 2010
+Geotag Info  : Latitude:53.080638, Longitude:4.741691
+Views        : 1,236
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+seal
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+seal 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Peter O'Connor aka anemoneprojectors
+Photo URL    : https://www.flickr.com/photos/anemoneprojectors/5316062905/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 2 15:07:32 GMT+0100 2011
+Upload Date  : Sun Jan 2 18:10:32 GMT+0100 2011
+Geotag Info  : Latitude:51.896747, Longitude:-0.216082
+Views        : 763
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Chadwell Road, Stevenage, 2 January 2011.
+
+
++--------+
+|  TAGS  |
++--------+
+Horse "Equus ferus caballus" "Equus ferus" Equus Equine Equidae Mammal Animal Stevenage Hertfordshire 

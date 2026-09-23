@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : International Livestock Research Institute
+Photo URL    : https://www.flickr.com/photos/ilri/6865910497/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Feb 13 02:24:09 GMT+0100 2012
+Upload Date  : Mon Feb 13 00:24:09 GMT+0100 2012
+Geotag Info  : Latitude:26.116899, Longitude:94.284217
+Views        : 1,477
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Nagaland pig farmer Manpai Konyak
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Manpai Konyak is a pig farmer from Nagaland, India, who benefited from ILRI's pig production and marketing research (photo credit: ILRI/Ram Deka).
+
+
++--------+
+|  TAGS  |
++--------+
+Nagaland India Pigs CRP2 ILRI 

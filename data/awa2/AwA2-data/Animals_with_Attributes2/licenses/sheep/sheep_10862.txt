@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Go Imai
+Photo URL    : https://www.flickr.com/photos/imi5/2056795584/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Nov 23 10:17:27 GMT+0100 2007
+Upload Date  : Fri Nov 23 07:14:50 GMT+0100 2007
+Views        : 240
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+天王寺動物園の羊。えさをあげます。
+
+
++--------+
+|  TAGS  |
++--------+
+zoo tennouji 天王寺 動物園 羊 sheep osaka animal 

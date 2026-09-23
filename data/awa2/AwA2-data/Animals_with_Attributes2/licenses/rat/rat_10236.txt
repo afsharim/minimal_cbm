@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Genista
+Photo URL    : https://www.flickr.com/photos/genista/2388754/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Sep 12 11:01:52 GMT+0200 2003
+Upload Date  : Tue Dec 21 03:24:52 GMT+0100 2004
+Geotag Info  : Latitude:37.863754, Longitude:-122.274141
+Views        : 1,257
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+rat
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+rats pets animals mammals macro 

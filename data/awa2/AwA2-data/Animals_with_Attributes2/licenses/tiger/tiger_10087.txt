@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : atubbs
+Photo URL    : https://www.flickr.com/photos/atubbs/2530073860/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 25 14:24:11 GMT+0200 2008
+Upload Date  : Wed May 28 04:21:31 GMT+0200 2008
+Views        : 16
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Big Cat
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+philadelphia zoo tiger 

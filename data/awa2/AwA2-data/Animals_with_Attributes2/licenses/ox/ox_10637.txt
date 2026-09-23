@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : dr. friendly
+Photo URL    : https://www.flickr.com/photos/57777529@N02/5398675284/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 29 11:30:35 GMT+0100 2011
+Upload Date  : Sat Jan 29 18:45:01 GMT+0100 2011
+Geotag Info  : Latitude:53.238080, Longitude:10.043036
+Views        : 13
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

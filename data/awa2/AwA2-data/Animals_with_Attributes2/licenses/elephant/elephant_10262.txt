@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Benoit Dupont
+Photo URL    : https://www.flickr.com/photos/benoitdupont/4959963522/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Sep 2 12:55:48 GMT+0200 2010
+Upload Date  : Sun Sep 5 13:36:26 GMT+0200 2010
+Geotag Info  : Latitude:51.218727, Longitude:4.420811
+Views        : 609
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant playing ball
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+antwerp anvers ball elephant zoo 

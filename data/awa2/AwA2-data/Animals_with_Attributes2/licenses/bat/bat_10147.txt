@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Gilles San Martin
+Photo URL    : https://www.flickr.com/photos/sanmartin/2863188648/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 12 12:55:05 GMT+0100 2008
+Upload Date  : Tue Sep 16 18:18:35 GMT+0200 2008
+Views        : 2,604
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Myotis daubentonii
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+gtplecotus mammifere "Lanaye inférieure" bat chiroptera Belgium "Myotis daubentonii" "Myotis daubentoni" 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Oyvind Solstad
+Photo URL    : https://www.flickr.com/photos/brandnewbrain/132296811/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Apr 13 14:03:57 GMT+0200 2006
+Upload Date  : Fri Apr 21 11:03:45 GMT+0200 2006
+Views        : 9,088
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant in Kobe Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Poor elephant. Horrible conditions.
+
+
++--------+
+|  TAGS  |
++--------+
+Japan kobe zoo elephant 

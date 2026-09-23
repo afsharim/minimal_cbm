@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jondejong
+Photo URL    : https://www.flickr.com/photos/jondejong/9233787475/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 5 18:56:17 GMT+0200 2013
+Upload Date  : Mon Jul 8 03:41:51 GMT+0200 2013
+Geotag Info  : Latitude:45.683158, Longitude:-91.678934
+Views        : 291
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer in Field
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Wisconsin deer field "Long Lake" 

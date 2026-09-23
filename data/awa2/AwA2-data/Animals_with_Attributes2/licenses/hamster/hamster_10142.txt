@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : riywo
+Photo URL    : https://www.flickr.com/photos/riywo/2172350171/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jan 7 05:30:37 GMT+0100 2008
+Upload Date  : Sun Jan 6 21:54:24 GMT+0100 2008
+Views        : 865
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+CIMG2472
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+hamster 

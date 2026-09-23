@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : erikpaterson
+Photo URL    : https://www.flickr.com/photos/erikpaterson/6046429240/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 15 13:59:24 GMT+0200 2011
+Upload Date  : Mon Aug 15 18:51:42 GMT+0200 2011
+Views        : 729
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Cows
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+My Wildlife photography philosophy:  If there's no wildlife, take photos of cows.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

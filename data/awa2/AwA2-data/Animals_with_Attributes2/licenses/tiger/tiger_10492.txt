@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MasDom
+Photo URL    : https://www.flickr.com/photos/maschke/2829728554/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Sep 4 13:17:03 GMT+0200 2008
+Upload Date  : Fri Sep 5 04:32:13 GMT+0200 2008
+Geotag Info  : Latitude:43.818179, Longitude:-79.187393
+Views        : 265
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Tiger Canada Zoo Toronto 2008 

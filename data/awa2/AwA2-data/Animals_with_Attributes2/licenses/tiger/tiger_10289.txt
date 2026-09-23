@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Alex Panoiu
+Photo URL    : https://www.flickr.com/photos/alexpanoiu/20424120594/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 30 12:33:24 GMT+0200 2015
+Upload Date  : Tue Sep 1 03:23:09 GMT+0200 2015
+Geotag Info  : Latitude:44.517844, Longitude:26.103825
+Views        : 165
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger (AP4N1201)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A tiger (<a href="https://en.wikipedia.org/wiki/Tiger" rel="nofollow"><i>Panthera tigris</i></a>) in the Bucharast Zoo. JPEG from camera, Neutral picture style, no post-processing.
+
+
++--------+
+|  TAGS  |
++--------+
+Animals Bucharest Bucureşti Tiger Zoo 

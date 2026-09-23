@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : pretendtious
+Photo URL    : https://www.flickr.com/photos/27273053@N05/5248260349/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Nov 3 14:14:30 GMT+0100 2010
+Upload Date  : Fri Dec 10 11:54:48 GMT+0100 2010
+Views        : 1,798
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Taken at the <a href="http://www.lincolnlogcabin.org/" rel="nofollow">Lincoln Log Cabin</a> museum in Illinois, a living history museum based on the farm of Thomas Lincoln - Abe Lincoln's father - and the farm of his neighbour Stephen Sargent.
+
+
++--------+
+|  TAGS  |
++--------+
+sheep farm "Lincoln Log Cabin" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : halseike
+Photo URL    : https://www.flickr.com/photos/99624358@N00/5824777013/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 11 03:17:02 GMT+0200 2011
+Upload Date  : Sun Jun 12 19:25:15 GMT+0200 2011
+Geotag Info  : Latitude:39.112164, Longitude:-104.939801
+Views        : 335
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Beaver in the Reservoir
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+I wish he would just come a little closer.
+
+
++--------+
+|  TAGS  |
++--------+
+Beaver swimming 

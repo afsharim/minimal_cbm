@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Eric Kilby
+Photo URL    : https://www.flickr.com/photos/ekilby/4377090684/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 21 14:48:33 GMT+0100 2010
+Upload Date  : Sun Feb 21 22:23:23 GMT+0100 2010
+Geotag Info  : Latitude:42.462773, Longitude:-71.093666
+Views        : 1,260
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Moody Lynx
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+stone zoo massachusetts canadian lynx cat paws moody grumpy 

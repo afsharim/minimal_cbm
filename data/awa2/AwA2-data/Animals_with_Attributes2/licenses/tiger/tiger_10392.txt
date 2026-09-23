@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : aeshnaton
+Photo URL    : https://www.flickr.com/photos/aeshnaton/7624145760/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 22 09:40:29 GMT+0200 2012
+Upload Date  : Sun Jul 22 21:41:01 GMT+0200 2012
+Views        : 237
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger_1790
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Tiger 

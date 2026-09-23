@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : popofatticus
+Photo URL    : https://www.flickr.com/photos/barretthall/169859500/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jun 13 13:27:04 GMT+0200 2006
+Upload Date  : Sun Jun 18 22:37:56 GMT+0200 2006
+Views        : 754
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+gorilla, defiant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zoo classtrip gorilla animals 

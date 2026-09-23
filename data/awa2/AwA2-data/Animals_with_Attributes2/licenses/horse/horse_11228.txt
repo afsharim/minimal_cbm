@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : scott.presly
+Photo URL    : https://www.flickr.com/photos/kodok/7632295692/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 23 21:28:19 GMT+0200 2012
+Upload Date  : Mon Jul 23 22:32:08 GMT+0200 2012
+Views        : 3,804
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Naadam horse races
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+30km race.
+All riders under 12. 
+No saddles.
+
+
++--------+
+|  TAGS  |
++--------+
+Mongolia Naadam horses 

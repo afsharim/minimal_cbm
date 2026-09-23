@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jo@net
+Photo URL    : https://www.flickr.com/photos/joanet/5797069081/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 4 21:31:18 GMT+0200 2011
+Upload Date  : Sat Jun 4 21:31:18 GMT+0200 2011
+Geotag Info  : Latitude:44.591475, Longitude:2.402515
+Views        : 4,661
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Flock of sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A flock of sheep following the shepherd
+
+
++--------+
+|  TAGS  |
++--------+
+Averyron France França Francia Midi Pyrenees sheep flock 

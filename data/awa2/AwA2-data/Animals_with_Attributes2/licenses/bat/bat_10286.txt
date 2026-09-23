@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Parc naturel régional des Vosges du Nord
+Photo URL    : https://commons.wikimedia.org/wiki/File:Vespertilion_bechstein.jpg
+License      : public domain
+Date         : 

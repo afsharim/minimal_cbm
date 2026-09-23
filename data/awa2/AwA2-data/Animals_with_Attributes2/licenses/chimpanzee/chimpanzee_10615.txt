@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Edward Akerboom
+Photo URL    : https://www.flickr.com/photos/edward-akerboom/6795019849/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 3 10:46:08 GMT+0200 2011
+Upload Date  : Tue Jan 31 12:17:52 GMT+0100 2012
+Views        : 849
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sierra Leone - Tacugama Chimpanzee Sanctuary
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Sierra Leone" 

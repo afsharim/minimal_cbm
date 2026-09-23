@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Steenbergs
+Photo URL    : https://www.flickr.com/photos/steenbergs/5220311906/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 24 08:00:56 GMT+0200 2010
+Upload Date  : Tue Nov 30 07:08:39 GMT+0100 2010
+Views        : 3,919
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Autumnal Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Sheep bathed in autumnal light in Northumbrian fields
+
+
++--------+
+|  TAGS  |
++--------+
+sheep autumn Northumberland Northumbria farm "farm animals" animal 

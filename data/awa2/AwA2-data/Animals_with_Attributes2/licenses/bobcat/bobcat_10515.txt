@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Matt Mordfin
+Photo URL    : https://www.flickr.com/photos/mmordfin/4134524726/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Nov 25 11:30:02 GMT+0100 2009
+Upload Date  : Wed Nov 25 21:51:39 GMT+0100 2009
+Views        : 112
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lynx
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Biodome Montreal Quebec Lynx 

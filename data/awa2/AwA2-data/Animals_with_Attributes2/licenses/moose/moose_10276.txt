@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : metal-dog
+Photo URL    : https://www.flickr.com/photos/metal-dog/179306596/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 1 16:31:59 GMT+0200 2006
+Upload Date  : Sat Jul 1 23:38:53 GMT+0200 2006
+Views        : 309
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Moose
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+My sister was bitten by a mööse önce.
+
+
++--------+
+|  TAGS  |
++--------+
+skåne sverige sweden "Skånes Djurpark" moose elg dyr animal 

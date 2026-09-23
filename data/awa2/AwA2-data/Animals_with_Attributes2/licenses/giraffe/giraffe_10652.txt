@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Dzung Banme
+Photo URL    : https://www.flickr.com/photos/dzung_banme/8581036601/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 2 11:04:43 GMT+0100 2013
+Upload Date  : Sat Mar 23 05:52:22 GMT+0100 2013
+Views        : 70
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

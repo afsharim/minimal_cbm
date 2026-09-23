@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ramanathan.Kathiresan
+Photo URL    : https://www.flickr.com/photos/rampix/2884795241/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 4 16:26:48 GMT+0200 2008
+Upload Date  : Wed Sep 24 19:25:07 GMT+0200 2008
+Views        : 397
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel Eating Chips
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel chips eating 

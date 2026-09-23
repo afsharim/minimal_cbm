@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ahisgett
+Photo URL    : https://www.flickr.com/photos/hisgett/8489706062/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Feb 19 13:55:32 GMT+0100 2013
+Upload Date  : Tue Feb 19 17:05:11 GMT+0100 2013
+Geotag Info  : Latitude:52.449821, Longitude:-1.910258
+Views        : 1,158
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lynx 4
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Lynx 

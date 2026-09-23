@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Skrewtape
+Photo URL    : https://www.flickr.com/photos/skrewtape/856283838/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jan 1 00:00:00 GMT+0100 2007
+Upload Date  : Fri Jul 20 04:49:59 GMT+0200 2007
+Geotag Info  : Latitude:37.730239, Longitude:-122.502502
+Views        : 463
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe 1
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This giraffe had just got done drinking; I like that I caught a drop of water falling from his chin.
+
+
++--------+
+|  TAGS  |
++--------+
+San Francisco Zoo Giraffe 

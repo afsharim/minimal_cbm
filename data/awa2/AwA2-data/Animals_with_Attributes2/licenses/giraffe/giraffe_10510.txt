@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : russellstreet
+Photo URL    : https://www.flickr.com/photos/russellstreet/4387193396/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 28 13:25:54 GMT+0100 2008
+Upload Date  : Thu Feb 25 11:08:45 GMT+0100 2010
+Geotag Info  : Latitude:-33.843120, Longitude:151.240625
+Views        : 173
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Animal Australia "Giraffa camelopardalis" Giraffe Sydney "Taronga Zoo" "New South Wales" AU 

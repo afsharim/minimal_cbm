@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Perry G
+Photo URL    : https://www.flickr.com/photos/perry_g/161766536/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 3 14:24:41 GMT+0200 2006
+Upload Date  : Tue Jun 6 18:30:30 GMT+0200 2006
+Geotag Info  : Latitude:38.929348, Longitude:-77.048288
+Views        : 639
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Tiger at the National Zoo.
+
+
++--------+
+|  TAGS  |
++--------+
+2006 roadtrip "national zoo" tiger perry_g 

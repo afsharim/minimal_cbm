@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Manfred Morgner
+Photo URL    : https://www.flickr.com/photos/morgner/4917470016/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 25 15:01:01 GMT+0200 2010
+Upload Date  : Sun Aug 22 22:01:13 GMT+0200 2010
+Views        : 108
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Anlauf 324
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Springturnier in Wil 2010
+
+
++--------+
+|  TAGS  |
++--------+
+Pferd Wettbewerb Wil 

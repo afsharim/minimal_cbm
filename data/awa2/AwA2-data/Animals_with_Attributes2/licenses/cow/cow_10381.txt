@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : twicepix
+Photo URL    : https://www.flickr.com/photos/twicepix/8071543228/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Aug 22 14:41:26 GMT+0200 2012
+Upload Date  : Tue Oct 9 20:33:13 GMT+0200 2012
+Geotag Info  : Latitude:46.713863, Longitude:7.925213
+Views        : 803
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+cow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+kuh
+
+
++--------+
+|  TAGS  |
++--------+
+kuh cow fleckvieh nutztier milch tier animal 

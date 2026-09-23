@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : tattiehowker
+Photo URL    : https://www.flickr.com/photos/tattiehowker/9938578023/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Sep 25 12:48:10 GMT+0200 2013
+Upload Date  : Wed Sep 25 21:20:58 GMT+0200 2013
+Views        : 122
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Fallow Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

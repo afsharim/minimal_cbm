@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Cloudtail the Snow Leopard
+Photo URL    : https://www.flickr.com/photos/blacktigersdream/16423245519/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 23 16:52:57 GMT+0200 2014
+Upload Date  : Sun Feb 22 08:00:07 GMT+0100 2015
+Geotag Info  : Latitude:51.240540, Longitude:7.110321
+Views        : 702
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A picture, I've made at Zoo Wuppertal.
+
+
++--------+
+|  TAGS  |
++--------+
+zoo; wuppertal; tier; animal; mammal; säugetier; katze; cat; großkatze; raubkatze; big; panthera; tigris; tiger; amur; sibirischer 

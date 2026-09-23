@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : WalkingGeek
+Photo URL    : https://www.flickr.com/photos/wengs/4491281913/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 4 14:42:54 GMT+0200 2010
+Upload Date  : Mon Apr 5 03:41:03 GMT+0200 2010
+Views        : 2
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+025
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

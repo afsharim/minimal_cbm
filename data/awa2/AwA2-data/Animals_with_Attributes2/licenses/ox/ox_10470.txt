@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : karine*imagine
+Photo URL    : https://www.flickr.com/photos/karineimagine/4130134512/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 22 16:23:47 GMT+0100 2009
+Upload Date  : Tue Nov 24 04:47:38 GMT+0100 2009
+Views        : 25
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+moo.
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

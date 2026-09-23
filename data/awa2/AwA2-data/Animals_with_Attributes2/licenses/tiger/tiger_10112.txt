@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : b24chicago
+Photo URL    : https://www.flickr.com/photos/b24chicago/2852054222/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Sep 1 12:54:17 GMT+0200 2008
+Upload Date  : Sat Sep 13 00:41:38 GMT+0200 2008
+Geotag Info  : Latitude:42.476599, Longitude:-83.155426
+Views        : 199
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Detroit Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Detroit Zoological Park - Royal Oak, Michigan - September 1st, 2008
+
+
++--------+
+|  TAGS  |
++--------+
+detroit zoo detroitzoo michigan tiger 

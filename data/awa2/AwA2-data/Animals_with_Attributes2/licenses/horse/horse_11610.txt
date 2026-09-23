@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Little Pants1
+Photo URL    : https://www.flickr.com/photos/shanaford/8676459309/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Mar 26 09:07:59 GMT+0100 2013
+Upload Date  : Wed Apr 24 07:21:25 GMT+0200 2013
+Views        : 1,344
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Wild Horses
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Wild Horses on the open range in eastern Washington
+
+
++--------+
+|  TAGS  |
++--------+
+"wild horses" 

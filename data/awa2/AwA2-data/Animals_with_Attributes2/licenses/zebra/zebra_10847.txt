@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : roycoert
+Photo URL    : https://www.flickr.com/photos/rbcoert/5891085583/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 27 11:08:32 GMT+0200 2010
+Upload Date  : Fri Jul 1 19:55:56 GMT+0200 2011
+Views        : 18
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

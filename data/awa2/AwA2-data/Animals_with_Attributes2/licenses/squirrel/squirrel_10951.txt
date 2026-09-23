@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : The Manual Photographer
+Photo URL    : https://www.flickr.com/photos/uponnothing/8712708209/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 5 18:51:45 GMT+0200 2012
+Upload Date  : Mon May 6 11:32:21 GMT+0200 2013
+Views        : 1,390
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Canon FD 80-200mm f4L, wide open.
+
+
++--------+
+|  TAGS  |
++--------+
+Squirrel 

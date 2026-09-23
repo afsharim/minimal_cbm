@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : nichcollins
+Photo URL    : https://www.flickr.com/photos/nicholascollins/1182990076/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 11 14:30:51 GMT+0100 2007
+Upload Date  : Mon Aug 20 15:48:05 GMT+0200 2007
+Geotag Info  : Latitude:35.147547, Longitude:-89.986052
+Views        : 185
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Memphis Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Elephants
+
+
++--------+
+|  TAGS  |
++--------+
+elephants zoo memphis animals 

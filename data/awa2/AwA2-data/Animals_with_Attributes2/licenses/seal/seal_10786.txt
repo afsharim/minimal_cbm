@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : treehouse1977
+Photo URL    : https://www.flickr.com/photos/treehouse1977/4906635827/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 13 13:29:51 GMT+0200 2010
+Upload Date  : Thu Aug 19 12:09:58 GMT+0200 2010
+Geotag Info  : Latitude:50.092971, Longitude:-5.200867
+Views        : 1,156
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Seal
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+At the Seal Sanctury, Gweek.
+
+
++--------+
+|  TAGS  |
++--------+
+Cornwall seal sanctuary Gweek Helston 

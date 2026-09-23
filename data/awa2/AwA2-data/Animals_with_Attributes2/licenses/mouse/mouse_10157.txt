@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : JosephSardin
+Photo URL    : https://www.flickr.com/photos/14328577@N08/3438966354/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Apr 13 18:10:46 GMT+0200 2009
+Upload Date  : Mon Apr 13 19:18:15 GMT+0200 2009
+Geotag Info  : Latitude:48.303418, Longitude:1.541519
+Views        : 916
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Souris
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+L'une des nombreuses souris qui habitent notre poulailler. Le chat y est interdit depuis que des poussins sont nés. Les souris dansent et sont sans doute entre 10 et 20 à profiter des graines destinées aux poules.
+
+
++--------+
+|  TAGS  |
++--------+
+souris mouse 

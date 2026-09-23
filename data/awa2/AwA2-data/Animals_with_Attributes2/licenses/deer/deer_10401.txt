@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : phalinn
+Photo URL    : https://www.flickr.com/photos/phalinn/3013548940/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Nov 7 15:43:54 GMT+0100 2008
+Upload Date  : Sat Nov 8 19:41:48 GMT+0100 2008
+Geotag Info  : Latitude:3.207832, Longitude:101.756486
+Views        : 85
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Zoo Negara
+
+
++--------+
+|  TAGS  |
++--------+
+Zoo negara malaysia selangor kl kuala lumpur wildlife nature animals 

@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tasshu Rikimara
+Photo URL    : https://www.flickr.com/photos/tasshu113/4956310853/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 27 03:38:42 GMT+0200 2009
+Upload Date  : Sat Sep 4 14:06:02 GMT+0200 2010
+Views        : 1,045
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Visayan Spotted Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Photo of a Visayan Spotted Deer.
+
+Taken at Colchester Zoo.
+
+
++--------+
+|  TAGS  |
++--------+
+Spotted Deer 

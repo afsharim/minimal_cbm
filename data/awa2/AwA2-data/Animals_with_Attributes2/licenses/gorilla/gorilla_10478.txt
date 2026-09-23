@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : TNVWBOY
+Photo URL    : https://www.flickr.com/photos/tnvwboy/3366425590/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Mar 18 13:42:40 GMT+0100 2009
+Upload Date  : Wed Mar 18 21:42:40 GMT+0100 2009
+Geotag Info  : Latitude:41.225602, Longitude:-95.925707
+Views        : 1,644
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+gorillas
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Gorilla Zoo Omaha 

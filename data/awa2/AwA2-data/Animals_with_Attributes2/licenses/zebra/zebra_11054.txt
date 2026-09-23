@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sheilaellen
+Photo URL    : https://www.flickr.com/photos/sheilaellen/1090247732/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 11 05:33:15 GMT+0200 2007
+Upload Date  : Sun Aug 12 08:18:31 GMT+0200 2007
+Geotag Info  : Latitude:-34.915848, Longitude:138.603000
+Views        : 59
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebras
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Adelaide "Southern Australia" Australia "Adelaide Zoo" dopplr:explore=9y91 

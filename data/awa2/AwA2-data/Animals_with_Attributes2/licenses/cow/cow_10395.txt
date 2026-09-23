@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : andrew_j_w
+Photo URL    : https://www.flickr.com/photos/andrew_j_w/9862190505/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 8 13:07:49 GMT+0200 2013
+Upload Date  : Sun Sep 22 00:29:58 GMT+0200 2013
+Geotag Info  : Latitude:53.565598, Longitude:-10.103130
+Views        : 4,194
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+cow animal 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : teofilo
+Photo URL    : https://www.flickr.com/photos/teofilo/7179658420/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri May 11 18:38:45 GMT+0200 2012
+Upload Date  : Sat May 12 04:30:57 GMT+0200 2012
+Geotag Info  : Latitude:61.211117, Longitude:-149.879264
+Views        : 839
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Moose!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This is literally two blocks from my apartment. I saw it on my way home from work.
+
+
++--------+
+|  TAGS  |
++--------+
+Anchorage moose 

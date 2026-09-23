@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ruth and Dave
+Photo URL    : https://www.flickr.com/photos/ruthanddave/1105664698/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 4 13:57:04 GMT+0200 2007
+Upload Date  : Mon Aug 13 17:40:17 GMT+0200 2007
+Geotag Info  : Latitude:50.552489, Longitude:-126.823511
+Views        : 978
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Three orca
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+orca "killer whale" three pod family swimming "vancouver island" "johnstone strait" "whale watching" "stubbs island" "orca orcinus" 

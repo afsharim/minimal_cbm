@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : wharman
+Photo URL    : https://www.flickr.com/photos/quirky/6470574535/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Dec 6 00:00:24 GMT+0100 2011
+Upload Date  : Wed Dec 7 09:43:09 GMT+0100 2011
+Geotag Info  : Latitude:-33.843170, Longitude:151.241269
+Views        : 80
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Chimpanzee
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"taronga zoo" sydney australia 

@@ -1,0 +1,39 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : dullhunk
+Photo URL    : https://www.flickr.com/photos/dullhunk/5209515801/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 21 13:26:16 GMT+0200 2007
+Upload Date  : Fri Nov 26 22:38:10 GMT+0100 2010
+Views        : 7,819
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Chimpanzees by Emily Wroblewski
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Chimpanzees, our closest living relatives, provide a unique opportunity to study the evolution and adaptations in the human line of rapidly evolving gene families. Abi-Rached et al. [1] performed an extensive comparison of the genomics, population biology, and immunology of human and chimpanzee variable receptor–ligand interactions governing Natural Killer cell functions in immune defense and reproduction. These comparisons reveal dramatic qualitative differences between the human and chimpanzee systems, which predominantly derive from adaptations on the human line in response to selective pressures placed on human Natural Killer cells by the competing needs of defense and reproduction.
+
+Image Credit: Emily Wroblewski (Stanford University) <a href="http://dx.doi.org/10.1371/image.pgen.v06.i11.g001" rel="nofollow">dx.doi.org/10.1371/image.pgen.v06.i11.g001</a>
+
+[1] Human-Specific Evolution and Adaptation Led to Major Qualitative Differences in the Variable Receptors of Human and Chimpanzee Natural Killer Cells by: Laurent Abi-Rached, Achim K. Moesta, Raja Rajalingam, Lisbeth A. Guethlein, Peter Parham
+PLoS Genet, Vol. 6, No. 11. (2010), e1001192. <a href="http://dx.doi.org/10.1371/journal.pgen.1001192" rel="nofollow">dx.doi.org/10.1371/journal.pgen.1001192</a>
+
+
++--------+
+|  TAGS  |
++--------+
+PLoS chimp chimpanzee emily-wroblewski discoverchimpanzees Pan-troglodytes bonobo Pan-paniscus 

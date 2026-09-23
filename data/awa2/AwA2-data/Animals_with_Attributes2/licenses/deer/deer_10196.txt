@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : donjd2
+Photo URL    : https://www.flickr.com/photos/ddebold/5362768578/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 16 16:31:58 GMT+0100 2011
+Upload Date  : Mon Jan 17 04:59:31 GMT+0100 2011
+Geotag Info  : Latitude:37.217437, Longitude:-121.789469
+Views        : 300
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer by the Fence
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+deer "santa teresa county park" 

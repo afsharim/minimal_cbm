@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : I love Montespertoli
+Photo URL    : https://www.flickr.com/photos/47962698@N03/4398857900/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Mar 6 15:01:31 GMT+0100 2007
+Upload Date  : Mon Mar 1 17:46:22 GMT+0100 2010
+Geotag Info  : Latitude:43.643525, Longitude:11.074894
+Views        : 311
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+50th Chianti Wine Festival, Montespertoli
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Historical folkloristic pagent inspired by farm life and traditions
+
+
++--------+
+|  TAGS  |
++--------+
+Chianti Montespertoli "Wine Montespertoli" "Chianti Wine" "Chianti Wine Festival" "Chianti Montespertoli" 

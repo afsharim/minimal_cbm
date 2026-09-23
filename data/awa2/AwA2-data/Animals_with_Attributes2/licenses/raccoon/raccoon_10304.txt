@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : TheDigitel Myrtle Beach
+Photo URL    : https://www.flickr.com/photos/thedigitelmyr/6323293475/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 5 14:23:00 GMT+0100 2011
+Upload Date  : Mon Nov 7 22:37:17 GMT+0100 2011
+Views        : 146
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Raccoon
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Swampfest 2011" "Playcard Swamp" 

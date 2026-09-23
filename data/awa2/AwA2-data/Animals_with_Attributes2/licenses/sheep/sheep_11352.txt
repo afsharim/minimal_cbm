@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : zogh
+Photo URL    : https://www.flickr.com/photos/zogh/5772852490/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon May 30 04:39:04 GMT+0200 2011
+Upload Date  : Sun May 29 20:20:02 GMT+0200 2011
+Geotag Info  : Latitude:50.760360, Longitude:0.207250
+Views        : 77
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+kapow!
+
+
++--------+
+|  TAGS  |
++--------+
+energy sheep "East Dean" 

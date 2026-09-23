@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : kenny73116
+Photo URL    : https://www.flickr.com/photos/kenny73116/3753832978/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 13 15:16:16 GMT+0200 2008
+Upload Date  : Sat Jul 25 02:28:55 GMT+0200 2009
+Views        : 658
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Grizzly Bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Grizzley bear close up
+
+
++--------+
+|  TAGS  |
++--------+
+bear "grizzley bear" nature animals wildlife 

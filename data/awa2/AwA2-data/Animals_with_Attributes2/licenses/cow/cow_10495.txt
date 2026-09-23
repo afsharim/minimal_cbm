@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Living Off Grid
+Photo URL    : https://www.flickr.com/photos/knowmybackyard/5314347633/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 25 11:39:51 GMT+0200 2010
+Upload Date  : Sun Jan 2 05:37:52 GMT+0100 2011
+Views        : 2,459
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cows Under Apple Tree
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The cows snacking under the apple tree just before they made their great escape.
+
+
++--------+
+|  TAGS  |
++--------+
+cows 

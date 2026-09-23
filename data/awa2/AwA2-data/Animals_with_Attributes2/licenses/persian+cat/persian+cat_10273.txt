@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : allenthepostman
+Photo URL    : https://www.flickr.com/photos/allenthepostman/3423852251/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Apr 8 17:14:53 GMT+0200 2009
+Upload Date  : Wed Apr 8 20:02:58 GMT+0200 2009
+Views        : 547
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+I spy...
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Fat Cat,Apr 2009
+
+
++--------+
+|  TAGS  |
++--------+
+cats persian pets "chinchilla persian" animals 

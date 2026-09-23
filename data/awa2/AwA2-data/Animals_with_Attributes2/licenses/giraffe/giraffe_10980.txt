@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : pyntofmyld
+Photo URL    : https://www.flickr.com/photos/pyntofmyld/5068774170/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 10 12:56:49 GMT+0200 2010
+Upload Date  : Sun Oct 10 20:29:48 GMT+0200 2010
+Geotag Info  : Latitude:52.442983, Longitude:1.023577
+Views        : 123
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Knotted Giraffes
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zoo "banham zoo" 

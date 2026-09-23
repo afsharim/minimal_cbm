@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : russimages
+Photo URL    : https://www.flickr.com/photos/russ-w/15667782064/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jan 15 21:13:38 GMT+0100 2015
+Upload Date  : Fri Jan 16 03:13:46 GMT+0100 2015
+Views        : 242
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+florida bobcat coming
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ahisgett
+Photo URL    : https://www.flickr.com/photos/hisgett/5017597373/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 19 14:48:12 GMT+0200 2010
+Upload Date  : Thu Sep 23 19:01:22 GMT+0200 2010
+Geotag Info  : Latitude:52.379208, Longitude:-2.286293
+Views        : 181
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Fallow Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Safari Park Animal 

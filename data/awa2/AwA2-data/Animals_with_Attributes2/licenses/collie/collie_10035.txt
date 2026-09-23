@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ocean yamaha
+Photo URL    : https://www.flickr.com/photos/oceanyamaha/13591160424/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Mar 18 10:14:47 GMT+0100 2014
+Upload Date  : Thu Apr 3 00:50:09 GMT+0200 2014
+Views        : 171
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+20140318-Kira'sPets-IMG_0096
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Canon EOS 5D Mark III
+EF100mm f/2.8 Macro USM @ 100 mm
+¹⁄₄₀ sec | f/2.8 @ ISO 1600
+
+
++--------+
+|  TAGS  |
++--------+
+"Allie Bartlett the border collie dog" 

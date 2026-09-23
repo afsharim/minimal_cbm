@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Karamellzucker
+Photo URL    : https://www.flickr.com/photos/karamell/4122926534/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Sep 28 15:33:21 GMT+0200 2009
+Upload Date  : Sat Nov 21 21:02:25 GMT+0100 2009
+Geotag Info  : Latitude:49.454311, Longitude:11.073940
+Views        : 313
+Comments     : 6
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Tiger Zoo Nürnberg "Tiergarten Nürnberg" 

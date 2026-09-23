@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Rexness
+Photo URL    : https://www.flickr.com/photos/rexness/4335316594/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 6 10:44:45 GMT+0100 2010
+Upload Date  : Sat Feb 6 18:50:41 GMT+0100 2010
+Geotag Info  : Latitude:-37.784011, Longitude:144.950308
+Views        : 230
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe walking
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Animals zoo "Melbourne zoo" mammals giraffe 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mike Gabelmann
+Photo URL    : https://www.flickr.com/photos/mgabelmann/6860367077/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 11 20:08:15 GMT+0100 2012
+Upload Date  : Sun Feb 12 05:08:45 GMT+0100 2012
+Views        : 7,850
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Pig
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Pig in Sorata Bolivia.
+
+
++--------+
+|  TAGS  |
++--------+
+bolivia pig sorata wildlife 

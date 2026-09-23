@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : yimmy149
+Photo URL    : https://www.flickr.com/photos/yimmy149/77906852/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 7 19:07:37 GMT+0200 2005
+Upload Date  : Tue Dec 27 07:13:13 GMT+0100 2005
+Views        : 3,258
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A squirrel sitting on a fence-post in a Kirkland, WA backyard.
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel fence fencepost 

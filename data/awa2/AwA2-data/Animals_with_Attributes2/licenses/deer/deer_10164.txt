@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : flamesworddragon
+Photo URL    : https://www.flickr.com/photos/flamesworddragon/5160831714/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Oct 27 15:18:35 GMT+0200 2010
+Upload Date  : Tue Nov 9 08:47:14 GMT+0100 2010
+Views        : 16
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer 2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

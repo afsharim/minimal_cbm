@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : andrew_j_w
+Photo URL    : https://www.flickr.com/photos/andrew_j_w/4487286661/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Apr 2 15:58:55 GMT+0200 2010
+Upload Date  : Sat Apr 3 23:26:06 GMT+0200 2010
+Geotag Info  : Latitude:53.300107, Longitude:-6.134490
+Views        : 620
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Seal In Dun Laoghaire Harbour
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+animal water sea seal portrait wlny:geotagged=1 wlny:photo=ia88 wlny:species=se0 wlny:trip=tst wlny:place=ppb "Grey Seal" "Halichoerus grypus" wlny:species=sfr 

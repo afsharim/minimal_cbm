@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MANHATTAN RESEARCH INC
+Photo URL    : https://www.flickr.com/photos/seattlecamera/27372854523/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 27 12:03:33 GMT+0200 2016
+Upload Date  : Wed Jun 29 22:53:23 GMT+0200 2016
+Geotag Info  : Latitude:50.645294, Longitude:-1.949417
+Views        : 162
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+PIG
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

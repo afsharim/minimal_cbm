@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Andrew Gustar
+Photo URL    : https://www.flickr.com/photos/andrewgustar/5934478090/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 13 11:08:05 GMT+0200 2011
+Upload Date  : Wed Jul 13 19:54:26 GMT+0200 2011
+Geotag Info  : Latitude:51.441222, Longitude:-2.643327
+Views        : 57
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Ashton Court" Deer Bristol fallow 

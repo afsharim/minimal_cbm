@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : heyexit
+Photo URL    : https://www.flickr.com/photos/qf8/48952118/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jan 16 22:39:49 GMT+0100 2003
+Upload Date  : Mon Oct 3 11:40:59 GMT+0200 2005
+Geotag Info  : Latitude:37.875259, Longitude:-122.536354
+Views        : 546
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Rats 01
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+rats sleepy 

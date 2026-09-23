@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : wbaiv
+Photo URL    : https://www.flickr.com/photos/wbaiv/779989699/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Mar 17 10:10:51 GMT+0100 2006
+Upload Date  : Sat May 27 04:39:22 GMT+0200 2006
+Geotag Info  : Latitude:37.115046, Longitude:-122.328611
+Views        : 285
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sleepin' in a heap
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Elephant seal at Anno Nuevo State Park. _31_0033
+Autosave-File vom d-lab2/3 der AgfaPhoto GmbH
+
+
++--------+
+|  TAGS  |
++--------+
+"Anno Nuevo" "Elephant Seal" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : gorfor
+Photo URL    : https://www.flickr.com/photos/44412176@N05/4157436837/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Dec 4 00:56:01 GMT+0100 2009
+Upload Date  : Fri Dec 4 16:35:21 GMT+0100 2009
+Geotag Info  : Latitude:51.484964, Longitude:-0.192260
+Views        : 93
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel - Brompton Cemetery
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+cemetery squirrel london brompton kensington 

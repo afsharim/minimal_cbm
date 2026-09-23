@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : vic15
+Photo URL    : https://www.flickr.com/photos/vic15/4298126428/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jan 8 22:43:52 GMT+0100 2010
+Upload Date  : Sat Jan 23 17:57:22 GMT+0100 2010
+Views        : 723
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+hamster
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+hamster pet animal cute 

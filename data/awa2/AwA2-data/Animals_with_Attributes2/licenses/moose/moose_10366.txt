@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : R7926
+Photo URL    : https://www.flickr.com/photos/dr_scott/4681202862/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon May 24 17:33:50 GMT+0200 2010
+Upload Date  : Tue Jun 8 05:39:57 GMT+0200 2010
+Geotag Info  : Latitude:49.362979, Longitude:-115.012607
+Views        : 70
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Moose
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A moose walking thought Glacier National Park, Montana, US
+
+
++--------+
+|  TAGS  |
++--------+
+"Glacier National Park" Glacier Park US Montana Nature Mountains Mountain Trees Bush Shrubs 

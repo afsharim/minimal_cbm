@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mliu92
+Photo URL    : https://www.flickr.com/photos/mliu92/3207937929/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 18 10:15:41 GMT+0100 2009
+Upload Date  : Mon Jan 19 04:36:27 GMT+0100 2009
+Geotag Info  : Latitude:32.736885, Longitude:-117.148933
+Views        : 141
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bear Trot 9995
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The answer to does a bear, er, go in the woods is &quot;not all the time.&quot;
+
+
++--------+
+|  TAGS  |
++--------+
+bear toy enclosure brown stone "san diego" zoo claw 

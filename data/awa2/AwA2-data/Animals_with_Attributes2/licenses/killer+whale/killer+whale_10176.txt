@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jay Iwasaki
+Photo URL    : https://www.flickr.com/photos/iwasaki/2409158672/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 12 12:00:03 GMT+0200 2008
+Upload Date  : Sun Apr 13 09:00:11 GMT+0200 2008
+Geotag Info  : Latitude:40.790939, Longitude:-124.906311
+Views        : 1,915
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Orca Pod
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+a pod of about 6 orcas
+
+
++--------+
+|  TAGS  |
++--------+
+orca killer whales "taxonomy:binomial=Orcinus orca" 

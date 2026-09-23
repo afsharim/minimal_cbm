@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Peter G Trimming
+Photo URL    : https://www.flickr.com/photos/peter-trimming/7188858820/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 12 15:56:17 GMT+0200 2012
+Upload Date  : Sun May 13 17:08:56 GMT+0200 2012
+Geotag Info  : Latitude:51.166791, Longitude:-0.049138
+Views        : 818
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Secure in Izzy's Hands
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+'Sybil' the stoat. Seen at the British Wildlife Centre, Newchapel, Surrey.
+
+
++--------+
+|  TAGS  |
++--------+
+British Wildlife Centre Newchapel Surrey Stoat Mustela erminea 2012 Sybil Peter Trimming 

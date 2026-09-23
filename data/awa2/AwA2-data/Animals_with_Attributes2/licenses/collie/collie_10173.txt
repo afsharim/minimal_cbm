@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Joanna Bourne
+Photo URL    : https://www.flickr.com/photos/66992990@N00/2902799784/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Mar 27 16:52:04 GMT+0100 2008
+Upload Date  : Tue Sep 30 21:14:04 GMT+0200 2008
+Views        : 721
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+collie
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+collie on a dirt path
+
+
++--------+
+|  TAGS  |
++--------+
+animal pet dog collie field countryside virginia grass path 

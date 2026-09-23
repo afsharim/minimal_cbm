@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : smallbusinessmediastrategies
+Photo URL    : https://www.flickr.com/photos/76714187@N03/6882693201/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 11 00:31:02 GMT+0100 2011
+Upload Date  : Wed Feb 15 21:30:43 GMT+0100 2012
+Geotag Info  : Latitude:27.488781, Longitude:-82.463378
+Views        : 9,414
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Florida cows
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Cows on a Florida ranch in Myakka City, Florida
+
+
++--------+
+|  TAGS  |
++--------+
+cows Florida ranch 

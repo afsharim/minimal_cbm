@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : YuvalH
+Photo URL    : https://www.flickr.com/photos/yuvalh/4397368905/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 31 05:58:35 GMT+0100 2010
+Upload Date  : Mon Mar 1 11:46:49 GMT+0100 2010
+Views        : 329
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+elephant 

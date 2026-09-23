@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : hans s
+Photo URL    : https://www.flickr.com/photos/archeon/3685269248/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jun 30 08:26:26 GMT+0200 2009
+Upload Date  : Fri Jul 3 20:53:51 GMT+0200 2009
+Views        : 868
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+horses in the mist
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+from earlier this week
+
+
++--------+
+|  TAGS  |
++--------+
+"road to work" horses 

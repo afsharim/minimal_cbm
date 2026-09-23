@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : DGriebeling
+Photo URL    : https://www.flickr.com/photos/dgriebeling/5565474690/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Mar 10 15:33:22 GMT+0100 2011
+Upload Date  : Sun Mar 27 21:44:56 GMT+0200 2011
+Geotag Info  : Latitude:28.800348, Longitude:-82.588333
+Views        : 429
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bobcat
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+florida nature 

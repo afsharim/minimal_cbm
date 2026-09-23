@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : psychogoddess
+Photo URL    : https://www.flickr.com/photos/psychogoddess/2058786331/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 24 19:22:51 GMT+0100 2007
+Upload Date  : Sat Nov 24 12:22:51 GMT+0100 2007
+Views        : 116
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Another tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+photo taken in Zoobic Safari, Subic Olongapo, Philippines
+
+
++--------+
+|  TAGS  |
++--------+
+tiger subic 

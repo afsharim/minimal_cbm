@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Shawn McCready
+Photo URL    : https://www.flickr.com/photos/shawnmccready/5180125541/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Nov 12 10:27:54 GMT+0100 2010
+Upload Date  : Tue Nov 16 03:44:58 GMT+0100 2010
+Geotag Info  : Latitude:49.050470, Longitude:-113.912429
+Views        : 580
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Bighorn Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Located in Waterton Park, we found the first two on the road to Cameron Lake and the third in the town site itself.
+
+
++--------+
+|  TAGS  |
++--------+
+Waterton Sheep Animals Nature Alberta Edmonton 

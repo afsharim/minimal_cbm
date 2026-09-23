@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Subhamoy Pal
+Photo URL    : https://www.flickr.com/photos/subhamoy/6778126387/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 28 13:08:37 GMT+0100 2012
+Upload Date  : Sat Jan 28 22:37:17 GMT+0100 2012
+Geotag Info  : Latitude:38.929635, Longitude:-77.050509
+Views        : 59
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Tiger
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

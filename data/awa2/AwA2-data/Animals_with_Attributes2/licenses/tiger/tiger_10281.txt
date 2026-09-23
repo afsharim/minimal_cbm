@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sabrefoundation
+Photo URL    : https://www.flickr.com/photos/55004865@N04/5101465228/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Sep 20 01:27:23 GMT+0200 2010
+Upload Date  : Thu Oct 21 05:42:59 GMT+0200 2010
+Geotag Info  : Latitude:39.399060, Longitude:-119.208526
+Views        : 119
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Thirsty Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Tiger Siberian tigers 

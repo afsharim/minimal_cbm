@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Michael Fraley
+Photo URL    : https://www.flickr.com/photos/mrfraley/4319834758/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Dec 25 15:03:30 GMT+0100 2009
+Upload Date  : Sun Jan 31 20:12:41 GMT+0100 2010
+Views        : 723
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffes 02
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Olympus E-420
+Zuiko Digital 14-42mm/f3.5-5.6
+400 ISO
+12/25/2009
+
+
++--------+
+|  TAGS  |
++--------+
+giraffe sanfranciscozoo 

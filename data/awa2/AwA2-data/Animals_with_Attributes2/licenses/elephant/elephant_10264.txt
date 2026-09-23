@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Kent Wang
+Photo URL    : https://www.flickr.com/photos/kentwang/24783635513/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Mar 1 15:34:43 GMT+0100 2016
+Upload Date  : Tue Mar 1 16:36:20 GMT+0100 2016
+Views        : 18
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant ride
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Ko Lanta" elephant 

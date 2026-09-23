@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : iagoarchangel
+Photo URL    : https://www.flickr.com/photos/iagoarchangel/2487601391/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 11 12:03:59 GMT+0200 2008
+Upload Date  : Tue May 13 03:35:29 GMT+0200 2008
+Geotag Info  : Latitude:39.448704, Longitude:-105.080065
+Views        : 343
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Mule deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Arrowhead Golf Club
+
+
++--------+
+|  TAGS  |
++--------+
+"mule deer" zoology "Arrowhead Golf" golf Colorado 

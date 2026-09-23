@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/9580211950/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri May 17 11:01:28 GMT+0200 2013
+Upload Date  : Sat Aug 24 00:47:18 GMT+0200 2013
+Geotag Info  : Latitude:50.993473, Longitude:-1.278104
+Views        : 4,942
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Swimming otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+One of the otters of the Marwell zoo. They were cute and entertaining!
+
+
++--------+
+|  TAGS  |
++--------+
+swimming cute brown small otther water surface portrait marwell "marwell wildlife" "marwell zoo" england uk "great britain" d4 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Fido Factor
+Photo URL    : https://www.flickr.com/photos/fidofactor/4172927997/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Dec 9 13:34:23 GMT+0100 2009
+Upload Date  : Thu Dec 10 05:45:38 GMT+0100 2009
+Geotag Info  : Latitude:37.766957, Longitude:-122.413015
+Views        : 103
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IChihuahua in a bag
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+dog Chihuahua Shelter 

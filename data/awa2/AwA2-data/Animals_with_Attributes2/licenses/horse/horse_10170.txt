@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : a200/a77Wells
+Photo URL    : https://www.flickr.com/photos/aiwells/4921478039/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 22 14:17:56 GMT+0200 2010
+Upload Date  : Tue Aug 24 02:51:12 GMT+0200 2010
+Geotag Info  : Latitude:37.552505, Longitude:-121.576080
+Views        : 52
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Cheek to Cheek
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horses 

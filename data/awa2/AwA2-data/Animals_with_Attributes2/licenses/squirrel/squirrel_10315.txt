@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : V31S70
+Photo URL    : https://www.flickr.com/photos/veisto/2339538477/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 12 13:55:32 GMT+0200 2007
+Upload Date  : Mon Mar 17 10:48:36 GMT+0100 2008
+Geotag Info  : Latitude:37.626379, Longitude:-122.494500
+Views        : 41
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_2374
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+July 12, 2007.
+
+
++--------+
+|  TAGS  |
++--------+
+California Pacifica squirrel 

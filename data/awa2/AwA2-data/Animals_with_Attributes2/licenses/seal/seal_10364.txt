@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : size4riggerboots
+Photo URL    : https://www.flickr.com/photos/tamsintog/15755056079/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 2 12:06:05 GMT+0100 2014
+Upload Date  : Wed Dec 3 23:59:46 GMT+0100 2014
+Geotag Info  : Latitude:-54.440199, Longitude:-36.186647
+Views        : 358
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Fur Seal pup, St Andrews Bay, South Georgia
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"South Georgia" "Merchant Navy" "Pharos SG" Penguins "Penguin Colony" 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : KenSBrown
+Photo URL    : https://www.flickr.com/photos/kensbrown/5990113543/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 27 11:17:52 GMT+0200 2011
+Upload Date  : Sat Jul 30 15:47:48 GMT+0200 2011
+Views        : 597
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant Side
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Taken at the Berlin Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+Berlin Zoo elephant 

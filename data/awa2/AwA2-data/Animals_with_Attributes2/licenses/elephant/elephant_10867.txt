@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : OctopusHat
+Photo URL    : https://www.flickr.com/photos/octopushat/3996686253/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Oct 6 14:24:29 GMT+0200 2009
+Upload Date  : Sat Oct 10 07:14:22 GMT+0200 2009
+Views        : 120
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+I wish I had a trunk.
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The new Elephant Odyssey exhibit was very cool.
+
+
++--------+
+|  TAGS  |
++--------+
+sandiego zoo elephant odyssey 

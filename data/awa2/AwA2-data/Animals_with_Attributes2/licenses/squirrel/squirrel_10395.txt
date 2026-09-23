@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : *jude*
+Photo URL    : https://www.flickr.com/photos/jude_the_obscure/437014931/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Nov 14 02:08:16 GMT+0100 2006
+Upload Date  : Wed Mar 28 02:48:45 GMT+0200 2007
+Views        : 225
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Nibbling on a treat
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel cranberries 

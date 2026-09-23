@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Modern Relics
+Photo URL    : https://www.flickr.com/photos/modernrelics/1367196271/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 9 13:38:48 GMT+0200 2007
+Upload Date  : Wed Sep 12 22:58:52 GMT+0200 2007
+Geotag Info  : Latitude:50.116147, Longitude:8.701214
+Views        : 118
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hippo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Germany wildlife hippo zoo Frankfurt 

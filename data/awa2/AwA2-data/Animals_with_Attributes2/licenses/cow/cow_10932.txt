@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MojoBaron
+Photo URL    : https://www.flickr.com/photos/mojobaron/3603087103/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 6 03:39:54 GMT+0200 2009
+Upload Date  : Sun Jun 7 16:53:19 GMT+0200 2009
+Geotag Info  : Latitude:49.167338, Longitude:-2.169499
+Views        : 304
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Jersey Cow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Jersey Cow "Jersey Cow" 

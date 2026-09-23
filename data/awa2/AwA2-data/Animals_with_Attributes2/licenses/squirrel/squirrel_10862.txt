@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Adrian ...
+Photo URL    : https://www.flickr.com/photos/41279068@N08/5848056301/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jun 14 09:40:51 GMT+0200 2011
+Upload Date  : Sun Jun 19 14:29:53 GMT+0200 2011
+Views        : 52
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

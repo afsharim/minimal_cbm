@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Matt-Zimmerman
+Photo URL    : https://www.flickr.com/photos/16725630@N00/4939222432/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 13 08:35:52 GMT+0200 2010
+Upload Date  : Sun Aug 29 22:26:13 GMT+0200 2010
+Geotag Info  : Latitude:63.458410, Longitude:-150.330890
+Views        : 148
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Denali National Park backpacking 2010
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"denali national park" denali "national park" park backpack backpacking hike hiking alaska 2010 wildlife animals bear bears grizzly "grizzly bear" "grizzly bears" brown "brown bear" "brown bears" 

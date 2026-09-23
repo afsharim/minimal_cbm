@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : wolfsavard
+Photo URL    : https://www.flickr.com/photos/wolfsavard/3874993493/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Aug 25 15:19:01 GMT+0200 2009
+Upload Date  : Mon Aug 31 21:59:35 GMT+0200 2009
+Geotag Info  : Latitude:34.147804, Longitude:-118.290331
+Views        : 326
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"los angeles zoo" "griffith park" zebra 

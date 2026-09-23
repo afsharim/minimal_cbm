@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : treehouse1977
+Photo URL    : https://www.flickr.com/photos/treehouse1977/17088260852/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 4 14:01:53 GMT+0200 2015
+Upload Date  : Thu Apr 9 18:34:56 GMT+0200 2015
+Views        : 519
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant seals
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Basking on the beach
+
+
++--------+
+|  TAGS  |
++--------+
+california USA seals "elephant seals" beach coast 

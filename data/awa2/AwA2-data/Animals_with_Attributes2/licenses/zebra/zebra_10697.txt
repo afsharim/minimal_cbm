@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Kyle Taylor, Dream It. Do It.
+Photo URL    : https://www.flickr.com/photos/kyletaylor/760272480/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 3 02:48:10 GMT+0200 2007
+Upload Date  : Mon Jul 9 10:25:22 GMT+0200 2007
+Geotag Info  : Latitude:-26.223984, Longitude:27.959260
+Views        : 199
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"kruger park" safari "south africa" "kyle taylor" 

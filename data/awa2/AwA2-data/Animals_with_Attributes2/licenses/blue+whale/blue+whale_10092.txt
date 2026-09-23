@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Aenneken
+Photo URL    : https://www.flickr.com/photos/aenneken/107090999/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Mar 3 07:49:32 GMT+0100 2006
+Upload Date  : Fri Mar 3 07:49:32 GMT+0100 2006
+Geotag Info  : Latitude:-38.410558, Longitude:174.726562
+Views        : 281
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Neuseeland (Nachtrag)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Whale Watching in Kaikoura (Sperm Whale)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

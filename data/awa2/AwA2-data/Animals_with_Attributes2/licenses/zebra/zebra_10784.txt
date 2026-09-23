@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : wplynn
+Photo URL    : https://www.flickr.com/photos/warrenlynn/3904350668/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 5 16:32:16 GMT+0200 2009
+Upload Date  : Wed Sep 9 18:22:51 GMT+0200 2009
+Geotag Info  : Latitude:39.767974, Longitude:-86.182256
+Views        : 78
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Indianapolis zoo Indiana animals mammal zebra 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mrkathika
+Photo URL    : https://www.flickr.com/photos/kathika/3782610772/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 1 13:54:17 GMT+0200 2009
+Upload Date  : Sun Aug 2 22:40:24 GMT+0200 2009
+Views        : 373
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+male Gorilla  Bronx Zoo August 2009
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zoo "bronx zoo" mrkathika gorilla 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jeroen Moes
+Photo URL    : https://www.flickr.com/photos/jeroenmoes/5411494452/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 25 16:47:39 GMT+0200 2010
+Upload Date  : Wed Feb 2 21:22:40 GMT+0100 2011
+Geotag Info  : Latitude:58.576325, Longitude:26.687047
+Views        : 258
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lynx
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+lynx d90 nikon 18105mm Elistvere EST Estonia geo:lat=58.57632489 geo:lon=26.68704629 geotagged Jõgevamaa 

@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : daniel.herding
+Photo URL    : https://www.flickr.com/photos/8831427@N05/543029981/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 7 12:23:43 GMT+0200 2007
+Upload Date  : Tue Jun 12 23:53:31 GMT+0200 2007
+Views        : 250
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Waschbär
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Kölner Zoo
+
+fotografiert von Nadine Schlonies
+
+
++--------+
+|  TAGS  |
++--------+
+zoo köln waschbär 

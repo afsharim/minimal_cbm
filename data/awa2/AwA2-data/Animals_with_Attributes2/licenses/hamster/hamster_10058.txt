@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : SeniorPeter
+Photo URL    : https://www.flickr.com/photos/e1p3dro/3156404688/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jan 1 14:01:50 GMT+0100 2009
+Upload Date  : Thu Jan 1 15:44:29 GMT+0100 2009
+Views        : 523
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Archie
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Sister's hamster
+
+
++--------+
+|  TAGS  |
++--------+
+winter white russian dwarf hamster 

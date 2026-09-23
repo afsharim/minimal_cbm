@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mertie.
+Photo URL    : https://www.flickr.com/photos/100780486@N02/21881830850/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Sep 1 13:47:43 GMT+0200 2015
+Upload Date  : Sat Oct 10 16:15:36 GMT+0200 2015
+Geotag Info  : Latitude:-33.843490, Longitude:151.241269
+Views        : 67
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Seal Show at Taronga Park Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Seal Zoo "Seal show" "Sea Lion" "Taronga Zoo" 

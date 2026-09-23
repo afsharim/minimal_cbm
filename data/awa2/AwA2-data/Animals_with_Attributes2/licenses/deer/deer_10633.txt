@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : acaaron816
+Photo URL    : https://www.flickr.com/photos/acaaron816/11259831303/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jun 4 00:46:00 GMT+0200 2013
+Upload Date  : Sun Dec 8 00:26:36 GMT+0100 2013
+Views        : 52
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

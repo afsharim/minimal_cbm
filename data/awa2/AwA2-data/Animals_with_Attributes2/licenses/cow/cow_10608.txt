@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : The Paperclip
+Photo URL    : https://www.flickr.com/photos/the_paperclip/5194744710/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 21 12:11:22 GMT+0100 2010
+Upload Date  : Sun Nov 21 12:11:22 GMT+0100 2010
+Geotag Info  : Latitude:50.685501, Longitude:5.810050
+Views        : 206
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cows
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Compostion needs work
+
+
++--------+
+|  TAGS  |
++--------+
+Cows tree field 

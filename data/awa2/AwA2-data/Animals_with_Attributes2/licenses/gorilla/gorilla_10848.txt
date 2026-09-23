@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tootsie's Dad
+Photo URL    : https://www.flickr.com/photos/lpaulw/1464870231/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 16 09:00:48 GMT+0200 2006
+Upload Date  : Mon Oct 1 02:37:25 GMT+0200 2007
+Views        : 10
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+wild_animal_12
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+ZOO 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : donjd2
+Photo URL    : https://www.flickr.com/photos/ddebold/142507576/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 7 16:55:50 GMT+0200 2006
+Upload Date  : Mon May 8 05:53:28 GMT+0200 2006
+Geotag Info  : Latitude:37.219914, Longitude:-121.738069
+Views        : 2,345
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horses at the Coyote Creek Ranch
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Map it: <a href="http://www.robogeo.com/Flickr2Map/" rel="nofollow">Google Earth</a> | <a href="http://www.robogeo.com/Flickr2Map/?type=map" rel="nofollow">Street</a> | <a href="http://www.robogeo.com/Flickr2Map/?type=map&amp;view=satellite" rel="nofollow">Satellite</a> | <a href="http://www.robogeo.com/Flickr2Map/?type=map&amp;view=hybrid" rel="nofollow">Hybrid</a> | <a href="http://www.robogeo.com/Flickr2Map/?type=nautical" rel="nofollow">Nautical</a> | <a href="http://www.robogeo.com/Flickr2Map/?type=topo" rel="nofollow">Topo</a>
+
+
++--------+
+|  TAGS  |
++--------+
+horse 

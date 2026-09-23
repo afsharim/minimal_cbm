@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : samclarke
+Photo URL    : https://www.flickr.com/photos/sam_clarke/7348613004/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 3 15:57:36 GMT+0200 2012
+Upload Date  : Thu Jun 7 17:57:12 GMT+0200 2012
+Geotag Info  : Latitude:52.182642, Longitude:-2.234172
+Views        : 433
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+My brother's hamster
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+hamster pet macro 

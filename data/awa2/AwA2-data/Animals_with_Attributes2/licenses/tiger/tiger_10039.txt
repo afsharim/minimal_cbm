@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : xiquinhosilva
+Photo URL    : https://www.flickr.com/photos/xiquinho/4192043937/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Dec 8 16:22:28 GMT+0100 2009
+Upload Date  : Thu Dec 17 14:26:10 GMT+0100 2009
+Geotag Info  : Latitude:14.116359, Longitude:99.231927
+Views        : 1,488
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+51792-Kanchanaburi-Tiger-Temple
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Kanchanaburi-Tiger-Temple
+
+
++--------+
+|  TAGS  |
++--------+
+Kanchanaburi "Tiger Temple" 

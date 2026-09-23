@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : tedkerwin
+Photo URL    : https://www.flickr.com/photos/tedkerwin/7672742716/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 29 20:00:46 GMT+0200 2012
+Upload Date  : Mon Jul 30 02:00:46 GMT+0200 2012
+Geotag Info  : Latitude:40.128097, Longitude:-74.428381
+Views        : 85
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Baby zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+flickrandroidapp:filter=none 

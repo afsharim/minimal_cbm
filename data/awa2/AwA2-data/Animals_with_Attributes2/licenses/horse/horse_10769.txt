@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : DaveW99999
+Photo URL    : https://www.flickr.com/photos/dave_warley/15685761915/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jan 2 15:03:00 GMT+0100 2012
+Upload Date  : Sun Nov 2 00:35:38 GMT+0100 2014
+Views        : 1,380
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Horse, near Bushey, UK
+
+
++--------+
+|  TAGS  |
++--------+
+Horse animal pony farm field uk bushey england 

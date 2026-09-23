@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Dragozov
+Photo URL    : https://www.flickr.com/photos/dragozov/4963539787/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Aug 17 17:36:10 GMT+0200 2010
+Upload Date  : Mon Sep 6 17:03:57 GMT+0200 2010
+Views        : 481
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Killer whale
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Marineland, Antibes, France, August 2010
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mockstar
+Photo URL    : https://www.flickr.com/photos/mockstar/8004741097/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Sep 13 10:25:20 GMT+0200 2012
+Upload Date  : Thu Sep 20 02:55:15 GMT+0200 2012
+Geotag Info  : Latitude:33.989630, Longitude:-118.472442
+Views        : 24
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Action Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+davidpoe 

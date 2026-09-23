@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Changhai Travis
+Photo URL    : https://www.flickr.com/photos/travisjuntara/15468598276/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 6 13:14:03 GMT+0200 2014
+Upload Date  : Fri Oct 10 02:50:44 GMT+0200 2014
+Views        : 206
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Ground Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A ground squirrel my dad took a picture of in banff
+
+
++--------+
+|  TAGS  |
++--------+
+Banff Squirrel 

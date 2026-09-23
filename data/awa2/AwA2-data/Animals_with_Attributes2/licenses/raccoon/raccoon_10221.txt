@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/15606718105/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 5 13:17:31 GMT+0200 2014
+Upload Date  : Thu Oct 23 11:00:08 GMT+0200 2014
+Geotag Info  : Latitude:49.244640, Longitude:6.137795
+Views        : 6,784
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Raccoon profile
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Another cool raccoon portrait!
+
+
++--------+
+|  TAGS  |
++--------+
+portrait face cool profile raccoon mammal pretty amnéville zoo france nikon d4 

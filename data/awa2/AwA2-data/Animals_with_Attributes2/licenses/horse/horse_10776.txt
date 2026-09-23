@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Beegee49
+Photo URL    : https://www.flickr.com/photos/beegee49/16984718570/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Mar 12 15:19:08 GMT+0100 2015
+Upload Date  : Fri Apr 17 01:55:14 GMT+0200 2015
+Geotag Info  : Latitude:10.671872, Longitude:123.063266
+Views        : 644
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Horse Portrait Bantug Ranch Bacolod Negros Philippines 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Su--May
+Photo URL    : https://www.flickr.com/photos/su-may/8620622608/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Apr 3 22:00:53 GMT+0200 2013
+Upload Date  : Thu Apr 4 23:36:11 GMT+0200 2013
+Geotag Info  : Latitude:51.439108, Longitude:-0.053772
+Views        : 1,174
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Tarquin the hamster
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+He is very shy, prefers to run in the ball than freely in the flat. Hopefully one fine day, he will be brave enough to explore further.
+
+
++--------+
+|  TAGS  |
++--------+
+"Tarquin the hamster" "Boris the hamster, his bro" 

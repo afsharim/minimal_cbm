@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mike's Birds
+Photo URL    : https://www.flickr.com/photos/pazzani/5015663773/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Sep 22 19:04:18 GMT+0200 2010
+Upload Date  : Thu Sep 23 01:35:49 GMT+0200 2010
+Geotag Info  : Latitude:40.540975, Longitude:-74.444271
+Views        : 563
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Baby Beaver
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Beaver sal500f80 

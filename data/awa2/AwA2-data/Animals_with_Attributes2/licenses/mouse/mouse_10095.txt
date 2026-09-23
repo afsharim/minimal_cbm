@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ddqhu
+Photo URL    : https://www.flickr.com/photos/ddqhu/2608521888/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jun 24 21:08:27 GMT+0200 2008
+Upload Date  : Tue Jun 24 21:08:27 GMT+0200 2008
+Geotag Info  : Latitude:47.164509, Longitude:19.509600
+Views        : 59
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+mouse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Victim of Bejla <a href="http://flickr.com/photos/ddqhu/2608293632/">flickr.com/photos/ddqhu/2608293632/</a>
+
+
++--------+
+|  TAGS  |
++--------+
+iFlickr 

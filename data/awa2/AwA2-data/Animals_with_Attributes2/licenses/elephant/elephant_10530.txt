@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : tedmurphy
+Photo URL    : https://www.flickr.com/photos/tedmurphy/6132080091/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Sep 8 04:59:07 GMT+0200 2011
+Upload Date  : Sat Sep 10 11:38:16 GMT+0200 2011
+Views        : 104
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

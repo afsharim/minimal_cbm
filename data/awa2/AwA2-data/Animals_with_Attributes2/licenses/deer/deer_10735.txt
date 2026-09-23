@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Shiny Things
+Photo URL    : https://www.flickr.com/photos/shinythings/14826345053/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 16 14:53:39 GMT+0200 2014
+Upload Date  : Sat Aug 2 05:25:19 GMT+0200 2014
+Views        : 456
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A deer hunting for food in Lassen Volcanic National Park
+
+
++--------+
+|  TAGS  |
++--------+
+america animal ca california deer lassen "lassen volcanic national park" "national park" trees usa wild 

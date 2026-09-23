@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : nakae
+Photo URL    : https://www.flickr.com/photos/nakae/129303457/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 4 12:37:24 GMT+0200 2005
+Upload Date  : Sun Apr 16 10:15:50 GMT+0200 2006
+Geotag Info  : Latitude:35.122576, Longitude:138.918342
+Views        : 4,710
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+at Mishima-Taisha shrine.
+
+
++--------+
+|  TAGS  |
++--------+
+deer animal 

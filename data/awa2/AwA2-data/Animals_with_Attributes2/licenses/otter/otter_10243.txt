@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : The Eggplant
+Photo URL    : https://www.flickr.com/photos/eggplant/29203775/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 26 16:39:33 GMT+0200 2005
+Upload Date  : Thu Jul 28 12:03:42 GMT+0200 2005
+Geotag Info  : Latitude:49.300550, Longitude:-123.130903
+Views        : 71
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This one definitely wins the cuteness award.
+
+
++--------+
+|  TAGS  |
++--------+
+aquarium otter floating 

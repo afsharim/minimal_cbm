@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Valerie Everett
+Photo URL    : https://www.flickr.com/photos/valeriebb/2509689945/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue May 20 09:20:26 GMT+0200 2008
+Upload Date  : Wed May 21 05:04:03 GMT+0200 2008
+Views        : 519
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Brown and white horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horse brown white barn 

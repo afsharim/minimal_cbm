@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Wanda G
+Photo URL    : https://www.flickr.com/photos/wandaspics/5332085070/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 6 11:07:35 GMT+0100 2010
+Upload Date  : Fri Jan 7 03:44:05 GMT+0100 2011
+Geotag Info  : Latitude:28.034099, Longitude:-82.416290
+Views        : 180
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Busch Gardens Chimp
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Busch Gardens" Chimpanzee Florida Tampa 

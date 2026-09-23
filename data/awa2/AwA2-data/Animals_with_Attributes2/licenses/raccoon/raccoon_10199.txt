@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Loozrboy
+Photo URL    : https://www.flickr.com/photos/loozrboy/3869008993/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 29 14:23:24 GMT+0200 2009
+Upload Date  : Sun Aug 30 06:13:40 GMT+0200 2009
+Geotag Info  : Latitude:43.823334, Longitude:-79.185483
+Views        : 940
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Raccoon exhibit
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A napping raccoon wedged in the roof of a covered bridge at the Toronto Zoo. No sign of raccoons in the zoo's actual raccoon exhibit, but this guy was just sitting out in the open over a public walkway (and about 10 feet away from the wolf enclosure).
+
+
++--------+
+|  TAGS  |
++--------+
+zoo animal "Toronto Zoo" raccoon sleeping 

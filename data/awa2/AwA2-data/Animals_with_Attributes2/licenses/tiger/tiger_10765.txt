@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Bodyl
+Photo URL    : https://www.flickr.com/photos/bastian_bodyl/15489150108/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 7 13:11:57 GMT+0200 2014
+Upload Date  : Fri Oct 31 17:31:10 GMT+0100 2014
+Geotag Info  : Latitude:47.387683, Longitude:8.573822
+Views        : 397
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+in the zoo zurich
+
+
++--------+
+|  TAGS  |
++--------+
+"Amur tiger" Animal Carnivora "Panthera tigris altaica" Raubtiere Schweiz Switzerland Säugetier Tier "Zoo Zurich" Zürich Zürrizoo mammal 

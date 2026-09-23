@@ -1,0 +1,12 @@
++--------------------------------------+
+| PublicDomainPictures Photo Metadata  |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Charles Rondeau
+Photo URL    : http://www.publicdomainpictures.net/view-image.php?image=17280
+License      : public domain (https://creativecommons.org/publicdomain/zero/1.0/)

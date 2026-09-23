@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ettore Balocchi
+Photo URL    : https://www.flickr.com/photos/29882791@N02/8299179649/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 10 14:00:06 GMT+0200 2006
+Upload Date  : Sun Dec 23 13:31:57 GMT+0100 2012
+Views        : 83
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Procyonidae - Procyon lotor - Raccoon
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Raccoon - Procyon lotor
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

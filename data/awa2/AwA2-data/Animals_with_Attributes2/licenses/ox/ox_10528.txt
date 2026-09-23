@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : pmfreebern
+Photo URL    : https://www.flickr.com/photos/pmfreebern/6898026964/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 31 17:33:09 GMT+0200 2012
+Upload Date  : Wed Apr 4 07:45:14 GMT+0200 2012
+Views        : 17
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+P1040235
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

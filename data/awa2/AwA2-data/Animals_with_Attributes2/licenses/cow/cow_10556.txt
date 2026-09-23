@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : BenGrantham
+Photo URL    : https://www.flickr.com/photos/ijammin/2688622859/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 21 15:33:10 GMT+0200 2008
+Upload Date  : Mon Jul 21 16:36:03 GMT+0200 2008
+Geotag Info  : Latitude:50.605616, Longitude:-2.120962
+Views        : 99
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cows
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+cows landscape countryside dorset 

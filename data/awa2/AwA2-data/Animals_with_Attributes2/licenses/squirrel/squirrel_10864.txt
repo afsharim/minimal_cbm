@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : max.pfandl
+Photo URL    : https://www.flickr.com/photos/maxpfandl/5857143028/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jun 21 13:48:16 GMT+0200 2011
+Upload Date  : Tue Jun 21 17:45:19 GMT+0200 2011
+Geotag Info  : Latitude:48.183055, Longitude:16.311263
+Views        : 126
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Those guys always make good models ;) You just have to be quick!
+
+
++--------+
+|  TAGS  |
++--------+
+Schönbrunn Vienna Park squirrel 

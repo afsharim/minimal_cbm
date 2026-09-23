@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sebilden
+Photo URL    : https://www.flickr.com/photos/sebilden/17317219454/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue May 19 17:53:31 GMT+0200 2015
+Upload Date  : Thu May 21 19:52:21 GMT+0200 2015
+Views        : 583
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+sebilden sheep 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : traviscrawford
+Photo URL    : https://www.flickr.com/photos/traviscrawford/3087834150/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Dec 6 21:49:32 GMT+0100 2008
+Upload Date  : Sat Dec 6 21:49:32 GMT+0100 2008
+Geotag Info  : Latitude:37.771844, Longitude:-122.435524
+Views        : 550
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Attempted raccoon invasion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+sf sanfrancisco raccoon 

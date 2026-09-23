@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : grepsy
+Photo URL    : https://www.flickr.com/photos/grepsy/9209444931/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 4 10:31:23 GMT+0200 2013
+Upload Date  : Thu Jul 4 23:53:36 GMT+0200 2013
+Views        : 155
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+River Otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zoo 

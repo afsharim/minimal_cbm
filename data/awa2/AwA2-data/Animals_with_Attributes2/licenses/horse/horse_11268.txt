@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Matt From London
+Photo URL    : https://www.flickr.com/photos/londonmatt/14562552213/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 22 16:27:00 GMT+0200 2014
+Upload Date  : Mon Jun 30 15:06:52 GMT+0200 2014
+Geotag Info  : Latitude:51.437269, Longitude:-0.519222
+Views        : 353
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Pat pats horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horse staines 

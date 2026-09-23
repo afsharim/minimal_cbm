@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ben.hollis
+Photo URL    : https://www.flickr.com/photos/dalangalma/8096063584/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Aug 22 19:45:18 GMT+0200 2012
+Upload Date  : Wed Oct 17 07:17:09 GMT+0200 2012
+Geotag Info  : Latitude:-19.108076, Longitude:23.264725
+Views        : 251
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Big zebra group
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+africa kwara okavango zebra "North West" Botswana 

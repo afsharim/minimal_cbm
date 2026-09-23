@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MrsMaryAnnMeyer
+Photo URL    : https://www.flickr.com/photos/yodieann/1372799742/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 16 00:04:20 GMT+0200 2007
+Upload Date  : Thu Sep 13 17:08:03 GMT+0200 2007
+Geotag Info  : Latitude:45.649328, Longitude:-84.879341
+Views        : 284
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+raccoon
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+stealing the cat food
+
+
++--------+
+|  TAGS  |
++--------+
+"cross village" "legs inn" "northern michigan" 

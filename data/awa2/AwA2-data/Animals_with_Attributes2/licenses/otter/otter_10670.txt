@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ajburcar
+Photo URL    : https://www.flickr.com/photos/ajburcarannis/3876110431/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 21 13:39:47 GMT+0200 2009
+Upload Date  : Tue Sep 1 04:36:55 GMT+0200 2009
+Geotag Info  : Latitude:60.122355, Longitude:-149.439468
+Views        : 193
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sea Otters
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Kenai Fijords Park" "Seward Alaska" 

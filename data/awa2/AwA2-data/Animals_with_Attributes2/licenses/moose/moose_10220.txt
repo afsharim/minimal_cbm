@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : CL.Baker
+Photo URL    : https://www.flickr.com/photos/coloradochris/9703696277/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 8 18:07:12 GMT+0200 2013
+Upload Date  : Mon Sep 9 03:17:34 GMT+0200 2013
+Views        : 33
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Moose 2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Moose "Indian peaks wilderness" 

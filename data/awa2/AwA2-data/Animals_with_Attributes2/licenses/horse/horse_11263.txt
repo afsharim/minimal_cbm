@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ldifranza
+Photo URL    : https://www.flickr.com/photos/ldifranza/16425178696/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Feb 5 12:47:12 GMT+0100 2015
+Upload Date  : Thu Feb 5 18:49:45 GMT+0100 2015
+Views        : 891
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Parade
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horse riding 

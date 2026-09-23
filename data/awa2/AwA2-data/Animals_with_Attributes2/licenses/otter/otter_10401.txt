@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Steve M. Walker
+Photo URL    : https://www.flickr.com/photos/stephoto27/9711499022/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 31 13:31:36 GMT+0200 2013
+Upload Date  : Mon Sep 9 17:44:07 GMT+0200 2013
+Geotag Info  : Latitude:51.477166, Longitude:-0.235167
+Views        : 402
+Comments     : 15
+
+
++---------+
+|  TITLE  |
++---------+
+Otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+London Wetlands Centre
+
+
++--------+
+|  TAGS  |
++--------+
+London Wetlands Centre Otter Wildfowl Trust my_gear_and_me 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : john47kent
+Photo URL    : https://www.flickr.com/photos/john47kent/2253542628/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 9 15:11:59 GMT+0100 2008
+Upload Date  : Sat Feb 9 22:31:42 GMT+0100 2008
+Geotag Info  : Latitude:51.450516, Longitude:-0.269401
+Views        : 11,408
+Comments     : 129
+
+
++---------+
+|  TITLE  |
++---------+
+Deer in Richmond Park,London
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Deer in Richmond Park
+
+
++--------+
+|  TAGS  |
++--------+
+deer Richmond Park london herd "Richmond Park" england VosPlusBellesPhotos SuperShot DMC-TZ3 NaturesElegantShots UltimateShot 

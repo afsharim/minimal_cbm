@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Hickey Bill, U.S. Fish and Wildlife Service
+Photo URL    : https://commons.wikimedia.org/wiki/File:Walrus_odobenus_rosmarus_large_flippered_marine_mammal.jpg
+License      : public domain
+Date         : Not given

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : iansthree
+Photo URL    : https://www.flickr.com/photos/fearlessian/5097629004/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Oct 19 20:16:42 GMT+0200 2010
+Upload Date  : Tue Oct 19 21:16:42 GMT+0200 2010
+Views        : 9
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horses
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

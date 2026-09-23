@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : aagay
+Photo URL    : https://www.flickr.com/photos/104082864@N04/23845323019/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Dec 24 09:47:31 GMT+0100 2015
+Upload Date  : Wed Jan 6 17:44:02 GMT+0100 2016
+Views        : 16
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebras
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

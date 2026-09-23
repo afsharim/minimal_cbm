@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : techiedog
+Photo URL    : https://www.flickr.com/photos/techiedog/1489722902/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 16 15:46:09 GMT+0200 2007
+Upload Date  : Fri Oct 5 13:26:36 GMT+0200 2007
+Views        : 370
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sea Otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+sea otter 

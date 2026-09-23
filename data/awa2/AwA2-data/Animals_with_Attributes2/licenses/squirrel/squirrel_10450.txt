@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : adoyle
+Photo URL    : https://www.flickr.com/photos/adoyle/7940417404/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 30 09:50:42 GMT+0200 2012
+Upload Date  : Thu Sep 6 02:35:56 GMT+0200 2012
+Views        : 273
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Red squirrel on branch, eating
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"squirrel tree branch eating" 

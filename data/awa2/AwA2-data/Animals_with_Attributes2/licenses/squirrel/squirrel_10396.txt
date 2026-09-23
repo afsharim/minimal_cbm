@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Airwolfhound
+Photo URL    : https://www.flickr.com/photos/24874528@N04/5176277856/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 6 12:02:24 GMT+0100 2010
+Upload Date  : Sun Nov 14 22:09:22 GMT+0100 2010
+Views        : 251
+Comments     : 6
+
+
++---------+
+|  TITLE  |
++---------+
+Nom nom nom
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Squirrel 

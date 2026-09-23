@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : robertlafond2009
+Photo URL    : https://www.flickr.com/photos/bobvietnam/3707469195/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 8 10:47:20 GMT+0200 2009
+Upload Date  : Fri Jul 10 23:00:34 GMT+0200 2009
+Views        : 98
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Biodôme de Montréal
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Lynx
+
+
++--------+
+|  TAGS  |
++--------+
+Lynx "Ara rouge" "Omble de fontaine" porc-épic Lémurs 

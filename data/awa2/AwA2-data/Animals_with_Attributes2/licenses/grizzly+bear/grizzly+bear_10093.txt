@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : G. Frank Peterson
+Photo URL    : https://www.flickr.com/photos/garpete/5987608517/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 20 20:27:18 GMT+0200 2011
+Upload Date  : Fri Jul 29 18:39:34 GMT+0200 2011
+Geotag Info  : Latitude:59.329402, Longitude:-135.559787
+Views        : 3,196
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+2011 Chilkoot Brown Bears-9.jpg
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+2011 Alaska "Brown Bear" "Chilkoot River" "Grizzly Bear" Haines "Speedy & Cubs" 

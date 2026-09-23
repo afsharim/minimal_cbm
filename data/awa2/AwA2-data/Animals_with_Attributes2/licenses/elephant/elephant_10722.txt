@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mingo.nl
+Photo URL    : https://www.flickr.com/photos/mjhagen/2518817546/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 24 02:47:32 GMT+0200 2008
+Upload Date  : Sat May 24 17:09:20 GMT+0200 2008
+Geotag Info  : Latitude:52.366994, Longitude:4.913613
+Views        : 274
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephants
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+artis animals amsterdam zoo elephant 

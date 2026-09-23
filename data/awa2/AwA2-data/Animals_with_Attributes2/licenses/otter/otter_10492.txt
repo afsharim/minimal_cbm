@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : z2amiller
+Photo URL    : https://www.flickr.com/photos/z2amiller/239077008/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 5 13:52:48 GMT+0100 2006
+Upload Date  : Sun Sep 10 10:16:23 GMT+0200 2006
+Views        : 271
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Otters
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Sea otters at Monterey Bay Aquarium.
+
+
++--------+
+|  TAGS  |
++--------+
+sea otter monterey bay aquarium 

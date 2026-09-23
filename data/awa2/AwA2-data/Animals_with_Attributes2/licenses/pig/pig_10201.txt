@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : crabchick
+Photo URL    : https://www.flickr.com/photos/crabchick/7094953445/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Apr 13 11:09:17 GMT+0200 2012
+Upload Date  : Fri Apr 20 03:06:48 GMT+0200 2012
+Geotag Info  : Latitude:51.502885, Longitude:-2.662746
+Views        : 2,692
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Miss Piggie ... Pretty in pink
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Lawrence Weston Community Farm
+
+
++--------+
+|  TAGS  |
++--------+
+pig piglet farm animal "Lawrence Weston Community Farm" ecoevents 

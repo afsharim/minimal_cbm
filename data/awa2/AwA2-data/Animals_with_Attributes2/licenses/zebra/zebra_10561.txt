@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : D. Scott Taylor
+Photo URL    : https://www.flickr.com/photos/azequine_surgeon/16641644178/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jan 28 00:19:40 GMT+0100 2005
+Upload Date  : Mon Mar 16 03:14:47 GMT+0100 2015
+Views        : 548
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra Chillin'
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Captured at Kruger Park
+
+
++--------+
+|  TAGS  |
++--------+
+Zebra Animals "South Africa" Travel Wildlife 

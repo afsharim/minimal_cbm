@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : brentsphotos
+Photo URL    : https://www.flickr.com/photos/21034291@N04/4101563099/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 7 18:38:49 GMT+0100 2009
+Upload Date  : Sat Nov 14 05:02:21 GMT+0100 2009
+Views        : 3
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+At the Bronx Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

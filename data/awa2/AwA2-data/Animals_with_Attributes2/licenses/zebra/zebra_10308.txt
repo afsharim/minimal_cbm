@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Son of Groucho
+Photo URL    : https://www.flickr.com/photos/sonofgroucho/7754787040/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 7 06:03:13 GMT+0200 2012
+Upload Date  : Fri Aug 10 22:14:46 GMT+0200 2012
+Views        : 590
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lake Naivasha Zebras
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Lake Naivasha, Kenya. <a href="http://en.wikipedia.org/wiki/Lake_Naivasha" rel="nofollow">en.wikipedia.org/wiki/Lake_Naivasha</a>
+
+
++--------+
+|  TAGS  |
++--------+
+2012 africa kenya "lake naivasha" zebra 

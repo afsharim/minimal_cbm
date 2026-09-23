@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ryan Kilpatrick
+Photo URL    : https://www.flickr.com/photos/rkilpatrick21/8370498863/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 5 19:28:19 GMT+0100 2013
+Upload Date  : Fri Jan 11 21:52:01 GMT+0100 2013
+Geotag Info  : Latitude:-25.792008, Longitude:28.187999
+Views        : 230
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra at Groenkloof Nature Reserve
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Groenkloof Pretoria "South Africa" wildlife animals zebra 

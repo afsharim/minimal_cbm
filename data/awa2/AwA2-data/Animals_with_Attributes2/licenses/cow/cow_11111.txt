@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Neillwphoto
+Photo URL    : https://www.flickr.com/photos/neillwphoto/15220444341/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Sep 10 11:26:42 GMT+0200 2014
+Upload Date  : Sat Sep 13 13:01:30 GMT+0200 2014
+Geotag Info  : Latitude:56.513669, Longitude:-3.815517
+Views        : 4,012
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Nosey Cow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Another cow gawps at us as we walk by.
+
+
++--------+
+|  TAGS  |
++--------+
+Amulree cow field 

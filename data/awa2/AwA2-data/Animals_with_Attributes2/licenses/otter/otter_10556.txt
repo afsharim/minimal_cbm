@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : rklopfer
+Photo URL    : https://www.flickr.com/photos/rklopfer/6193165788/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Sep 28 13:51:13 GMT+0200 2011
+Upload Date  : Wed Sep 28 22:07:38 GMT+0200 2011
+Geotag Info  : Latitude:40.483333, Longitude:-79.918334
+Views        : 60
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Otters
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+are they hanging onto a toy grenade?
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

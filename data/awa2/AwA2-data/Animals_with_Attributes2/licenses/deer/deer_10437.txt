@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : JSmith Photo
+Photo URL    : https://www.flickr.com/photos/jmsmith000/3777218274/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 30 16:39:14 GMT+0200 2009
+Upload Date  : Sat Aug 1 06:52:34 GMT+0200 2009
+Views        : 584
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A deer in the Blue Ridge Mountains
+
+
++--------+
+|  TAGS  |
++--------+
+"Blue Ridge Mountains" Virginia Deer Buck Wildlife 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : JefferyRayCoffman
+Photo URL    : https://www.flickr.com/photos/jeffcoffman/2651621423/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 2 11:38:53 GMT+0200 2008
+Upload Date  : Wed Jul 9 09:33:13 GMT+0200 2008
+Views        : 39
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Gorilla
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

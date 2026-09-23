@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Masaru Kamikura
+Photo URL    : https://www.flickr.com/photos/kamikura/1438153996/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Sep 14 12:55:36 GMT+0200 2007
+Upload Date  : Tue Sep 25 14:58:24 GMT+0200 2007
+Views        : 39
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Ueno Zoo" Animals 

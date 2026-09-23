@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Living Off Grid
+Photo URL    : https://www.flickr.com/photos/knowmybackyard/5314942886/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 25 16:03:37 GMT+0200 2010
+Upload Date  : Sun Jan 2 05:37:41 GMT+0100 2011
+Views        : 1,048
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Deer
+
+
++--------+
+|  TAGS  |
++--------+
+virginia 

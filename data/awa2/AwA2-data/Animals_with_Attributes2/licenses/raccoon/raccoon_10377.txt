@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sheilapic76
+Photo URL    : https://www.flickr.com/photos/53344659@N05/4978431141/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 7 06:03:47 GMT+0200 2009
+Upload Date  : Sat Sep 11 09:17:30 GMT+0200 2010
+Views        : 120
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Raccoons in wildlife
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+4.1.1
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

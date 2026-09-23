@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bobosh_t
+Photo URL    : https://www.flickr.com/photos/frted/8062383786/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 6 21:23:30 GMT+0200 2012
+Upload Date  : Sun Oct 7 13:27:42 GMT+0200 2012
+Views        : 149
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_0169
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Alaskan Brown Bear
+
+
++--------+
+|  TAGS  |
++--------+
+Zoo "Indianapolis Zoo" 

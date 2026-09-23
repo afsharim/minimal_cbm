@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : dgtecnozero
+Photo URL    : https://www.flickr.com/photos/8901334@N03/741004517/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 6 13:33:03 GMT+0200 2007
+Upload Date  : Fri Jul 6 22:33:03 GMT+0200 2007
+Views        : 9,935
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+hamster
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Nuestro hamster ruso esperando su comida preferida... pipas :)
+
+
++--------+
+|  TAGS  |
++--------+
+hamster ruso 

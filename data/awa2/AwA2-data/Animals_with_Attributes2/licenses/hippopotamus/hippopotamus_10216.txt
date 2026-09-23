@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mikecogh
+Photo URL    : https://www.flickr.com/photos/mikecogh/2600830576/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 22 15:41:06 GMT+0200 2008
+Upload Date  : Sun Jun 22 16:44:46 GMT+0200 2008
+Geotag Info  : Latitude:-34.913736, Longitude:138.606519
+Views        : 81
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hippo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+hippopotamus zoo large pond 

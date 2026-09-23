@@ -1,0 +1,13 @@
++--------------------------------------+
+|             Photo Metadata           |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Evelyn Simak
+Photo URL    : http://www.geograph.org.uk/photo/1415552
+License      : Creative Commons Attribution-ShareAlike 2.0 Generic (https://creativecommons.org/licenses/by-sa/2.0/)
+Date         : 26 July, 2009

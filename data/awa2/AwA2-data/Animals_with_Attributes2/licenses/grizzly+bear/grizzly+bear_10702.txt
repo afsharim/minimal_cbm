@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : tribbles1971
+Photo URL    : https://www.flickr.com/photos/8308527@N02/17059904742/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 4 11:12:52 GMT+0200 2015
+Upload Date  : Tue Apr 7 03:31:16 GMT+0200 2015
+Geotag Info  : Latitude:40.156474, Longitude:-83.113675
+Views        : 414
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Zoo "Columbus zoo" ohio Bears "brown bear" 

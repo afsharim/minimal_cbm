@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mara 1
+Photo URL    : https://www.flickr.com/photos/flametree/15969476335/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Mar 10 08:26:32 GMT+0100 2008
+Upload Date  : Sun Dec 7 20:44:19 GMT+0100 2014
+Views        : 305
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Twins !
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

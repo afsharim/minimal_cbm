@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Shmoomeema
+Photo URL    : https://www.flickr.com/photos/clydepossum/1562968762/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 13 15:07:35 GMT+0200 2007
+Upload Date  : Sat Oct 13 23:46:39 GMT+0200 2007
+Views        : 480
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Clydesdale Horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A young clydesdale horse at the Anne Arundel Scottish Festival 13 Oct 07
+
+
++--------+
+|  TAGS  |
++--------+
+Horse 

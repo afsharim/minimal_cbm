@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : D-Stanley
+Photo URL    : https://www.flickr.com/photos/davidstanleytravel/17311885695/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Dec 18 11:06:09 GMT+0100 2014
+Upload Date  : Wed Apr 29 16:27:18 GMT+0200 2015
+Geotag Info  : Latitude:20.530584, Longitude:-105.282734
+Views        : 3,293
+Comments     : 10
+
+
++---------+
+|  TITLE  |
++---------+
+Hippopotamus
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A hippopotamus in the Zoologico de Vallarta at Mismaloya south of Puerto Vallarta, Mexico.
+
+
++--------+
+|  TAGS  |
++--------+
+hippopotamus Zoologico Mismaloya "Puerto Vallarta" Mexico 

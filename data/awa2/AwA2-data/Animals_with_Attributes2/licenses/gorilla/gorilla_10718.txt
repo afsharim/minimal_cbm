@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Skrewtape
+Photo URL    : https://www.flickr.com/photos/skrewtape/2436014572/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 2 16:06:15 GMT+0100 2008
+Upload Date  : Wed Apr 23 07:07:35 GMT+0200 2008
+Geotag Info  : Latitude:47.667526, Longitude:-122.351367
+Views        : 1,326
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Relaxing Gorilla
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This gorilla is straight-up taking it easy.
+
+
++--------+
+|  TAGS  |
++--------+
+seattle zoo gorilla 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : robby-T
+Photo URL    : https://www.flickr.com/photos/robbyt/2333925251/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 15 01:14:06 GMT+0100 2008
+Upload Date  : Sat Mar 15 08:43:28 GMT+0100 2008
+Geotag Info  : Latitude:40.679269, Longitude:-74.002189
+Views        : 458
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+nature, in brooklyn
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+nature brooklyn deer 

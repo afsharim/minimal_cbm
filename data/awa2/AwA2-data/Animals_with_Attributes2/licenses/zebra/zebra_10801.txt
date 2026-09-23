@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : wseltzer
+Photo URL    : https://www.flickr.com/photos/wseltzer/4449140302/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Mar 8 02:26:23 GMT+0100 2010
+Upload Date  : Sat Mar 20 23:40:01 GMT+0100 2010
+Geotag Info  : Latitude:-1.345701, Longitude:36.796302
+Views        : 451
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zebra "Nairobi National Park" Kenya safari ICANN 

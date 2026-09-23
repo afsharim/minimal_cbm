@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Savan G Photography
+Photo URL    : https://www.flickr.com/photos/savangphotography/6655902407/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 7 12:30:43 GMT+0100 2012
+Upload Date  : Sun Jan 8 00:59:15 GMT+0100 2012
+Geotag Info  : Latitude:51.445823, Longitude:-0.287704
+Views        : 50
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Fallow Deers
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+©Savan G Photography 

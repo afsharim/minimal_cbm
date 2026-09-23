@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ewan traveler
+Photo URL    : https://www.flickr.com/photos/ewan_traveler/2660266155/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 9 12:45:03 GMT+0200 2008
+Upload Date  : Sat Jul 12 14:39:26 GMT+0200 2008
+Views        : 384
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+She keeps many of our plants and shrubs pruned - often more than we'd wish.
+
+
++--------+
+|  TAGS  |
++--------+
+deer 

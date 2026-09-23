@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : martinbuck119
+Photo URL    : https://www.flickr.com/photos/42405245@N04/3947758717/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Apr 14 09:36:17 GMT+0200 2009
+Upload Date  : Wed Sep 23 20:42:17 GMT+0200 2009
+Views        : 118
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Tiger Chester Zoo "Chester Zoo" FlickrBigCats 

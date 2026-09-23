@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Aleksandr Zykov
+Photo URL    : https://www.flickr.com/photos/infanticida/5115246660/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 5 19:58:45 GMT+0200 2010
+Upload Date  : Mon Oct 25 20:22:32 GMT+0200 2010
+Geotag Info  : Latitude:43.157108, Longitude:19.100761
+Views        : 208
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Durmitor
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Durmitor Montenegro mountains sheep 

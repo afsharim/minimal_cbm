@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Chris Parker2012
+Photo URL    : https://www.flickr.com/photos/chrisparker2012/7290897550/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Aug 24 15:15:10 GMT+0200 2011
+Upload Date  : Tue May 29 01:55:36 GMT+0200 2012
+Geotag Info  : Latitude:-24.258233, Longitude:31.345024
+Views        : 755
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Burchells Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A young Burchells Zebra, depicting the extra gold stripe for this breed
+
+
++--------+
+|  TAGS  |
++--------+
+"Timbavati Kruger National Park" zebra timbavati Kruger "Fuji HS20 EXR" 

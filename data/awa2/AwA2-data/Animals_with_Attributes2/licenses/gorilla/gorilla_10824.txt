@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : navarvel
+Photo URL    : https://www.flickr.com/photos/131231326@N04/16836177700/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 4 09:20:45 GMT+0200 2011
+Upload Date  : Fri Apr 3 23:46:08 GMT+0200 2015
+Geotag Info  : Latitude:37.713209, Longitude:-97.412048
+Views        : 449
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Western Gorilla
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+<i>Gorilla gorilla</i>
+Sedgwick County Zoo, Wichita, Sedgwick County, Kansas
+July 4, 2011
+
+
++--------+
+|  TAGS  |
++--------+
+Mammalia Primates Hominidae Gorilla "Gorilla gorilla" "Western Gorilla" Kansas "Sedgwick County" Wichita "Sedgwick County Zoo" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : b_leyende
+Photo URL    : https://www.flickr.com/photos/b_leyende/13151888803/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 8 12:58:47 GMT+0100 2014
+Upload Date  : Fri Mar 14 19:30:45 GMT+0100 2014
+Views        : 218
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Sunlit Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Central Park
+NY, NY
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : gerriet
+Photo URL    : https://www.flickr.com/photos/gerriet/2856422574/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 6 14:28:00 GMT+0200 2008
+Upload Date  : Sun Sep 14 17:04:31 GMT+0200 2008
+Geotag Info  : Latitude:53.675230, Longitude:6.971254
+Views        : 3,340
+Comments     : 11
+
+
++---------+
+|  TITLE  |
++---------+
+Meine Schokoladenseite
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Shire auf Juist.
+
+
++--------+
+|  TAGS  |
++--------+
+juist ostfriesland insel pferd horse shire heavy horses great favorite fav fav>=1 favoritesonly beautiful lovely 

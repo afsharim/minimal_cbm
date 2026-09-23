@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mararie
+Photo URL    : https://www.flickr.com/photos/mararie/170368666/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 18 20:33:57 GMT+0200 2006
+Upload Date  : Mon Jun 19 12:36:40 GMT+0200 2006
+Geotag Info  : Latitude:52.138578, Longitude:4.463667
+Views        : 486
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+cute rat
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+not sharp, but so cute. i miss little arwen
+
+
++--------+
+|  TAGS  |
++--------+
+rat rats arwen 

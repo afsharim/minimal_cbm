@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : wallygrom
+Photo URL    : https://www.flickr.com/photos/33037982@N04/4032317321/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Sep 29 16:41:36 GMT+0200 2009
+Upload Date  : Wed Oct 21 22:17:39 GMT+0200 2009
+Geotag Info  : Latitude:45.087959, Longitude:-63.401348
+Views        : 209
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Moose
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Canada "Nova Scotia" Shubenacadie "Shubenacadie Wildlife Park" moose 

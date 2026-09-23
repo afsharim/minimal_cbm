@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mickeyvdo
+Photo URL    : https://www.flickr.com/photos/mc-pictures/4074404728/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 1 00:00:00 GMT+0200 2009
+Upload Date  : Fri Jul 31 06:53:16 GMT+0200 2009
+Views        : 2,545
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+White Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+White Tiger 

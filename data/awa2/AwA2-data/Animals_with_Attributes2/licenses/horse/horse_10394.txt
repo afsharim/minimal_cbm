@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : flightlog
+Photo URL    : https://www.flickr.com/photos/flightlog/5809025519/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 4 09:53:08 GMT+0200 2011
+Upload Date  : Tue Jun 7 22:03:40 GMT+0200 2011
+Geotag Info  : Latitude:47.825236, Longitude:15.308741
+Views        : 336
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Haflinger auf Weide
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+pferd 

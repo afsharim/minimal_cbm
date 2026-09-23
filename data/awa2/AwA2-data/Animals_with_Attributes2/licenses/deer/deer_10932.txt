@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mitchyk
+Photo URL    : https://www.flickr.com/photos/mitchyk/8601948850/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Mar 29 14:37:52 GMT+0100 2013
+Upload Date  : Sat Mar 30 00:47:41 GMT+0100 2013
+Views        : 67
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_3743_C
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Dyrham Park" "Fallow Deer" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : thatmushroom
+Photo URL    : https://www.flickr.com/photos/thatmushroom/1185835926/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 9 13:28:24 GMT+0200 2007
+Upload Date  : Mon Aug 20 21:43:40 GMT+0200 2007
+Geotag Info  : Latitude:36.121410, Longitude:-115.174441
+Views        : 183
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+White Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Well, Siegfried and Roy <i>used</i> to perform at the Mirage...
+
+
++--------+
+|  TAGS  |
++--------+
+"Las VegasWhite Tiger" 

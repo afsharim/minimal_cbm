@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : SimonSays-
+Photo URL    : https://www.flickr.com/photos/28056813@N05/2743086389/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 8 02:27:53 GMT+0200 2008
+Upload Date  : Fri Aug 8 11:27:53 GMT+0200 2008
+Views        : 1,270
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Hamster
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+His name is Nacho
+
+
++--------+
+|  TAGS  |
++--------+
+Hamster Nacho 

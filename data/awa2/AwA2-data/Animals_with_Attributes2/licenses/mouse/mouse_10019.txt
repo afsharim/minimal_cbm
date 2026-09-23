@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Chika
+Photo URL    : https://www.flickr.com/photos/chikawatanabe/3626066979/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 12 02:26:24 GMT+0200 2009
+Upload Date  : Mon Jun 15 00:21:03 GMT+0200 2009
+Views        : 596
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Chai brought a mouse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Chai brought the mouse into the house on Thursday
+
+
++--------+
+|  TAGS  |
++--------+
+cat mouse moblog 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : LiS115
+Photo URL    : https://www.flickr.com/photos/lis115/7744680532/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 18 16:37:19 GMT+0200 2012
+Upload Date  : Thu Aug 9 08:24:30 GMT+0200 2012
+Views        : 292
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+ZEBRA rolling
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

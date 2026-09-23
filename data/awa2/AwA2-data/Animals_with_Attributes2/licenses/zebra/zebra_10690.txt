@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : chadh
+Photo URL    : https://www.flickr.com/photos/chadh-flickr/468162937/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 21 13:27:48 GMT+0200 2007
+Upload Date  : Sun Apr 22 12:25:06 GMT+0200 2007
+Geotag Info  : Latitude:37.733050, Longitude:-122.503137
+Views        : 1,194
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"San Francisco Zoo" zebra 

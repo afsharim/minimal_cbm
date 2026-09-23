@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : BenBenW
+Photo URL    : https://www.flickr.com/photos/beartrax/4760173890/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 3 16:52:25 GMT+0200 2010
+Upload Date  : Sun Jul 4 12:48:28 GMT+0200 2010
+Geotag Info  : Latitude:51.732716, Longitude:11.025295
+Views        : 423
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Thale Hexentanzplatz 4
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+<a href="http://www.tierpark-thale.de/" rel="nofollow">Animal park</a> near the town of <a href="http://en.wikipedia.org/wiki/Thale" rel="nofollow">Thale</a>, <a href="http://en.wikipedia.org/wiki/Saxony-Anhalt" rel="nofollow">Saxony-Anhalt</a>.
+
+
++--------+
+|  TAGS  |
++--------+
+Thale Hexentanzplatz Tierpark Waschbär racoon 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : tharendra
+Photo URL    : https://www.flickr.com/photos/tharendra/180506858/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 1 11:28:10 GMT+0200 2006
+Upload Date  : Mon Jul 3 09:55:20 GMT+0200 2006
+Views        : 1,259
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hippo Nose
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+One of two big fellas at the small hippo enclosure
+
+
++--------+
+|  TAGS  |
++--------+
+Hippo 

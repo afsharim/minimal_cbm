@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : yashima
+Photo URL    : https://www.flickr.com/photos/yashima/4636501149/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon May 24 18:54:07 GMT+0200 2010
+Upload Date  : Mon May 24 23:52:34 GMT+0200 2010
+Geotag Info  : Latitude:64.771784, Longitude:-23.692016
+Views        : 429
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Me thinks I overdid the blue ... I'll fix it
+
+
++--------+
+|  TAGS  |
++--------+
+iceland sheep Snæfellsnes 

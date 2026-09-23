@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ryan marsh
+Photo URL    : https://www.flickr.com/photos/8354422@N02/6767641551/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 22 14:22:39 GMT+0100 2012
+Upload Date  : Thu Jan 26 22:49:48 GMT+0100 2012
+Views        : 605
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Towcester-10
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+towcester horse racing 

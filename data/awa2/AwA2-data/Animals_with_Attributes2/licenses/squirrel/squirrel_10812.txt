@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : David Surtees
+Photo URL    : https://www.flickr.com/photos/dpsurtees/4960186667/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 5 17:17:00 GMT+0200 2010
+Upload Date  : Sun Sep 5 18:37:25 GMT+0200 2010
+Geotag Info  : Latitude:53.967189, Longitude:-1.060249
+Views        : 57
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

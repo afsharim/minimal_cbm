@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : CoreForce
+Photo URL    : https://www.flickr.com/photos/coreforce/14889744415/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 9 19:03:30 GMT+0200 2014
+Upload Date  : Mon Aug 11 22:56:15 GMT+0200 2014
+Geotag Info  : Latitude:46.576857, Longitude:9.801521
+Views        : 422
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Ein Kuh macht Muh
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Kuh 

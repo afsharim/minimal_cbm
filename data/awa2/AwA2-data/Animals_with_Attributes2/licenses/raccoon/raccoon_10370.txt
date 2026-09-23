@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Michael Fraley
+Photo URL    : https://www.flickr.com/photos/mrfraley/15256539410/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 11 19:17:16 GMT+0200 2014
+Upload Date  : Sun Oct 5 05:32:29 GMT+0200 2014
+Views        : 690
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Raccoons 02
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Olympus E-420
+Zuiko 14-42mm/f3.5-5.6
+Auto ISO
+09/01/2014
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

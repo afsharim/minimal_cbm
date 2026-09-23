@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : thecrypt
+Photo URL    : https://www.flickr.com/photos/thecrypt/2593127521/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Sep 14 09:54:12 GMT+0200 2005
+Upload Date  : Thu Jun 19 23:55:18 GMT+0200 2008
+Views        : 1,379
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Higashiyama Zoo, Nagoya, Jpan
+
+
++--------+
+|  TAGS  |
++--------+
+elephant japan 

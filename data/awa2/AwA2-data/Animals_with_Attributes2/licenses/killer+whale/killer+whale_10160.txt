@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : izik
+Photo URL    : https://www.flickr.com/photos/izik/2765720828/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 8 17:15:03 GMT+0200 2008
+Upload Date  : Fri Aug 15 17:03:14 GMT+0200 2008
+Geotag Info  : Latitude:59.515164, Longitude:-152.996978
+Views        : 1,623
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Orca and Augustine
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Out of about 50 photos I got this, which I still had to crop and rotate.
+
+
++--------+
+|  TAGS  |
++--------+
+whale orca mountain volcano alaska augustine "cook inlet" 

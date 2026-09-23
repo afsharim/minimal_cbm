@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ashkyd
+Photo URL    : https://www.flickr.com/photos/ashkyd/2846125482/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Sep 10 14:20:06 GMT+0200 2008
+Upload Date  : Wed Sep 10 17:18:33 GMT+0200 2008
+Geotag Info  : Latitude:-34.947460, Longitude:138.584337
+Views        : 1,004
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep Command You
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Super sheep commands you to kneel.
+
+
++--------+
+|  TAGS  |
++--------+
+adelaide show sheep 

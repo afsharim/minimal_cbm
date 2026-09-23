@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Manuel J. Prieto
+Photo URL    : https://www.flickr.com/photos/vitike/3551807265/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 27 13:25:24 GMT+0200 2008
+Upload Date  : Thu May 21 23:04:18 GMT+0200 2009
+Views        : 10,397
+Comments     : 6
+
+
++---------+
+|  TITLE  |
++---------+
+Gorilla eating
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Gorilla eating in the zoo of Madrid
+
+
++--------+
+|  TAGS  |
++--------+
+gorilla gorila zoo eating 

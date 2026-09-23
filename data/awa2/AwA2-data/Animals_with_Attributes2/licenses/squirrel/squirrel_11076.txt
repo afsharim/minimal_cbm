@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : rolandojones
+Photo URL    : https://www.flickr.com/photos/rolandojones/5540687364/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Mar 14 15:10:37 GMT+0100 2011
+Upload Date  : Sat Mar 19 19:48:51 GMT+0100 2011
+Geotag Info  : Latitude:36.380151, Longitude:-121.902623
+Views        : 93
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel 

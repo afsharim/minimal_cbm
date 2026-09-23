@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mertie.
+Photo URL    : https://www.flickr.com/photos/100780486@N02/18352699386/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 23 13:17:57 GMT+0200 2015
+Upload Date  : Tue Jun 2 12:12:46 GMT+0200 2015
+Geotag Info  : Latitude:-34.913419, Longitude:138.605489
+Views        : 240
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Oriental Small-Clawed Otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+originally from South-East Asia
+
+
++--------+
+|  TAGS  |
++--------+
+"Adelaide Zoo" Zoo "Orintal Small-Clawed Otter" Otter 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tim Green aka atoach
+Photo URL    : https://www.flickr.com/photos/atoach/8254405685/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Dec 8 13:36:42 GMT+0100 2012
+Upload Date  : Sat Dec 8 18:16:58 GMT+0100 2012
+Views        : 288
+Comments     : 6
+
+
++---------+
+|  TITLE  |
++---------+
+= 78
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+&quot;Long-playing&quot; and &quot;single&quot; sheep at Wainstalls
+
+
++--------+
+|  TAGS  |
++--------+
+33 45 sheep 

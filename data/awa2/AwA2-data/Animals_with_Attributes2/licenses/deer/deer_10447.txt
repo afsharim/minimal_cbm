@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : dbaron
+Photo URL    : https://www.flickr.com/photos/dbaron/3981949848/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 3 23:48:21 GMT+0200 2009
+Upload Date  : Mon Oct 5 00:44:30 GMT+0200 2009
+Geotag Info  : Latitude:37.363227, Longitude:-122.174068
+Views        : 971
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Deer in the (watered and mowed) field near the entrance to foothills park.  (dsc04281, cropped)
+
+
++--------+
+|  TAGS  |
++--------+
+USA California "Palo Alto" "Foothills Park" "Palo Alto Foothills Park" nature grass Odocoileus "Odocoileus hemionus" deer "Mule deer" "Black-tailed deer" geotagged geo:lat=37.363227 geo:lon=-122.174068 fawn doe 

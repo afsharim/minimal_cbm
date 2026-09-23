@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Spin Spin
+Photo URL    : https://www.flickr.com/photos/spin_spin/635607840/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 27 11:41:49 GMT+0200 2007
+Upload Date  : Wed Jun 27 03:41:49 GMT+0200 2007
+Views        : 1,135
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Cow 

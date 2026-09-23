@@ -1,0 +1,13 @@
++--------------------------------------+
+|             Photo Metadata           |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Pauline E
+Photo URL    : http://www.geograph.org.uk/photo/4170465
+License      : Creative Commons Attribution-ShareAlike 2.0 Generic (https://creativecommons.org/licenses/by-sa/2.0/)
+Date         : 12 September, 2014

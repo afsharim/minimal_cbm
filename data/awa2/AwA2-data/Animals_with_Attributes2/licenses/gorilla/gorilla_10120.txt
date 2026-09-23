@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Lodahln
+Photo URL    : https://www.flickr.com/photos/lodahln/10717417113/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 2 10:00:05 GMT+0100 2013
+Upload Date  : Thu Nov 7 01:56:49 GMT+0100 2013
+Views        : 20
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+dad_DSC6392
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

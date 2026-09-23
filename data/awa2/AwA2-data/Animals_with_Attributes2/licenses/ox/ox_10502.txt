@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : hern42
+Photo URL    : https://www.flickr.com/photos/hern42/4897341072/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Aug 3 15:00:01 GMT+0200 2010
+Upload Date  : Mon Aug 16 11:09:17 GMT+0200 2010
+Geotag Info  : Latitude:56.298455, Longitude:12.451608
+Views        : 130
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+One of the Beatles got reincarnated
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(@ Kullarbergs reservat, Sweden)
+It is still to be decided if he led a good or an evil life ...
+
+
++--------+
+|  TAGS  |
++--------+
+"haircut weirdo" Kullaberg Sweden Nikon_Coolpix_S50c "Kullarberg reservat" 

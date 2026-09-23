@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : petercolesdc
+Photo URL    : https://www.flickr.com/photos/petercolesdc/3775519766/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 31 08:41:40 GMT+0200 2009
+Upload Date  : Fri Jul 31 18:16:13 GMT+0200 2009
+Geotag Info  : Latitude:-1.526461, Longitude:29.457778
+Views        : 695
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Hirwa family, Rwanda
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Silverback
+
+
++--------+
+|  TAGS  |
++--------+
+Rwanda mountain gorillas Hirwa group 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Lil Shepherd
+Photo URL    : https://www.flickr.com/photos/lilshepherd/3675544296/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 27 12:00:29 GMT+0200 2009
+Upload Date  : Tue Jun 30 16:42:56 GMT+0200 2009
+Geotag Info  : Latitude:51.746658, Longitude:0.060903
+Views        : 666
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Blue roan
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horses 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : hamsterH
+Photo URL    : https://www.flickr.com/photos/hamsterh/24419821/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 8 00:50:31 GMT+0200 2005
+Upload Date  : Fri Jul 8 09:50:31 GMT+0200 2005
+Views        : 608
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+球球3
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+my lovely pet
+
+
++--------+
+|  TAGS  |
++--------+
+hamster 

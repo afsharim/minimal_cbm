@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : FritzFlohrReynolds
+Photo URL    : https://www.flickr.com/photos/fritzflohrreynolds/15696999978/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Nov 20 16:46:54 GMT+0100 2014
+Upload Date  : Wed Nov 26 17:06:03 GMT+0100 2014
+Views        : 196
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Live raccoon
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jmwests
+Photo URL    : https://www.flickr.com/photos/jassen/996910798/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 2 19:08:02 GMT+0200 2007
+Upload Date  : Fri Aug 3 14:34:15 GMT+0200 2007
+Views        : 113
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Horse Animal Farm Pentax K10D 

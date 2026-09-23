@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : nuklr.dave
+Photo URL    : https://www.flickr.com/photos/david_mackay/2304742006/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Aug 8 14:37:06 GMT+0200 2007
+Upload Date  : Sun Mar 2 15:16:37 GMT+0100 2008
+Views        : 3
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Otters
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

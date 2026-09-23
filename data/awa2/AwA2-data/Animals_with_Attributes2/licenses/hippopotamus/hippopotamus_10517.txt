@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Martin Pettitt
+Photo URL    : https://www.flickr.com/photos/mdpettitt/7226283630/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 17 19:21:46 GMT+0200 2012
+Upload Date  : Sat May 19 12:49:06 GMT+0200 2012
+Geotag Info  : Latitude:51.534762, Longitude:-0.153904
+Views        : 153
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+London Zoo 1997
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Hippopotamus
+
+
++--------+
+|  TAGS  |
++--------+
+Wildlife Animals Capital Scanned "London Zoo" 1997 Film Hippopotamus 

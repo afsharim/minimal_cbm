@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Turtlewpbt
+Photo URL    : https://www.flickr.com/photos/92490299@N08/8715460137/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 20 13:57:45 GMT+0200 2013
+Upload Date  : Tue May 7 04:45:56 GMT+0200 2013
+Views        : 33
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra - Photoshopped
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

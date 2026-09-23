@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : James O'Gorman
+Photo URL    : https://www.flickr.com/photos/jamesog/2597632179/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Apr 21 15:51:27 GMT+0200 2008
+Upload Date  : Sat Jun 21 20:10:12 GMT+0200 2008
+Views        : 20
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_0334
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Peak District" sheep 

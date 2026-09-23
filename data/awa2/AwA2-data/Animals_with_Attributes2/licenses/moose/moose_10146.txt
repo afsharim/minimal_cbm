@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : D'oh Boy
+Photo URL    : https://www.flickr.com/photos/137837832@N07/23905974871/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Dec 26 10:33:42 GMT+0100 2015
+Upload Date  : Sat Dec 26 20:41:21 GMT+0100 2015
+Views        : 46
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elk
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Herd seen West of Anaconda, Montana. Mount Haggin in distance.
+
+
++--------+
+|  TAGS  |
++--------+
+moose 

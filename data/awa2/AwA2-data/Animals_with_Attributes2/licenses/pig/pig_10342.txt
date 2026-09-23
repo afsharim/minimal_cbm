@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : photon_de
+Photo URL    : https://www.flickr.com/photos/photon_de/3952153825/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Sep 25 10:20:21 GMT+0200 2009
+Upload Date  : Fri Sep 25 10:20:21 GMT+0200 2009
+Views        : 350
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Pig
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Seen in the Wilhema in Stuttgart.
+
+
++--------+
+|  TAGS  |
++--------+
+pig mud wilhelma 

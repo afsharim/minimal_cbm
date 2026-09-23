@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Lauras512
+Photo URL    : https://www.flickr.com/photos/luckylaura/1535605597/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Nov 15 17:11:51 GMT+0100 2004
+Upload Date  : Sun Feb 6 00:05:31 GMT+0100 2005
+Views        : 24
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+zebra crowd.jpg
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

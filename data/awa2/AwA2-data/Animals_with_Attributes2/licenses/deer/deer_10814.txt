@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : EVO GT
+Photo URL    : https://www.flickr.com/photos/evo_gt/7809350056/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 9 14:37:23 GMT+0200 2012
+Upload Date  : Sat Aug 18 19:47:58 GMT+0200 2012
+Geotag Info  : Latitude:51.569974, Longitude:-3.712091
+Views        : 655
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Fallow Deer - Dama Dama
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Fallow Deer 

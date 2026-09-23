@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Shanna Mae
+Photo URL    : https://www.flickr.com/photos/shannamae/5881165135/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 22 16:15:36 GMT+0200 2011
+Upload Date  : Tue Jun 28 19:25:27 GMT+0200 2011
+Geotag Info  : Latitude:40.416894, Longitude:-105.556640
+Views        : 753
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+baby moose
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+baby moose 

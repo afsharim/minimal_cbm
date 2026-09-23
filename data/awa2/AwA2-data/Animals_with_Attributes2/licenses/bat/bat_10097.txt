@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jdsmith1021
+Photo URL    : https://www.flickr.com/photos/jdsmith1021/4917563230/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 21 13:58:57 GMT+0200 2010
+Upload Date  : Sun Aug 22 22:29:06 GMT+0200 2010
+Geotag Info  : Latitude:45.509113, Longitude:-122.713594
+Views        : 206
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Fruit Bat at the Oregon Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+portland oregon zoo "oregon zoo" bat 

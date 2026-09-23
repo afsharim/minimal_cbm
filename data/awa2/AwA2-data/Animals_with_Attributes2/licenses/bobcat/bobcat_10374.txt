@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ahisgett
+Photo URL    : https://www.flickr.com/photos/hisgett/8489710348/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Feb 19 14:02:29 GMT+0100 2013
+Upload Date  : Tue Feb 19 17:06:36 GMT+0100 2013
+Geotag Info  : Latitude:52.449821, Longitude:-1.910258
+Views        : 215
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+End of a Magpie
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Lynx 

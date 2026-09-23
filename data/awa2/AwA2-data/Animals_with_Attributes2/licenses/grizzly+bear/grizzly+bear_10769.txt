@@ -1,0 +1,19 @@
++--------------------------------------+
+|       Pixabay Photo Metadata         |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Republica
+Photo URL    : https://pixabay.com/en/bear-grizzly-wildlife-brown-wild-88998/
+License      : CC0 Public Domain (https://creativecommons.org/publicdomain/zero/1.0/deed.en)
+Created      : Nov. 3, 2008
+Uploaded     : March 2, 2013
+
++--------+
+|  TAGS  |
++--------+
+Bear, Grizzly, Wildlife, Brown, Wild, Mammal, Fur

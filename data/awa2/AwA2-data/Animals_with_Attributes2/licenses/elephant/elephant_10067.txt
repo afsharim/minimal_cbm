@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ilya
+Photo URL    : https://www.flickr.com/photos/ilya/3771568076/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 25 10:19:54 GMT+0200 2009
+Upload Date  : Thu Jul 30 08:28:40 GMT+0200 2009
+Views        : 43
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+at the toronto zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+elephant toronto 

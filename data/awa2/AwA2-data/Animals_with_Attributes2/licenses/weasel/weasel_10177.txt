@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Aug 23, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Cloudtail the Snow Leopard
+Photo URL    : https://www.flickr.com/photos/blacktigersdream/16746229678/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 1 11:49:57 GMT+0200 2014
+Upload Date  : Thu Mar 26 08:00:08 GMT+0100 2015
+Geotag Info  : Latitude:49.470801, Longitude:9.790792
+Views        : 646
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Ferret
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A picture, I've made at Wildpark Bad Mergentheim.
+
+
++--------+
+|  TAGS  |
++--------+
+wildpark; bad; mergentheim; tier; animal; mammal; säugetier; frettchen; Mustela; putorius; furo; ferret 

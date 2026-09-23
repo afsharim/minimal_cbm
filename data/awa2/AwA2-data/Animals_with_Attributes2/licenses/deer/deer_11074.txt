@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : scjody
+Photo URL    : https://www.flickr.com/photos/scjody/4324419045/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 23 12:42:30 GMT+0100 2010
+Upload Date  : Tue Feb 2 12:48:41 GMT+0100 2010
+Views        : 144
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Nom, chain
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+delicious and nutritious
+
+
++--------+
+|  TAGS  |
++--------+
+Japan Nara deer 

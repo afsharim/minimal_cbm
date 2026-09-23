@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Bob McCaffrey
+Photo URL    : https://www.flickr.com/photos/mccaffrey_uk/3124906985/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 21 10:14:09 GMT+0100 2008
+Upload Date  : Sun Dec 21 18:33:54 GMT+0100 2008
+Geotag Info  : Latitude:51.638542, Longitude:-0.464751
+Views        : 101
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel "grey squirrel" rickmansworth herts hertfordshire england uk 

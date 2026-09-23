@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jimmcsweeney
+Photo URL    : https://www.flickr.com/photos/73118846@N04/22592133838/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 14 15:30:38 GMT+0100 2015
+Upload Date  : Sat Nov 14 16:02:03 GMT+0100 2015
+Views        : 315
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Grey Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel "grey squirrel" animal rodent 

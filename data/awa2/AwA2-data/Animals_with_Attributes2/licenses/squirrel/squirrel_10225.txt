@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : grandmapearl
+Photo URL    : https://www.flickr.com/photos/grandmapearl/8690340314/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Apr 18 22:05:41 GMT+0200 2013
+Upload Date  : Sun Apr 28 21:23:54 GMT+0200 2013
+Views        : 50
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+grey squirrel 1
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel "grey squirrel" "squirrel eating seeds" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Dominic's pics
+Photo URL    : https://www.flickr.com/photos/dominicspics/5635466863/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Mar 17 17:04:06 GMT+0100 2011
+Upload Date  : Sat May 7 00:52:00 GMT+0200 2011
+Geotag Info  : Latitude:50.822907, Longitude:-0.139367
+Views        : 993
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Part of a <a href="http://www.flickr.com/photos/dominicspics/sets/72157626534857246/">Set</a> / <a href="http://www.flickr.com/photos/dominicspics/sets/72157626534857246/show/">Slideshow</a> with lots of images of <a href="http://en.wikipedia.org/wiki/Squirrel" rel="nofollow">squirrels</a> in the gardens of the Prince Regent Royal Pavilion, Brighton.
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel 

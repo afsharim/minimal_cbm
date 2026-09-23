@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : evil nickname
+Photo URL    : https://www.flickr.com/photos/evilnickname/19433933664/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 23 11:29:44 GMT+0200 2015
+Upload Date  : Mon Jul 27 16:54:04 GMT+0200 2015
+Geotag Info  : Latitude:51.517561, Longitude:5.112475
+Views        : 207
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Beekse Bergen" zoo safaripark "The Netherlands" Hilvarenbeek Nederland dierentuin giraffe giraf 

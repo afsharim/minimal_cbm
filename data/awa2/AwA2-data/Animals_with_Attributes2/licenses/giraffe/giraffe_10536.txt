@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sheilapic76
+Photo URL    : https://www.flickr.com/photos/53344659@N05/4979033176/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Mar 1 22:20:17 GMT+0100 2007
+Upload Date  : Sat Sep 11 09:12:37 GMT+0200 2010
+Views        : 80
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

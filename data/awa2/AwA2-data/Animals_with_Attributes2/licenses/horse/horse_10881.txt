@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Suzie T
+Photo URL    : https://www.flickr.com/photos/23727257@N00/2523556583/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 25 11:45:17 GMT+0200 2008
+Upload Date  : Mon May 26 14:41:42 GMT+0200 2008
+Geotag Info  : Latitude:35.811766, Longitude:-78.722469
+Views        : 56
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Horses
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+raleigh northcarolina schenk forest 

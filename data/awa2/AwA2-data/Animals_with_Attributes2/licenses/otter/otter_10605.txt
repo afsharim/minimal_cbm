@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : fiat luxe
+Photo URL    : https://www.flickr.com/photos/fiatluxe/75599326/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Dec 20 11:05:18 GMT+0100 2005
+Upload Date  : Tue Dec 20 17:05:18 GMT+0100 2005
+Geotag Info  : Latitude:17.500909, Longitude:-88.188457
+Views        : 1,194
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+river otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+River otter at the Belize Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+"river otter" "belize zoo" animal rebar fiatluxe 

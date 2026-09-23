@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : daf73r
+Photo URL    : https://www.flickr.com/photos/daf73/4416768714/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 14 11:53:50 GMT+0100 2010
+Upload Date  : Mon Mar 8 10:50:14 GMT+0100 2010
+Geotag Info  : Latitude:43.033482, Longitude:11.091170
+Views        : 147
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+img_2359
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Sulla neve.
+On the snow.
+
+
++--------+
+|  TAGS  |
++--------+
+Collie snow 

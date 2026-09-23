@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Bob n Renee
+Photo URL    : https://www.flickr.com/photos/bobnrenee/2193372215/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 13 14:17:34 GMT+0100 2008
+Upload Date  : Tue Jan 15 02:28:35 GMT+0100 2008
+Views        : 405
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sportsmans Show
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Bobcat
+
+
++--------+
+|  TAGS  |
++--------+
+Taxidermy sportsman 

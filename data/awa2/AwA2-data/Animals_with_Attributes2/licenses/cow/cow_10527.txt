@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Joe Lanman
+Photo URL    : https://www.flickr.com/photos/joelanman/479753321/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue May 1 12:07:00 GMT+0200 2007
+Upload Date  : Tue May 1 13:11:01 GMT+0200 2007
+Views        : 185
+Comments     : 6
+
+
++---------+
+|  TITLE  |
++---------+
+Cows
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+cows 

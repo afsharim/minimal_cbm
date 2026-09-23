@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : satguru
+Photo URL    : https://www.flickr.com/photos/satguru/4404442180/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Mar 3 15:43:13 GMT+0100 2010
+Upload Date  : Wed Mar 3 18:05:58 GMT+0100 2010
+Views        : 64
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Golders Hill deer2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+deer "golders green" 

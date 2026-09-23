@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/5186755209/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Sep 16 14:30:29 GMT+0200 2010
+Upload Date  : Thu Nov 18 15:33:36 GMT+0100 2010
+Geotag Info  : Latitude:57.037414, Longitude:9.898660
+Views        : 9,349
+Comments     : 120
+
+
++---------+
+|  TITLE  |
++---------+
+Portrait of a giraffe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Portrait of another inhabitant of the Aalborg zoo in Denmark.
+I like the visible dust on the picture!
+
+
++--------+
+|  TAGS  |
++--------+
+giraffe head portrait face looking bokeh brown zoo aalborg denmark holidays nikon d300 

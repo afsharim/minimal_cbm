@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bambe1964
+Photo URL    : https://www.flickr.com/photos/bambe1964/5674325948/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 17 11:39:44 GMT+0200 2011
+Upload Date  : Sun May 1 03:26:30 GMT+0200 2011
+Geotag Info  : Latitude:29.712823, Longitude:-95.391497
+Views        : 228
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+older elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"houston zoo" elephant 

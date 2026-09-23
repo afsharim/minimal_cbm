@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : warriorwoman531
+Photo URL    : https://www.flickr.com/photos/warriorwoman531/13511339215/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Mar 26 12:11:13 GMT+0100 2014
+Upload Date  : Sun Mar 30 18:28:50 GMT+0200 2014
+Geotag Info  : Latitude:28.014862, Longitude:-82.466297
+Views        : 136
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Chimpanzee (Pan troglodytes)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Tampa Lowry Zoo" 

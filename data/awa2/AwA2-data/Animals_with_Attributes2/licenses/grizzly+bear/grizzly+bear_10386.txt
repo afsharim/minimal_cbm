@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Christoph Strässler
+Photo URL    : https://www.flickr.com/photos/christoph_straessler/10106141885/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 6 08:52:27 GMT+0200 2013
+Upload Date  : Sat Oct 5 23:10:04 GMT+0200 2013
+Geotag Info  : Latitude:63.573166, Longitude:-149.622333
+Views        : 346
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Grizzly Bear and Cub, Denali National Park
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+16-9 "Alaska 2013" "Denali Nationalpark" Grizzly Tierwelt Healy Alaska USA 

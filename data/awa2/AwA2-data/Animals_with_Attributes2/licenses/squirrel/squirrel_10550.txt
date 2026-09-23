@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : caligula1995
+Photo URL    : https://www.flickr.com/photos/pussreboots/22202006090/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 30 14:06:00 GMT+0200 2014
+Upload Date  : Thu Oct 22 19:32:16 GMT+0200 2015
+Geotag Info  : Latitude:37.680536, Longitude:-122.058395
+Views        : 29
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel 20140330
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Squirrel on the balcony
+
+
++--------+
+|  TAGS  |
++--------+
+2014 "balcony garden" squirrel 

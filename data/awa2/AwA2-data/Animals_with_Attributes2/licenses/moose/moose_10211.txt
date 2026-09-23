@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : andrellv
+Photo URL    : https://www.flickr.com/photos/andrellv/4141077184/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 29 16:03:17 GMT+0200 2007
+Upload Date  : Sat Nov 28 16:23:00 GMT+0100 2009
+Geotag Info  : Latitude:59.326622, Longitude:18.098430
+Views        : 196
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Moose - Skanse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Chocolate Moooose. Bork bork bork.
+
+
++--------+
+|  TAGS  |
++--------+
+stockholm travel sweden moose skansen Djurgården 

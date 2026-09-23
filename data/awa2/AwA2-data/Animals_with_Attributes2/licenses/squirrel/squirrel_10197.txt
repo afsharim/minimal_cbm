@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Allan Hack
+Photo URL    : https://www.flickr.com/photos/aehack/25115550786/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Feb 19 09:09:58 GMT+0100 2016
+Upload Date  : Sat Feb 20 07:22:47 GMT+0100 2016
+Views        : 17
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Fox Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Backlit tail
+
+
++--------+
+|  TAGS  |
++--------+
+"Fox Squirrel" 

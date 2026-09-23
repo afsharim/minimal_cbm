@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : John Vetterli
+Photo URL    : https://www.flickr.com/photos/jvetterli/607471826/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 23 15:36:21 GMT+0200 2007
+Upload Date  : Sun Jun 24 07:18:32 GMT+0200 2007
+Views        : 66
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Grevys Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Shot during the TPMG outing to the Toronto Zoo.
+
+
++--------+
+|  TAGS  |
++--------+
+toronto tpmg zoo 

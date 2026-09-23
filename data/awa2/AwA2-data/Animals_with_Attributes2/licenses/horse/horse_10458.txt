@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Sam's Shots 1
+Photo URL    : https://www.flickr.com/photos/samspectrum/6902027877/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Feb 10 14:04:46 GMT+0100 2012
+Upload Date  : Sun Feb 19 12:49:32 GMT+0100 2012
+Geotag Info  : Latitude:54.269234, Longitude:-0.940017
+Views        : 722
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Horse Dance
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Horse winter snow animals 

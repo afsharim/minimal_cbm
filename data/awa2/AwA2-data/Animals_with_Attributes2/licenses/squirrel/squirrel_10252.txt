@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MrMoaks
+Photo URL    : https://www.flickr.com/photos/mrmoaks/9650018533/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 1 12:53:10 GMT+0200 2013
+Upload Date  : Mon Sep 2 09:15:26 GMT+0200 2013
+Views        : 503
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Grey Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A Grey Squirrel, Sciurus carolinensis, eating nuts in the National Trust's Clumber Park, Worksop, UK
+
+
++--------+
+|  TAGS  |
++--------+
+"Grey Squirrel" "Gray Squirrel" Nuts "Clumber Park" Worksop "Sciurus carolinensis" 

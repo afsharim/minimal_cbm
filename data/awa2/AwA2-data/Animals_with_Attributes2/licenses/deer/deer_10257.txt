@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : andrew_j_w
+Photo URL    : https://www.flickr.com/photos/andrew_j_w/5233172816/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Dec 4 22:10:47 GMT+0100 2010
+Upload Date  : Sun Dec 5 02:24:34 GMT+0100 2010
+Geotag Info  : Latitude:41.924472, Longitude:-87.634248
+Views        : 479
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer In Snow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+chicago deer animal snow lincolnparkzoo 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : AMWRanes
+Photo URL    : https://www.flickr.com/photos/awelch/3278022542/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Oct 27 22:55:13 GMT+0100 2008
+Upload Date  : Sat Feb 14 03:37:28 GMT+0100 2009
+Geotag Info  : Latitude:29.716625, Longitude:-95.394866
+Views        : 9
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Houston Texas Zoo 

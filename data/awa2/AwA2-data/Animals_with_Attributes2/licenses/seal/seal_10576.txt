@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MauritsV
+Photo URL    : https://www.flickr.com/photos/mvvermeulen/91373662/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 21 15:19:52 GMT+0100 2006
+Upload Date  : Thu Jan 26 13:20:22 GMT+0100 2006
+Geotag Info  : Latitude:-33.923064, Longitude:18.418407
+Views        : 109
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+More seals
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"South Africa" "Cape Town" Robben "V&A Waterfront" 

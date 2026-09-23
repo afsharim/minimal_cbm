@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Helena Jacoba
+Photo URL    : https://www.flickr.com/photos/69302634@N02/10177530413/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Oct 9 15:08:39 GMT+0200 2013
+Upload Date  : Thu Oct 10 00:13:05 GMT+0200 2013
+Views        : 62
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hamster
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

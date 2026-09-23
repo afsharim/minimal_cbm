@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : karelp
+Photo URL    : https://www.flickr.com/photos/29482669@N08/8488074961/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Feb 19 12:07:26 GMT+0100 2013
+Upload Date  : Tue Feb 19 13:16:12 GMT+0100 2013
+Geotag Info  : Latitude:52.366652, Longitude:4.917862
+Views        : 976
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra 4
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Newly born Grévy-zebra colt takes his first steps outside at Amsterdam Artis zoo.
+
+
++--------+
+|  TAGS  |
++--------+
+pasgeboren young zebra Grévy-zebra Artis Amsterdam zoo colt 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Pitel
+Photo URL    : https://www.flickr.com/photos/pitel/2631557442/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 2 11:57:47 GMT+0200 2008
+Upload Date  : Wed Jul 2 18:08:38 GMT+0200 2008
+Geotag Info  : Latitude:49.263344, Longitude:16.563000
+Views        : 493
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horses
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horses GC19HDX 

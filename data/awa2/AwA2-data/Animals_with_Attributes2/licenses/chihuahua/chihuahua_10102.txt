@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mujib
+Photo URL    : https://www.flickr.com/photos/mujib/2694791519/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 6 07:43:22 GMT+0200 2008
+Upload Date  : Wed Jul 23 12:20:16 GMT+0200 2008
+Geotag Info  : Latitude:37.279354, Longitude:-121.975579
+Views        : 792
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Chihuahua
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bryan_estabrooks
+Photo URL    : https://www.flickr.com/photos/25500333@N07/3967960139/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 25 15:37:58 GMT+0200 2005
+Upload Date  : Wed Sep 30 11:34:33 GMT+0200 2009
+Views        : 729
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_0819
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Whales off Victoria, BC
+
+
++--------+
+|  TAGS  |
++--------+
+"killer whale" 

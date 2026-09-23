@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : SSipple
+Photo URL    : https://www.flickr.com/photos/ssipple/5749130359/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon May 23 00:30:17 GMT+0200 2011
+Upload Date  : Mon May 23 06:30:17 GMT+0200 2011
+Views        : 123
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_0035
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"National Zoo" Gorillas Animals 

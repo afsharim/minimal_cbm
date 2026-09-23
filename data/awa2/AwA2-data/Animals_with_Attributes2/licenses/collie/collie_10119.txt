@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Oregon State University
+Photo URL    : https://www.flickr.com/photos/oregonstateuniversity/14166626528/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jan 17 15:04:40 GMT+0100 2011
+Upload Date  : Thu Jun 5 18:53:27 GMT+0200 2014
+Views        : 505
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Border collie
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Dog breeds such as this border collie are more susceptible than others to bladder cancer, but a new assay developed by researchers at Oregon State University may help catch the disease at a more treatable stage. (Photo courtesy of U.S. Department of Agriculture)
+
+
++--------+
+|  TAGS  |
++--------+
+"Oregon State University" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jorge Lascar
+Photo URL    : https://www.flickr.com/photos/jlascar/4548290808/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Nov 14 16:48:59 GMT+0100 2007
+Upload Date  : Sat Apr 24 16:40:16 GMT+0200 2010
+Geotag Info  : Latitude:-17.932927, Longitude:25.861473
+Views        : 194
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hippopotamus (Zambezi river)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

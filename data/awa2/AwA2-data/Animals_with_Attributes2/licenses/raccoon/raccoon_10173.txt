@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : xtopherglez
+Photo URL    : https://www.flickr.com/photos/xtopherglez/10764621185/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Sep 17 07:20:19 GMT+0200 2013
+Upload Date  : Sat Nov 9 21:38:48 GMT+0100 2013
+Views        : 817
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Procyon pygmaeus
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Mapache enano de Cozumel. Unos de los 8 carnívoros del mundo en peligro crítico de extinción. 
+Cozumel dwarf Raccoon. One of the world's nine critically endangered carnivores.
+
+<a href="http://www.iucnredlist.org/search/link/5237ee93-b85b6c62" rel="nofollow">www.iucnredlist.org/search/link/5237ee93-b85b6c62</a>
+
+
++--------+
+|  TAGS  |
++--------+
+taxonomy:order=Carnivora taxonomy:family=Procyonidae "taxonomy:binomial=Procyon pygmaeus" "taxonomy:common=Cozumel Dwarf Racoon" 

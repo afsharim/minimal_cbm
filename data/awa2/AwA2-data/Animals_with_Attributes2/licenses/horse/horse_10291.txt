@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : flightlog
+Photo URL    : https://www.flickr.com/photos/flightlog/8063592005/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 6 16:35:54 GMT+0200 2012
+Upload Date  : Sun Oct 7 20:53:12 GMT+0200 2012
+Geotag Info  : Latitude:48.020344, Longitude:16.245680
+Views        : 135
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSCN0800
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+ausflug pferd 

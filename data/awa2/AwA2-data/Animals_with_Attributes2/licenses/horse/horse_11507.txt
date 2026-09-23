@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Sheila Hudson
+Photo URL    : https://www.flickr.com/photos/79557817@N00/16220859683/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Sep 2 22:22:29 GMT+0200 1999
+Upload Date  : Tue Mar 17 05:39:40 GMT+0100 2015
+Views        : 53
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tomcat003
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Sierra Exif JPEG
+
+
++--------+
+|  TAGS  |
++--------+
+horses paul 1999 

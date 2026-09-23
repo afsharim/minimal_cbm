@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : txcyclist
+Photo URL    : https://www.flickr.com/photos/txcyclist/9500451482/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 9 14:48:25 GMT+0200 2013
+Upload Date  : Tue Aug 13 06:00:24 GMT+0200 2013
+Views        : 101
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebras
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Natural Bridge Wildlife Ranch
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

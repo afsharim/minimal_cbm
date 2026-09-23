@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : happymillerman
+Photo URL    : https://www.flickr.com/photos/happymillerman/21253595296/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Sep 9 16:21:08 GMT+0200 2015
+Upload Date  : Wed Sep 9 23:15:33 GMT+0200 2015
+Views        : 509
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The Botanical Gardens is ust an amazing place for these relatively tame squirrels
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel Tree Bokeh 

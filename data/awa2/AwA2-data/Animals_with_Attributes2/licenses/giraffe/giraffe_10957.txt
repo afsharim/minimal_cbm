@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tristan King
+Photo URL    : https://www.flickr.com/photos/phatcamp/4975269316/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Sep 7 08:08:53 GMT+0200 2010
+Upload Date  : Thu Sep 9 23:42:12 GMT+0200 2010
+Views        : 81
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_8679
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"atlanta zoo" giraffe 

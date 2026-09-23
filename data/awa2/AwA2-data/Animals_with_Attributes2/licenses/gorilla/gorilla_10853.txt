@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : gvgoebel
+Photo URL    : https://www.flickr.com/photos/37467370@N08/8492415582/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Nov 12 13:22:18 GMT+0100 2012
+Upload Date  : Wed Feb 20 14:42:58 GMT+0100 2013
+Views        : 320
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Ybgor_5b
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+gorilla, Denver Zoo, Colorado / 2012
+
+
++--------+
+|  TAGS  |
++--------+
+animals mammals gorilla 

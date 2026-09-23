@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Brett Levin Photography
+Photo URL    : https://www.flickr.com/photos/scubabrett22/9078728165/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed May 15 13:03:47 GMT+0200 2013
+Upload Date  : Wed Jun 19 01:05:55 GMT+0200 2013
+Geotag Info  : Latitude:40.551325, Longitude:-105.626571
+Views        : 214
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Moose
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

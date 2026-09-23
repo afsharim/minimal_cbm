@@ -1,0 +1,40 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : TheGrantPeters
+Photo URL    : https://www.flickr.com/photos/grantpetersphotography/7033007279/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Mar 21 01:49:29 GMT+0100 2012
+Upload Date  : Sat Mar 31 22:47:42 GMT+0200 2012
+Geotag Info  : Latitude:-25.078758, Longitude:30.785064
+Views        : 410
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+A Zebra Calf
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Model: Canon EOS 7D
+Lens: Canon EF 100-400mm f/4.5-5.6L
+ISO: 200
+Focal Length: 400mm
+
+Spotted: Sabi Sands (Near Kruger National Park), South Africa | Late Morning
+
+
++--------+
+|  TAGS  |
++--------+
+Zebra Calf Sabi Sands Kruger National Park South Africa 

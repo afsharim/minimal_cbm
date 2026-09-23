@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : JPC24M
+Photo URL    : https://www.flickr.com/photos/cjp24/24834673769/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 21 18:03:30 GMT+0100 2016
+Upload Date  : Tue Feb 23 00:24:44 GMT+0100 2016
+Views        : 15
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Six sheeps
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Saint-Quentin-sur-Nohain, Nièvre, France.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

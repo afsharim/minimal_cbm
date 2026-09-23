@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ahisgett
+Photo URL    : https://www.flickr.com/photos/hisgett/5512629466/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Mar 8 14:25:05 GMT+0100 2011
+Upload Date  : Wed Mar 9 18:05:57 GMT+0100 2011
+Geotag Info  : Latitude:52.514157, Longitude:-2.078797
+Views        : 133
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Chimpanzee 2d
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Dudley Zoo Primate 

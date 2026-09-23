@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : asokolik
+Photo URL    : https://www.flickr.com/photos/asokolik/15906535801/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 29 12:28:05 GMT+0100 2014
+Upload Date  : Sat Nov 29 23:29:22 GMT+0100 2014
+Views        : 100
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_9455
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Buffalo Zoo" "Western Lowland Gorilla" 

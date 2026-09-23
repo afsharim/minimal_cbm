@@ -1,0 +1,39 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Takashi(aes256)
+Photo URL    : https://www.flickr.com/photos/htakashi/4550334247/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 25 15:09:47 GMT+0200 2010
+Upload Date  : Sun Apr 25 15:11:20 GMT+0200 2010
+Views        : 362
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Happy family of Chimpanzee
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This photo is taken at Tama zoo.
+
+たのしそうですなぁ。
+撮影場所：多摩動物公園
+動物：チンパンジー
+Canon EOS 7D + Canon 70-200mm F2.8L USM
+
+
++--------+
+|  TAGS  |
++--------+
+Canon 7D TamaZoo 

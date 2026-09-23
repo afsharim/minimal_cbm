@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Brooke Anderson
+Photo URL    : https://www.flickr.com/photos/brooke_anderson/303866783/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 18 14:20:39 GMT+0200 2006
+Upload Date  : Thu Nov 23 01:43:05 GMT+0100 2006
+Geotag Info  : Latitude:37.935803, Longitude:-122.288560
+Views        : 116
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Wildcat Canyon in Oakland
+
+
++--------+
+|  TAGS  |
++--------+
+"wildcat canyon" oakland cow grass 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : viralbus
+Photo URL    : https://www.flickr.com/photos/viralbus/763079804/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 4 13:16:20 GMT+0200 2007
+Upload Date  : Mon Jul 9 20:30:04 GMT+0200 2007
+Geotag Info  : Latitude:55.811981, Longitude:9.351180
+Views        : 986
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Dwarf hippo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Dwarf hippo in Løveparken, Givskud, Denmark.
+
+
++--------+
+|  TAGS  |
++--------+
+løveparken "dwarf hippo" 

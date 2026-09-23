@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sheilapic76
+Photo URL    : https://www.flickr.com/photos/53344659@N05/4978436501/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 11 00:21:35 GMT+0200 2010
+Upload Date  : Sat Sep 11 09:21:35 GMT+0200 2010
+Views        : 144
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Spotted deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

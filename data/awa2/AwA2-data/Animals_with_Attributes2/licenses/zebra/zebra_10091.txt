@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : VSmithUK
+Photo URL    : https://www.flickr.com/photos/vsmithuk/2875313054/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 15 14:56:28 GMT+0200 2008
+Upload Date  : Sun Sep 21 13:11:14 GMT+0200 2008
+Geotag Info  : Latitude:-28.370331, Longitude:31.180143
+Views        : 74
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Burchell's Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+<i>Equus burchellii</i>
+
+
++--------+
+|  TAGS  |
++--------+
+"South Africa" Mammal Hluhluwe Kwazulu-Natal _Favorite_ Life 

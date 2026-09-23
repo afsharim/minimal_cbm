@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Dave Hamster
+Photo URL    : https://www.flickr.com/photos/davehamster/16327723155/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 4 21:19:30 GMT+0100 2015
+Upload Date  : Tue Jan 20 20:14:59 GMT+0100 2015
+Geotag Info  : Latitude:35.662238, Longitude:-121.255899
+Views        : 317
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Northern Elephant Seal (Mirounga angustirostris)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Piedras Blancas Elephant Seal Rookery, Highway 1, California
+
+
++--------+
+|  TAGS  |
++--------+
+California USA "Northern Elephant Seal" "Mirounga angustirostris" "Elephant Seal" Seal "Piedras Blancas Elephant Seal Rookery" "Piedras Blancas" "Elephant Seal Rookery" 

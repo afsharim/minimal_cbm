@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Nigel's Europe & beyond 2
+Photo URL    : https://www.flickr.com/photos/zooeurope/8087573990/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 20 12:18:04 GMT+0200 2012
+Upload Date  : Sun Oct 14 22:18:45 GMT+0200 2012
+Views        : 90
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Chester Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Elephants
+
+
++--------+
+|  TAGS  |
++--------+
+"Chester Zoo" Elephants 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tim Green aka atoach
+Photo URL    : https://www.flickr.com/photos/atoach/7172057338/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 10 18:17:27 GMT+0200 2012
+Upload Date  : Thu May 10 20:09:26 GMT+0200 2012
+Geotag Info  : Latitude:53.770656, Longitude:-1.840072
+Views        : 856
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+The grass is greener ...
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Queensbury
+
+
++--------+
+|  TAGS  |
++--------+
+horse 

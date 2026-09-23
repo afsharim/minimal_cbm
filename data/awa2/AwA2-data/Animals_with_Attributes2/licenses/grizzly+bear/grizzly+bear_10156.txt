@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : tillwe
+Photo URL    : https://www.flickr.com/photos/tillwe/604289972/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 3 16:43:04 GMT+0200 2007
+Upload Date  : Sat Jun 23 23:31:18 GMT+0200 2007
+Geotag Info  : Latitude:48.011113, Longitude:7.779521
+Views        : 152
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Part of <a href="http://www.flickr.com/photos/tillwe/sets/72157600453393668/">Mundenhof</a>-Set
+
+
++--------+
+|  TAGS  |
++--------+
+tillwe ixus 2007-06 mundenhof freiburg germany zoo "animal park" tiergarten animal nature bear people brown 

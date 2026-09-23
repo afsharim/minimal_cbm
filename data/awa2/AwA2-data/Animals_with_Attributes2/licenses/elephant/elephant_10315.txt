@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Calle v H
+Photo URL    : https://www.flickr.com/photos/45882720@N00/241654489/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue May 23 10:39:15 GMT+0200 2006
+Upload Date  : Tue Sep 12 19:19:08 GMT+0200 2006
+Views        : 1,307
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Serengeti
+
+
++--------+
+|  TAGS  |
++--------+
+elephant 

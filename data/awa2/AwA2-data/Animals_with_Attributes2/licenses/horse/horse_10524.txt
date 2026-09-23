@@ -1,0 +1,40 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : cogdogblog
+Photo URL    : https://www.flickr.com/photos/cogdog/8336735122/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jan 1 14:55:58 GMT+0100 2013
+Upload Date  : Wed Jan 2 04:47:32 GMT+0100 2013
+Views        : 1,121
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horse Talk
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+&quot;Hay!&quot;
+
+&quot;Hay?&quot;
+
+&quot;Hay….&quot;
+
+&quot;Hay.&quot;
+
+
++--------+
+|  TAGS  |
++--------+
+horse 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : steve p2008
+Photo URL    : https://www.flickr.com/photos/stevepj2009/4735661006/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 20 15:45:21 GMT+0200 2010
+Upload Date  : Sat Jun 26 15:17:47 GMT+0200 2010
+Geotag Info  : Latitude:28.071994, Longitude:-16.723819
+Views        : 381
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"siam park" water tenerife 2010 seal 

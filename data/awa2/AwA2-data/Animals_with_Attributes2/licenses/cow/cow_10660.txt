@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Lindy Buckley
+Photo URL    : https://www.flickr.com/photos/lindybuckley/14545900325/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 30 17:38:45 GMT+0200 2014
+Upload Date  : Mon Jun 30 23:28:57 GMT+0200 2014
+Views        : 651
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+cows
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+OLYMPUS DIGITAL CAMERA
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

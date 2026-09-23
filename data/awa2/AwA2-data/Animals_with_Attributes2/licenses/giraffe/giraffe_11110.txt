@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Paul Albertella
+Photo URL    : https://www.flickr.com/photos/paulspace/4765563556/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 2 15:35:10 GMT+0200 2010
+Upload Date  : Mon Jul 5 23:16:38 GMT+0200 2010
+Views        : 858
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Rothschild's Giraffe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+One of the beautiful giraffes at Woburn Safari Park.
+
+
++--------+
+|  TAGS  |
++--------+
+giraffe woburn wildlife zoo 

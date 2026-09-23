@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Crazy_Zou
+Photo URL    : https://www.flickr.com/photos/crazy_zou/4756098642/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jun 1 00:00:00 GMT+0200 2010
+Upload Date  : Fri Jul 2 23:46:36 GMT+0200 2010
+Views        : 29
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Johennesburg Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

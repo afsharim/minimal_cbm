@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jesserichmond
+Photo URL    : https://www.flickr.com/photos/gerbache/905866057/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 25 11:02:36 GMT+0200 2007
+Upload Date  : Thu Jul 26 18:11:47 GMT+0200 2007
+Geotag Info  : Latitude:37.872482, Longitude:-122.256546
+Views        : 167
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Berkeley Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel berkeley california 70300is 

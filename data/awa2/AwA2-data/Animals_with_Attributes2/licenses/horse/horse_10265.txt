@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Sachey
+Photo URL    : https://www.flickr.com/photos/sachey/12551655033/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 25 15:44:07 GMT+0200 2010
+Upload Date  : Sun Feb 16 02:15:52 GMT+0100 2014
+Views        : 58
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_1371
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Horse horses 

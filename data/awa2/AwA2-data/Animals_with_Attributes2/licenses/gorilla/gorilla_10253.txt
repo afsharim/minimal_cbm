@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ross Elliott
+Photo URL    : https://www.flickr.com/photos/ross_elliott/14801472259/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 3 11:11:07 GMT+0200 2014
+Upload Date  : Thu Aug 21 11:42:59 GMT+0200 2014
+Geotag Info  : Latitude:50.428260, Longitude:-3.582894
+Views        : 2,344
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Gorilla 0514 1895
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Zoo "Paignton Zoo" Gorilla Ape 

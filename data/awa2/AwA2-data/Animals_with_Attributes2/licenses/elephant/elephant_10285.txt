@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : JasonTromm
+Photo URL    : https://www.flickr.com/photos/trommetter/15853128/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue May 24 12:02:57 GMT+0200 2005
+Upload Date  : Fri May 27 02:37:37 GMT+0200 2005
+Geotag Info  : Latitude:34.012390, Longitude:-81.076060
+Views        : 409
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+<a href="http://www.geobloggers.com" rel="nofollow">GeoTagged</a>
+
+
++--------+
+|  TAGS  |
++--------+
+columbia riverbanks zoo southcarolina sc elephant geotagged geo:lat=34.012390 geo:lon=-81.076060 mappr:include 

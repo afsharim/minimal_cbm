@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Kevin Burkett
+Photo URL    : https://www.flickr.com/photos/kevinwburkett/3825123138/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 15 16:06:26 GMT+0200 2009
+Upload Date  : Sun Aug 16 04:04:03 GMT+0200 2009
+Geotag Info  : Latitude:39.972055, Longitude:-75.195794
+Views        : 35
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+From the Philadelphia Zoo, Aug. 15, 2009
+
+
++--------+
+|  TAGS  |
++--------+
+animal animals philadelphia pennsylvania zoo 

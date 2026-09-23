@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Shot in a Frame
+Photo URL    : https://www.flickr.com/photos/shotinaframe/8355333989/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 6 17:44:34 GMT+0100 2013
+Upload Date  : Mon Jan 7 02:50:57 GMT+0100 2013
+Views        : 15
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

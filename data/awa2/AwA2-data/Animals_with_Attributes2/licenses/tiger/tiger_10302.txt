@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Captain Chickenpants
+Photo URL    : https://www.flickr.com/photos/captain_chickenpants/9207547/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Apr 12 14:04:08 GMT+0200 2005
+Upload Date  : Tue Apr 12 15:04:08 GMT+0200 2005
+Geotag Info  : Latitude:50.993014, Longitude:-1.280508
+Views        : 923
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger 2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Tiger watching a group of photographers.
+
+
++--------+
+|  TAGS  |
++--------+
+marwellzoo tiger marwell zoo 

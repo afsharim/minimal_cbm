@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : babbagecabbage
+Photo URL    : https://www.flickr.com/photos/babbagecabbage/3524607491/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 11 11:45:51 GMT+0200 2009
+Upload Date  : Tue May 12 14:04:11 GMT+0200 2009
+Views        : 349
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+_MG_8506
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+cow 

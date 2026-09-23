@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : spin_melissa
+Photo URL    : https://www.flickr.com/photos/spin_melissa/8875090075/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 26 10:18:26 GMT+0200 2013
+Upload Date  : Wed May 29 08:30:06 GMT+0200 2013
+Views        : 25
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+OMG seal.
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

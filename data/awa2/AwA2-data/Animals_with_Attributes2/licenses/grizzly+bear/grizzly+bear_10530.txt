@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : probabilistic
+Photo URL    : https://www.flickr.com/photos/probabilistic/4531203546/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 18 03:00:19 GMT+0200 2010
+Upload Date  : Sun Apr 18 15:29:24 GMT+0200 2010
+Geotag Info  : Latitude:48.097056, Longitude:11.553325
+Views        : 276
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_1823
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Yup, vegetables.  *sigh*
+
+
++--------+
+|  TAGS  |
++--------+
+munich "Tierpark Hellabrunn" "european brown bear" 

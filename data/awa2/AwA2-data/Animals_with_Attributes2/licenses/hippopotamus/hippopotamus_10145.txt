@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Rob Young
+Photo URL    : https://www.flickr.com/photos/rob-young/5235161106/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Nov 23 06:40:27 GMT+0100 2010
+Upload Date  : Sun Dec 5 18:31:46 GMT+0100 2010
+Geotag Info  : Latitude:24.997182, Longitude:121.582646
+Views        : 430
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hippo @ Taipei Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+asia 2010 hippo hippopotamus taipei zoo taiwan 

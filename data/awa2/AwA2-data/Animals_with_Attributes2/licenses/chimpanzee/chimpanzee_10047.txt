@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/15285933345/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 29 14:12:06 GMT+0200 2014
+Upload Date  : Fri Sep 19 11:00:09 GMT+0200 2014
+Geotag Info  : Latitude:47.420073, Longitude:9.285378
+Views        : 7,731
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Another young chimpanzee on the tree
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Another picture of a young chimpanzee...
+
+
++--------+
+|  TAGS  |
++--------+
+sitting young tree wood portrait chimpanzee chimp primate ape mammal tiger amur siberian big wild cat "walter zoo" gossau "st gallen" switzerland nikon d4 

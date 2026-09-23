@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : refreshment_66
+Photo URL    : https://www.flickr.com/photos/15574096@N00/14952582541/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 17 08:11:05 GMT+0200 2014
+Upload Date  : Mon Aug 18 09:08:12 GMT+0200 2014
+Views        : 251
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Pig
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jollyUK
+Photo URL    : https://www.flickr.com/photos/jollyuk/4545076646/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Oct 21 11:12:27 GMT+0200 2009
+Upload Date  : Fri Apr 23 05:43:56 GMT+0200 2010
+Views        : 113
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Baby raccoon
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

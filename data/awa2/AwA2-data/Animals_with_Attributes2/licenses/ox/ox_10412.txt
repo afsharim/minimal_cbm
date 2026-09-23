@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Georges Perret
+Photo URL    : https://www.flickr.com/photos/georgesjacquaire/9457026123/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 27 08:29:12 GMT+0200 2010
+Upload Date  : Wed Aug 7 17:12:48 GMT+0200 2013
+Views        : 1
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMGP6773 - 02
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

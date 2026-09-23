@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : brian.gratwicke
+Photo URL    : https://www.flickr.com/photos/briangratwicke/14625176798/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 20 13:19:46 GMT+0200 2014
+Upload Date  : Sat Aug 2 21:44:27 GMT+0200 2014
+Geotag Info  : Latitude:63.445127, Longitude:-20.275268
+Views        : 2,775
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Notchiethe the Orca
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+ICELAND 2014 "National Geographic" Linblad Expedition taxonomy:kingdom=Animalia Animalia taxonomy:phylum=Chordata Chordata taxonomy:subphylum=Vertebrata Vertebrata taxonomy:class=Mammalia Mammalia taxonomy:order=Cetacea Cetacea taxonomy:family=Delphinidae Delphinidae taxonomy:genus=Orcinus Orcinus taxonomy:species=orca "taxonomy:binomial=Orcinus orca" Orca "Killer Whale" "Orcinus orca" Ã‰paulard Epaulard Orque Espadarte "Orca común" taxonomy:common=Orca "taxonomy:common=Killer Whale" taxonomy:common=Ã‰paulard taxonomy:common=Epaulard taxonomy:common=Orque taxonomy:common=Espadarte "taxonomy:common=Orca común" 

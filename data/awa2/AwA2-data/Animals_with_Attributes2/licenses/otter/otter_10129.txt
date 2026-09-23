@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Marianne Bevis
+Photo URL    : https://www.flickr.com/photos/mariannebevis/8529601584/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Mar 4 14:09:21 GMT+0100 2013
+Upload Date  : Mon Mar 4 22:33:01 GMT+0100 2013
+Views        : 73
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_9525
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+otters "London Wetland Centre" "Wildfowl and Wetlands Trust" 

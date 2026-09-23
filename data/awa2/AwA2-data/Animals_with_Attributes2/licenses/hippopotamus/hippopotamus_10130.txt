@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : JavierPsilocybin
+Photo URL    : https://www.flickr.com/photos/santoposmoderno/8378919316/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 13 18:11:16 GMT+0100 2013
+Upload Date  : Mon Jan 14 03:02:03 GMT+0100 2013
+Geotag Info  : Latitude:-33.430434, Longitude:-70.634612
+Views        : 414
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hipopótamo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+animal fauna zoo zoologico "Zoológico Nacional de Chile" "Parque Metropolitano de Santiago" "Región Metropolitana" Santiago hipopótamo hippo "Hippopotamus amphibius" 

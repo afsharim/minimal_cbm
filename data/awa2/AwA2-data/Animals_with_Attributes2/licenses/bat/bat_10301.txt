@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Adrian Pingstone
+Photo URL    : https://commons.wikimedia.org/wiki/File:Bristol.zoo.livfruitbat.arp.jpg
+License      : public domain
+Date         : 2005-09

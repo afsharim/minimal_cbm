@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Birdseye Maple
+Photo URL    : https://www.flickr.com/photos/26198976@N04/6682381491/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 9 16:33:42 GMT+0200 2010
+Upload Date  : Thu Jan 12 04:23:48 GMT+0100 2012
+Views        : 2,101
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Happy Rough Collie
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Rough collie enjoying the breeze.
+
+
++--------+
+|  TAGS  |
++--------+
+collie dog "rough collie" canine furry fur breeze 

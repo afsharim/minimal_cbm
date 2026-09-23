@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : nickirp
+Photo URL    : https://www.flickr.com/photos/growlroar/5532544251/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 6 12:37:06 GMT+0100 2011
+Upload Date  : Wed Mar 16 22:01:00 GMT+0100 2011
+Views        : 126
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zoo wildlifepark animals portlympe tiger bigcat 

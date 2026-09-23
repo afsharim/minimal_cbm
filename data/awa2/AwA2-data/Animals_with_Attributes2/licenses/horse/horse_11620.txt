@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Wisconsin Department of Natural Resources
+Photo URL    : https://www.flickr.com/photos/widnr/6629542807/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 11 17:59:57 GMT+0200 2006
+Upload Date  : Sat Dec 31 19:45:59 GMT+0100 2011
+Geotag Info  : Latitude:43.020086, Longitude:-88.014822
+Views        : 930
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Wisconsin State Fair
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Horses being exercised at the Wisconsin State Fair.
+
+
++--------+
+|  TAGS  |
++--------+
+exercise horses black show draft 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : monkeypuzzle
+Photo URL    : https://www.flickr.com/photos/monkeypuzzle/2643993864/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 30 12:33:43 GMT+0200 2008
+Upload Date  : Mon Jul 7 00:29:50 GMT+0200 2008
+Geotag Info  : Latitude:56.841696, Longitude:-6.265640
+Views        : 57
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Seals
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+muck "isle of muck" seals 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ClanSharrock
+Photo URL    : https://www.flickr.com/photos/clansharrock/2267853088/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Aug 22 15:11:36 GMT+0200 2006
+Upload Date  : Fri Feb 15 22:33:32 GMT+0100 2008
+Views        : 4
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

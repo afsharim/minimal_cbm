@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : garlandcannon
+Photo URL    : https://www.flickr.com/photos/garlandcannon/4879667651/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Aug 10 14:04:47 GMT+0200 2010
+Upload Date  : Tue Aug 10 22:04:47 GMT+0200 2010
+Views        : 1
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DC Michael squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+<a href="http://www.flickr.com/photos/lovesnaturephotos/4864814340/">www.flickr.com/photos/lovesnaturephotos/4864814340/</a>
+
+
++--------+
+|  TAGS  |
++--------+
+http://www.flickr.com/photos/lovesnaturephotos/4864814340/ 

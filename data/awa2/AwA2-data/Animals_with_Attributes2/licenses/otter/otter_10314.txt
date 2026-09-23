@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : dtaylorcreative
+Photo URL    : https://www.flickr.com/photos/dtaylor28/4370684692/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Feb 17 00:58:03 GMT+0100 2010
+Upload Date  : Fri Feb 19 16:27:05 GMT+0100 2010
+Geotag Info  : Latitude:1.405546, Longitude:103.789258
+Views        : 323
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Otter at the Singapore Zoo.
+
+
++--------+
+|  TAGS  |
++--------+
+"singapore zoo" animals wildlife otter 

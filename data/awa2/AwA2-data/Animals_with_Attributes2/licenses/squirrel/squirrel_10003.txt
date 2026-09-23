@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : SignalPAD
+Photo URL    : https://www.flickr.com/photos/signalpad/2385943291/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Apr 3 17:16:27 GMT+0200 2008
+Upload Date  : Fri Apr 4 04:45:09 GMT+0200 2008
+Geotag Info  : Latitude:42.339410, Longitude:-71.088870
+Views        : 72
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+_JY_1164_crop
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Squirrel 

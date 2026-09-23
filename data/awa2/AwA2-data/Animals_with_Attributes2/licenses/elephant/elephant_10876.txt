@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : tom.lubbock
+Photo URL    : https://www.flickr.com/photos/tomlubbock/10652151986/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Sep 9 11:18:47 GMT+0200 2013
+Upload Date  : Sun Nov 3 19:33:52 GMT+0100 2013
+Views        : 402
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_1018
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+baby elephant 

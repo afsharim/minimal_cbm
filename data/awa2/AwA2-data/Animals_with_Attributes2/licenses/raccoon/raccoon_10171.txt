@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Roby Ferrari
+Photo URL    : https://www.flickr.com/photos/roberto_ferrari/3749376778/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 16 12:03:15 GMT+0200 2009
+Upload Date  : Thu Jul 23 15:07:59 GMT+0200 2009
+Geotag Info  : Latitude:46.787484, Longitude:12.640113
+Views        : 454
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Procione
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Wildpark Assling (Austria)
+
+
++--------+
+|  TAGS  |
++--------+
+zoo wildpark assling austria procione raccoon 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : LisaW123
+Photo URL    : https://www.flickr.com/photos/pixellou/4987940464/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 11 15:25:30 GMT+0200 2010
+Upload Date  : Mon Sep 13 22:38:03 GMT+0200 2010
+Geotag Info  : Latitude:37.733241, Longitude:-122.504693
+Views        : 404
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe Face
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"san francisco" california "sf zoo" zoo animal wildlife giraffe 

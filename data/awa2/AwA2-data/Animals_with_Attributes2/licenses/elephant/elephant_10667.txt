@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : davidshort
+Photo URL    : https://www.flickr.com/photos/14583963@N00/8059534809/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 28 12:31:18 GMT+0200 2012
+Upload Date  : Sat Oct 6 16:43:19 GMT+0200 2012
+Geotag Info  : Latitude:50.432880, Longitude:15.800786
+Views        : 319
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephants (DvKr)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+2012 "Dvůr Králové" zoo elephant 

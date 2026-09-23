@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : User:MathKnight
+Photo URL    : https://commons.wikimedia.org/wiki/File:PikiWiki_Israel_11327_Wildlife_and_Plants_of_Israel-Bat-003.jpg
+License      : Creative Commons (https://en.wikipedia.org/wiki/en:Creative_Commons) Attribution 2.5 Generic (//creativecommons.org/licenses/by/2.5/deed.en)
+Date         : 2013-08-19 12:42:51

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : aegidian
+Photo URL    : https://www.flickr.com/photos/aegidian/4608607817/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 15 10:48:59 GMT+0200 2010
+Upload Date  : Sat May 15 17:38:02 GMT+0200 2010
+Geotag Info  : Latitude:51.536469, Longitude:-0.154269
+Views        : 33
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+P1000543
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+london zoo "london zoo" otters otter 

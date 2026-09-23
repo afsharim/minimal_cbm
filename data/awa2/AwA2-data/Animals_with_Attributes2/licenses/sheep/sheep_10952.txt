@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Stephen Fulljames
+Photo URL    : https://www.flickr.com/photos/emptyjames/4065724068/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 25 14:55:49 GMT+0100 2009
+Upload Date  : Sun Nov 1 21:23:13 GMT+0100 2009
+Views        : 962
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+sheep "middle farm" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : heatherlyone
+Photo URL    : https://www.flickr.com/photos/heatherlyone/1168116950/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 19 03:43:56 GMT+0200 2007
+Upload Date  : Thu Dec 8 10:34:48 GMT+0100 2005
+Geotag Info  : Latitude:-1.109549, Longitude:35.573730
+Views        : 210
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+zebras
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zebras kenya africa safari "masai mara" animal "East Africa" 

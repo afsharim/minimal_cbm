@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Catchpenny
+Photo URL    : https://www.flickr.com/photos/catchpenny/413381252/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 3 11:58:23 GMT+0100 2007
+Upload Date  : Wed Mar 7 07:33:12 GMT+0100 2007
+Views        : 20
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+San Simeon - Seal Beach
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

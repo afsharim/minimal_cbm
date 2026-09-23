@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mike Juvrud
+Photo URL    : https://www.flickr.com/photos/mikejuvrud/5585043078/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 3 03:30:33 GMT+0200 2011
+Upload Date  : Sun Apr 3 14:00:53 GMT+0200 2011
+Views        : 50
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+bullMoose_20110329
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+moose anchorage march alaska 

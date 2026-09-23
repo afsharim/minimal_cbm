@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Kent Wang
+Photo URL    : https://www.flickr.com/photos/kentwang/23527162523/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 20 08:08:48 GMT+0100 2015
+Upload Date  : Mon Jan 4 10:47:32 GMT+0100 2016
+Views        : 129
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Kruger National Park" elephant 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Aphexlee
+Photo URL    : https://www.flickr.com/photos/aphexlee/15129894043/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 9 14:11:11 GMT+0100 2014
+Upload Date  : Sun Nov 9 18:44:59 GMT+0100 2014
+Geotag Info  : Latitude:51.405933, Longitude:-0.337878
+Views        : 229
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bushy Park November 14
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Red Deer" "Bushy Park" 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Sue Talbert Photography
+Photo URL    : https://www.flickr.com/photos/amothersheart/8516898655/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jan 1 00:00:00 GMT+0100 2013
+Upload Date  : Fri Mar 1 05:58:08 GMT+0100 2013
+Views        : 111
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_7562.CR2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"phoenix zoo" giraffe 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : whiteshark29
+Photo URL    : https://www.flickr.com/photos/whiteshark29/201228000/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 29 10:06:29 GMT+0200 2006
+Upload Date  : Sat Jul 29 22:40:08 GMT+0200 2006
+Views        : 25
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Columbus Zoo Jul 06051
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+bobcat
+
+
++--------+
+|  TAGS  |
++--------+
+Columbus zoo animals ohio 

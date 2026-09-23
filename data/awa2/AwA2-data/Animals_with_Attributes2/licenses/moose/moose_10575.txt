@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : 3n
+Photo URL    : https://www.flickr.com/photos/3n/3657633560/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 15 13:27:56 GMT+0200 2009
+Upload Date  : Wed Jun 24 18:43:45 GMT+0200 2009
+Geotag Info  : Latitude:61.157131, Longitude:-150.062454
+Views        : 75
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+this guy really didn't seem to care about my presence
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Geotagged moose nature 

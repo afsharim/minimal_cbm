@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : KimonBerlin
+Photo URL    : https://www.flickr.com/photos/kimon/1835115643/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 27 18:27:52 GMT+0200 2007
+Upload Date  : Sat Nov 3 03:45:36 GMT+0100 2007
+Views        : 208
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_2487
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Sea otter
+
+
++--------+
+|  TAGS  |
++--------+
+"monterey bay aquarium" "Canon EOS 20d" DSLR 

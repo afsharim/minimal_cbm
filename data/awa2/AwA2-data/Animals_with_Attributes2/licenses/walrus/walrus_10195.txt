@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : NorthernLight
+Photo URL    : https://commons.wikimedia.org/wiki/File:OdobenusRosmarus.jpg
+License      : Creative Commons (https://en.wikipedia.org/wiki/en:Creative_Commons) Attribution-Share Alike 2.0 Germany (//creativecommons.org/licenses/by-sa/2.0/de/deed.en)
+Date         : 2007-05-25

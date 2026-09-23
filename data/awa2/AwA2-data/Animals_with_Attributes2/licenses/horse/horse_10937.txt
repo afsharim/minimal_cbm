@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jwright4701
+Photo URL    : https://www.flickr.com/photos/jwright4701/5778437629/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon May 30 02:13:15 GMT+0200 2011
+Upload Date  : Tue May 31 03:14:01 GMT+0200 2011
+Geotag Info  : Latitude:44.829578, Longitude:-87.920837
+Views        : 79
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+horses
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+crivitz 

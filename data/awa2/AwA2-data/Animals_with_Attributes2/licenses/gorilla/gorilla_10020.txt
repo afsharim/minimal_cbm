@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : joannapoe
+Photo URL    : https://www.flickr.com/photos/jopoe/10008863424/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Sep 25 16:13:55 GMT+0200 2013
+Upload Date  : Mon Sep 30 01:19:09 GMT+0200 2013
+Geotag Info  : Latitude:32.735739, Longitude:-117.151165
+Views        : 250
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+2013-09-25_16-13-55
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Went to the zoo while we were in San Diego. It's probably the best zoo I've ever been too, but it still is animals in pens, which can make me sad. Worth the visit though!
+
+
++--------+
+|  TAGS  |
++--------+
+"san diego zoo" gorillas 

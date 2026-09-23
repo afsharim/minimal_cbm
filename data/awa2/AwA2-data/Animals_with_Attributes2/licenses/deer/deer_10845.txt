@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : PhilaSilva
+Photo URL    : https://www.flickr.com/photos/philasilva/5926402101/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 10 19:11:48 GMT+0200 2011
+Upload Date  : Mon Jul 11 18:36:35 GMT+0200 2011
+Geotag Info  : Latitude:38.974173, Longitude:-77.057081
+Views        : 210
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Faun in Barnaby Woods/ChevyChase, DC
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Two fauns actually.  They hang out behind our house.
+
+
++--------+
+|  TAGS  |
++--------+
+wildlife nature deer 

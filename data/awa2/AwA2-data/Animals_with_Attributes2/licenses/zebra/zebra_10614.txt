@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Anup Shah
+Photo URL    : https://www.flickr.com/photos/anupshah/8941892589/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Apr 24 12:58:31 GMT+0200 2013
+Upload Date  : Tue Jun 4 01:30:05 GMT+0200 2013
+Views        : 706
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra in Masai Mara
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Wildlife Zebra 

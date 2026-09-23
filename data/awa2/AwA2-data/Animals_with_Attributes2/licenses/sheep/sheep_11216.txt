@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : novemberkilo
+Photo URL    : https://www.flickr.com/photos/navink/4106596771/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Oct 22 13:34:05 GMT+0200 2009
+Upload Date  : Sun Nov 15 23:29:57 GMT+0100 2009
+Views        : 200
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheepish in Kaikoura
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The view from the farm house we stayed in
+
+
++--------+
+|  TAGS  |
++--------+
+Kaikoura sheep 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : andrew_j_w
+Photo URL    : https://www.flickr.com/photos/andrew_j_w/10625393575/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 27 14:23:50 GMT+0100 2013
+Upload Date  : Sat Nov 2 14:24:01 GMT+0100 2013
+Geotag Info  : Latitude:54.378507, Longitude:-1.034431
+Views        : 689
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+animal sheep 

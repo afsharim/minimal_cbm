@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : siraf72
+Photo URL    : https://www.flickr.com/photos/siraf72/9496086515/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 12 14:07:17 GMT+0200 2013
+Upload Date  : Tue Aug 13 00:48:25 GMT+0200 2013
+Views        : 149
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hippopotamus
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A hippo from the Frankfurt Zoo.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

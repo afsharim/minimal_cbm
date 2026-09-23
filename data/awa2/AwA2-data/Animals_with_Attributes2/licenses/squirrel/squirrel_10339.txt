@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : RLEVANS
+Photo URL    : https://www.flickr.com/photos/rlevans/2117806497/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 2 11:57:14 GMT+0100 2007
+Upload Date  : Mon Dec 17 19:20:32 GMT+0100 2007
+Views        : 17
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_5953
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Squirrels Squirrels" "Lincoln Nebraksa" 

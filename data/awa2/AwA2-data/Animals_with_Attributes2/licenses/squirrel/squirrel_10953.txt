@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : marsupium photography
+Photo URL    : https://www.flickr.com/photos/hagdorned/8733544876/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 12 09:24:48 GMT+0200 2013
+Upload Date  : Mon May 13 00:20:19 GMT+0200 2013
+Geotag Info  : Latitude:55.922824, Longitude:-3.174123
+Views        : 109
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Scotland wildlife@work 

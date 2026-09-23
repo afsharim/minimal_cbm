@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mandy_N
+Photo URL    : https://www.flickr.com/photos/83311138@N05/7727173664/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed May 24 04:10:14 GMT+0200 2006
+Upload Date  : Mon Aug 6 20:36:30 GMT+0200 2012
+Views        : 90
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+sheep in ireland
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Abi Skipp
+Photo URL    : https://www.flickr.com/photos/9557815@N05/2371645496/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Mar 21 15:28:03 GMT+0100 2008
+Upload Date  : Sat Mar 29 18:01:29 GMT+0100 2008
+Views        : 192
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lynx cats at Cabarceno zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+lynx Caberceno zoo 

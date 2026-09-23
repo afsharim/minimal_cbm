@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Stephanie Overton
+Photo URL    : https://www.flickr.com/photos/sloverton/4805727466/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 15 14:46:20 GMT+0200 2010
+Upload Date  : Sun Jul 18 20:15:11 GMT+0200 2010
+Views        : 85
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

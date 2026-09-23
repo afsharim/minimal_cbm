@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : dewet
+Photo URL    : https://www.flickr.com/photos/dewet/2252842163/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 9 16:24:45 GMT+0100 2008
+Upload Date  : Sat Feb 9 23:19:22 GMT+0100 2008
+Geotag Info  : Latitude:51.502067, Longitude:-0.131927
+Views        : 218
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Hyde Park, London
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel spring london "hyde park" 

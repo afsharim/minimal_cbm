@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Accretion Disc
+Photo URL    : https://www.flickr.com/photos/befuddledsenses/7284052726/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 27 17:14:18 GMT+0200 2012
+Upload Date  : Mon May 28 05:16:26 GMT+0200 2012
+Geotag Info  : Latitude:61.151984, Longitude:-149.951663
+Views        : 279
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Moose in the Backyard
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Alaska is different that way
+
+
++--------+
+|  TAGS  |
++--------+
+moose alaska backyard wildlife 

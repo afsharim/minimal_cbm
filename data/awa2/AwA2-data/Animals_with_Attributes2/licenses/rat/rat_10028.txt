@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : madaise
+Photo URL    : https://www.flickr.com/photos/madaise/2675801706/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 11 00:31:34 GMT+0200 2008
+Upload Date  : Thu Jul 17 01:39:33 GMT+0200 2008
+Views        : 303
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Fancy Rats
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+rats fancy 

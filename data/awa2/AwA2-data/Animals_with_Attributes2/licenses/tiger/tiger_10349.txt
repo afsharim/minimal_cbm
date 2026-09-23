@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Franck Grenier
+Photo URL    : https://www.flickr.com/photos/rancky/7818646874/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 13 08:44:22 GMT+0200 2012
+Upload Date  : Mon Aug 20 00:10:34 GMT+0200 2012
+Geotag Info  : Latitude:18.792509, Longitude:98.997436
+Views        : 779
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger Kingdom, Chiang Mai, Thailand
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+tigre tiger 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Cosabuena
+Photo URL    : https://www.flickr.com/photos/tobias_eder/5515083992/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Feb 25 23:34:35 GMT+0100 2011
+Upload Date  : Thu Mar 10 16:03:39 GMT+0100 2011
+Views        : 125
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+San Jacinto
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Nicaragua, Febrero 2011
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

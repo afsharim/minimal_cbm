@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Pipers Creek
+Photo URL    : https://www.flickr.com/photos/seattle-base/157605555/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue May 30 16:06:46 GMT+0200 2006
+Upload Date  : Thu Jun 1 03:43:38 GMT+0200 2006
+Geotag Info  : Latitude:47.669086, Longitude:-122.351474
+Views        : 103
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sumatran Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Woodland Park Zoo, Seattle
+
+
++--------+
+|  TAGS  |
++--------+
+zoo woodlandpark sonydsch2 dsch2 tiger 

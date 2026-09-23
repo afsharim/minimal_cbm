@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : asloane
+Photo URL    : https://www.flickr.com/photos/asloane/5744714993/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 21 14:31:59 GMT+0200 2011
+Upload Date  : Sun May 22 05:49:14 GMT+0200 2011
+Views        : 76
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Taken at the Oakland Zoo 5/21/2011
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

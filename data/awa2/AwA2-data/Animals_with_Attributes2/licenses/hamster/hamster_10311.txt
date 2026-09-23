@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : malfet_
+Photo URL    : https://www.flickr.com/photos/malfet/8111651379/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 20 15:30:56 GMT+0200 2012
+Upload Date  : Mon Oct 22 07:20:48 GMT+0200 2012
+Geotag Info  : Latitude:37.323553, Longitude:-122.033472
+Views        : 419
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hamster
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Munching ginger cookie,,,
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

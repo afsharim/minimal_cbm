@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Dakiny
+Photo URL    : https://www.flickr.com/photos/dakiny/4771342771/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 8 02:18:29 GMT+0200 2010
+Upload Date  : Wed Jul 7 19:18:29 GMT+0200 2010
+Geotag Info  : Latitude:35.367999, Longitude:136.619110
+Views        : 541
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+ハムスター
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+三女の飼っているハムスター
+
+
++--------+
+|  TAGS  |
++--------+
+hamster ハムスター 

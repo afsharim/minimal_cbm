@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : benuski
+Photo URL    : https://www.flickr.com/photos/benuski/3434182227/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 11 19:01:46 GMT+0200 2007
+Upload Date  : Sun Apr 12 17:47:37 GMT+0200 2009
+Geotag Info  : Latitude:11.628025, Longitude:76.568527
+Views        : 986
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+In the Bandipur National Park in Karnataka, India
+
+
++--------+
+|  TAGS  |
++--------+
+elephant bandipur karnataka "bandipur national park" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : isamiga76
+Photo URL    : https://www.flickr.com/photos/33852840@N06/3523457848/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon May 11 19:28:45 GMT+0200 2009
+Upload Date  : Mon May 11 22:35:20 GMT+0200 2009
+Geotag Info  : Latitude:49.667627, Longitude:0.630512
+Views        : 1,513
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Mes voisines les vaches,Normandie
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+cow Normandy 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : charlieishere@btinternet.com
+Photo URL    : https://www.flickr.com/photos/100915417@N07/9625176264/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 12 10:30:26 GMT+0200 2013
+Upload Date  : Thu Aug 29 21:37:16 GMT+0200 2013
+Geotag Info  : Latitude:51.464194, Longitude:-2.622567
+Views        : 1,001
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+bristol_zoo_june6
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A giant bat in the bat enclosure at Bristol Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+bats bristolzoo sunshine 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : GOC53
+Photo URL    : https://www.flickr.com/photos/graeme/5587548915/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Mar 31 17:22:17 GMT+0200 2011
+Upload Date  : Fri Apr 1 05:22:17 GMT+0200 2011
+Geotag Info  : Latitude:19.489499, Longitude:-154.817991
+Views        : 256
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Seal (11 of 12)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Hawaii Kapoho "Monk Seal" USA exif:iso_speed=400 "exif:make=nikon corporation" "camera:model=nikon d300" geo:state= "exif:lens=18.0-200.0 mm f/3.5-5.6" "exif:focal_length=95 mm" geo:countrys= "exif:model=nikon d300" geo:city= geo:lon=-154.8179915 "exif:aperture=ƒ / 14" geo:lat=19.4894997 "camera:make=nikon corporation" 

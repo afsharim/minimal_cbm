@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : qmnonic
+Photo URL    : https://www.flickr.com/photos/qmnonic/2941817237/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Sep 25 01:13:03 GMT+0200 2008
+Upload Date  : Tue Oct 14 22:05:34 GMT+0200 2008
+Geotag Info  : Latitude:-33.565473, Longitude:25.845336
+Views        : 12,562
+Comments     : 7
+
+
++---------+
+|  TITLE  |
++---------+
+hugs
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+south_africa africa giraffe hugs 

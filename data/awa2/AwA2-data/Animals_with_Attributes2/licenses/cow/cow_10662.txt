@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : daryl_mitchell
+Photo URL    : https://www.flickr.com/photos/daryl_mitchell/14750212214/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 5 04:58:28 GMT+0200 2014
+Upload Date  : Sun Jul 27 01:05:00 GMT+0200 2014
+Geotag Info  : Latitude:52.477949, Longitude:4.814500
+Views        : 401
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cows
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+These cows were hanging out in the fields beside Zaanse Schans.
+
+
++--------+
+|  TAGS  |
++--------+
+Netherlands spring 2014 Zaanstad "Zaanse Schans" field farm cow polder 

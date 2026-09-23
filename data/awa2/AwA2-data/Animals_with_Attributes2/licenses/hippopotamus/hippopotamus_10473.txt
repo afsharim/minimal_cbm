@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : A.M. Kuchling
+Photo URL    : https://www.flickr.com/photos/akuchling/19165964816/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 26 14:31:22 GMT+0200 2015
+Upload Date  : Sat Jun 27 04:48:19 GMT+0200 2015
+Views        : 234
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hippos
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Perky and Petal, at the Toronto Zoo.
+
+
++--------+
+|  TAGS  |
++--------+
+hippo 

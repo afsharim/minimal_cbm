@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Philip McErlean
+Photo URL    : https://www.flickr.com/photos/64320477@N05/15953007410/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 29 17:06:33 GMT+0200 2011
+Upload Date  : Mon Dec 29 20:37:16 GMT+0100 2014
+Views        : 1,725
+Comments     : 6
+
+
++---------+
+|  TITLE  |
++---------+
+Wood Mouse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Cute Field Mouse (aka Wood Mouse).
+
+
++--------+
+|  TAGS  |
++--------+
+Field wood mouse mammals "Apodemus sylvaticus" 

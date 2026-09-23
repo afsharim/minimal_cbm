@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MyFWCmedia
+Photo URL    : https://www.flickr.com/photos/myfwcmedia/24468204299/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Nov 16 17:15:59 GMT+0100 2005
+Upload Date  : Fri Feb 5 18:21:43 GMT+0100 2016
+Views        : 164
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Deer on ranch
+
+
++--------+
+|  TAGS  |
++--------+
+FWC MyFWC myfwc.com Florida "Florida Fish and Wildlife" Conservation MyFWCmedia 

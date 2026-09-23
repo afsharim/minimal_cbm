@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : senza senso
+Photo URL    : https://www.flickr.com/photos/mesec/16756664569/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Feb 26 08:29:13 GMT+0100 2015
+Upload Date  : Fri Mar 27 07:08:16 GMT+0100 2015
+Geotag Info  : Latitude:34.892883, Longitude:32.341742
+Views        : 899
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+giraffe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Paphos zoo, Cyprus
+
+
++--------+
+|  TAGS  |
++--------+
+cyprus zoo giraffe 

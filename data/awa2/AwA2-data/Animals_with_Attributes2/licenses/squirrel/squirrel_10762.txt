@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : verygreen
+Photo URL    : https://www.flickr.com/photos/29673072@N03/3783590671/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 30 19:09:11 GMT+0200 2009
+Upload Date  : Mon Aug 3 08:44:55 GMT+0200 2009
+Geotag Info  : Latitude:33.788333, Longitude:-84.375000
+Views        : 317
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Atlanta Botanical Garden" squirrel 

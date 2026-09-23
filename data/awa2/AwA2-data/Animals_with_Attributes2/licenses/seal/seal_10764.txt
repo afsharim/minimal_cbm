@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Chregu
+Photo URL    : https://www.flickr.com/photos/chregu/2144903860/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 23 15:11:38 GMT+0100 2007
+Upload Date  : Fri Dec 28 22:31:05 GMT+0100 2007
+Views        : 125
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+seal
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+mobile 

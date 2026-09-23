@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : hepp
+Photo URL    : https://www.flickr.com/photos/hepp/18279571659/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 4 21:17:06 GMT+0200 2015
+Upload Date  : Thu Jun 4 22:16:22 GMT+0200 2015
+Geotag Info  : Latitude:55.971819, Longitude:12.775352
+Views        : 166
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Häst
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Processed with VSCOcam with hb2 preset
+
+
++--------+
+|  TAGS  |
++--------+
+häst horse Pferd caballo 

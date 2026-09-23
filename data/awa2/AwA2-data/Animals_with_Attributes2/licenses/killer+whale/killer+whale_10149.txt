@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : milan.boers
+Photo URL    : https://www.flickr.com/photos/milanboers/3506611087/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed May 6 04:44:06 GMT+0200 2009
+Upload Date  : Wed May 6 13:44:06 GMT+0200 2009
+Views        : 4,884
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lying down with a killer whale
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The Shamu-show in Sea World, Orlando, Florida
+Whales are better on camera than in captivity.
+
+
++--------+
+|  TAGS  |
++--------+
+florida orlando "sea world" "killer whale" orca shamu 

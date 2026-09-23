@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Peter G Trimming
+Photo URL    : https://www.flickr.com/photos/peter-trimming/11649609036/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Dec 30 15:09:56 GMT+0100 2013
+Upload Date  : Mon Dec 30 17:25:07 GMT+0100 2013
+Geotag Info  : Latitude:54.384319, Longitude:-3.329548
+Views        : 650
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cautious Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Seen at Forest How, Eskdale, Cumbria.    Timid female squirrel.   Blonde tip to her tail, with some missing fur which is evident in this picture.   Subsequently named as 'Tumbler'.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

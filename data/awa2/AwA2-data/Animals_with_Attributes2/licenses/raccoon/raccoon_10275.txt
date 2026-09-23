@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Drew Avery
+Photo URL    : https://www.flickr.com/photos/33590535@N06/3573694111/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue May 5 14:58:11 GMT+0200 2009
+Upload Date  : Thu May 28 23:56:25 GMT+0200 2009
+Geotag Info  : Latitude:39.813810, Longitude:-104.849395
+Views        : 685
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Raccoon
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Rocky Mountain Arsenal National Wildlife Refuge
+
+
++--------+
+|  TAGS  |
++--------+
+"Rocky Mountain Arsenal National Wildlife Refuge" colorado taxonomy:common=raccoon "taxonomy:binomial=Procyon lotor" 

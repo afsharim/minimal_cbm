@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Dave Allan
+Photo URL    : https://www.flickr.com/photos/daveallan/3315977929/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 28 14:57:54 GMT+0100 2009
+Upload Date  : Sat Feb 28 17:59:31 GMT+0100 2009
+Views        : 171
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Yawn
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horse 

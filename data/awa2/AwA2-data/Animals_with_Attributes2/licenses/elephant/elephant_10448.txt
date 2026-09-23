@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : YLegrand
+Photo URL    : https://www.flickr.com/photos/ylegrand/4318391623/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 31 16:02:33 GMT+0100 2010
+Upload Date  : Sun Jan 31 16:02:33 GMT+0100 2010
+Geotag Info  : Latitude:47.873756, Longitude:1.914045
+Views        : 1,411
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Eléphant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+cirque circus animaux animals elephant élephant 

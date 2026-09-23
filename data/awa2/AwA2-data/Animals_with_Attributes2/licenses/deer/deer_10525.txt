@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : alex ranaldi
+Photo URL    : https://www.flickr.com/photos/alexranaldi/5861512307/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Nov 27 15:38:45 GMT+0100 2009
+Upload Date  : Thu Jun 23 03:33:50 GMT+0200 2011
+Geotag Info  : Latitude:42.852445, Longitude:-78.857223
+Views        : 1,162
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Saw her while walking through Tift Nature Preserve in Buffalo, NY back in 2009
+
+
++--------+
+|  TAGS  |
++--------+
+deer "tift nature preserve" buffalo 

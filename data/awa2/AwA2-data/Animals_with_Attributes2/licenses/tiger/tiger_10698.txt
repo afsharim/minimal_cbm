@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jan Brandt Madsen
+Photo URL    : https://www.flickr.com/photos/14155856@N03/7362672642/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 10 13:00:07 GMT+0200 2012
+Upload Date  : Mon Jun 11 21:08:33 GMT+0200 2012
+Geotag Info  : Latitude:55.673771, Longitude:12.519451
+Views        : 328
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+From Copenhagen Zoo 100612
+
+
++--------+
+|  TAGS  |
++--------+
+tiger zoo nature lightroom4 d300 copenhagen animal 70200mm tc20eiii nikon Københavnzoo 

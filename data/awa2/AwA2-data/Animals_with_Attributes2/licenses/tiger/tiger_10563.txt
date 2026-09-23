@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : PENTAKON
+Photo URL    : https://www.flickr.com/photos/pentakon/4250182522/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jan 4 12:18:46 GMT+0100 2010
+Upload Date  : Wed Jan 6 05:06:19 GMT+0100 2010
+Views        : 1,173
+Comments     : 7
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Sumatran Tiger. 上野動物園のサンティクくん
+
+
++--------+
+|  TAGS  |
++--------+
+"Nikkor 300mm 2.8" D3 "Nikkor ED300mm F2.8G" FlickrBigCats 

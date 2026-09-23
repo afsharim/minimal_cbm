@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Chester Zoo
+Photo URL    : https://www.flickr.com/photos/chesterzoo/4327527893/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Feb 3 08:46:50 GMT+0100 2010
+Upload Date  : Wed Feb 3 17:46:50 GMT+0100 2010
+Views        : 886
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Visayan Warty Pig
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Visayan Warty Pig testing the ice in an attempt to reach some food. December 31st 2009
+
+<a href="http://www.chesterzoo.org" rel="nofollow">Visit Chester Zoo</a>
+
+
++--------+
+|  TAGS  |
++--------+
+Pig Visayan Warty. 

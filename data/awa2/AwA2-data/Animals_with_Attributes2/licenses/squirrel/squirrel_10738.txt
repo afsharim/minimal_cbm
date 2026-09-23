@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : NechakoRiver
+Photo URL    : https://www.flickr.com/photos/nechakoriver/3229448965/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 25 23:11:43 GMT+0100 2009
+Upload Date  : Tue Jan 27 01:58:11 GMT+0100 2009
+Geotag Info  : Latitude:49.160715, Longitude:-122.284870
+Views        : 147
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel tree sky moss eating 

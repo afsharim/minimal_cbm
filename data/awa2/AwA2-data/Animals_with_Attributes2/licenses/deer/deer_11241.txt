@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Allen Gathman
+Photo URL    : https://www.flickr.com/photos/agathman/4141060262/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Nov 26 17:15:50 GMT+0100 2009
+Upload Date  : Sat Nov 28 16:14:53 GMT+0100 2009
+Geotag Info  : Latitude:37.332153, Longitude:-89.537630
+Views        : 46
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Thanksgiving 2009
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+animals deer 

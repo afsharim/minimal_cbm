@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : size4riggerboots
+Photo URL    : https://www.flickr.com/photos/tamsintog/12644027454/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Oct 23 12:21:31 GMT+0200 2012
+Upload Date  : Thu Feb 20 01:34:23 GMT+0100 2014
+Geotag Info  : Latitude:-54.282539, Longitude:-36.495401
+Views        : 78
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Birth of an elephant seal, King Edward Point, South Georgia
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Pharos SG" "South Georgia" 

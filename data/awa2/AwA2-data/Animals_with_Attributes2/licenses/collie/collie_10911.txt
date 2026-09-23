@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Narnia123
+Photo URL    : https://commons.wikimedia.org/wiki/File:Collie.jpg
+License      : public domain
+Date         : 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : nagillum
+Photo URL    : https://www.flickr.com/photos/nagillum/1173465578/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 13 18:04:52 GMT+0200 2007
+Upload Date  : Sun Aug 19 20:07:37 GMT+0200 2007
+Views        : 609
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Grizzly splash
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+8335 Bear in compound atop Grouse mountain, Vancouver.
+
+
++--------+
+|  TAGS  |
++--------+
+Grizzly bear grousemountain vancouver nagillum 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : AlexSantosa
+Photo URL    : https://www.flickr.com/photos/alexsantosa/6202637538/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 18 15:20:25 GMT+0200 2011
+Upload Date  : Sun Oct 2 06:06:04 GMT+0200 2011
+Views        : 1,394
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sirian Long Hair
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Natasha's Hamster
+
+
++--------+
+|  TAGS  |
++--------+
+hamster "long hair" sirian 

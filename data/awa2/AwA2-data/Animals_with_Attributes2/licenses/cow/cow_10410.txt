@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Photographing Travis
+Photo URL    : https://www.flickr.com/photos/photographingtravis/15182735119/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 19 16:47:22 GMT+0100 2012
+Upload Date  : Sat Sep 27 16:43:07 GMT+0200 2014
+Geotag Info  : Latitude:37.515211, Longitude:-121.884331
+Views        : 557
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Mission Peak, Fremont, California
+
+
++--------+
+|  TAGS  |
++--------+
+animals cow creatures fremont hike "mission peak" 

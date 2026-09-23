@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mauro Luna
+Photo URL    : https://www.flickr.com/photos/moonauto/3529751311/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 14 01:10:07 GMT+0200 2009
+Upload Date  : Thu May 14 08:10:07 GMT+0200 2009
+Views        : 219
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Houston Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+Tiger "houston Zoo" "Mauro Luna" 

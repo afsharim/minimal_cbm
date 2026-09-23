@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jake McGee
+Photo URL    : https://www.flickr.com/photos/jakemcgee/5700386363/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Aug 18 14:36:19 GMT+0200 2010
+Upload Date  : Sun May 8 22:31:28 GMT+0200 2011
+Views        : 82
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Gorilla 01
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

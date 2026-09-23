@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Joshua Lutz
+Photo URL    : https://commons.wikimedia.org/wiki/File:Ursus_arctos_arctos.jpg
+License      : public domain
+Date         : 2005-03-16

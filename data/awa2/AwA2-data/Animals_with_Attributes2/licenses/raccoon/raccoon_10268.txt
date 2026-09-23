@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : k.steudel
+Photo URL    : https://www.flickr.com/photos/snaks/3261480101/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 7 14:46:09 GMT+0100 2009
+Upload Date  : Sun Feb 8 04:34:04 GMT+0100 2009
+Views        : 29
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Raccoon
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

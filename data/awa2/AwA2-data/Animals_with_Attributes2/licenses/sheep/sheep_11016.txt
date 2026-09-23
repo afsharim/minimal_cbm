@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : foilman
+Photo URL    : https://www.flickr.com/photos/foilman/5923618162/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 27 08:03:51 GMT+0200 2011
+Upload Date  : Sun Jul 10 22:45:22 GMT+0200 2011
+Geotag Info  : Latitude:50.396919, Longitude:-4.652573
+Views        : 187
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+sheep tredethick cornwall 

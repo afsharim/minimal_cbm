@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Allan Javier Aguilar Castillo
+Photo URL    : https://www.flickr.com/photos/aguilarcaj/4998377807/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Sep 15 11:32:06 GMT+0200 2010
+Upload Date  : Fri Sep 17 17:45:54 GMT+0200 2010
+Views        : 67
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+indcr10-agzarcas-91
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Desfile realizado en Aguas Zarcas, Alajuela (10.375177, -84.345241), como celebración de la independencia de la República de Costa Rica del Reino de España en 1821.
+
+
++--------+
+|  TAGS  |
++--------+
+"Aguas Zarcas" "Costa Rica" CRI 

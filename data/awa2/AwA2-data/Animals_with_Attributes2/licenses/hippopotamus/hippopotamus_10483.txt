@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mister-E
+Photo URL    : https://www.flickr.com/photos/mister-e/393165151/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Feb 5 09:18:05 GMT+0100 2007
+Upload Date  : Sat Feb 17 19:51:09 GMT+0100 2007
+Geotag Info  : Latitude:-25.116166, Longitude:31.911666
+Views        : 225
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hungry hippo 4
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Kruger National Park" "South Africa" Africa Kruger hippopotamus hippo 

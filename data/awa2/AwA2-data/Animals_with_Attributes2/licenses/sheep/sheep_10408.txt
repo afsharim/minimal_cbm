@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : RichardBH
+Photo URL    : https://www.flickr.com/photos/rbh/7987396407/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 1 13:39:10 GMT+0200 2012
+Upload Date  : Sat Sep 15 06:50:36 GMT+0200 2012
+Geotag Info  : Latitude:44.783274, Longitude:-78.645801
+Views        : 80
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Kinmount Fair
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+fair kinmountfair sheep 

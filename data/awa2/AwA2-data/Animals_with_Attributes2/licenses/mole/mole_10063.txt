@@ -1,0 +1,13 @@
++--------------------------------------+
+|             Photo Metadata           |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Derek Harper
+Photo URL    : http://www.geograph.org.uk/photo/3706585
+License      : Creative Commons Attribution-ShareAlike 2.0 Generic (https://creativecommons.org/licenses/by-sa/2.0/)
+Date         : 13 August, 2013

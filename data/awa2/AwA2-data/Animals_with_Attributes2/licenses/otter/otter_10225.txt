@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tomi Tapio
+Photo URL    : https://www.flickr.com/photos/tomitapio/6993254555/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 15 19:10:39 GMT+0200 2008
+Upload Date  : Sun Mar 18 17:14:55 GMT+0100 2012
+Geotag Info  : Latitude:60.174391, Longitude:24.984626
+Views        : 3,431
+Comments     : 7
+
+
++---------+
+|  TITLE  |
++---------+
+Otter Meds
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+European Otter (Lutra lutra), Finnish: saukko.
+2008-07-15 at Korkeasaari zoo. Id 87051.
+
+
++--------+
+|  TAGS  |
++--------+
+zoo Korkeasaari Helsinki "European Otter" "Lutra lutra" saukko swimming water wet canonef70210mmf4 iso800 muzzle paws claws nose whiskers 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : travelwayoflife
+Photo URL    : https://www.flickr.com/photos/travelwayoflife/7169138800/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Dec 1 00:23:32 GMT+0100 2011
+Upload Date  : Thu May 10 07:39:27 GMT+0200 2012
+Geotag Info  : Latitude:-43.181147, Longitude:170.925292
+Views        : 165
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"South Island" "New Zealand" Snapshot travelwayoflife 

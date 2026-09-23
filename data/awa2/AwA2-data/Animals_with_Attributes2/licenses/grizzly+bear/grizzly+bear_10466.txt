@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : TFDuesing
+Photo URL    : https://www.flickr.com/photos/tfduesing/217997281/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Aug 16 12:44:08 GMT+0200 2006
+Upload Date  : Fri Aug 18 00:52:17 GMT+0200 2006
+Geotag Info  : Latitude:44.655886, Longitude:-111.097837
+Views        : 472
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Grizzly Bears
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+bear grizzly megafauna Montana "West Yellowstone" 

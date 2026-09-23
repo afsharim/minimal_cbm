@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : reneelaurenjarvis
+Photo URL    : https://www.flickr.com/photos/10179368@N02/16351512442/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 30 02:51:57 GMT+0100 2014
+Upload Date  : Sat Jan 24 06:13:13 GMT+0100 2015
+Views        : 49
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+P8160988
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

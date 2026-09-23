@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : randomlife
+Photo URL    : https://www.flickr.com/photos/davidandreasen/4104112345/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 24 10:21:48 GMT+0200 2008
+Upload Date  : Sun Nov 15 04:15:38 GMT+0100 2009
+Views        : 506
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger Walking
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Oakland Zoo" tiger 

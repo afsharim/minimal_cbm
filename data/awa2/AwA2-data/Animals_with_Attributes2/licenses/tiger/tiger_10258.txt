@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MSVG
+Photo URL    : https://www.flickr.com/photos/msvg/4532370727/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 18 12:40:59 GMT+0200 2010
+Upload Date  : Mon Apr 19 01:23:22 GMT+0200 2010
+Geotag Info  : Latitude:43.820509, Longitude:-79.180934
+Views        : 702
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Sumatran Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+metro metropolitan zoo Toronto Ontario Canada animals animal sumatran tiger Panthera tigris sumatrae Felidae Carnivora Mammalia Indomalaya Indo malaya Region Class Order Family Genus Scientific Name ZoosOfNorthAmerica Zoos Of North America 

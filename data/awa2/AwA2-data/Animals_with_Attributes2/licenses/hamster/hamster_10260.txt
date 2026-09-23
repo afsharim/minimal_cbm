@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : henri.tomic
+Photo URL    : https://www.flickr.com/photos/126148410@N03/14639035358/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 4 10:46:18 GMT+0200 2014
+Upload Date  : Mon Aug 4 10:46:18 GMT+0200 2014
+Views        : 356
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hamster im Bad
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+pet Haustier hamster 

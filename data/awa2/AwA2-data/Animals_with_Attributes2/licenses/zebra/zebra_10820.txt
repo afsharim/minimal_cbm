@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : spamdangler
+Photo URL    : https://www.flickr.com/photos/justcallmehillsy/5050761522/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 26 15:55:50 GMT+0200 2010
+Upload Date  : Mon Oct 4 12:23:37 GMT+0200 2010
+Geotag Info  : Latitude:-34.194197, Longitude:21.637058
+Views        : 904
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Garden Route Game Park" zebra 

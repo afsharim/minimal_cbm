@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Rachel M Coleman
+Photo URL    : https://www.flickr.com/photos/rmc28/4656817238/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 25 14:54:29 GMT+0200 2009
+Upload Date  : Mon May 31 18:58:54 GMT+0200 2010
+Views        : 64
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+salcombe2009 "dartmoor otters" 

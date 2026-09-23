@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : blaisebailey_
+Photo URL    : https://www.flickr.com/photos/blaisebailey_/9313114707/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 14 23:37:50 GMT+0200 2013
+Upload Date  : Thu Jul 18 18:36:40 GMT+0200 2013
+Views        : 148
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+raccoons
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

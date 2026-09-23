@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Nigel's Europe & beyond 2
+Photo URL    : https://www.flickr.com/photos/zooeurope/3823487178/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 8 16:18:23 GMT+0200 2009
+Upload Date  : Sat Aug 15 16:52:06 GMT+0200 2009
+Geotag Info  : Latitude:53.228196, Longitude:-2.889146
+Views        : 329
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Cheser Zoo, England
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Chimpanzees
+
+
++--------+
+|  TAGS  |
++--------+
+Chester Zoo "Chester Zoo" Enlabd UK Chimpanzees 

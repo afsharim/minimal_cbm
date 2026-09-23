@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mark Bethune
+Photo URL    : https://www.flickr.com/photos/mbethune/6193778584/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Sep 29 10:43:50 GMT+0200 2011
+Upload Date  : Thu Sep 29 02:27:00 GMT+0200 2011
+Views        : 28
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_7949
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+elephant 

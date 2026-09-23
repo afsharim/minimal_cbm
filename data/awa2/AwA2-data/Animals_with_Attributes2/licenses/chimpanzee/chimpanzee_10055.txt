@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : tom hartley
+Photo URL    : https://www.flickr.com/photos/26096505@N02/4599000585/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Mar 26 15:44:15 GMT+0100 2010
+Upload Date  : Tue May 11 22:18:43 GMT+0200 2010
+Geotag Info  : Latitude:51.862552, Longitude:0.828266
+Views        : 162
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Baby Chimpanzee
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Taken at Colchester Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

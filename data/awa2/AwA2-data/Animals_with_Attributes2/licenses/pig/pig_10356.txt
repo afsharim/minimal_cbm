@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Belanescu Dan
+Photo URL    : https://www.flickr.com/photos/mk69flv/5855594207/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 26 18:25:37 GMT+0200 2009
+Upload Date  : Tue Jun 21 09:50:47 GMT+0200 2011
+Views        : 2,879
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Pig
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Pet 

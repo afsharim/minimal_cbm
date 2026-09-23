@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ralmonline
+Photo URL    : https://www.flickr.com/photos/islandralm/2273649519/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 17 07:25:23 GMT+0100 2008
+Upload Date  : Mon Feb 18 14:09:41 GMT+0100 2008
+Views        : 13,671
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep.JPG
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+These are the sheep that graze right outside of our kitchen windows.  We can watch them eat all day long if we care to.
+
+
++--------+
+|  TAGS  |
++--------+
+Burren sheep 

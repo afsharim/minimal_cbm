@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ☺ Lee J Haywood
+Photo URL    : https://www.flickr.com/photos/leehaywood/4251580176/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 10 15:57:24 GMT+0200 2009
+Upload Date  : Wed Jan 6 17:49:39 GMT+0100 2010
+Views        : 290
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer resting
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Deer at Wollaton Park.
+
+
++--------+
+|  TAGS  |
++--------+
+"Wollaton Park" deer grass trees 

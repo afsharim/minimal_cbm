@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Sam Howzit
+Photo URL    : https://www.flickr.com/photos/aloha75/8111417059/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 16 12:04:16 GMT+0200 2012
+Upload Date  : Mon Oct 22 06:45:09 GMT+0200 2012
+Geotag Info  : Latitude:28.417994, Longitude:-81.583421
+Views        : 1,111
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hippo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A hungry, hungry hippo from the Jungle Cruise in Adventureland at the Magic Kingdom.
+
+
++--------+
+|  TAGS  |
++--------+
+disney "walt disney world" "magic kingdom" adventureland attraction "jungle cruise" hippo "audio animatronics" 

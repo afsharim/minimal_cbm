@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Gruban
+Photo URL    : https://www.flickr.com/photos/gruban/5847385817/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 6 13:53:50 GMT+0200 2011
+Upload Date  : Sun Jun 19 08:53:08 GMT+0200 2011
+Views        : 476
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Swaledale
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+sheep "Yorkshire Dales" 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : linznix
+Photo URL    : https://www.flickr.com/photos/linznicholson/4920792294/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 8 18:41:16 GMT+0200 2010
+Upload Date  : Mon Aug 23 19:30:57 GMT+0200 2010
+Views        : 19
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+another foreigner on the alm
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

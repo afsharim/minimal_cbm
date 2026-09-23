@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sally9258
+Photo URL    : https://www.flickr.com/photos/9258photo/3296397588/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Feb 20 13:55:27 GMT+0100 2009
+Upload Date  : Sat Feb 21 00:58:26 GMT+0100 2009
+Geotag Info  : Latitude:41.681630, Longitude:-83.670501
+Views        : 13
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel-WildwoodMetroDSC09467
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : andrew_j_w
+Photo URL    : https://www.flickr.com/photos/andrew_j_w/7942369750/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Sep 5 16:40:20 GMT+0200 2012
+Upload Date  : Thu Sep 6 10:51:47 GMT+0200 2012
+Geotag Info  : Latitude:36.689869, Longitude:-6.150069
+Views        : 1,053
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bobcat
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Animal Bobcat "Jerez Zoo" "Zoobotánico Jerez" 

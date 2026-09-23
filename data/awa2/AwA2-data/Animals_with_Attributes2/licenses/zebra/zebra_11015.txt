@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : linhvienthai
+Photo URL    : https://www.flickr.com/photos/linhvienthai/6672182855/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 25 17:30:02 GMT+0100 2011
+Upload Date  : Tue Jan 10 10:18:40 GMT+0100 2012
+Geotag Info  : Latitude:-25.113580, Longitude:31.468048
+Views        : 533
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebras along the road
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Zebras foraging in the lush green vegitation.
+
+
++--------+
+|  TAGS  |
++--------+
+"South Africa" "Kruger National Park" Zebra Waterbuck "Linh Vien Thai" Safari 

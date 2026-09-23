@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : xtopherglez
+Photo URL    : https://www.flickr.com/photos/xtopherglez/7008771591/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Mar 19 08:32:49 GMT+0100 2012
+Upload Date  : Fri Mar 23 17:35:36 GMT+0100 2012
+Views        : 298
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Procyon pygmaeus
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+El mapache enano de Cozumel. Una especie endémica a la isla y uno de los carnívoros más amenazados del mundo.
+Cozumel, Quintana Roo, Méx.
+
+
++--------+
+|  TAGS  |
++--------+
+Endémicos Cozumel "taxonomy:binomial=Procyon pygmaeus" 

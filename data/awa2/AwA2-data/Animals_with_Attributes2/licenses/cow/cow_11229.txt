@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Hythe Eye
+Photo URL    : https://www.flickr.com/photos/hythe-eye/3370087777/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Mar 19 14:36:59 GMT+0100 2009
+Upload Date  : Fri Mar 20 18:06:38 GMT+0100 2009
+Geotag Info  : Latitude:50.878384, Longitude:-1.405220
+Views        : 965
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Staying Close
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+cows MonthlyThemeGroup_May09 

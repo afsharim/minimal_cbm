@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ☺ Lee J Haywood
+Photo URL    : https://www.flickr.com/photos/leehaywood/4240579693/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 20 14:15:29 GMT+0200 2009
+Upload Date  : Sun Jan 3 17:47:46 GMT+0100 2010
+Views        : 9,716
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Big deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A deer with particularly well-developed antlers in Wollaton Park.
+
+
++--------+
+|  TAGS  |
++--------+
+"Wollaton Park" deer antlers grass 

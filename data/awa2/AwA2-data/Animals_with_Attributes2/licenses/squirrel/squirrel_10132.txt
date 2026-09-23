@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sermoa
+Photo URL    : https://www.flickr.com/photos/sermoa/5360648133/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 15 14:44:46 GMT+0100 2011
+Upload Date  : Sun Jan 16 20:33:29 GMT+0100 2011
+Geotag Info  : Latitude:51.453532, Longitude:-0.300499
+Views        : 396
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cute squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+I don't know about anybody else, but i find squirrels cute.
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel richmond london "terrace gardens" 

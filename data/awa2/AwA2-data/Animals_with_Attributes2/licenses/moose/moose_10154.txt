@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Aske Holst
+Photo URL    : https://www.flickr.com/photos/askeholst/3838271524/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Aug 18 20:10:58 GMT+0200 2009
+Upload Date  : Thu Aug 20 00:19:17 GMT+0200 2009
+Geotag Info  : Latitude:57.687674, Longitude:11.940518
+Views        : 4,013
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+Happy Moose
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Yes it is a live moose although it almost looks like a taxidermied one on a platter :-)
+
+
++--------+
+|  TAGS  |
++--------+
+"Alces alces alces" Animal Moose Portrait slottsskogen 

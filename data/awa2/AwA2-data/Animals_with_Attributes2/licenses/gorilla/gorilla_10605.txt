@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : RobBixbyPhotography
+Photo URL    : https://www.flickr.com/photos/scubabix/8553387084/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Mar 12 18:49:12 GMT+0100 2013
+Upload Date  : Wed Mar 13 00:11:28 GMT+0100 2013
+Geotag Info  : Latitude:30.402361, Longitude:-81.643985
+Views        : 555
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Jacksonville Zoo 3-12-13
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Jacksonville Florida Zoo animals 

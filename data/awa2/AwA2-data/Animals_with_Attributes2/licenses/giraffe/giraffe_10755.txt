@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : gregw66
+Photo URL    : https://www.flickr.com/photos/gregw66/3687263303/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Oct 11 15:47:25 GMT+0200 2006
+Upload Date  : Sat Jul 4 20:57:40 GMT+0200 2009
+Geotag Info  : Latitude:-18.837445, Longitude:16.862227
+Views        : 830
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe, zebra, springbok
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Etosha Giraffe Zebra 

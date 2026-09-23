@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jonas B
+Photo URL    : https://www.flickr.com/photos/jonasb/179277089/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 1 18:51:14 GMT+0200 2006
+Upload Date  : Sat Jul 1 22:49:12 GMT+0200 2006
+Geotag Info  : Latitude:56.174610, Longitude:15.283699
+Views        : 1,337
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Veiled horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horse veil 

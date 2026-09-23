@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : lordspudz
+Photo URL    : https://www.flickr.com/photos/lordspudz/4785675015/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 7 22:35:17 GMT+0200 2010
+Upload Date  : Mon Jul 12 12:16:23 GMT+0200 2010
+Geotag Info  : Latitude:52.650666, Longitude:1.641494
+Views        : 40
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+tiger cat feline stripes "big cat" 

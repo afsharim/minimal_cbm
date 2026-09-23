@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : BFS Man
+Photo URL    : https://www.flickr.com/photos/bfs_man/5813726646/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 4 09:20:28 GMT+0200 2011
+Upload Date  : Thu Jun 9 02:43:22 GMT+0200 2011
+Geotag Info  : Latitude:29.711984, Longitude:-95.391454
+Views        : 309
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Wanna Play Hide and Seek?
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Chimpanzee at the Houston Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+Houston Texas "Houston Zoo" primate ape chimpanzee 

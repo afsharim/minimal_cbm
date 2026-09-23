@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : berniedup
+Photo URL    : https://www.flickr.com/photos/berniedup/7042371591/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Mar 9 10:41:27 GMT+0100 2012
+Upload Date  : Tue Apr 3 18:36:58 GMT+0200 2012
+Geotag Info  : Latitude:-26.051385, Longitude:20.438003
+Views        : 290
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffes (Giraffa camelopardalis)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Auob River Bed, Kgalagadi Transfrontier Park, SOUTH AFRICA
+
+
++--------+
+|  TAGS  |
++--------+
+"Giraffa camelopardalis" "taxonomy:binomial=Giraffa camelopardalis" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jaakko.hakulinen
+Photo URL    : https://www.flickr.com/photos/jshakulinen/3274491973/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 5 12:09:40 GMT+0200 2005
+Upload Date  : Thu Feb 12 22:45:13 GMT+0100 2009
+Geotag Info  : Latitude:61.503218, Longitude:23.754512
+Views        : 366
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+työhevoset
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Tallipihan työhevosia muutaman vuoden takaa.
+
+
++--------+
+|  TAGS  |
++--------+
+horse "work horse" 

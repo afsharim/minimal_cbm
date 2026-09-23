@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : foooomio
+Photo URL    : https://www.flickr.com/photos/foooomio/16463317047/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Feb 26 14:16:24 GMT+0100 2015
+Upload Date  : Sat Feb 28 12:20:23 GMT+0100 2015
+Views        : 73
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Walrus cheering
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Toba Aquarium 

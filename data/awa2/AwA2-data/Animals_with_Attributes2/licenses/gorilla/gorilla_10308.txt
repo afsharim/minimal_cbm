@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Eric Kilby
+Photo URL    : https://www.flickr.com/photos/ekilby/16234805156/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 11 15:07:30 GMT+0100 2015
+Upload Date  : Mon Jan 12 05:45:55 GMT+0100 2015
+Geotag Info  : Latitude:42.305369, Longitude:-71.089098
+Views        : 981
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Gorilla Scheming
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+franklin park zoo boston ape primate gorilla male 

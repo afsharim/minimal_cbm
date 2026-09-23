@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : size4riggerboots
+Photo URL    : https://www.flickr.com/photos/tamsintog/12642911393/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Oct 23 12:37:49 GMT+0200 2012
+Upload Date  : Thu Feb 20 01:34:51 GMT+0100 2014
+Geotag Info  : Latitude:-54.282539, Longitude:-36.495401
+Views        : 63
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant seals, King Edward Point, South Georgia
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Pharos SG" "South Georgia" 

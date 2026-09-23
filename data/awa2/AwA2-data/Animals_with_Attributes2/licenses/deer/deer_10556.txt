@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Lotzman Katzman
+Photo URL    : https://www.flickr.com/photos/lotzman/6814071290/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 18 16:50:44 GMT+0100 2012
+Upload Date  : Wed Mar 7 00:02:00 GMT+0100 2012
+Geotag Info  : Latitude:41.321158, Longitude:-88.990218
+Views        : 510
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+On the top of the Starved Rock
+
+
++--------+
+|  TAGS  |
++--------+
+"starved rock" park 

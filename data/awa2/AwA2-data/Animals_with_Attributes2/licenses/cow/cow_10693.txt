@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : stantontcady
+Photo URL    : https://www.flickr.com/photos/terrycady/16071628290/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 10 17:46:56 GMT+0200 2011
+Upload Date  : Mon Jan 12 01:20:12 GMT+0100 2015
+Geotag Info  : Latitude:40.090833, Longitude:-88.221170
+Views        : 118
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Crazy Cow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+cow geotagged illinois uiuc universityofillinois 

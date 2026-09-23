@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Beige Alert
+Photo URL    : https://www.flickr.com/photos/beigephotos/1795883305/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 22 13:34:21 GMT+0200 2007
+Upload Date  : Mon Oct 29 03:21:02 GMT+0100 2007
+Geotag Info  : Latitude:52.785867, Longitude:6.897890
+Views        : 63
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebras
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Emmen Netherlands zoo Dierenpark 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Aug 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Reading Tom
+Photo URL    : https://www.flickr.com/photos/16801915@N06/24611307872/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 31 09:10:33 GMT+0200 2015
+Upload Date  : Sun Jan 31 14:46:55 GMT+0100 2016
+Geotag Info  : Latitude:51.805025, Longitude:-4.516816
+Views        : 9
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+An Ex Mole
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Wales Coast Path" "Welsh Coast Path" 

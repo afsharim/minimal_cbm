@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Fred Jala
+Photo URL    : https://www.flickr.com/photos/fredjala/353508158/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 31 07:34:37 GMT+0100 2006
+Upload Date  : Thu Jan 11 06:19:26 GMT+0100 2007
+Views        : 626
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_1917
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+this gorilla's friend was eating its own poop
+
+
++--------+
+|  TAGS  |
++--------+
+gorilla zoo straw sleeping 

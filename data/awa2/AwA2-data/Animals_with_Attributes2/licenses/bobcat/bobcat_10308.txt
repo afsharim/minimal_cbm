@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : eoringel
+Photo URL    : https://www.flickr.com/photos/eoringel/8258808439/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 25 15:09:57 GMT+0100 2012
+Upload Date  : Mon Dec 10 02:05:16 GMT+0100 2012
+Views        : 85
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bobcat
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Bobcat
+
+Flamingo Gardens, FL
+
+
++--------+
+|  TAGS  |
++--------+
+flamingo gardens florida nature FL 

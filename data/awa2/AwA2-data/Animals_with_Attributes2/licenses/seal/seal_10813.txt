@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : designsbykari
+Photo URL    : https://www.flickr.com/photos/designsbykari/17115307731/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Apr 3 00:04:59 GMT+0200 2015
+Upload Date  : Sun Apr 12 04:33:35 GMT+0200 2015
+Geotag Info  : Latitude:32.846621, Longitude:-117.278709
+Views        : 665
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Seal
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"San Diego" California USA "United States of America" "La Jolla" Beach Seal Pelican Rock "Tidal Pool" Ocean Waves "Palm Trees" 

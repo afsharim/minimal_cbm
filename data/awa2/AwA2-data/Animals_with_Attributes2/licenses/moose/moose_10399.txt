@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Florian Lungu
+Photo URL    : https://www.flickr.com/photos/florian-lungu/5989364311/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 26 13:45:36 GMT+0200 2011
+Upload Date  : Sat Jul 30 08:10:58 GMT+0200 2011
+Views        : 87
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Moose
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Western Spirit" "Sun Valley, ID" 

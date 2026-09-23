@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Pei-Jen Lee Shaner
+Photo URL    : https://commons.wikimedia.org/wiki/File:Anourosorex_squamips_yamashinai_(adult)_PShaner_2011-5-4.png
+License      : Creative Commons (https://en.wikipedia.org/wiki/en:Creative_Commons) Attribution-Share Alike 3.0 Unported (//creativecommons.org/licenses/by-sa/3.0/deed.en)
+Date         : 2013-10-07 12:16:36

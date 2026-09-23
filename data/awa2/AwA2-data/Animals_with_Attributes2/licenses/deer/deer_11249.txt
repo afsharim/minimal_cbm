@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : georger_gilbert
+Photo URL    : https://www.flickr.com/photos/67233922@N00/195667465/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Nov 26 02:23:16 GMT+0100 2003
+Upload Date  : Sun Jul 23 00:16:29 GMT+0200 2006
+Views        : 90
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+This grass is delicious
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+deer animal 

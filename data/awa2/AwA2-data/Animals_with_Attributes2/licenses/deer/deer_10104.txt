@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ☺ Lee J Haywood
+Photo URL    : https://www.flickr.com/photos/leehaywood/4588827147/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri May 7 15:58:51 GMT+0200 2010
+Upload Date  : Sat May 8 17:56:46 GMT+0200 2010
+Views        : 73
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+By the car park
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Taken at Wollaton Park.
+
+
++--------+
+|  TAGS  |
++--------+
+"Wollaton Park" deer 

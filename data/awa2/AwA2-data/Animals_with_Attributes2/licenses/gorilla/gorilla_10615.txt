@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : manuelbierbauer
+Photo URL    : https://www.flickr.com/photos/bierbauer/5829827812/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 26 11:40:48 GMT+0200 2011
+Upload Date  : Mon Jun 13 20:33:01 GMT+0200 2011
+Views        : 118
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+kinigi
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : hakonthingstad
+Photo URL    : https://www.flickr.com/photos/hakonthingstad/2466510969/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Mar 31 10:43:45 GMT+0200 2008
+Upload Date  : Mon May 5 09:35:04 GMT+0200 2008
+Views        : 158
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_1647
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+biG
+
+
++--------+
+|  TAGS  |
++--------+
+giraffe 

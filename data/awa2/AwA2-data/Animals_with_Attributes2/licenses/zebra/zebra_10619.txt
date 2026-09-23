@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/12059886683/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Sep 13 09:02:30 GMT+0200 2013
+Upload Date  : Tue Jan 21 01:01:22 GMT+0100 2014
+Geotag Info  : Latitude:-25.281954, Longitude:27.107391
+Views        : 12,847
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra in the high dry grasses
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A nice zebra, proudly standing in the bush...
+
+
++--------+
+|  TAGS  |
++--------+
+zebra equine standing vegetation plants grass wild wildlife pilanesberg "national park" "south africa" nikon d4 

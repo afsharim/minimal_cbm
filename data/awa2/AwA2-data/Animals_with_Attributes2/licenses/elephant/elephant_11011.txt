@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : amy.z
+Photo URL    : https://www.flickr.com/photos/amyzirkle/7047412349/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Apr 4 13:50:23 GMT+0200 2012
+Upload Date  : Thu Apr 5 11:56:05 GMT+0200 2012
+Geotag Info  : Latitude:19.213667, Longitude:98.858667
+Views        : 105
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A family.
+
+
++--------+
+|  TAGS  |
++--------+
+elephant park 

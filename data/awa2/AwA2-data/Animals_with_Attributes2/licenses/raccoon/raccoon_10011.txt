@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bob_jenkins
+Photo URL    : https://www.flickr.com/photos/48380660@N04/4431288714/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Oct 5 17:24:20 GMT+0200 2009
+Upload Date  : Sun Mar 14 05:46:17 GMT+0100 2010
+Views        : 163
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+091101 436
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+raccoons scrounging in a vancouver park
+
+
++--------+
+|  TAGS  |
++--------+
+scrounging raccoons vancouver 

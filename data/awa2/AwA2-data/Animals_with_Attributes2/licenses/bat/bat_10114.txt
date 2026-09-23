@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : PatrickRohe
+Photo URL    : https://www.flickr.com/photos/patrickrohe/5564894946/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 12 13:41:55 GMT+0100 2011
+Upload Date  : Sun Mar 27 18:55:41 GMT+0200 2011
+Geotag Info  : Latitude:37.636050, Longitude:-79.540414
+Views        : 49
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_6820
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A bat in the Natural Bridge Caverns in Natural Bridge, VA
+
+
++--------+
+|  TAGS  |
++--------+
+naturalbridge caves bat 

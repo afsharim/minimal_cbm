@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MattBritt00
+Photo URL    : https://www.flickr.com/photos/mattbritt00/6661006103/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 7 15:20:29 GMT+0100 2012
+Upload Date  : Sun Jan 8 19:34:09 GMT+0100 2012
+Geotag Info  : Latitude:40.850387, Longitude:-73.876125
+Views        : 521
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Tiger Mountain, Bronx Zoo, January 2012
+
+
++--------+
+|  TAGS  |
++--------+
+Animal Animals Bronx "Bronx Zoo" "New York" "New York City" NY NYC Tiger Wildlife "Wildlife Conservation Society" Zoo 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : César Rincón
+Photo URL    : https://www.flickr.com/photos/crincon/969968103/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 29 18:26:23 GMT+0100 2005
+Upload Date  : Wed Aug 1 07:37:46 GMT+0200 2007
+Geotag Info  : Latitude:20.706178, Longitude:-103.389576
+Views        : 31
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+20050129182623-0
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel 

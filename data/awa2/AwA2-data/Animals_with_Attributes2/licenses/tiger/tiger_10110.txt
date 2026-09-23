@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Adhi Rachdian
+Photo URL    : https://www.flickr.com/photos/rachdian/3757836894/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 24 16:21:35 GMT+0200 2009
+Upload Date  : Sun Jul 26 12:54:00 GMT+0200 2009
+Views        : 1,611
+Comments     : 18
+
+
++---------+
+|  TITLE  |
++---------+
+dancing...
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Class  : Mammalia
+Family : Felidae
+Species: Panthera Tigris Tigris
+
+
++--------+
+|  TAGS  |
++--------+
+Panthera Leo Harimau Putih White 

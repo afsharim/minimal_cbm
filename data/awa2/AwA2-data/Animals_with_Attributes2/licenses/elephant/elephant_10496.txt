@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : andrewmalone
+Photo URL    : https://www.flickr.com/photos/andrewmalone/5195013790/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 23 11:38:06 GMT+0200 2010
+Upload Date  : Sun Nov 21 14:31:45 GMT+0100 2010
+Geotag Info  : Latitude:45.508505, Longitude:-122.712053
+Views        : 299
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Portland zoo" animal elephant zoo 

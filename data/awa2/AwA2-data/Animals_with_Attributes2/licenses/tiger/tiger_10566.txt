@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : barsen
+Photo URL    : https://www.flickr.com/photos/barsen/4289911386/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 3 11:55:03 GMT+0100 2010
+Upload Date  : Wed Jan 20 05:36:59 GMT+0100 2010
+Views        : 655
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Tiger 

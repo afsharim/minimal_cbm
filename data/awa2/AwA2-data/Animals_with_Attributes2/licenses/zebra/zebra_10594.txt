@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : craighamnett
+Photo URL    : https://www.flickr.com/photos/craighamnett/2394808416/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Sep 3 12:03:31 GMT+0200 2007
+Upload Date  : Mon Apr 7 04:10:30 GMT+0200 2008
+Geotag Info  : Latitude:53.230919, Longitude:-2.878675
+Views        : 188
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra Grazing
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"chester zoo" zoo park animals chester zebra 

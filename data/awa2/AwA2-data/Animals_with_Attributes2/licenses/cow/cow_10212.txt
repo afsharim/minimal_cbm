@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : GoiMonitor
+Photo URL    : https://www.flickr.com/photos/goimonitor/8530578333/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 14 05:15:53 GMT+0200 2012
+Upload Date  : Tue Mar 5 16:33:07 GMT+0100 2013
+Views        : 237
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cow shelter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Cow shelter at pasture land, Bikaner, Rajasthan
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

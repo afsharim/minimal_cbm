@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bitslammer
+Photo URL    : https://www.flickr.com/photos/norrisc/4793833889/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 14 15:08:36 GMT+0200 2010
+Upload Date  : Wed Jul 14 22:19:38 GMT+0200 2010
+Views        : 45
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Damn deer!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

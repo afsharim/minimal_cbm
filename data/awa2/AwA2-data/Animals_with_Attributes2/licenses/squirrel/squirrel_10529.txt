@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jim, the Photographer
+Photo URL    : https://www.flickr.com/photos/jcapaldi/7841164270/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 29 18:07:33 GMT+0200 2012
+Upload Date  : Thu Aug 23 00:43:25 GMT+0200 2012
+Geotag Info  : Latitude:39.916278, Longitude:-75.323274
+Views        : 354
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel (Sciuridae)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Squirrel 

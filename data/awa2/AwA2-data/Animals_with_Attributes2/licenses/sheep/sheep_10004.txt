@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : schmilblick
+Photo URL    : https://www.flickr.com/photos/schmilblick/438918508/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Mar 26 17:27:54 GMT+0200 2007
+Upload Date  : Thu Mar 29 20:51:29 GMT+0200 2007
+Geotag Info  : Latitude:59.408785, Longitude:17.894743
+Views        : 138
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+_MG_0019
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+2007 sheep 

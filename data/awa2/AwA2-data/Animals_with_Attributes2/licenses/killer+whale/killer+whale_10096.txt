@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ian D. Keating
+Photo URL    : https://www.flickr.com/photos/ian-arlett/4535424255/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 4 02:52:11 GMT+0200 2008
+Upload Date  : Mon Apr 19 22:48:51 GMT+0200 2010
+Geotag Info  : Latitude:32.731696, Longitude:-117.150864
+Views        : 533
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Killer Whale  action shot
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Sea world San Diego 

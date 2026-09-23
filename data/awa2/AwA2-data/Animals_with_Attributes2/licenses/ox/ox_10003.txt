@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : aiaraldea.com
+Photo URL    : https://www.flickr.com/photos/aiaraldea/5675463036/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 1 12:38:09 GMT+0200 2011
+Upload Date  : Sun May 1 12:38:09 GMT+0200 2011
+Views        : 9
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+_DSC0034_resized
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

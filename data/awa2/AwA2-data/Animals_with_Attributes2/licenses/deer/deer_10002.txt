@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Randy OHC
+Photo URL    : https://www.flickr.com/photos/mariya_umama_wethemba_monastery/2840876647/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Sep 8 14:51:43 GMT+0200 2008
+Upload Date  : Tue Sep 9 02:56:41 GMT+0200 2008
+Geotag Info  : Latitude:41.803006, Longitude:-73.956742
+Views        : 239
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+.
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Holy Cross Monastery, West Park, New York
+
+
++--------+
+|  TAGS  |
++--------+
+deer 

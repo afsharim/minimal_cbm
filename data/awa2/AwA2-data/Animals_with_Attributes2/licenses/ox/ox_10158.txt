@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : JoeDuck
+Photo URL    : https://www.flickr.com/photos/joeduck/5485463059/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 19 18:45:19 GMT+0100 2011
+Upload Date  : Mon Feb 28 16:36:50 GMT+0100 2011
+Views        : 32
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+CharleyThroughFeb25 121
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+CharleyThroughFeb25 

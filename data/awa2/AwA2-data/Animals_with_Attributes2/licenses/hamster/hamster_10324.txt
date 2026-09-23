@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : SoloXis
+Photo URL    : https://www.flickr.com/photos/soloxis/4317627303/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 16 21:21:51 GMT+0100 2010
+Upload Date  : Sun Jan 31 08:38:25 GMT+0100 2010
+Views        : 553
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hamsters
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Holding fragile lives in our hands
+
+
++--------+
+|  TAGS  |
++--------+
+Hamster 

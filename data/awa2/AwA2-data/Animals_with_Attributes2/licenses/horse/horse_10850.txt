@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mike Babcock
+Photo URL    : https://www.flickr.com/photos/mikebabcock/221968173/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 19 17:33:21 GMT+0200 2006
+Upload Date  : Tue Aug 22 14:58:59 GMT+0200 2006
+Geotag Info  : Latitude:44.933210, Longitude:-78.713264
+Views        : 1,204
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horses
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Minden Ontario Canada Cameron horses 

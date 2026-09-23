@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : cheetah100
+Photo URL    : https://www.flickr.com/photos/devcentre/272113670/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 17 14:15:12 GMT+0200 2006
+Upload Date  : Tue Oct 17 11:23:53 GMT+0200 2006
+Views        : 3,314
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Tiger at Auckland Zoo. There are now two Tigers at Auckland Zoo, and they have a brand new enclosure.
+
+
++--------+
+|  TAGS  |
++--------+
+auckland zoo tiger 

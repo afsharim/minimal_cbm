@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : otterblossom
+Photo URL    : https://www.flickr.com/photos/otterblossom/7588079918/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jun 19 19:36:12 GMT+0200 2012
+Upload Date  : Tue Jul 17 06:41:59 GMT+0200 2012
+Views        : 57
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Amur Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Erie Zoo
+Erie, PA
+July 8, 2012
+
+
++--------+
+|  TAGS  |
++--------+
+cats "erie zoo" tigers 

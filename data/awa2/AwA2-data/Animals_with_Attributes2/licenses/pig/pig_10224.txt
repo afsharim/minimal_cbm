@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Stonebridge City Farm
+Photo URL    : https://www.flickr.com/photos/stonebridgecityfarm/5588769926/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Nov 24 09:48:27 GMT+0100 2010
+Upload Date  : Mon Apr 4 13:59:26 GMT+0200 2011
+Geotag Info  : Latitude:52.958281, Longitude:-1.133211
+Views        : 24
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+PB242812
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+pigs 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : elPadawan
+Photo URL    : https://www.flickr.com/photos/elpadawan/2890539443/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 9 12:01:26 GMT+0100 2008
+Upload Date  : Sat Sep 27 03:16:51 GMT+0200 2008
+Geotag Info  : Latitude:50.116725, Longitude:14.410425
+Views        : 133
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra Grévyho
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Zebra Grévyho, Zoo Praha
+
+
++--------+
+|  TAGS  |
++--------+
+"0302-0310, République Tchèque" 2008 "20080309, Prague Zoo" "Zoo Praha" Praha "Czech Republic" mammals nature 

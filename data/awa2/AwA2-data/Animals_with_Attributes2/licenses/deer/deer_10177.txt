@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : phil wood photo
+Photo URL    : https://www.flickr.com/photos/philwoodphoto/1124058106/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 13 13:45:10 GMT+0200 2007
+Upload Date  : Wed Aug 15 09:06:51 GMT+0200 2007
+Views        : 153
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer at Bradgate Park
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Deer Bradgate Park 

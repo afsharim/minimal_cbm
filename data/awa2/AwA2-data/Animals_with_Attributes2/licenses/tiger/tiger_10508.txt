@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mark_whatmough
+Photo URL    : https://www.flickr.com/photos/whatscapes/3216958041/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 14 07:07:35 GMT+0200 2007
+Upload Date  : Thu Jan 22 11:37:35 GMT+0100 2009
+Views        : 1,601
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Tiger Auckland Zoo FlickrBigCats 

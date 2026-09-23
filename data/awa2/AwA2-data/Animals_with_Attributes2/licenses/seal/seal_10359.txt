@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Paul Albertella
+Photo URL    : https://www.flickr.com/photos/paulspace/1357031556/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 2 13:06:04 GMT+0200 2007
+Upload Date  : Tue Sep 11 00:13:02 GMT+0200 2007
+Views        : 98
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Friendly
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Rescued seal at the Scottish Sealife Centre
+
+
++--------+
+|  TAGS  |
++--------+
+oban sealife scotland 

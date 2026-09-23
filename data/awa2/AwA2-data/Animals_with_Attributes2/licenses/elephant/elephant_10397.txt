@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : dilettantiquity
+Photo URL    : https://www.flickr.com/photos/flyingblogspot/3290600188/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 14 14:19:12 GMT+0100 2009
+Upload Date  : Wed Feb 18 15:15:53 GMT+0100 2009
+Geotag Info  : Latitude:-31.977065, Longitude:115.854402
+Views        : 54
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Perth Zoo" 

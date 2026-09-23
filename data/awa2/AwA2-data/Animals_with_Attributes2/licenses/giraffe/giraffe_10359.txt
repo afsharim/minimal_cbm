@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Nagy David
+Photo URL    : https://www.flickr.com/photos/ndave/498781843/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 25 17:08:08 GMT+0200 2006
+Upload Date  : Tue May 15 02:35:47 GMT+0200 2007
+Geotag Info  : Latitude:47.518417, Longitude:19.075870
+Views        : 477
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Budapest zoo giraffe 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Rojer
+Photo URL    : https://www.flickr.com/photos/rojer/4891874210/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 19 18:10:37 GMT+0200 2010
+Upload Date  : Sat Aug 14 22:09:20 GMT+0200 2010
+Geotag Info  : Latitude:32.764646, Longitude:-117.228654
+Views        : 148
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+100_6436
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Shamu Orca "Killer Whale" SeaWorld "San Diego" 

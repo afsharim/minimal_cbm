@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Bob n Renee
+Photo URL    : https://www.flickr.com/photos/bobnrenee/3774234066/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 30 13:41:26 GMT+0200 2009
+Upload Date  : Fri Jul 31 05:47:22 GMT+0200 2009
+Views        : 162
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep on the 4H farm
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Justin
+
+
++--------+
+|  TAGS  |
++--------+
+4H lamb sheep 

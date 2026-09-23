@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Sasha the Okay Photographer
+Photo URL    : https://www.flickr.com/photos/sashaiw/12625145035/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Dec 2 21:27:46 GMT+0100 2013
+Upload Date  : Wed Feb 19 03:25:50 GMT+0100 2014
+Views        : 606
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Rat
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+RIP Akira...
+
+
++--------+
+|  TAGS  |
++--------+
+rat apple 

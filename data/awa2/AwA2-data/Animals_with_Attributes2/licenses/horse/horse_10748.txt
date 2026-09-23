@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : andrew_j_w
+Photo URL    : https://www.flickr.com/photos/andrew_j_w/10625448395/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 27 17:31:32 GMT+0100 2013
+Upload Date  : Sat Nov 2 14:23:54 GMT+0100 2013
+Geotag Info  : Latitude:54.245669, Longitude:-1.069321
+Views        : 101
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+animal horse 

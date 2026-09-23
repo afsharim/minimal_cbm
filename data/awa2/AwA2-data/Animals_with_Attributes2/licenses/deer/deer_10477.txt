@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Infermon
+Photo URL    : https://www.flickr.com/photos/infermon/4734433507/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 18 11:11:51 GMT+0200 2010
+Upload Date  : Sat Jun 26 08:06:45 GMT+0200 2010
+Geotag Info  : Latitude:42.477026, Longitude:-83.158596
+Views        : 72
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Detroit zoo 

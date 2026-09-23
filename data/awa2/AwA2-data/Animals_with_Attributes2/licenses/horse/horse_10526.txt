@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Fath Asari
+Photo URL    : https://www.flickr.com/photos/nfsk/3487729028/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Dec 30 10:19:03 GMT+0100 2008
+Upload Date  : Thu Apr 30 03:25:09 GMT+0200 2009
+Views        : 463
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horse trotting
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horse (s) 

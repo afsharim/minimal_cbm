@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ducttapeboots
+Photo URL    : https://www.flickr.com/photos/104829524@N07/10214113263/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 31 18:45:13 GMT+0200 2013
+Upload Date  : Fri Oct 11 22:46:35 GMT+0200 2013
+Views        : 61
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

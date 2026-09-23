@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MANHATTAN RESEARCH INC
+Photo URL    : https://www.flickr.com/photos/seattlecamera/15508204482/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 11 14:55:22 GMT+0200 2014
+Upload Date  : Sat Oct 11 23:42:05 GMT+0200 2014
+Geotag Info  : Latitude:50.669030, Longitude:-1.106837
+Views        : 2,103
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+COW
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

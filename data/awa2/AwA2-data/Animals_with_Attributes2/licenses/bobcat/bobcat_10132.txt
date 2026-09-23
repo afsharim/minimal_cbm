@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/19878309185/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 31 13:38:24 GMT+0200 2015
+Upload Date  : Tue Jul 21 08:00:10 GMT+0200 2015
+Geotag Info  : Latitude:47.009815, Longitude:7.031614
+Views        : 2,780
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Lynx waiting...
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Another portrait of the female lynx of the Rothaus zoo...
+
+
++--------+
+|  TAGS  |
++--------+
+female portait attentive waiting face grass lynx wild cat "zoo rothaus" zoo gampelen switzerland nikon d4 

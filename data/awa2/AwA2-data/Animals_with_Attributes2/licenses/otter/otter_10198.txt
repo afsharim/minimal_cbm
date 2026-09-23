@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ross Elliott
+Photo URL    : https://www.flickr.com/photos/ross_elliott/15835876825/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 25 11:16:39 GMT+0200 2014
+Upload Date  : Thu Nov 20 21:00:39 GMT+0100 2014
+Geotag Info  : Latitude:50.481056, Longitude:-3.765960
+Views        : 149
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Otter 0514 2207
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Otter 

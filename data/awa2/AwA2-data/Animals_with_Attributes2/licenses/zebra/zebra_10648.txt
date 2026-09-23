@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sjorford
+Photo URL    : https://www.flickr.com/photos/sjorford/20628384055/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Aug 5 08:37:34 GMT+0200 2015
+Upload Date  : Sun Aug 16 19:07:57 GMT+0200 2015
+Views        : 242
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra scratching
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zebra 

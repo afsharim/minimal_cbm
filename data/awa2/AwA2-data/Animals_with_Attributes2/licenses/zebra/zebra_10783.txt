@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Sander van der Wel
+Photo URL    : https://www.flickr.com/photos/jar0d/3903609325/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Sep 9 11:28:32 GMT+0200 2009
+Upload Date  : Wed Sep 9 18:39:17 GMT+0200 2009
+Geotag Info  : Latitude:51.927298, Longitude:4.441909
+Views        : 140
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Blijdorp 

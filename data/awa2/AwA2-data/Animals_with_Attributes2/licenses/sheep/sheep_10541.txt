@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Berto Garcia
+Photo URL    : https://www.flickr.com/photos/bertogg/4086362612/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 7 13:18:38 GMT+0100 2009
+Upload Date  : Sun Nov 8 16:48:51 GMT+0100 2009
+Views        : 144
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Ovelhas
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Santa Maria de Roo, Noia
+
+
++--------+
+|  TAGS  |
++--------+
+sheep 

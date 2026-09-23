@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : HaraldMM
+Photo URL    : https://www.flickr.com/photos/haraldmm/3904831950/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 24 13:40:12 GMT+0200 2009
+Upload Date  : Wed Sep 9 21:36:37 GMT+0200 2009
+Geotag Info  : Latitude:69.337954, Longitude:16.064758
+Views        : 4,117
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Diving whale
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Spermhval "sperm whale" hval diving 

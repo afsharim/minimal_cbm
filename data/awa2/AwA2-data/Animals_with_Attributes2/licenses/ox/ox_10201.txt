@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : flyingorcas
+Photo URL    : https://www.flickr.com/photos/isabelbolinn/8253622855/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Nov 9 16:37:39 GMT+0100 2012
+Upload Date  : Sat Dec 8 11:14:52 GMT+0100 2012
+Views        : 11
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_0235
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

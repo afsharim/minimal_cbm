@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : DGriebeling
+Photo URL    : https://www.flickr.com/photos/dgriebeling/5565527048/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Mar 10 15:36:49 GMT+0100 2011
+Upload Date  : Sun Mar 27 21:59:20 GMT+0200 2011
+Geotag Info  : Latitude:28.800129, Longitude:-82.588203
+Views        : 24
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+florida nature 

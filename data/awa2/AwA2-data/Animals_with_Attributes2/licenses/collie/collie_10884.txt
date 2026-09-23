@@ -1,0 +1,12 @@
++--------------------------------------+
+|       Pixabay Photo Metadata         |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : X posid
+Photo URL    : http://www.publicdomainpictures.net/view-image.php?image=51325&picture=sisqi-ein-schoner-hund-8
+License      : Public Domain (https://creativecommons.org/publicdomain/zero/1.0/)

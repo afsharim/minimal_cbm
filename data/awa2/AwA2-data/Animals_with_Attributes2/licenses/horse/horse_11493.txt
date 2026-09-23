@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Vasnic64
+Photo URL    : https://www.flickr.com/photos/vasnic64/4892106826/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 14 14:42:35 GMT+0200 2010
+Upload Date  : Sat Aug 14 23:44:01 GMT+0200 2010
+Views        : 263
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+the horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horse vasse 

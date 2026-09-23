@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Hardo
+Photo URL    : https://www.flickr.com/photos/hardo/4349674331/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 1 00:00:00 GMT+0200 1982
+Upload Date  : Fri Feb 12 03:23:02 GMT+0100 2010
+Geotag Info  : Latitude:59.980612, Longitude:14.503326
+Views        : 70
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Moose
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

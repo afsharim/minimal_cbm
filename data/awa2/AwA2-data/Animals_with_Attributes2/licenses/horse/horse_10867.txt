@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Erik il Rosso
+Photo URL    : https://www.flickr.com/photos/yab994/1509175188/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Oct 3 07:02:24 GMT+0200 2007
+Upload Date  : Sun Oct 7 23:03:01 GMT+0200 2007
+Geotag Info  : Latitude:46.532768, Longitude:11.628513
+Views        : 3,198
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Horses
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Alpe di Siusi" Dolomiti "Alto Adige" "Sud Tirolo" "Seiser Alm" Italy Italia Sudtirol Sciliar Santner Horse Cavallo Cavalli 

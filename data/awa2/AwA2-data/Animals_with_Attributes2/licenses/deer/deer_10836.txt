@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : martin_vmorris
+Photo URL    : https://www.flickr.com/photos/martin55/8999753182/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 9 16:17:04 GMT+0200 2013
+Upload Date  : Sun Jun 9 21:31:59 GMT+0200 2013
+Views        : 399
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Fallow Deer, Epping Forest
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+fallow deer epping forest 

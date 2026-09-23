@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : kewl
+Photo URL    : https://www.flickr.com/photos/kewl/7965777302/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 8 15:05:03 GMT+0200 2012
+Upload Date  : Sun Sep 9 23:22:26 GMT+0200 2012
+Geotag Info  : Latitude:49.481941, Longitude:5.984130
+Views        : 641
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Luxembourg Esch-sur-Alzette animal deer 

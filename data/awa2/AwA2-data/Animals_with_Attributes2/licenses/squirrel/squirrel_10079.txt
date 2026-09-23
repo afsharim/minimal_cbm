@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : rabbot
+Photo URL    : https://www.flickr.com/photos/rmody999/3318465534/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 28 16:04:37 GMT+0100 2009
+Upload Date  : Sun Mar 1 06:14:59 GMT+0100 2009
+Geotag Info  : Latitude:32.846636, Longitude:-117.278475
+Views        : 185
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Begging Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+I tricked him into thinking I had food in my hand.
+
+
++--------+
+|  TAGS  |
++--------+
+"La Jolla" squirrel 

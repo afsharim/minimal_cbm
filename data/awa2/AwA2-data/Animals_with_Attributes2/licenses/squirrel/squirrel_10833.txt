@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : robinrkc
+Photo URL    : https://www.flickr.com/photos/31408547@N06/5380908127/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 23 09:20:31 GMT+0100 2011
+Upload Date  : Sun Jan 23 18:06:26 GMT+0100 2011
+Views        : 630
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel 

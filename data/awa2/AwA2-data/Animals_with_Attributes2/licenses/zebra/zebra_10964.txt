@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Marco Zanferrari
+Photo URL    : https://www.flickr.com/photos/tuttotutto/22187274515/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 7 09:03:16 GMT+0200 2014
+Upload Date  : Thu Oct 15 11:04:28 GMT+0200 2015
+Geotag Info  : Latitude:-22.656591, Longitude:18.202511
+Views        : 389
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Apparently this zebra has grown up in a group of horses and he usually hangs out with them :)
+
+
++--------+
+|  TAGS  |
++--------+
+zebra wildlife Namibia 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Marie Hale
+Photo URL    : https://www.flickr.com/photos/15016964@N02/5913500132/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Apr 2 12:22:20 GMT+0200 2010
+Upload Date  : Thu Jul 7 22:41:52 GMT+0200 2011
+Views        : 1,762
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Striped grass mouse (zebra mouse)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Striped grass mouse (zebra mouse) - taken at Wingham Wildlife Park on 2nd April 2010
+
+
++--------+
+|  TAGS  |
++--------+
+mouse 

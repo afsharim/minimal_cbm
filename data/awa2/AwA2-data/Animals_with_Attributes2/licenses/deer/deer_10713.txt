@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Awwducational
+Photo URL    : https://www.flickr.com/photos/awwducational/24047011131/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Dec 14 12:05:16 GMT+0100 2015
+Upload Date  : Sat Jan 2 18:35:19 GMT+0100 2016
+Views        : 76
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

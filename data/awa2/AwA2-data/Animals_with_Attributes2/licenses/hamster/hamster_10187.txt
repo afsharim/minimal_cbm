@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : FromSandToGlass
+Photo URL    : https://www.flickr.com/photos/ericabreetoe/4012344873/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Oct 14 08:43:37 GMT+0200 2009
+Upload Date  : Thu Oct 15 03:14:17 GMT+0200 2009
+Views        : 108
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Dwarf Hamsters
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

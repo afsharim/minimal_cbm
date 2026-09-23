@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jennlynndesign
+Photo URL    : https://www.flickr.com/photos/jennlynndesign/2504906457/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue May 13 00:00:15 GMT+0200 2008
+Upload Date  : Mon May 19 16:33:37 GMT+0200 2008
+Geotag Info  : Latitude:30.403675, Longitude:-86.982536
+Views        : 46
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The ZOO of NW Florida
+<a href="http://www.thezoonorthwestflorida.org" rel="nofollow">www.thezoonorthwestflorida.org</a>
+
+
++--------+
+|  TAGS  |
++--------+
+Florida Zoo Animals 

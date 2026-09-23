@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Dave3006
+Photo URL    : https://www.flickr.com/photos/frogonmyleg/5629076523/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 26 07:10:59 GMT+0200 2010
+Upload Date  : Mon Apr 18 02:34:46 GMT+0200 2011
+Views        : 67
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel 

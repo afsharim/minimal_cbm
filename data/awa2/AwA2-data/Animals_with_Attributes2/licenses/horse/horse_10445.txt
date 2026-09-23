@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : leunix
+Photo URL    : https://www.flickr.com/photos/leunix/211693353/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 27 16:48:43 GMT+0200 2005
+Upload Date  : Thu Aug 10 13:59:33 GMT+0200 2006
+Views        : 1,525
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Horse and Fowl
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A Horse and her Fowl at the bottom of Pendinas
+
+
++--------+
+|  TAGS  |
++--------+
+Horses Aberystwyth 

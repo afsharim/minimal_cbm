@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Kent Wang
+Photo URL    : https://www.flickr.com/photos/kentwang/21740053825/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Sep 25 15:26:23 GMT+0200 2015
+Upload Date  : Sun Sep 27 20:47:37 GMT+0200 2015
+Views        : 49
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Pygmy hippopotamus
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"London Zoo" zoo ZSL London Hippo hippopotamus "Pygmy hippopotamus" 

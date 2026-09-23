@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : vonguard
+Photo URL    : https://www.flickr.com/photos/vonguard/1801502984/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 27 13:04:41 GMT+0200 2007
+Upload Date  : Tue Oct 30 00:55:59 GMT+0100 2007
+Views        : 509
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_0151.JPG
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zoo sfzoo "san francisco" sf animals bear grizzly 

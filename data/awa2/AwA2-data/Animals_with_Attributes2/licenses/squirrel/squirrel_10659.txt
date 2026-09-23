@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : andrewmalone
+Photo URL    : https://www.flickr.com/photos/andrewmalone/490482516/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue May 8 18:27:05 GMT+0200 2007
+Upload Date  : Wed May 9 01:10:03 GMT+0200 2007
+Geotag Info  : Latitude:42.377683, Longitude:-71.100431
+Views        : 171
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Eating some bread
+
+
++--------+
+|  TAGS  |
++--------+
+animal squirrel 

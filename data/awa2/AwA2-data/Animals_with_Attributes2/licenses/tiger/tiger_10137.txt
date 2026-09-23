@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Rob Igo Photography
+Photo URL    : https://www.flickr.com/photos/robigouk/277824669/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Mar 24 13:51:41 GMT+0100 2005
+Upload Date  : Tue Oct 24 03:02:21 GMT+0200 2006
+Geotag Info  : Latitude:51.733992, Longitude:-0.046176
+Views        : 4
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_6581
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+tiger scoopt 

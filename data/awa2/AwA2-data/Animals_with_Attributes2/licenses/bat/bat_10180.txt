@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : dellfalconer
+Photo URL    : https://www.flickr.com/photos/dellfalconer/20868403692/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 24 12:34:51 GMT+0200 2015
+Upload Date  : Tue Aug 25 20:47:44 GMT+0200 2015
+Views        : 66
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Whiskered Bat?
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Unidentified bat, perhaps Whiskered Bat (unbestimmte Fledermaus, möglicherweise Kleine Bartfledermaus, Myotis mystacinus)
+2015-08-24
+Austria
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

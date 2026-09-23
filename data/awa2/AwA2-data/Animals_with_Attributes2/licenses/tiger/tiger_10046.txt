@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : neusitas
+Photo URL    : https://www.flickr.com/photos/neusitas/4486833499/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Apr 1 10:43:55 GMT+0200 2010
+Upload Date  : Sat Apr 3 20:13:34 GMT+0200 2010
+Views        : 1,166
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Amor de tigre
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Tigre (Panthera Tigris).
+
+Fotografía realizada en el parque de Paque Natural de Cabárceno.
+
+
++--------+
+|  TAGS  |
++--------+
+Cabarceno animales tigre tiger 

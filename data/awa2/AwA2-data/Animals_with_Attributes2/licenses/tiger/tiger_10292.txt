@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jim, the Photographer
+Photo URL    : https://www.flickr.com/photos/jcapaldi/7483962672/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 30 14:35:28 GMT+0200 2012
+Upload Date  : Mon Jul 2 04:29:24 GMT+0200 2012
+Geotag Info  : Latitude:39.972647, Longitude:-75.196180
+Views        : 80
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger (Panthera tigris)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Philadelphia Zoo
+June 30, 2012
+
+
++--------+
+|  TAGS  |
++--------+
+"Philadelphia Zoo" zoo 

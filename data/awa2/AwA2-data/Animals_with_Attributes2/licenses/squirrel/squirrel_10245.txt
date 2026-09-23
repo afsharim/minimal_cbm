@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Marie Hale
+Photo URL    : https://www.flickr.com/photos/15016964@N02/7995432594/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Sep 11 12:26:35 GMT+0200 2012
+Upload Date  : Mon Sep 17 11:46:10 GMT+0200 2012
+Views        : 182
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Grey squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Grey squirrel - taken at The Wolvesey Centre, Staffordshire on 11th September 2012
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel 

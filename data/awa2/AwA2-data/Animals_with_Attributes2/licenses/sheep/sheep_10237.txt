@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : variationblogr
+Photo URL    : https://www.flickr.com/photos/variationblogr/5649830088/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 24 13:30:08 GMT+0200 2011
+Upload Date  : Sun Apr 24 16:31:38 GMT+0200 2011
+Geotag Info  : Latitude:-33.843615, Longitude:151.070251
+Views        : 755
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Easter Show Sheep_6
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+sydney "olympic park" "easter show" animals sheep wool 

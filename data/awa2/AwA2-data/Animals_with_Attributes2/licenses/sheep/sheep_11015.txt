@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bernadette_c
+Photo URL    : https://www.flickr.com/photos/52328939@N02/5922718177/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 29 01:34:05 GMT+0200 2011
+Upload Date  : Sun Jul 10 21:16:15 GMT+0200 2011
+Views        : 46
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+PhotoContest-TNC11 

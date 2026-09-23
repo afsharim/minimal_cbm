@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ToastyKen
+Photo URL    : https://www.flickr.com/photos/toasty/4440506778/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 27 14:32:48 GMT+0100 2010
+Upload Date  : Wed Mar 17 09:45:37 GMT+0100 2010
+Views        : 120
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Otter!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"monterey bay aquarium" otter 

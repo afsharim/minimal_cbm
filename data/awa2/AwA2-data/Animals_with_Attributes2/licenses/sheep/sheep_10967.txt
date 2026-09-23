@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Martin Svedén
+Photo URL    : https://www.flickr.com/photos/martin-s/4544745439/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Apr 21 17:36:02 GMT+0200 2010
+Upload Date  : Fri Apr 23 09:24:45 GMT+0200 2010
+Views        : 41
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

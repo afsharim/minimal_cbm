@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : nick farnhill
+Photo URL    : https://www.flickr.com/photos/nickfarnhill/416432389/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 10 14:12:36 GMT+0100 2007
+Upload Date  : Sat Mar 10 15:34:19 GMT+0100 2007
+Views        : 120
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+elephant scratch
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"south africa" "timbavati. elephant" 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : yosser
+Photo URL    : https://www.flickr.com/photos/yosser/2719832564/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 3 10:58:41 GMT+0100 2008
+Upload Date  : Thu Jul 31 15:21:21 GMT+0200 2008
+Views        : 123
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bleak sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+sheep yorkshire 

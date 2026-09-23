@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Dulup
+Photo URL    : https://www.flickr.com/photos/duloup/926500067/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 28 10:49:58 GMT+0200 2007
+Upload Date  : Sat Jul 28 13:50:45 GMT+0200 2007
+Geotag Info  : Latitude:44.802788, Longitude:-0.699251
+Views        : 2,432
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra / Zèbre
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Zebra
+
+
++--------+
+|  TAGS  |
++--------+
+Zoo Pessac Zèbre Zebra 

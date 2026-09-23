@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Much Ramblings
+Photo URL    : https://www.flickr.com/photos/casamatita/4742034710/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 26 14:04:25 GMT+0200 2010
+Upload Date  : Mon Jun 28 12:11:55 GMT+0200 2010
+Geotag Info  : Latitude:57.893937, Longitude:-5.160655
+Views        : 88
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Seal at Ullapool
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

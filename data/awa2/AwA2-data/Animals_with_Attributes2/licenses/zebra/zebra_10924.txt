@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : silas216
+Photo URL    : https://www.flickr.com/photos/silas216/11630464854/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 29 13:32:22 GMT+0100 2013
+Upload Date  : Sun Dec 29 20:32:22 GMT+0100 2013
+Geotag Info  : Latitude:29.463065, Longitude:-98.472561
+Views        : 75
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"instagram app" square "square format" iphoneography uploaded:by=instagram foursquare:venue=4ad4bffff964a52026eb20e3 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : BoforsGun
+Photo URL    : https://www.flickr.com/photos/boforsgun/15351383810/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 12 12:33:50 GMT+0200 2014
+Upload Date  : Tue Oct 14 21:22:10 GMT+0200 2014
+Views        : 49
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_1509
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Squirrel Greenwich Park
+
+
++--------+
+|  TAGS  |
++--------+
+greenwich squirrel park london 

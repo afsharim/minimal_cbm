@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ramkrsna
+Photo URL    : https://www.flickr.com/photos/ramkrsna/232949190/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 13 19:44:48 GMT+0200 2006
+Upload Date  : Sun Sep 3 20:17:27 GMT+0200 2006
+Views        : 154
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Persian Cat ::
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

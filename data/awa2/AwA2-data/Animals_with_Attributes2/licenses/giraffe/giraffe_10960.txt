@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Leonid Mamchenkov
+Photo URL    : https://www.flickr.com/photos/mamchenkov/2857073553/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 14 15:33:41 GMT+0200 2008
+Upload Date  : Mon Sep 15 01:02:38 GMT+0200 2008
+Geotag Info  : Latitude:34.788853, Longitude:32.405805
+Views        : 69
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+img_9330
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+nature animals zoo giraffes 

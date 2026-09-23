@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : foilman
+Photo URL    : https://www.flickr.com/photos/foilman/2692122631/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Apr 6 15:28:56 GMT+0200 2005
+Upload Date  : Tue Jul 22 16:30:33 GMT+0200 2008
+Views        : 616
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horse-Drawn Carriage
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Horse-drawn carriage in the streets of Prague
+
+
++--------+
+|  TAGS  |
++--------+
+prague horse 

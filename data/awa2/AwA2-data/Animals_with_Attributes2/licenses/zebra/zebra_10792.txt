@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bobosh_t
+Photo URL    : https://www.flickr.com/photos/frted/4100626221/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Nov 12 18:31:26 GMT+0100 2008
+Upload Date  : Fri Nov 13 20:18:29 GMT+0100 2009
+Views        : 335
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Cincinnati Zoo" Zebra Cincinnati Zoo 

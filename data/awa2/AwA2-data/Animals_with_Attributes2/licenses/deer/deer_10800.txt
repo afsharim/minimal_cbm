@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : fran.trudeau
+Photo URL    : https://www.flickr.com/photos/papa-t/5348840483/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jan 12 09:12:45 GMT+0100 2011
+Upload Date  : Wed Jan 12 16:49:56 GMT+0100 2011
+Views        : 61
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC02227
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Deer 

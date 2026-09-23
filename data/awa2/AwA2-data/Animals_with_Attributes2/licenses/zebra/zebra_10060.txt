@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Valerie Everett
+Photo URL    : https://www.flickr.com/photos/valeriebb/295868913/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 12 13:32:09 GMT+0100 2006
+Upload Date  : Mon Nov 13 01:08:47 GMT+0100 2006
+Views        : 255
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Another munching zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zebra black white stripes grass indy zoo 

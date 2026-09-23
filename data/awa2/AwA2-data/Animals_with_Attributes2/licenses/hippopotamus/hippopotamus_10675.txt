@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : berniedup
+Photo URL    : https://www.flickr.com/photos/berniedup/11531571703/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Nov 27 14:36:53 GMT+0100 2013
+Upload Date  : Tue Dec 24 15:14:18 GMT+0100 2013
+Geotag Info  : Latitude:-25.119758, Longitude:31.918458
+Views        : 401
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Young Hippo (Hippopotamus amphibius)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Lower Sabie Camp, Kruger NP, SOUTH AFRICA
+
+
++--------+
+|  TAGS  |
++--------+
+"Hippopotamus amphibius" "taxonomy:binomial=Hippopotamus amphibius" 

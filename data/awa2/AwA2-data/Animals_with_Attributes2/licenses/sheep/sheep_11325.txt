@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : nzgabriel
+Photo URL    : https://www.flickr.com/photos/nzgabriel/2917934202/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 14 12:16:26 GMT+0200 2008
+Upload Date  : Mon Oct 6 06:57:33 GMT+0200 2008
+Views        : 1,535
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Trio of sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Three sheep in a row walking away.
+
+Photograph somewhere in Canterbury, New Zealand.
+
+
++--------+
+|  TAGS  |
++--------+
+sheep trio row field canterbury "new zealand" 

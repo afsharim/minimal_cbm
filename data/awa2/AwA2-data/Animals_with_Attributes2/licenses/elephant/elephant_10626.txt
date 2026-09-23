@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : -JvL-
+Photo URL    : https://www.flickr.com/photos/-jvl-/15410605515/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 21 12:31:35 GMT+0200 2014
+Upload Date  : Wed Oct 1 15:11:18 GMT+0200 2014
+Geotag Info  : Latitude:51.520813, Longitude:5.111733
+Views        : 1,126
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+One of the elephants in Safari park Beekse Bergen
+
+
++--------+
+|  TAGS  |
++--------+
+"Beekse Bergen" Elephant Olifant "Safari Park" Hilvarenbeek Noord-Brabant Nederland 

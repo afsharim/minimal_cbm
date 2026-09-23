@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : romano.nicola1980
+Photo URL    : https://www.flickr.com/photos/nicolaromano/16073664055/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Dec 28 21:02:05 GMT+0100 2006
+Upload Date  : Sun Dec 21 21:05:34 GMT+0100 2014
+Geotag Info  : Latitude:-42.424090, Longitude:173.781051
+Views        : 172
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Whales
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Two sperm whales, shot in Kaikoura, NZ
+
+
++--------+
+|  TAGS  |
++--------+
+animals mammals 

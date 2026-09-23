@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : texas_mustang
+Photo URL    : https://www.flickr.com/photos/astros/3244717129/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 25 10:39:52 GMT+0100 2009
+Upload Date  : Sun Feb 1 22:30:14 GMT+0100 2009
+Views        : 235
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Spring Creek Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel 

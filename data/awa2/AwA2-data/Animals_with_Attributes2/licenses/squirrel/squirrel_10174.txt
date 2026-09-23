@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/16092220116/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 17 11:29:28 GMT+0200 2014
+Upload Date  : Sat Dec 27 11:00:12 GMT+0100 2014
+Geotag Info  : Latitude:46.785265, Longitude:9.677066
+Views        : 6,601
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Eating squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A squirrel peacefully eating the nuts we gave him...
+
+
++--------+
+|  TAGS  |
++--------+
+eating nuts food profile wood branch root tree forest cute wild rodent squirrel arosa switzerland nikon d4 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jonathan_moreau
+Photo URL    : https://www.flickr.com/photos/jonathan_moreau/558654422/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 16 10:53:31 GMT+0200 2007
+Upload Date  : Sun Jun 17 05:10:16 GMT+0200 2007
+Geotag Info  : Latitude:41.226748, Longitude:-95.926694
+Views        : 281
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A sign near this tiger said that it had to have its leg amputated (at another zoo) because of an injury. But apparently it has mothered some young since it has been at the Omaha Zoo.
+
+
++--------+
+|  TAGS  |
++--------+
+omaha zoo "henry doorly" tiger three legs 

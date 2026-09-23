@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : donjd2
+Photo URL    : https://www.flickr.com/photos/ddebold/2080000326/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Dec 1 10:38:20 GMT+0100 2007
+Upload Date  : Sun Dec 2 06:00:41 GMT+0100 2007
+Geotag Info  : Latitude:37.206008, Longitude:-121.820869
+Views        : 1,586
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Calero Creek Trail Bobcat
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Scene from Calero Creek Trail
+
+
++--------+
+|  TAGS  |
++--------+
+bobcat "calero creek trail" USA CA "San Jose" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : andrewmalone
+Photo URL    : https://www.flickr.com/photos/andrewmalone/3568335282/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Apr 17 15:00:37 GMT+0200 2009
+Upload Date  : Tue May 26 23:55:35 GMT+0200 2009
+Geotag Info  : Latitude:38.930516, Longitude:-77.050609
+Views        : 133
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hippo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+In the Washington Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+animal hippo zoo Arlington Virginia 

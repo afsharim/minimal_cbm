@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Lukoi
+Photo URL    : https://www.flickr.com/photos/mehgrapher/5649666172/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 24 12:10:52 GMT+0200 2011
+Upload Date  : Sun Apr 24 15:34:16 GMT+0200 2011
+Views        : 439
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Moo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+cows animals landscapes photography 

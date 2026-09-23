@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : D-Stanley
+Photo URL    : https://www.flickr.com/photos/davidstanleytravel/15365020304/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 26 05:42:19 GMT+0100 2014
+Upload Date  : Wed Dec 10 02:32:38 GMT+0100 2014
+Geotag Info  : Latitude:-54.013205, Longitude:-37.690488
+Views        : 6,111
+Comments     : 6
+
+
++---------+
+|  TITLE  |
++---------+
+Antarctic Fur Seal
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The Antarctic fur seal is quite agile on land due to its ability to rotate its rear flippers forward. This example at Right Whale Bay on South Georgia Island is moulting.
+
+
++--------+
+|  TAGS  |
++--------+
+Antarctic fur seal "Right Whale Bay" "South Georgia" island 

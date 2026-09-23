@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : nagillum
+Photo URL    : https://www.flickr.com/photos/nagillum/1172605261/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 13 18:08:08 GMT+0200 2007
+Upload Date  : Sun Aug 19 20:07:16 GMT+0200 2007
+Views        : 2,870
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Bear and stick
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+8349 Grizzly bear in compound atop Grouse mountain, Vancouver.
+
+
++--------+
+|  TAGS  |
++--------+
+Grizzly bear grousemountain vancouver nagillum 

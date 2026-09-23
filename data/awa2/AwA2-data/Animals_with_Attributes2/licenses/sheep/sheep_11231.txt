@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : dphiffer
+Photo URL    : https://www.flickr.com/photos/dphiffer/3468161400/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Apr 16 08:02:22 GMT+0200 2009
+Upload Date  : Thu Apr 23 12:02:30 GMT+0200 2009
+Views        : 585
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheeps
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+You can listen to them munching here: <a href="http://blog.phiffer.org/post/99236520" rel="nofollow">blog.phiffer.org/post/99236520</a>
+
+
++--------+
+|  TAGS  |
++--------+
+sheep dutch groningen "nom nom nom" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Kevin Burkett
+Photo URL    : https://www.flickr.com/photos/kevinwburkett/2933227894/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 11 16:34:11 GMT+0200 2008
+Upload Date  : Sun Oct 12 03:05:08 GMT+0200 2008
+Geotag Info  : Latitude:39.972055, Longitude:-75.195794
+Views        : 127
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebras
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The Philadelphia Zoo, Saturday, Oct. 11, 2008
+
+
++--------+
+|  TAGS  |
++--------+
+nature philadelphia pennsylvania zoo animals 

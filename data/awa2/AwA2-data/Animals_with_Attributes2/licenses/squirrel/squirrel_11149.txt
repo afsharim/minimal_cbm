@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : gagilas
+Photo URL    : https://www.flickr.com/photos/gagilas/1564702470/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Dec 11 11:16:30 GMT+0100 2008
+Upload Date  : Sun Oct 14 03:53:41 GMT+0200 2007
+Geotag Info  : Latitude:51.502271, Longitude:-0.133606
+Views        : 76
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel gagilas 

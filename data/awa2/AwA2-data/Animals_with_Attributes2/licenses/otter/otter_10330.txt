@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : a m lewis
+Photo URL    : https://www.flickr.com/photos/a-m-lewis/4961502135/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 4 14:05:52 GMT+0200 2010
+Upload Date  : Mon Sep 6 01:37:27 GMT+0200 2010
+Geotag Info  : Latitude:38.929018, Longitude:-77.050595
+Views        : 45
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Seeing if the coast is clear
+
+
++--------+
+|  TAGS  |
++--------+
+zoo "national zoo" "washington dc" animals otter 

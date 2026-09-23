@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Peter G Trimming
+Photo URL    : https://www.flickr.com/photos/peter-trimming/5472291444/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Feb 22 13:15:10 GMT+0100 2011
+Upload Date  : Wed Feb 23 22:56:24 GMT+0100 2011
+Views        : 1,434
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+American Mink
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Seen at the British Wildlife Centre, Newchapel, Surrey.
+
+
++--------+
+|  TAGS  |
++--------+
+British Wildlife Centre American Mink Mustela vison Peter Trimming 

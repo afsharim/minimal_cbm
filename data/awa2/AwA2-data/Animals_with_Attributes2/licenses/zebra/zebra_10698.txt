@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Skrewtape
+Photo URL    : https://www.flickr.com/photos/skrewtape/852691820/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Mar 1 00:00:00 GMT+0100 2006
+Upload Date  : Thu Jul 19 17:56:58 GMT+0200 2007
+Geotag Info  : Latitude:45.508808, Longitude:-122.716247
+Views        : 1,837
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This is a zebra.
+
+
++--------+
+|  TAGS  |
++--------+
+Portland Zoo Zebra 

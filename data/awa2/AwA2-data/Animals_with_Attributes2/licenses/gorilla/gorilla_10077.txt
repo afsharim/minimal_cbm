@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Eric Kilby
+Photo URL    : https://www.flickr.com/photos/ekilby/17958935669/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri May 22 15:32:33 GMT+0200 2015
+Upload Date  : Wed May 27 05:02:29 GMT+0200 2015
+Geotag Info  : Latitude:42.305369, Longitude:-71.089098
+Views        : 1,212
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Big Gorilla Doing a Pose
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+franklin park zoo primate ape gorilla western lowland male pose 

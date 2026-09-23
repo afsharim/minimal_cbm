@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : electrobrainpdx
+Photo URL    : https://www.flickr.com/photos/electrobrain/5238635705/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Nov 3 23:52:05 GMT+0100 2010
+Upload Date  : Mon Dec 6 21:49:12 GMT+0100 2010
+Views        : 303
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+tiger, my friend
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+tiger 

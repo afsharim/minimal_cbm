@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : GIPE25
+Photo URL    : https://www.flickr.com/photos/gipe25/2799203552/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 24 14:51:51 GMT+0200 2008
+Upload Date  : Tue Aug 26 07:11:13 GMT+0200 2008
+Geotag Info  : Latitude:47.229003, Longitude:6.034884
+Views        : 940
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+BESANCON: Un tigre de sibérie de la citadelle.
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+besancon besançon franche-comté france fr citadelle tigre mammifère Panthera tigris 

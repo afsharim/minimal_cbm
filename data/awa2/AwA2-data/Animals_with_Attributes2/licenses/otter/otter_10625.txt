@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : KimonBerlin
+Photo URL    : https://www.flickr.com/photos/kimon/5262932852/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Nov 22 17:41:11 GMT+0100 2010
+Upload Date  : Wed Dec 15 06:37:04 GMT+0100 2010
+Geotag Info  : Latitude:34.655277, Longitude:135.428333
+Views        : 452
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sea Otter (Aleutian islands)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Enhydra lutris
+
+
++--------+
+|  TAGS  |
++--------+
+osaka aquarium kaiyukan 

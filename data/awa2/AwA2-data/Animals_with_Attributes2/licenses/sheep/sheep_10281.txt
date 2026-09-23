@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Edgar Zuniga Jr.
+Photo URL    : https://www.flickr.com/photos/edgarzuniga/3618437785/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 12 02:07:22 GMT+0200 2009
+Upload Date  : Fri Jun 12 11:07:22 GMT+0200 2009
+Views        : 91
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+German Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Schleswig-Holsteinisches Freilichtsmuseum
+Molfsee near Kiel in Schleswig-Holstein, Germany
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

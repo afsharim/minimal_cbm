@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Groucho M
+Photo URL    : https://commons.wikimedia.org/wiki/File:Bevers.jpg
+License      : public domain
+Date         : 2005-10-09

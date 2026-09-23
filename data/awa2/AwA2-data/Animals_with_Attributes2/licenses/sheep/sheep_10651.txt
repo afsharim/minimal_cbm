@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : DaveCrosby
+Photo URL    : https://www.flickr.com/photos/wikidave/4328276488/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jan 1 00:03:52 GMT+0100 2009
+Upload Date  : Wed Feb 3 17:54:48 GMT+0100 2010
+Geotag Info  : Latitude:52.654869, Longitude:-0.674681
+Views        : 499
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep - No Bumping
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+sheep "rutland water" "upper hambleton" 

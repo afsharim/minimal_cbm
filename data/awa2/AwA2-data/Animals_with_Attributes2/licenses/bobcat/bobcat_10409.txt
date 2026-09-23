@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MrGuilt
+Photo URL    : https://www.flickr.com/photos/bontempscharly/5108499425/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 23 14:59:23 GMT+0200 2010
+Upload Date  : Sun Oct 24 02:16:53 GMT+0200 2010
+Views        : 291
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+His Friends Call Him "Robert"
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A bobcat
+
+
++--------+
+|  TAGS  |
++--------+
+"Cincinnati Zoo" 

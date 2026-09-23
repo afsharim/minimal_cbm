@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : borkur.net
+Photo URL    : https://www.flickr.com/photos/borkurdotnet/2078095833/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Apr 1 00:00:00 GMT+0200 2004
+Upload Date  : Sat Dec 1 20:52:19 GMT+0100 2007
+Geotag Info  : Latitude:50.189078, Longitude:4.833555
+Views        : 4,326
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+I think it is a cow rather than a bull ... it is quite fortunate that I am not in the milking business
+
+
++--------+
+|  TAGS  |
++--------+
+"canon eos 500" film cows Namur Ardennes Belgium 

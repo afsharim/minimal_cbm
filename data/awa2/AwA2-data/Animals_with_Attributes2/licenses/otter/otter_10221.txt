@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Eric Kilby
+Photo URL    : https://www.flickr.com/photos/ekilby/4144792857/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 29 15:33:07 GMT+0100 2009
+Upload Date  : Mon Nov 30 00:48:56 GMT+0100 2009
+Geotag Info  : Latitude:42.462773, Longitude:-71.093666
+Views        : 360
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Otter Heads
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+stone zoo otter nest heads closeup 

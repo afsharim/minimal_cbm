@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : berniedup
+Photo URL    : https://www.flickr.com/photos/berniedup/6861592975/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Sep 16 12:31:02 GMT+0200 2008
+Upload Date  : Sun Feb 12 11:08:30 GMT+0100 2012
+Geotag Info  : Latitude:2.275288, Longitude:31.606979
+Views        : 738
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hippo (Hippopotamus amphibius)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Murchison's Falls NP, UGANDA
+
+
++--------+
+|  TAGS  |
++--------+
+"Hippopotamus amphibius" "taxonomy:binomial=Hippopotamus amphibius" 

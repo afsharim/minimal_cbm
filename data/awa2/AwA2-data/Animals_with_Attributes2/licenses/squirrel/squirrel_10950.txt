@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bruceruston
+Photo URL    : https://www.flickr.com/photos/brucerustonphotos/8691360981/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 27 08:44:10 GMT+0200 2013
+Upload Date  : Sat Apr 27 17:44:10 GMT+0200 2013
+Geotag Info  : Latitude:52.309600, Longitude:-4.000500
+Views        : 56
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel "Ynys Hir Nature Reserve" 

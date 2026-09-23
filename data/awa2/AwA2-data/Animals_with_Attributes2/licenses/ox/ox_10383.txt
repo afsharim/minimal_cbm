@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : wortseglerin
+Photo URL    : https://www.flickr.com/photos/wortseglerin/3471262748/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Apr 24 13:27:18 GMT+0200 2009
+Upload Date  : Fri Apr 24 17:33:51 GMT+0200 2009
+Views        : 18
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_6714
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

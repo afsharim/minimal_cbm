@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : david.orban
+Photo URL    : https://www.flickr.com/photos/davidorban/2882381886/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Sep 23 14:49:11 GMT+0200 2008
+Upload Date  : Tue Sep 23 15:32:53 GMT+0200 2008
+Views        : 10
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : amitp
+Photo URL    : https://www.flickr.com/photos/amitp/6564910801/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Dec 16 15:27:34 GMT+0100 2011
+Upload Date  : Sat Dec 24 18:19:23 GMT+0100 2011
+Views        : 554
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Piedras Blancas Elephant Seals
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"elephant seal" creatures 

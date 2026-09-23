@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bruceruston
+Photo URL    : https://www.flickr.com/photos/brucerustonphotos/9164920503/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 29 11:40:47 GMT+0200 2013
+Upload Date  : Sat Jun 29 20:40:47 GMT+0200 2013
+Geotag Info  : Latitude:52.409839, Longitude:-4.070499
+Views        : 125
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep resting in the shade
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+sheep nature animal 2013 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Barcex
+Photo URL    : https://www.flickr.com/photos/barcex/9041722999/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 17 17:27:18 GMT+0100 2013
+Upload Date  : Fri Jun 14 19:15:18 GMT+0200 2013
+Views        : 276
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zoo de América - Hipopótamo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Hipopótamo (hippopotamus amphibius) en el Zoológico de América, provincia de Buenos Aires, Argentina.
+
+
++--------+
+|  TAGS  |
++--------+
+América animals hipopótamo "hippopotamus amphibius" zoo 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sussexbirder
+Photo URL    : https://www.flickr.com/photos/sussexbirder/8610456006/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 11 10:28:14 GMT+0200 2002
+Upload Date  : Mon Apr 1 17:18:33 GMT+0200 2013
+Views        : 110
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hippopotamus (Hippopotamus amphibius)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Murcheson Falls National Park
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

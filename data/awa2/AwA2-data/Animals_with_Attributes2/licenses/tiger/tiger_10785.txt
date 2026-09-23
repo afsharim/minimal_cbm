@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tom Simpson
+Photo URL    : https://www.flickr.com/photos/randar/19925202409/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 26 10:57:28 GMT+0200 2015
+Upload Date  : Wed Jul 29 13:15:16 GMT+0200 2015
+Views        : 179
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+tiger "new jersey" nj 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : V31S70
+Photo URL    : https://www.flickr.com/photos/veisto/468770285/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 22 14:57:33 GMT+0200 2007
+Upload Date  : Sun Apr 22 21:22:41 GMT+0200 2007
+Geotag Info  : Latitude:60.169028, Longitude:24.919218
+Views        : 67
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Watch My Back
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Helsinki squirrel 

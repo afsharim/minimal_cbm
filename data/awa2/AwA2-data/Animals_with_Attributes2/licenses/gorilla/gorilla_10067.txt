@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : tburling
+Photo URL    : https://www.flickr.com/photos/tburling/8712673884/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 5 14:05:25 GMT+0200 2013
+Upload Date  : Mon May 6 02:45:48 GMT+0200 2013
+Geotag Info  : Latitude:42.304550, Longitude:-71.089353
+Views        : 493
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Baby Gorilla
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Franklin Park Zoo, Boston, MA
+
+
++--------+
+|  TAGS  |
++--------+
+Boston Massachusetts "United States" D800 "70-200 2.8" "Franklin Park Zoo" Zoo Meetup.com "RI Photo Safari" "Baby Gorilla" Gorilla 

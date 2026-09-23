@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : charlesharvey
+Photo URL    : https://www.flickr.com/photos/charlesharvey/6488037785/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Dec 10 15:42:12 GMT+0100 2011
+Upload Date  : Sat Dec 10 19:52:19 GMT+0100 2011
+Geotag Info  : Latitude:51.525897, Longitude:-0.157477
+Views        : 68
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Squirrel "Regents Park" 

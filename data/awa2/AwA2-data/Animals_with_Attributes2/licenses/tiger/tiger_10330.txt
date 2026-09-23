@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : 3Easy
+Photo URL    : https://www.flickr.com/photos/3easy/2080586568/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Nov 13 08:42:14 GMT+0100 2007
+Upload Date  : Sun Dec 2 12:19:51 GMT+0100 2007
+Geotag Info  : Latitude:-26.879358, Longitude:152.963247
+Views        : 223
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger Cub
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"australia zoo" tiger cub 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Sarah_Jones
+Photo URL    : https://www.flickr.com/photos/sarahakabmg/5240419791/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Dec 6 00:42:15 GMT+0100 2010
+Upload Date  : Tue Dec 7 12:53:42 GMT+0100 2010
+Views        : 475
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Inez and Prudence 2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Rats 

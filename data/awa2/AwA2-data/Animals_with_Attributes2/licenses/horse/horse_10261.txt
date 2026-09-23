@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sk8geek
+Photo URL    : https://www.flickr.com/photos/sk8geek/7173080305/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri May 18 11:30:46 GMT+0200 2012
+Upload Date  : Sun Jun 10 19:07:28 GMT+0200 2012
+Views        : 427
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_0805
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horse 

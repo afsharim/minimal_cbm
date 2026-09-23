@@ -1,0 +1,13 @@
++--------------------------------------+
+|             Photo Metadata           |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : photographer1969
+Photo URL    : http://photographer1969.deviantart.com/art/bat-90886339
+License      : Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 License (https://creativecommons.org/licenses/by-nc-nd/3.0/)
+Date         : July 6, 2008

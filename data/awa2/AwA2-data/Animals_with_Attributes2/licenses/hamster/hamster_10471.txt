@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : PretendSky
+Photo URL    : https://www.flickr.com/photos/115521320@N03/12147435084/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Mar 11 17:25:36 GMT+0100 2011
+Upload Date  : Sun Jan 26 08:23:57 GMT+0100 2014
+Views        : 36
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Milo my hamster
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Sleeping in his corner
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

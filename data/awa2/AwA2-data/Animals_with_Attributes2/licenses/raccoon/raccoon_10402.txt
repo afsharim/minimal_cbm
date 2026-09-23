@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : smilygrl
+Photo URL    : https://www.flickr.com/photos/smilygrl/19014694074/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 14 13:16:25 GMT+0200 2014
+Upload Date  : Sun Jul 12 19:27:56 GMT+0200 2015
+Geotag Info  : Latitude:49.301430, Longitude:-123.137009
+Views        : 70
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Racoons in the Park
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+birthday raccoons "Stanley Park" 

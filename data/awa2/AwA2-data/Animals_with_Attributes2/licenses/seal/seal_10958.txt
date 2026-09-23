@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jlachoff
+Photo URL    : https://www.flickr.com/photos/jlachoff/3851356602/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 22 16:11:41 GMT+0200 2009
+Upload Date  : Mon Aug 24 05:50:25 GMT+0200 2009
+Geotag Info  : Latitude:35.780628, Longitude:-121.329628
+Views        : 37
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Visiting the elephant seals
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

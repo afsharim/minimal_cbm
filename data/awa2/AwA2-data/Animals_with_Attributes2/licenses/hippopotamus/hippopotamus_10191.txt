@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ruth and Dave
+Photo URL    : https://www.flickr.com/photos/ruthanddave/53088553/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 16 15:15:38 GMT+0200 2005
+Upload Date  : Sun Oct 16 21:34:33 GMT+0200 2005
+Geotag Info  : Latitude:51.853488, Longitude:-0.546398
+Views        : 606
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hippo yawns
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"common hippos" hippos hippopotamus whipsnade zoos yawn yawning 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : krpamayii
+Photo URL    : https://www.flickr.com/photos/75555969@N00/3931042191/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 29 10:35:26 GMT+0200 2009
+Upload Date  : Fri Sep 18 16:58:53 GMT+0200 2009
+Views        : 15
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheeps
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

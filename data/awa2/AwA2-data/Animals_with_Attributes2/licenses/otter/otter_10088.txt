@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Meredith Leigh Collins
+Photo URL    : https://www.flickr.com/photos/mlcollins/2571300893/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 25 13:06:57 GMT+0200 2008
+Upload Date  : Thu Jun 12 04:16:08 GMT+0200 2008
+Views        : 40
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+follow the otter leader
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

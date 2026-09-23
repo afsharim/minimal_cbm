@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mike's Birds
+Photo URL    : https://www.flickr.com/photos/pazzani/20403495182/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Aug 5 16:08:50 GMT+0200 2015
+Upload Date  : Sun Aug 9 01:46:02 GMT+0200 2015
+Geotag Info  : Latitude:60.398409, Longitude:-153.017594
+Views        : 176
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Brown Bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

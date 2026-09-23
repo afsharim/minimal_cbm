@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ztij0
+Photo URL    : https://www.flickr.com/photos/ztij0/3468734742/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 11 13:41:43 GMT+0200 2009
+Upload Date  : Thu Apr 23 17:41:12 GMT+0200 2009
+Geotag Info  : Latitude:12.305120, Longitude:76.644607
+Views        : 747
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+African Elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+elephant mammal "mysore zoo" zoo 

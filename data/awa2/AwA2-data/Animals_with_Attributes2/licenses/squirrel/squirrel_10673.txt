@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ajmexico
+Photo URL    : https://www.flickr.com/photos/ajmexico/1681038922/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Apr 14 16:32:00 GMT+0200 2006
+Upload Date  : Mon Oct 22 02:24:32 GMT+0200 2007
+Views        : 267
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Taken from some distance away through an Astro Scan Telescope with Canon PowerShot S30.
+
+
++--------+
+|  TAGS  |
++--------+
+animal squirrel astroscan wildlife Varmit telescope 

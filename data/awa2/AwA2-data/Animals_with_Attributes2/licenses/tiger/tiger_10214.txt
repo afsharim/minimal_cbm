@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Oceancetaceen
+Photo URL    : https://www.flickr.com/photos/oceancetaceen/7672888780/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jan 2 20:39:13 GMT+0100 2003
+Upload Date  : Mon Jul 30 02:59:13 GMT+0200 2012
+Geotag Info  : Latitude:51.437517, Longitude:6.808819
+Views        : 42
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sibirischer Tiger (Panthera tigris altaica)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

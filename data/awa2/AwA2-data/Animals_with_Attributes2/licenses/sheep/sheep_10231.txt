@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : nothingatall
+Photo URL    : https://www.flickr.com/photos/nothingatall/4515612336/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Apr 12 18:32:55 GMT+0200 2010
+Upload Date  : Mon Apr 12 20:42:21 GMT+0200 2010
+Geotag Info  : Latitude:53.543520, Longitude:-1.993460
+Views        : 217
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+DSCF8627
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+sheep animals lambs 

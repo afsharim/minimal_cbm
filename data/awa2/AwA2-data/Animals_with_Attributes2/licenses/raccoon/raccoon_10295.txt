@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : HerrVorragend / Dude
+Photo URL    : https://www.flickr.com/photos/14681132@N06/5191225659/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Nov 1 14:11:50 GMT+0100 2010
+Upload Date  : Sat Nov 20 11:09:10 GMT+0100 2010
+Views        : 537
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+RACCOON
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+RaCCOon 

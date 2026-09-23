@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ram-Man
+Photo URL    : https://commons.wikimedia.org/wiki/File:Denali_National_Park_Female_Moose_3000px.jpg
+License      : Creative Commons (//en.wikipedia.org/wiki/en:Creative_Commons) Attribution-Share Alike 2.5 Generic (//creativecommons.org/licenses/by-sa/2.5/deed.en)
+Date         : Original picture taken on Tuesday, August 23, 2005. Modified image created on November 22, 2006.

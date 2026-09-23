@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : raybdbomb
+Photo URL    : https://www.flickr.com/photos/raybdbomb/1487987068/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Oct 4 21:20:13 GMT+0200 2007
+Upload Date  : Fri Oct 5 06:52:30 GMT+0200 2007
+Geotag Info  : Latitude:45.671343, Longitude:-122.596435
+Views        : 239
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_0100
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Daisy posing for the camera
+
+
++--------+
+|  TAGS  |
++--------+
+chihuahua closeup cute dog 

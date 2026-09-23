@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Rick Hobson
+Photo URL    : https://www.flickr.com/photos/rickhobson/6538518085/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 12 12:20:49 GMT+0200 2001
+Upload Date  : Mon Dec 19 17:50:08 GMT+0100 2011
+Views        : 91
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger Portrait
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A tiger at the Boise Zoo.
+
+Taken with a Sony Mavica CD300 camera in 2001.
+
+
++--------+
+|  TAGS  |
++--------+
+tiger cat wildlife zoo 

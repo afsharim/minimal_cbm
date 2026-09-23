@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : USFWS Headquarters
+Photo URL    : https://www.flickr.com/photos/usfwshq/6461814759/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 2 03:11:09 GMT+0100 2008
+Upload Date  : Mon Dec 5 21:42:42 GMT+0100 2011
+Views        : 419
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Young Mountain Gorilla
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Credit: Dirck Byler/USFWS
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

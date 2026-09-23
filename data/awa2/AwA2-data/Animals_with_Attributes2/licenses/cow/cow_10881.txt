@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ~Shanth
+Photo URL    : https://www.flickr.com/photos/tengen/4024633033/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Sep 2 07:23:33 GMT+0200 2009
+Upload Date  : Mon Oct 19 07:52:54 GMT+0200 2009
+Geotag Info  : Latitude:11.023554, Longitude:77.019653
+Views        : 313
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+How now brown cow?
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+cow brown 

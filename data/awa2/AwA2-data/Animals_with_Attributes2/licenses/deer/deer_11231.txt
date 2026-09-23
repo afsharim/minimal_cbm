@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ahisgett
+Photo URL    : https://www.flickr.com/photos/hisgett/6022037771/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 7 17:30:35 GMT+0200 2011
+Upload Date  : Mon Aug 8 18:29:13 GMT+0200 2011
+Geotag Info  : Latitude:51.993548, Longitude:-1.734788
+Views        : 1,540
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Stags
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Red Deer Stag 

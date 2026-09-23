@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Brocken Inaglory
+Photo URL    : https://commons.wikimedia.org/wiki/File:A_mother_and_a_cub_bears.JPG
+License      : Creative Commons (https://en.wikipedia.org/wiki/en:Creative_Commons) 3.0 Unported (//creativecommons.org/licenses/by-sa/3.0/deed.en)
+Date         : 1998-07

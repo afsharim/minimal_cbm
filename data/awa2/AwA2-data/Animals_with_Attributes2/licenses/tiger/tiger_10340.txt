@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : brian.gratwicke
+Photo URL    : https://www.flickr.com/photos/briangratwicke/3594309111/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Dec 16 04:07:09 GMT+0100 2009
+Upload Date  : Thu Jun 4 12:44:36 GMT+0200 2009
+Views        : 1,758
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger eyes
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+India June 2009 Panthera tigris tiger "taxonomy:binomial=Panthera tigris" 

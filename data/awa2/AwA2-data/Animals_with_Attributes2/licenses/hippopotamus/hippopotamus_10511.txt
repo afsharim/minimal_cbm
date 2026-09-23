@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : channone
+Photo URL    : https://www.flickr.com/photos/channone/19816039266/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 19 11:15:18 GMT+0200 2015
+Upload Date  : Mon Jul 20 02:05:03 GMT+0200 2015
+Views        : 121
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_9322
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Los Angeles Zoo  - Baby Hippopotamus - Rosie
+
+
++--------+
+|  TAGS  |
++--------+
+"Canon EF 400mm f/5.6L" 

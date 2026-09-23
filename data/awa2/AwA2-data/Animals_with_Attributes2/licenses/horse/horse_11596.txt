@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Lil Shepherd
+Photo URL    : https://www.flickr.com/photos/lilshepherd/3675557680/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 27 12:02:27 GMT+0200 2009
+Upload Date  : Tue Jun 30 16:48:18 GMT+0200 2009
+Geotag Info  : Latitude:51.746658, Longitude:0.060903
+Views        : 1,318
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+White-faced black cob
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horses 

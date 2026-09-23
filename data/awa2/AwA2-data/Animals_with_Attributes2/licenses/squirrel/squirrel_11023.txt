@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tim Spouge
+Photo URL    : https://www.flickr.com/photos/98714794@N08/15689212014/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 18 15:49:11 GMT+0100 2015
+Upload Date  : Sun Jan 18 21:14:40 GMT+0100 2015
+Views        : 252
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Nikon D610" "Nikon Nikkor 135mm F2 AF DC" Squirrel 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jo Reeve
+Photo URL    : https://www.flickr.com/photos/jo_garbutt/16101467645/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 21 11:34:56 GMT+0100 2014
+Upload Date  : Thu Dec 25 11:34:47 GMT+0100 2014
+Geotag Info  : Latitude:52.948316, Longitude:0.802345
+Views        : 110
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Fallow Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Taken in Holkham
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

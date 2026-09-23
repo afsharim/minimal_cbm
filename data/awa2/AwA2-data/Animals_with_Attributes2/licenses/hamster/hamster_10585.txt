@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Danny Nicholson
+Photo URL    : https://www.flickr.com/photos/dannynic/3312683196/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Oct 31 19:17:23 GMT+0100 2008
+Upload Date  : Thu Feb 26 23:15:34 GMT+0100 2009
+Views        : 36
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Ruby
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+hamster hammy pet 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Stephen Fulljames
+Photo URL    : https://www.flickr.com/photos/emptyjames/3416177300/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 5 11:35:48 GMT+0200 2009
+Upload Date  : Mon Apr 6 00:13:17 GMT+0200 2009
+Geotag Info  : Latitude:51.141878, Longitude:-0.970230
+Views        : 160
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Emo horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+alton hampshire horses 

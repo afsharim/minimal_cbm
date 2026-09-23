@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : eDomo G.Services
+Photo URL    : https://www.flickr.com/photos/edomo/6943938718/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 29 12:48:24 GMT+0200 2006
+Upload Date  : Wed Apr 18 12:13:53 GMT+0200 2012
+Views        : 29
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Killer Whale watching from Tarifa
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

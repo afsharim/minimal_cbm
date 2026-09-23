@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : foilman
+Photo URL    : https://www.flickr.com/photos/foilman/2850265649/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 1 00:00:00 GMT+0200 1999
+Upload Date  : Fri Sep 12 16:46:20 GMT+0200 2008
+Geotag Info  : Latitude:45.564439, Longitude:-78.551120
+Views        : 317
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Moose On The Loose
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+moose canada ontario road 

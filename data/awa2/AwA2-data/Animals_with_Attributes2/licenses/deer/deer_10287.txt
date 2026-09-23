@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : BoHeMlo
+Photo URL    : https://www.flickr.com/photos/bohemlo/5630980111/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 17 11:39:52 GMT+0200 2011
+Upload Date  : Mon Apr 18 16:42:39 GMT+0200 2011
+Views        : 513
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer park
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Deers 

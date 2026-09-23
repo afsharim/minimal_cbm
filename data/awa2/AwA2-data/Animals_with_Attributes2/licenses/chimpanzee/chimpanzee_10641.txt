@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/3589795245/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 10 16:48:46 GMT+0200 2009
+Upload Date  : Tue Jun 2 23:55:53 GMT+0200 2009
+Geotag Info  : Latitude:47.420073, Longitude:9.285378
+Views        : 7,648
+Comments     : 38
+
+
++---------+
+|  TITLE  |
++---------+
+The earth tastes good!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A young chimpanzee walks with a piece of soil from the floor and tastes a bit of it.
+
+Picture taken in the Walter Zoo in Switzerland
+
+
++--------+
+|  TAGS  |
++--------+
+chimp chimpanzee monkey young baby cute walking grass soil walter zoo gossau switzerland nikon d300 ape primate 

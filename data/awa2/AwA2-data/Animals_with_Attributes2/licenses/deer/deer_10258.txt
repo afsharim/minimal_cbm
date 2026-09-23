@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ian02054
+Photo URL    : https://www.flickr.com/photos/ian02054/12590948444/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 16 11:26:23 GMT+0100 2014
+Upload Date  : Mon Feb 17 16:12:13 GMT+0100 2014
+Geotag Info  : Latitude:42.807239, Longitude:-74.881138
+Views        : 273
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Deer in Snow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Nikon D90 deer Snow 

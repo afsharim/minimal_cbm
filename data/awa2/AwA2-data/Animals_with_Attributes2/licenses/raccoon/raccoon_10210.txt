@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bshamblen
+Photo URL    : https://www.flickr.com/photos/23972840@N04/4162270116/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Dec 3 20:11:06 GMT+0100 2009
+Upload Date  : Sun Dec 6 06:05:09 GMT+0100 2009
+Views        : 679
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Raccoon in our back yard.
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+raccoon 

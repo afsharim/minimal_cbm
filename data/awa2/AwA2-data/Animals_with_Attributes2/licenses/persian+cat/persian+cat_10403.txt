@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : kirichkov
+Photo URL    : https://www.flickr.com/photos/kirichkov/6988562528/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 28 19:50:21 GMT+0200 2012
+Upload Date  : Wed May 2 08:26:49 GMT+0200 2012
+Views        : 172
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Meaaaoow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+grass cat "persian cat" 

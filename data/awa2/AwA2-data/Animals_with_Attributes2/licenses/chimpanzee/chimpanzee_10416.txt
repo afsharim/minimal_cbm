@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : D.Hilgart
+Photo URL    : https://www.flickr.com/photos/david-hilgart/4142123388/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 28 16:48:59 GMT+0100 2009
+Upload Date  : Sat Nov 28 23:48:59 GMT+0100 2009
+Geotag Info  : Latitude:32.736642, Longitude:-117.151379
+Views        : 486
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deep In Thought
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A chimpanzee with eyes to the heavens, perhaps considers life outside the zoo. This was taken at Balboa Park's San Diego zoo in San Diego, CA.
+
+
++--------+
+|  TAGS  |
++--------+
+chimpanzee primate mammal animal ape thoughtful pensive "San Diego Zoo" "Balboa Park" "San Diego" 

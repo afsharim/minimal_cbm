@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Just chaos
+Photo URL    : https://www.flickr.com/photos/7326810@N08/2640083489/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 1 10:04:26 GMT+0200 2008
+Upload Date  : Sun Jul 6 03:15:00 GMT+0200 2008
+Views        : 1,051
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Grant's Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

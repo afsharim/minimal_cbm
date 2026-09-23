@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : joannapoe
+Photo URL    : https://www.flickr.com/photos/jopoe/10008900475/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Sep 25 15:23:04 GMT+0200 2013
+Upload Date  : Mon Sep 30 01:19:06 GMT+0200 2013
+Geotag Info  : Latitude:32.735739, Longitude:-117.151165
+Views        : 212
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+2013-09-25_15-23-04
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Went to the zoo while we were in San Diego. It's probably the best zoo I've ever been too, but it still is animals in pens, which can make me sad. Worth the visit though!
+
+
++--------+
+|  TAGS  |
++--------+
+"san diego zoo" giraffe 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Venture Vancouver
+Photo URL    : https://www.flickr.com/photos/venturevancouver/4697595599/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 12 08:35:12 GMT+0200 2010
+Upload Date  : Mon Jun 14 02:19:25 GMT+0200 2010
+Geotag Info  : Latitude:49.308868, Longitude:-123.015418
+Views        : 458
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+horses
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+vancouver canada maple wood farm brown horse 

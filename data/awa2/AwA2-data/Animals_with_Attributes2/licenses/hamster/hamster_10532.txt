@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : wendati
+Photo URL    : https://www.flickr.com/photos/wendati/480172982/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 5 18:10:50 GMT+0200 2006
+Upload Date  : Tue May 1 19:43:11 GMT+0200 2007
+Geotag Info  : Latitude:51.764241, Longitude:5.514289
+Views        : 88
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+PICT1001
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+hamster animal 

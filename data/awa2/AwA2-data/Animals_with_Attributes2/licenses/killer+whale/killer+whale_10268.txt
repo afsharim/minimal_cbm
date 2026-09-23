@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mliu92
+Photo URL    : https://www.flickr.com/photos/mliu92/4805083416/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 17 20:13:48 GMT+0200 2010
+Upload Date  : Sun Jul 18 16:47:16 GMT+0200 2010
+Geotag Info  : Latitude:32.764639, Longitude:-117.228943
+Views        : 755
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Shelf Life 9761
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+It's a toothy grin.
+
+
++--------+
+|  TAGS  |
++--------+
+"sea world" "san diego" "shamu rocks" killer whale orca 

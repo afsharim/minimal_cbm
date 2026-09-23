@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Richard Wang
+Photo URL    : https://commons.wikimedia.org/wiki/File:Moose_crossing_river_in_yellowstone.jpg
+License      : public domain
+Date         : 2005-07-04

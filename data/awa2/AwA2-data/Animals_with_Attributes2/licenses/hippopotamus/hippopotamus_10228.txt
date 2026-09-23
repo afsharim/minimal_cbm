@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : LongitudeLatitude
+Photo URL    : https://www.flickr.com/photos/longitudelatitude/3819879342/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Aug 12 12:20:55 GMT+0200 2009
+Upload Date  : Fri Aug 14 06:44:55 GMT+0200 2009
+Views        : 1,354
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+hippo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+picture taken in Chicago River near the Boeing building
+
+
++--------+
+|  TAGS  |
++--------+
+hippo hippopotamus 

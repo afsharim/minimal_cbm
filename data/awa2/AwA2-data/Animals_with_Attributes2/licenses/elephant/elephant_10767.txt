@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : HarshLight
+Photo URL    : https://www.flickr.com/photos/harshlight/5297781588/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Dec 4 10:07:14 GMT+0100 2010
+Upload Date  : Mon Dec 27 20:48:15 GMT+0100 2010
+Geotag Info  : Latitude:28.361712, Longitude:-81.593581
+Views        : 246
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephants
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Seen on the Kilimanjaro Safaris trip at the Animal Kingdom.
+
+
++--------+
+|  TAGS  |
++--------+
+florida orlando travel "disney world" "animal kingdom" 

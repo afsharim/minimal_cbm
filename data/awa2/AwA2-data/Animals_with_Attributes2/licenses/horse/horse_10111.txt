@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : JeffersonDavis
+Photo URL    : https://www.flickr.com/photos/jeffersondavis/1203561118/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 10 13:03:19 GMT+0200 2007
+Upload Date  : Wed Aug 22 16:33:25 GMT+0200 2007
+Geotag Info  : Latitude:34.849875, Longitude:-82.490844
+Views        : 83
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+blind_horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+greenville "south carolina" horse 

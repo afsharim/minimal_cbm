@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Viktor_U_Cat
+Photo URL    : https://www.flickr.com/photos/viktor_u/14755065245/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 17 14:29:04 GMT+0200 2014
+Upload Date  : Sun Jul 27 09:27:19 GMT+0200 2014
+Geotag Info  : Latitude:-38.015623, Longitude:146.722809
+Views        : 2,183
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Mooo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+cow farm country calves animal 

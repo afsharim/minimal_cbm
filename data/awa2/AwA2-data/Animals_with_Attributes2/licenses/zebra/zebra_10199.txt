@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : flamesworddragon
+Photo URL    : https://www.flickr.com/photos/flamesworddragon/5710151115/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Apr 28 11:29:59 GMT+0200 2011
+Upload Date  : Wed May 11 18:44:58 GMT+0200 2011
+Geotag Info  : Latitude:50.986855, Longitude:-1.288661
+Views        : 544
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Grazing Zebras
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Marwell "Marwell Zoo" zebra 

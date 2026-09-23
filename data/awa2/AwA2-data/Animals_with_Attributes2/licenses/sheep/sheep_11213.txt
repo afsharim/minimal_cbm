@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : N B
+Photo URL    : https://www.flickr.com/photos/blunt1/118973127/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Mar 27 13:36:06 GMT+0200 2006
+Upload Date  : Mon Mar 27 23:36:06 GMT+0200 2006
+Geotag Info  : Latitude:52.355054, Longitude:-2.125167
+Views        : 438
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep1
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+organic farm sheep field worcestershire 

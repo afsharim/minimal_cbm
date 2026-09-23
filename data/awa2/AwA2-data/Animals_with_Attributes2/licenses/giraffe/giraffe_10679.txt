@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mitchell Fitzsimmons
+Photo URL    : https://www.flickr.com/photos/78959201@N07/10829417194/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 2 21:20:20 GMT+0200 2013
+Upload Date  : Wed Nov 13 02:28:23 GMT+0100 2013
+Geotag Info  : Latitude:-3.316018, Longitude:35.288085
+Views        : 85
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Africa 

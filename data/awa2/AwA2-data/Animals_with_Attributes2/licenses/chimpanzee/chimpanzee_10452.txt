@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Eric F Savage
+Photo URL    : https://www.flickr.com/photos/efsavage/1188997425/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 19 04:00:45 GMT+0200 2007
+Upload Date  : Tue Aug 21 05:50:42 GMT+0200 2007
+Geotag Info  : Latitude:42.063949, Longitude:-71.583335
+Views        : 210
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elderly Chimp
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"southwick's zoo" zoo chimpanzee 

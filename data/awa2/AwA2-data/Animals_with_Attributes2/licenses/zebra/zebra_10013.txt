@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : markbyzewski
+Photo URL    : https://www.flickr.com/photos/markbyzewski/7765659110/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 4 09:52:26 GMT+0200 2012
+Upload Date  : Sun Aug 12 15:39:11 GMT+0200 2012
+Views        : 71
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+_MG_4510
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The Zebras at Cheyenne Mountain Zoo. Colorado Springs, Colorado.
+
+
++--------+
+|  TAGS  |
++--------+
+Zebra "Cheyenne Mountain Zoo" "Colorado Springs" Colorado 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jarosław Pocztarski
+Photo URL    : https://www.flickr.com/photos/j-pocztarski/8627985913/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 6 15:19:39 GMT+0200 2013
+Upload Date  : Sun Apr 7 20:59:56 GMT+0200 2013
+Geotag Info  : Latitude:52.235351, Longitude:21.009389
+Views        : 1,209
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tygrys - Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Tygrys Tiger 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Corey Leopold
+Photo URL    : https://www.flickr.com/photos/cleopold73/2620104158/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 28 11:33:12 GMT+0200 2008
+Upload Date  : Sun Jun 29 04:33:31 GMT+0200 2008
+Geotag Info  : Latitude:42.306927, Longitude:-71.090367
+Views        : 11,473
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Gorilla
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Gorilla At the Franklin Park Zoo in Boston
+
+
++--------+
+|  TAGS  |
++--------+
+boston zoo "franklin zoo" Gorilla "Franklin Park Zoo" wildlife "exotic animal" "boston zoo franklin" ape black k10d "Corey Leopold" 

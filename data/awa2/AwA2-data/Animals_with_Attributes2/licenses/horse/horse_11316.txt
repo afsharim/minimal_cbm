@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Romantikgeist
+Photo URL    : https://www.flickr.com/photos/romantikgeist/14124565772/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 27 13:05:26 GMT+0200 2012
+Upload Date  : Wed May 7 06:09:59 GMT+0200 2014
+Views        : 57
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Pferd
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Bitte nicht träumen beim fressen ;-)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

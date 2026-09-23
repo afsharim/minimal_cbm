@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ianloic
+Photo URL    : https://www.flickr.com/photos/ianloic/2730473321/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 23 04:45:11 GMT+0200 2008
+Upload Date  : Mon Aug 4 08:07:20 GMT+0200 2008
+Geotag Info  : Latitude:38.683164, Longitude:-123.430795
+Views        : 647
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Seals
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Seals on the beach at Sea Ranch
+
+
++--------+
+|  TAGS  |
++--------+
+"sea ranch" seal beach 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/13358232474/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 9 11:05:32 GMT+0100 2013
+Upload Date  : Sun Mar 23 18:00:06 GMT+0100 2014
+Geotag Info  : Latitude:48.806298, Longitude:9.205083
+Views        : 10,481
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Sitting brown bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A syrian bear sitting in his/her enclosure...
+
+
++--------+
+|  TAGS  |
++--------+
+bear brown sitting relaxing chilling vegetation wilhelma zoo stuttgart germany nikon d4 

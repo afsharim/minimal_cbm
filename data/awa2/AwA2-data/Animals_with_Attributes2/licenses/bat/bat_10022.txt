@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : John Vetterli
+Photo URL    : https://www.flickr.com/photos/jvetterli/2435971746/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 20 12:28:34 GMT+0200 2008
+Upload Date  : Wed Apr 23 06:41:23 GMT+0200 2008
+Views        : 99
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Bat
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Shot at Bird Kingdom.
+
+
++--------+
+|  TAGS  |
++--------+
+tpmg "bird kingdom" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : brunoweideli
+Photo URL    : https://www.flickr.com/photos/brunoweideli/6225843014/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Oct 4 16:09:44 GMT+0200 2011
+Upload Date  : Sun Oct 9 10:53:09 GMT+0200 2011
+Geotag Info  : Latitude:47.355667, Longitude:8.939500
+Views        : 98
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Vom Sommer in den winter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Kuh geniest noch den spätsommer im Tösstal
+
+
++--------+
+|  TAGS  |
++--------+
+Tösstal 

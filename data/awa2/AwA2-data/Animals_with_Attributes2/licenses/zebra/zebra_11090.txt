@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : davedehetre
+Photo URL    : https://www.flickr.com/photos/davedehetre/4831877261/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 26 14:41:44 GMT+0200 2010
+Upload Date  : Tue Jul 27 23:17:35 GMT+0200 2010
+Geotag Info  : Latitude:39.055540, Longitude:-95.725271
+Views        : 2,941
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+zebras
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+zebras.  they make me dizzy
+
+
++--------+
+|  TAGS  |
++--------+
+zebra zoo hay hooves stripes fence dirt "Topeka zoo, Topeka, KS, USA" 

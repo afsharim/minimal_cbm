@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : acme
+Photo URL    : https://www.flickr.com/photos/acme/8529799/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Apr 5 08:08:14 GMT+0200 2005
+Upload Date  : Tue Apr 5 17:08:14 GMT+0200 2005
+Views        : 157
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_6541
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+florida tanja aquarium killer whale 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Rene Mensen
+Photo URL    : https://www.flickr.com/photos/renemensen/4149785891/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 31 15:07:09 GMT+0200 2009
+Upload Date  : Tue Dec 1 16:34:03 GMT+0100 2009
+Geotag Info  : Latitude:52.786153, Longitude:6.897010
+Views        : 342
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Hippo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+noorderdierenpark emmen holland zoo dierentuin animal nijlpaard hippo 

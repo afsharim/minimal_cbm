@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : kevinmklerks
+Photo URL    : https://www.flickr.com/photos/ledicarus/11141617963/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Nov 15 12:15:03 GMT+0100 2013
+Upload Date  : Sun Dec 1 00:48:33 GMT+0100 2013
+Geotag Info  : Latitude:52.497831, Longitude:-116.015624
+Views        : 2,108
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Wild Horses
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The wild horses of David Thompson Country, Alberta
+
+
++--------+
+|  TAGS  |
++--------+
+horse horses wild wildlife 

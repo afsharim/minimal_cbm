@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : gsprangle
+Photo URL    : https://www.flickr.com/photos/gsprangle/4732805081/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 4 21:02:24 GMT+0200 2010
+Upload Date  : Fri Jun 25 18:10:28 GMT+0200 2010
+Views        : 47
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Taronga Zoo to see all the awesome Aussie animals...
+
+
++--------+
+|  TAGS  |
++--------+
+Taronga Zoo "Taronga Zoo" Sydney Australia Tiger 

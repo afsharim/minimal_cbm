@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : stephenrwalli
+Photo URL    : https://www.flickr.com/photos/stephenrwalli/8274944837/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Dec 15 07:41:56 GMT+0100 2012
+Upload Date  : Sat Dec 15 22:05:28 GMT+0100 2012
+Views        : 65
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

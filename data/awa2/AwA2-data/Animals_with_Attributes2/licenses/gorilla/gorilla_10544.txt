@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : schacon
+Photo URL    : https://www.flickr.com/photos/chacon/208079831/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 25 01:44:56 GMT+0200 2006
+Upload Date  : Sun Aug 6 17:49:37 GMT+0200 2006
+Geotag Info  : Latitude:-1.459993, Longitude:29.526100
+Views        : 188
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_4138.JPG
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+gorillas rwanda 

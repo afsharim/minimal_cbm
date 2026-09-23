@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : aegidian
+Photo URL    : https://www.flickr.com/photos/aegidian/3963219149/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Sep 28 13:05:10 GMT+0200 2009
+Upload Date  : Mon Sep 28 23:01:57 GMT+0200 2009
+Geotag Info  : Latitude:51.332595, Longitude:-2.209904
+Views        : 23
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+P1000032
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

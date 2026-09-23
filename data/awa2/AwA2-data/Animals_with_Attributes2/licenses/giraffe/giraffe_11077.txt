@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/9523719655/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 16 11:47:43 GMT+0200 2013
+Upload Date  : Fri Aug 16 21:48:13 GMT+0200 2013
+Geotag Info  : Latitude:51.772912, Longitude:-1.653871
+Views        : 7,895
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Portrait of a giraffe in the sun
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+And now, a portrait of a cute giraffe!
+
+
++--------+
+|  TAGS  |
++--------+
+giraffe face portrait cute cotswold "wildlife park" zoo england uk "great britain" d4 

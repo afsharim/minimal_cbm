@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Opt1mus76
+Photo URL    : https://www.flickr.com/photos/opt1mus76/5755421280/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 3 13:37:03 GMT+0200 2010
+Upload Date  : Tue May 24 18:07:41 GMT+0200 2011
+Views        : 1,208
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Tiger 

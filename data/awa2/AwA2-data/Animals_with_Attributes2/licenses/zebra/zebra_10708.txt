@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : versageek
+Photo URL    : https://www.flickr.com/photos/versageek/2039305226/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Nov 15 15:41:36 GMT+0100 2007
+Upload Date  : Sat Nov 17 03:00:45 GMT+0100 2007
+Geotag Info  : Latitude:26.721329, Longitude:-80.326001
+Views        : 222
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A Zebra at Lion Country Safari in Florida
+
+
++--------+
+|  TAGS  |
++--------+
+"Lion Country Safari" Versageek 

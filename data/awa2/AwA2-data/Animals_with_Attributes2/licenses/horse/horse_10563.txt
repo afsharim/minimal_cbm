@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : irrezolut
+Photo URL    : https://www.flickr.com/photos/irrezolut/1926437725/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Oct 18 15:27:47 GMT+0200 2007
+Upload Date  : Fri Nov 9 04:11:20 GMT+0100 2007
+Views        : 3,486
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This is a horse. There is one picture of this horse in this set of photo(s).
+
+
++--------+
+|  TAGS  |
++--------+
+horse 

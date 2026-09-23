@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Shawn Hargreaves
+Photo URL    : https://www.flickr.com/photos/shawnhargreaves/3499031849/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 14 21:26:38 GMT+0200 2006
+Upload Date  : Mon May 4 05:58:47 GMT+0200 2009
+Views        : 130
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+personal 

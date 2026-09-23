@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : dumbledad
+Photo URL    : https://www.flickr.com/photos/dumbledad/10113852926/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 5 16:32:24 GMT+0200 2013
+Upload Date  : Sun Oct 6 16:42:45 GMT+0200 2013
+Views        : 3,910
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Wimpole cows
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+cow wimpole_hall 

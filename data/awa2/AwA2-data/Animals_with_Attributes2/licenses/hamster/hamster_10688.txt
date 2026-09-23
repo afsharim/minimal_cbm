@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Su--May
+Photo URL    : https://www.flickr.com/photos/su-may/8626194300/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Feb 4 23:26:21 GMT+0100 2013
+Upload Date  : Sun Apr 7 00:34:22 GMT+0200 2013
+Views        : 387
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tarquin the hamster
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Tarquin just got up.
+
+
++--------+
+|  TAGS  |
++--------+
+"Tarquin the hamster" 

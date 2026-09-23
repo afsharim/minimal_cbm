@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bdearth
+Photo URL    : https://www.flickr.com/photos/bdearth/5968704356/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue May 31 09:18:52 GMT+0200 2011
+Upload Date  : Sun Jul 24 02:51:43 GMT+0200 2011
+Geotag Info  : Latitude:60.153371, Longitude:-149.423525
+Views        : 1,330
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Moose!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A moose came into the camp where our cabin was near Seward, Alaska - May 31, 2011.
+
+
++--------+
+|  TAGS  |
++--------+
+alaska seward moose 

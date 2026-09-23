@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ben.hollis
+Photo URL    : https://www.flickr.com/photos/dalangalma/8197481042/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 24 19:44:06 GMT+0200 2012
+Upload Date  : Sun Nov 18 20:05:39 GMT+0100 2012
+Geotag Info  : Latitude:-18.357109, Longitude:23.525869
+Views        : 634
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe run
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+africa giraffe lebala Caprivi Namibia 

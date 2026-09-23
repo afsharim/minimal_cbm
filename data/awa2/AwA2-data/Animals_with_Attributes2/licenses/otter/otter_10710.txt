@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jsouthorn
+Photo URL    : https://www.flickr.com/photos/jsouthorn/5748128561/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 21 14:19:36 GMT+0200 2011
+Upload Date  : Mon May 23 01:12:13 GMT+0200 2011
+Views        : 301
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+These guys otter be in the circus
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Not every day you see juggling otters!
+
+
++--------+
+|  TAGS  |
++--------+
+otter 

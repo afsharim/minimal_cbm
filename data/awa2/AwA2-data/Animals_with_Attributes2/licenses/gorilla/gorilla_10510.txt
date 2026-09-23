@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : emilylindsaybrown
+Photo URL    : https://www.flickr.com/photos/125908716@N07/14672224813/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 5 12:28:27 GMT+0200 2013
+Upload Date  : Mon Jul 14 15:28:04 GMT+0200 2014
+Views        : 8
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_0951
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

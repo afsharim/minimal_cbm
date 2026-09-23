@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Dave Hogg
+Photo URL    : https://www.flickr.com/photos/davehogg/92421956/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 28 16:05:50 GMT+0100 2006
+Upload Date  : Sun Jan 29 04:59:44 GMT+0100 2006
+Geotag Info  : Latitude:43.060610, Longitude:-83.069944
+Views        : 3,230
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Cow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A cow. Looking at me.
+
+
++--------+
+|  TAGS  |
++--------+
+cow davehogg 

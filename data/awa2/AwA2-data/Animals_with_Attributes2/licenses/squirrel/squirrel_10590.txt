@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : davida3
+Photo URL    : https://www.flickr.com/photos/davida3/5441877780/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 23 15:21:14 GMT+0100 2011
+Upload Date  : Sun Feb 13 15:55:44 GMT+0100 2011
+Views        : 32
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+squirrel nutkin
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel 

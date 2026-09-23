@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : marada
+Photo URL    : https://www.flickr.com/photos/marada/1562185571/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 13 11:31:32 GMT+0200 2007
+Upload Date  : Sat Oct 13 23:59:42 GMT+0200 2007
+Geotag Info  : Latitude:40.156671, Longitude:-83.122944
+Views        : 28
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Columbus Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Moose "Columbus Zoo" 

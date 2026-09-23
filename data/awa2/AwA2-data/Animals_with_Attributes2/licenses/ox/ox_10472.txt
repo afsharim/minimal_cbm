@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : The Consortium
+Photo URL    : https://www.flickr.com/photos/the-consortium/4503834203/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jan 12 12:18:52 GMT+0100 2010
+Upload Date  : Fri Apr 9 04:37:07 GMT+0200 2010
+Geotag Info  : Latitude:39.748669, Longitude:-104.994239
+Views        : 798
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Moo!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Longhorns at the Western Stock Show Parade
+
+
++--------+
+|  TAGS  |
++--------+
+Cows Denver 2010 

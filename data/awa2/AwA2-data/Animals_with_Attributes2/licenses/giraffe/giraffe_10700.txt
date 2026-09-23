@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Steve M. Walker
+Photo URL    : https://www.flickr.com/photos/stephoto27/14856815376/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 5 14:51:41 GMT+0200 2014
+Upload Date  : Sun Aug 10 22:45:42 GMT+0200 2014
+Geotag Info  : Latitude:51.188575, Longitude:-2.238775
+Views        : 77
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Longleat Safari Park
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

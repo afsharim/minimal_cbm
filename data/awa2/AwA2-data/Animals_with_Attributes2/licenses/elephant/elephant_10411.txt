@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jacob Davies
+Photo URL    : https://www.flickr.com/photos/jacob-davies/3479237970/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 26 15:31:23 GMT+0200 2009
+Upload Date  : Mon Apr 27 07:33:10 GMT+0200 2009
+Views        : 64
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+oakland zoo oaklandzoo 

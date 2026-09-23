@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : BoJay
+Photo URL    : https://www.flickr.com/photos/bojoergensen/6934188394/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 14 12:51:17 GMT+0200 2012
+Upload Date  : Sun Apr 15 17:30:34 GMT+0200 2012
+Geotag Info  : Latitude:55.615104, Longitude:12.574324
+Views        : 101
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Naturvcenter Vestamager-011
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+animal easter "naturcenter vestamager" sheep 

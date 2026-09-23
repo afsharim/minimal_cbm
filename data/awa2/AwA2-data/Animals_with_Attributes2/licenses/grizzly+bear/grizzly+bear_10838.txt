@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jean-noël Lafargue
+Photo URL    : https://commons.wikimedia.org/wiki/File:Ours_brun_parcanimalierpyrenees_1.jpg
+License      : Free Art License (http://artlibre.org/licence/lal/en/)
+Date         : 2005

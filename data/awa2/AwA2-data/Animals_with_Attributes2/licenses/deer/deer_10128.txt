@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Drew And Merissa
+Photo URL    : https://www.flickr.com/photos/drewandmerissa/861430060/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 12 20:48:02 GMT+0200 2007
+Upload Date  : Sat Jul 21 00:20:18 GMT+0200 2007
+Views        : 43
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cute deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+dandmfav 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : rocketjim54
+Photo URL    : https://www.flickr.com/photos/rocketjim54/129117479/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 15 15:39:39 GMT+0200 2006
+Upload Date  : Sun Apr 16 01:35:43 GMT+0200 2006
+Views        : 56
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_2356
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel 

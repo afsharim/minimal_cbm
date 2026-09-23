@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : H. Smithers
+Photo URL    : https://www.flickr.com/photos/36107339@N03/15094615605/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 31 12:50:29 GMT+0200 2014
+Upload Date  : Sun Aug 31 17:34:42 GMT+0200 2014
+Views        : 58
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+grey squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+grey squirrel 

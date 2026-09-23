@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : unci_narynin
+Photo URL    : https://www.flickr.com/photos/8293801@N07/13755344825/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 16 14:28:07 GMT+0100 2014
+Upload Date  : Thu Apr 10 11:11:19 GMT+0200 2014
+Geotag Info  : Latitude:48.170779, Longitude:17.446975
+Views        : 1,517
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Oáza sibírského tigra / Siberian tiger oasis (Kostolná pri Dunaji, Slovakia)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Tiger
+
+
++--------+
+|  TAGS  |
++--------+
+tiger 

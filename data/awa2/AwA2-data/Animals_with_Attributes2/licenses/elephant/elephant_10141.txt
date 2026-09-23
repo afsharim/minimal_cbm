@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jchification
+Photo URL    : https://www.flickr.com/photos/jchification/15107572364/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Oct 27 09:58:42 GMT+0100 2014
+Upload Date  : Thu Nov 6 23:16:54 GMT+0100 2014
+Geotag Info  : Latitude:-3.441956, Longitude:35.811499
+Views        : 97
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_4667
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+elephant 

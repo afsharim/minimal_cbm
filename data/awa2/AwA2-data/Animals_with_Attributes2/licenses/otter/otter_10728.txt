@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : AleGranholm
+Photo URL    : https://www.flickr.com/photos/darthale/7765162990/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 1 00:01:54 GMT+0100 2000
+Upload Date  : Sun Aug 12 14:08:21 GMT+0200 2012
+Geotag Info  : Latitude:58.442297, Longitude:11.434535
+Views        : 227
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Utter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Nordens Ark" telephoto ef70300 nature otter 

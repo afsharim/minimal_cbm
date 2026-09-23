@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : USACE
+Photo URL    : https://commons.wikimedia.org/wiki/File:Gray_Bat_USACE.jpg
+License      : public domain
+Date         : 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : dims2012
+Photo URL    : https://www.flickr.com/photos/dims2012/7013258209/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 24 09:42:56 GMT+0200 2008
+Upload Date  : Sun Mar 25 09:20:41 GMT+0200 2012
+Geotag Info  : Latitude:39.072448, Longitude:21.845560
+Views        : 224
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Baringo giraffe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"giraffa camelopardalis rothschildi" "Baringo giraffe" 

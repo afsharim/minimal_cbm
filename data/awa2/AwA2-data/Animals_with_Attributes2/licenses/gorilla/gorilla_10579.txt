@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : asokolik
+Photo URL    : https://www.flickr.com/photos/asokolik/8012616339/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Feb 9 14:08:01 GMT+0100 2012
+Upload Date  : Sat Sep 22 19:42:01 GMT+0200 2012
+Geotag Info  : Latitude:42.938218, Longitude:-78.852374
+Views        : 109
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_8568
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Buffalo Zoo" "Buffalo Zoological Gardens" "lowland gorilla" 

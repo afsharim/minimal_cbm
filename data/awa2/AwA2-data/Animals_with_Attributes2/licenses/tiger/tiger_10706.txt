@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : IrenicRhonda
+Photo URL    : https://www.flickr.com/photos/irenicrhonda/8031418323/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Sep 6 11:16:11 GMT+0200 2012
+Upload Date  : Thu Sep 6 12:16:11 GMT+0200 2012
+Geotag Info  : Latitude:51.845108, Longitude:-0.541348
+Views        : 76
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+See in <a href="http://www.robogeo.com/Flickr2Map/?type=map&amp;view=satellite" rel="nofollow">Google Maps</a> where this photo was taken
+
+
++--------+
+|  TAGS  |
++--------+
+"United Kingdom" 2012 zoo Whipsnade England GBR public September "preGame Sweep Winner" pregs pre pres sweep 

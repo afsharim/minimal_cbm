@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Hillebrand, Steve
+Photo URL    : https://commons.wikimedia.org/wiki/File:Brown_Bear_Cubs.jpg
+License      : public domain
+Date         : 2005-07

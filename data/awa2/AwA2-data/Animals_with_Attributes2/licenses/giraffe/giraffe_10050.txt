@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Andrew Hayward
+Photo URL    : https://www.flickr.com/photos/ahayward/19686325/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Sep 16 19:42:06 GMT+0200 2004
+Upload Date  : Thu Jun 16 15:05:28 GMT+0200 2005
+Views        : 18
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+A giraffe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Not a real one... in the Museum of Natural History.
+
+
++--------+
+|  TAGS  |
++--------+
+America "Summer 2004" "Washington DC" 

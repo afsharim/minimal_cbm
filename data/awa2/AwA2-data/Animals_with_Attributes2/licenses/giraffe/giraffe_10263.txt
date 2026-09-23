@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ~ My World ~
+Photo URL    : https://www.flickr.com/photos/shazzywazzy2010/5139916917/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 12 14:00:14 GMT+0200 2010
+Upload Date  : Tue Nov 2 19:14:13 GMT+0100 2010
+Views        : 664
+Comments     : 21
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe having lunch
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+On a day out at the zoo this tall guy comes over to join us. 
+Port Lympne Zoo, Kent, UK.
+
+
++--------+
+|  TAGS  |
++--------+
+giraffe lunch kent "port lympne" 

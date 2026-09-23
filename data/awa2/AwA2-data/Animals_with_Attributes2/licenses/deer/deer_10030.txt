@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : joannapoe
+Photo URL    : https://www.flickr.com/photos/jopoe/5625750945/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 16 13:07:10 GMT+0200 2011
+Upload Date  : Sun Apr 17 04:17:04 GMT+0200 2011
+Geotag Info  : Latitude:37.166936, Longitude:-86.087579
+Views        : 322
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+2011-04-16_13-07-10
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Mammoth Cave park was full of deer, and they were pretty unperturbed by cars and tourists.
+
+
++--------+
+|  TAGS  |
++--------+
+deer 

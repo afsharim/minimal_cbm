@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Kelly Schott
+Photo URL    : https://www.flickr.com/photos/so_wrong_its_kelly/8410248252/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Apr 10 06:30:22 GMT+0200 2012
+Upload Date  : Thu Jan 24 03:32:45 GMT+0100 2013
+Views        : 70
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_0172
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Ireland
+2012
+
+
++--------+
+|  TAGS  |
++--------+
+ireland animals sheep 

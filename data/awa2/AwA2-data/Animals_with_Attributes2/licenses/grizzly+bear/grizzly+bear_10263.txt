@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : quinet
+Photo URL    : https://www.flickr.com/photos/quinet/15051462584/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 17 15:12:54 GMT+0200 2012
+Upload Date  : Fri Oct 31 07:12:36 GMT+0100 2014
+Views        : 3,397
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Brown bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Berlin 2012
+
+
++--------+
+|  TAGS  |
++--------+
+2012 Berlin Brown Germany Grizzly Grizzlybär "Ursus arctos" Zoo "Zoologischer Garten" bear ours 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Chase Pilchowski
+Photo URL    : https://www.flickr.com/photos/chase_pilchowski/18570225420/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 17 18:02:14 GMT+0100 2015
+Upload Date  : Sat Jun 13 07:41:53 GMT+0200 2015
+Views        : 36
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Seal
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

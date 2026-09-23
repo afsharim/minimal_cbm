@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : cello8
+Photo URL    : https://www.flickr.com/photos/cello8/522730177/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Apr 30 09:20:17 GMT+0200 2007
+Upload Date  : Thu May 31 06:46:30 GMT+0200 2007
+Geotag Info  : Latitude:-25.286921, Longitude:31.923522
+Views        : 77
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+zebra meeting
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+These are Burchell's zebras.  They have brown in between the black stripes instead of pure white..
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

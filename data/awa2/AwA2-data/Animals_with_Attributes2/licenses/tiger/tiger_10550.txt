@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Thunder Stallion
+Photo URL    : https://www.flickr.com/photos/40436158@N04/3899028720/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jan 18 17:38:31 GMT+0100 2008
+Upload Date  : Tue Sep 8 04:03:34 GMT+0200 2009
+Views        : 24
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

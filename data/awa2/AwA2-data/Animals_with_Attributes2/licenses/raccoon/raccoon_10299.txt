@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jehb
+Photo URL    : https://www.flickr.com/photos/jehb/5429445499/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 6 13:18:13 GMT+0100 2011
+Upload Date  : Wed Feb 9 04:19:03 GMT+0100 2011
+Views        : 338
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Raccoon
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+raccoon "Costa Rica" "Crab-eating Raccoon" 

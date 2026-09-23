@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Kevin.Ward
+Photo URL    : https://www.flickr.com/photos/kw111786/1352466032/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 27 11:33:39 GMT+0200 2006
+Upload Date  : Sun Sep 9 23:16:03 GMT+0200 2007
+Geotag Info  : Latitude:41.832135, Longitude:-87.833890
+Views        : 761
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Tiger,
+Brookfield Zoo, Chicago, Illinois
+
+
++--------+
+|  TAGS  |
++--------+
+Tiger Zoo Chicago 

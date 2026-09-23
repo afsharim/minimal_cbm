@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : brainstorm1984
+Photo URL    : https://www.flickr.com/photos/brainstorm1984/15497860892/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Sep 20 12:47:27 GMT+0200 2013
+Upload Date  : Fri Oct 10 21:17:01 GMT+0200 2014
+Geotag Info  : Latitude:52.009908, Longitude:5.901727
+Views        : 1,472
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Ein Tiger im Burgers’ Zoo (Arnheim, Niederlande).
+
+A Tiger in the &quot;Burgers’ Zoo&quot; (Arnhem, The Netherlands).
+
+
++--------+
+|  TAGS  |
++--------+
+Arnheim Arnhem "Burgers’ Zoo" "Panthera tigris" "Royal Burgers' Zoo" Tiger Zoo Gelderland Niederlande 

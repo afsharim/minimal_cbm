@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : donjd2
+Photo URL    : https://www.flickr.com/photos/ddebold/3628059209/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jun 9 17:03:45 GMT+0200 2009
+Upload Date  : Mon Jun 15 14:00:38 GMT+0200 2009
+Views        : 1,593
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Grizzly Bear sow and cub
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Scene from our Vacation in Yellowstone and Grand Teton National Parks
+
+
++--------+
+|  TAGS  |
++--------+
+vacation "yellowstone national park" "grizzly bear" WY USA 

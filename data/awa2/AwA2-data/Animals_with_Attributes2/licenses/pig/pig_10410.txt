@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jimmiebond
+Photo URL    : https://www.flickr.com/photos/jimmiebond/4948976833/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 21 09:19:55 GMT+0200 2010
+Upload Date  : Wed Sep 1 22:54:55 GMT+0200 2010
+Geotag Info  : Latitude:54.049814, Longitude:-8.171896
+Views        : 691
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Pigs eating
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+pig farming eating 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : woofiegrrl
+Photo URL    : https://www.flickr.com/photos/meredith/2838074312/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 6 12:57:42 GMT+0200 2008
+Upload Date  : Mon Sep 8 01:12:24 GMT+0200 2008
+Geotag Info  : Latitude:38.889178, Longitude:-77.443141
+Views        : 161
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Fluffballs
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+cats "cat show" persian 

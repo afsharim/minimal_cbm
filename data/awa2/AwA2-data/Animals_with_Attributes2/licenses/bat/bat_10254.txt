@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Evelyn Simak
+Photo URL    : https://commons.wikimedia.org/wiki/File:Plecotus_auritus01.jpg
+License      : Creative Commons (https://en.wikipedia.org/wiki/en:Creative_Commons) Attribution-Share Alike 2.0 Generic (//creativecommons.org/licenses/by-sa/2.0/deed.en)
+Date         : 2009-07-26

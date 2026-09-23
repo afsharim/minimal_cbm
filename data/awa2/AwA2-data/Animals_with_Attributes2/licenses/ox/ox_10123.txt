@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Norton Photographer
+Photo URL    : https://www.flickr.com/photos/47905810@N02/4391528885/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 14 13:28:08 GMT+0100 2010
+Upload Date  : Sat Feb 27 14:58:27 GMT+0100 2010
+Views        : 933
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bull
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Bull in Graves Park Sheffield
+
+
++--------+
+|  TAGS  |
++--------+
+Bull "Graves Park" wildlife 

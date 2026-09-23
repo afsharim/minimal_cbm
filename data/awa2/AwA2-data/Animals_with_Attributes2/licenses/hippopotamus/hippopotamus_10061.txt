@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Matt Biddulph
+Photo URL    : https://www.flickr.com/photos/mbiddulph/7093223447/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Apr 18 08:14:59 GMT+0200 2012
+Upload Date  : Thu Apr 19 14:38:12 GMT+0200 2012
+Geotag Info  : Latitude:-1.328975, Longitude:34.988785
+Views        : 9,214
+Comments     : 12
+
+
++---------+
+|  TITLE  |
++---------+
+Dainty hippo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"masai mara" kenya safari hippo hippopotamus 

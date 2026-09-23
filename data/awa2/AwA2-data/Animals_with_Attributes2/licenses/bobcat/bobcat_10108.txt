@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/15696550369/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 28 18:35:20 GMT+0200 2014
+Upload Date  : Wed Nov 26 11:00:09 GMT+0100 2014
+Geotag Info  : Latitude:46.565115, Longitude:6.773371
+Views        : 5,493
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Lynx walking towards me
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The same lynx, walking towards me...
+
+
++--------+
+|  TAGS  |
++--------+
+walking coming approaching portrait face wild cat lynx male servion lausanne zoo switzerland nikon d4 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Paul Holloway
+Photo URL    : https://www.flickr.com/photos/paulholloway/3617611702/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri May 8 11:40:36 GMT+0200 2009
+Upload Date  : Thu Jun 11 20:49:55 GMT+0200 2009
+Geotag Info  : Latitude:-33.843116, Longitude:151.241140
+Views        : 347
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffes
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Australia Sydney NSW "New South Wales" 2009 "Taronga Zoo" animal giraffe dopplr:explore=tq51 

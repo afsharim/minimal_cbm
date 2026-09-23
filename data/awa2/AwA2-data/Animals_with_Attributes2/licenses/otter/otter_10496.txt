@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : M&R Glasgow
+Photo URL    : https://www.flickr.com/photos/glasgows/468347316/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 21 10:24:52 GMT+0200 2007
+Upload Date  : Sat Apr 21 17:24:52 GMT+0200 2007
+Geotag Info  : Latitude:27.813476, Longitude:-97.392232
+Views        : 71
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Otters
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+oh no! Did I turn the oven off? Love his expressions
+
+
++--------+
+|  TAGS  |
++--------+
+otter "texas chorpus christi trip birthday" 

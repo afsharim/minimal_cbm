@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : FlickAbuse
+Photo URL    : https://www.flickr.com/photos/darkseid/480543253/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue May 1 15:34:34 GMT+0200 2007
+Upload Date  : Wed May 2 00:34:34 GMT+0200 2007
+Views        : 118
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Bear2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+God bless my 10x optical zoom!
+
+
++--------+
+|  TAGS  |
++--------+
+brown bear zoo 

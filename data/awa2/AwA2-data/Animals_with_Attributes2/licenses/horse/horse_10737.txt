@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : <3Country<3
+Photo URL    : https://www.flickr.com/photos/summer_marks/9182631574/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 30 07:14:40 GMT+0200 2013
+Upload Date  : Mon Jul 1 10:03:43 GMT+0200 2013
+Views        : 26
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Photography By Summer Marks(:
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

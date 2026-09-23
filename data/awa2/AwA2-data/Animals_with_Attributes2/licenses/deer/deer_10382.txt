@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : peter pearson
+Photo URL    : https://www.flickr.com/photos/peterpearson/2874502581/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 20 11:47:09 GMT+0200 2008
+Upload Date  : Sun Sep 21 13:23:02 GMT+0200 2008
+Views        : 1,373
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+deer 

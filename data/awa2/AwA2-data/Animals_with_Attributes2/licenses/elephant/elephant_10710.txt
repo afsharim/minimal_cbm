@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Elisa ...
+Photo URL    : https://www.flickr.com/photos/elisariedel/1379437413/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 10 13:27:47 GMT+0200 2007
+Upload Date  : Fri Sep 14 14:43:56 GMT+0200 2007
+Geotag Info  : Latitude:51.348350, Longitude:12.371401
+Views        : 349
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+elephants
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+elephants big Zoo Leipzig 

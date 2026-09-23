@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : herefordcat
+Photo URL    : https://www.flickr.com/photos/wiltscat/1621628920/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 17 18:31:21 GMT+0200 2006
+Upload Date  : Thu Oct 18 22:19:22 GMT+0200 2007
+Geotag Info  : Latitude:51.080934, Longitude:-2.172031
+Views        : 1,114
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+the cows, the cows
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+cow 

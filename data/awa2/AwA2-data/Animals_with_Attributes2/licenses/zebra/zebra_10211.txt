@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : andrusdevelopment
+Photo URL    : https://www.flickr.com/photos/wandrus/3865522468/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 15 10:11:13 GMT+0200 2009
+Upload Date  : Fri Aug 28 19:33:04 GMT+0200 2009
+Geotag Info  : Latitude:39.750720, Longitude:-104.946041
+Views        : 438
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Grevy's Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+denver zoo animal grevy zebra 

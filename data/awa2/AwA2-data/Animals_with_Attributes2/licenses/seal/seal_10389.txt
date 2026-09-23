@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jon Shave
+Photo URL    : https://www.flickr.com/photos/shavejonathan/2177413671/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Dec 29 12:24:39 GMT+0100 2007
+Upload Date  : Tue Jan 8 15:18:58 GMT+0100 2008
+Geotag Info  : Latitude:52.745749, Longitude:1.672496
+Views        : 156
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Grey Seal 9
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+greyseal norfolk 

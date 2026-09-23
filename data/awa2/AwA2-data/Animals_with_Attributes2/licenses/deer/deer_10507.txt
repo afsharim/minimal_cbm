@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : dbaron
+Photo URL    : https://www.flickr.com/photos/dbaron/5311200186/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Dec 31 21:04:29 GMT+0100 2010
+Upload Date  : Sat Jan 1 02:05:42 GMT+0100 2011
+Geotag Info  : Latitude:40.039640, Longitude:-75.460730
+Views        : 3,116
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A deer alongside the driveway.  It wasn't particularly afraid of me.  (It was part of a group of three; the other two stayed a little further away.)
+
+
++--------+
+|  TAGS  |
++--------+
+USA Pennsylvania Berwyn deer "White-tailed deer" Odocoileus "Odocoileus virginianus" "O. virginianus" snow geotagged geo:lat=40.03964 geo:lon=-75.46073 

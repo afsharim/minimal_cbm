@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : gordon.milligan
+Photo URL    : https://www.flickr.com/photos/el-milligano/8613507256/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Apr 2 13:07:05 GMT+0200 2013
+Upload Date  : Tue Apr 2 14:07:05 GMT+0200 2013
+Views        : 33
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Rolling seal
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"instagram app" square "square format" iphoneography uploaded:by=instagram foursquare:venue=4b058820f964a52060b322e3 

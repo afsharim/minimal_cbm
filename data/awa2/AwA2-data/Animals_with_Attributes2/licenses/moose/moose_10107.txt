@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Sir Mildred Pierce
+Photo URL    : https://www.flickr.com/photos/sirmildredpierce/39120321/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 29 17:59:18 GMT+0200 2003
+Upload Date  : Thu Sep 1 07:38:44 GMT+0200 2005
+Views        : 1,172
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC02829-Moose
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Moose 

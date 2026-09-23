@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : azza-bazoo
+Photo URL    : https://www.flickr.com/photos/hourann/265269464/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Dec 28 14:33:54 GMT+0100 2005
+Upload Date  : Mon Oct 9 21:18:59 GMT+0200 2006
+Views        : 68
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe at Werribee Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Taken from the crowded safari bus as we passed by. I swear this giraffe was, like, posing for us or something.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

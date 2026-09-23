@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Charles D P Miller
+Photo URL    : https://www.flickr.com/photos/cdpm/3644452736/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 8 15:43:07 GMT+0200 2008
+Upload Date  : Sat Jun 20 18:49:20 GMT+0200 2009
+Geotag Info  : Latitude:50.873577, Longitude:-1.657905
+Views        : 725
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Stag in the New Forest
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Seen from the viewing platform at Boldrewood
+
+
++--------+
+|  TAGS  |
++--------+
+"New Forest" Deer 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Marco Zanferrari
+Photo URL    : https://www.flickr.com/photos/tuttotutto/7490341332/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 17 10:49:25 GMT+0100 2012
+Upload Date  : Tue Jul 3 00:26:53 GMT+0200 2012
+Geotag Info  : Latitude:28.144054, Longitude:-80.596432
+Views        : 63
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Melbourne - Florida - USA
+
+
++--------+
+|  TAGS  |
++--------+
+travel Melbourne USA vacation 

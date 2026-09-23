@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : gailhampshire
+Photo URL    : https://www.flickr.com/photos/gails_pictures/10420014406/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 9 21:53:53 GMT+0200 2013
+Upload Date  : Tue Oct 22 13:35:17 GMT+0200 2013
+Geotag Info  : Latitude:32.245727, Longitude:-111.166148
+Views        : 539
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lynx rufus. Bobcat
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Seen in Senora Desert Museum
+
+
++--------+
+|  TAGS  |
++--------+
+"taxonomy:binomial=Lynx rufus" Bobcat. Lynx rufus Arizona Animals 

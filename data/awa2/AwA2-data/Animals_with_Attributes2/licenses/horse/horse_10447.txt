@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : vemiya
+Photo URL    : https://www.flickr.com/photos/vemiya/8035194102/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Apr 27 12:51:47 GMT+0200 2009
+Upload Date  : Sat Sep 29 11:44:50 GMT+0200 2012
+Views        : 326
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horse and knight
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+London - April 2009
+
+
++--------+
+|  TAGS  |
++--------+
+horse british guard knight 

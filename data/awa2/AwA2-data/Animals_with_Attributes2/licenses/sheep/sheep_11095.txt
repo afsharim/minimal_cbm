@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : flippinyank
+Photo URL    : https://www.flickr.com/photos/26326001@N08/10373970303/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Oct 18 18:08:12 GMT+0200 2013
+Upload Date  : Sun Oct 20 06:14:17 GMT+0200 2013
+Views        : 24
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

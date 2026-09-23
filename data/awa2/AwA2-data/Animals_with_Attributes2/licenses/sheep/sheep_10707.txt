@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : OliverC999
+Photo URL    : https://www.flickr.com/photos/oliver_clarke/15555518762/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Oct 7 17:46:16 GMT+0200 2014
+Upload Date  : Fri Oct 17 10:05:44 GMT+0200 2014
+Geotag Info  : Latitude:57.336858, Longitude:-5.623315
+Views        : 8,757
+Comments     : 7
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep at Craig Highland
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Craig Highland" Sheep 

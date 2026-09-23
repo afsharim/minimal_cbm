@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Darren Foreman
+Photo URL    : https://www.flickr.com/photos/dsf/2474912993/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Apr 30 06:17:09 GMT+0200 2008
+Upload Date  : Thu May 8 09:54:32 GMT+0200 2008
+Views        : 12
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+bats
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+sydney 

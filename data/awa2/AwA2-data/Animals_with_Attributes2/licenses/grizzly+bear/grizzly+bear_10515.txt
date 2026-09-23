@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : paulhami
+Photo URL    : https://www.flickr.com/photos/paulhami/3868480846/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 13 03:15:40 GMT+0200 2009
+Upload Date  : Sat Aug 29 20:58:34 GMT+0200 2009
+Views        : 668
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Grouse Grizzly
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"grizzly bear" "Grouse Mountain" 

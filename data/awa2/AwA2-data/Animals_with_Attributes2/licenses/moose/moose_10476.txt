@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : vigour
+Photo URL    : https://www.flickr.com/photos/vigor/243708157/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 10 16:15:16 GMT+0200 2003
+Upload Date  : Fri Sep 15 10:02:07 GMT+0200 2006
+Geotag Info  : Latitude:64.889325, Longitude:-147.820358
+Views        : 7,409
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Moose, Alaska
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Moose Alaska blog 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Clownhouse III
+Photo URL    : https://www.flickr.com/photos/clownhousethethird/2949995074/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Oct 17 15:01:36 GMT+0200 2008
+Upload Date  : Fri Oct 17 19:54:16 GMT+0200 2008
+Geotag Info  : Latitude:52.129378, Longitude:5.735721
+Views        : 1,120
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Coughing Cow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+with crappy uncle that never leaves.
+
+
++--------+
+|  TAGS  |
++--------+
+cows cow moo 

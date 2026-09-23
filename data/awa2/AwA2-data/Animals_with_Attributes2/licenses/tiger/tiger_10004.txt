@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/494146964/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Mar 16 17:50:41 GMT+0100 2006
+Upload Date  : Sat May 12 01:30:48 GMT+0200 2007
+Geotag Info  : Latitude:47.385711, Longitude:8.573412
+Views        : 8,660
+Comments     : 47
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger in the snow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Portrait of a tiger of the zoo of Zurich, in the snow
+
+
++--------+
+|  TAGS  |
++--------+
+tiger snow "zoo zürich" tigre "panthera tigris" cat feline wildcat bigcat AR1 "amur tiger" "siberian tiger" zoo kora zurich panthera tigris wild big zürich switzerland kitty schweiz felid striped stripes 

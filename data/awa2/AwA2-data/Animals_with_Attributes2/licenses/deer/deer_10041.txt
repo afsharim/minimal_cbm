@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ☺ Lee J Haywood
+Photo URL    : https://www.flickr.com/photos/leehaywood/4228542891/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon May 11 10:18:15 GMT+0200 2009
+Upload Date  : Wed Dec 30 21:03:32 GMT+0100 2009
+Views        : 185
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+A deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A deer bowing its head at Wollaton Park.
+
+
++--------+
+|  TAGS  |
++--------+
+"Wollaton Park" deer railing grass 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : paulpiltdown
+Photo URL    : https://www.flickr.com/photos/8269539@N04/16610574411/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 22 10:58:57 GMT+0100 2015
+Upload Date  : Sun Feb 22 14:25:06 GMT+0100 2015
+Geotag Info  : Latitude:52.565029, Longitude:-0.756168
+Views        : 712
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+Stoat or maybe a Weasel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Eyebrook reservoir, tricky chap to snap,this was the best effort.
+
+
++--------+
+|  TAGS  |
++--------+
+stoat weasel eyebrook reservoir 

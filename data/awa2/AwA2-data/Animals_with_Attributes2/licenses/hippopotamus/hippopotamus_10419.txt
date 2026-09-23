@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Kent Wang
+Photo URL    : https://www.flickr.com/photos/kentwang/24044892932/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Dec 19 18:20:06 GMT+0100 2015
+Upload Date  : Sun Jan 3 19:56:27 GMT+0100 2016
+Views        : 30
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hippopotamus
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Sabi River Sun" "South Africa" hippopotamus 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : 髒蠹蟲
+Photo URL    : https://www.flickr.com/photos/dirty_bug/17264532651/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Apr 24 11:12:15 GMT+0200 2015
+Upload Date  : Sat Apr 25 16:05:26 GMT+0200 2015
+Views        : 44
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Pig
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Steffen Köhler
+Photo URL    : https://www.flickr.com/photos/baertierchen/9311842650/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 14 16:12:52 GMT+0200 2013
+Upload Date  : Thu Jul 18 01:22:45 GMT+0200 2013
+Views        : 43
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Sheep
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

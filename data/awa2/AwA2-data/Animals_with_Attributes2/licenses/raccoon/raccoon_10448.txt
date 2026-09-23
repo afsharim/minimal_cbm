@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : KSchnitzer
+Photo URL    : https://www.flickr.com/photos/kschnitzer/7669308924/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 24 04:09:32 GMT+0200 2012
+Upload Date  : Sun Jul 29 17:42:23 GMT+0200 2012
+Views        : 239
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tierpark_2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+1 2 3 0     800
+
+
++--------+
+|  TAGS  |
++--------+
+Tierpark Greifswald präriehunde Schwein Storch Waschbär 

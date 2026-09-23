@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jean-Michel Castelan/Design Madeleine
+Photo URL    : https://commons.wikimedia.org/wiki/File:Border_Collie_(View_Dan)_9_semaines_sur_canards.jpg
+License      : Creative Commons (https://en.wikipedia.org/wiki/en:Creative_Commons) 3.0 Unported (//creativecommons.org/licenses/by-sa/3.0/deed.en)
+Date         : 2008

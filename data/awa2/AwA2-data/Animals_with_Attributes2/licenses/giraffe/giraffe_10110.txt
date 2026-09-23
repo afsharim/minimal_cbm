@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Martin Pettitt
+Photo URL    : https://www.flickr.com/photos/mdpettitt/11220207353/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Sep 4 12:24:31 GMT+0200 2013
+Upload Date  : Thu Dec 5 13:00:09 GMT+0100 2013
+Geotag Info  : Latitude:51.862484, Longitude:0.833005
+Views        : 2,598
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Colchester Zoo, Giraffes
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Colchester Zoo, Essex 4-9-2013
+
+
++--------+
+|  TAGS  |
++--------+
+September Animals "Wildlife Park" Wildlife Giraffes "Nikon D7100. DSLR" "Colchester Zoo" Zoological Essex "AF-S VR Zoom-Nikkor 70-300mm f/4.5-5.6G IF-ED" 

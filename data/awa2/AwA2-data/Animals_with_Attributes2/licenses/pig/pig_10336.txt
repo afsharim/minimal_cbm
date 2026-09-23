@@ -1,0 +1,40 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : The Shared Experience
+Photo URL    : https://www.flickr.com/photos/numbphoto/339891741/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Sep 4 14:20:17 GMT+0200 2006
+Upload Date  : Sun Dec 31 19:55:30 GMT+0100 2006
+Geotag Info  : Latitude:44.087585, Longitude:-72.916259
+Views        : 37
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Pig
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This luxury lover resided at:
+
+Taylor Farm
+825 Vt Route 11, Londonderry, VT 05148-9790
+(802) 824-3600 ‎
+taylorfarmvermont.com
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

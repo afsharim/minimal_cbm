@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : virgil.king
+Photo URL    : https://www.flickr.com/photos/24100803@N04/7532335510/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 3 01:35:17 GMT+0200 2012
+Upload Date  : Mon Jul 9 04:12:47 GMT+0200 2012
+Views        : 97
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_0148.jpg
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

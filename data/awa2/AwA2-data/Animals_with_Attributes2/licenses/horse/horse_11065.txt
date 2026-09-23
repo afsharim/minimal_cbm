@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Rebeccawithers
+Photo URL    : https://www.flickr.com/photos/68614197@N02/9320592359/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Apr 4 15:21:56 GMT+0200 2013
+Upload Date  : Fri Jul 19 20:43:11 GMT+0200 2013
+Geotag Info  : Latitude:51.213114, Longitude:-4.023324
+Views        : 98
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_0577
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Horses
+
+
++--------+
+|  TAGS  |
++--------+
+Combe Martin Horses 

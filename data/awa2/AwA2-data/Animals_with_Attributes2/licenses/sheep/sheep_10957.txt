@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MiketheBear
+Photo URL    : https://www.flickr.com/photos/mikethebear/4194978461/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Dec 17 19:06:02 GMT+0100 2009
+Upload Date  : Fri Dec 18 19:28:48 GMT+0100 2009
+Views        : 138
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+*camera -- Contax T2 / *film -- Kodak Ektar 100
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

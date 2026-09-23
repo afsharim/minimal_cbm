@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : babblfisch
+Photo URL    : https://www.flickr.com/photos/127554592@N08/18082508486/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon May 25 17:29:50 GMT+0200 2015
+Upload Date  : Tue May 26 06:40:42 GMT+0200 2015
+Views        : 38
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Vorsicht gefährlicher Elch
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Fasanerie Hanau
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

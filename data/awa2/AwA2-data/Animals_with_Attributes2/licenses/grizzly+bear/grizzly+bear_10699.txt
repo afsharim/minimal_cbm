@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : rosshuggett
+Photo URL    : https://www.flickr.com/photos/rosshuggett/4524364580/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 3 11:34:54 GMT+0200 2010
+Upload Date  : Thu Apr 15 23:10:42 GMT+0200 2010
+Geotag Info  : Latitude:59.326401, Longitude:18.105499
+Views        : 107
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+bear brown skansen stockholm sweden 

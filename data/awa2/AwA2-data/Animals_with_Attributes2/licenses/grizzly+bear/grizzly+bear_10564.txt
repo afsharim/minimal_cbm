@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/11590778415/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 3 15:50:36 GMT+0200 2013
+Upload Date  : Fri Dec 27 22:03:32 GMT+0100 2013
+Geotag Info  : Latitude:47.105828, Longitude:6.822745
+Views        : 7,958
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Male bear plying with water
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Another picture of the male bear, this time playing with water!
+
+
++--------+
+|  TAGS  |
++--------+
+male bear brown portrait face paw playing water pond drops spilling fun park zoo "bois du petit château" "la chaux de fonds" switzerland nikon d4 

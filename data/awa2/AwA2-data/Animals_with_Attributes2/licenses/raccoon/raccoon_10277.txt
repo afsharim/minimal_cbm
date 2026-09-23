@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Will Scullin
+Photo URL    : https://www.flickr.com/photos/wscullin/3660221862/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 24 04:13:04 GMT+0200 2009
+Upload Date  : Thu Jun 25 16:31:27 GMT+0200 2009
+Views        : 12,364
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Raccoon
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Oh hai
+
+
++--------+
+|  TAGS  |
++--------+
+raccoon 

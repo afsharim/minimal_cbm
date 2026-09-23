@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Aaron Jacobs
+Photo URL    : https://www.flickr.com/photos/aaronjacobs/154040772/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri May 26 16:19:59 GMT+0200 2006
+Upload Date  : Sat May 27 09:52:10 GMT+0200 2006
+Geotag Info  : Latitude:30.283765, Longitude:-97.737550
+Views        : 1,455
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Tree Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+You can see the candy shell in his whiskers.
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel cute m&m candy eat tree climb 

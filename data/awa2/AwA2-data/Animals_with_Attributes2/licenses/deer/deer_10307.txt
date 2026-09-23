@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : paddymccann
+Photo URL    : https://www.flickr.com/photos/paddymccann/177607126/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 26 13:11:18 GMT+0200 2006
+Upload Date  : Thu Jun 29 12:19:14 GMT+0200 2006
+Geotag Info  : Latitude:56.427715, Longitude:-5.665340
+Views        : 1,088
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+2006 deer June Mull 

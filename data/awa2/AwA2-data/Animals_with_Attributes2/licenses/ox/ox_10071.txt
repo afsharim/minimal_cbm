@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : inra.dist
+Photo URL    : https://www.flickr.com/photos/inra_dist/25345688952/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 15 15:04:34 GMT+0200 2011
+Upload Date  : Thu Mar 3 09:25:24 GMT+0100 2016
+Views        : 8
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+AUBRAC taureau en Aveyron-7-cliche Jean Weber
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+INRA, Jean Weber
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

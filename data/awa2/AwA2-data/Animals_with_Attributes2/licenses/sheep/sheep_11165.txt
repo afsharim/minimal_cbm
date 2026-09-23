@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mlcastle
+Photo URL    : https://www.flickr.com/photos/mlcastle/22419257754/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 15 12:39:37 GMT+0100 2015
+Upload Date  : Sun Nov 15 19:32:16 GMT+0100 2015
+Geotag Info  : Latitude:51.426828, Longitude:-1.856703
+Views        : 98
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+england uk avebury sheep 

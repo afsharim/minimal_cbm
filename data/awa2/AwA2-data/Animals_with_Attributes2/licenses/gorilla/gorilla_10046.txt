@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Chris Lema
+Photo URL    : https://www.flickr.com/photos/cflema/4675594693/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 6 13:19:31 GMT+0200 2010
+Upload Date  : Sun Jun 6 22:19:31 GMT+0200 2010
+Views        : 420
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Angry Ape
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Uploaded from my Photo Share
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

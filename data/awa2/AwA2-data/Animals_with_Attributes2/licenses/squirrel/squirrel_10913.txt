@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : davida3
+Photo URL    : https://www.flickr.com/photos/davida3/7725079010/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 3 11:59:38 GMT+0200 2012
+Upload Date  : Mon Aug 6 15:10:49 GMT+0200 2012
+Geotag Info  : Latitude:43.281688, Longitude:-79.905792
+Views        : 7
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

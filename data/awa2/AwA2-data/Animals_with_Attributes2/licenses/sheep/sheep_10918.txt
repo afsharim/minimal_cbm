@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Neil T
+Photo URL    : https://www.flickr.com/photos/neilt/3327878843/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 25 14:10:34 GMT+0100 2009
+Upload Date  : Wed Mar 4 16:38:10 GMT+0100 2009
+Views        : 4,403
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Sheep, on the uploads above Calderdale
+
+
++--------+
+|  TAGS  |
++--------+
+sheep calderdale 

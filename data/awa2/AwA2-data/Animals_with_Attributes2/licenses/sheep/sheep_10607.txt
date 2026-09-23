@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Josselin Bonnetain
+Photo URL    : https://www.flickr.com/photos/56533289@N06/7973472300/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 26 02:02:32 GMT+0200 2012
+Upload Date  : Mon Sep 10 22:16:10 GMT+0200 2012
+Views        : 177
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Running sheeps.
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

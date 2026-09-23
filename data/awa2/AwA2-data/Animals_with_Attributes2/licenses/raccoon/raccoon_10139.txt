@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mariosp
+Photo URL    : https://www.flickr.com/photos/mariosp/5731808630/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue May 17 12:16:11 GMT+0200 2011
+Upload Date  : Wed May 18 00:14:38 GMT+0200 2011
+Geotag Info  : Latitude:43.070166, Longitude:-7.628501
+Views        : 289
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Mapache
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Visita a Marcelle en Lugo
+17 de Mayo de 2011
+
+
++--------+
+|  TAGS  |
++--------+
+mapache marcelle natureza lugo 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Luca Esposti
+Photo URL    : https://www.flickr.com/photos/luca-esposti/5552486217/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Mar 17 10:11:06 GMT+0100 2011
+Upload Date  : Wed Mar 23 14:10:57 GMT+0100 2011
+Geotag Info  : Latitude:-3.154228, Longitude:40.061645
+Views        : 1,031
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_6930
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zebra kenya 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jb.atwood
+Photo URL    : https://www.flickr.com/photos/jbatwood/2899807944/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 27 12:16:51 GMT+0200 2008
+Upload Date  : Mon Sep 29 21:12:34 GMT+0200 2008
+Geotag Info  : Latitude:38.930170, Longitude:-77.052998
+Views        : 58
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Pygmy Hippopotamus
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

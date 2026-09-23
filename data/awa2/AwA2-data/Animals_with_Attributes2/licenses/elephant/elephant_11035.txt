@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : pirate_renee
+Photo URL    : https://www.flickr.com/photos/48376342@N00/2210854877/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jan 21 21:51:30 GMT+0100 2008
+Upload Date  : Tue Jan 22 06:51:30 GMT+0100 2008
+Views        : 438
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zoo Elephants
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+elephants 

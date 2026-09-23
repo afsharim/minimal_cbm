@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jeanfredericclere
+Photo URL    : https://www.flickr.com/photos/jfclere/317815667/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Dec 4 19:27:01 GMT+0100 2006
+Upload Date  : Sat Dec 9 16:21:02 GMT+0100 2006
+Views        : 126
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+img_1734
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+hamster 

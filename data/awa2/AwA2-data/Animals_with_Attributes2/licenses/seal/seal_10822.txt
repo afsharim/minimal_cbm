@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : rayand
+Photo URL    : https://www.flickr.com/photos/rayand/3464051426/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 12 19:35:57 GMT+0200 2009
+Upload Date  : Tue Apr 21 23:57:46 GMT+0200 2009
+Views        : 159
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sealion
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+sealion seal "san francisco" usa 

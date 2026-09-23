@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Danny Nicholson
+Photo URL    : https://www.flickr.com/photos/dannynic/8517275470/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Feb 28 22:06:38 GMT+0100 2013
+Upload Date  : Thu Feb 28 23:22:09 GMT+0100 2013
+Views        : 418
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+59/365 Pablo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Testing out his new home-made banana flakes
+
+
++--------+
+|  TAGS  |
++--------+
+pablo hamster pet 

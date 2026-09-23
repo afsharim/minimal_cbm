@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : lsbardel
+Photo URL    : https://www.flickr.com/photos/sbardella/6824130105/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 5 10:51:24 GMT+0100 2012
+Upload Date  : Sun Feb 5 18:27:34 GMT+0100 2012
+Geotag Info  : Latitude:51.424122, Longitude:-0.350912
+Views        : 689
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Wild deer in Bushy park
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+animal uk park snow deer 

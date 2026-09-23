@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : anapeps
+Photo URL    : https://www.flickr.com/photos/anapeps/3715698744/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 11 14:53:40 GMT+0200 2009
+Upload Date  : Mon Jul 13 05:41:46 GMT+0200 2009
+Views        : 39
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_1642
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+#GreatNature #animal 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : satguru
+Photo URL    : https://www.flickr.com/photos/satguru/6744802319/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 22 16:32:12 GMT+0100 2012
+Upload Date  : Sun Jan 22 22:50:41 GMT+0100 2012
+Geotag Info  : Latitude:51.200752, Longitude:-0.406236
+Views        : 161
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Abinger sheep2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+abinger surrey sheep 

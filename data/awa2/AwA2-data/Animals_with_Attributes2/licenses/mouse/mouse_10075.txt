@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : dcnature
+Photo URL    : https://www.flickr.com/photos/dcnature/1500360376/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 17 13:34:40 GMT+0200 2006
+Upload Date  : Sat Oct 6 23:38:44 GMT+0200 2007
+Views        : 441
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Mouse - Brian Gratwicke
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Zoo Mouse 

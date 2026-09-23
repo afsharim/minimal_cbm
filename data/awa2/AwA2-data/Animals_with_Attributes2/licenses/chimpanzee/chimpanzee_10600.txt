@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/7161304760/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 31 13:59:47 GMT+0200 2012
+Upload Date  : Wed May 9 01:09:38 GMT+0200 2012
+Geotag Info  : Latitude:48.806298, Longitude:9.205083
+Views        : 8,582
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Portrait of a bonobo II
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A second portrait of a bonobo, this time taken inside.
+
+
++--------+
+|  TAGS  |
++--------+
+bonobo primate chimp chimpanzee monkey ape portrait face calm dark inside wilhelma zoo stuttgart germany nikon d700 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : aitchbee
+Photo URL    : https://www.flickr.com/photos/aitchbee/4607994504/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 3 10:35:13 GMT+0100 2010
+Upload Date  : Sat May 15 03:51:39 GMT+0200 2010
+Views        : 12
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Pig!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

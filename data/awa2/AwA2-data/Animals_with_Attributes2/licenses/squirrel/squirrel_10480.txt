@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : d a murphy
+Photo URL    : https://www.flickr.com/photos/damurphy/24794758431/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Feb 5 15:05:56 GMT+0100 2016
+Upload Date  : Mon Feb 8 05:53:06 GMT+0100 2016
+Views        : 13
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Red Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

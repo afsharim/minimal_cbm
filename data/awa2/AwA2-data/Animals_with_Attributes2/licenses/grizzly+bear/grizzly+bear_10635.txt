@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/17172840096/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 18 11:57:30 GMT+0100 2015
+Upload Date  : Sun Apr 19 15:00:15 GMT+0200 2015
+Geotag Info  : Latitude:47.050651, Longitude:8.554229
+Views        : 4,181
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Portrait of a bear walking in the snow II
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Next portrait of a bear walking in the snow...
+
+
++--------+
+|  TAGS  |
++--------+
+walking portrait sunny face close snow winter bear brown european tierpark zoo arth goldau switzerland nikon d4 

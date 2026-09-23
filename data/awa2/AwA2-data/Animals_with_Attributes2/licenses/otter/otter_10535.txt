@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Samdogs
+Photo URL    : https://www.flickr.com/photos/samdogs/4629525506/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 18 10:08:58 GMT+0200 2010
+Upload Date  : Sat May 22 17:38:12 GMT+0200 2010
+Views        : 83
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Otters
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Miller Park Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+Otters Miller Park Zoo 

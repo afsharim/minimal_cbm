@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : tterrag
+Photo URL    : https://www.flickr.com/photos/tterragpics/7043680611/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 7 13:06:40 GMT+0100 2012
+Upload Date  : Wed Apr 4 03:56:47 GMT+0200 2012
+Views        : 26
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+day273
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel 

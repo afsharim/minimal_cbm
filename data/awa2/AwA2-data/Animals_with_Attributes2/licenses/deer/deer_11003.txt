@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : teralaser
+Photo URL    : https://www.flickr.com/photos/teralaser/8058086213/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 30 17:35:52 GMT+0200 2012
+Upload Date  : Sat Oct 6 02:38:03 GMT+0200 2012
+Geotag Info  : Latitude:55.797158, Longitude:12.555161
+Views        : 728
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Majestic male deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Fallow bucks :)
+
+
++--------+
+|  TAGS  |
++--------+
+deer dyrehaven 

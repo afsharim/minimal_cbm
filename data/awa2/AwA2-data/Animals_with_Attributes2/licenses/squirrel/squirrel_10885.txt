@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Dawn Huczek
+Photo URL    : https://www.flickr.com/photos/31064702@N05/6321105786/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 6 22:17:29 GMT+0100 2011
+Upload Date  : Mon Nov 7 04:17:29 GMT+0100 2011
+Views        : 4,497
+Comments     : 36
+
+
++---------+
+|  TITLE  |
++---------+
+squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel "Dawn Huczek" 

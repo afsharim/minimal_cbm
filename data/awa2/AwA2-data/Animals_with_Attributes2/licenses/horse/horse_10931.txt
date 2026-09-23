@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Emily Carlin
+Photo URL    : https://www.flickr.com/photos/emiline220/5515457704/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 20 11:13:33 GMT+0100 2011
+Upload Date  : Thu Mar 10 18:50:31 GMT+0100 2011
+Views        : 198
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horses
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horses farm field 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Josh Kelahan
+Photo URL    : https://www.flickr.com/photos/jdkc4d/7428511976/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 23 15:01:23 GMT+0200 2012
+Upload Date  : Sun Jun 24 01:09:41 GMT+0200 2012
+Views        : 807
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Windcrest - First Cow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This is the first cow we saw. Just standing there looking right at us.
+
+
++--------+
+|  TAGS  |
++--------+
+Windcrest dairy "windcrest dairy" cow 

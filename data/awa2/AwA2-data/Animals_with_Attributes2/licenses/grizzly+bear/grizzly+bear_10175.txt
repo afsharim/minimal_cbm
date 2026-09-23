@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : HBarrison
+Photo URL    : https://www.flickr.com/photos/hbarrison/18433813622/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 24 13:27:17 GMT+0200 2015
+Upload Date  : Thu Jun 4 02:44:51 GMT+0200 2015
+Geotag Info  : Latitude:40.851150, Longitude:-73.878185
+Views        : 375
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bronx Zoo_2015 05 24_0132
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The brown bear (Ursus arctos) is a large bear distributed across much of northern Eurasia and North America and (with the polar bear) is the largest land-based predator on earth; there are several recognized subspecies within the brown bear species / The grizzly bear (Ursus arctos ssp.) is any North American subspecies of brown bear
+
+
++--------+
+|  TAGS  |
++--------+
+"Bronx Zoo" HBarrison "Harvey Barrison" "Taxonomy:binomial=Ursus arctos" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Oddernod
+Photo URL    : https://www.flickr.com/photos/oddernod/8421057431/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 12 16:52:35 GMT+0100 2013
+Upload Date  : Mon Jan 28 00:51:50 GMT+0100 2013
+Geotag Info  : Latitude:34.148172, Longitude:-118.288389
+Views        : 1,149
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+The Good Rebel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+While everyone else was going crazy, this lone chimpanzee was stoically plotting his escape.
+
+
++--------+
+|  TAGS  |
++--------+
+2013 Animal Chimpanzee Location "Los Angeles Zoo" Outdoor 

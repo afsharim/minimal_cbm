@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : molajen
+Photo URL    : https://www.flickr.com/photos/molajen/2841287061/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 30 15:11:50 GMT+0200 2008
+Upload Date  : Tue Sep 9 05:32:53 GMT+0200 2008
+Geotag Info  : Latitude:45.382084, Longitude:-80.312783
+Views        : 383
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Sleepy Bandit
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A sleepy raccoon watches me from the safety of a tree.
+
+
++--------+
+|  TAGS  |
++--------+
+"Georgian Bay" "Snug Harbour" raccoon Ontario "wild animal" 

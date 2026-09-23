@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : SarahDepper
+Photo URL    : https://www.flickr.com/photos/sarahdepper/2886024856/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 13 17:22:56 GMT+0200 2008
+Upload Date  : Wed Sep 24 22:26:54 GMT+0200 2008
+Geotag Info  : Latitude:-13.812515, Longitude:31.581916
+Views        : 255
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hippo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Africa Zambia Safari "South Luangwa" Hippo 

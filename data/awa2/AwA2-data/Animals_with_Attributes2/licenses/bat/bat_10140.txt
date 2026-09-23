@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ernesto Sierra
+Photo URL    : https://www.flickr.com/photos/godzy/4301002486/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 8 21:08:23 GMT+0200 2009
+Upload Date  : Sun Jan 24 17:53:09 GMT+0100 2010
+Geotag Info  : Latitude:40.438833, Longitude:-3.537667
+Views        : 17
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Murciélago
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+iPhone 

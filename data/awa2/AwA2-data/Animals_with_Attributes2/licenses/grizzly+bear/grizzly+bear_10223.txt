@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ruth and Dave
+Photo URL    : https://www.flickr.com/photos/ruthanddave/53077312/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 16 13:20:47 GMT+0200 2005
+Upload Date  : Sun Oct 16 21:03:54 GMT+0200 2005
+Geotag Info  : Latitude:51.853488, Longitude:-0.546398
+Views        : 114
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Brown bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+bears "brown bears" whipsnade zoos 

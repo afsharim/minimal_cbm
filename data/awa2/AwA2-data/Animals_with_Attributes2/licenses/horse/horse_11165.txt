@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mr Moss
+Photo URL    : https://www.flickr.com/photos/barneymoss/14337379841/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 4 12:06:27 GMT+0200 2014
+Upload Date  : Wed Jun 4 00:20:03 GMT+0200 2014
+Geotag Info  : Latitude:52.303158, Longitude:1.366982
+Views        : 538
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Liz, Laurie, and the horse (3)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+laurie horse carriage 

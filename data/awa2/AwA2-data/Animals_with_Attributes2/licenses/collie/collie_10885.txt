@@ -1,0 +1,12 @@
++--------------------------------------+
+|       Pixabay Photo Metadata         |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Karen Arnold
+Photo URL    : http://www.publicdomainpictures.net/view-image.php?image=50101&picture=kids-dog-beach-fun
+License      : Public Domain (https://creativecommons.org/publicdomain/zero/1.0/)

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Roger's Eye <(r)>
+Photo URL    : https://www.flickr.com/photos/rogersview/4984554888/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 12 12:54:52 GMT+0200 2010
+Upload Date  : Mon Sep 13 00:33:02 GMT+0200 2010
+Geotag Info  : Latitude:43.819263, Longitude:-79.187253
+Views        : 278
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Caracal Lynx
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Zoo Toronto 

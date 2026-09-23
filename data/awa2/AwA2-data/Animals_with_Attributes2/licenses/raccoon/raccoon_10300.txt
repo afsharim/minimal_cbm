@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : GregTheBusker
+Photo URL    : https://www.flickr.com/photos/gregthebusker/5602989360/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Apr 1 13:17:28 GMT+0200 2011
+Upload Date  : Sat Apr 9 13:40:15 GMT+0200 2011
+Geotag Info  : Latitude:36.980889, Longitude:-90.143165
+Views        : 533
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Raccoon
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+March Mingo Missouri 2011 Raccoon 

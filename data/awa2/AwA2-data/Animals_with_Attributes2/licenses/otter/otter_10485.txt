@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Harper 007
+Photo URL    : https://www.flickr.com/photos/49993542@N04/6090000950/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 28 13:02:43 GMT+0200 2011
+Upload Date  : Sun Aug 28 20:30:49 GMT+0200 2011
+Views        : 84
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+otters playing
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Marwell Zoo 28-11-2011" 

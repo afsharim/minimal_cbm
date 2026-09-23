@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Rexness
+Photo URL    : https://www.flickr.com/photos/rexness/4391755288/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Feb 26 22:37:26 GMT+0100 2010
+Upload Date  : Sat Feb 27 07:37:26 GMT+0100 2010
+Geotag Info  : Latitude:-37.928543, Longitude:144.665372
+Views        : 1,057
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffes sitting
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This is actually bad behaviour for these guys. In the wild, a sitting giraffe = lion food!
+
+
++--------+
+|  TAGS  |
++--------+
+Werribee "Werribee Open Range Zoo" "African Animals" Animals Giraffes 

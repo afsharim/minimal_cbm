@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : dojoe
+Photo URL    : https://www.flickr.com/photos/dojoe/24016718/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 24 15:17:31 GMT+0200 2005
+Upload Date  : Wed Jul 6 12:29:51 GMT+0200 2005
+Views        : 427
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Kuh
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+hiking alps cow 

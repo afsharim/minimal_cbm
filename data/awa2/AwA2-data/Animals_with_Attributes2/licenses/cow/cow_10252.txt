@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : John Morton
+Photo URL    : https://www.flickr.com/photos/morton/458604656/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 8 18:28:04 GMT+0200 2007
+Upload Date  : Sat Apr 14 13:22:00 GMT+0200 2007
+Views        : 74
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+cows 

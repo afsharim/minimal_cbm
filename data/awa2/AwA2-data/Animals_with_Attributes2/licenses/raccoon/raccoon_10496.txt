@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Huhnbeauftragter
+Photo URL    : https://www.flickr.com/photos/huhnbeauftragter/19897485951/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 12 15:19:37 GMT+0200 2015
+Upload Date  : Tue Jul 21 20:05:44 GMT+0200 2015
+Views        : 92
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Waschbär
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Wildpark Pforzheim" Waschbär "Procyon lotor" 

@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Chester Zoo
+Photo URL    : https://www.flickr.com/photos/chesterzoo/3545084245/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue May 19 05:44:32 GMT+0200 2009
+Upload Date  : Tue May 19 14:44:32 GMT+0200 2009
+Views        : 465
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephants
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+elephants playing
+
+<a href="http://www.chesterzoo.org" rel="nofollow">Visit Chester Zoo</a>
+
+
++--------+
+|  TAGS  |
++--------+
+elephants 

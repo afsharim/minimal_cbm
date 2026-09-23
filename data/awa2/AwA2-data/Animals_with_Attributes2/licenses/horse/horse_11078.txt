@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jill Rogan
+Photo URL    : https://www.flickr.com/photos/65943626@N04/19126801206/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 24 08:32:53 GMT+0200 2015
+Upload Date  : Thu Jun 25 19:58:33 GMT+0200 2015
+Views        : 72
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_2436
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Horse farm in Upstate NY
+
+
++--------+
+|  TAGS  |
++--------+
+"upstate Ny" brown horse 

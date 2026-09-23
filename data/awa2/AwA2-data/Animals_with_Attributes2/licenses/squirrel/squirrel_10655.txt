@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jonas B
+Photo URL    : https://www.flickr.com/photos/jonasb/360034734/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 14 14:53:49 GMT+0100 2007
+Upload Date  : Wed Jan 17 02:27:01 GMT+0100 2007
+Geotag Info  : Latitude:51.503583, Longitude:-0.146305
+Views        : 759
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel 

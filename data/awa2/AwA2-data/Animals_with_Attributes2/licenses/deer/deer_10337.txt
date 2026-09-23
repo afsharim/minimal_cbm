@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : dbaron
+Photo URL    : https://www.flickr.com/photos/dbaron/1511249507/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Oct 8 00:53:39 GMT+0200 2007
+Upload Date  : Mon Oct 8 06:19:20 GMT+0200 2007
+Geotag Info  : Latitude:37.363000, Longitude:-122.173600
+Views        : 533
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A deer in the field near the main entrance of Palo Alto Foothills Park.  (dsc02981)
+
+
++--------+
+|  TAGS  |
++--------+
+usa california "Palo Alto" "Foothills Park" "Palo Alto Foothills Park" nature "Black-tailed deer" "Mule deer" deer Odocoileus "Odocoileus hemionus" "Odocoileus hemionus columbianus" grass field geotagged geo:lat=37.3630 geo:lon=-122.1736 

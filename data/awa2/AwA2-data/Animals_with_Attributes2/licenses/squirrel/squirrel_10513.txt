@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : SquireSquirrel
+Photo URL    : https://www.flickr.com/photos/squiresquirrel/4985519333/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Apr 19 11:56:17 GMT+0200 2010
+Upload Date  : Mon Sep 13 10:33:55 GMT+0200 2010
+Geotag Info  : Latitude:42.860300, Longitude:-106.332957
+Views        : 511
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squire Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+No act of kindness, no matter how small, is ever wasted.
+~Aesop
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel squire 

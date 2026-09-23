@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : fs-phil
+Photo URL    : https://www.flickr.com/photos/fsphil/6088306653/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 28 13:21:48 GMT+0200 2011
+Upload Date  : Sun Aug 28 14:21:48 GMT+0200 2011
+Views        : 6,149
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Another bat!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A very small bat caught at the Springhill Bat Night 2011.
+
+
++--------+
+|  TAGS  |
++--------+
+bat 

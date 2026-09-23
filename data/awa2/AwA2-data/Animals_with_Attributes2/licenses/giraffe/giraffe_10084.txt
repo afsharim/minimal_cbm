@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : JeffChristiansen
+Photo URL    : https://www.flickr.com/photos/jeffchristiansen/522725659/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon May 7 11:07:55 GMT+0200 2007
+Upload Date  : Thu May 31 06:42:56 GMT+0200 2007
+Geotag Info  : Latitude:28.364252, Longitude:-81.590523
+Views        : 4,248
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Baby Reticulated Giraffe on Animal Kingdom Safari
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Taken in 2007 on the Kilimanjaro Safari
+
+
++--------+
+|  TAGS  |
++--------+
+"Disney World" "Animal Kingdom" Safari 2007 "Kilimanjaro Safari" "Reticulated Giraffe" Giraffe 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : RightIndex
+Photo URL    : https://www.flickr.com/photos/leomei/1251869943/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 25 17:26:59 GMT+0200 2007
+Upload Date  : Tue Aug 28 00:05:24 GMT+0200 2007
+Geotag Info  : Latitude:32.975008, Longitude:-117.263206
+Views        : 187
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Del Mar horse racing Leucadia San Diego County 

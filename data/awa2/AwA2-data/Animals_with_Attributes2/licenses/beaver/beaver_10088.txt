@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Patrick Doheny
+Photo URL    : https://www.flickr.com/photos/14132971@N05/1448244629/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jun 19 18:03:02 GMT+0200 2007
+Upload Date  : Thu Sep 27 20:11:25 GMT+0200 2007
+Views        : 405
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Beaver, Jericho Park
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Swimming with branch toward toward home....
+
+
++--------+
+|  TAGS  |
++--------+
+Wildlife Beaver 

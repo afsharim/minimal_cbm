@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : gripso_banana_prune
+Photo URL    : https://www.flickr.com/photos/antonystanley/238501910/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 19 13:47:05 GMT+0200 2006
+Upload Date  : Sat Sep 9 19:17:35 GMT+0200 2006
+Geotag Info  : Latitude:51.442131, Longitude:-2.664871
+Views        : 3,288
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Jock, the Gorilla (2)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+gorilla "bristol zoo" jock ape 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : edenpictures
+Photo URL    : https://www.flickr.com/photos/edenpictures/6786146751/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 29 16:15:18 GMT+0100 2012
+Upload Date  : Mon Jan 30 02:16:01 GMT+0100 2012
+Views        : 740
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+River Otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Prospect Park Zoo" otter "river otter" 

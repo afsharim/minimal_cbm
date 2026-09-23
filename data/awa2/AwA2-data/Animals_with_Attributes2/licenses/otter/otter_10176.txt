@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Dulup
+Photo URL    : https://www.flickr.com/photos/duloup/1337379271/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Sep 6 12:43:34 GMT+0200 2007
+Upload Date  : Thu Sep 6 22:55:34 GMT+0200 2007
+Geotag Info  : Latitude:45.687715, Longitude:-1.166439
+Views        : 929
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Oriental Small-clawed Otters / Loutres cendrées
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Amblonyx cinerea
+Aonyx cinerea
+Oriental Small-clawed Otter
+
+
++--------+
+|  TAGS  |
++--------+
+zoo palmyre loutre otter 

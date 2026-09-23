@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : andrew_j_w
+Photo URL    : https://www.flickr.com/photos/andrew_j_w/3545012851/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 16 11:46:52 GMT+0200 2009
+Upload Date  : Tue May 19 14:04:34 GMT+0200 2009
+Geotag Info  : Latitude:52.012095, Longitude:-1.946640
+Views        : 71
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cows
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+cow cows animal cotswolds 

@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mike0001
+Photo URL    : https://commons.wikimedia.org/wiki/File:Lamtara_Golden_Spritzer.jpg
+License      : Creative Commons (https://en.wikipedia.org/wiki/en:Creative_Commons) 4.0 International (//creativecommons.org/licenses/by-sa/4.0/)
+Date         : 08 février 2008 (original upload date)

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : kkalyan
+Photo URL    : https://www.flickr.com/photos/kalyan/235731903/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 2 12:58:44 GMT+0200 2006
+Upload Date  : Wed Sep 6 08:13:59 GMT+0200 2006
+Geotag Info  : Latitude:12.896150, Longitude:77.631626
+Views        : 836
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+at bannergatta national park
+
+
++--------+
+|  TAGS  |
++--------+
+tiger lion bangalore bannergatta safari 

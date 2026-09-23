@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : natalielucier
+Photo URL    : https://www.flickr.com/photos/natalielucier/3667374269/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 28 10:09:56 GMT+0200 2009
+Upload Date  : Sun Jun 28 14:40:35 GMT+0200 2009
+Views        : 901
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+moose
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A moose walking down a trail in Gros Morne National Park, Newfoundland, Canada.
+
+
++--------+
+|  TAGS  |
++--------+
+moose "gros morne natonal park" newfoundland canada 

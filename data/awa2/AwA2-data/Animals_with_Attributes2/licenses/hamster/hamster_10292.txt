@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : vargklo
+Photo URL    : https://www.flickr.com/photos/vargklo/3466641222/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Apr 7 18:30:21 GMT+0200 2009
+Upload Date  : Wed Apr 22 22:04:54 GMT+0200 2009
+Views        : 591
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hamster
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Paris.
+
+
++--------+
+|  TAGS  |
++--------+
+Osby hamster Paris hampster 

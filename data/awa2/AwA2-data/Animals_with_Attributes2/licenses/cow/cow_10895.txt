@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : craigles75
+Photo URL    : https://www.flickr.com/photos/8583790@N04/6435380923/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 13 06:56:52 GMT+0100 2011
+Upload Date  : Thu Dec 1 09:58:02 GMT+0100 2011
+Geotag Info  : Latitude:-34.759366, Longitude:150.434117
+Views        : 471
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_1912
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"belted galloway" "Kangaroo Valley" cows 

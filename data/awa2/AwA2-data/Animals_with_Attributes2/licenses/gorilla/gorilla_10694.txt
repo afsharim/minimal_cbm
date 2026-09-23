@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : celticfeminist
+Photo URL    : https://www.flickr.com/photos/celticfeminist/2113555981/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Nov 21 11:56:30 GMT+0100 2007
+Upload Date  : Sun Dec 16 04:26:32 GMT+0100 2007
+Views        : 6
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+P1030520
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

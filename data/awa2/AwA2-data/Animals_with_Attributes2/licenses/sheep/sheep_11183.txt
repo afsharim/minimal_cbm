@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : kateausburn
+Photo URL    : https://www.flickr.com/photos/treslola/7731443128/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 3 17:25:29 GMT+0200 2012
+Upload Date  : Tue Aug 7 09:32:04 GMT+0200 2012
+Views        : 108
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep, Quirindi
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

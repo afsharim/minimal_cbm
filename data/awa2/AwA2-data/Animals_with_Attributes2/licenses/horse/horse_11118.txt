@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : wablair
+Photo URL    : https://www.flickr.com/photos/wablair/3622743428/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 11 17:19:41 GMT+0200 2009
+Upload Date  : Sat Jun 13 19:20:21 GMT+0200 2009
+Views        : 87
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+John and horses
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+poolville john horses 

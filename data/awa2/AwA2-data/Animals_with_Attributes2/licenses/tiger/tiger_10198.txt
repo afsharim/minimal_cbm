@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : LynnK827
+Photo URL    : https://www.flickr.com/photos/windsurfgirl/2517199798/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 22 15:13:56 GMT+0200 2008
+Upload Date  : Fri May 23 22:57:31 GMT+0200 2008
+Views        : 57
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Samatran Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Picture taken at the Oklahoma City Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+tiger 

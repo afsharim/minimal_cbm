@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : laurascudder
+Photo URL    : https://www.flickr.com/photos/laurascudder/2555358578/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 15 17:40:02 GMT+0200 2008
+Upload Date  : Fri Jun 6 05:01:14 GMT+0200 2008
+Geotag Info  : Latitude:45.014027, Longitude:-110.627045
+Views        : 118
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+080515 beaver front
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+beaver "yellowstone river" "black canyon" yellowstone 

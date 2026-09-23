@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : exfordy
+Photo URL    : https://www.flickr.com/photos/exfordy/2050736143/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Nov 6 16:45:05 GMT+0100 2007
+Upload Date  : Wed Nov 21 01:20:52 GMT+0100 2007
+Geotag Info  : Latitude:20.981876, Longitude:-89.623117
+Views        : 457
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra in Merida zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zebra Merida zoo Yucatan mexico exfordy geotagged 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : kitty.green66
+Photo URL    : https://www.flickr.com/photos/53887959@N07/4985402576/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 12 20:04:58 GMT+0200 2010
+Upload Date  : Mon Sep 13 05:04:58 GMT+0200 2010
+Views        : 680
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+lovely_pet_Hamster_P0
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

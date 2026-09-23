@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mrspattinsonn
+Photo URL    : https://www.flickr.com/photos/mrspattinsonn/5293724909/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 20 12:22:03 GMT+0100 2009
+Upload Date  : Sun Dec 26 20:46:02 GMT+0100 2010
+Views        : 49
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Eläinkauppa joulukuu -09 159
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+hamster
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : labmaven
+Photo URL    : https://www.flickr.com/photos/labmaven/2212201549/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Nov 23 16:51:10 GMT+0100 2007
+Upload Date  : Tue Jan 22 21:47:08 GMT+0100 2008
+Views        : 36
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Otter at the Vancouver Aquarium
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : dougle_2k
+Photo URL    : https://www.flickr.com/photos/dougle_2k/5001150638/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 23 22:01:17 GMT+0200 2010
+Upload Date  : Sat Sep 18 14:21:11 GMT+0200 2010
+Geotag Info  : Latitude:51.914588, Longitude:-3.318069
+Views        : 376
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+symetrical sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+sheep field country symmetry 

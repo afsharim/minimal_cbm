@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Kristin "Shoe" Shoemaker
+Photo URL    : https://www.flickr.com/photos/linuxlibrarian/5848771036/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 19 09:28:12 GMT+0200 2011
+Upload Date  : Sun Jun 19 15:28:12 GMT+0200 2011
+Views        : 171
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Nikon D5000, kit Nikkor 55-200 mm lens, manual mode, autofocus, Nissin Di622 MkII flash, because I still can't get the exif stuff to stick.
+
+At least he finally stood still enough, and I didn't overlight him so that he looks like a rabid mutant lab rat squirrel hybrid
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel nature backyard fence outdoors 

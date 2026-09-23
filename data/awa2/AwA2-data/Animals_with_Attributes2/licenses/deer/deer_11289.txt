@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : donjd2
+Photo URL    : https://www.flickr.com/photos/ddebold/25707594881/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Mar 14 18:51:15 GMT+0100 2016
+Upload Date  : Tue Mar 15 06:33:38 GMT+0100 2016
+Geotag Info  : Latitude:37.216344, Longitude:-121.790020
+Views        : 48
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Weekly Deer Photo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Deer in Santa Teresa County Park
+
+
++--------+
+|  TAGS  |
++--------+
+"santa teresa county park" deer "San Jose" California "United States" US 

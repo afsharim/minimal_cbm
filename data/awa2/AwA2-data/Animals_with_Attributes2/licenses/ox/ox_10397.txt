@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Bob Doran
+Photo URL    : https://www.flickr.com/photos/humblog/5458297007/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 10 10:43:57 GMT+0200 2008
+Upload Date  : Sat Feb 19 17:20:11 GMT+0100 2011
+Views        : 33
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_8920
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

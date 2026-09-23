@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : dackelprincess
+Photo URL    : https://www.flickr.com/photos/dackelprincess/4687674612/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 9 22:09:15 GMT+0200 2010
+Upload Date  : Thu Jun 10 09:41:08 GMT+0200 2010
+Views        : 0
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+June 8 236
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

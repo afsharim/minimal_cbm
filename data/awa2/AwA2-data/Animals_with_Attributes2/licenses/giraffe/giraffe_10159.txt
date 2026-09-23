@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/14867060285/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri May 2 15:20:30 GMT+0200 2014
+Upload Date  : Sat Aug 9 15:00:06 GMT+0200 2014
+Geotag Info  : Latitude:47.223575, Longitude:8.821763
+Views        : 10,353
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Eating giraffe on white
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A giraffe eating, against the gray but bright sky...
+
+
++--------+
+|  TAGS  |
++--------+
+eating giraffe tall branch wood gray sky portrait face rapperswil knie kinderzoo zoo nikon d4 

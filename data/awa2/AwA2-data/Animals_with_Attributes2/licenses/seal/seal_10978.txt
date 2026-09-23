@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Dave Lonsdale
+Photo URL    : https://www.flickr.com/photos/davelonsdale/5512783417/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Feb 21 15:34:11 GMT+0100 2011
+Upload Date  : Wed Mar 9 23:13:51 GMT+0100 2011
+Views        : 55
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Young fur seals barking
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+FurSeal 

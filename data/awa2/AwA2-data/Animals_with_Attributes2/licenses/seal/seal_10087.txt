@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Muonzoo
+Photo URL    : https://www.flickr.com/photos/muonzoo/3318651702/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 28 11:33:28 GMT+0100 2009
+Upload Date  : Sun Mar 1 08:03:46 GMT+0100 2009
+Geotag Info  : Latitude:35.667064, Longitude:-121.273175
+Views        : 205
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Blubber, lots of blubber.
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A docent at the area was telling us that sometimes up to 200 gallons of oil could be recovered from a single large male. The elephant seals were nearly hunted to extinction.
+
+
++--------+
+|  TAGS  |
++--------+
+Flickr ElephantSeal 

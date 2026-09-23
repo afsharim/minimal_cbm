@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tama Leaver
+Photo URL    : https://www.flickr.com/photos/tamaleaver/4253451952/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jan 7 13:01:59 GMT+0100 2010
+Upload Date  : Thu Jan 7 07:45:07 GMT+0100 2010
+Geotag Info  : Latitude:-31.977174, Longitude:115.854563
+Views        : 313
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Lunch?
+
+
++--------+
+|  TAGS  |
++--------+
+elephant zoo "perth zoo" 

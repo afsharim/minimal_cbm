@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Kornl
+Photo URL    : https://www.flickr.com/photos/kornl/3865532500/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 25 14:58:55 GMT+0100 2006
+Upload Date  : Fri Aug 28 19:37:19 GMT+0200 2009
+Views        : 713
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Calm and beautiful.
+
+
++--------+
+|  TAGS  |
++--------+
+tiger animal 

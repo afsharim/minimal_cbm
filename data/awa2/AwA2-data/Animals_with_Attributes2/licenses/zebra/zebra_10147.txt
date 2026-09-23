@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : pyntofmyld
+Photo URL    : https://www.flickr.com/photos/pyntofmyld/3357957827/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 15 12:05:10 GMT+0100 2009
+Upload Date  : Mon Mar 16 03:21:36 GMT+0100 2009
+Geotag Info  : Latitude:51.861136, Longitude:0.828597
+Views        : 124
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_4985_raw
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zebra colchesterzoo zoo 

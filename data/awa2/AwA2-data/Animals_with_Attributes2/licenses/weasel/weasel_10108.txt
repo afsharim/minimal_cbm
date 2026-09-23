@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Matt Lavin
+Photo URL    : https://www.flickr.com/photos/plant_diversity/5848795808/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 18 10:17:25 GMT+0200 2011
+Upload Date  : Sun Jun 19 15:36:28 GMT+0200 2011
+Geotag Info  : Latitude:43.695494, Longitude:-112.824353
+Views        : 900
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Mustela frenata
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Mustela frenata watches from a lava rock outcrop that borders a green strip of Agropyron cristatum along Lincoln Blvd.
+
+
++--------+
+|  TAGS  |
++--------+
+Mustelidae "Mustela frenata" "long-tailed weasel" "lava rock" "green strip" Idaho "Idaho National Laboratory" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : corrieb
+Photo URL    : https://www.flickr.com/photos/corrieb/2744225714/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 7 14:22:18 GMT+0200 2008
+Upload Date  : Thu Aug 7 23:22:18 GMT+0200 2008
+Geotag Info  : Latitude:-32.273780, Longitude:148.582878
+Views        : 752
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Hippopotamus
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Taronga Western Plains Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+corrie dubbo nsw "taronga western plains zoo" zoo hippopotamus "powershot s3" canon "canon powershot s3 is" 

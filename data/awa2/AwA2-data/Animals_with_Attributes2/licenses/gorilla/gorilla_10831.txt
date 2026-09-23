@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jim, the Photographer
+Photo URL    : https://www.flickr.com/photos/jcapaldi/7483500184/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 30 14:00:09 GMT+0200 2012
+Upload Date  : Mon Jul 2 03:11:21 GMT+0200 2012
+Geotag Info  : Latitude:39.972647, Longitude:-75.196180
+Views        : 193
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Western Lowland Gorilla (Gorilla gorilla gorilla)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Philadelphia Zoo
+Jun 30, 2012
+
+
++--------+
+|  TAGS  |
++--------+
+"Philadelphia Zoo" 

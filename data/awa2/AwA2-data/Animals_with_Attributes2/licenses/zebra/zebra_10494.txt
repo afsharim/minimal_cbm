@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mister-E
+Photo URL    : https://www.flickr.com/photos/mister-e/2320922635/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 27 08:18:05 GMT+0100 2008
+Upload Date  : Sun Mar 9 18:42:05 GMT+0100 2008
+Geotag Info  : Latitude:-25.116342, Longitude:31.928445
+Views        : 371
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Young Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Kruger "Kruger National Park" "South Africa" "game reserve" zebra 

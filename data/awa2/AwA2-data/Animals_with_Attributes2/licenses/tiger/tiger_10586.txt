@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : frozen stills
+Photo URL    : https://www.flickr.com/photos/durairaj/4614407131/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Mar 19 12:58:37 GMT+0100 2010
+Upload Date  : Mon May 17 11:40:23 GMT+0200 2010
+Views        : 187
+Comments     : 39
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Thanks for the explore
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

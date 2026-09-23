@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : larsjuh
+Photo URL    : https://www.flickr.com/photos/larsjuh/4754736888/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 1 21:02:39 GMT+0200 2010
+Upload Date  : Fri Jul 2 12:57:23 GMT+0200 2010
+Geotag Info  : Latitude:52.056541, Longitude:5.169475
+Views        : 3,402
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Crazy cow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+2010 cow koe "50mm 1.8" 

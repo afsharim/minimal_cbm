@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : hasor
+Photo URL    : https://www.flickr.com/photos/hasor/15964070767/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Dec 29 14:47:06 GMT+0100 2014
+Upload Date  : Tue Dec 30 21:32:18 GMT+0100 2014
+Views        : 872
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horse animal 

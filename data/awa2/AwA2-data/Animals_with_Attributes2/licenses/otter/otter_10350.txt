@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mark (Rebel T3i)
+Photo URL    : https://www.flickr.com/photos/rebel_350d/6038063242/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Aug 9 13:57:36 GMT+0200 2011
+Upload Date  : Sat Aug 13 12:26:33 GMT+0200 2011
+Geotag Info  : Latitude:53.640516, Longitude:-2.879962
+Views        : 260
+Comments     : 14
+
+
++---------+
+|  TITLE  |
++---------+
+Otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Otter WWT "Martin Mere" Wildlife "Canon EOS 350D" "Canon EF 75-300mm" 

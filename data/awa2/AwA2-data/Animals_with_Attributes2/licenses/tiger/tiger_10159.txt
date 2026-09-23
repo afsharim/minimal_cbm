@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Allan Hack
+Photo URL    : https://www.flickr.com/photos/aehack/15058644865/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Nov 7 14:01:10 GMT+0100 2007
+Upload Date  : Thu Aug 28 03:43:23 GMT+0200 2014
+Views        : 235
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Nov072007-91
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Siberian Tiger
+
+
++--------+
+|  TAGS  |
++--------+
+"San Francisco Zoo" "Siberian Tiger" "Panthera tigris altaica" 

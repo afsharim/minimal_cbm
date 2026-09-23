@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : foilman
+Photo URL    : https://www.flickr.com/photos/foilman/4443226949/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 13 14:39:53 GMT+0100 2010
+Upload Date  : Thu Mar 18 20:43:28 GMT+0100 2010
+Geotag Info  : Latitude:51.235993, Longitude:-0.911233
+Views        : 212
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+The Three Wise Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+sheep wool "roke farm" farm 

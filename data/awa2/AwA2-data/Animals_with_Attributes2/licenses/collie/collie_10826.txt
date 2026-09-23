@@ -1,0 +1,19 @@
++--------------------------------------+
+|       Pixabay Photo Metadata         |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : dispostar
+Photo URL    : https://pixabay.com/en/border-collie-dog-beach-754814/
+License      : CC0 Public Domain (https://creativecommons.org/publicdomain/zero/1.0/deed.en)
+Created      : July 29, 2013
+Uploaded     : May 7, 2015
+
++--------+
+|  TAGS  |
++--------+
+Border Collie, Dog, Beach, Purebred Dog, Summer

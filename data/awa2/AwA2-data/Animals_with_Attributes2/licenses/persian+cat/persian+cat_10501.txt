@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : © M Ä T T
+Photo URL    : https://www.flickr.com/photos/newspy23/5730175257/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue May 17 05:33:45 GMT+0200 2011
+Upload Date  : Tue May 17 18:06:54 GMT+0200 2011
+Geotag Info  : Latitude:27.011467, Longitude:49.656819
+Views        : 255
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Persian Cat
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Cat "Persian Cat" 400D Fauna 

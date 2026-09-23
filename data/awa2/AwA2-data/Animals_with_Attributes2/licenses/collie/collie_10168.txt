@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Andrew J. Sutherland
+Photo URL    : https://www.flickr.com/photos/sutherlandviolin/2223102251/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Nov 30 21:59:48 GMT+0100 2007
+Upload Date  : Sun Jan 27 19:56:49 GMT+0100 2008
+Geotag Info  : Latitude:52.742631, Longitude:-0.185050
+Views        : 149
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Collie
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

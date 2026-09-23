@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Peter Kaminski
+Photo URL    : https://www.flickr.com/photos/peterkaminski/1604811/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 20 18:04:14 GMT+0100 2004
+Upload Date  : Sun Nov 21 06:09:09 GMT+0100 2004
+Views        : 591
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Sara
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Sara, one of our pet rats, peeking out of Ethan's sleeve.
+
+
++--------+
+|  TAGS  |
++--------+
+animal pet rat rust 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : J.harwood
+Photo URL    : https://www.flickr.com/photos/harwood-images/5999484492/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 29 14:23:45 GMT+0200 2011
+Upload Date  : Mon Aug 1 22:25:50 GMT+0200 2011
+Geotag Info  : Latitude:53.053338, Longitude:-2.684097
+Views        : 275
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cholmondeley Horse Trials 2011 (36).JPG
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Cholmondeley Horse Trials" 

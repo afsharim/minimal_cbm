@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Wiblick
+Photo URL    : https://www.flickr.com/photos/wiblick/5048325974/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 3 12:53:22 GMT+0200 2010
+Upload Date  : Sun Oct 3 20:35:22 GMT+0200 2010
+Geotag Info  : Latitude:53.354560, Longitude:-6.304478
+Views        : 23
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Pig at Dublin Zoo  - 1
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

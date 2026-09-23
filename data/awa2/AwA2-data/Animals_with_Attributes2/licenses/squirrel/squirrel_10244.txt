@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : chapmankj75
+Photo URL    : https://www.flickr.com/photos/25553993@N02/6431964915/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 26 11:51:45 GMT+0100 2011
+Upload Date  : Wed Nov 30 19:21:18 GMT+0100 2011
+Views        : 568
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Grey Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Feeding nuts to the squirrels in the       
+local park
+
+
++--------+
+|  TAGS  |
++--------+
+chapmankj75 "Grey Squirrels" 

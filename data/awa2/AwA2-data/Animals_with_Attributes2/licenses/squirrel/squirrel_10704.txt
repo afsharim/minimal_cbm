@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : nordique
+Photo URL    : https://www.flickr.com/photos/nordique/2727052854/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 2 15:40:27 GMT+0200 2008
+Upload Date  : Sun Aug 3 04:00:44 GMT+0200 2008
+Views        : 26
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Or chipmunk?
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

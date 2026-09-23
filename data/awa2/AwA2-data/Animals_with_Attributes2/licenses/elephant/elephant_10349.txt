@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : outofthebox27
+Photo URL    : https://www.flickr.com/photos/outofthebox27/2089926950/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Dec 5 13:26:18 GMT+0100 2007
+Upload Date  : Wed Dec 5 22:26:18 GMT+0100 2007
+Geotag Info  : Latitude:28.034750, Longitude:-82.419047
+Views        : 486
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+elephant animals animal "busch gardens" outofthebox27 

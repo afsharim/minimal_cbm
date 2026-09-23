@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Free Flower Photos
+Photo URL    : https://www.flickr.com/photos/137445322@N04/23980951530/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 9 11:34:11 GMT+0100 2016
+Upload Date  : Sat Jan 9 20:38:41 GMT+0100 2016
+Views        : 57
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Konik horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Konik horse" 

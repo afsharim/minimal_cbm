@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : adactio
+Photo URL    : https://www.flickr.com/photos/adactio/13148819/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed May 4 18:16:02 GMT+0200 2005
+Upload Date  : Mon May 9 21:30:10 GMT+0200 2005
+Views        : 10,190
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Orca
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Two orcas, a female and a male, in British Columbia.
+
+
++--------+
+|  TAGS  |
++--------+
+orca "british columbia" "killer whale" 

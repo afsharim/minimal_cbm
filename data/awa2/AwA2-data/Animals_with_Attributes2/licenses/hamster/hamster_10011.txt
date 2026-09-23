@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : marksweb
+Photo URL    : https://www.flickr.com/photos/markwalker/15498701228/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Oct 31 18:18:41 GMT+0100 2014
+Upload Date  : Sat Nov 1 20:39:21 GMT+0100 2014
+Views        : 145
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+7d_test-012
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+7d "7d mkii" hamster spud "test shots" 

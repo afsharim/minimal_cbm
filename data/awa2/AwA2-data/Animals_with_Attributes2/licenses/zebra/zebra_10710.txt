@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : stachelbeer
+Photo URL    : https://www.flickr.com/photos/mario_storch/2062753189/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 24 14:49:07 GMT+0100 2007
+Upload Date  : Sun Nov 25 21:02:12 GMT+0100 2007
+Geotag Info  : Latitude:52.507787, Longitude:13.334848
+Views        : 51
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Zoo Berlin 

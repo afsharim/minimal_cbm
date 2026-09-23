@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : p0tpie
+Photo URL    : https://www.flickr.com/photos/p0tpie/7601487012/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 11 20:18:48 GMT+0200 2012
+Upload Date  : Thu Jul 19 06:20:30 GMT+0200 2012
+Views        : 121
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+bats
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

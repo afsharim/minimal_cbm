@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Aldaron
+Photo URL    : https://www.flickr.com/photos/aldaron/396490802/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 18 14:27:12 GMT+0100 2007
+Upload Date  : Tue Feb 20 15:51:23 GMT+0100 2007
+Geotag Info  : Latitude:40.851215, Longitude:-73.877300
+Views        : 1,134
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger in the Snow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A tiger at the Bronx Zoo, taking a bath.
+
+
++--------+
+|  TAGS  |
++--------+
+"bronx zoo" tiger snow 

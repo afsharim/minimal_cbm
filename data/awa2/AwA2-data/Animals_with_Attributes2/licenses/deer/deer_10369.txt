@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Harry Vale
+Photo URL    : https://www.flickr.com/photos/harryvale/2707361925/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Nov 10 13:13:12 GMT+0100 2008
+Upload Date  : Sun Jul 27 23:42:25 GMT+0200 2008
+Views        : 345
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A deer having a snack near a visitor centre at Shenandoah National Park.
+
+
++--------+
+|  TAGS  |
++--------+
+"usa virginia skyline drive Shenandoah National Park" deer animal "wild animals" 

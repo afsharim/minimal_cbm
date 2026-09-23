@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : pwallace81
+Photo URL    : https://www.flickr.com/photos/dozzie/4492713177/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Apr 5 11:07:11 GMT+0200 2010
+Upload Date  : Mon Apr 5 14:37:24 GMT+0200 2010
+Views        : 27
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Shepreth Wildlife Park" Animals Tiger 

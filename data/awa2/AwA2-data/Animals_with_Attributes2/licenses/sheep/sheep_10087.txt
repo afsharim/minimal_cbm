@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ptc24
+Photo URL    : https://www.flickr.com/photos/ptc24/3098940436/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 7 13:20:41 GMT+0200 2008
+Upload Date  : Wed Dec 10 22:23:29 GMT+0100 2008
+Views        : 232
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Baaaaaaaaa!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+sheep 

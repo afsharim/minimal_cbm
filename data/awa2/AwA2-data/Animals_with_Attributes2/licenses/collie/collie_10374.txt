@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Dave Peake
+Photo URL    : https://www.flickr.com/photos/davepeake/134584305/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jan 19 17:37:14 GMT+0100 2006
+Upload Date  : Tue Apr 25 04:55:54 GMT+0200 2006
+Geotag Info  : Latitude:-38.208106, Longitude:146.158676
+Views        : 579
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Jetson
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Jetson border collie 

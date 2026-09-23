@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Karl Stiler
+Photo URL    : https://www.flickr.com/photos/46604449@N08/4413136131/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 7 15:26:43 GMT+0100 2010
+Upload Date  : Sun Mar 7 15:26:43 GMT+0100 2010
+Views        : 199
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zoo Osnabrück, Lynx
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Lynx zoo osnabrück animals 

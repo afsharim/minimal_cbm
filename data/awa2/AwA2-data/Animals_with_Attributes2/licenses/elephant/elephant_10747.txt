@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Chester Zoo
+Photo URL    : https://www.flickr.com/photos/chesterzoo/3697619407/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 7 08:49:46 GMT+0200 2009
+Upload Date  : Tue Jul 7 17:49:46 GMT+0200 2009
+Views        : 834
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephants
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+<a href="http://www.chesterzoo.org" rel="nofollow">Visit Chester Zoo</a>
+
+
++--------+
+|  TAGS  |
++--------+
+elephant 

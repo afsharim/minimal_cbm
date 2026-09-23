@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Trinity
+Photo URL    : https://www.flickr.com/photos/trinity/43084/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 6 15:32:31 GMT+0200 2004
+Upload Date  : Mon Jun 7 04:42:47 GMT+0200 2004
+Geotag Info  : Latitude:39.006595, Longitude:-94.529864
+Views        : 318
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+KC Zoo #10
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Oh, I want a hippopotamus for Christmas....
+
+
++--------+
+|  TAGS  |
++--------+
+unfound photo zoo hippopotamus 2004 

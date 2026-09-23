@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/7217171296/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 7 18:00:39 GMT+0200 2012
+Upload Date  : Thu May 17 21:11:11 GMT+0200 2012
+Geotag Info  : Latitude:49.244640, Longitude:6.137795
+Views        : 2,950
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Hippopotamus at the surface of the water
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+One of these big mammals inside the water!
+
+
++--------+
+|  TAGS  |
++--------+
+hippo hippotamus big mammal portrait water surface gray pink amnéville zoo france nikon d700 ElephantsRhinosGiraffesHippos 

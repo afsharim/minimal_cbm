@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : andrusdevelopment
+Photo URL    : https://www.flickr.com/photos/wandrus/3825526798/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 15 09:57:27 GMT+0200 2009
+Upload Date  : Sun Aug 16 07:05:47 GMT+0200 2009
+Geotag Info  : Latitude:39.750720, Longitude:-104.946041
+Views        : 373
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bengal Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+denver zoo colorado Panthera tigris royal bengalensis 

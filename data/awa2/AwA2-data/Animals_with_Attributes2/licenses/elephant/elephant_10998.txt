@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : leander.canaris
+Photo URL    : https://www.flickr.com/photos/28299495@N04/3884359699/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jun 23 00:02:25 GMT+0200 2009
+Upload Date  : Thu Sep 3 20:41:06 GMT+0200 2009
+Views        : 735
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Toronto Zoo - elefant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+toronto zoo elefant 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : syonflick
+Photo URL    : https://www.flickr.com/photos/syonflick/8625351864/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Feb 27 20:37:37 GMT+0100 2013
+Upload Date  : Sat Apr 6 19:03:30 GMT+0200 2013
+Views        : 2,622
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Robo Dwarf Hamster
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+<a href="http://dwarfhamsterblog.com" rel="nofollow">dwarfhamsterblog.com</a> Ichigo, my white-face roborovski dwarf hamster on his blue hamster wheel.
+
+
++--------+
+|  TAGS  |
++--------+
+"dwarf hamster" "robo dwarf hamster" "roborovski dwarf hamster" 

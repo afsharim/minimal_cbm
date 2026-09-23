@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : offwhitehouse
+Photo URL    : https://www.flickr.com/photos/10844205@N00/5719714964/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri May 13 13:20:17 GMT+0200 2011
+Upload Date  : Sat May 14 20:46:42 GMT+0200 2011
+Views        : 12
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mikecogh
+Photo URL    : https://www.flickr.com/photos/mikecogh/787872626/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 12 16:56:09 GMT+0200 2007
+Upload Date  : Thu Jul 12 15:47:23 GMT+0200 2007
+Geotag Info  : Latitude:-35.114713, Longitude:139.106655
+Views        : 1,117
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Curious Giraffes
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+monarto zoo giraffes curious space green open mud 

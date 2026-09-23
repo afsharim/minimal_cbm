@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mostly Dans
+Photo URL    : https://www.flickr.com/photos/dannyboymalinga/6176136630/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Sep 23 11:27:33 GMT+0200 2011
+Upload Date  : Fri Sep 23 21:46:39 GMT+0200 2011
+Views        : 665
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+african elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+colchester zoo
+
+
++--------+
+|  TAGS  |
++--------+
+african elephant colchester zoo 

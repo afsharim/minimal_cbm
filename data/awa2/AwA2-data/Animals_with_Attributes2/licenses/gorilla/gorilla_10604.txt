@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : InnocentEyez
+Photo URL    : https://www.flickr.com/photos/innocenteyez/5874936114/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 23 14:14:13 GMT+0200 2011
+Upload Date  : Mon Jun 27 01:10:11 GMT+0200 2011
+Geotag Info  : Latitude:42.885440, Longitude:-78.878463
+Views        : 127
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Is Papa Bear Jealous?
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Buffalo Ny Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

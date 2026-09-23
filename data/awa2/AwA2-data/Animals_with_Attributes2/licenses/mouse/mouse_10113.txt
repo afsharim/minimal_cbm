@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : forestwildlife
+Photo URL    : https://www.flickr.com/photos/forestwildlife/5650352183/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 24 20:25:45 GMT+0200 2011
+Upload Date  : Sun Apr 24 22:07:12 GMT+0200 2011
+Views        : 52
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Mouse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This little guy decided to join the family party and managed to get a photo of it.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

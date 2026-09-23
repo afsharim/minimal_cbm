@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Martin Pettitt
+Photo URL    : https://www.flickr.com/photos/mdpettitt/3371618986/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Mar 17 10:42:02 GMT+0100 2009
+Upload Date  : Sat Mar 21 00:13:00 GMT+0100 2009
+Geotag Info  : Latitude:51.863275, Longitude:0.835690
+Views        : 322
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+17 March 2009
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Chimpanzee
+
+
++--------+
+|  TAGS  |
++--------+
+Chimpanzee "Colchester Zoo" Essex "Nikon 70-300mm f4.5-5.6 G AF-S VR IF-ED Lens" "Nikon D90" "Wildlife Park" Zoo 

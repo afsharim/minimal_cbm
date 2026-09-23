@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Isfugl
+Photo URL    : https://www.flickr.com/photos/erikjorgensen/5595790116/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Apr 5 14:09:16 GMT+0200 2011
+Upload Date  : Wed Apr 6 18:59:39 GMT+0200 2011
+Views        : 65
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Pigs - April 2011
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+pigs "sus scrofa" grise taxonomy:kingdom=Animalia Animalia taxonomy:phylum=Chordata Chordata taxonomy:class=Mammalia Mammalia taxonomy:order=Artiodactyla Artiodactyla taxonomy:family=Suidae Suidae taxonomy:genus=Sus Sus taxonomy:species=scrofa "taxonomy:binomial=Sus scrofa" pig taxonomy:common=pig PigIT 

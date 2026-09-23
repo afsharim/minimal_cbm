@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MarkDoliner
+Photo URL    : https://www.flickr.com/photos/markdoliner/23574317/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 2 23:36:45 GMT+0200 2005
+Upload Date  : Mon Jul 4 21:52:52 GMT+0200 2005
+Views        : 317
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Toro
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Toro Chihuahua dog 

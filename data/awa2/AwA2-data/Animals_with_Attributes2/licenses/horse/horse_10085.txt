@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : eXtensionHorses
+Photo URL    : https://www.flickr.com/photos/64081615@N06/5842706347/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 17 11:53:04 GMT+0200 2011
+Upload Date  : Fri Jun 17 20:53:04 GMT+0200 2011
+Views        : 607
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bay_horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horses eXtensionhorses 

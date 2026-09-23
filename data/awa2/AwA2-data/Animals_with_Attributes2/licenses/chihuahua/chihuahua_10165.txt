@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Toby Lee Spiegel
+Photo URL    : https://www.flickr.com/photos/34703706@N02/3225957048/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jan 1 00:19:38 GMT+0100 2003
+Upload Date  : Sun Jan 25 18:04:44 GMT+0100 2009
+Views        : 1,957
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Coco the Chihuahua Dog
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Coco was given to me at age 1 1/2.  The family who had him was unable to keep him.
+
+
++--------+
+|  TAGS  |
++--------+
+chihuahua dog 

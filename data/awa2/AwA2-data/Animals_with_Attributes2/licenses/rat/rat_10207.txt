@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jlhopgood
+Photo URL    : https://www.flickr.com/photos/jlhopgood/6162116957/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Sep 19 13:33:43 GMT+0200 2011
+Upload Date  : Mon Sep 19 14:34:16 GMT+0200 2011
+Views        : 431
+Comments     : 6
+
+
++---------+
+|  TITLE  |
++---------+
+Mummy Rat
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+rat 

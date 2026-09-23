@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : BeautifulFreaks
+Photo URL    : https://www.flickr.com/photos/jeremymiles/196289332/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 15 15:28:53 GMT+0200 2006
+Upload Date  : Sun Jul 23 19:50:53 GMT+0200 2006
+Geotag Info  : Latitude:51.864832, Longitude:0.834445
+Views        : 3,924
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephants being fed
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Elephants being fed
+
+
++--------+
+|  TAGS  |
++--------+
+elephants colchesterzoo 

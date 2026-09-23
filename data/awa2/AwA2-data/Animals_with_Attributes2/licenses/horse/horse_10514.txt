@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Nick Savchenko
+Photo URL    : https://www.flickr.com/photos/nsavch/8702429608/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 2 12:43:52 GMT+0200 2013
+Upload Date  : Thu May 2 17:48:38 GMT+0200 2013
+Geotag Info  : Latitude:50.145964, Longitude:30.474014
+Views        : 1,807
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horse riding
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+friesian horse "horse riding" girl 

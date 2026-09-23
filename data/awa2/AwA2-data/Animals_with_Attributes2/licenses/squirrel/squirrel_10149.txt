@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : iadk
+Photo URL    : https://www.flickr.com/photos/iadk/2217873222/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jan 24 12:41:28 GMT+0100 2008
+Upload Date  : Fri Jan 25 02:02:15 GMT+0100 2008
+Views        : 113
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Don't touch my nuts!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A very cold squirrel.
+
+
++--------+
+|  TAGS  |
++--------+
+Squirrel 

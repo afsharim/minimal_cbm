@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : icarusjj
+Photo URL    : https://www.flickr.com/photos/icarusjj/8528512979/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 4 15:23:54 GMT+0200 2002
+Upload Date  : Mon Mar 4 22:41:40 GMT+0100 2013
+Views        : 29
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+White tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Photo I took in 2002, trying different uploader.
+
+
++--------+
+|  TAGS  |
++--------+
+2002 tiger 

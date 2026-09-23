@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : lauren elyse photography
+Photo URL    : https://www.flickr.com/photos/littlelaurenelyse/2401771317/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Apr 9 13:56:57 GMT+0200 2008
+Upload Date  : Thu Apr 10 05:11:25 GMT+0200 2008
+Geotag Info  : Latitude:47.671210, Longitude:-122.348835
+Views        : 271
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Grizzley
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Woodland Park Zoo" animals "grizzley bear" "brown bear" 

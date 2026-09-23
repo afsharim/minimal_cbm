@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Yoriczka@Tokyo
+Photo URL    : https://www.flickr.com/photos/yoriczka/4111502333/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 15 13:50:06 GMT+0100 2009
+Upload Date  : Tue Nov 17 14:03:20 GMT+0100 2009
+Views        : 58
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger - Plate 2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+animal tiger 

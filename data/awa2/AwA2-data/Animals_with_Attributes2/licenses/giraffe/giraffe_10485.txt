@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : DrBartje
+Photo URL    : https://www.flickr.com/photos/drbartje/3867834511/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 28 12:54:16 GMT+0200 2009
+Upload Date  : Sat Aug 29 21:50:46 GMT+0200 2009
+Geotag Info  : Latitude:51.517235, Longitude:5.111646
+Views        : 12,119
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Giraffe @ Safari Park Beekse Bergen (<a href="http://www.safaripark.nl/" rel="nofollow">www.safaripark.nl/</a>)
+
+
++--------+
+|  TAGS  |
++--------+
+Giraffe "Safari Park" "Beekse Bergen" 

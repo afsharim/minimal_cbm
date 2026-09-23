@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : tm-tm
+Photo URL    : https://www.flickr.com/photos/tm-tm/3554694163/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 7 11:40:39 GMT+0200 2007
+Upload Date  : Sat May 23 01:35:27 GMT+0200 2009
+Geotag Info  : Latitude:59.424190, Longitude:24.663362
+Views        : 583
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Musk-ox at Tallinn Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zoo Tallinn Estonia muskox Eesti Europe osm:way=24803538 osm:node=443610921 

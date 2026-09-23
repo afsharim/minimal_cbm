@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Rexness
+Photo URL    : https://www.flickr.com/photos/rexness/4334180574/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 6 09:58:44 GMT+0100 2010
+Upload Date  : Sat Feb 6 05:53:29 GMT+0100 2010
+Geotag Info  : Latitude:-37.784011, Longitude:144.950308
+Views        : 335
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Otters
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Animals "Melbourne Zoo" zoo Melbourne mammals otters 

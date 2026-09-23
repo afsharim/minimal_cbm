@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ross_Goodman
+Photo URL    : https://www.flickr.com/photos/ross_goodman/357546074/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Dec 5 00:05:44 GMT+0100 2006
+Upload Date  : Mon Jan 15 00:48:14 GMT+0100 2007
+Geotag Info  : Latitude:28.392004, Longitude:-81.571254
+Views        : 141
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_3240
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Holiday Florida 2006 Shamu "Killer Whale" 

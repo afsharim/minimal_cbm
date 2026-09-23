@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : steve p2008
+Photo URL    : https://www.flickr.com/photos/stevepj2009/3278953462/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 28 16:45:43 GMT+0200 2005
+Upload Date  : Sat Feb 14 15:22:06 GMT+0100 2009
+Views        : 955
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+how now brown cow
+
+
++--------+
+|  TAGS  |
++--------+
+yorkshire cow 

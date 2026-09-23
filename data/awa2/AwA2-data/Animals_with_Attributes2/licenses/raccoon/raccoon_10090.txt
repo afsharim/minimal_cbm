@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : kurtschwehr
+Photo URL    : https://www.flickr.com/photos/schwehr/2203205851/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 19 09:43:07 GMT+0100 2008
+Upload Date  : Sat Jan 19 16:18:09 GMT+0100 2008
+Views        : 52
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSCN8981
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+raccoon 

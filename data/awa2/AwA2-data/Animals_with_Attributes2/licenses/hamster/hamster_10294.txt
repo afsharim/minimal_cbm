@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : drewgstephens
+Photo URL    : https://www.flickr.com/photos/dinomite/3534128057/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri May 15 17:24:43 GMT+0200 2009
+Upload Date  : Sat May 16 02:24:43 GMT+0200 2009
+Geotag Info  : Latitude:37.556204, Longitude:-122.288659
+Views        : 500
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hamster
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+iPhone hamster office orange animal rodent GeniusCom 

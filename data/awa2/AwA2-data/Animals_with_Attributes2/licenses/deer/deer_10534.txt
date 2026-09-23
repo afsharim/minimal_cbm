@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jim, the Photographer
+Photo URL    : https://www.flickr.com/photos/jcapaldi/6019273489/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 5 12:11:18 GMT+0200 2011
+Upload Date  : Mon Aug 8 00:23:23 GMT+0200 2011
+Geotag Info  : Latitude:38.972422, Longitude:-74.835090
+Views        : 149
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Cape May County Zoo - August 5, 2011
+
+
++--------+
+|  TAGS  |
++--------+
+"Cape May County Park and Zoo" vacation 

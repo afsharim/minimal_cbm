@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : pfly
+Photo URL    : https://www.flickr.com/photos/pfly/181977610/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 4 06:50:18 GMT+0200 2006
+Upload Date  : Wed Jul 5 01:48:42 GMT+0200 2006
+Views        : 3,057
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Baby elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+It's true: when you have a baby, you start going to the zoo more.
+
+
++--------+
+|  TAGS  |
++--------+
+baby elephant seattle zoo 

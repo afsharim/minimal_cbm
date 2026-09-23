@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : monkeypuzzle
+Photo URL    : https://www.flickr.com/photos/monkeypuzzle/2643990564/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 30 08:29:32 GMT+0200 2008
+Upload Date  : Mon Jul 7 00:28:46 GMT+0200 2008
+Views        : 3,909
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horses
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+muck "isle of muck" horses ponies "highland pony" 

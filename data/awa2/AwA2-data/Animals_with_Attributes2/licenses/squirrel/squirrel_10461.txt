@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Titanium Trillium
+Photo URL    : https://www.flickr.com/photos/tristanmwilliams/5985962473/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 23 00:44:43 GMT+0200 2011
+Upload Date  : Fri Jul 29 04:07:03 GMT+0200 2011
+Views        : 269
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Red squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+How can a such a small animal be so noisy?
+
+
++--------+
+|  TAGS  |
++--------+
+"red squirrel" 

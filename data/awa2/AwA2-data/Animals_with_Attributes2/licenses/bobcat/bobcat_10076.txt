@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/11514523426/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 2 13:54:52 GMT+0200 2013
+Upload Date  : Mon Dec 23 15:02:34 GMT+0100 2013
+Geotag Info  : Latitude:46.565115, Longitude:6.773371
+Views        : 8,899
+Comments     : 101
+
+
++---------+
+|  TITLE  |
++---------+
+Resting lynx
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+I like this picture of the male linx posing on a rock!
+
+
++--------+
+|  TAGS  |
++--------+
+male lynx wild cat lying resting posing rock grass vegetation servion zoo lausanne switzerland nikon d4 

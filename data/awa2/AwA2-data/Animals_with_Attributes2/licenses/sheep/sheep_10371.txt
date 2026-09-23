@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Lukáš Lalinský
+Photo URL    : https://www.flickr.com/photos/lukasl/7761283416/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 29 11:33:31 GMT+0200 2012
+Upload Date  : Sat Aug 11 23:18:38 GMT+0200 2012
+Views        : 35
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_6253
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+sheep 

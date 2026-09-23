@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Bob the courier
+Photo URL    : https://www.flickr.com/photos/27828336@N00/17108458116/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Apr 10 11:55:41 GMT+0200 2015
+Upload Date  : Mon Apr 13 15:46:25 GMT+0200 2015
+Geotag Info  : Latitude:56.518878, Longitude:-5.345106
+Views        : 355
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Seals (3)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Scottish Sea life Sanctuary near Oban.
+
+
++--------+
+|  TAGS  |
++--------+
+Scotland Oban "Scottish Sea Life Sanctuary" Seals Seal "Grey Seal" 

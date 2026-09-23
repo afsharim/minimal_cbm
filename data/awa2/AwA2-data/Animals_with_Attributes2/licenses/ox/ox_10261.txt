@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Shaunak Modi
+Photo URL    : https://www.flickr.com/photos/biwan/8717662485/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed May 1 15:54:27 GMT+0200 2013
+Upload Date  : Tue May 7 22:27:18 GMT+0200 2013
+Geotag Info  : Latitude:20.135246, Longitude:79.475784
+Views        : 347
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Gaur, Tadoba
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+<i>Bos gaurus</i>
+
+
++--------+
+|  TAGS  |
++--------+
+"Tadoba Andhari Tiger Reserve" Maharashtra India "Shaunak B Modi" Mammals 

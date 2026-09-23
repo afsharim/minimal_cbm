@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Stéfan
+Photo URL    : https://www.flickr.com/photos/st3f4n/132809402/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jan 1 00:00:00 GMT+0100 2004
+Upload Date  : Sat Apr 22 14:17:20 GMT+0200 2006
+Geotag Info  : Latitude:47.815114, Longitude:6.369495
+Views        : 434
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Lynx
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+chat neige snow maya cat neko 

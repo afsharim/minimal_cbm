@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/5906901160/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 16 15:45:18 GMT+0200 2011
+Upload Date  : Wed Jul 6 01:24:25 GMT+0200 2011
+Geotag Info  : Latitude:47.050651, Longitude:8.554229
+Views        : 13,344
+Comments     : 12
+
+
++---------+
+|  TITLE  |
++---------+
+Two bears walking in the grass
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Last bear picture for now, taken at the Tierpark Arth Goldau in Switzerland.
+
+
++--------+
+|  TAGS  |
++--------+
+bear bears two walking pacing grass spring brown european enclosure tierpark arth goldau switzerland nikon d700 

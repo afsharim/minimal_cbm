@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : pbryd
+Photo URL    : https://www.flickr.com/photos/pbryd/3215916365/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jan 21 15:49:22 GMT+0100 2009
+Upload Date  : Thu Jan 22 00:49:22 GMT+0100 2009
+Views        : 1,930
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Black and white horse from flamingo land
+
+
++--------+
+|  TAGS  |
++--------+
+zebra 

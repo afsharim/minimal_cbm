@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : thart2009
+Photo URL    : https://www.flickr.com/photos/thart2009/4040320325/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 24 18:37:20 GMT+0200 2009
+Upload Date  : Sun Oct 25 00:39:29 GMT+0200 2009
+Views        : 321
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Elitechrome xpro.
+
+
++--------+
+|  TAGS  |
++--------+
+elitechrome xpro "cross processing" thart2009 n2000 "tetanal press kit" "Ashland, OH" "Tom Hart" 

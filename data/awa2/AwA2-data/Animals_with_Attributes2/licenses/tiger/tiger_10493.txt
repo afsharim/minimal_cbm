@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MuninMoon
+Photo URL    : https://www.flickr.com/photos/patrick-dannewitz/2835699629/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 31 11:18:29 GMT+0200 2008
+Upload Date  : Sun Sep 7 17:16:30 GMT+0200 2008
+Views        : 32
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Tiger
+
+
++--------+
+|  TAGS  |
++--------+
+"Zoo Köln 2008" 

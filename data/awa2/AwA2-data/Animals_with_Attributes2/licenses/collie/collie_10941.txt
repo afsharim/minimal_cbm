@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Scot Campbell
+Photo URL    : https://commons.wikimedia.org/wiki/File:Border_Collie_sheepdog_trial.jpg
+License      : Creative Commons (https://en.wikipedia.org/wiki/en:Creative_Commons) Attribution-Share Alike 2.0 Generic (//creativecommons.org/licenses/by-sa/2.0/deed.en)
+Date         : 2007-11-04 11:45:10

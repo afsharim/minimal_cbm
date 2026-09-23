@@ -1,0 +1,13 @@
++--------------------------------------+
+|             Photo Metadata           |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sylvia duckworth
+Photo URL    : http://www.geograph.org.uk/photo/3173199
+License      : Creative Commons Attribution-ShareAlike 2.0 Generic (https://creativecommons.org/licenses/by-sa/2.0/)
+Date         : 22. October 2012

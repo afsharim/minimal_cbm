@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : hile
+Photo URL    : https://www.flickr.com/photos/hile/17272170/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 3 23:02:05 GMT+0200 2005
+Upload Date  : Fri Jun 3 22:02:05 GMT+0200 2005
+Views        : 208
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+050602_080820
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+My cat  Noir. He is an exotic persian breed. Taken with my camera phone, Siemens M55.
+
+
++--------+
+|  TAGS  |
++--------+
+finland helsinki pasila itä-pasila cat noir exotic persian 

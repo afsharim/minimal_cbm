@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : captainmcdan
+Photo URL    : https://www.flickr.com/photos/captainmcdan/4346557337/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 6 10:25:57 GMT+0100 2010
+Upload Date  : Wed Feb 10 23:10:25 GMT+0100 2010
+Views        : 2,003
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+Hamster
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+2010 February Hamster "Dwarf Hamster" "Sigma 17-70mm f2.8-4.5 DC MACRO" "Canon Speedlite 430EXII" "Campbells Russian Dwarf Hamster" 

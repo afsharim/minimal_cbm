@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : a.pitch
+Photo URL    : https://www.flickr.com/photos/a_pitch/3116990672/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 14 15:12:30 GMT+0100 2008
+Upload Date  : Wed Dec 17 23:41:43 GMT+0100 2008
+Views        : 1,469
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Sweaty One Blue Eye Horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Blue Eyed Horses" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : adicarl0
+Photo URL    : https://www.flickr.com/photos/8317381@N03/500334484/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 5 14:37:52 GMT+0200 2004
+Upload Date  : Wed May 16 05:34:50 GMT+0200 2007
+Geotag Info  : Latitude:40.682395, Longitude:-73.008184
+Views        : 408
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Perched at the beach house
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+cat sofa "fire island" persian sitting beach 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : CaptainBagpuss
+Photo URL    : https://www.flickr.com/photos/79245843@N02/9185418052/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 12 16:01:28 GMT+0200 2013
+Upload Date  : Mon Jul 1 18:00:56 GMT+0200 2013
+Views        : 41
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : patrikneckman
+Photo URL    : https://www.flickr.com/photos/patrikneckman/7678327122/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 6 11:42:02 GMT+0200 2012
+Upload Date  : Mon Jul 30 20:23:44 GMT+0200 2012
+Geotag Info  : Latitude:59.328400, Longitude:18.108301
+Views        : 825
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lynx Lynx
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Lynx lynx
+
+
++--------+
+|  TAGS  |
++--------+
+lynx 

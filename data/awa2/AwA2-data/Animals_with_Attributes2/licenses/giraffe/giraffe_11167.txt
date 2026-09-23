@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : andrusdevelopment
+Photo URL    : https://www.flickr.com/photos/wandrus/6881408160/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 24 13:14:31 GMT+0100 2012
+Upload Date  : Thu Mar 29 21:21:22 GMT+0200 2012
+Geotag Info  : Latitude:39.750720, Longitude:-104.946041
+Views        : 100
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+denver colorado zoo giraffe 

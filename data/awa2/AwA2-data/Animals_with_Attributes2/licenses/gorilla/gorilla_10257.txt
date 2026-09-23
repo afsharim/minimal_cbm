@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mr TGT
+Photo URL    : https://www.flickr.com/photos/mrtgt/90460312/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 7 04:42:37 GMT+0100 2006
+Upload Date  : Tue Jan 24 02:50:43 GMT+0100 2006
+Views        : 252
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Gorilla asleep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+ape apes monkey monkeys gorilla sleep 

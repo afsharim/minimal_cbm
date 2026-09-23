@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Philipp Butzug
+Photo URL    : https://www.flickr.com/photos/photophlib/6999975561/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 10 16:53:59 GMT+0100 2012
+Upload Date  : Tue Mar 20 15:01:57 GMT+0100 2012
+Geotag Info  : Latitude:49.414403, Longitude:8.661028
+Views        : 120
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+2012.03.10  Zoo Heidelberg-5893
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Zoo Heidelberg Waschbär Familie Essen 

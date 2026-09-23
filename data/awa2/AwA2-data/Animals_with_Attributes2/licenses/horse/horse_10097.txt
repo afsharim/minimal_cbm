@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Pavel Sigarteu
+Photo URL    : https://www.flickr.com/photos/blueriotriver/3131585811/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 21 13:26:31 GMT+0100 2008
+Upload Date  : Wed Dec 24 03:13:31 GMT+0100 2008
+Geotag Info  : Latitude:-34.775020, Longitude:150.692993
+Views        : 1,770
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Berry Horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+berry horse australia nsw 

@@ -1,0 +1,38 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Eric Borda
+Photo URL    : https://www.flickr.com/photos/eric81/2800670618/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 10 19:44:03 GMT+0100 2007
+Upload Date  : Tue Aug 26 19:44:03 GMT+0200 2008
+Views        : 208
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Trichi - Bagnolo Piemonte (CN)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+ITA
+Il mio bellissimo criceto
+
+ENG
+My beautiful hamster
+
+
++--------+
+|  TAGS  |
++--------+
+criceto hamster "eric borda" 

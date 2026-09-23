@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Christoph Strässler
+Photo URL    : https://www.flickr.com/photos/christoph_straessler/10142211696/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 11 20:06:42 GMT+0200 2013
+Upload Date  : Mon Oct 7 20:32:59 GMT+0200 2013
+Geotag Info  : Latitude:58.554385, Longitude:-155.781819
+Views        : 352
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Brown Bear Mother with Yearlings
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+16-9 "Alaska 2013" Braunbär "Brooks Camp" "Katmai National Park" Alaska USA 

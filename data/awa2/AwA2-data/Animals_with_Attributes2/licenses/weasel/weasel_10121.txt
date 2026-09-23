@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Marie Hale
+Photo URL    : https://www.flickr.com/photos/15016964@N02/6605882785/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Dec 27 14:03:15 GMT+0100 2011
+Upload Date  : Sat Dec 31 12:01:10 GMT+0100 2011
+Views        : 1,441
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Siberian weasel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Siberian weasel - taken at Longleat Safari Park, Wiltshire on 27th December 2011
+
+
++--------+
+|  TAGS  |
++--------+
+weasel 

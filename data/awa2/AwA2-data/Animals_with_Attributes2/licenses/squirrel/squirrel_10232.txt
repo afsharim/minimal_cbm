@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Bobolink
+Photo URL    : https://www.flickr.com/photos/bobolink/4291226261/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jan 20 13:25:45 GMT+0100 2010
+Upload Date  : Thu Jan 21 01:40:16 GMT+0100 2010
+Geotag Info  : Latitude:44.295511, Longitude:-77.553520
+Views        : 645
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Grey Squirrel_0299
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Squirrels returned to my back porch today.
+
+
++--------+
+|  TAGS  |
++--------+
+"Grey Squirrel" Stirling Ontario 

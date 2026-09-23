@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : International Livestock Research Institute
+Photo URL    : https://www.flickr.com/photos/ilri/5249165104/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Mar 7 10:47:00 GMT+0100 2008
+Upload Date  : Fri Dec 10 15:30:55 GMT+0100 2010
+Geotag Info  : Latitude:25.883939, Longitude:93.938972
+Views        : 1,360
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Stuffed sleeping pig in Nagaland, India
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A pig sleeps off his repast of boiled rice in Nikhekhu Village, Dimapur, Nagaland, India (photo credit: ILRI/Stevie Mann).
+
+
++--------+
+|  TAGS  |
++--------+
+India Nagaland Portrait ILRI Pigs "Animal feeding" assp 

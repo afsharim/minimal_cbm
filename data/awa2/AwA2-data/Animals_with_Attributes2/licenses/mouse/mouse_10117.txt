@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : alberth2
+Photo URL    : https://www.flickr.com/photos/alberth2/6498769267/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Dec 12 18:10:38 GMT+0100 2011
+Upload Date  : Mon Dec 12 13:38:31 GMT+0100 2011
+Geotag Info  : Latitude:25.022808, Longitude:121.532833
+Views        : 1,207
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Mouse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Mouse 老鼠 

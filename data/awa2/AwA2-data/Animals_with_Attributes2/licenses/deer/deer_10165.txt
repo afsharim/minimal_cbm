@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Fifi Banana
+Photo URL    : https://www.flickr.com/photos/94119531@N06/8593658722/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 6 15:25:54 GMT+0200 2006
+Upload Date  : Tue Mar 26 22:00:55 GMT+0100 2013
+Views        : 90
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer 2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Bradgate  Park, Leicestershire
+
+
++--------+
+|  TAGS  |
++--------+
+deer Bradgate 

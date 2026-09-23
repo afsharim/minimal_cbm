@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : vic_burton
+Photo URL    : https://www.flickr.com/photos/vicki_burton/8540211374/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 5 14:23:49 GMT+0100 2013
+Upload Date  : Fri Mar 8 20:15:21 GMT+0100 2013
+Geotag Info  : Latitude:51.535360, Longitude:-0.154007
+Views        : 238
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe, London Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"london zoo" london zoo animal animals giraffe tall "long neck" neck brown tan 

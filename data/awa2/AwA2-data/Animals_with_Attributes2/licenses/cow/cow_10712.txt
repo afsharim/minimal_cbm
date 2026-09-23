@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : USDAgov
+Photo URL    : https://www.flickr.com/photos/usdagov/4196136050/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Dec 18 17:01:00 GMT+0100 2009
+Upload Date  : Fri Dec 18 23:01:00 GMT+0100 2009
+Views        : 4,562
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Dairy Cow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Dairy Cow
+
+
++--------+
+|  TAGS  |
++--------+
+dairy cow 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : RobBixbyPhotography
+Photo URL    : https://www.flickr.com/photos/scubabix/11919079116/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 12 10:53:45 GMT+0100 2014
+Upload Date  : Mon Jan 13 01:39:14 GMT+0100 2014
+Geotag Info  : Latitude:30.401927, Longitude:-81.644659
+Views        : 243
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+JaxZoo_1-12-14-4428.jpg
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Jacksonville zoo animals Gorilla" 

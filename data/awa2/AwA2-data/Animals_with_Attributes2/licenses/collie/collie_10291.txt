@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : TheWarners
+Photo URL    : https://www.flickr.com/photos/thewarners/457884537/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Apr 13 13:42:11 GMT+0200 2007
+Upload Date  : Fri Apr 13 19:42:11 GMT+0200 2007
+Geotag Info  : Latitude:43.121253, Longitude:-80.283107
+Views        : 181
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+G, Fighting Puppies, March 2007
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Brown puppy at the bottom is Callie
+
+
++--------+
+|  TAGS  |
++--------+
+callie collie bearded beardie "bearded collie" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : vadim5241
+Photo URL    : https://www.flickr.com/photos/58134/15233300665/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 22 11:20:29 GMT+0200 2012
+Upload Date  : Sun Sep 14 10:58:07 GMT+0200 2014
+Geotag Info  : Latitude:44.681226, Longitude:-1.016407
+Views        : 1,002
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+blanc
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+audenge, gironde, aquitaine, france, juillet 2012
+
+
++--------+
+|  TAGS  |
++--------+
+blanc white audenge cheval horse 

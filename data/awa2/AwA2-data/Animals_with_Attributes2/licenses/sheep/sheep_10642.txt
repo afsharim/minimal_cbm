@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mikecogh
+Photo URL    : https://www.flickr.com/photos/mikecogh/8118657342/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Oct 3 02:07:55 GMT+0200 2012
+Upload Date  : Wed Oct 24 12:02:43 GMT+0200 2012
+Geotag Info  : Latitude:56.062933, Longitude:-3.498646
+Views        : 735
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Scottish Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Crossford sheep pasture field flock rural 

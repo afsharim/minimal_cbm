@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Seph Swain
+Photo URL    : https://www.flickr.com/photos/seph_swain/3072166328/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 30 16:06:20 GMT+0100 2008
+Upload Date  : Sun Nov 30 21:37:12 GMT+0100 2008
+Geotag Info  : Latitude:47.862413, Longitude:12.214651
+Views        : 108
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Pferd
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+.oO(Kann das Handy mit dem er mich gerade photographiert auch SD Karten mit über 2GB und VoIP per WLAN?)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

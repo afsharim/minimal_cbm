@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : SidPix
+Photo URL    : https://www.flickr.com/photos/sidm/3199293847/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 2 10:24:51 GMT+0100 2008
+Upload Date  : Thu Jan 15 22:16:17 GMT+0100 2009
+Geotag Info  : Latitude:-42.423044, Longitude:173.716764
+Views        : 886
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Fur Seal
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+New Zealand Fur Seal (Arctocephalus forsteri) at Point Kean, Kaikoura.
+
+
++--------+
+|  TAGS  |
++--------+
+seal kaikoura "new zealand" "Arctocephalus forsteri" marine mammal 

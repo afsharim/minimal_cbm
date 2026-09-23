@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : donjd2
+Photo URL    : https://www.flickr.com/photos/ddebold/24817102409/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 20 13:00:07 GMT+0100 2016
+Upload Date  : Mon Feb 22 05:20:17 GMT+0100 2016
+Geotag Info  : Latitude:36.811886, Longitude:-121.780728
+Views        : 120
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Mama Sea Otter with Pup
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"elkhorn slough safari" pup "moss landing" "sea otter" California "United States" US 

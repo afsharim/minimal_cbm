@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Roger's Eye <(r)>
+Photo URL    : https://www.flickr.com/photos/rogersview/6913692623/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Feb 20 14:12:20 GMT+0100 2012
+Upload Date  : Tue Feb 21 03:39:50 GMT+0100 2012
+Geotag Info  : Latitude:43.817881, Longitude:-79.183595
+Views        : 97
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Toronto Metro Zoo Canon 60d "Metro Toronto Zoo" 

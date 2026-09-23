@@ -1,0 +1,38 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : S.Media
+Photo URL    : https://www.flickr.com/photos/68083217@N03/9614271146/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 7 10:03:19 GMT+0200 2013
+Upload Date  : Wed Aug 28 09:52:36 GMT+0200 2013
+Views        : 884
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Canon EOS 600D
+shutter speed: 1/160 sec
+f-stop: f/5.6
+iso speed rating: 100
+lens: EF-S18-55mm f/3.5-5.6 IS II
+
+
++--------+
+|  TAGS  |
++--------+
+photography photo photos pic pics TagsForLikes picture pictures snapshot art beautiful instagood picoftheday photooftheday color all_shots exposure focus capture moment 

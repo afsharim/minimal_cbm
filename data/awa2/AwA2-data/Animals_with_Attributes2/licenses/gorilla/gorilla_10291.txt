@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : JRyanWall
+Photo URL    : https://www.flickr.com/photos/jryanwall/1514886487/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Oct 8 10:13:51 GMT+0200 2007
+Upload Date  : Mon Oct 8 16:13:51 GMT+0200 2007
+Geotag Info  : Latitude:39.144839, Longitude:-84.509539
+Views        : 549
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Gorilla Mom and Baby
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Cincinnati Zoo" Gorilla 

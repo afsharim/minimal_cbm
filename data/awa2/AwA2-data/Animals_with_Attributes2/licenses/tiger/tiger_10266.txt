@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MSVG
+Photo URL    : https://www.flickr.com/photos/msvg/4532633110/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 18 10:07:02 GMT+0200 2010
+Upload Date  : Sun Apr 18 23:17:38 GMT+0200 2010
+Geotag Info  : Latitude:43.820509, Longitude:-79.180934
+Views        : 216
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sumatran Tigers
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+sumatran tiger Panthera tigris sumatrae Felidae Carnivora Mammalia Indomalaya Indo malaya metro metropolitan zoo Toronto Ontario Canada animals animal Region Class Order Family Genus Scientific Name 

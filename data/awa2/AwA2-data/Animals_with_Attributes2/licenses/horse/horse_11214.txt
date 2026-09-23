@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : RichardBH
+Photo URL    : https://www.flickr.com/photos/rbh/14200943578/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 24 11:32:12 GMT+0200 2014
+Upload Date  : Tue Jun 10 04:27:45 GMT+0200 2014
+Views        : 145
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Moose the horse.
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horse 

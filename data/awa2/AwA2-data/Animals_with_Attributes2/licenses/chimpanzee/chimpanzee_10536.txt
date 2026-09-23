@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Eric Kilby
+Photo URL    : https://www.flickr.com/photos/ekilby/4513191796/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 10 16:21:10 GMT+0200 2010
+Upload Date  : Mon Apr 12 03:24:05 GMT+0200 2010
+Geotag Info  : Latitude:42.064268, Longitude:-71.586366
+Views        : 6,554
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Learning to Climb
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+southwick zoo chimp chimpanzee ape baby climb learn 

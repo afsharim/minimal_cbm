@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : boydknife
+Photo URL    : https://www.flickr.com/photos/boydknife/3033073178/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 15 15:21:45 GMT+0100 2008
+Upload Date  : Sat Nov 15 22:21:45 GMT+0100 2008
+Views        : 81
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+Raccoon
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+wrong 

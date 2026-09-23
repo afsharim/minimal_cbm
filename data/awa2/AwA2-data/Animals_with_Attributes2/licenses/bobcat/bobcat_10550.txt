@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : EVERYMAN FILMS
+Photo URL    : https://www.flickr.com/photos/seattlecamera/14243331638/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 14 15:21:04 GMT+0200 2014
+Upload Date  : Sun Jun 15 21:37:54 GMT+0200 2014
+Geotag Info  : Latitude:51.333230, Longitude:1.116708
+Views        : 690
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+LYNX
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : -OliverMacaulay-
+Photo URL    : https://www.flickr.com/photos/ollie_macaulay/6066841109/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 14 17:19:48 GMT+0200 2011
+Upload Date  : Mon Aug 22 00:44:00 GMT+0200 2011
+Geotag Info  : Latitude:50.213725, Longitude:-5.476727
+Views        : 98
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Seal in St. Ives Harbour
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Taken from St.Ives harbour, the seal was quite happy to have his photo taken.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

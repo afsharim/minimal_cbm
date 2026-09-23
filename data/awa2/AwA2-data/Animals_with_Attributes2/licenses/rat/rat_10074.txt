@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mattymatt
+Photo URL    : https://www.flickr.com/photos/mattymatt/4930759210/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 26 16:12:08 GMT+0200 2010
+Upload Date  : Fri Aug 27 01:13:02 GMT+0200 2010
+Geotag Info  : Latitude:37.774833, Longitude:-122.454834
+Views        : 74
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Comfy pillow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+rats 

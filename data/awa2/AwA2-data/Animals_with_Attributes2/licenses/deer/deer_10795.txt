@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ian Holmes
+Photo URL    : https://www.flickr.com/photos/ianholmes/24729820333/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 28 21:47:21 GMT+0100 2016
+Upload Date  : Sun Feb 28 22:47:21 GMT+0100 2016
+Views        : 69
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_3236
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+deer 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : dwphotos
+Photo URL    : https://www.flickr.com/photos/dwphotos/158390828/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 1 19:18:05 GMT+0200 2006
+Upload Date  : Fri Jun 2 04:18:05 GMT+0200 2006
+Views        : 402
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Snow Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+cats tiger 

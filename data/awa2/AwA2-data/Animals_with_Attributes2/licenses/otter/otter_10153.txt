@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jeffedoe
+Photo URL    : https://www.flickr.com/photos/jeffedoe/2173569384/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 6 14:08:30 GMT+0100 2008
+Upload Date  : Mon Jan 7 00:23:22 GMT+0100 2008
+Views        : 14
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Mote Otter!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+otter mud tree 

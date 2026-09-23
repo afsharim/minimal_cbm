@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Nigel's Europe & beyond 2
+Photo URL    : https://www.flickr.com/photos/zooeurope/4846825597/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 12 13:08:28 GMT+0200 2010
+Upload Date  : Sat Jul 31 22:36:55 GMT+0200 2010
+Geotag Info  : Latitude:52.507993, Longitude:13.337831
+Views        : 94
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Berlin Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Otters
+
+
++--------+
+|  TAGS  |
++--------+
+Berlin Germany "Berlin Zoo" 

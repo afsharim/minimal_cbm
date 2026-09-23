@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Sparkly Kate
+Photo URL    : https://www.flickr.com/photos/sparklykate/5921679434/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri May 6 14:53:26 GMT+0200 2011
+Upload Date  : Sun Jul 10 12:14:21 GMT+0200 2011
+Geotag Info  : Latitude:50.991096, Longitude:-1.284928
+Views        : 773
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+marwell zoo giraffe 

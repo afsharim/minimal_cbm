@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bowler1996p
+Photo URL    : https://www.flickr.com/photos/colley/2564170055/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 5 13:54:09 GMT+0200 2008
+Upload Date  : Mon Jun 9 17:25:57 GMT+0200 2008
+Geotag Info  : Latitude:43.817204, Longitude:-79.182995
+Views        : 158
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+20080605-135409
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Laura's grade 4 end-of-school field trip to the Toronto Zoo.  Judith went with her, and she went around with two classmates, Keirsten and Kara (sp?)
+
+
++--------+
+|  TAGS  |
++--------+
+"Toronto Zoo" elephant 

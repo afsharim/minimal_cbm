@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : potentials-LABart
+Photo URL    : https://www.flickr.com/photos/hoplab/19811451671/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue May 17 15:05:48 GMT+0200 2016
+Upload Date  : Sat Jul 18 21:26:05 GMT+0200 2015
+Views        : 5
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_0255
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horse 

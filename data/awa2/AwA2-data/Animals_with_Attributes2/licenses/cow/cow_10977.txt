@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Dr. EOS
+Photo URL    : https://www.flickr.com/photos/dr_eos/6135816500/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 10 16:10:12 GMT+0200 2011
+Upload Date  : Sun Sep 11 11:02:08 GMT+0200 2011
+Views        : 28
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Kuh
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

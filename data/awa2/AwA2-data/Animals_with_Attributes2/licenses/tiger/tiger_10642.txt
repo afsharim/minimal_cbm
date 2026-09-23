@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Alistair Hobbs
+Photo URL    : https://www.flickr.com/photos/ali_ba-ba/5699384882/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 16 10:58:54 GMT+0200 2011
+Upload Date  : Sun May 8 14:14:32 GMT+0200 2011
+Views        : 28
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Dusit Zoo, Bangkok
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

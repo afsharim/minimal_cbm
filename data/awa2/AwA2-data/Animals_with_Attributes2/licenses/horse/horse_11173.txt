@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : rebelpilot
+Photo URL    : https://www.flickr.com/photos/rebelpilot/418882/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 12 17:36:38 GMT+0200 2004
+Upload Date  : Mon Sep 13 02:36:38 GMT+0200 2004
+Views        : 122
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lucky the horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Horse 

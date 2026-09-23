@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Loimere
+Photo URL    : https://www.flickr.com/photos/loimere/152132780/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon May 22 01:05:03 GMT+0200 2006
+Upload Date  : Tue May 23 23:47:44 GMT+0200 2006
+Geotag Info  : Latitude:48.943700, Longitude:-92.445059
+Views        : 75
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Moose
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Turtle River" "Eltrut Lake" Canoe "Canoe Trip 2006" geotagged geo:lat=48.9437 geo:long=-92.445059 Loimere 

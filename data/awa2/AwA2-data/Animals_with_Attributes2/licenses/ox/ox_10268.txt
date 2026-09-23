@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Subharnab
+Photo URL    : https://www.flickr.com/photos/subharnab/2643683370/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 4 00:00:00 GMT+0200 2008
+Upload Date  : Sun Jul 6 22:58:03 GMT+0200 2008
+Geotag Info  : Latitude:11.698130, Longitude:76.612472
+Views        : 224
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Grazing ... and not very happy with us around
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(C) Subharnab Majumdar
+
+
++--------+
+|  TAGS  |
++--------+
+Bandipur E-300 

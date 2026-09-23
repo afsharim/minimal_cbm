@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : D'oh Boy
+Photo URL    : https://www.flickr.com/photos/137837832@N07/22676630098/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Oct 12 13:19:28 GMT+0200 2015
+Upload Date  : Tue Nov 17 19:00:42 GMT+0100 2015
+Views        : 31
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Beaverhead-Deer Lodge National Forest, Montana
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

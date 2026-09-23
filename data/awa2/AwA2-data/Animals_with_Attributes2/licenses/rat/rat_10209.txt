@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Skrewtape
+Photo URL    : https://www.flickr.com/photos/skrewtape/860043416/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 1 00:00:00 GMT+0200 2006
+Upload Date  : Fri Jul 20 19:31:31 GMT+0200 2007
+Geotag Info  : Latitude:47.387519, Longitude:-122.319663
+Views        : 733
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+My Rat, David Brin
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This is one of my rats, David Brin.  He's confused in this picture.
+
+
++--------+
+|  TAGS  |
++--------+
+rat 

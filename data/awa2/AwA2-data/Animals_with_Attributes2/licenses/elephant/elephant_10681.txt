@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mcoughlin
+Photo URL    : https://www.flickr.com/photos/mcoughlin/11330772206/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Nov 21 00:00:00 GMT+0100 2013
+Upload Date  : Thu Dec 12 00:31:29 GMT+0100 2013
+Geotag Info  : Latitude:-3.965640, Longitude:35.971984
+Views        : 580
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephants in the Rain
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Tarangire National Park (Tanzania) is known for the number of elephants that live there.
+
+
++--------+
+|  TAGS  |
++--------+
+tanzania tarangire elephant "african elephant" 

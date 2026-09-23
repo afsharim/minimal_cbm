@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Fuzzy Gerdes
+Photo URL    : https://www.flickr.com/photos/fuzzy/1042589824/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 4 14:29:59 GMT+0200 2007
+Upload Date  : Tue Aug 7 21:11:41 GMT+0200 2007
+Geotag Info  : Latitude:44.377367, Longitude:-121.650667
+Views        : 67
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+blackbutteranch horse oregon 

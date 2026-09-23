@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Philippe Berdalle
+Photo URL    : https://www.flickr.com/photos/berdcris2011/383015785/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 3 17:00:17 GMT+0100 2007
+Upload Date  : Wed Feb 7 21:29:16 GMT+0100 2007
+Views        : 60
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+THOIRY
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+l'oeil de lynx  03/02/2007
+
+
++--------+
+|  TAGS  |
++--------+
+lynx 

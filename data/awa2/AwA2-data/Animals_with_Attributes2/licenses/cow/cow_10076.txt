@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Stephen Fulljames
+Photo URL    : https://www.flickr.com/photos/emptyjames/2781448898/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 17 13:43:31 GMT+0200 2008
+Upload Date  : Wed Aug 20 15:41:44 GMT+0200 2008
+Geotag Info  : Latitude:50.849550, Longitude:0.117480
+Views        : 575
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Baby cow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"middle farm" cow calf 

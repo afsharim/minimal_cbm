@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Zach Welty
+Photo URL    : https://www.flickr.com/photos/zwww/3914486780/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Sep 3 12:33:56 GMT+0200 2009
+Upload Date  : Sun Sep 13 04:33:31 GMT+0200 2009
+Views        : 787
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Grizzly 2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+<i>(Ursus arctos)</i>
+Another zoo visit
+
+
++--------+
+|  TAGS  |
++--------+
+"san antonio zoo" grizzly bear "Ursus arctos" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : brian.gratwicke
+Photo URL    : https://www.flickr.com/photos/briangratwicke/7154427426/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri May 4 13:01:44 GMT+0200 2012
+Upload Date  : Tue May 8 01:03:03 GMT+0200 2012
+Geotag Info  : Latitude:8.911252, Longitude:-79.528741
+Views        : 2,006
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Crab-eating Racoon in the Trash
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Panama taxonomy:kingdom=Animalia Animalia taxonomy:phylum=Chordata Chordata taxonomy:class=Mammalia Mammalia taxonomy:order=Carnivora Carnivora taxonomy:family=Procyonidae Procyonidae taxonomy:genus=Procyon Procyon taxonomy:species=cancrivorus "taxonomy:binomial=Procyon cancrivorus" "Procyon cancrivorus" "Crab-eating Raccoon" Cangrejera "Mapache Lavador" Mayuato "taxonomy:common=Crab-eating Raccoon" taxonomy:common=Cangrejera "taxonomy:common=Mapache Lavador" taxonomy:common=Mayuato #greatnatureshots taxonomy:subphylum=Vertebrata Vertebrata inaturalist:observation=76243 

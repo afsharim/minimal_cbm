@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : exfordy
+Photo URL    : https://www.flickr.com/photos/exfordy/2486394359/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon May 12 18:06:12 GMT+0200 2008
+Upload Date  : Mon May 12 19:27:38 GMT+0200 2008
+Views        : 3,299
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Cyril resting
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+One our marauding squirrels, <a href="http://www.flickr.com/photos/exfordy/sets/72157601566416028/">Cyril</a> (or Cyrella?) resting on our back fence
+
+
++--------+
+|  TAGS  |
++--------+
+Cyril squirrel resting 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : NorthernLassUK
+Photo URL    : https://www.flickr.com/photos/northernlassuk/7980201418/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 20 15:19:23 GMT+0200 2012
+Upload Date  : Wed Sep 12 20:23:01 GMT+0200 2012
+Views        : 245
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Sumatran Tiger drying off
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+taken at South Lakes Wild Animal Park July 2012
+
+
++--------+
+|  TAGS  |
++--------+
+tiger 

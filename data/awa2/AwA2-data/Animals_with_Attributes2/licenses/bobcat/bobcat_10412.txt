@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : amandarichard421
+Photo URL    : https://www.flickr.com/photos/mndapnda421/5432165053/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jan 30 12:37:46 GMT+0100 2009
+Upload Date  : Thu Feb 10 04:28:55 GMT+0100 2011
+Views        : 504
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_0961e
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Eurasian Lynx
+Nashville Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

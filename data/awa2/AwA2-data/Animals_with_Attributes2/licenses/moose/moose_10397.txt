@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jason Langlois
+Photo URL    : https://www.flickr.com/photos/ogier300/5923116632/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 9 13:35:05 GMT+0200 2011
+Upload Date  : Sun Jul 10 20:30:17 GMT+0200 2011
+Geotag Info  : Latitude:49.093695, Longitude:-122.491968
+Views        : 123
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Moose
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Greater Vancouver Zoo" Aldergrove "zoo trip" animal 

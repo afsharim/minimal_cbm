@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jumpyjodes
+Photo URL    : https://www.flickr.com/photos/jumpyjodes/2460058023/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri May 2 18:10:23 GMT+0200 2008
+Upload Date  : Sat May 3 04:38:01 GMT+0200 2008
+Views        : 120
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+gorilla
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+SF San Francisco CA California USA zoo animals 

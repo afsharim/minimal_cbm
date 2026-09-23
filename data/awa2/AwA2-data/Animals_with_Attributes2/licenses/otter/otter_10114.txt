@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : LaurentGO
+Photo URL    : https://www.flickr.com/photos/laurentgo/6020451046/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 29 19:31:51 GMT+0200 2011
+Upload Date  : Mon Aug 8 03:43:30 GMT+0200 2011
+Geotag Info  : Latitude:36.974080, Longitude:-122.027131
+Views        : 356
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_2536 - Santa Cruz
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Santa Cruz" CA "United States" "Sea Otter" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Hunter-Desportes
+Photo URL    : https://www.flickr.com/photos/hdport/6037453090/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jan 1 00:00:00 GMT+0100 1975
+Upload Date  : Sat Aug 13 06:06:06 GMT+0200 2011
+Geotag Info  : Latitude:33.955873, Longitude:-80.861327
+Views        : 3,449
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Holstein Heifer (1975)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Dairy cow in central South Carolina, ca. 1975. (Scan from negative.)
+
+
++--------+
+|  TAGS  |
++--------+
+color 35mm Holstein cattle cow dairy 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mmmavocado
+Photo URL    : https://www.flickr.com/photos/mmmavocado/3756332363/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 18 03:54:54 GMT+0200 2009
+Upload Date  : Sun Jul 26 06:08:32 GMT+0200 2009
+Geotag Info  : Latitude:49.618940, Longitude:-57.955598
+Views        : 204
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Moose!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Alces alces.  Gros Morne National Park, Newfoundland
+
+
++--------+
+|  TAGS  |
++--------+
+Canada cervid Cervidae 

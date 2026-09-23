@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : aeu04117
+Photo URL    : https://www.flickr.com/photos/aeu04117/1337481846/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 26 12:00:34 GMT+0200 2007
+Upload Date  : Thu Sep 6 19:43:38 GMT+0200 2007
+Geotag Info  : Latitude:53.816552, Longitude:-3.011240
+Views        : 1,066
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+It's A Hard Knock Life For Us
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The elephant manages to achieve looking sad and happy at the same time.
+
+
++--------+
+|  TAGS  |
++--------+
+elephant leaning wall sad happy 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : daf73r
+Photo URL    : https://www.flickr.com/photos/daf73/4208102175/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 23 13:41:50 GMT+0100 2008
+Upload Date  : Wed Dec 23 14:58:14 GMT+0100 2009
+Geotag Info  : Latitude:43.026580, Longitude:11.089131
+Views        : 83
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+dscn0721
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Collie 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mafue
+Photo URL    : https://www.flickr.com/photos/mafue/6986438623/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Feb 2 13:36:28 GMT+0100 2012
+Upload Date  : Fri Mar 16 05:23:20 GMT+0100 2012
+Geotag Info  : Latitude:-37.876140, Longitude:175.665550
+Views        : 168
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep chewing
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+mafue 2012 "new zealand" "north island" 

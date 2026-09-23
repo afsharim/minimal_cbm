@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Freelancer1
+Photo URL    : https://www.flickr.com/photos/freelancer1/12047506/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon May 2 13:17:47 GMT+0200 2005
+Upload Date  : Tue May 3 01:32:42 GMT+0200 2005
+Views        : 15
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+He knows how to pose for a pic
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : KimonBerlin
+Photo URL    : https://www.flickr.com/photos/kimon/7533050534/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 5 11:38:44 GMT+0200 2010
+Upload Date  : Mon Jul 9 06:15:47 GMT+0200 2012
+Geotag Info  : Latitude:40.326252, Longitude:-105.853734
+Views        : 28
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Moose
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

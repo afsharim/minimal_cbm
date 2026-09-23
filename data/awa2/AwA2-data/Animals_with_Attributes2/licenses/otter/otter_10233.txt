@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : abdelazer
+Photo URL    : https://www.flickr.com/photos/abdelazer/376007148/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jan 30 15:20:59 GMT+0100 2007
+Upload Date  : Thu Feb 1 01:49:48 GMT+0100 2007
+Geotag Info  : Latitude:36.617801, Longitude:-121.901573
+Views        : 142
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Otter Scratching
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+montereybayaquarium aquarium monterey seaotter otter 

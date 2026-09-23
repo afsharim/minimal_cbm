@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/5923117974/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 16 18:40:51 GMT+0200 2011
+Upload Date  : Sun Jul 10 20:30:38 GMT+0200 2011
+Geotag Info  : Latitude:47.050651, Longitude:8.554229
+Views        : 3,986
+Comments     : 85
+
+
++---------+
+|  TITLE  |
++---------+
+Portrait of the walking lynx
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Last picture of the lynx and of the Tierpark Arth Goldau.
+Lynxes are such beautiful cats...
+
+
++--------+
+|  TAGS  |
++--------+
+lynx wild cat kitty feline european brown portrait face eyes male tierpark arth goldau switzerland nikon d700 

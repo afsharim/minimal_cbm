@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : moyerphotos
+Photo URL    : https://www.flickr.com/photos/moyermk/4120904969/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 10 12:52:17 GMT+0200 2009
+Upload Date  : Sat Nov 21 08:13:29 GMT+0100 2009
+Geotag Info  : Latitude:10.706940, Longitude:122.537384
+Views        : 332
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horse Transportation
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This was one of the many modes of transportation we took on the way to the church in the mountains.
+
+
++--------+
+|  TAGS  |
++--------+
+Horse Transportation 

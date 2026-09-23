@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Dan Arndt
+Photo URL    : https://www.flickr.com/photos/ubermoogle/3453939559/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 11 12:34:13 GMT+0200 2009
+Upload Date  : Sun Apr 19 05:34:12 GMT+0200 2009
+Geotag Info  : Latitude:51.046446, Longitude:-114.035199
+Views        : 136
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Calgary Zoo" "Siberian Tiger" 

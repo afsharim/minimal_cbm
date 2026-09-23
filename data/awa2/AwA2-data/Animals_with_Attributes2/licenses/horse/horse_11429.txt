@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jdog90
+Photo URL    : https://www.flickr.com/photos/forthefunofit/4214465208/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Nov 27 02:05:07 GMT+0100 2008
+Upload Date  : Sat Dec 26 00:14:21 GMT+0100 2009
+Views        : 1,616
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Side horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horse 

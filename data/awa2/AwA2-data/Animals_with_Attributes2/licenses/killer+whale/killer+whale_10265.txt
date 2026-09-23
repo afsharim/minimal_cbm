@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : brittreints
+Photo URL    : https://www.flickr.com/photos/emmandevin/8671601273/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 20 11:04:27 GMT+0200 2013
+Upload Date  : Mon Apr 22 18:11:43 GMT+0200 2013
+Geotag Info  : Latitude:28.408166, Longitude:-81.460500
+Views        : 338
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Shamu
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Shamu SeaWorld orca "killer whale" 

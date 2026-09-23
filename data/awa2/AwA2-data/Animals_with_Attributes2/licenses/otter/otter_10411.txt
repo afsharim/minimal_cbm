@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : DenSmith
+Photo URL    : https://www.flickr.com/photos/den-s/13926321021/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 19 18:39:56 GMT+0200 2014
+Upload Date  : Sun Apr 20 16:24:09 GMT+0200 2014
+Geotag Info  : Latitude:41.165797, Longitude:-74.901309
+Views        : 424
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+river otter in the Delaware River PA
+
+
++--------+
+|  TAGS  |
++--------+
+otter river water PA Delaware pike 

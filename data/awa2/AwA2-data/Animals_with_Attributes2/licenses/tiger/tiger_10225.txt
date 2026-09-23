@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ganders
+Photo URL    : https://www.flickr.com/photos/ganders/497864012/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon May 14 14:14:26 GMT+0200 2007
+Upload Date  : Mon May 14 15:14:26 GMT+0200 2007
+Geotag Info  : Latitude:51.865653, Longitude:0.835561
+Views        : 106
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Sleepy Tiger!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+tfttf "colchester zoo" tiger 

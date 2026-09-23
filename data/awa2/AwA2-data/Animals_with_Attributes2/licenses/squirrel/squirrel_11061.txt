@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Karsun Designs Photography
+Photo URL    : https://www.flickr.com/photos/karsund/22774747845/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 11 14:00:17 GMT+0200 2015
+Upload Date  : Wed Nov 4 10:20:07 GMT+0100 2015
+Views        : 99
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel 

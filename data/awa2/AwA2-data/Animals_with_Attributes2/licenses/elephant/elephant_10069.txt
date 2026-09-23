@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Christopher.Michel
+Photo URL    : https://www.flickr.com/photos/cmichel67/10502116486/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 31 05:15:27 GMT+0200 2013
+Upload Date  : Sun Oct 27 01:45:21 GMT+0200 2013
+Geotag Info  : Latitude:-1.376695, Longitude:36.774422
+Views        : 3,066
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+"Babar" remastered
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Christopher Michel" elephant 

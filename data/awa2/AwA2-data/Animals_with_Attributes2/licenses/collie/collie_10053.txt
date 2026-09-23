@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : a nowak
+Photo URL    : https://www.flickr.com/photos/nowak/5087161612/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Sep 1 19:31:41 GMT+0200 2009
+Upload Date  : Sat Oct 16 20:24:36 GMT+0200 2010
+Geotag Info  : Latitude:41.186018, Longitude:-85.178246
+Views        : 202
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Attentive
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"border collie" mutt dog 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MarchieCTID
+Photo URL    : https://www.flickr.com/photos/marchiectid/8400153400/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 12 14:00:15 GMT+0100 2013
+Upload Date  : Sun Jan 20 22:52:30 GMT+0100 2013
+Geotag Info  : Latitude:52.797986, Longitude:-4.081291
+Views        : 679
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Pig and Chicken
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Byrdir Chicken "Dyffryn Ardudwy" Gwynedd UK "United Kingdom" Wales bird gamebird kunekune mammal pig suidae 

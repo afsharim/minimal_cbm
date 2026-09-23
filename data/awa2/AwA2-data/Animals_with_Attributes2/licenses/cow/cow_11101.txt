@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sethoscope
+Photo URL    : https://www.flickr.com/photos/sethoscope/2884238402/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 10 14:04:44 GMT+0200 2008
+Upload Date  : Wed Sep 24 05:10:52 GMT+0200 2008
+Geotag Info  : Latitude:58.979059, Longitude:-3.286587
+Views        : 288
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+n1020040
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+moo
+
+
++--------+
+|  TAGS  |
++--------+
+scotland orkney stromness animal cow 

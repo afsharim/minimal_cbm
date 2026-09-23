@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : J.T. Lindroos
+Photo URL    : https://www.flickr.com/photos/84307396@N00/22276953473/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 8 12:31:00 GMT+0100 2015
+Upload Date  : Mon Nov 9 16:01:02 GMT+0100 2015
+Views        : 223
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebras
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Two zebras in pinstripe suits grazing at the Louisville Zoo, November 8, 2015.
+
+
++--------+
+|  TAGS  |
++--------+
+"Panasonic Lumix" lumix dmc FZ70 zoo animals Louisville zebra pinstripe grazing 

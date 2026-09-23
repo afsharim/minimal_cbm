@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Lim Darmawan
+Photo URL    : https://www.flickr.com/photos/lim71/6376858983/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Nov 21 21:52:18 GMT+0100 2011
+Upload Date  : Mon Nov 21 16:05:24 GMT+0100 2011
+Views        : 18
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

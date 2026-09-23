@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Dave Peake
+Photo URL    : https://www.flickr.com/photos/davepeake/134588860/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 11 10:29:10 GMT+0100 2005
+Upload Date  : Tue Apr 25 05:04:40 GMT+0200 2006
+Geotag Info  : Latitude:-38.208106, Longitude:146.158676
+Views        : 889
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Jetson and Binx
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Jetson and Binx under the tree
+
+
++--------+
+|  TAGS  |
++--------+
+Jetson Binx border collie 

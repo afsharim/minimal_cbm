@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Harlequeen
+Photo URL    : https://www.flickr.com/photos/harlequeen/8505184382/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 24 14:36:00 GMT+0100 2013
+Upload Date  : Sun Feb 24 22:19:53 GMT+0100 2013
+Geotag Info  : Latitude:51.165115, Longitude:-0.050908
+Views        : 182
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Fallow Fawn
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"British Wildlife Centre" deer 

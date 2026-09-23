@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : andrew_j_w
+Photo URL    : https://www.flickr.com/photos/andrew_j_w/4511578390/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 11 14:11:40 GMT+0200 2010
+Upload Date  : Sun Apr 11 19:02:23 GMT+0200 2010
+Geotag Info  : Latitude:51.766671, Longitude:-0.210757
+Views        : 221
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Muntjac Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+animal deer muntjac 

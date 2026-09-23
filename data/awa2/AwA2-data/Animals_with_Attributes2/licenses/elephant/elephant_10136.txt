@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jchification
+Photo URL    : https://www.flickr.com/photos/jchification/15107466884/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Oct 21 14:21:22 GMT+0200 2014
+Upload Date  : Thu Nov 6 22:58:34 GMT+0100 2014
+Geotag Info  : Latitude:-1.384689, Longitude:34.950058
+Views        : 123
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_4274
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+elephant 

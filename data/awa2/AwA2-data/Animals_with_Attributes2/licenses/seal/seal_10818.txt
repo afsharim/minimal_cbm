@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : kevinzim
+Photo URL    : https://www.flickr.com/photos/86624586@N00/35999762/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Aug 16 15:41:45 GMT+0200 2005
+Upload Date  : Mon Aug 22 00:43:22 GMT+0200 2005
+Views        : 1,161
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+seal1
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The Grey Seal, heaviest British mammal. It is commoner than the Common Seal, and uglier too.
+
+
++--------+
+|  TAGS  |
++--------+
+scotland seal grey gray marine sea animal mammal 

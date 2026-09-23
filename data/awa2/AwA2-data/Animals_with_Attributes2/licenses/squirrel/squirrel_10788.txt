@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : tkksummers
+Photo URL    : https://www.flickr.com/photos/tkksummers/4550426556/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 3 16:14:20 GMT+0200 2011
+Upload Date  : Sun Apr 25 09:31:19 GMT+0200 2010
+Views        : 17
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

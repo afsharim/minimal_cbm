@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : berniedup
+Photo URL    : https://www.flickr.com/photos/berniedup/11550400304/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Nov 28 13:37:40 GMT+0100 2013
+Upload Date  : Wed Dec 25 18:54:45 GMT+0100 2013
+Geotag Info  : Latitude:-24.017381, Longitude:31.667833
+Views        : 567
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hippo (Hippopotamus amphibius)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+N'wamanzi Lookout, H1-5 Road West of Olifants, Kruger NP, SOUTH AFRICA
+
+
++--------+
+|  TAGS  |
++--------+
+"Hippopotamus amphibius" "taxonomy:binomial=Hippopotamus amphibius" 

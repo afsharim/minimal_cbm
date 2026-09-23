@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : spj_chipmunk@sbcglobal.net
+Photo URL    : https://www.flickr.com/photos/randomjakel/3970572912/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Sep 30 20:24:11 GMT+0200 2009
+Upload Date  : Thu Oct 1 02:24:11 GMT+0200 2009
+Views        : 25
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

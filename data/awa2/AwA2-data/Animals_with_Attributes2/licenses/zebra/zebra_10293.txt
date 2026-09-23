@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Marcin Chady
+Photo URL    : https://www.flickr.com/photos/marcinchady/3853198675/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Aug 11 11:57:56 GMT+0200 2009
+Upload Date  : Mon Aug 24 23:41:02 GMT+0200 2009
+Geotag Info  : Latitude:52.665764, Longitude:14.995307
+Views        : 159
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_9095
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zebra 

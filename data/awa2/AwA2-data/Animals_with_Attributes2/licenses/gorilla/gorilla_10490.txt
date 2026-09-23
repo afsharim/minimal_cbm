@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : petercolesdc
+Photo URL    : https://www.flickr.com/photos/petercolesdc/3785963583/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 31 08:46:11 GMT+0200 2009
+Upload Date  : Mon Aug 3 23:57:16 GMT+0200 2009
+Geotag Info  : Latitude:-1.526461, Longitude:29.457778
+Views        : 299
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hirwa baby
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+From July 28 - Aug 2 2009 I worked in Rwanda with the IGCP
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

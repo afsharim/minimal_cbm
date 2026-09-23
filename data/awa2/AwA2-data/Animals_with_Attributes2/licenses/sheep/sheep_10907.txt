@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : wolfsavard
+Photo URL    : https://www.flickr.com/photos/wolfsavard/3168264800/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 4 08:50:21 GMT+0100 2009
+Upload Date  : Sun Jan 4 22:21:30 GMT+0100 2009
+Geotag Info  : Latitude:52.343052, Longitude:-1.529245
+Views        : 707
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+england "united kingdom" "stoneleigh abbey" kenilworth sheep 

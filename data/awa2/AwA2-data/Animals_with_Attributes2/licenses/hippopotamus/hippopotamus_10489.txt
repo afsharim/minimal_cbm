@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Eric Kilby
+Photo URL    : https://www.flickr.com/photos/ekilby/8045776669/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 29 16:17:06 GMT+0200 2012
+Upload Date  : Tue Oct 2 04:32:42 GMT+0200 2012
+Geotag Info  : Latitude:42.305284, Longitude:-71.088967
+Views        : 1,137
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hungry Pygmy Hippo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+franklin park zoo boston pygmy hippo hippopotamus swimming eating water 

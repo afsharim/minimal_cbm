@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : USFWS Headquarters
+Photo URL    : https://www.flickr.com/photos/usfwshq/6492407813/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 11 08:54:05 GMT+0100 2011
+Upload Date  : Sun Dec 11 14:54:05 GMT+0100 2011
+Views        : 2,251
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+young bobcats
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Bosque del Apache National Wildlife Refuge, NM
+Camera trap project by Matt Farley, Jennifer Miyashiro, and J.N. Stuart.
+Photo: J.N. Stuart, Creative Commons
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : twbuckner
+Photo URL    : https://www.flickr.com/photos/twbuckner/5947347689/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 17 16:39:46 GMT+0200 2011
+Upload Date  : Sun Jul 17 22:39:46 GMT+0200 2011
+Geotag Info  : Latitude:49.058232, Longitude:-113.904190
+Views        : 272
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Longhorn sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+waterton canada mountains longhorn sheep 

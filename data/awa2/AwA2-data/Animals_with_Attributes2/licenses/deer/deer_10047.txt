@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jcantroot
+Photo URL    : https://www.flickr.com/photos/jaybock/4431152808/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Mar 8 18:57:45 GMT+0100 2010
+Upload Date  : Sun Mar 14 04:37:42 GMT+0100 2010
+Geotag Info  : Latitude:39.396971, Longitude:-76.294426
+Views        : 521
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+A pair of deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Two white tailed deer in Gunpowder, MD
+
+
++--------+
+|  TAGS  |
++--------+
+deer wildlife maryland gunpowder 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : EuroMagic
+Photo URL    : https://www.flickr.com/photos/euromagic/422389007/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Mar 15 11:56:11 GMT+0100 2007
+Upload Date  : Thu Mar 15 21:37:51 GMT+0100 2007
+Geotag Info  : Latitude:55.683766, Longitude:12.592713
+Views        : 1,368
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Police horses 1
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The police on thier horses.
+
+
++--------+
+|  TAGS  |
++--------+
+denmark police horse 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : KJGarbutt
+Photo URL    : https://www.flickr.com/photos/kjgarbutt/6190175290/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 1 12:19:47 GMT+0200 2011
+Upload Date  : Tue Sep 27 22:56:21 GMT+0200 2011
+Geotag Info  : Latitude:51.535007, Longitude:-0.153808
+Views        : 283
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hungry Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+London Zoo KJGarbutt Kurtis Garbutt "Kurtis Garbutt" "London Zoo" Sheep Photography "KJGarbutt Photography" "Kurtis J Garbutt" 

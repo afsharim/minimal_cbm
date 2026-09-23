@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : David A Mitchell
+Photo URL    : https://www.flickr.com/photos/firstmac/5372427751/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 12 09:15:34 GMT+0200 2009
+Upload Date  : Thu Jan 20 16:42:18 GMT+0100 2011
+Views        : 135
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_0120C.jpg
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Animals Deer Wildlife 

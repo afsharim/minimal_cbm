@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : WayShare
+Photo URL    : https://www.flickr.com/photos/47042618@N06/7601878400/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 24 16:27:50 GMT+0200 2012
+Upload Date  : Thu Jul 19 08:20:55 GMT+0200 2012
+Geotag Info  : Latitude:52.349916, Longitude:-3.427219
+Views        : 199
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Wales - a walk to remember (43)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Hill sheep.
+
+
++--------+
+|  TAGS  |
++--------+
+midwales powys glyndwrsway sheep 

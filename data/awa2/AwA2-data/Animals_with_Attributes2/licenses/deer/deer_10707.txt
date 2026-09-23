@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Larry1732
+Photo URL    : https://www.flickr.com/photos/larry1732/23459877455/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 28 12:38:27 GMT+0100 2015
+Upload Date  : Wed Dec 2 04:49:25 GMT+0100 2015
+Views        : 94
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Bosque del Apache, New Mexico
+
+
++--------+
+|  TAGS  |
++--------+
+"bosque del apache" Bosque lamsa NM "New Mexico" "san antonio" deer 

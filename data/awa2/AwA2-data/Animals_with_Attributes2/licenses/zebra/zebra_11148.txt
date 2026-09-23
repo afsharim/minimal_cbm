@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Garden State Hiker
+Photo URL    : https://www.flickr.com/photos/elchode/20204669883/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Aug 18 16:26:40 GMT+0200 2015
+Upload Date  : Sun Aug 23 23:37:31 GMT+0200 2015
+Geotag Info  : Latitude:28.364743, Longitude:-81.593484
+Views        : 267
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebras
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Zebras
+
+
++--------+
+|  TAGS  |
++--------+
+Disney "Disney World" Florida "Animal Kingdom" Zebra 

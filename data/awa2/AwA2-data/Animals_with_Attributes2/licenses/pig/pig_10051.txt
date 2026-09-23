@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jonisanowl
+Photo URL    : https://www.flickr.com/photos/festivefrog/2212008322/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Dec 29 01:43:28 GMT+0100 2007
+Upload Date  : Tue Jan 22 11:39:09 GMT+0100 2008
+Geotag Info  : Latitude:-34.204167, Longitude:150.968896
+Views        : 7,237
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Aww... Pig...
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A cute pig, it looks kinda sad...
+
+
++--------+
+|  TAGS  |
++--------+
+Pig Symbio 

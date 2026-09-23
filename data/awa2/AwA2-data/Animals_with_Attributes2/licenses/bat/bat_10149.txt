@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Gilles San Martin
+Photo URL    : https://www.flickr.com/photos/sanmartin/2321181128/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 12 13:42:44 GMT+0100 2008
+Upload Date  : Sun Mar 9 14:35:51 GMT+0100 2008
+Views        : 3,238
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Myotis myotis
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+gtplecotus mammifere "Lanaye inférieure" bat "Grand Murin" "Greater mouse-eared bat" "Natura 2000" Belgium "Cave Life Photos" 

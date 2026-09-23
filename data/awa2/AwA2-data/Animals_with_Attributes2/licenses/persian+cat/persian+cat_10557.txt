@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : akk_rus
+Photo URL    : https://www.flickr.com/photos/akras/725611423/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 6 11:35:39 GMT+0100 2007
+Upload Date  : Thu Jul 5 14:22:08 GMT+0200 2007
+Geotag Info  : Latitude:55.645848, Longitude:37.396001
+Views        : 1,510
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Sad weather, sad cat...
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Marcello persian cat pet Nikon cats pets feline 

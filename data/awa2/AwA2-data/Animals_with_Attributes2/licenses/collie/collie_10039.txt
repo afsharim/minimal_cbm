@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : cellanr
+Photo URL    : https://www.flickr.com/photos/rorycellan/2766423114/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 15 13:26:15 GMT+0200 2008
+Upload Date  : Fri Aug 15 22:26:15 GMT+0200 2008
+Views        : 702
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+A dog on the news
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Cabbage the collie - perfectly obedient while I filmed for the Six O clock News
+
+
++--------+
+|  TAGS  |
++--------+
+dog news collie 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Harold Litwiler, Poppy Big Oak Photography
+Photo URL    : https://www.flickr.com/photos/a_little_brighter/16817402105/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 14 19:02:54 GMT+0100 2015
+Upload Date  : Sun Mar 15 03:03:54 GMT+0100 2015
+Geotag Info  : Latitude:35.371344, Longitude:-120.863685
+Views        : 427
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sea Otters and Baby
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : VSmithUK
+Photo URL    : https://www.flickr.com/photos/vsmithuk/3033929699/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Nov 4 11:19:57 GMT+0100 2008
+Upload Date  : Sun Nov 16 13:29:44 GMT+0100 2008
+Geotag Info  : Latitude:-3.149086, Longitude:35.538883
+Views        : 243
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hippo pools, Ngorongoro
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+<i>Hippopotamus amphibius</i>, Ngorongoro crater.
+
+
++--------+
+|  TAGS  |
++--------+
+Tanzania Ngorongoro GBIF Mammal _Favorite_ Life 

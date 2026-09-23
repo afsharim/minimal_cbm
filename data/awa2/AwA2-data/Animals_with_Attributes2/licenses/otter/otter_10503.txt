@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : JavaSquid
+Photo URL    : https://www.flickr.com/photos/javasquid/1713534442/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Oct 17 14:38:47 GMT+0200 2007
+Upload Date  : Tue Oct 23 19:31:48 GMT+0200 2007
+Views        : 93
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Otters
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"bronx zoo" otter 071017 

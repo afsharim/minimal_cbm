@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Sparkly Kate
+Photo URL    : https://www.flickr.com/photos/sparklykate/4727714725/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 6 16:36:11 GMT+0200 2010
+Upload Date  : Wed Jun 23 21:17:39 GMT+0200 2010
+Geotag Info  : Latitude:51.066859, Longitude:-1.323852
+Views        : 104
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_0360
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horse 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Genista
+Photo URL    : https://www.flickr.com/photos/genista/2447326/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 23 15:20:55 GMT+0200 2003
+Upload Date  : Wed Dec 22 23:11:36 GMT+0100 2004
+Geotag Info  : Latitude:37.863754, Longitude:-122.274141
+Views        : 4,586
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+rat and mouse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+pun rats funny animals pets mammals 

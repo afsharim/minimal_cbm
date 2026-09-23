@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : martinjamilis
+Photo URL    : https://www.flickr.com/photos/martinjamilis/5498451510/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Mar 4 17:29:59 GMT+0100 2011
+Upload Date  : Sat Mar 5 02:29:59 GMT+0100 2011
+Views        : 47
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Miradas
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horse 

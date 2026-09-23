@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : foilman
+Photo URL    : https://www.flickr.com/photos/foilman/5812966316/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 14 12:57:33 GMT+0200 2011
+Upload Date  : Wed Jun 8 21:48:10 GMT+0200 2011
+Geotag Info  : Latitude:51.089377, Longitude:-1.384184
+Views        : 137
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cows
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+cows sparsholt 

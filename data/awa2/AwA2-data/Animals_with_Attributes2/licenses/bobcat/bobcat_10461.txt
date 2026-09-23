@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Harlequeen
+Photo URL    : https://www.flickr.com/photos/harlequeen/6371205329/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 19 14:36:11 GMT+0100 2011
+Upload Date  : Sun Nov 20 20:36:26 GMT+0100 2011
+Geotag Info  : Latitude:52.114701, Longitude:0.035061
+Views        : 1,094
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lynx Close Up
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+European Lynx at Shepreth Wildlife Park.
+
+
++--------+
+|  TAGS  |
++--------+
+cambridgefurs sheprethwildlifepark lynx 

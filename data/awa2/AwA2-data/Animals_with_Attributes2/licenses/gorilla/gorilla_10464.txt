@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : therichbrooks
+Photo URL    : https://www.flickr.com/photos/therichbrooks/4745251457/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 28 15:28:24 GMT+0200 2010
+Upload Date  : Tue Jun 29 15:18:45 GMT+0200 2010
+Geotag Info  : Latitude:40.850474, Longitude:-73.876318
+Views        : 178
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Gorillas - Bronx Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"bronx zoo" bronx animals zoo "new york" ny 

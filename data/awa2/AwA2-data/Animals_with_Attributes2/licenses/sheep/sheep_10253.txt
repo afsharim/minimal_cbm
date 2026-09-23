@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : anasoux
+Photo URL    : https://www.flickr.com/photos/25979288@N06/7815998674/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 19 09:08:56 GMT+0200 2012
+Upload Date  : Sun Aug 19 18:08:56 GMT+0200 2012
+Geotag Info  : Latitude:56.169640, Longitude:15.049896
+Views        : 154
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Får på Tjärö
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+sswc sheep 

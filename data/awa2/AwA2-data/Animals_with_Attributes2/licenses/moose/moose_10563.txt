@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Scarygami
+Photo URL    : https://www.flickr.com/photos/scarygami/3682991744/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 2 15:19:22 GMT+0200 2009
+Upload Date  : Fri Jul 3 00:05:52 GMT+0200 2009
+Geotag Info  : Latitude:59.328198, Longitude:18.107442
+Views        : 197
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Skansen - Moose
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This time with antlers.
+
+
++--------+
+|  TAGS  |
++--------+
+Sweden Stockholm Skansen Moose 

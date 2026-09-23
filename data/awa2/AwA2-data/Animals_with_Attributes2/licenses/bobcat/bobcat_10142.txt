@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/25930974195/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 27 15:21:39 GMT+0100 2016
+Upload Date  : Sun Mar 20 14:00:14 GMT+0100 2016
+Geotag Info  : Latitude:47.050651, Longitude:8.554229
+Views        : 1,269
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lynx looking upwards
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Lynxes are funny when they look upwards!
+
+
++--------+
+|  TAGS  |
++--------+
+"looking upwards" funny portrait face lynx wild cat european feline goldau "arth goldau" tierpark zoo switzerland nikon d4 

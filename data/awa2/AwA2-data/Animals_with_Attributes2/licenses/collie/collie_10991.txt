@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Bellpej
+Photo URL    : https://commons.wikimedia.org/wiki/File:Border_Collie_-_Isla_female_4_years_old.JPG
+License      : Creative Commons (https://en.wikipedia.org/wiki/en:Creative_Commons) Attribution-Share Alike 2.5 Generic (//creativecommons.org/licenses/by-sa/2.5/deed.en)
+Date         : 2006-08-22

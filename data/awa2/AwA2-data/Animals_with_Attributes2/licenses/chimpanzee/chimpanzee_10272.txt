@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : russellstreet
+Photo URL    : https://www.flickr.com/photos/russellstreet/4534419918/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 5 10:03:45 GMT+0200 2009
+Upload Date  : Mon Apr 19 11:51:46 GMT+0200 2010
+Geotag Info  : Latitude:-37.774312, Longitude:175.216666
+Views        : 492
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Chimpanzee
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Animal Chimpanzee Hamilton "Hamilton Zoo" "New Zealand" "Pan troglodytes" Waikato NZL 

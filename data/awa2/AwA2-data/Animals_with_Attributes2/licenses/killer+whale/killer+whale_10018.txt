@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : pelican
+Photo URL    : https://www.flickr.com/photos/pelican/20582542/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 13 13:45:42 GMT+0200 2004
+Upload Date  : Tue Jun 21 02:14:58 GMT+0200 2005
+Views        : 2,202
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Adventure World, Shirahama, Japan
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Orca's vigorous jump.
+
+
++--------+
+|  TAGS  |
++--------+
+shirahama adventureworld orca show jump blue zoo 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Scott Lindsey
+Photo URL    : https://www.flickr.com/photos/scottlindsey/5472433456/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Feb 4 08:45:58 GMT+0100 2011
+Upload Date  : Thu Feb 24 00:00:21 GMT+0100 2011
+Views        : 136
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC00269
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Border Collie 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Aug 23, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : anafuentes
+Photo URL    : https://www.flickr.com/photos/anafuentes/27803044106/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 18 10:41:18 GMT+0200 2016
+Upload Date  : Wed Jun 22 15:51:56 GMT+0200 2016
+Geotag Info  : Latitude:41.675412, Longitude:2.360086
+Views        : 470
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Focus
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Seminario de DiscDog en Natural Gos con Adrian Stoica.
+
+
++--------+
+|  TAGS  |
++--------+
+70-200mm "disc dog" "flying disc" frisbee "natural gos" "nikon d750" "Border Collie" "Working Dogs" "Dog Sports" 

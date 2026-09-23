@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Anja Jonsson
+Photo URL    : https://www.flickr.com/photos/45535917@N07/8624020675/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 6 10:49:39 GMT+0200 2013
+Upload Date  : Sat Apr 6 17:58:12 GMT+0200 2013
+Geotag Info  : Latitude:57.742144, Longitude:12.948707
+Views        : 100
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tigers
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+tiger Borås zoo "Borås djurpark" 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : hinchles
+Photo URL    : https://www.flickr.com/photos/hinchles/9226450960/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 21 12:34:32 GMT+0200 2013
+Upload Date  : Sat Jul 6 23:06:41 GMT+0200 2013
+Views        : 1,771
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Taken at Yorkshire wildlife park
+
+
++--------+
+|  TAGS  |
++--------+
+siberian tiger SYWP "South Yorkshire Wildlife Park" 

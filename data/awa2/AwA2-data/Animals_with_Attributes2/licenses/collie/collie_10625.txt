@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Matty Ring
+Photo URL    : https://www.flickr.com/photos/mattring/8559292201/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 9 15:51:56 GMT+0100 2013
+Upload Date  : Fri Mar 15 18:31:19 GMT+0100 2013
+Geotag Info  : Latitude:50.780841, Longitude:-1.066070
+Views        : 136
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Collie Cross Dog Grass Sam 

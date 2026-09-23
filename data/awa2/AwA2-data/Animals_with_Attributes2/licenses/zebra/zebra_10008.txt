@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Just chaos
+Photo URL    : https://www.flickr.com/photos/7326810@N08/2675765186/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 1 09:58:13 GMT+0200 2008
+Upload Date  : Thu Jul 17 01:22:01 GMT+0200 2008
+Views        : 34
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Darma Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

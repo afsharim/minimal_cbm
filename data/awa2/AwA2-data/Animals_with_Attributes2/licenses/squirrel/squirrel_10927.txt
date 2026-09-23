@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Florent Parcevaux
+Photo URL    : https://www.flickr.com/photos/florentparcevaux/8258306171/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 9 23:12:04 GMT+0100 2012
+Upload Date  : Sun Dec 9 23:03:06 GMT+0100 2012
+Geotag Info  : Latitude:45.520300, Longitude:-73.633804
+Views        : 78
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+animal canada squirrel travel 

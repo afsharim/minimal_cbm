@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : h080
+Photo URL    : https://www.flickr.com/photos/7718908@N04/6545399283/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 30 14:56:13 GMT+0100 2011
+Upload Date  : Tue Dec 20 21:51:43 GMT+0100 2011
+Views        : 576
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"dudley zoo" tiger 

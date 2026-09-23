@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : TomConger
+Photo URL    : https://www.flickr.com/photos/tomconger/2944664653/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Oct 13 13:42:33 GMT+0200 2008
+Upload Date  : Wed Oct 15 22:54:42 GMT+0200 2008
+Views        : 260
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+tiger fur stripes mammal cat FlickrBigCats 

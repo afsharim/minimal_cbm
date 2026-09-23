@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : César Rincón
+Photo URL    : https://www.flickr.com/photos/crincon/967513629/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 23 14:03:40 GMT+0200 2004
+Upload Date  : Wed Aug 1 02:38:35 GMT+0200 2007
+Geotag Info  : Latitude:20.730373, Longitude:-103.305923
+Views        : 130
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+20041023140340-0
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zoo chimpanzee chimp monkey 

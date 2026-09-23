@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Hunter-Desportes
+Photo URL    : https://www.flickr.com/photos/hdport/8301123474/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Aug 8 15:59:49 GMT+0200 2000
+Upload Date  : Sun Dec 23 18:30:41 GMT+0100 2012
+Geotag Info  : Latitude:55.575676, Longitude:12.557287
+Views        : 420
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSCN7255
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Horses at Amager, 2000.
+
+
++--------+
+|  TAGS  |
++--------+
+horse amager denmark copenhagen hest 

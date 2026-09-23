@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ricrossi
+Photo URL    : https://www.flickr.com/photos/ricrossi/325846096/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 3 17:26:18 GMT+0200 2006
+Upload Date  : Mon Dec 18 09:21:38 GMT+0100 2006
+Views        : 261
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Killer whale in BC
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Canada " British Columbia" 

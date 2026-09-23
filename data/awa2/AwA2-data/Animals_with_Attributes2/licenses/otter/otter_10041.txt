@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : BinaryApe
+Photo URL    : https://www.flickr.com/photos/binaryape/4444325310/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 13 15:21:04 GMT+0100 2010
+Upload Date  : Thu Mar 18 23:28:01 GMT+0100 2010
+Geotag Info  : Latitude:53.622333, Longitude:-2.863667
+Views        : 226
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Bubble
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+otter bubble 

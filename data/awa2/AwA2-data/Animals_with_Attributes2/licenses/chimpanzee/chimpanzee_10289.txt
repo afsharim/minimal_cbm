@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ryan Kilpatrick
+Photo URL    : https://www.flickr.com/photos/rkilpatrick21/5947190000/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 17 05:25:26 GMT+0200 2011
+Upload Date  : Sun Jul 17 19:23:27 GMT+0200 2011
+Views        : 225
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Chimpanzee
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Mystic Monkey" "South Africa" wildlife 

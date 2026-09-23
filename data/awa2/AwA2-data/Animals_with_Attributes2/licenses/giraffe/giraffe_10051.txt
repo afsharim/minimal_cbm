@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : viralbus
+Photo URL    : https://www.flickr.com/photos/viralbus/761955159/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 4 12:55:55 GMT+0200 2007
+Upload Date  : Mon Jul 9 19:52:51 GMT+0200 2007
+Geotag Info  : Latitude:55.811981, Longitude:9.351180
+Views        : 1,963
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+A giraffe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A giraffe in Løveparken, Givskud, Denmark.
+
+
++--------+
+|  TAGS  |
++--------+
+løveparken giraffe 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : necrocake
+Photo URL    : https://www.flickr.com/photos/necrocake/2282235749/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Feb 22 02:50:01 GMT+0100 2008
+Upload Date  : Fri Feb 22 02:50:01 GMT+0100 2008
+Views        : 154
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hannelore and her peanut
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+another picture of her eating her peanut
+
+
++--------+
+|  TAGS  |
++--------+
+roborovski robo hamster "dwarf hamster" pet pets 

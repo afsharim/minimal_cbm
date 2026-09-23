@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : DrPizza
+Photo URL    : https://www.flickr.com/photos/drpizza/3921071711/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 13 00:00:14 GMT+0200 2009
+Upload Date  : Tue Sep 15 04:18:01 GMT+0200 2009
+Views        : 85
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_4740
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+raccoon "seattle meet 2009" 

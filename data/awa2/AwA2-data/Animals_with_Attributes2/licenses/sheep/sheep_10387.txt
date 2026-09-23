@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : haxney
+Photo URL    : https://www.flickr.com/photos/hax/5466892299/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Feb 21 17:07:39 GMT+0100 2011
+Upload Date  : Tue Feb 22 05:44:21 GMT+0100 2011
+Geotag Info  : Latitude:41.767222, Longitude:-73.144167
+Views        : 68
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_20110221_170742
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+sheep farm animals 

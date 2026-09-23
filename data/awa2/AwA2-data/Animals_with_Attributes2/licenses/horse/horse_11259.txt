@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : normanack
+Photo URL    : https://www.flickr.com/photos/29278394@N00/696701481/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 2 14:11:21 GMT+0200 2007
+Upload Date  : Mon Jul 2 20:11:21 GMT+0200 2007
+Views        : 1,963
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+paint horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Sleek and pretty.
+
+
++--------+
+|  TAGS  |
++--------+
+"horse camp" paint horse 

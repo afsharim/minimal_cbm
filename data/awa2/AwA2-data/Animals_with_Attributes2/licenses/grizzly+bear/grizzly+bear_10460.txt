@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MiguelVieira
+Photo URL    : https://www.flickr.com/photos/miguelvieira/5899377907/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 3 15:38:57 GMT+0200 2011
+Upload Date  : Mon Jul 4 06:03:46 GMT+0200 2011
+Geotag Info  : Latitude:38.771668, Longitude:-104.853590
+Views        : 5,882
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Grizzly bears (Ursus arctos horribilis) at Cheyenne Mountain Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+taxonomy:kingdom=Animalia Animalia taxonomy:phylum=Chordata Chordata taxonomy:class=Mammalia Mammalia taxonomy:order=Carnivora Carnivora taxonomy:family=Ursidae Ursidae taxonomy:genus=Ursus Ursus taxonomy:species=arctos "taxonomy:binomial=Ursus arctos" "Ursus arctos" "brown bear" "grizzly bear" "Mexican grizzly bear" "Oso pardo" "OURS BRUN" "taxonomy:common=brown bear" "taxonomy:common=grizzly bear" "taxonomy:common=Mexican grizzly bear" "taxonomy:common=Oso pardo" "taxonomy:common=OURS BRUN" "Cheyenne Mountain Zoo" Colorado July 2011 

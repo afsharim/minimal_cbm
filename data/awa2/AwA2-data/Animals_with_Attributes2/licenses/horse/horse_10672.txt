@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : andrewmalone
+Photo URL    : https://www.flickr.com/photos/andrewmalone/5611075417/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 13 12:56:34 GMT+0100 2011
+Upload Date  : Tue Apr 12 01:37:10 GMT+0200 2011
+Geotag Info  : Latitude:43.071166, Longitude:-71.359667
+Views        : 456
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+animal horse 

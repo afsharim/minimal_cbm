@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Loimere
+Photo URL    : https://www.flickr.com/photos/loimere/1175588793/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 9 13:04:52 GMT+0200 2007
+Upload Date  : Mon Aug 20 02:06:56 GMT+0200 2007
+Geotag Info  : Latitude:45.092989, Longitude:-63.388752
+Views        : 23
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Moose
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"East Coast Trip" Loimere 

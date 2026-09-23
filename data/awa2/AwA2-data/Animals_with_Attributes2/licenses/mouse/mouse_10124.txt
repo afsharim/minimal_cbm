@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : seelensturm
+Photo URL    : https://www.flickr.com/photos/seelensturm/8702794444/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Feb 27 19:03:03 GMT+0100 2013
+Upload Date  : Thu May 2 20:13:18 GMT+0200 2013
+Views        : 114
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+mouse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Balkongast
+
+
++--------+
+|  TAGS  |
++--------+
+seelensturm.de Maus 

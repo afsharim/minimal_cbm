@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jason Charlesworth
+Photo URL    : https://www.flickr.com/photos/34255412@N06/5579390916/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Mar 23 13:11:58 GMT+0100 2011
+Upload Date  : Fri Apr 1 12:49:30 GMT+0200 2011
+Geotag Info  : Latitude:53.853437, Longitude:-1.676273
+Views        : 665
+Comments     : 19
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel nature animal UK England eating 

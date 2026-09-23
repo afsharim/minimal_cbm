@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : cacophonyx
+Photo URL    : https://www.flickr.com/photos/cacophonyx/2796626525/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 25 10:45:19 GMT+0200 2008
+Upload Date  : Mon Aug 25 20:54:46 GMT+0200 2008
+Geotag Info  : Latitude:52.002743, Longitude:-0.588798
+Views        : 202
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+a zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Woburn Safari Bedfordshire Creatures Zebra 

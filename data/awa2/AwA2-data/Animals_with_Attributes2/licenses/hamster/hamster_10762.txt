@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : cliff1066™
+Photo URL    : https://www.flickr.com/photos/nostri-imago/2919866885/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Oct 6 22:11:23 GMT+0200 2008
+Upload Date  : Tue Oct 7 04:11:23 GMT+0200 2008
+Geotag Info  : Latitude:38.846496, Longitude:-77.075025
+Views        : 1,421
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Wolfe, Panda Bear Hamster
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Cricetinae Hamster Pet Rodent "Panda Bear" 

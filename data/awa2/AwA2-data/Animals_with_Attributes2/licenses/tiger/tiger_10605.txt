@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : DanieleCivello
+Photo URL    : https://www.flickr.com/photos/civellod/5006019984/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Sep 17 21:51:46 GMT+0200 2010
+Upload Date  : Sun Sep 19 23:30:34 GMT+0200 2010
+Views        : 306
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Tiger im Kölner Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+Zoo Tiger Analog 

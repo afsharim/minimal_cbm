@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ben Mason
+Photo URL    : https://www.flickr.com/photos/siberianluck/2875677808/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 21 06:49:55 GMT+0200 2008
+Upload Date  : Sun Sep 21 16:19:21 GMT+0200 2008
+Geotag Info  : Latitude:39.745201, Longitude:-105.124515
+Views        : 67
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel 

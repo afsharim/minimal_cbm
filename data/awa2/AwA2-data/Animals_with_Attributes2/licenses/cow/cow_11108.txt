@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : stanzebla
+Photo URL    : https://www.flickr.com/photos/stanzebla/8714373091/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 5 18:07:58 GMT+0200 2013
+Upload Date  : Mon May 6 21:39:31 GMT+0200 2013
+Geotag Info  : Latitude:49.179571, Longitude:0.594162
+Views        : 1,590
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Normande Cow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Ist auch eine Normande-Kuh, weil der Kopf ganz schwarz ist, ist das aber schwer zu sehen. Vachement normande.
+
+
++--------+
+|  TAGS  |
++--------+
+"Normande cattle" "Normanne Rinder" 

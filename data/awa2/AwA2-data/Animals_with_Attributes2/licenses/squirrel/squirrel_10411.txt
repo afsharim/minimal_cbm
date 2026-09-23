@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : two tribes
+Photo URL    : https://www.flickr.com/photos/twotribes/6741260715/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 22 09:58:09 GMT+0100 2012
+Upload Date  : Sun Jan 22 11:23:48 GMT+0100 2012
+Geotag Info  : Latitude:48.772164, Longitude:9.157758
+Views        : 220
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+One of our agency's squirrels
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel 

@@ -1,0 +1,39 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : berniedup
+Photo URL    : https://www.flickr.com/photos/berniedup/20282141882/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Feb 1 00:00:00 GMT+0100 1994
+Upload Date  : Tue Aug 4 18:11:35 GMT+0200 2015
+Geotag Info  : Latitude:28.603982, Longitude:77.246589
+Views        : 375
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+"White" Tiger (Panthera tigris)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Delhi Zoo, New Delhi, INDIA
+
+ 
+
+Scanned Slide from February 1994
+
+
++--------+
+|  TAGS  |
++--------+
+"White Tiger" "Panthera tigris" "Taxonomy:binomial=Panthera tigris" "Delhi Zoo" "New Delhi" INDIA 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sniggie
+Photo URL    : https://www.flickr.com/photos/sniegowski/9691817777/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 7 11:28:50 GMT+0200 2013
+Upload Date  : Sat Sep 7 18:28:50 GMT+0200 2013
+Geotag Info  : Latitude:38.198495, Longitude:-85.739707
+Views        : 528
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+By a pig's nose
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+I know this is a potential blue ribbon pig but while we stare at another, I'm getting hungry. I took this photo with my iPhone.
+
+
++--------+
+|  TAGS  |
++--------+
+"kentucky state fair" "swine show" "iPhone 5 photo" smartcamera pig "pig nose" "swine expo" Kentucky Louisville 

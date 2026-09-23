@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Christ0ff
+Photo URL    : https://www.flickr.com/photos/impossibleisnothing/3867880746/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 21 08:54:25 GMT+0200 2009
+Upload Date  : Sat Aug 29 17:11:42 GMT+0200 2009
+Views        : 6
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_2424
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

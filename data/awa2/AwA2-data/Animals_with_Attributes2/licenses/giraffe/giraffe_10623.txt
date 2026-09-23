@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : lyssa
+Photo URL    : https://www.flickr.com/photos/lyssa/7980735998/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Sep 12 11:50:43 GMT+0200 2012
+Upload Date  : Wed Sep 12 23:33:26 GMT+0200 2012
+Views        : 7
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : SidPix
+Photo URL    : https://www.flickr.com/photos/sidm/2306181361/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 2 11:56:50 GMT+0100 2008
+Upload Date  : Mon Mar 3 06:14:01 GMT+0100 2008
+Geotag Info  : Latitude:-42.245039, Longitude:173.827571
+Views        : 401
+Comments     : 6
+
+
++---------+
+|  TITLE  |
++---------+
+Open Wide
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+New Zealand Fur Seal.  
+Paparoa Point on the Kaikoura Coast
+
+
++--------+
+|  TAGS  |
++--------+
+"New Zealand" Marlborough fur seal "Arctocephalus forsteri" kekeno marine mammal kaikoura mosdell 

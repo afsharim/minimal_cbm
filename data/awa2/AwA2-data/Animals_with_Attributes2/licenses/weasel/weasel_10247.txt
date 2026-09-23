@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Alfredo Gutiérrez
+Photo URL    : https://commons.wikimedia.org/wiki/File:Ferret_2008.png
+License      : Creative Commons (https://en.wikipedia.org/wiki/en:Creative_Commons) 4.0 International (//creativecommons.org/licenses/by-sa/4.0/)
+Date         : 31.07.2008

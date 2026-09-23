@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Bob the courier
+Photo URL    : https://www.flickr.com/photos/27828336@N00/19115140889/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jun 16 14:37:05 GMT+0200 2015
+Upload Date  : Tue Jun 30 19:44:52 GMT+0200 2015
+Geotag Info  : Latitude:53.226821, Longitude:-2.882548
+Views        : 157
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffes
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Male and female (?) complete with handy height marker
+
+
++--------+
+|  TAGS  |
++--------+
+"Chester Zoo" England Cheshire Giraffe mammal animal 

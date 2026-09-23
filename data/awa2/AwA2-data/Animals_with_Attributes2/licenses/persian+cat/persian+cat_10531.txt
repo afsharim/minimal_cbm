@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : cynthia.collins21
+Photo URL    : https://www.flickr.com/photos/128412996@N04/18823779711/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 14 20:56:27 GMT+0200 2015
+Upload Date  : Mon Jun 15 05:56:27 GMT+0200 2015
+Views        : 25
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Posing for my portrait
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"beige kitty" "persian cat" 

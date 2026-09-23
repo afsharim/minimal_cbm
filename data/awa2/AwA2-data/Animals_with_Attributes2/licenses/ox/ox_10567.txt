@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mr ATM
+Photo URL    : https://www.flickr.com/photos/nickhubbard/5086019517/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Oct 12 18:15:03 GMT+0200 2010
+Upload Date  : Sat Oct 16 16:48:13 GMT+0200 2010
+Views        : 20
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Saddell-131
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"saddell 2010" 

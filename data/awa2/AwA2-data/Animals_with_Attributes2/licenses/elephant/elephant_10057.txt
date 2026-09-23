@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Sheep purple
+Photo URL    : https://www.flickr.com/photos/sheeppurple/3821650666/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Aug 12 16:05:02 GMT+0200 2009
+Upload Date  : Fri Aug 14 22:59:27 GMT+0200 2009
+Views        : 200
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Another elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+elephant berlin zoo 

@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Frank Vincentz
+Photo URL    : https://commons.wikimedia.org/wiki/File:Sch%C3%B6mberg_Schwarzenberg_-_Pforzheimer_Stra%C3%9Fe_-_Talpa_europaea_01_ies.jpg
+License      : Creative Commons (https://en.wikipedia.org/wiki/en:Creative_Commons) Attribution-Share Alike 3.0 Unported (//creativecommons.org/licenses/by-sa/3.0/deed.en)
+Date         : 15 August 2015

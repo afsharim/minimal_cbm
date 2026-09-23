@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tony Webster
+Photo URL    : https://www.flickr.com/photos/diversey/15807998805/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Sep 28 17:58:19 GMT+0200 2007
+Upload Date  : Mon Nov 17 03:50:07 GMT+0100 2014
+Geotag Info  : Latitude:44.976005, Longitude:-93.278095
+Views        : 52
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Minnesota carriage horse Minneapolis "United States" 

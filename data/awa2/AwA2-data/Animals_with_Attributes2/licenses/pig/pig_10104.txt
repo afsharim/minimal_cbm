@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sidknee23
+Photo URL    : https://www.flickr.com/photos/sidknee23/3625827648/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 14 12:52:45 GMT+0200 2009
+Upload Date  : Sun Jun 14 18:52:45 GMT+0200 2009
+Views        : 14
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Drunk-Pigs-1
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

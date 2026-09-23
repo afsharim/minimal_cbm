@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : tom.lubbock
+Photo URL    : https://www.flickr.com/photos/tomlubbock/10652279353/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Sep 11 09:16:42 GMT+0200 2013
+Upload Date  : Sun Nov 3 19:30:31 GMT+0100 2013
+Views        : 100
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_1835
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+buffalo 

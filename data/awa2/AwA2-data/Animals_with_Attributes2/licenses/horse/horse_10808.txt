@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Graham S Dean Photography
+Photo URL    : https://www.flickr.com/photos/britanglishman/6178726176/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Sep 15 16:59:00 GMT+0200 2011
+Upload Date  : Sat Sep 24 20:19:59 GMT+0200 2011
+Geotag Info  : Latitude:51.668882, Longitude:0.537815
+Views        : 196
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horses (03)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horse East Hanningfield 

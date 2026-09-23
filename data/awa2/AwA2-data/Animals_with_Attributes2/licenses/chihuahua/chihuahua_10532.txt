@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Shockingly Tasty
+Photo URL    : https://www.flickr.com/photos/shockinglytasty/5208737700/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Nov 25 09:26:46 GMT+0100 2010
+Upload Date  : Fri Nov 26 09:10:38 GMT+0100 2010
+Views        : 624
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+cassanova 
+thanksgiving 2010
+
+
++--------+
+|  TAGS  |
++--------+
+cassanova dog chihuahua thanksgiving "san francisco" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bpkfishinglodge
+Photo URL    : https://www.flickr.com/photos/128257476@N02/15746237147/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Mar 14 21:52:18 GMT+0100 2013
+Upload Date  : Tue Dec 2 18:58:49 GMT+0100 2014
+Geotag Info  : Latitude:24.647485, Longitude:-81.331186
+Views        : 2,688
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+key deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+key deer
+
+
++--------+
+|  TAGS  |
++--------+
+key deer "Big Pine Key Fishing Lodge" BPKFL "Florida Keys" Fishing Camping RV Boating 

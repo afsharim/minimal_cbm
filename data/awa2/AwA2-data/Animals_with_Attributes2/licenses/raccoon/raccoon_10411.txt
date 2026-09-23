@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : alainjoseph234
+Photo URL    : https://www.flickr.com/photos/grand_gana/13406121165/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Aug 7 15:58:17 GMT+0200 2013
+Upload Date  : Tue Mar 25 16:42:40 GMT+0100 2014
+Views        : 18
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+RATONS LAVEURS
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

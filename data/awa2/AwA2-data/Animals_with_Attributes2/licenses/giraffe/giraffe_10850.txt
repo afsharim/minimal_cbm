@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : roycoert
+Photo URL    : https://www.flickr.com/photos/rbcoert/5890941529/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 27 06:47:00 GMT+0200 2010
+Upload Date  : Fri Jul 1 19:01:15 GMT+0200 2011
+Views        : 13
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffes
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

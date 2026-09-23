@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/4696041693/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon May 24 14:07:19 GMT+0200 2010
+Upload Date  : Sun Jun 13 18:07:21 GMT+0200 2010
+Geotag Info  : Latitude:46.934821, Longitude:7.449455
+Views        : 5,157
+Comments     : 18
+
+
++---------+
+|  TITLE  |
++---------+
+Raccoon and flowers
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Portrait of a nice raccoon taken in the Dählhölzli zoo in Bern.
+
+
++--------+
+|  TAGS  |
++--------+
+raccoon racoon mammal brown cute flowers vegetation portrait dählhölzli zoo bern switzerland nikon d300 

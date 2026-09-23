@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Nigel's Europe & beyond 2
+Photo URL    : https://www.flickr.com/photos/zooeurope/5796990440/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 29 14:39:04 GMT+0200 2011
+Upload Date  : Sat Jun 4 17:44:41 GMT+0200 2011
+Geotag Info  : Latitude:55.945499, Longitude:-3.271694
+Views        : 350
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Edinburgh Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+chimpanzees
+
+
++--------+
+|  TAGS  |
++--------+
+"Edinburgh Zoo" chimpanzees 

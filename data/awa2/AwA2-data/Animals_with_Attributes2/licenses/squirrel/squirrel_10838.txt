@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : SkyFireXII
+Photo URL    : https://www.flickr.com/photos/skyfire/5439403180/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 12 14:21:25 GMT+0100 2011
+Upload Date  : Sat Feb 12 19:40:00 GMT+0100 2011
+Geotag Info  : Latitude:53.542130, Longitude:-2.253355
+Views        : 45
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"heaton park" manchester "Canon EOS 500D" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : John Drake Flickr
+Photo URL    : https://www.flickr.com/photos/johndrake45/4773444746/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 2 15:43:44 GMT+0200 2010
+Upload Date  : Thu Jul 8 05:17:30 GMT+0200 2010
+Geotag Info  : Latitude:45.925590, Longitude:-116.119003
+Views        : 416
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horse "horse looking back" "brown horse" "horse in field" 

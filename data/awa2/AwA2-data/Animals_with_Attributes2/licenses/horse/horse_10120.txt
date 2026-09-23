@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sara.lauderdale
+Photo URL    : https://www.flickr.com/photos/22888902@N04/4435966029/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Mar 15 15:39:11 GMT+0100 2010
+Upload Date  : Mon Mar 15 23:39:11 GMT+0100 2010
+Geotag Info  : Latitude:33.439033, Longitude:-88.713054
+Views        : 503
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Boston
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horse paint 

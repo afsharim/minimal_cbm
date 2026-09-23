@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Herkie
+Photo URL    : https://www.flickr.com/photos/dherholz/7930165780/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Sep 3 14:28:37 GMT+0200 2012
+Upload Date  : Tue Sep 4 16:56:26 GMT+0200 2012
+Geotag Info  : Latitude:38.547871, Longitude:-90.356476
+Views        : 147
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Grants Farm-31
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Grant's Farm" Zebra 

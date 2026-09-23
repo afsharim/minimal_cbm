@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : paulaem
+Photo URL    : https://www.flickr.com/photos/paulam/1474038444/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Oct 2 21:22:41 GMT+0200 2007
+Upload Date  : Wed Oct 3 02:22:41 GMT+0200 2007
+Views        : 16
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+65 No soy un mapache.jpg
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

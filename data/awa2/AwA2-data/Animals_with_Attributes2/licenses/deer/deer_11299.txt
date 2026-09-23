@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : SpindlierHades
+Photo URL    : https://www.flickr.com/photos/richardkelly/1359561041/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 23 13:27:20 GMT+0200 2007
+Upload Date  : Tue Sep 11 14:53:30 GMT+0200 2007
+Views        : 277
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+White Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The black bits on the antlers are insect infestations...
+
+
++--------+
+|  TAGS  |
++--------+
+Deer 

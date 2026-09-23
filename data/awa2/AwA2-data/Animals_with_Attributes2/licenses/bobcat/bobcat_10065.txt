@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/9049170291/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Mar 28 16:29:04 GMT+0100 2013
+Upload Date  : Sat Jun 15 17:56:14 GMT+0200 2013
+Geotag Info  : Latitude:49.244640, Longitude:6.137795
+Views        : 3,536
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Young shy lynx
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Another portrait, this time only one lynx, a young one...
+
+
++--------+
+|  TAGS  |
++--------+
+youg portrait face cute lynx wild cat amnéville zoo lorraine france nikon d4 

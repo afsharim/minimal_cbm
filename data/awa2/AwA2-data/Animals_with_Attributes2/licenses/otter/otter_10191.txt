@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tama Leaver
+Photo URL    : https://www.flickr.com/photos/tamaleaver/4253454136/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jan 7 13:07:07 GMT+0100 2010
+Upload Date  : Thu Jan 7 07:46:34 GMT+0100 2010
+Geotag Info  : Latitude:-31.977174, Longitude:115.854563
+Views        : 152
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Otter 1
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+&quot;What's going on with those humans that keeping looking at me?&quot;
+
+
++--------+
+|  TAGS  |
++--------+
+otter zoo "perth zoo" 

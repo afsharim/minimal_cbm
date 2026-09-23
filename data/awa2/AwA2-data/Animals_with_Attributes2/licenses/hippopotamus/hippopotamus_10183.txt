@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Lazurite
+Photo URL    : https://www.flickr.com/photos/lazurite/4042258300/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Oct 23 16:49:34 GMT+0200 2009
+Upload Date  : Sun Oct 25 09:42:31 GMT+0100 2009
+Geotag Info  : Latitude:38.634520, Longitude:-90.291405
+Views        : 1,312
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Hippo swim
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"St. Louis Zoo" zoo nature animals hippo hippopotamus swim swimming underwater 

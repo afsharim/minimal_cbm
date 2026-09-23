@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sarahintampa
+Photo URL    : https://www.flickr.com/photos/sarahintampa/3865676780/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 24 01:17:50 GMT+0200 2009
+Upload Date  : Fri Aug 28 20:40:50 GMT+0200 2009
+Views        : 9
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_0888
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Wayne National Forest
+Photo URL    : https://www.flickr.com/photos/waynenf/5641255368/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 20 10:46:09 GMT+0100 2011
+Upload Date  : Thu Apr 21 19:50:26 GMT+0200 2011
+Views        : 1,050
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Beaver
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This photo was taken by K. Hanning, a Wayne National Forest PhotoNaturalist volunteer.  Rutherford Wetland, Athens Ranger District.
+
+
++--------+
+|  TAGS  |
++--------+
+wetland water "Rutherford Wetland" animal "wayne national forest" "The Wayne" photonaturalist mammal beaver 

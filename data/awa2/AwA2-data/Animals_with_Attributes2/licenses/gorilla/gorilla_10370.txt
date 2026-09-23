@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jeff Kubina
+Photo URL    : https://www.flickr.com/photos/kubina/2906366824/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Aug 20 12:38:12 GMT+0200 2008
+Upload Date  : Thu Oct 2 03:37:26 GMT+0200 2008
+Geotag Info  : Latitude:38.930118, Longitude:-77.048057
+Views        : 535
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Gorilla
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+gorilla "national zoo" 2008 "washington d.c." "taken by jennifer kubina" smithsonian "united states" ape "district of columbia" 200808 "smithsonian national zoological park" "70.0-300.0 mm f/4.5-5.6" public 

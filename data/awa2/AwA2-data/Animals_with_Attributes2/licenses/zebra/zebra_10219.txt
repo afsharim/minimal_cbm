@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ahisgett
+Photo URL    : https://www.flickr.com/photos/hisgett/5018229896/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 19 15:00:38 GMT+0200 2010
+Upload Date  : Thu Sep 23 19:13:51 GMT+0200 2010
+Geotag Info  : Latitude:52.379208, Longitude:-2.286293
+Views        : 1,704
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Grévy's Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Grévy's Zebra (Equus grevyi), also known as the Imperial Zebra. Compared to other zebras its stripes are narrower
+
+
++--------+
+|  TAGS  |
++--------+
+Safari Park Animal Grévy's Zebra Equus grevyi Imperial 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : reader of the pack
+Photo URL    : https://www.flickr.com/photos/youngandwithit/3637763052/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 17 13:37:31 GMT+0200 2009
+Upload Date  : Thu Jun 18 05:25:00 GMT+0200 2009
+Views        : 70
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+The Squirrels and The Peaches
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+squirrels peaches 

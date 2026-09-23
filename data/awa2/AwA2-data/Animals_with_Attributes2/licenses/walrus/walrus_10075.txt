@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : susanvbailey
+Photo URL    : https://www.flickr.com/photos/7576839@N05/871183369/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 14 13:59:22 GMT+0200 2007
+Upload Date  : Sun Jul 22 22:10:04 GMT+0200 2007
+Views        : 52
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Walrus
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Uploaded with a demo version of <a href="http://connectedflow.com/flickrexport" rel="nofollow">FlickrExport 2</a>.
+
+
++--------+
+|  TAGS  |
++--------+
+flickrexport2demo 

@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mbarrison
+Photo URL    : https://www.flickr.com/photos/barrison/4354201701/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 13 17:11:13 GMT+0100 2010
+Upload Date  : Sun Feb 14 00:28:46 GMT+0100 2010
+Geotag Info  : Latitude:28.230656, Longitude:-82.185673
+Views        : 118
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Grey Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Looking for a Handout.
+
+A Saturday Afternoon on Zephyr Park.  Zephyrhills, FL
+
+
++--------+
+|  TAGS  |
++--------+
+Squirrel 

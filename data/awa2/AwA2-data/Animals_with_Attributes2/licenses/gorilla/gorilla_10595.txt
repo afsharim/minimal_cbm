@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : .RGB.
+Photo URL    : https://www.flickr.com/photos/rbulmahn/4925181149/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Aug 24 09:21:13 GMT+0200 2010
+Upload Date  : Wed Aug 25 06:59:55 GMT+0200 2010
+Geotag Info  : Latitude:38.635679, Longitude:-90.288712
+Views        : 265
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_18750
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"St. Louis Zoo" Gorilla 

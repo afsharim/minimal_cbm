@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mike's Birds
+Photo URL    : https://www.flickr.com/photos/pazzani/4737044852/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 26 09:04:30 GMT+0200 2010
+Upload Date  : Sun Jun 27 01:02:36 GMT+0200 2010
+Geotag Info  : Latitude:40.540743, Longitude:-74.436750
+Views        : 720
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+sal500f80 

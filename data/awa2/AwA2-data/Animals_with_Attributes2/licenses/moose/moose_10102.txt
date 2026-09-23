@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : marksontok
+Photo URL    : https://www.flickr.com/photos/mark233/24354997162/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 21 09:00:31 GMT+0200 2015
+Upload Date  : Mon Jan 18 18:38:02 GMT+0100 2016
+Views        : 37
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_7099
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Alaska, Moose" 

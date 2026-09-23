@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Clean Wal-Mart
+Photo URL    : https://www.flickr.com/photos/cleanwalmart/435989405/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Mar 26 18:41:35 GMT+0200 2007
+Upload Date  : Tue Mar 27 05:58:43 GMT+0200 2007
+Geotag Info  : Latitude:41.599141, Longitude:-87.845542
+Views        : 1,029
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+[PetSmart] Sleeping rat
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+petsmart orlandhills il rat sleeping 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Peter G Trimming
+Photo URL    : https://www.flickr.com/photos/peter-trimming/13494720015/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 29 12:52:14 GMT+0100 2014
+Upload Date  : Sat Mar 29 21:32:55 GMT+0100 2014
+Geotag Info  : Latitude:51.173280, Longitude:-0.047823
+Views        : 580
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Otter Playtime (2)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Seen at the British Wildlife Centre, Newchapel, Surrey.    'Elwood' and 'Emmy' play.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

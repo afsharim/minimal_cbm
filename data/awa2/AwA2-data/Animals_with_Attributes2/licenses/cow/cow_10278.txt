@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tim Green aka atoach
+Photo URL    : https://www.flickr.com/photos/atoach/2587515079/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 8 13:41:28 GMT+0200 2008
+Upload Date  : Tue Jun 17 22:23:52 GMT+0200 2008
+Geotag Info  : Latitude:53.748401, Longitude:-1.937412
+Views        : 2,387
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Cow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+near Wainstalls, Halifax
+
+
++--------+
+|  TAGS  |
++--------+
+cow cattle yorkshire hill valley farm 

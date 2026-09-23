@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : PreVamp
+Photo URL    : https://www.flickr.com/photos/prevamp/9783169806/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 20 12:42:23 GMT+0200 2013
+Upload Date  : Tue Sep 17 11:20:33 GMT+0200 2013
+Views        : 161
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

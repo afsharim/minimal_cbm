@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Acheron333
+Photo URL    : https://www.flickr.com/photos/44741695@N05/4138638750/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 15 19:03:15 GMT+0200 2004
+Upload Date  : Fri Nov 27 16:36:11 GMT+0100 2009
+Views        : 1,848
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A horse in Büsum/Germany. Photograph: Ronald Donner
+
+
++--------+
+|  TAGS  |
++--------+
+horse 

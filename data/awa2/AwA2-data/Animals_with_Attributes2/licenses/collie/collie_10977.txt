@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Grimmauprès
+Photo URL    : https://commons.wikimedia.org/wiki/File:Chiot_border_collie_femelle_de_l%27%C3%A9levage_de_Grimmaupr%C3%A8s.JPG
+License      : Creative Commons (https://en.wikipedia.org/wiki/en:Creative_Commons) Attribution-Share Alike 3.0 Unported (//creativecommons.org/licenses/by-sa/3.0/deed.en)
+Date         : 2000-01-01 00:01:35

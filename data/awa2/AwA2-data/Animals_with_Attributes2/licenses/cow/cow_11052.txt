@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : watchsmart
+Photo URL    : https://www.flickr.com/photos/watchsmart/1347229300/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 12 18:44:35 GMT+0200 2007
+Upload Date  : Sat Sep 8 17:24:06 GMT+0200 2007
+Geotag Info  : Latitude:27.182577, Longitude:78.017520
+Views        : 1,000
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Monkey and Cow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Monkey and Cow, Agra.  Awesome.
+
+
++--------+
+|  TAGS  |
++--------+
+monkey cow agra india 

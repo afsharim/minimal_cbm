@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jonner
+Photo URL    : https://www.flickr.com/photos/jonner/3560974631/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 23 14:58:13 GMT+0200 2009
+Upload Date  : Mon May 25 04:41:21 GMT+0200 2009
+Views        : 109
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Chipmunk
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+St. Croix State Park,
+Minnesota
+
+
++--------+
+|  TAGS  |
++--------+
+chipmunk squirrel 

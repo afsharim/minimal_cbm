@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Larry Smith2010
+Photo URL    : https://www.flickr.com/photos/lsmith2010/10735474776/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Dec 22 08:13:33 GMT+0100 2012
+Upload Date  : Fri Nov 8 03:46:58 GMT+0100 2013
+Geotag Info  : Latitude:34.720662, Longitude:-98.672590
+Views        : 2,151
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Burford Lake Beaver #3
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Wichita Mountains Wildlife Refuge
+SW Oklahoma
+
+
++--------+
+|  TAGS  |
++--------+
+"Wichita Mountains" "Larry Smith" Oklahoma beaver "Wichita Mountains Wildlife Refuge" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : harald18
+Photo URL    : https://www.flickr.com/photos/harald18/6076106036/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 6 14:08:29 GMT+0200 2011
+Upload Date  : Wed Aug 24 10:57:04 GMT+0200 2011
+Geotag Info  : Latitude:-42.400818, Longitude:173.681381
+Views        : 978
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Moby Dick's more sedate cousin
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+kaikura "new zealand" "sperm whale" 

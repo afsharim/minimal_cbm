@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : BANAMINE
+Photo URL    : https://www.flickr.com/photos/banamine/473652866/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Apr 26 10:40:30 GMT+0200 2007
+Upload Date  : Thu Apr 26 19:40:30 GMT+0200 2007
+Views        : 779
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Scat-Daddy
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+NYRA
+
+
++--------+
+|  TAGS  |
++--------+
+"horse racing" 

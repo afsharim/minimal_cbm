@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Derek Keats
+Photo URL    : https://www.flickr.com/photos/dkeats/6032779354/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Aug 2 17:07:04 GMT+0200 2011
+Upload Date  : Thu Aug 11 18:11:27 GMT+0200 2011
+Views        : 3,230
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Plains Zebra, Equus quagga at sunset in Mapungubwe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Plains Zebra, Equus quagga at sunset in Mapungubwe
+
+
++--------+
+|  TAGS  |
++--------+
+"Equus quagga" geo:lat=-22.189869 geo:lon=29.211659 Limpopo mammal "Mapungubwe National Park" "Plains Zebra" "South Africa" "taxonomy:binomial=Equus quagga" 

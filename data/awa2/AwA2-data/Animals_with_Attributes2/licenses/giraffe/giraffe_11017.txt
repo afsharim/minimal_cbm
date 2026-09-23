@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MrGuilt
+Photo URL    : https://www.flickr.com/photos/bontempscharly/7714883860/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 4 16:10:56 GMT+0200 2012
+Upload Date  : Sun Aug 5 06:54:19 GMT+0200 2012
+Geotag Info  : Latitude:39.836450, Longitude:-81.722390
+Views        : 313
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Masi Giraffe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Animals Giraffe Ohio "Zoos & Aquariums" 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Sterni3
+Photo URL    : https://www.flickr.com/photos/jsternsdorfpicture/7781483288/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 14 08:28:19 GMT+0200 2012
+Upload Date  : Tue Aug 14 17:55:25 GMT+0200 2012
+Views        : 31
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Elefantenwaisenhaus in Pinnawela
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

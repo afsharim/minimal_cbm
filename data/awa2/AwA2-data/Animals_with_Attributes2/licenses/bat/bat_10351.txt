@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Aboalbiss
+Photo URL    : https://commons.wikimedia.org/wiki/File:Bat.PNG
+License      : public domain
+Date         : 2009-11-15

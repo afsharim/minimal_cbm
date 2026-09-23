@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : robmcbell
+Photo URL    : https://www.flickr.com/photos/robmcbell/2531640736/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 18 11:53:48 GMT+0200 2008
+Upload Date  : Wed May 28 18:47:52 GMT+0200 2008
+Views        : 11
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_0882
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

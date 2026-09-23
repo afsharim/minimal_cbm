@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Gilles San Martin
+Photo URL    : https://www.flickr.com/photos/sanmartin/2862392077/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Sep 12 23:41:40 GMT+0200 2008
+Upload Date  : Tue Sep 16 18:34:11 GMT+0200 2008
+Views        : 3,050
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Myotis brandtii
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+gtplecotus mammifere "La Croix" bat chiroptera Belgium "Myotis brandtii" 

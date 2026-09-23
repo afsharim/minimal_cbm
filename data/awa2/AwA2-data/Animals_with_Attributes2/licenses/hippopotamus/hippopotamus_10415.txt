@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : little_fish_photography
+Photo URL    : https://www.flickr.com/photos/118498853@N05/18590529844/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 22 12:13:28 GMT+0200 2015
+Upload Date  : Sat Jun 27 22:32:58 GMT+0200 2015
+Views        : 191
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hippopotamus
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

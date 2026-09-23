@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Timitrius
+Photo URL    : https://www.flickr.com/photos/nox_noctis_silentium/5320450391/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jan 4 16:35:30 GMT+0100 2011
+Upload Date  : Mon Jan 3 19:43:39 GMT+0100 2011
+Geotag Info  : Latitude:51.853753, Longitude:-0.539188
+Views        : 630
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+The Three Bears
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Whipsnade zoo brown bear 

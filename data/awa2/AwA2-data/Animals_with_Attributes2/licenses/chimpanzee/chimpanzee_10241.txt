@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : OctopusHat
+Photo URL    : https://www.flickr.com/photos/octopushat/3192351918/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 3 13:19:08 GMT+0100 2009
+Upload Date  : Mon Jan 12 21:08:44 GMT+0100 2009
+Geotag Info  : Latitude:34.146476, Longitude:-118.289537
+Views        : 2,449
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+Chimpanzee
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+losangeles zoo lazoo chimp chimpanzee 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Joao Maximo
+Photo URL    : https://www.flickr.com/photos/joaomaximo/207864790/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 12 16:10:00 GMT+0200 1999
+Upload Date  : Sun Aug 6 11:37:40 GMT+0200 2006
+Geotag Info  : Latitude:38.743841, Longitude:-9.169807
+Views        : 1,521
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Chimpanzee - Lisbon Zoo, Portugal
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+In captivity in the Lisbon Zoo (jardim Zoológico de Lisboa), Portugal.
+
+
++--------+
+|  TAGS  |
++--------+
+zoo animal lisbon portugal lisboa mammal mamífero chimpanzee chimpanzé 

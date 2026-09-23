@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : TimothyDavidGreenfield
+Photo URL    : https://www.flickr.com/photos/timothydavidgreenfield/9479147235/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 10 19:23:00 GMT+0200 2013
+Upload Date  : Sat Aug 10 21:59:34 GMT+0200 2013
+Views        : 166
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Cow countryside green grass 

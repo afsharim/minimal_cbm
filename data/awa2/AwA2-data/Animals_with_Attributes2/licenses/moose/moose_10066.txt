@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : weslowik
+Photo URL    : https://www.flickr.com/photos/7702946@N02/6017850720/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 21 21:34:30 GMT+0200 2011
+Upload Date  : Sun Aug 7 14:48:33 GMT+0200 2011
+Views        : 101
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Canadian Moose in Field 7
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+2011 Moose 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Iain Farrell
+Photo URL    : https://www.flickr.com/photos/iain/7220211712/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed May 16 19:23:22 GMT+0200 2012
+Upload Date  : Fri May 18 10:00:22 GMT+0200 2012
+Geotag Info  : Latitude:54.482777, Longitude:-0.970820
+Views        : 103
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lambs are getting big!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+darktable lambs sheep 

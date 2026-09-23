@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : S. Rae
+Photo URL    : https://www.flickr.com/photos/35142635@N05/16805024551/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 22 15:45:34 GMT+0200 2010
+Upload Date  : Fri Mar 13 23:00:01 GMT+0100 2015
+Geotag Info  : Latitude:52.450636, Longitude:-3.209037
+Views        : 74
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep - Rhos Fiddle
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Clun, Shropshire, England.
+
+
++--------+
+|  TAGS  |
++--------+
+Clun Shropshire England 

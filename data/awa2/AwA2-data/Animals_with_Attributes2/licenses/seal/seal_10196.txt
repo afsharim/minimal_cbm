@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : PunkToad
+Photo URL    : https://www.flickr.com/photos/punktoad/8707149173/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 2 13:39:15 GMT+0200 2013
+Upload Date  : Sat May 4 20:20:40 GMT+0200 2013
+Views        : 66
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant Seal in the Sand
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+PCH, Point Piedras Blancas CA
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

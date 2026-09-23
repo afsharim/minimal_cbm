@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Davethephotoslave
+Photo URL    : https://www.flickr.com/photos/davidcreightonphoto/6793666187/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 1 15:19:06 GMT+0100 2012
+Upload Date  : Tue Jan 31 05:18:24 GMT+0100 2012
+Views        : 256
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Baby and Mother Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

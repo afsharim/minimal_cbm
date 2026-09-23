@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : daf73r
+Photo URL    : https://www.flickr.com/photos/daf73/4209001074/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 15 11:47:47 GMT+0100 2009
+Upload Date  : Wed Dec 23 16:11:17 GMT+0100 2009
+Geotag Info  : Latitude:43.022909, Longitude:11.086792
+Views        : 168
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Ready, Set, Go!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Collie 

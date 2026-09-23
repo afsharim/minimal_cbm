@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : KimonBerlin
+Photo URL    : https://www.flickr.com/photos/kimon/9361098673/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 4 10:03:16 GMT+0200 2013
+Upload Date  : Thu Jul 25 06:27:15 GMT+0200 2013
+Geotag Info  : Latitude:40.247508, Longitude:-105.763390
+Views        : 85
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Moose
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+rmnp Allenspark Colorado "United States" 

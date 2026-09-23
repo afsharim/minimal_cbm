@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : croarty
+Photo URL    : https://www.flickr.com/photos/cjroarty/2728168910/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 23 09:12:59 GMT+0200 2008
+Upload Date  : Sun Aug 3 14:20:27 GMT+0200 2008
+Views        : 68
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

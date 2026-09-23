@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : graham_alton
+Photo URL    : https://www.flickr.com/photos/graham_alton/4854576856/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 31 12:16:31 GMT+0200 2010
+Upload Date  : Mon Aug 2 21:54:52 GMT+0200 2010
+Geotag Info  : Latitude:51.195428, Longitude:-2.277259
+Views        : 267
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Amur Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+There were three tigers in the enclosure, this is the third and last one we saw.
+
+
++--------+
+|  TAGS  |
++--------+
+tiger longleat 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Charles D P Miller
+Photo URL    : https://www.flickr.com/photos/cdpm/5607706636/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 10 13:16:45 GMT+0200 2011
+Upload Date  : Sun Apr 10 23:24:20 GMT+0200 2011
+Geotag Info  : Latitude:50.992366, Longitude:-1.287288
+Views        : 53
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffes
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Marwell Zoo "Marwell Wildlife" 

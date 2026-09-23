@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : boolve
+Photo URL    : https://www.flickr.com/photos/boolve/509374989/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 6 15:14:46 GMT+0200 2007
+Upload Date  : Tue May 22 15:45:14 GMT+0200 2007
+Geotag Info  : Latitude:51.570941, Longitude:0.070981
+Views        : 91
+Comments     : 8
+
+
++---------+
+|  TITLE  |
++---------+
+2007_05_06
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel NaturesFinest 

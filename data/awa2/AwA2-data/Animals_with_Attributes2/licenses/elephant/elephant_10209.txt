@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Nick Traveller
+Photo URL    : https://www.flickr.com/photos/nicktraveller/2308284401/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Dec 25 21:22:27 GMT+0100 2007
+Upload Date  : Tue Mar 4 01:35:11 GMT+0100 2008
+Geotag Info  : Latitude:28.038264, Longitude:-82.421718
+Views        : 228
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant at Busch Gardens Florida
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+elephant "Busch Gardens" 

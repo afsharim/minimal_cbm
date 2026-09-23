@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ahisgett
+Photo URL    : https://www.flickr.com/photos/hisgett/5370627577/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jan 19 13:09:41 GMT+0100 2011
+Upload Date  : Wed Jan 19 23:03:43 GMT+0100 2011
+Geotag Info  : Latitude:51.743346, Longitude:-2.407593
+Views        : 323
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Harvest Mouse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Anmal Harvest Mouse 

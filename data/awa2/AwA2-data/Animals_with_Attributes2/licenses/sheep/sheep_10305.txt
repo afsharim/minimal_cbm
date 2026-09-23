@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Eric Bennett
+Photo URL    : https://www.flickr.com/photos/ebnt-photo/4602724126/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon May 10 18:10:41 GMT+0200 2010
+Upload Date  : Thu May 13 01:39:07 GMT+0200 2010
+Views        : 389
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hello Dolly!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+<a href="http://ebnt-photo.com/my-blog-entries/2010/5/12/hello-dolly.html" rel="nofollow">ebnt-photo.com/my-blog-entries/2010/5/12/hello-dolly.html</a>
+
+
++--------+
+|  TAGS  |
++--------+
+Sheep Farm 

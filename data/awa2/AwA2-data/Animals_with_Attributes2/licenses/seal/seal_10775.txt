@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : schatz
+Photo URL    : https://www.flickr.com/photos/schatz/2997065833/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 2 14:48:55 GMT+0100 2008
+Upload Date  : Mon Nov 3 02:50:25 GMT+0100 2008
+Geotag Info  : Latitude:40.834161, Longitude:-73.884375
+Views        : 20
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+seal
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Zoo Bronx Autumn NYC 

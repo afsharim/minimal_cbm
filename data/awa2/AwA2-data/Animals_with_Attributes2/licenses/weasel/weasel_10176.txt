@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Aug 23, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Diddlecome Dawcock
+Photo URL    : https://www.flickr.com/photos/spolky/14138089882/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 16 14:00:32 GMT+0100 2013
+Upload Date  : Fri May 9 01:46:21 GMT+0200 2014
+Geotag Info  : Latitude:50.886331, Longitude:-1.498517
+Views        : 432
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Ferret
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+New Forest Wildlife Park
+
+
++--------+
+|  TAGS  |
++--------+
+"New Forest Wildlife Park" ferret Mustelidae "European Polecat" "Mustela putorius furo" weasel spolky "steve polkinghorne" 

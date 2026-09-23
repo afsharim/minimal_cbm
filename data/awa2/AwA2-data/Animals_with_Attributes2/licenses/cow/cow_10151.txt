@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Martin Cathrae
+Photo URL    : https://www.flickr.com/photos/suckamc/1995819/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 5 18:00:36 GMT+0200 2004
+Upload Date  : Tue Dec 7 14:09:03 GMT+0100 2004
+Views        : 4,893
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cow Barn
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A few cows enjoying a summer afternoon.
+
+
++--------+
+|  TAGS  |
++--------+
+cow barn summer 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MyFWCmedia
+Photo URL    : https://www.flickr.com/photos/myfwcmedia/6674309881/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jan 10 13:31:45 GMT+0100 2012
+Upload Date  : Tue Jan 10 19:31:45 GMT+0100 2012
+Views        : 459
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Captive wildlife otter
+FWC photo
+
+
++--------+
+|  TAGS  |
++--------+
+otter animals FWC myFWC MyFWC.com "Florida Fish and Wildlife" Florida fish wildlife "captive wildlife" 

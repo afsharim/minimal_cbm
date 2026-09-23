@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Kradlum
+Photo URL    : https://www.flickr.com/photos/kradlum/2725605686/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 2 17:06:00 GMT+0200 2008
+Upload Date  : Sat Aug 2 18:06:00 GMT+0200 2008
+Geotag Info  : Latitude:52.810181, Longitude:1.162319
+Views        : 18
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+rat
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

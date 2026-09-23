@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sshingler
+Photo URL    : https://www.flickr.com/photos/sshingler/85376429/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 21 10:01:39 GMT+0200 2004
+Upload Date  : Wed Jan 11 23:09:35 GMT+0100 2006
+Geotag Info  : Latitude:52.155847, Longitude:-3.405590
+Views        : 239
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+sleeping pig
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+pig 

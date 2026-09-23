@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Maxwell Hamilton
+Photo URL    : https://www.flickr.com/photos/mualphachi/3669223804/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 27 13:48:42 GMT+0200 2009
+Upload Date  : Sun Jun 28 20:58:47 GMT+0200 2009
+Geotag Info  : Latitude:51.461280, Longitude:-0.415613
+Views        : 600
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Pig in Wallow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Hounslow Urban Farm
+
+
++--------+
+|  TAGS  |
++--------+
+Animal Farm Hounslow Feltham Pig "Faggs Road" Hatton "Farm Animals" Rare Breeds "Hounslow Urban Farm" 

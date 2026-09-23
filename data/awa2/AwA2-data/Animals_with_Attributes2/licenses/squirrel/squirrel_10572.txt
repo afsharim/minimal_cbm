@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : James E. Petts
+Photo URL    : https://www.flickr.com/photos/14730981@N08/11162159016/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 1 14:19:56 GMT+0100 2013
+Upload Date  : Mon Dec 2 01:13:35 GMT+0100 2013
+Geotag Info  : Latitude:51.465319, Longitude:-0.092765
+Views        : 491
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel eating
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+After the 2013 storm, Ruskin Park, London
+
+
++--------+
+|  TAGS  |
++--------+
+"Ruskin park" london squirrel wildlife 

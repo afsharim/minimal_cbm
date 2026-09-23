@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Slippy Slappy
+Photo URL    : https://www.flickr.com/photos/dukekim/5455056002/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Feb 10 17:33:13 GMT+0100 2011
+Upload Date  : Fri Feb 18 02:31:53 GMT+0100 2011
+Views        : 20
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_1823
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Alaska 

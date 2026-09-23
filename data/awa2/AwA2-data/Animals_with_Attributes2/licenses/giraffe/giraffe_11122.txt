@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Michael Fraley
+Photo URL    : https://www.flickr.com/photos/mrfraley/10736550403/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 27 09:29:55 GMT+0100 2013
+Upload Date  : Fri Nov 8 05:05:03 GMT+0100 2013
+Views        : 257
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+San Francisco Zoo 160
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Olympus OM-1
+Zuiko 70-200mm/f4.5-5.6
+Kodak Gold 200
+9/23/2013
+
+
++--------+
+|  TAGS  |
++--------+
+giraffe 

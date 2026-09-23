@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Rorals
+Photo URL    : https://www.flickr.com/photos/rorals/8294414884/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Dec 21 10:20:03 GMT+0100 2012
+Upload Date  : Fri Dec 21 15:28:38 GMT+0100 2012
+Geotag Info  : Latitude:52.392049, Longitude:0.645790
+Views        : 27
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_7240
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Squirrel 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Kadri Yetiş
+Photo URL    : https://www.flickr.com/photos/kyetis/12569366445/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 23 14:51:18 GMT+0200 2013
+Upload Date  : Sun Feb 16 19:27:35 GMT+0100 2014
+Geotag Info  : Latitude:28.409138, Longitude:-16.565948
+Views        : 19
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+M:\Photo\2013-05-25\IMG_0486.JPG
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

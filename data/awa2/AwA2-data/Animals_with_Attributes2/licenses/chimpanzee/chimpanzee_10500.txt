@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ravend
+Photo URL    : https://www.flickr.com/photos/ravendr78/6205809589/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 2 14:11:25 GMT+0200 2011
+Upload Date  : Mon Oct 3 04:56:41 GMT+0200 2011
+Views        : 150
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_2435
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+How many chimps can fit in this tube?
+
+
++--------+
+|  TAGS  |
++--------+
+"Knoxville Zoo" chimpanzee 

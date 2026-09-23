@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mliu92
+Photo URL    : https://www.flickr.com/photos/mliu92/3939293327/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 20 09:57:45 GMT+0200 2009
+Upload Date  : Mon Sep 21 05:33:30 GMT+0200 2009
+Geotag Info  : Latitude:32.736885, Longitude:-117.148933
+Views        : 34
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+To the Point 1830
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+You can't fool me, Mr. Fuzzy!
+
+
++--------+
+|  TAGS  |
++--------+
+otter "san diego" zoo 

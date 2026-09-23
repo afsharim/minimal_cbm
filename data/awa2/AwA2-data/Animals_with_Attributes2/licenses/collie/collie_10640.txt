@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : nickobec
+Photo URL    : https://www.flickr.com/photos/nickobec/251132455/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 24 16:57:06 GMT+0200 2006
+Upload Date  : Sun Sep 24 10:57:06 GMT+0200 2006
+Geotag Info  : Latitude:-32.252115, Longitude:115.806080
+Views        : 9,355
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+willow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Willow our blue merle border collie puppy at 16 weeks old
+
+
++--------+
+|  TAGS  |
++--------+
+willow puppy "border collie" "blue merle" dog "powerbook wrecker" 

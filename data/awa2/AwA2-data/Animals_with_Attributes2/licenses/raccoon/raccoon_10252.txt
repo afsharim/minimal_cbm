@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Eat_Crow
+Photo URL    : https://www.flickr.com/photos/crows_nest/2306414458/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 2 13:39:40 GMT+0100 2008
+Upload Date  : Mon Mar 3 02:26:08 GMT+0100 2008
+Views        : 1,035
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Raccoon
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Raccoon at Coyote Point
+
+
++--------+
+|  TAGS  |
++--------+
+raccoon "coyote point" 

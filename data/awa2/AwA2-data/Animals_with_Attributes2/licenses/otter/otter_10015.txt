@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : NOAA Photo Library
+Photo URL    : https://www.flickr.com/photos/noaaphotolib/14318675298/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 25 10:23:56 GMT+0200 2014
+Upload Date  : Wed Jun 25 17:04:03 GMT+0200 2014
+Views        : 1,488
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+anim2038
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Yawning sea otter debating with self over taking a nap or not.  Image ID: anim2038, NOAA's Ark - Animals Collection
+Location: Alaska
+Credit: Personnel of NOAA Ship RAINIER
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

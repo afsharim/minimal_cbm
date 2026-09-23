@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : andrew_j_w
+Photo URL    : https://www.flickr.com/photos/andrew_j_w/2789613369/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 23 13:43:42 GMT+0200 2008
+Upload Date  : Sat Aug 23 21:16:05 GMT+0200 2008
+Geotag Info  : Latitude:51.425664, Longitude:-0.351026
+Views        : 375
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"bushy park" animal deer antlers 

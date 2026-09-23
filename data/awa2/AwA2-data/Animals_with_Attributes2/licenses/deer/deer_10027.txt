@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : anoldent
+Photo URL    : https://www.flickr.com/photos/anoldent/528483351/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 3 10:45:34 GMT+0200 2007
+Upload Date  : Sun Jun 3 22:54:06 GMT+0200 2007
+Views        : 248
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+2001 NW 42
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Wildlife
+
+
++--------+
+|  TAGS  |
++--------+
+deer 

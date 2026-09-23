@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : carmen zuniga
+Photo URL    : https://www.flickr.com/photos/carmenn/4485046462/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Mar 31 19:52:10 GMT+0200 2010
+Upload Date  : Fri Apr 2 21:42:31 GMT+0200 2010
+Views        : 92
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+*my picture, my rules. see it &amp; leave it where it is.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

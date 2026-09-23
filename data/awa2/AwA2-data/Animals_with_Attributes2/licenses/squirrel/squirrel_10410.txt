@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bethcoll
+Photo URL    : https://www.flickr.com/photos/pixelrn/1907349442/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Nov 5 15:52:13 GMT+0100 2007
+Upload Date  : Wed Nov 7 20:41:31 GMT+0100 2007
+Views        : 163
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+One Fat Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel backyard 

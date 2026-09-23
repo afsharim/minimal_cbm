@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : rawdonfox
+Photo URL    : https://www.flickr.com/photos/34739556@N04/5361451866/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 16 13:57:11 GMT+0100 2011
+Upload Date  : Sun Jan 16 21:31:22 GMT+0100 2011
+Geotag Info  : Latitude:53.935146, Longitude:-1.586580
+Views        : 155
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+52 legs
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+What's got 52 legs and eats hay?
+
+
++--------+
+|  TAGS  |
++--------+
+sheep bale hay fodder 

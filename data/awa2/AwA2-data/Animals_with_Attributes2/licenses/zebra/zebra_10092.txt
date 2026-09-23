@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : VSmithUK
+Photo URL    : https://www.flickr.com/photos/vsmithuk/2890476791/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 18 09:33:10 GMT+0200 2008
+Upload Date  : Sat Sep 27 02:35:05 GMT+0200 2008
+Geotag Info  : Latitude:-27.644758, Longitude:32.268648
+Views        : 74
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Burchell's Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+<i>Equus burchellii</i>, Kumasinga hide, Mkhuze.
+
+
++--------+
+|  TAGS  |
++--------+
+"South Africa" Mkhuze Kwazulu-Natal Mammal _Favorite_ Life 

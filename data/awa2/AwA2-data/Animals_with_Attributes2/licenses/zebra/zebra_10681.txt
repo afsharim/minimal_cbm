@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Just Taken Pics
+Photo URL    : https://www.flickr.com/photos/steelmore/261934847/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Oct 5 16:21:22 GMT+0200 2006
+Upload Date  : Fri Oct 6 05:12:44 GMT+0200 2006
+Views        : 50
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

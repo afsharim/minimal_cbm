@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : russellstreet
+Photo URL    : https://www.flickr.com/photos/russellstreet/4065666177/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 8 15:18:12 GMT+0200 2008
+Upload Date  : Mon Nov 2 00:30:49 GMT+0100 2009
+Geotag Info  : Latitude:-36.903964, Longitude:175.088188
+Views        : 105
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cows
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Animal Auckland Cow "Duder Regional Park" "New Zealand" Tree 

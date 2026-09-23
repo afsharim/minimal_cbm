@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : stephanemartin
+Photo URL    : https://www.flickr.com/photos/stephanemartin/4095328602/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 29 16:40:48 GMT+0200 2009
+Upload Date  : Wed Nov 11 12:34:48 GMT+0100 2009
+Geotag Info  : Latitude:45.362155, Longitude:6.692855
+Views        : 44
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Havane
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+alpes horse 

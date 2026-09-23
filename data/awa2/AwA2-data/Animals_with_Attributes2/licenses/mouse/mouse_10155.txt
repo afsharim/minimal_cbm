@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : JosephSardin
+Photo URL    : https://www.flickr.com/photos/14328577@N08/3438280089/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Apr 13 18:58:18 GMT+0200 2009
+Upload Date  : Mon Apr 13 20:01:31 GMT+0200 2009
+Geotag Info  : Latitude:48.303418, Longitude:1.541519
+Views        : 1,344
+Comments     : 10
+
+
++---------+
+|  TITLE  |
++---------+
+Souris 2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Famille de souris photographiée d'un peu loin. Il faut dire qu'après 20 minutes de planque dans le poulailler et dans une position inconfortable, je me suis dis qu'une photo de loin serait mieux que rien.
+
+
++--------+
+|  TAGS  |
++--------+
+souris mouse 

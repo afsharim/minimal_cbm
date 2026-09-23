@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mike McHolm
+Photo URL    : https://www.flickr.com/photos/mikemcholm/6866407677/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jan 12 02:46:36 GMT+0100 2012
+Upload Date  : Mon Feb 13 01:58:28 GMT+0100 2012
+Geotag Info  : Latitude:-3.234612, Longitude:35.515022
+Views        : 156
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebras
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Ngorongoro Crater Safari
+Tanzania, Africa
+
+
++--------+
+|  TAGS  |
++--------+
+Africa Animals "Big Five" McHolm "Mike McHolm" "Ngorongoro Crater" Safari Tanzania Vancouver Ngorongoro 

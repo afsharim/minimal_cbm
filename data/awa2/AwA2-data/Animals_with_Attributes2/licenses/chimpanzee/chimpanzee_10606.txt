@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : artispu
+Photo URL    : https://www.flickr.com/photos/artispu/23928458281/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 27 11:42:56 GMT+0100 2015
+Upload Date  : Sun Dec 27 22:48:38 GMT+0100 2015
+Geotag Info  : Latitude:52.518989, Longitude:13.396228
+Views        : 2,029
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sad chimpanzee
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+At Zoo Berlin.
+
+
++--------+
+|  TAGS  |
++--------+
+chimpanzee berlin germany "zoo berlin" zoo glass cage "nikon d610" 

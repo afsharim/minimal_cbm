@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : peter pearson
+Photo URL    : https://www.flickr.com/photos/peterpearson/524952483/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 1 12:43:01 GMT+0200 2007
+Upload Date  : Fri Jun 1 16:47:30 GMT+0200 2007
+Views        : 1,222
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Rat and Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A rat and a squirrel - except for the tail, fairly similar!
+
+
++--------+
+|  TAGS  |
++--------+
+rat squirrel 

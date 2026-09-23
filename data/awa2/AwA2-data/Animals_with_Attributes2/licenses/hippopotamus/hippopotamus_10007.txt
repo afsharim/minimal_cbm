@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : downatthezoo
+Photo URL    : https://www.flickr.com/photos/devolve/10632614704/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 28 03:01:57 GMT+0200 2013
+Upload Date  : Sat Nov 2 22:02:58 GMT+0100 2013
+Views        : 80
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+2013-07-28 03.01.57
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Nagoya Zoo" Japan hippopotamus 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : brian.gratwicke
+Photo URL    : https://www.flickr.com/photos/briangratwicke/6954210268/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Mar 20 05:15:34 GMT+0100 2012
+Upload Date  : Sun Apr 22 01:06:20 GMT+0200 2012
+Geotag Info  : Latitude:-37.418806, Longitude:-12.481255
+Views        : 976
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Fighting Subantarctic Furseals
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+taxonomy:kingdom=Animalia Animalia taxonomy:phylum=Chordata Chordata taxonomy:class=Mammalia Mammalia taxonomy:order=Carnivora Carnivora taxonomy:family=Otariidae Otariidae taxonomy:genus=Arctocephalus Arctocephalus taxonomy:species=tropicalis "taxonomy:binomial=Arctocephalus tropicalis" "Arctocephalus tropicalis" "Subantarctic Fur Seal" "Amsterdam Island Fur Seal" Arctoc "taxonomy:common=Subantarctic Fur Seal" "taxonomy:common=Amsterdam Island Fur Seal" taxonomy:common=Arctoc #greatnatureshots 

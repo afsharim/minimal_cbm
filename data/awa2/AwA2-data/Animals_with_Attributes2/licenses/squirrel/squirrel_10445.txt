@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ahisgett
+Photo URL    : https://www.flickr.com/photos/hisgett/5254119073/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 12 14:40:13 GMT+0100 2010
+Upload Date  : Sun Dec 12 17:20:49 GMT+0100 2010
+Geotag Info  : Latitude:52.449821, Longitude:-1.910258
+Views        : 431
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Red Squirrel 1c
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Sciurus vulgaris Red Squirrel 

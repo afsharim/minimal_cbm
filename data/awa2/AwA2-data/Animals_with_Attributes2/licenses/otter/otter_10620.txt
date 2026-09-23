@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Michael Fraley
+Photo URL    : https://www.flickr.com/photos/mrfraley/8368360022/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Dec 24 12:57:04 GMT+0100 2012
+Upload Date  : Thu Jan 10 19:09:42 GMT+0100 2013
+Views        : 149
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+San Francisco Zoo 142
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Olympus E-420
+Zuiko 14-42mm/f3.5-5.6
+12/24/2012
+
+
++--------+
+|  TAGS  |
++--------+
+"river otters" 

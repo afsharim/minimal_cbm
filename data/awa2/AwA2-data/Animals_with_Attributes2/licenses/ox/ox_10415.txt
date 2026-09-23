@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Skylab3368
+Photo URL    : https://www.flickr.com/photos/skylab3368/5315806522/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 2 10:58:08 GMT+0100 2011
+Upload Date  : Sun Jan 2 12:56:55 GMT+0100 2011
+Geotag Info  : Latitude:53.126792, Longitude:6.437644
+Views        : 92
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+In your face
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

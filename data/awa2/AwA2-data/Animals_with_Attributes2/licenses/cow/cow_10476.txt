@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : libraryems
+Photo URL    : https://www.flickr.com/photos/89812140@N06/13678224824/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 29 14:34:59 GMT+0100 2014
+Upload Date  : Sun Apr 6 23:49:34 GMT+0200 2014
+Geotag Info  : Latitude:51.814451, Longitude:-2.146110
+Views        : 3,687
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cows in Gloucestershire
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Cows on a farm near Cranham in Gloucestershire
+
+
++--------+
+|  TAGS  |
++--------+
+cows farm Cranham Gloucestershire livestock 

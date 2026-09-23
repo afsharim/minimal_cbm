@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Marie Hale
+Photo URL    : https://www.flickr.com/photos/15016964@N02/5312434129/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Dec 30 15:12:05 GMT+0100 2010
+Upload Date  : Sat Jan 1 19:01:46 GMT+0100 2011
+Views        : 1,320
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+European brown bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+European brown bear - taken at Dartmoor Zoo on 30th December 2010
+
+
++--------+
+|  TAGS  |
++--------+
+dartmoor bear 

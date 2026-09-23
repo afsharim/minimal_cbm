@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : davidmallett33
+Photo URL    : https://www.flickr.com/photos/115530434@N02/12170616606/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 18 12:10:57 GMT+0200 2013
+Upload Date  : Mon Jan 27 12:11:24 GMT+0100 2014
+Views        : 42
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Taken through dirty and thick glass at Melbourne Zoo in 2013 IMG_4021
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

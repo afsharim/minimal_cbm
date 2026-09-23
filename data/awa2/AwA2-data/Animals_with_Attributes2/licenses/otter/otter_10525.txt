@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Cosmos Photography
+Photo URL    : https://www.flickr.com/photos/7750444@N05/3861995023/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 2 15:36:22 GMT+0200 2009
+Upload Date  : Thu Aug 27 19:54:14 GMT+0200 2009
+Views        : 36
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Otters
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Whipsnade
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

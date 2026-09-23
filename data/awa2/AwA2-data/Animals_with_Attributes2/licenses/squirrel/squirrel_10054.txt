@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tim Sheerman-Chase
+Photo URL    : https://www.flickr.com/photos/tim_uk/3602411871/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 7 10:09:38 GMT+0200 2009
+Upload Date  : Sun Jun 7 11:22:43 GMT+0200 2009
+Geotag Info  : Latitude:51.248136, Longitude:-0.602874
+Views        : 35
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+American Neighbour From The Woods
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel 

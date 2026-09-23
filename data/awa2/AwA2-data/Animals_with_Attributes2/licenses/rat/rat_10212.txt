@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : breyeschow
+Photo URL    : https://www.flickr.com/photos/reyes-chow/227573145/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Aug 23 20:34:34 GMT+0200 2006
+Upload Date  : Mon Aug 28 23:43:29 GMT+0200 2006
+Views        : 94
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+"Nimo" the Rat
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+pets rats 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Hugh Simmons
+Photo URL    : https://www.flickr.com/photos/29775915@N04/4736994760/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 25 10:23:09 GMT+0200 2010
+Upload Date  : Sun Jun 27 00:39:23 GMT+0200 2010
+Views        : 275
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Royal Highland Show 250610_0080-7.jpg
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Cattle Events Farming "Flickr Photostream" "Royal Highland Show" 

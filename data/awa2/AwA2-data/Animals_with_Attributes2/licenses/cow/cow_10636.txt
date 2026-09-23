@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : oatsy40
+Photo URL    : https://www.flickr.com/photos/oatsy40/7662906524/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 28 10:37:01 GMT+0200 2012
+Upload Date  : Sat Jul 28 19:19:47 GMT+0200 2012
+Geotag Info  : Latitude:51.631737, Longitude:-0.411858
+Views        : 1,845
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cows
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Cows in a field
+
+
++--------+
+|  TAGS  |
++--------+
+livestock cows animals farm field calf 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : woofiegrrl
+Photo URL    : https://www.flickr.com/photos/meredith/66827452/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 3 00:53:36 GMT+0100 2001
+Upload Date  : Fri Nov 25 18:48:09 GMT+0100 2005
+Geotag Info  : Latitude:38.914444, Longitude:-77.251739
+Views        : 208
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Raccoon in our bedroom Feb 2001
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+raccoon bedroom 

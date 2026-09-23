@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : m01229
+Photo URL    : https://www.flickr.com/photos/39908901@N06/9375386976/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 9 18:47:30 GMT+0200 2013
+Upload Date  : Sat Jul 27 04:52:06 GMT+0200 2013
+Geotag Info  : Latitude:43.369997, Longitude:-110.445998
+Views        : 858
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Moose!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+d5100 Jackson Wyoming "United States" animal "Nikon 18-300mm" moose wildlife 

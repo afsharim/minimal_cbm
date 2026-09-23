@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : allenthepostman
+Photo URL    : https://www.flickr.com/photos/allenthepostman/2249817291/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Feb 8 12:10:29 GMT+0100 2008
+Upload Date  : Fri Feb 8 13:42:25 GMT+0100 2008
+Views        : 691
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Lazy Cat
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Scaredy on our bed,Feb 2008
+
+
++--------+
+|  TAGS  |
++--------+
+cats pets persian animals 

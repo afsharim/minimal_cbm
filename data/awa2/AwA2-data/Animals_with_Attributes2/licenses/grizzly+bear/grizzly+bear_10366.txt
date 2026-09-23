@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Roland Klose
+Photo URL    : https://www.flickr.com/photos/rwklose/6183198055/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Sep 26 12:00:47 GMT+0200 2011
+Upload Date  : Mon Sep 26 03:33:14 GMT+0200 2011
+Views        : 54
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Grizzlies
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

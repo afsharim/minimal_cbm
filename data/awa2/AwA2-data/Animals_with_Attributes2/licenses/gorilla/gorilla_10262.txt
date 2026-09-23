@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Richard Masoner / Cyclelicious
+Photo URL    : https://www.flickr.com/photos/bike/2048768466/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Nov 15 13:01:26 GMT+0100 2007
+Upload Date  : Tue Nov 20 00:48:18 GMT+0100 2007
+Views        : 993
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Gorilla at San Francisco Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+My son's class took a field trip to the San Francisco Zoo last weekend.
+
+My wife, who helped chaperon the four busloads of seventh graders, said the middle schoolers all acted like a bunch of monkeys. Har har har.
+
+
++--------+
+|  TAGS  |
++--------+
+gorilla ape "school field trip" "san francisco zoo" 

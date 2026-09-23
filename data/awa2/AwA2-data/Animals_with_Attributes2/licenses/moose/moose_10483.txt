@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Martin Cathrae
+Photo URL    : https://www.flickr.com/photos/suckamc/205326100/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 23 13:07:34 GMT+0200 2006
+Upload Date  : Thu Aug 3 03:30:25 GMT+0200 2006
+Geotag Info  : Latitude:46.745624, Longitude:-60.913867
+Views        : 1,407
+Comments     : 8
+
+
++---------+
+|  TITLE  |
++---------+
+Moose!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Spotted while hiking the Skyline Trail in Cape Breton Highlands National Park
+
+
++--------+
+|  TAGS  |
++--------+
+"pei trip 3 2006" "nova scotia" "cape breton" moose roadtrip 

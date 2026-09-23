@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sheilaellen
+Photo URL    : https://www.flickr.com/photos/sheilaellen/5092904674/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Sep 10 21:02:18 GMT+0200 2007
+Upload Date  : Mon Oct 18 10:15:24 GMT+0200 2010
+Geotag Info  : Latitude:-42.395762, Longitude:173.695306
+Views        : 1,071
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Whale Fluke
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Cropped detail from <a href="http://www.flickr.com/photos/sheilaellen/1970716412/">www.flickr.com/photos/sheilaellen/1970716412/</a>
+
+
++--------+
+|  TAGS  |
++--------+
+"New Zealand" "South Island" Kaikoura "whale watching" "whale fluke" "South Pacific Ocean" "Sperm whale" 

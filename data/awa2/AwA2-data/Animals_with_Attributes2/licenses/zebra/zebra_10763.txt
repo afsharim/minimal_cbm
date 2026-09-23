@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Just Another Wretch
+Photo URL    : https://www.flickr.com/photos/mmarshall-photography/3532401236/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 14 12:52:20 GMT+0200 2009
+Upload Date  : Fri May 15 01:24:09 GMT+0200 2009
+Geotag Info  : Latitude:39.749342, Longitude:-104.946480
+Views        : 18
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

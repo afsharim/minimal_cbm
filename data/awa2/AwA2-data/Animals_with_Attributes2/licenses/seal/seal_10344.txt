@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Paul Stainthorp
+Photo URL    : https://www.flickr.com/photos/pstainthorp/6292247921/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 29 15:06:49 GMT+0200 2011
+Upload Date  : Sat Oct 29 22:53:59 GMT+0200 2011
+Geotag Info  : Latitude:53.358414, Longitude:0.249724
+Views        : 344
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Feeding time
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The seal sanctuary, Mablethorpe North End, Lincolnshire. Saturday, 29 October, 2011
+
+
++--------+
+|  TAGS  |
++--------+
+mablethorpe "north end" seal sanctuary animal grey "halichoerus grypus" feeding herring gull 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tim Green aka atoach
+Photo URL    : https://www.flickr.com/photos/atoach/3999268220/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 10 12:36:52 GMT+0200 2009
+Upload Date  : Sat Oct 10 23:21:25 GMT+0200 2009
+Geotag Info  : Latitude:53.884385, Longitude:-2.049465
+Views        : 12,273
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+in the churchyard of Holy Trinity Church, Cowling
+
+
++--------+
+|  TAGS  |
++--------+
+sheep 

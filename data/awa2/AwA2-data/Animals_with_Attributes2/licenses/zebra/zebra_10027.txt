@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : tpavel
+Photo URL    : https://www.flickr.com/photos/tpavel/1023844093/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 28 15:58:23 GMT+0200 2007
+Upload Date  : Mon Aug 6 05:51:15 GMT+0200 2007
+Geotag Info  : Latitude:37.733525, Longitude:-122.504167
+Views        : 65
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+044
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zoo zebra 

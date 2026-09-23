@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : WG Finley
+Photo URL    : https://www.flickr.com/photos/wgfinley/3036500337/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 16 14:51:58 GMT+0100 2008
+Upload Date  : Mon Nov 17 05:19:20 GMT+0100 2008
+Geotag Info  : Latitude:43.031868, Longitude:-88.039433
+Views        : 298
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+ZooNov08 20.jpg
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Milwaukee County Zoo" "brown bear" 

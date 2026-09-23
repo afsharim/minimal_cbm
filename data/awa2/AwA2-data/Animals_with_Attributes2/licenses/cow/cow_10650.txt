@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sonder3
+Photo URL    : https://www.flickr.com/photos/101765004@N03/9760325322/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 12 15:16:20 GMT+0200 2013
+Upload Date  : Sun Sep 15 18:12:10 GMT+0200 2013
+Views        : 864
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cows
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Span round and shot behind me, quite liked the shot.
+
+
++--------+
+|  TAGS  |
++--------+
+d3200 

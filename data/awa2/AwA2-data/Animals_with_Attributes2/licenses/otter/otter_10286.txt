@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Numinosity (Gary J Wood)
+Photo URL    : https://www.flickr.com/photos/garyjwood/2939530777/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 11 14:43:58 GMT+0200 2008
+Upload Date  : Tue Oct 14 03:38:53 GMT+0200 2008
+Geotag Info  : Latitude:33.763025, Longitude:-84.394883
+Views        : 126
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+atlanta georgia usa "georgia aquarium" 

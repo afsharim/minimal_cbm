@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Marit & Toomas Hinnosaar
+Photo URL    : https://www.flickr.com/photos/hinnosaar/3846978040/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 22 12:52:35 GMT+0200 2009
+Upload Date  : Sun Aug 23 01:16:34 GMT+0200 2009
+Geotag Info  : Latitude:41.919670, Longitude:-87.632639
+Views        : 868
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bored Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Chicago "Lincoln Park Zoo" zebra yawning 

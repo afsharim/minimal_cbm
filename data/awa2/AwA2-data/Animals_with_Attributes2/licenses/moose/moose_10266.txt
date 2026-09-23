@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tony.Beeman
+Photo URL    : https://www.flickr.com/photos/lbeefus/43577917/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 20 12:00:00 GMT+0200 2005
+Upload Date  : Thu Sep 15 20:44:47 GMT+0200 2005
+Views        : 94
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Moose
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A Moose wandering the Denali backcountry (Photograph by Tony Beeman)
+
+
++--------+
+|  TAGS  |
++--------+
+IMatch IMatch.UID.CRW_2754 IMatch.Events.Alaska IMatch.Places.Alaska IMatch.Places.Denali IMatch.Places.USA 

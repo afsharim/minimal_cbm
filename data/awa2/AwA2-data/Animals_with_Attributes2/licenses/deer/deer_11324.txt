@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : _somaholiday
+Photo URL    : https://www.flickr.com/photos/75872360@N08/13979678225/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 29 19:02:54 GMT+0100 2013
+Upload Date  : Wed Apr 23 09:51:58 GMT+0200 2014
+Geotag Info  : Latitude:-43.463775, Longitude:172.593755
+Views        : 364
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Willowbank - 1229 2013 003
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Fallow deer (Dama dama) at Willowbank Wildlife Reserve.
+
+
++--------+
+|  TAGS  |
++--------+
+"Fallow Deer" deer animals 

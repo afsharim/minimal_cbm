@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Peter
+Photo URL    : https://www.flickr.com/photos/peterallen/300080157/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 18 12:14:44 GMT+0100 2006
+Upload Date  : Sat Nov 18 15:53:37 GMT+0100 2006
+Views        : 204
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Squirrel Eating "Monkey Nuts" 

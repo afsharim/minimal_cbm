@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MyFWCmedia
+Photo URL    : https://www.flickr.com/photos/myfwcmedia/23887715849/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jan 7 20:04:47 GMT+0100 2016
+Upload Date  : Fri Jan 8 20:00:32 GMT+0100 2016
+Views        : 301
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bat Netting
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+FWC photo by Karen Parker
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

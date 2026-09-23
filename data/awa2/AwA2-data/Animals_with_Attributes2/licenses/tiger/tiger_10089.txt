@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : HBarrison
+Photo URL    : https://www.flickr.com/photos/hbarrison/18402409415/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 24 11:17:50 GMT+0200 2015
+Upload Date  : Wed Jun 3 03:05:05 GMT+0200 2015
+Geotag Info  : Latitude:40.851150, Longitude:-73.878185
+Views        : 386
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bronx Zoo_2015 05 24_0061
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The Siberian tiger (Panthera tigris altaica), also known as the Amur tiger, is a tiger subspecies inhabiting mainly the Sikhote Alin mountain region with a small population in southwest Primorye Province in the Russian Far East and the Chinese Heilongjiang province
+
+
++--------+
+|  TAGS  |
++--------+
+"Bronx Zoo" HBarrison "Harvey Barrison" "taxonomy:binomial=Panthera tigris altaica" 

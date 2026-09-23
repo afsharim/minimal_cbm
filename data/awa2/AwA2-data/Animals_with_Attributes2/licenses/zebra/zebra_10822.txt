@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : NH53
+Photo URL    : https://www.flickr.com/photos/nh53/5166962367/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Nov 11 11:20:16 GMT+0100 2010
+Upload Date  : Thu Nov 11 20:20:16 GMT+0100 2010
+Geotag Info  : Latitude:-28.190967, Longitude:31.946868
+Views        : 561
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"south africa" hluhluwe imfolozi zebra 

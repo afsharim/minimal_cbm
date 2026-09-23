@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mostly Dans
+Photo URL    : https://www.flickr.com/photos/dannyboymalinga/4349648592/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Feb 11 12:43:55 GMT+0100 2010
+Upload Date  : Thu Feb 11 21:05:24 GMT+0100 2010
+Geotag Info  : Latitude:51.407183, Longitude:-0.333709
+Views        : 181
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+red deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+bushy park, West London
+
+
++--------+
+|  TAGS  |
++--------+
+red deer animal wildlife "bushy park" 

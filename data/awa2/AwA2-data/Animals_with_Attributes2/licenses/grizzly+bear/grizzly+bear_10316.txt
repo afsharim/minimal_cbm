@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : oddharmonic
+Photo URL    : https://www.flickr.com/photos/oddharmonic/11003983026/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 11 14:44:55 GMT+0200 2013
+Upload Date  : Sat Nov 23 05:14:10 GMT+0100 2013
+Geotag Info  : Latitude:40.032223, Longitude:-104.561744
+Views        : 684
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Done with its swim, the grizzly wandered away
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"the wild animal sanctuary" "grizzly bear" "ursus arctos" 

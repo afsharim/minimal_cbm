@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : isis1468
+Photo URL    : https://www.flickr.com/photos/139772728@N03/26132896265/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Dec 27 18:17:16 GMT+0100 2011
+Upload Date  : Wed Mar 30 14:53:59 GMT+0200 2016
+Views        : 12
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+1909- IMG_5869
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Lynx-Ecomuseum-Montreal
+
+
++--------+
+|  TAGS  |
++--------+
+#lynx#montreal#zoo#ecomuseum 

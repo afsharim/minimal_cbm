@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Peter O'Connor aka anemoneprojectors
+Photo URL    : https://www.flickr.com/photos/anemoneprojectors/3971447349/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Sep 30 14:44:13 GMT+0200 2009
+Upload Date  : Thu Oct 1 18:07:52 GMT+0200 2009
+Geotag Info  : Latitude:51.891377, Longitude:-0.197980
+Views        : 640
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Pigs 2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Schleich animal figurines in Toys R Us.
+
+
++--------+
+|  TAGS  |
++--------+
+Schleich Toy Figurine Animal Pig "Toys R Us" 

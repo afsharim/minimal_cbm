@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : pelican
+Photo URL    : https://www.flickr.com/photos/pelican/21598830289/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Sep 18 00:01:00 GMT+0200 2015
+Upload Date  : Mon Sep 28 16:06:25 GMT+0200 2015
+Views        : 350
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zoologischer garten, Berlin, Germany
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+DSC-RX100 Berlin "zoologischer garten" chimpanzee 

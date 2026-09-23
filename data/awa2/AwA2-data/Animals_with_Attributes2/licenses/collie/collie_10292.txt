@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sassamifrass
+Photo URL    : https://www.flickr.com/photos/sassamifrass/4137314393/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Nov 27 13:36:30 GMT+0100 2009
+Upload Date  : Fri Nov 27 09:40:03 GMT+0100 2009
+Views        : 394
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Gardening group
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The cat knows to approach with caution, otherwise she's liable to get a giant dog nose in the face.
+
+
++--------+
+|  TAGS  |
++--------+
+cat dog "border collie" 

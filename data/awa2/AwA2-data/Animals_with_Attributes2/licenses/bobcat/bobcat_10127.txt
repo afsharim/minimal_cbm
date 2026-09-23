@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/18347224900/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 4 12:43:22 GMT+0200 2015
+Upload Date  : Sat Jun 6 22:00:06 GMT+0200 2015
+Geotag Info  : Latitude:48.771125, Longitude:6.897139
+Views        : 3,476
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lynx from above
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Another picture of the lynx, also taken from above.
+
+
++--------+
+|  TAGS  |
++--------+
+portrait face above calm lynx big wild cat feline "parc animalier" park "sainte croix" zoo france nikon d4 

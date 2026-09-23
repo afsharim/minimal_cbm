@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : kdwood2
+Photo URL    : https://www.flickr.com/photos/kdwood2/7174781051/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 3 19:04:19 GMT+0200 2012
+Upload Date  : Mon Jun 11 03:55:22 GMT+0200 2012
+Geotag Info  : Latitude:61.764718, Longitude:-149.216136
+Views        : 365
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Alaska Moose
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Alces alces
+
+
++--------+
+|  TAGS  |
++--------+
+alaska wildlife moose 

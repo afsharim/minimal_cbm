@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : crestedcrazy
+Photo URL    : https://www.flickr.com/photos/crestedcrazy/300484638/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 18 16:11:10 GMT+0100 2006
+Upload Date  : Sun Nov 19 02:15:49 GMT+0100 2006
+Views        : 164
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+DSC08001
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+deer 

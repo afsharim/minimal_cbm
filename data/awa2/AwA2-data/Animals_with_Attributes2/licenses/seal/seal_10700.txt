@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : a.meins
+Photo URL    : https://www.flickr.com/photos/alex_hh/400845173/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Feb 13 16:54:40 GMT+0100 2007
+Upload Date  : Sat Feb 24 17:36:31 GMT+0100 2007
+Geotag Info  : Latitude:-35.992180, Longitude:137.318900
+Views        : 413
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Seal @ Seal Bay
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+geotagged geo:lon=137.31890 geo:lat=-35.99218 "seal bay" "kangaroo island" seal beach australia "eos 400d" canon 2007 february australien "down under" ozz 

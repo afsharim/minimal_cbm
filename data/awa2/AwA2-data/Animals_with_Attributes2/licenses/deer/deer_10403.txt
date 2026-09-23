@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : adactio
+Photo URL    : https://www.flickr.com/photos/adactio/3028823385/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Nov 14 15:51:23 GMT+0100 2008
+Upload Date  : Fri Nov 14 11:40:00 GMT+0100 2008
+Views        : 433
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Nara Japan deer 

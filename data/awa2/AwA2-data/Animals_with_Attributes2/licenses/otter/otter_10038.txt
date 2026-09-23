@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Julia Manzerova
+Photo URL    : https://www.flickr.com/photos/julia_manzerova/3845580641/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Aug 8 15:10:16 GMT+0200 2007
+Upload Date  : Sat Aug 22 21:14:18 GMT+0200 2009
+Views        : 68
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Bison creek 2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Yellowstone. Otter Creek; bison crossing
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

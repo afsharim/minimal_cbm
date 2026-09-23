@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : johnjones
+Photo URL    : https://www.flickr.com/photos/johnjones/4828084533/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 25 16:57:13 GMT+0200 2010
+Upload Date  : Mon Jul 26 00:49:35 GMT+0200 2010
+Geotag Info  : Latitude:52.159744, Longitude:0.184643
+Views        : 210
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+long horn
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+long horn "long horn" cattle cow 

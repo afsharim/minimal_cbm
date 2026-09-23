@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Liam Quinn
+Photo URL    : https://www.flickr.com/photos/liamq/5849384098/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jan 19 11:35:06 GMT+0100 2011
+Upload Date  : Sun Jun 19 18:30:13 GMT+0200 2011
+Geotag Info  : Latitude:-54.433333, Longitude:-36.183333
+Views        : 1,337
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Southern Elephant Seals fighting on the beach
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+At St. Andrews Bay, South Georgia.
+
+
++--------+
+|  TAGS  |
++--------+
+"Southern Elephant Seals" "elephant seals" seals "Mirounga leonina" fighting "St. Andrews Bay" "Saint Andrews Bay" "South Georgia" "South Georgia Island" wild wildlife 

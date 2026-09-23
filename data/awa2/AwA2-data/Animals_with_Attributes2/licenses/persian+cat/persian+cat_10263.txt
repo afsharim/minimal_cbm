@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Steam Pipe Trunk Distribution Venue
+Photo URL    : https://www.flickr.com/photos/waffleboy/1077779335/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 26 08:22:28 GMT+0200 2007
+Upload Date  : Sat Aug 11 06:41:43 GMT+0200 2007
+Views        : 174
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Howard's cat
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+My friend Howard in KC has a 16-year-old shaved Persian cat.
+
+
++--------+
+|  TAGS  |
++--------+
+cat 

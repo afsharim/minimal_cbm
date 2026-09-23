@@ -1,0 +1,40 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : NOAA Photo Library
+Photo URL    : https://www.flickr.com/photos/noaaphotolib/5277311069/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Dec 20 11:44:54 GMT+0100 2010
+Upload Date  : Mon Dec 20 18:21:33 GMT+0100 2010
+Views        : 671
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+fish8461
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Southern elephant seal resting on a beach at Seal Island, South Shetland Islands .
+
+    Image ID: fish8461, NOAA's Fisheries Collection
+    Location: Antarctica, Seal Island
+    Photo Date: 1997
+    Photographer: Dr. Roger Hewitt, NOAA NMFS SWFSC
+    Credit: NOAA NMFS SWFSC Antarctic Marine Living Resources (AMLR) Program
+
+
++--------+
+|  TAGS  |
++--------+
+NOAA Antarctic 

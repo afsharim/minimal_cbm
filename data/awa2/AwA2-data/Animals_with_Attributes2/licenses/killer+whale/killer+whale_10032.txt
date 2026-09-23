@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Siiremy
+Photo URL    : https://www.flickr.com/photos/siiremy/5962248954/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 21 22:46:21 GMT+0200 2011
+Upload Date  : Thu Jul 21 22:46:21 GMT+0200 2011
+Geotag Info  : Latitude:28.538230, Longitude:-81.377388
+Views        : 398
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Believe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+An orca during the show &quot;Believe&quot; in Sea World (Orlando).
+
+
++--------+
+|  TAGS  |
++--------+
+orca orlando florida show sea world animal planet 

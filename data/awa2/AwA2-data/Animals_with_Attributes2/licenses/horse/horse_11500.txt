@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : thepatrick
+Photo URL    : https://www.flickr.com/photos/pftqg/13923290276/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 19 15:13:56 GMT+0200 2014
+Upload Date  : Sun Apr 20 11:47:27 GMT+0200 2014
+Views        : 169
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+This horse is awesome
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horse sydney eastershow 

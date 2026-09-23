@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : WayShare
+Photo URL    : https://www.flickr.com/photos/47042618@N06/5665641012/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Apr 13 15:18:51 GMT+0200 2011
+Upload Date  : Thu Apr 28 20:03:24 GMT+0200 2011
+Views        : 1,619
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+sheep derbyshire 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jeanotr
+Photo URL    : https://www.flickr.com/photos/jeanot/5772496028/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 22 20:18:29 GMT+0200 2011
+Upload Date  : Sun May 29 18:43:05 GMT+0200 2011
+Geotag Info  : Latitude:13.511491, Longitude:2.107075
+Views        : 743
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Niamey's Hippopotamus amphibius
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+africa westafrica niger niamey hippopotamus "Hippopotamus amphibius" 

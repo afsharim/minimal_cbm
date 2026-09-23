@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ferret boy
+Photo URL    : https://www.flickr.com/photos/cryptic/295383416/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 12 15:21:44 GMT+0100 2006
+Upload Date  : Sun Nov 12 16:21:44 GMT+0100 2006
+Views        : 186
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"West Midlands Safari Park" tiger 

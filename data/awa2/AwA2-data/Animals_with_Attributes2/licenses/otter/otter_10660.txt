@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mike's Birds
+Photo URL    : https://www.flickr.com/photos/pazzani/20066123429/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 2 15:11:40 GMT+0200 2015
+Upload Date  : Mon Aug 3 11:17:16 GMT+0200 2015
+Geotag Info  : Latitude:61.091222, Longitude:-146.589477
+Views        : 578
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sea otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Otter "Sea Otter" "Prince William Sound" Alaska 

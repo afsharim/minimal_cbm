@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : downatthezoo
+Photo URL    : https://www.flickr.com/photos/devolve/4849903451/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 1 20:04:28 GMT+0200 2010
+Upload Date  : Sun Aug 1 21:04:28 GMT+0200 2010
+Views        : 131
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horse drawn team
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Calgary Stampede" horses 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ultimatejourneys
+Photo URL    : https://www.flickr.com/photos/ujtours/4823275643/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 9 12:42:01 GMT+0200 2010
+Upload Date  : Sat Jul 24 15:53:56 GMT+0200 2010
+Views        : 11
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_0396
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

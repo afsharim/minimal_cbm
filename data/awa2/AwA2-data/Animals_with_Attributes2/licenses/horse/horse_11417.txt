@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : daniel spils
+Photo URL    : https://www.flickr.com/photos/danielspils/3258263855/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Feb 6 13:41:53 GMT+0100 2009
+Upload Date  : Fri Feb 6 22:41:53 GMT+0100 2009
+Views        : 345
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Seattle horse cop
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Officer was friendly to pose for this picture
+
+
++--------+
+|  TAGS  |
++--------+
+seattle "horse cop" downtown 

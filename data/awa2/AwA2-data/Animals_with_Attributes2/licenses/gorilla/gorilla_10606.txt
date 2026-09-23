@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Gnomet
+Photo URL    : https://www.flickr.com/photos/gnomet/4218253236/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Dec 15 13:11:57 GMT+0100 2009
+Upload Date  : Sun Dec 27 07:16:26 GMT+0100 2009
+Views        : 50
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Jatkoa Ranskavuoden Kieltä näyttävät apinat -kuvasarjaan
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

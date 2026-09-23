@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MoBarger
+Photo URL    : https://www.flickr.com/photos/mobarger/19440208742/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 5 14:58:53 GMT+0200 2015
+Upload Date  : Sun Jul 5 23:03:44 GMT+0200 2015
+Views        : 12
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+candor horses events 

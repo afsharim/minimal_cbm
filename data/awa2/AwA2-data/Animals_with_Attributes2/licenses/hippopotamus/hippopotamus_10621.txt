@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MSVG
+Photo URL    : https://www.flickr.com/photos/msvg/4532032581/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 18 10:23:48 GMT+0200 2010
+Upload Date  : Sun Apr 18 23:28:01 GMT+0200 2010
+Geotag Info  : Latitude:43.820509, Longitude:-79.180934
+Views        : 760
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+River Hippopotamus
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+metro metropolitan zoo Toronto Ontario Canada animals animal River Hippopotamus Africa Mammalia Artiodactyla Hippopotamidae amphibius Region Class Order Family Genus Scientific Name 

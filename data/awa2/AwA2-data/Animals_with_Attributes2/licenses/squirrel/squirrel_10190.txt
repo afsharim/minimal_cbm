@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : wplynn
+Photo URL    : https://www.flickr.com/photos/warrenlynn/5382449432/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 23 15:01:29 GMT+0100 2011
+Upload Date  : Sun Jan 23 23:03:55 GMT+0100 2011
+Geotag Info  : Latitude:39.906152, Longitude:-86.016082
+Views        : 179
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+feeding squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Indiana Fox Squirrel (Sciurus niger)
+
+
++--------+
+|  TAGS  |
++--------+
+gray squirrel avian indiana indianapolis 

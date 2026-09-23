@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : zolakoma
+Photo URL    : https://www.flickr.com/photos/zolakoma/1590036268/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 14 16:18:02 GMT+0200 2007
+Upload Date  : Tue Oct 16 19:45:45 GMT+0200 2007
+Geotag Info  : Latitude:47.526126, Longitude:18.927726
+Views        : 80
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

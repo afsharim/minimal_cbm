@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jaakko.hakulinen
+Photo URL    : https://www.flickr.com/photos/jshakulinen/9114872405/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 20 16:48:57 GMT+0200 2013
+Upload Date  : Sun Jun 23 15:52:15 GMT+0200 2013
+Geotag Info  : Latitude:51.523964, Longitude:5.111646
+Views        : 215
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Seepra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zebra eye 

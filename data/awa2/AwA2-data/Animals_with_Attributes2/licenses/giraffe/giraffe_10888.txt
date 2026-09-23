@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : aenigmatēs
+Photo URL    : https://www.flickr.com/photos/aenigmates/6088241755/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 27 12:12:24 GMT+0200 2011
+Upload Date  : Sun Aug 28 13:52:14 GMT+0200 2011
+Geotag Info  : Latitude:-33.842942, Longitude:151.240367
+Views        : 378
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffes, Taronga Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+giraffe "taronga zoo" zoo "by Mary" 

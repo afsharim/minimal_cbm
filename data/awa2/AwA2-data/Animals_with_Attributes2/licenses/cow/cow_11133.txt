@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Reading Tom
+Photo URL    : https://www.flickr.com/photos/16801915@N06/5722039815/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 14 12:44:31 GMT+0200 2011
+Upload Date  : Sun May 15 16:40:09 GMT+0200 2011
+Geotag Info  : Latitude:50.679328, Longitude:-2.672767
+Views        : 478
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+P1080399
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"South West Coast Path" Cow 

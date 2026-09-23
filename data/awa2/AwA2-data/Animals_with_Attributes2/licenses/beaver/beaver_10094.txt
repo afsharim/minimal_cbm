@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Kevin Burkett
+Photo URL    : https://www.flickr.com/photos/kevinwburkett/4725709183/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 21 12:59:23 GMT+0200 2010
+Upload Date  : Wed Jun 23 04:04:03 GMT+0200 2010
+Geotag Info  : Latitude:40.746541, Longitude:-86.410818
+Views        : 1,563
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Big Brown Beaver
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A beaver crosses the road near Georgetown, Ind.
+
+
++--------+
+|  TAGS  |
++--------+
+beaver nature animals Indiana 

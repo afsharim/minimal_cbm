@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Eric F Savage
+Photo URL    : https://www.flickr.com/photos/efsavage/1188640679/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 19 03:23:47 GMT+0200 2007
+Upload Date  : Tue Aug 21 05:07:32 GMT+0200 2007
+Geotag Info  : Latitude:42.063949, Longitude:-71.583335
+Views        : 179
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"southwick's zoo" zoo deer 

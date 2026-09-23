@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : lightmatter
+Photo URL    : https://www.flickr.com/photos/lightmatter/90515493/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jan 23 20:25:36 GMT+0100 2006
+Upload Date  : Tue Jan 24 05:25:36 GMT+0100 2006
+Views        : 107
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Seal
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+animal seal 

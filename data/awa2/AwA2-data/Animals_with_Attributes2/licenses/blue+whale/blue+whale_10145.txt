@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : harald18
+Photo URL    : https://www.flickr.com/photos/harald18/6075572399/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 6 14:27:38 GMT+0200 2011
+Upload Date  : Wed Aug 24 10:58:34 GMT+0200 2011
+Geotag Info  : Latitude:-42.400818, Longitude:173.681381
+Views        : 755
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+kaikura "new zealand" "sperm whale" 

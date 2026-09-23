@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Andrew Kalat
+Photo URL    : https://www.flickr.com/photos/akalat/18816007288/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jun 2 23:52:22 GMT+0200 2015
+Upload Date  : Sun Jun 21 03:44:32 GMT+0200 2015
+Geotag Info  : Latitude:58.353401, Longitude:-134.754738
+Views        : 192
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Orca Pod
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A pod of Orca in Auke Bay, Alaska
+
+
++--------+
+|  TAGS  |
++--------+
+Alaska "Killer Whale" Orca "Auke Bay" 

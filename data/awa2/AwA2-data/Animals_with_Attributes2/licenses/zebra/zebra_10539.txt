@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Chadica
+Photo URL    : https://www.flickr.com/photos/chadica/3225175361/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jan 16 15:37:09 GMT+0100 2009
+Upload Date  : Sun Jan 25 18:32:49 GMT+0100 2009
+Geotag Info  : Latitude:-2.443716, Longitude:34.899444
+Views        : 844
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra and baby zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Tanzania Serengeti Safari zebra "baby zebra" "plains zebra" "Animal Planet" 

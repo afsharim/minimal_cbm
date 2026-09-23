@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : wharman
+Photo URL    : https://www.flickr.com/photos/quirky/6470555169/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Dec 6 00:00:22 GMT+0100 2011
+Upload Date  : Wed Dec 7 09:36:04 GMT+0100 2011
+Geotag Info  : Latitude:-33.843170, Longitude:151.241269
+Views        : 77
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Chimpanzee
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+One of these guys actually fell from the top while we were watching. He got up quickly, but it must have HURT.
+
+
++--------+
+|  TAGS  |
++--------+
+"taronga zoo" sydney australia 

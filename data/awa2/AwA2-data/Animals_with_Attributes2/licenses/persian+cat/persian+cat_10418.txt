@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Brett Jordan
+Photo URL    : https://www.flickr.com/photos/x1brett/13605268775/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 23 08:44:00 GMT+0100 2014
+Upload Date  : Thu Apr 3 18:25:54 GMT+0200 2014
+Views        : 349
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Misty, 22-03-14
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Waterpitts Farm, Somerset
+
+
++--------+
+|  TAGS  |
++--------+
+brett "brett jordan" "waterpitts farm" cat misty "persian cat" "persian blue cat" 

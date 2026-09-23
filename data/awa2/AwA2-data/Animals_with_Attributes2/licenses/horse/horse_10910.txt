@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : James Byrum
+Photo URL    : https://www.flickr.com/photos/jimmybyrum/3717243350/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 12 13:14:23 GMT+0200 2009
+Upload Date  : Mon Jul 13 17:15:49 GMT+0200 2009
+Geotag Info  : Latitude:50.985342, Longitude:0.461597
+Views        : 336
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horses
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+england britain uk robertsbridge walk country horse white brown countryside 

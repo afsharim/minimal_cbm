@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : akfoto
+Photo URL    : https://www.flickr.com/photos/akfoto/4444209593/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Mar 18 19:01:10 GMT+0100 2010
+Upload Date  : Fri Mar 19 05:40:06 GMT+0100 2010
+Views        : 109
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+ALASKA
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Moose in the yard.
+
+
++--------+
+|  TAGS  |
++--------+
+Alaska Moose yard 

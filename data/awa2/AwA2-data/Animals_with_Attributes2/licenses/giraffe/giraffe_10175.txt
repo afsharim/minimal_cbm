@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ajajadude
+Photo URL    : https://www.flickr.com/photos/jtardif/5430450378/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 17 13:38:19 GMT+0200 2010
+Upload Date  : Wed Feb 9 08:08:21 GMT+0100 2011
+Geotag Info  : Latitude:34.420389, Longitude:-119.665430
+Views        : 177
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Geoffrey
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+It's a giraffe. Duh.
+
+
++--------+
+|  TAGS  |
++--------+
+"Santa Barbara Zoo" Giraffe 

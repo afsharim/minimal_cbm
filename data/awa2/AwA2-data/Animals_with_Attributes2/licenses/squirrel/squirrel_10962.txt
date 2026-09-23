@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : rob 86
+Photo URL    : https://www.flickr.com/photos/97386876@N06/9092102277/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 15 18:43:57 GMT+0200 2013
+Upload Date  : Thu Jun 20 17:30:05 GMT+0200 2013
+Geotag Info  : Latitude:51.011756, Longitude:13.868350
+Views        : 112
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Eichhörnchen Squirrel 

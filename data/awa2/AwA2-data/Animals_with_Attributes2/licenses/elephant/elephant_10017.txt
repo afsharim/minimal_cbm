@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MaxH42
+Photo URL    : https://www.flickr.com/photos/maxh42/9589725413/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Aug 13 11:27:43 GMT+0200 2013
+Upload Date  : Sun Aug 25 18:59:10 GMT+0200 2013
+Views        : 686
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+2013-08-13 11.27.43
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A group of elephants with someplace else to be.
+
+
++--------+
+|  TAGS  |
++--------+
+animal elephant baby 

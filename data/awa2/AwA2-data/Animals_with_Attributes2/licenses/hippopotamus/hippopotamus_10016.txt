@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Other Neither
+Photo URL    : https://www.flickr.com/photos/other_neither/281998599/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 28 13:20:38 GMT+0200 2006
+Upload Date  : Sun Oct 29 08:12:28 GMT+0100 2006
+Geotag Info  : Latitude:45.514827, Longitude:-122.704839
+Views        : 140
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+102806WashingtonParkZoo06
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zoo "washington park zoo" animals hippo hippopotamus lazy big 

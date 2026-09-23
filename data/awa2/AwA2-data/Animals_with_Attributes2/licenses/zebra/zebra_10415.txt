@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Iman
+Photo URL    : https://www.flickr.com/photos/organised/39888325/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 3 20:41:03 GMT+0200 2005
+Upload Date  : Sat Sep 3 21:41:03 GMT+0200 2005
+Views        : 168
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+safari_zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+safari shakespeare avon longleat motorway 

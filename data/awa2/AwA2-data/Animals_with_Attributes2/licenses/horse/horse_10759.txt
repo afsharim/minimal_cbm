@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : larsjuh
+Photo URL    : https://www.flickr.com/photos/larsjuh/14473924854/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 25 06:14:29 GMT+0200 2014
+Upload Date  : Sat Jun 21 22:21:39 GMT+0200 2014
+Geotag Info  : Latitude:50.240591, Longitude:5.529147
+Views        : 121
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Rendeux "Waals Gewest" België "België 2014" 2014 "60mm 2.8" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : randomduck
+Photo URL    : https://www.flickr.com/photos/rudiriet/11330484666/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Dec 7 12:07:52 GMT+0100 2013
+Upload Date  : Thu Dec 12 00:03:07 GMT+0100 2013
+Geotag Info  : Latitude:39.095169, Longitude:-77.346231
+Views        : 204
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+'Allo, sheep!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jammach_uk
+Photo URL    : https://www.flickr.com/photos/jammach_uk/466955720/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Sep 1 14:37:49 GMT+0200 2004
+Upload Date  : Sat Apr 21 12:35:43 GMT+0200 2007
+Geotag Info  : Latitude:55.945369, Longitude:-3.271199
+Views        : 213
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Monkey, Nuts.
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A chimp considers juggling, Edinburgh Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+chimpanzee edinburgh oranges 

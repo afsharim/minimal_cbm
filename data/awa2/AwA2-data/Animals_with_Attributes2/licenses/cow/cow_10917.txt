@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Olivier Bruchez
+Photo URL    : https://www.flickr.com/photos/bruchez/6189087325/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Aug 9 13:56:44 GMT+0200 2011
+Upload Date  : Tue Sep 27 19:37:13 GMT+0200 2011
+Geotag Info  : Latitude:53.616813, Longitude:-10.184562
+Views        : 964
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Inishbofin Island, Connemara
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+ireland europe inishbofin island connemara cow 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MiguelVieira
+Photo URL    : https://www.flickr.com/photos/miguelvieira/6537390719/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Dec 15 14:40:21 GMT+0100 2011
+Upload Date  : Mon Dec 19 13:52:30 GMT+0100 2011
+Geotag Info  : Latitude:-54.816414, Longitude:-68.534259
+Views        : 947
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+North American beaver (Castor canadensis) on Parque Nacional Tierra del Fuego Cerro Guanaco trail
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"North American beaver" "Castor canadensis" Castor Argentina "Tierra del Fuego" "Parque Nacional Tierra del Fuego" "Magellanic subpolar forests" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mertie.
+Photo URL    : https://www.flickr.com/photos/100780486@N02/22158942175/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Sep 1 14:08:12 GMT+0200 2015
+Upload Date  : Wed Oct 14 13:21:27 GMT+0200 2015
+Geotag Info  : Latitude:-33.843490, Longitude:151.241269
+Views        : 89
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Taronga Zoo - Pygmy Hippopotamus
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Zoo Taronga "Pygmy Hippopotamus" "Taronga Zoo" 

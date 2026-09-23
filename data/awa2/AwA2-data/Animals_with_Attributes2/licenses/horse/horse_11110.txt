@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : martie1swart
+Photo URL    : https://www.flickr.com/photos/martie1swart/6001851833/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 16 14:06:04 GMT+0200 2009
+Upload Date  : Tue Aug 2 18:07:42 GMT+0200 2011
+Geotag Info  : Latitude:53.419609, Longitude:-8.240550
+Views        : 22,621
+Comments     : 12
+
+
++---------+
+|  TITLE  |
++---------+
+Irish horses
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Irish horses next to the road somewhere in Ireland. We caused a bit of a traffic jam when we stopped to take this photo.
+
+
++--------+
+|  TAGS  |
++--------+
+Ireland horse "Animal Planet" 

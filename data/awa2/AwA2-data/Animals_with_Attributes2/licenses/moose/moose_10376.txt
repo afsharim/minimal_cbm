@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Superior National Forest
+Photo URL    : https://www.flickr.com/photos/superiornationalforest/5062235005/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Mar 10 10:43:01 GMT+0100 2010
+Upload Date  : Fri Oct 8 18:29:46 GMT+0200 2010
+Views        : 121
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+moose
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

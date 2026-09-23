@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Andrew Gustar
+Photo URL    : https://www.flickr.com/photos/andrewgustar/19364212701/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 2 11:46:41 GMT+0200 2015
+Upload Date  : Thu Jul 2 21:24:10 GMT+0200 2015
+Geotag Info  : Latitude:58.984788, Longitude:-3.020200
+Views        : 84
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cows
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Orkney wideford hill cows 

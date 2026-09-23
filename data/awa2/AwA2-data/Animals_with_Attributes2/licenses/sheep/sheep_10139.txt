@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jay-jerry
+Photo URL    : https://www.flickr.com/photos/jayjerry/7337363406/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 4 13:48:57 GMT+0200 2012
+Upload Date  : Mon Jun 4 20:06:53 GMT+0200 2012
+Geotag Info  : Latitude:53.100066, Longitude:-4.337648
+Views        : 415
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+caernarfon sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+DSC-HX100V caernarfon sheep wales 

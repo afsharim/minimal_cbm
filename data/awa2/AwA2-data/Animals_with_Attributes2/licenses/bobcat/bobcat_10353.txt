@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Eric Kilby
+Photo URL    : https://www.flickr.com/photos/ekilby/8154273321/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 3 14:54:41 GMT+0100 2012
+Upload Date  : Sun Nov 4 17:15:28 GMT+0100 2012
+Geotag Info  : Latitude:42.462697, Longitude:-71.093636
+Views        : 1,400
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Canada Lynx
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+stone zoo massachusetts big cat canada lynx ears closeup 

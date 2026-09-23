@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mansingen
+Photo URL    : https://www.flickr.com/photos/mansingen/6928285412/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Apr 13 18:31:21 GMT+0200 2012
+Upload Date  : Fri Apr 13 20:35:53 GMT+0200 2012
+Views        : 61
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Rosa gäspar
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horse 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bowdenartist
+Photo URL    : https://www.flickr.com/photos/bowdenartist/15893855757/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 17 23:53:25 GMT+0100 2007
+Upload Date  : Mon Dec 22 15:09:42 GMT+0100 2014
+Views        : 97
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Squirrel in a tree eating a leaf.
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel leaf animal wildlife 

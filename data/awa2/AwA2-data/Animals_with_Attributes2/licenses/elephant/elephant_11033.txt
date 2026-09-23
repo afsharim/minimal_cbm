@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : miczanin
+Photo URL    : https://www.flickr.com/photos/miczanin/4726957646/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 10 14:34:04 GMT+0200 2010
+Upload Date  : Wed Jun 23 09:06:21 GMT+0200 2010
+Geotag Info  : Latitude:-0.203859, Longitude:29.899213
+Views        : 344
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Young elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Taken from a boat along the Kazinga Channel, in Queen Elizabeth Park, Uganda
+
+
++--------+
+|  TAGS  |
++--------+
+uganda elephant safari 

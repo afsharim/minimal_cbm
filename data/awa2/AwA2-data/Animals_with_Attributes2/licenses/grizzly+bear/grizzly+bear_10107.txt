@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : aaranged
+Photo URL    : https://www.flickr.com/photos/aaranged/21625996014/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 27 17:36:51 GMT+0200 2015
+Upload Date  : Sat Oct 17 17:27:01 GMT+0200 2015
+Views        : 72
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+A grizzly bear on the road to Haines Junction
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

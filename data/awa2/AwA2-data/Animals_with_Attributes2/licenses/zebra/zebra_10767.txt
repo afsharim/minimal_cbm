@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : csaga
+Photo URL    : https://www.flickr.com/photos/csaga/3608432854/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 8 16:17:59 GMT+0200 2009
+Upload Date  : Mon Jun 8 20:55:24 GMT+0200 2009
+Geotag Info  : Latitude:47.997205, Longitude:21.726886
+Views        : 217
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A kétféle zebra közül az egyik
+
+
++--------+
+|  TAGS  |
++--------+
+Sóstó Nyíregyháza Állatkert Zoo Magyarország 

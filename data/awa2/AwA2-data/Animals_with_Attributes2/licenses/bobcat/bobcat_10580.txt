@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : t066e
+Photo URL    : https://www.flickr.com/photos/58562628@N05/5374569941/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jan 21 02:19:57 GMT+0100 2011
+Upload Date  : Fri Jan 21 11:19:57 GMT+0100 2011
+Views        : 1,351
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Nordens ark Lodjur Lynx lynx
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Lodjur Lynx 

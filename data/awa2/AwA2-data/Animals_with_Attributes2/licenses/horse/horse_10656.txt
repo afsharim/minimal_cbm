@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Bubblejewel96
+Photo URL    : https://www.flickr.com/photos/50657150@N03/5042871443/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Sep 22 14:43:05 GMT+0200 2010
+Upload Date  : Sat Oct 2 05:31:14 GMT+0200 2010
+Geotag Info  : Latitude:61.071703, Longitude:23.585093
+Views        : 6,289
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horse ukko field 

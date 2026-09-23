@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : dwolfgra
+Photo URL    : https://www.flickr.com/photos/wolfgrams/3666454889/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 27 11:31:38 GMT+0200 2009
+Upload Date  : Sun Jun 28 05:50:42 GMT+0200 2009
+Views        : 195
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+P6270005
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Sea Otter at At Monterey Aquarium
+
+
++--------+
+|  TAGS  |
++--------+
+wolfgrams monterey 

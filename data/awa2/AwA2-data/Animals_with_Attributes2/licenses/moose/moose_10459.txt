@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Alex Butterfield
+Photo URL    : https://www.flickr.com/photos/apbutterfield/14595965832/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 3 14:45:52 GMT+0200 2014
+Upload Date  : Mon Jul 7 17:30:55 GMT+0200 2014
+Geotag Info  : Latitude:39.093650, Longitude:-106.952578
+Views        : 538
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Moose
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+White River National Forest - Maroon Bells Scenic Area
+
+
++--------+
+|  TAGS  |
++--------+
+moose 

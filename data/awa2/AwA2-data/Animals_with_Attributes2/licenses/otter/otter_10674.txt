@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : kamikaze.spoon
+Photo URL    : https://www.flickr.com/photos/kamikazespoon/264227385/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 25 14:22:11 GMT+0200 2006
+Upload Date  : Sun Oct 8 22:47:25 GMT+0200 2006
+Views        : 150
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Seattle_Aquarium_08
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+seattle aquarium "sea otter" 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : gordon.milligan
+Photo URL    : https://www.flickr.com/photos/el-milligano/23515535095/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Dec 4 12:59:16 GMT+0100 2015
+Upload Date  : Fri Dec 4 14:13:24 GMT+0100 2015
+Views        : 451
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Seal saying hello
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+seal 

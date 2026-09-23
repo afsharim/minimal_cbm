@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : johnomason
+Photo URL    : https://www.flickr.com/photos/91451979@N00/5943582158/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 5 09:28:19 GMT+0200 2011
+Upload Date  : Sat Jul 16 18:32:53 GMT+0200 2011
+Geotag Info  : Latitude:-25.005972, Longitude:31.779327
+Views        : 84
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hippopotamus
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+In the Sabie River, Kruger National Park. We went for a stroll along the river after breakfast and this guy emerged from the reeds on the other side and walked along with us.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

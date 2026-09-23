@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mmmavocado
+Photo URL    : https://www.flickr.com/photos/mmmavocado/6255245753/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 9 10:07:23 GMT+0200 2011
+Upload Date  : Tue Oct 18 01:29:00 GMT+0200 2011
+Geotag Info  : Latitude:63.673687, Longitude:-148.826808
+Views        : 79
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Moose
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Near Denali National Park.
+
+
++--------+
+|  TAGS  |
++--------+
+Alaska 

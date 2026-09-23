@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : xerayou
+Photo URL    : https://www.flickr.com/photos/xeranas/4714247384/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 19 15:00:31 GMT+0200 2010
+Upload Date  : Sat Jun 19 14:09:11 GMT+0200 2010
+Geotag Info  : Latitude:54.725165, Longitude:25.249757
+Views        : 200
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiny friend
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Dwarf Hamster 

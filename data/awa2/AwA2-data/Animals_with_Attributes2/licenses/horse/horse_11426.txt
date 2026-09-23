@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Marie Hale
+Photo URL    : https://www.flickr.com/photos/15016964@N02/5921574489/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 1 11:36:56 GMT+0200 2010
+Upload Date  : Sun Jul 10 15:35:33 GMT+0200 2011
+Views        : 3,212
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Shire horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Shire horse - taken at Noah's Ark Zoo Farm on 1st May 2010
+
+
++--------+
+|  TAGS  |
++--------+
+horse 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : James Mostert
+Photo URL    : https://www.flickr.com/photos/djeems/4450761939/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 14 08:30:29 GMT+0100 2010
+Upload Date  : Sun Mar 21 19:09:40 GMT+0100 2010
+Geotag Info  : Latitude:-23.915470, Longitude:31.470539
+Views        : 1,171
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+animal elephant 

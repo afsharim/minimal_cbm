@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : SubbuThePeaceful
+Photo URL    : https://www.flickr.com/photos/67446336@N00/1085912703/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 8 13:47:23 GMT+0200 2007
+Upload Date  : Sun Aug 12 00:29:55 GMT+0200 2007
+Geotag Info  : Latitude:63.729122, Longitude:-148.900108
+Views        : 1,679
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Moose Family
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A mother and baby moose right at the end of the Horseshoe Lake Trail in Denali National Park
+
+
++--------+
+|  TAGS  |
++--------+
+"Denali National Park" "Horseshoe Lake Trail" Moose "Moose Family" 

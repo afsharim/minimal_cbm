@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Dave Hamster
+Photo URL    : https://www.flickr.com/photos/davehamster/746463357/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 5 13:57:51 GMT+0200 2007
+Upload Date  : Sat Jul 7 14:15:31 GMT+0200 2007
+Geotag Info  : Latitude:52.304634, Longitude:-1.658334
+Views        : 567
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Ram
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Hatton Country World
+
+
++--------+
+|  TAGS  |
++--------+
+Sheep Ram Horns 

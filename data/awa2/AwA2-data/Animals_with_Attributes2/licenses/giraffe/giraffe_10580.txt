@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : SandMonster
+Photo URL    : https://www.flickr.com/photos/sandmonster/6158631438/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 17 13:57:55 GMT+0200 2011
+Upload Date  : Sun Sep 18 13:28:27 GMT+0200 2011
+Geotag Info  : Latitude:53.818541, Longitude:-3.014588
+Views        : 36
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Blackpool Zoo" Blackpool Zoo September 2011 Sandmonster 

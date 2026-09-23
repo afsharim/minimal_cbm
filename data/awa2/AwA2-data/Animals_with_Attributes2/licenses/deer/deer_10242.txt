@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : david_shane
+Photo URL    : https://www.flickr.com/photos/david_shane/8706672320/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri May 3 20:13:36 GMT+0200 2013
+Upload Date  : Sat May 4 05:59:02 GMT+0200 2013
+Geotag Info  : Latitude:42.752999, Longitude:-84.484992
+Views        : 225
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer in Harrison Meadows Park
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+deer doe "east lansing" 

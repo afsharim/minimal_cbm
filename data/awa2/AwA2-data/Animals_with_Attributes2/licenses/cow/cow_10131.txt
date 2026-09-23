@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Evoflash
+Photo URL    : https://www.flickr.com/photos/evoflash/7342454130/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 2 17:08:13 GMT+0200 2012
+Upload Date  : Tue Jun 5 21:07:15 GMT+0200 2012
+Geotag Info  : Latitude:53.601722, Longitude:-9.974531
+Views        : 733
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Connemara 2012
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Sony dsc
+
+
++--------+
+|  TAGS  |
++--------+
+Connemara cow 

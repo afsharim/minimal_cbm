@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : nickobec
+Photo URL    : https://www.flickr.com/photos/nickobec/290330132/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 5 17:36:52 GMT+0100 2006
+Upload Date  : Mon Nov 6 08:09:42 GMT+0100 2006
+Geotag Info  : Latitude:-32.252115, Longitude:115.806080
+Views        : 8,351
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+willow at 6 months
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Willow our Blue Merle Border Collie at 6 months
+
+
++--------+
+|  TAGS  |
++--------+
+puppy " border collie" " blue merle" " willow" 

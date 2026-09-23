@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : RichardBH
+Photo URL    : https://www.flickr.com/photos/rbh/6218379655/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 18 12:13:17 GMT+0200 2011
+Upload Date  : Fri Oct 7 01:47:09 GMT+0200 2011
+Geotag Info  : Latitude:43.246859, Longitude:-80.059776
+Views        : 703
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horses
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+At Myers Apple Farm.
+
+
++--------+
+|  TAGS  |
++--------+
+horse 

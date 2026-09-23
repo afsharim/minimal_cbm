@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Adventures with my dogs
+Photo URL    : https://www.flickr.com/photos/jantruter/8245575218/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Dec 1 13:34:00 GMT+0100 2012
+Upload Date  : Tue Dec 4 21:18:05 GMT+0100 2012
+Geotag Info  : Latitude:-25.733106, Longitude:28.191862
+Views        : 1,178
+Comments     : 15
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zoo 

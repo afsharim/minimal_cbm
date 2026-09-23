@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Patrick Denker
+Photo URL    : https://www.flickr.com/photos/pdenker/2557417120/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 24 19:46:31 GMT+0200 2008
+Upload Date  : Sat Jun 7 02:00:41 GMT+0200 2008
+Geotag Info  : Latitude:57.053568, Longitude:-135.337142
+Views        : 904
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_7411
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Alaska Sitka "brown bear" grizzly cub 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Smudge 9000
+Photo URL    : https://www.flickr.com/photos/smudge9000/11873266214/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jan 10 13:01:54 GMT+0100 2014
+Upload Date  : Fri Jan 10 17:37:20 GMT+0100 2014
+Geotag Info  : Latitude:51.342997, Longitude:0.888691
+Views        : 961
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+A Fine Pair
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The Highland Cattle are back at Oare Marshes Nature Reserve.
+
+
++--------+
+|  TAGS  |
++--------+
+2014 Highland "Highland Cow" KWT "Oare marshes" birds cow Oare England "United Kingdom" 

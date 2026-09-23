@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : benklocek
+Photo URL    : https://www.flickr.com/photos/benklocek/563881609/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jan 4 15:57:01 GMT+0100 2007
+Upload Date  : Mon Jun 18 09:31:52 GMT+0200 2007
+Geotag Info  : Latitude:18.925854, Longitude:102.445449
+Views        : 131
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Pink buffalo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+They have freckles and get sunburned
+
+
++--------+
+|  TAGS  |
++--------+
+"SE Asia" "Vang Vien" Lao 

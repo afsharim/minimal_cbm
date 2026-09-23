@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : khanb1
+Photo URL    : https://www.flickr.com/photos/albaraa/6893694464/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 1 17:20:04 GMT+0200 2012
+Upload Date  : Mon Apr 2 22:14:33 GMT+0200 2012
+Views        : 596
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cat Fantasy
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Cat dream...to run as far as the eye can see.
+
+
++--------+
+|  TAGS  |
++--------+
+cat field meadow persian 

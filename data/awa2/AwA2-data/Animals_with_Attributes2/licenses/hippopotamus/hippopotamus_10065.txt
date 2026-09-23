@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : supermoving
+Photo URL    : https://www.flickr.com/photos/supermoving/1395118387/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 19 11:28:17 GMT+0200 2007
+Upload Date  : Mon Sep 17 10:08:19 GMT+0200 2007
+Geotag Info  : Latitude:51.843520, Longitude:-0.544509
+Views        : 55
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_0023
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+hippopotamii ?
+
+
++--------+
+|  TAGS  |
++--------+
+animals hippopotamus 2007 whipsnade 

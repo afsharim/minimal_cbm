@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : nickirp
+Photo URL    : https://www.flickr.com/photos/growlroar/206594841/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 4 11:00:46 GMT+0200 2006
+Upload Date  : Fri Aug 4 19:00:49 GMT+0200 2006
+Views        : 817
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+londonzoo london zoo animal tiger 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : a.s. design
+Photo URL    : https://www.flickr.com/photos/11537842@N02/1171642999/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 9 14:53:35 GMT+0200 2007
+Upload Date  : Sun Aug 19 18:11:17 GMT+0200 2007
+Views        : 205
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Waschbär
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Im Kaisergarten
+
+
++--------+
+|  TAGS  |
++--------+
+Waschbär Tiere 

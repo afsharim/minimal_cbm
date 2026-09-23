@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Davide D'Amico
+Photo URL    : https://www.flickr.com/photos/davidedamico/15960130822/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Dec 6 13:56:15 GMT+0100 2014
+Upload Date  : Sat Dec 6 19:28:58 GMT+0100 2014
+Geotag Info  : Latitude:51.438814, Longitude:-0.288133
+Views        : 1,992
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Portrait of a Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+richmond london uk park deer portrait 

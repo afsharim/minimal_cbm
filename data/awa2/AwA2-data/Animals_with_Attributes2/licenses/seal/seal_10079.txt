@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : diff_sky
+Photo URL    : https://www.flickr.com/photos/diff_sky/5381495327/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jan 17 16:19:39 GMT+0100 2011
+Upload Date  : Sun Jan 23 21:16:13 GMT+0100 2011
+Geotag Info  : Latitude:35.663921, Longitude:-121.259494
+Views        : 32
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Big Elephant seal
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

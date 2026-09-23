@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Janitors
+Photo URL    : https://www.flickr.com/photos/janitors/13964905262/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Apr 21 12:38:02 GMT+0200 2014
+Upload Date  : Tue Apr 22 13:17:21 GMT+0200 2014
+Views        : 281
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lynx pup at Riga Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"riga zoo" zoo cat lynx animal "lynx pup" roar rawr 

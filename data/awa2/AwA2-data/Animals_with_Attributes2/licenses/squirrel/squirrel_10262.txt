@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Better Than Bacon
+Photo URL    : https://www.flickr.com/photos/slurm/2634493435/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 20 22:28:02 GMT+0200 2008
+Upload Date  : Fri Jul 4 01:55:13 GMT+0200 2008
+Geotag Info  : Latitude:63.430476, Longitude:-150.309276
+Views        : 1,233
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Ground squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+2000 calories per squirrel
+
+
++--------+
+|  TAGS  |
++--------+
+denali groundsquirrel squirrel cvpr2008 

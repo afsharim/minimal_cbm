@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Paul Schultz
+Photo URL    : https://www.flickr.com/photos/pasfam/3549934667/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 26 13:41:30 GMT+0200 2009
+Upload Date  : Thu May 21 05:41:06 GMT+0200 2009
+Views        : 852
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horses in a Field
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horses 

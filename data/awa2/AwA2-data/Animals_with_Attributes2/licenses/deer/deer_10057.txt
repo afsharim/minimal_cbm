@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Eric Kilby
+Photo URL    : https://www.flickr.com/photos/ekilby/4512817674/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 10 13:13:21 GMT+0200 2010
+Upload Date  : Mon Apr 12 01:18:10 GMT+0200 2010
+Geotag Info  : Latitude:42.064268, Longitude:-71.586366
+Views        : 789
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Antlers
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+southwick zoo deer antlers 

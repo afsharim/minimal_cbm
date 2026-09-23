@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : njh
+Photo URL    : https://www.flickr.com/photos/njh/13402917/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jan 27 23:42:22 GMT+0100 2004
+Upload Date  : Wed May 11 14:06:02 GMT+0200 2005
+Views        : 201
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Trevor
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Big squishy rat
+
+
++--------+
+|  TAGS  |
++--------+
+rat 

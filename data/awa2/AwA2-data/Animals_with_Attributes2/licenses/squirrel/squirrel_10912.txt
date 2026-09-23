@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : SubtlePanda
+Photo URL    : https://www.flickr.com/photos/subtlepanda/7650798586/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Apr 16 16:10:19 GMT+0200 2012
+Upload Date  : Thu Jul 26 18:12:15 GMT+0200 2012
+Views        : 107
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

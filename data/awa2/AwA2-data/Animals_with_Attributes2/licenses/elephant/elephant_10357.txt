@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mister-E
+Photo URL    : https://www.flickr.com/photos/mister-e/2247134028/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jan 25 16:17:09 GMT+0100 2008
+Upload Date  : Wed Feb 6 20:05:23 GMT+0100 2008
+Geotag Info  : Latitude:-25.391288, Longitude:31.516049
+Views        : 709
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"South Africa" elephant "Malelane Road" 

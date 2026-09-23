@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Creative Ads and Designs
+Photo URL    : https://www.flickr.com/photos/creativeadsdesigns/7162162878/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 2 02:02:02 GMT+0100 2002
+Upload Date  : Wed May 9 04:41:40 GMT+0200 2012
+Views        : 9
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horses
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

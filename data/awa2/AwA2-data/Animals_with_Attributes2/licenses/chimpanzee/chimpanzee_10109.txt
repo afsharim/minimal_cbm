@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : timparkinson
+Photo URL    : https://www.flickr.com/photos/timparkinson/404872759/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 24 20:05:20 GMT+0100 2007
+Upload Date  : Tue Feb 27 20:17:05 GMT+0100 2007
+Geotag Info  : Latitude:52.413296, Longitude:1.699619
+Views        : 1,508
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Chimp @ Africa Alive, Suffolk
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Used: <a href="http://usetrackr.tims-tools.net/photo/109" rel="nofollow">usetrackr.tims-tools.net/photo/109</a>
+
+
++--------+
+|  TAGS  |
++--------+
+uk suffolk lowestoft kessingland "wildlife park" "africa alive" zoo sad cage chimp chimpanzee ape wlny:geotagged=1 Pan wlny:photo=i736 wlny:species=s53 wlny:trip=tkm wlny:place=ph4 

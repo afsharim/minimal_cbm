@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : brookscl
+Photo URL    : https://www.flickr.com/photos/chrisbrooks/15971725105/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Nov 26 11:29:31 GMT+0100 2014
+Upload Date  : Mon Dec 8 02:20:47 GMT+0100 2014
+Geotag Info  : Latitude:28.016461, Longitude:-80.600828
+Views        : 96
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel "Palm Bay" Florida "United States" 

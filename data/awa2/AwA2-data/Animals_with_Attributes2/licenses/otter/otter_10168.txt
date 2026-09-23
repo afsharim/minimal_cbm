@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : photoverulam
+Photo URL    : https://www.flickr.com/photos/photoverulam/138380784/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 30 17:15:02 GMT+0200 2006
+Upload Date  : Mon May 1 18:28:57 GMT+0200 2006
+Geotag Info  : Latitude:51.848769, Longitude:-0.539231
+Views        : 210
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Oriental Otters
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Oriental Otter
+
+
++--------+
+|  TAGS  |
++--------+
+whipsnade zoo "oriental otter" otter 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ravensong75
+Photo URL    : https://www.flickr.com/photos/emmett_ns_tullos/179444095/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 14 15:21:13 GMT+0200 2006
+Upload Date  : Sun Jul 2 04:20:12 GMT+0200 2006
+Views        : 14,578
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+cows
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+cows
+
+
++--------+
+|  TAGS  |
++--------+
+cows 

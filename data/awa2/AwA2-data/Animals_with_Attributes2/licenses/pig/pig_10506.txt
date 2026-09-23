@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Meik Wächter
+Photo URL    : https://www.flickr.com/photos/100323654@N03/9734992973/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 13 15:25:04 GMT+0200 2013
+Upload Date  : Fri Sep 13 22:11:41 GMT+0200 2013
+Views        : 58
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Schwein
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

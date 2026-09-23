@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : dbaron
+Photo URL    : https://www.flickr.com/photos/dbaron/16236893670/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 1 23:18:22 GMT+0100 2015
+Upload Date  : Mon Feb 2 04:17:37 GMT+0100 2015
+Geotag Info  : Latitude:37.806068, Longitude:-122.054070
+Views        : 347
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bobcat
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(dsc00204)
+
+
++--------+
+|  TAGS  |
++--------+
+USA California ebparks "East Bay Regional Parks" "Las Trampas" "Las Trampas Regional Wilderness" mammal bobcat Lynx "Lynx rufus" "Lynx rufus californicus" "L. rufus" nature grass geotagged geo:lat=37.806068 geo:lon=-122.054070 

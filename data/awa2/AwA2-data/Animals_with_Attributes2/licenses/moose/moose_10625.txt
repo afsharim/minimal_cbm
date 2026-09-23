@@ -1,0 +1,19 @@
++--------------------------------------+
+|       Pixabay Photo Metadata         |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Macmaus
+Photo URL    : https://pixabay.com/en/moose-sweden-moose-child-young-1484661/
+License      : CC0 Public Domain (https://creativecommons.org/publicdomain/zero/1.0/deed.en)
+Created      : June 4, 2012
+Uploaded     : 25 days ago
+
++--------+
+|  TAGS  |
++--------+
+Moose, Sweden, Moose Child, Young, Young Animal, Mammal

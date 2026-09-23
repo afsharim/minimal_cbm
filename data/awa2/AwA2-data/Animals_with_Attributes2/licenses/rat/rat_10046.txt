@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : surprise truck
+Photo URL    : https://www.flickr.com/photos/just1page/3244953485/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 1 21:06:59 GMT+0100 2009
+Upload Date  : Sun Feb 1 23:50:03 GMT+0100 2009
+Views        : 352
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Ball of rats
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+rats 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ahisgett
+Photo URL    : https://www.flickr.com/photos/hisgett/4872640363/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 5 14:40:04 GMT+0200 2010
+Upload Date  : Sun Aug 8 22:45:49 GMT+0200 2010
+Geotag Info  : Latitude:51.535418, Longitude:-0.154838
+Views        : 558
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Gorilla 2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Animal Gorilla Zoo London ZSL 

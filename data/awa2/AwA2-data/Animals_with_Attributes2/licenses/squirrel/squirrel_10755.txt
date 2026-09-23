@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : rmceoin
+Photo URL    : https://www.flickr.com/photos/rmceoin/3602061171/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 6 16:02:05 GMT+0200 2009
+Upload Date  : Sun Jun 7 07:40:45 GMT+0200 2009
+Geotag Info  : Latitude:34.126788, Longitude:-118.116073
+Views        : 14
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

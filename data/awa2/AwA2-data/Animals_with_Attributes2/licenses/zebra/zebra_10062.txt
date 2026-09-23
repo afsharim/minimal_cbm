@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : __Wichid__
+Photo URL    : https://www.flickr.com/photos/-wichid/6937256482/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Apr 6 15:16:03 GMT+0200 2012
+Upload Date  : Mon Apr 16 11:14:59 GMT+0200 2012
+Geotag Info  : Latitude:-36.862248, Longitude:174.720897
+Views        : 372
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Auckland Zoo Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"April 2012" "Auckland Zoo" 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Becker1999
+Photo URL    : https://www.flickr.com/photos/becker271/2156268777/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Nov 21 14:21:16 GMT+0100 2007
+Upload Date  : Wed Jan 2 03:52:02 GMT+0100 2008
+Views        : 18
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Columbus Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+chimpanzee
+
+
++--------+
+|  TAGS  |
++--------+
+becker zoo chimp "columbus zoo" becker.271 "Canon Digital Rebel XTi" "canon rebel rebel" xti 

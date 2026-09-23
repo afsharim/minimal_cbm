@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bjorn.watland
+Photo URL    : https://www.flickr.com/photos/bjornwatland/6017960764/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 7 07:25:52 GMT+0200 2011
+Upload Date  : Sun Aug 7 15:30:47 GMT+0200 2011
+Geotag Info  : Latitude:45.094905, Longitude:-93.148162
+Views        : 74
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Prairie Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+deer doe prairie RAW TCAAP 

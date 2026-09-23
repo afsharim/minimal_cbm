@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : skeiblinger
+Photo URL    : https://www.flickr.com/photos/137737557@N08/23813590453/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 17 16:09:41 GMT+0100 2016
+Upload Date  : Sun Jan 17 18:08:51 GMT+0100 2016
+Views        : 35
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Wicky
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Amerikanischer Collie Hündin Wicky
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : C. K. Hartman
+Photo URL    : https://www.flickr.com/photos/cheezepix/3884658639/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 15 09:16:30 GMT+0200 2009
+Upload Date  : Thu Sep 3 22:43:08 GMT+0200 2009
+Geotag Info  : Latitude:39.056375, Longitude:-100.479862
+Views        : 1,219
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Gove County, Kansas.
+
+
++--------+
+|  TAGS  |
++--------+
+"Gove County" Kansas Cattle 

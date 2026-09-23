@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : einalem
+Photo URL    : https://www.flickr.com/photos/einalem/126411941/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 9 10:47:19 GMT+0200 2006
+Upload Date  : Sun Apr 9 17:47:19 GMT+0200 2006
+Views        : 383
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer at Studley Royal-8
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+deer "studley royal" yorkshire animals 

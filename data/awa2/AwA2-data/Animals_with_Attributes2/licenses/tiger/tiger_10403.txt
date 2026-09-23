@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : English Rose247
+Photo URL    : https://www.flickr.com/photos/clairerachel/97922121/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Nov 11 02:32:49 GMT+0100 2005
+Upload Date  : Fri Feb 10 16:24:15 GMT+0100 2006
+Views        : 1,013
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Tiger 

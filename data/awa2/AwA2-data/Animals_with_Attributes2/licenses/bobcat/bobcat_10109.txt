@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/15884403541/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 28 18:36:17 GMT+0200 2014
+Upload Date  : Wed Nov 26 22:00:10 GMT+0100 2014
+Geotag Info  : Latitude:46.565115, Longitude:6.773371
+Views        : 3,613
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Nice portrait lynx, almost profile
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A pretty portrait of the male lynx of the Servion zoo!
+
+
++--------+
+|  TAGS  |
++--------+
+potrait face profile wild cat lynx male servion lausanne zoo switzerland nikon d4 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Kham Tran
+Photo URL    : https://www.flickr.com/photos/khamtran/3558009610/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 23 23:36:42 GMT+0200 2009
+Upload Date  : Sun May 24 00:36:42 GMT+0200 2009
+Views        : 32,294
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel eating an ice cream cone
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A squirrel eating an ice cream cone from the trash can in Westferry Circus Gardens, Canary Wharf, London.
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel "ice cream cone" 

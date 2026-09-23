@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : OliBac
+Photo URL    : https://www.flickr.com/photos/olibac/6025300139/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 23 18:45:50 GMT+0200 2011
+Upload Date  : Tue Aug 9 15:58:52 GMT+0200 2011
+Geotag Info  : Latitude:44.883890, Longitude:2.889490
+Views        : 3,528
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Aubrac de face
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Sainte-Marie, Cantal
+
+
++--------+
+|  TAGS  |
++--------+
+OliBac vache cow Aubrac Cantal Auvergne "Canon EOS 500D" MMXI 

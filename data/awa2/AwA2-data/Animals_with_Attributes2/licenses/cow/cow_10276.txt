@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ben salthouse
+Photo URL    : https://www.flickr.com/photos/bensalthouse/2452561296/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jan 6 10:07:34 GMT+0100 2005
+Upload Date  : Tue Apr 29 19:18:15 GMT+0200 2008
+Views        : 45
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Becway Cow 

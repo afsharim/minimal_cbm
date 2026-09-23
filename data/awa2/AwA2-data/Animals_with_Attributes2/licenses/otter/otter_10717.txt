@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Eric Kilby
+Photo URL    : https://www.flickr.com/photos/ekilby/22188407211/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 28 15:50:45 GMT+0200 2015
+Upload Date  : Thu Oct 15 02:41:11 GMT+0200 2015
+Geotag Info  : Latitude:42.462697, Longitude:-71.093636
+Views        : 1,112
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Two Otters Playing
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+stone zoo massachusetts river otters playing 

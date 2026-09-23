@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : BANAMINE
+Photo URL    : https://www.flickr.com/photos/banamine/477258356/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 29 13:30:47 GMT+0200 2007
+Upload Date  : Sun Apr 29 22:30:47 GMT+0200 2007
+Geotag Info  : Latitude:38.048699, Longitude:-84.603824
+Views        : 11,005
+Comments     : 6
+
+
++---------+
+|  TITLE  |
++---------+
+Barbaro's Mom
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Barbaro’s mother, La Ville Rouge, ran with her new foal, a full brother to Barbaro, at Mill Ridge Farm in Lexington. They are owned by Roy and Gretchen Jackson, who owned Barbaro. The sire is Dynaformer. Photo by David Stephenson |
+
+
++--------+
+|  TAGS  |
++--------+
+"horse racing" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Joe Shlabotnik
+Photo URL    : https://www.flickr.com/photos/joeshlabotnik/1240350151/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 25 17:55:09 GMT+0200 2007
+Upload Date  : Sun Aug 26 17:07:59 GMT+0200 2007
+Geotag Info  : Latitude:40.628859, Longitude:-73.226816
+Views        : 763
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+I promised Linsday that we'd see deer sometime during the day. We saw two (but photographed only one).
+
+
++--------+
+|  TAGS  |
++--------+
+deer beach "Fire Island" 2007 "August 2007" 

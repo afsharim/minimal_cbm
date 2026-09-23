@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : thomas pix
+Photo URL    : https://www.flickr.com/photos/thomaspix/754640683/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 3 08:50:09 GMT+0200 2007
+Upload Date  : Sun Jul 8 19:47:29 GMT+0200 2007
+Views        : 49
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+zebras
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+safariwest safari sonoma 

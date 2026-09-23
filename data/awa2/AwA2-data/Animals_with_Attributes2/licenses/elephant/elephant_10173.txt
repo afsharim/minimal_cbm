@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : csaga
+Photo URL    : https://www.flickr.com/photos/csaga/3607618109/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 8 16:31:26 GMT+0200 2009
+Upload Date  : Mon Jun 8 20:55:33 GMT+0200 2009
+Geotag Info  : Latitude:47.996913, Longitude:21.726516
+Views        : 463
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elefánt
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Afrikai elefánt
+
+
++--------+
+|  TAGS  |
++--------+
+Sóstó Nyíregyháza Állatkert Zoo Magyarország 

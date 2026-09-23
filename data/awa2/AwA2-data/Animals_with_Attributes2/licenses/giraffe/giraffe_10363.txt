@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : candescent
+Photo URL    : https://www.flickr.com/photos/candescence/533394176/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 3 18:06:57 GMT+0200 2007
+Upload Date  : Wed Jun 6 19:26:56 GMT+0200 2007
+Geotag Info  : Latitude:45.508730, Longitude:-122.714163
+Views        : 98
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Giraffes "Portland Zoo" Zoo 

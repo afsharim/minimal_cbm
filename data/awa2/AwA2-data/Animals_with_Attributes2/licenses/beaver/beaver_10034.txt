@@ -1,0 +1,47 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : brewbooks
+Photo URL    : https://www.flickr.com/photos/brewbooks/370732916/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 1 21:10:03 GMT+0200 2006
+Upload Date  : Sat Jan 27 14:40:42 GMT+0100 2007
+Geotag Info  : Latitude:47.011045, Longitude:-119.391002
+Views        : 991
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Beaver at Potholes, Washington
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+American Beaver (Castor canadensis)
+<a href="http://en.wikipedia.org/wiki/Beaver" rel="nofollow">en.wikipedia.org/wiki/Beaver</a>
+
+I was very surprised by the size of this beaver, I had never seen one before. 
+
+Kingdom: Animalia
+Phylum: Chordata
+Class: Mammalia
+Order: Rodentia
+Family: Castoridae
+Genus: Castor 
+
+i040206 287
+
+
++--------+
+|  TAGS  |
++--------+
+Washington hiking Potholes beaver "American Beaver" "Castor canadensis" Animalia Chordata Mammalia Rodentia Castoridae Castor 

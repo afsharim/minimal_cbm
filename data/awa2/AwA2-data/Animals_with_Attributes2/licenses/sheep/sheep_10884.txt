@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Verity Cridland
+Photo URL    : https://www.flickr.com/photos/58789412@N00/2713691621/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 9 09:40:02 GMT+0200 2008
+Upload Date  : Tue Jul 29 19:30:11 GMT+0200 2008
+Views        : 358
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Great Yorkshire Show" 2008 "Sheep Show 2008" 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : chrisbulle
+Photo URL    : https://www.flickr.com/photos/bulle_de/387218225/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 28 06:19:59 GMT+0200 2000
+Upload Date  : Mon Feb 12 00:22:21 GMT+0100 2007
+Views        : 140
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+DCP_0636.JPG
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+prööt
+
+
++--------+
+|  TAGS  |
++--------+
+"Sri Lanka" elephant 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Makuahine Pa'i Ki'i
+Photo URL    : https://www.flickr.com/photos/hawaii-mcgraths/571235153/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Mar 22 08:34:56 GMT+0100 2005
+Upload Date  : Sat Mar 26 07:52:50 GMT+0100 2005
+Views        : 185
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Blue Dolphin Cruise--Humpback whale 1
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

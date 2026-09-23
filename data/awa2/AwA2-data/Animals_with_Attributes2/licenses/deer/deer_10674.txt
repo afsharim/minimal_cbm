@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MAD Hippies Life
+Photo URL    : https://www.flickr.com/photos/madhippies/15946516077/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 28 15:35:07 GMT+0100 2014
+Upload Date  : Sun Dec 28 23:40:00 GMT+0100 2014
+Geotag Info  : Latitude:40.363157, Longitude:-105.604019
+Views        : 755
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Deer in a meadow at Rocky Mountain National Park 
+
+<a href="http://madhippieslife.com/" rel="nofollow">madhippieslife.com/</a>
+
+
++--------+
+|  TAGS  |
++--------+
+deer "mule deer" "rocky mountain national park" "rocky mountains" colorado 

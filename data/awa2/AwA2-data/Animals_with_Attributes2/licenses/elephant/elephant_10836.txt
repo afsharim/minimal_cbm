@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Catchpenny
+Photo URL    : https://www.flickr.com/photos/catchpenny/563409154/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 17 12:59:24 GMT+0200 2007
+Upload Date  : Mon Jun 18 08:54:27 GMT+0200 2007
+Views        : 21
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Elephants!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

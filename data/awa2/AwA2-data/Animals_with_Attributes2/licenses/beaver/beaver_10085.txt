@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sonstroem
+Photo URL    : https://www.flickr.com/photos/sonstroem/16657297821/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Feb 26 16:13:41 GMT+0100 2015
+Upload Date  : Fri Feb 27 03:08:11 GMT+0100 2015
+Geotag Info  : Latitude:37.971131, Longitude:-121.353349
+Views        : 790
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Beaver
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+North American Beaver, spotted along the Calaveras River in Stockton, California.
+
+
++--------+
+|  TAGS  |
++--------+
+beaver "North American Beaver" Rodentia Castoridae Castor 

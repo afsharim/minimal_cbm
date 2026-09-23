@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : J.harwood
+Photo URL    : https://www.flickr.com/photos/harwood-images/3365968600/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 28 16:09:35 GMT+0200 2005
+Upload Date  : Wed Mar 18 18:04:30 GMT+0100 2009
+Geotag Info  : Latitude:53.323696, Longitude:-2.485742
+Views        : 693
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Eventing - Arley Hall 28th May 05
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Horses 

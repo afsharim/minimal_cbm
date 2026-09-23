@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mafue
+Photo URL    : https://www.flickr.com/photos/mafue/5776476377/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon May 30 09:32:10 GMT+0200 2011
+Upload Date  : Mon May 30 18:32:10 GMT+0200 2011
+Geotag Info  : Latitude:45.509095, Longitude:-122.715396
+Views        : 449
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Amur Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+mafue 2010 "amur tiger" 

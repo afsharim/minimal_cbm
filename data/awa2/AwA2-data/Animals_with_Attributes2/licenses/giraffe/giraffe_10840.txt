@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Neil T
+Photo URL    : https://www.flickr.com/photos/neilt/5407968473/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 8 15:12:55 GMT+0100 2011
+Upload Date  : Tue Feb 1 20:59:16 GMT+0100 2011
+Geotag Info  : Latitude:53.815827, Longitude:-3.010436
+Views        : 969
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffes
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+blackpool zoo blackpoolzoo giraffe giraffes 

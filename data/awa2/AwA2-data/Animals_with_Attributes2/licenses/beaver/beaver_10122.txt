@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Guillaume Capron
+Photo URL    : https://www.flickr.com/photos/gcapron/6166798001/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Sep 8 20:31:09 GMT+0200 2011
+Upload Date  : Tue Sep 20 22:03:46 GMT+0200 2011
+Geotag Info  : Latitude:41.924775, Longitude:-87.634141
+Views        : 233
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lincoln Zoo - Castor
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Lincoln Zoo" Chicago Castor Beaver 

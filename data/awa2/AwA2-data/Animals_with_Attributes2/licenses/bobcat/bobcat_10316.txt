@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : regexman
+Photo URL    : https://www.flickr.com/photos/regexman/11693107996/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Dec 31 10:00:56 GMT+0100 2013
+Upload Date  : Wed Jan 1 20:55:42 GMT+0100 2014
+Geotag Info  : Latitude:37.527100, Longitude:-121.823500
+Views        : 47
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bobcat
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

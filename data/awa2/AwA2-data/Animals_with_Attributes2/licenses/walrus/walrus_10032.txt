@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Benimoto
+Photo URL    : https://www.flickr.com/photos/benimoto/1186539402/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 18 16:25:30 GMT+0200 2007
+Upload Date  : Mon Aug 20 23:09:27 GMT+0200 2007
+Geotag Info  : Latitude:39.767694, Longitude:-86.180748
+Views        : 1,284
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Lolrus
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Where are this walrus's tusks?  Who has them?
+
+
++--------+
+|  TAGS  |
++--------+
+indianapolis indiana IN zoo "Indianapolis Zoo" "White River State Park" animal animals walrus "no tusks" water lolrus "Odobenus rosmarus" mustache 

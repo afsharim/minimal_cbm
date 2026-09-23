@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Eric Kilby
+Photo URL    : https://www.flickr.com/photos/ekilby/16076660594/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 5 11:55:30 GMT+0200 2014
+Upload Date  : Sun Mar 1 18:00:00 GMT+0100 2015
+Geotag Info  : Latitude:41.630087, Longitude:-70.952636
+Views        : 494
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Beaver
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+buttonwood park zoo beaver 

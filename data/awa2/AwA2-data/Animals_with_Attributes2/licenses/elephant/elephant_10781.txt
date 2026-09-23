@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : TenSafeFrogs
+Photo URL    : https://www.flickr.com/photos/tensafefrogs/6431923379/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Nov 28 02:54:27 GMT+0100 2011
+Upload Date  : Wed Nov 30 19:13:10 GMT+0100 2011
+Geotag Info  : Latitude:28.601405, Longitude:77.246627
+Views        : 356
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephants
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+delhi "delhi zoo" india "new delhi" zoo 

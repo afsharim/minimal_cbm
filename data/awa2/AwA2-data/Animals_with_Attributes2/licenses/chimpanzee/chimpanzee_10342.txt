@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : にほ
+Photo URL    : https://www.flickr.com/photos/nihongi/4358607036/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 14 09:01:12 GMT+0100 2010
+Upload Date  : Mon Feb 15 05:56:10 GMT+0100 2010
+Geotag Info  : Latitude:37.750078, Longitude:-122.146559
+Views        : 369
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Chimpanzee@Oakland Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

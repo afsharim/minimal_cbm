@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Spiegel
+Photo URL    : https://www.flickr.com/photos/spiegel/140275216/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 4 14:40:54 GMT+0200 2006
+Upload Date  : Thu May 4 14:45:32 GMT+0200 2006
+Geotag Info  : Latitude:34.498147, Longitude:132.442690
+Views        : 319
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+in ASA ZOO, Hiroshima, Japan (<a href="http://www.baldanders.info/spiegel/remark/archives/000198.shtml" rel="nofollow">blog</a>)
+<a href="http://geobloggers.tafoni.net/" rel="nofollow">Geotagged </a>
+<a href="http://clip.alpslab.jp/bin/rd?flickr=140275216" rel="nofollow">[地図を表示]</a>
+
+
++--------+
+|  TAGS  |
++--------+
+japan hiroshima zoo geotagged geo:tool=GMiF geo:lat=34.4981475 geo:lon=132.4426908 

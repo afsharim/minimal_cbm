@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : andrusdevelopment
+Photo URL    : https://www.flickr.com/photos/wandrus/4753181732/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 28 10:13:12 GMT+0200 2010
+Upload Date  : Thu Jul 1 22:54:00 GMT+0200 2010
+Geotag Info  : Latitude:43.975661, Longitude:-103.301836
+Views        : 303
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Lynx
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+wild life south dakota zoo lynx 

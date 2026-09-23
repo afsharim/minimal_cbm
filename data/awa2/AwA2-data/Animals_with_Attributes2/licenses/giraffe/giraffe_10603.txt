@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mike Miley
+Photo URL    : https://www.flickr.com/photos/mike_miley/7043300785/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Mar 27 18:16:17 GMT+0200 2012
+Upload Date  : Wed Apr 4 00:48:14 GMT+0200 2012
+Geotag Info  : Latitude:28.352833, Longitude:-81.603334
+Views        : 210
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Disney Vacation
+
+
++--------+
+|  TAGS  |
++--------+
+"animal kingdom lodge" boardwalk disney giraffe vacation "walt disney world" wdw "Lake Buena Vista" FL USA 

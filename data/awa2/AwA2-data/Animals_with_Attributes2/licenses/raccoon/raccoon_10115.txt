@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : douaireg
+Photo URL    : https://www.flickr.com/photos/douaireg/5773724250/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 29 09:32:39 GMT+0200 2011
+Upload Date  : Mon May 30 00:30:45 GMT+0200 2011
+Geotag Info  : Latitude:45.399060, Longitude:-73.758881
+Views        : 442
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Île Saint-Bernard, Châteauguay, Québec
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Un raton laveur, peu peureux!
+
+
++--------+
+|  TAGS  |
++--------+
+Île Saint-Bernard Châteauguay Québec raton laveur Procyon lotor 

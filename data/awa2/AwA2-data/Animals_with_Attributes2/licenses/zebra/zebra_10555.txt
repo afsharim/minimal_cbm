@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tim Pearce, Los Gatos
+Photo URL    : https://www.flickr.com/photos/timpearcelosgatos/4366121960/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 14 11:27:04 GMT+0100 2010
+Upload Date  : Wed Feb 17 20:49:43 GMT+0100 2010
+Geotag Info  : Latitude:37.733864, Longitude:-122.503824
+Views        : 1,565
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra at san francisco zoo feb 2010
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Zebra head at san francisco zoo feb 2010
+
+
++--------+
+|  TAGS  |
++--------+
+Zebra head san francisco zoo feb 2010 "san fran zoo and maddies seussical play feb 2010" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Elsie esq.
+Photo URL    : https://www.flickr.com/photos/elsie/6090223725/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 26 20:28:46 GMT+0200 2011
+Upload Date  : Mon Aug 29 00:06:01 GMT+0200 2011
+Geotag Info  : Latitude:50.798112, Longitude:-0.026946
+Views        : 1,099
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Good Morning sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A morning walk with JR on Telscombe Tye, a public meadow not far from Saltdean . Accompanied by some sheep. .
+
+
++--------+
+|  TAGS  |
++--------+
+dog JR meadow sheep Telscombe terrier tye 

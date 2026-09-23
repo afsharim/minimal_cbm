@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : KathrynW1
+Photo URL    : https://www.flickr.com/photos/kathryn-wright/20992303462/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 29 07:36:29 GMT+0200 2015
+Upload Date  : Sun Aug 30 13:39:16 GMT+0200 2015
+Geotag Info  : Latitude:51.821163, Longitude:-2.176966
+Views        : 52
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Prinknash Bird & Deer Park
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+prinknash animal deer "fallow deer" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ody5iu5
+Photo URL    : https://www.flickr.com/photos/paulwe/449725625/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Apr 6 16:29:37 GMT+0200 2007
+Upload Date  : Sat Apr 7 20:50:30 GMT+0200 2007
+Geotag Info  : Latitude:44.045635, Longitude:-123.083854
+Views        : 291
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+guarding the food
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+hamster 

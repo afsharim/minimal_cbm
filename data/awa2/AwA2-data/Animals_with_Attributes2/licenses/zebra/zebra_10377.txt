@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : caligula1995
+Photo URL    : https://www.flickr.com/photos/pussreboots/14295414164/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 2 12:58:47 GMT+0200 2013
+Upload Date  : Thu May 29 07:52:12 GMT+0200 2014
+Geotag Info  : Latitude:37.751927, Longitude:-122.146942
+Views        : 212
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+P6026315B Oakland Zoo 20130602
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Zebras
+
+
++--------+
+|  TAGS  |
++--------+
+2013 "Oakland Zoo" zebra 

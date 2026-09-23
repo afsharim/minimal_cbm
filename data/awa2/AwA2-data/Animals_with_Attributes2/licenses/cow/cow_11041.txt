@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mike Tewkesbury
+Photo URL    : https://www.flickr.com/photos/7687126@N06/4057039518/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Oct 28 14:11:53 GMT+0100 2009
+Upload Date  : Fri Oct 30 00:20:51 GMT+0100 2009
+Views        : 612
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+Mad cow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+One farmer tells another farmer, &quot;I had to shoot one of my cows&quot;. The second farmer replied, &quot;Oh, was it mad?&quot; With that the first farmer exclaimed, &quot;Well, she didn't seem very happy about it!&quot;
+
+
++--------+
+|  TAGS  |
++--------+
+Cow 

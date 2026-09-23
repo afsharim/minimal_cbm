@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : LucUltra
+Photo URL    : https://commons.wikimedia.org/wiki/File:Jane_border_collie_11_maanden.jpg
+License      : Creative Commons (https://en.wikipedia.org/wiki/en:Creative_Commons) 3.0 Unported (//creativecommons.org/licenses/by-sa/3.0/deed.en)
+Date         : 2011-04-15

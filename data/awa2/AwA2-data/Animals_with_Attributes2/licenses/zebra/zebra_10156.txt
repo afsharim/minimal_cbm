@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : pavelrybin
+Photo URL    : https://www.flickr.com/photos/pavelrybin/135589998/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Apr 14 04:07:46 GMT+0200 2006
+Upload Date  : Thu Apr 27 00:26:36 GMT+0200 2006
+Views        : 70
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC03260
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"linton zoo" zebra zoo animal 

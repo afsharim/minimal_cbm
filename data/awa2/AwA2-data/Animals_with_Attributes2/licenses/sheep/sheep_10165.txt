@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Gruban
+Photo URL    : https://www.flickr.com/photos/gruban/5847362487/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 2 18:57:25 GMT+0200 2011
+Upload Date  : Sun Jun 19 08:40:29 GMT+0200 2011
+Views        : 172
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cundall Lodge Farm
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+sheep 

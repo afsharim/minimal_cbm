@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : JHill
+Photo URL    : https://www.flickr.com/photos/jhill/2702318980/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 25 16:47:15 GMT+0200 2008
+Upload Date  : Fri Jul 25 22:47:15 GMT+0200 2008
+Views        : 1,295
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Chimpanzee at WL
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+WebLinc chimpanzee 

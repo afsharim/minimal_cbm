@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : boviate
+Photo URL    : https://www.flickr.com/photos/boviate/7085670097/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Mar 22 17:26:30 GMT+0100 2012
+Upload Date  : Tue Apr 17 02:08:00 GMT+0200 2012
+Views        : 80
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+P1010464_cleanup_crop
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Visitors to my backyard.
+
+
++--------+
+|  TAGS  |
++--------+
+deer nature 

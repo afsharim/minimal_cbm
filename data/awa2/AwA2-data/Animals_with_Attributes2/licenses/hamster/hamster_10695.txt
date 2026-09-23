@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ody5iu5
+Photo URL    : https://www.flickr.com/photos/paulwe/449723041/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Apr 6 16:14:42 GMT+0200 2007
+Upload Date  : Sat Apr 7 20:48:23 GMT+0200 2007
+Geotag Info  : Latitude:44.045635, Longitude:-123.083854
+Views        : 306
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+the escape artist
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+on the way home it chewed a hole in the box
+
+
++--------+
+|  TAGS  |
++--------+
+hamster 

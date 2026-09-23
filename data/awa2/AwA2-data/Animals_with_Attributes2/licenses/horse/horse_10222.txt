@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : kjulym7w28
+Photo URL    : https://www.flickr.com/photos/46824267@N04/4386155262/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 28 23:41:21 GMT+0200 2009
+Upload Date  : Thu Feb 25 00:22:11 GMT+0100 2010
+Views        : 2,077
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Crazy Pile of Horses
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Horses!
+
+
++--------+
+|  TAGS  |
++--------+
+Horses 

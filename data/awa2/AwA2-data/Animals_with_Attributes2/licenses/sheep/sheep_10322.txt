@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tim Green aka atoach
+Photo URL    : https://www.flickr.com/photos/atoach/4561408358/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 17 14:19:00 GMT+0200 2010
+Upload Date  : Wed Apr 28 21:32:46 GMT+0200 2010
+Geotag Info  : Latitude:53.917154, Longitude:-2.008244
+Views        : 7,831
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+I saw three sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Sheep at Cononley
+
+
++--------+
+|  TAGS  |
++--------+
+sheep 

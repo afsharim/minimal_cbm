@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Hades2k
+Photo URL    : https://www.flickr.com/photos/hades2k/7142970047/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri May 4 19:15:23 GMT+0200 2012
+Upload Date  : Fri May 4 22:18:47 GMT+0200 2012
+Views        : 603
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cute sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A cute little sheep
+
+
++--------+
+|  TAGS  |
++--------+
+sheap farhult cute "cute sheap" 

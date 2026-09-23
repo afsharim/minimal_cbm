@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : kashmut
+Photo URL    : https://www.flickr.com/photos/kashmut/2624599959/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 14 17:07:57 GMT+0100 2098
+Upload Date  : Mon Jun 30 19:05:44 GMT+0200 2008
+Views        : 4
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+London 

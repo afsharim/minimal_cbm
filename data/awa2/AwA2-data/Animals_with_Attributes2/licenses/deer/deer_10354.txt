@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Shane Pope
+Photo URL    : https://www.flickr.com/photos/shanepope/2330740632/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 22 19:43:49 GMT+0200 2007
+Upload Date  : Thu Mar 13 06:41:30 GMT+0100 2008
+Views        : 556
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This deer was running through the trees at one of the camps at Philmont.
+
+
++--------+
+|  TAGS  |
++--------+
+Philmont deer 

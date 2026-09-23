@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : reivax
+Photo URL    : https://www.flickr.com/photos/reivax/276822098/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 22 17:36:17 GMT+0200 2006
+Upload Date  : Mon Oct 23 03:32:21 GMT+0200 2006
+Geotag Info  : Latitude:38.928567, Longitude:-77.046137
+Views        : 256
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+washington dc zoo nationalzoo animals tiger 

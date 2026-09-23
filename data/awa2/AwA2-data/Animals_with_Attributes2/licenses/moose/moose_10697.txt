@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Zaereth
+Photo URL    : https://commons.wikimedia.org/wiki/File:Bull_moose_growing_new_antlers_and_shedding_fur.JPG
+License      : public domain
+Date         : 22:13, 10 June 2010 (UTC)

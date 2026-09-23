@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : dalismustaches
+Photo URL    : https://www.flickr.com/photos/dalismustaches/496408526/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 22 00:42:24 GMT+0200 2007
+Upload Date  : Sun May 13 18:54:06 GMT+0200 2007
+Views        : 66
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Conversation of Giraffes
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

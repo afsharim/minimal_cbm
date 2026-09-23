@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : smiley_river
+Photo URL    : https://www.flickr.com/photos/smiley_river/2279679786/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 10 16:29:49 GMT+0100 2008
+Upload Date  : Wed Feb 20 14:37:39 GMT+0100 2008
+Views        : 4
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_0575
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

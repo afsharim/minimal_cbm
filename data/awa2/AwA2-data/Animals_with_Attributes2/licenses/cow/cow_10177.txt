@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Glen Bowman
+Photo URL    : https://www.flickr.com/photos/glenbowman/6590315493/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 6 15:44:10 GMT+0100 2011
+Upload Date  : Wed Dec 28 23:11:42 GMT+0100 2011
+Views        : 396
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cow in Autumn
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

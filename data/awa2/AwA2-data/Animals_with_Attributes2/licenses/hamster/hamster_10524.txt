@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : thanker212
+Photo URL    : https://www.flickr.com/photos/13891558@N00/6025034782/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 4 23:22:51 GMT+0200 2011
+Upload Date  : Tue Aug 9 08:30:32 GMT+0200 2011
+Views        : 152
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Padme
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+chinese hamster 

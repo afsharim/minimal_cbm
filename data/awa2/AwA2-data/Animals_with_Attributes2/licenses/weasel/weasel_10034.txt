@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Joanne Goldby
+Photo URL    : https://www.flickr.com/photos/jovamp/8696142913/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 28 18:40:35 GMT+0200 2013
+Upload Date  : Tue Apr 30 23:35:09 GMT+0200 2013
+Views        : 235
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+BWC (30 of 64).jpg
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"British Wildlife Centre" "Mustela putorius" Polecat 

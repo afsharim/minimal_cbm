@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : gudi&cris
+Photo URL    : https://www.flickr.com/photos/gudi3101/401930619/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Aug 1 00:00:00 GMT+0200 2006
+Upload Date  : Sun Feb 25 14:44:23 GMT+0100 2007
+Geotag Info  : Latitude:-2.111643, Longitude:35.375976
+Views        : 27,923
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+serengeti national park (tanzania, africa), august 2006. elephant in savana
+
+
++--------+
+|  TAGS  |
++--------+
+animals africa elephant elephants tanzania serengeti "national park" wildlife 

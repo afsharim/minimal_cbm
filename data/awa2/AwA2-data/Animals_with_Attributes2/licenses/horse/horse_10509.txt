@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Davejacko
+Photo URL    : https://www.flickr.com/photos/davejacko/2693451527/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Sep 13 12:54:06 GMT+0200 2013
+Upload Date  : Wed Jul 23 01:04:48 GMT+0200 2008
+Views        : 94
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horse ride
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horse caridge 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : UAJamie1
+Photo URL    : https://www.flickr.com/photos/uajamie/6073411824/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 21 12:55:20 GMT+0200 2011
+Upload Date  : Tue Aug 23 16:23:57 GMT+0200 2011
+Geotag Info  : Latitude:41.833006, Longitude:-87.835478
+Views        : 48
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+WTF Moose Bug Zoo "Brookfield Zoo" tiger 

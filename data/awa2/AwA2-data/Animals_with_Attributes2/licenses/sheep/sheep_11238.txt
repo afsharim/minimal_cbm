@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Stephen Fulljames
+Photo URL    : https://www.flickr.com/photos/emptyjames/4724255118/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jun 15 11:07:05 GMT+0200 2010
+Upload Date  : Tue Jun 22 13:43:31 GMT+0200 2010
+Geotag Info  : Latitude:53.053470, Longitude:-4.135665
+Views        : 64
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Sheeps
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+wales snowdonia "rhyd ddu" mountain 

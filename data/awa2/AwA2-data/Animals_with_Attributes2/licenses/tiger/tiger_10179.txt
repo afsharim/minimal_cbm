@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : dpape
+Photo URL    : https://www.flickr.com/photos/dpape/2734327088/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Feb 27 11:59:43 GMT+0100 2008
+Upload Date  : Tue Aug 5 04:21:08 GMT+0200 2008
+Geotag Info  : Latitude:42.938611, Longitude:-78.851516
+Views        : 690
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Panthera_tigris_altaica_15_-_Buffalo_Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"wikimedia commons" buffalo zoo tiger cubs "buffalo zoo" 

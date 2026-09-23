@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Heike S Neumann
+Photo URL    : https://www.flickr.com/photos/ispikes_pics/8041244113/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 11 15:30:40 GMT+0200 2012
+Upload Date  : Mon Oct 1 00:59:36 GMT+0200 2012
+Geotag Info  : Latitude:63.405050, Longitude:-150.644531
+Views        : 81
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Grizzly Bear wading in Toklat River
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

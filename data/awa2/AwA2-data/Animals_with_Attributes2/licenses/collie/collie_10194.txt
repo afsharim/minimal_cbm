@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : takot
+Photo URL    : https://www.flickr.com/photos/takot/5150453477/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 8 14:47:29 GMT+0100 2009
+Upload Date  : Sat Nov 6 12:50:39 GMT+0100 2010
+Views        : 1,316
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cookie
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+dog "border collie" 

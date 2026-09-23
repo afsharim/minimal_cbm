@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Keith Laverack
+Photo URL    : https://www.flickr.com/photos/akandbdl/8684227216/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Apr 26 11:27:09 GMT+0200 2013
+Upload Date  : Fri Apr 26 19:47:25 GMT+0200 2013
+Geotag Info  : Latitude:54.193453, Longitude:-0.723423
+Views        : 1,453
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+2013 04 26 Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+2013 04 26  Lamb at Low Marishes Rydale North Yorkshire
+
+
++--------+
+|  TAGS  |
++--------+
+1.Facebook 1.Flickr "1.Keith Laverack" Sheep "Low Marishes" 

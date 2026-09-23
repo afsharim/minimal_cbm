@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Charlotte Nordahl
+Photo URL    : https://www.flickr.com/photos/charlottenordahl/2364128491/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jan 15 16:37:08 GMT+0100 2008
+Upload Date  : Wed Mar 26 22:01:09 GMT+0100 2008
+Views        : 1,265
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Zebror är vackra!
+
+
++--------+
+|  TAGS  |
++--------+
+Zebra 

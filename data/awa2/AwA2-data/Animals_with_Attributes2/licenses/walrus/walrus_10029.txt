@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : JerryFrausto
+Photo URL    : https://www.flickr.com/photos/gorefiendus/2758642377/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 10 11:12:11 GMT+0200 2008
+Upload Date  : Wed Aug 13 09:32:15 GMT+0200 2008
+Geotag Info  : Latitude:38.138775, Longitude:-122.233457
+Views        : 1,237
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Jocko floating on his back
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Six Flags Discovery Kingdom Jocko Walrus "50 First Dates" 

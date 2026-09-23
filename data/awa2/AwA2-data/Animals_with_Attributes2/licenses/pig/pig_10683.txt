@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : wplynn
+Photo URL    : https://www.flickr.com/photos/warrenlynn/5142462795/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Oct 29 14:23:53 GMT+0200 2010
+Upload Date  : Wed Nov 3 15:27:00 GMT+0100 2010
+Geotag Info  : Latitude:37.442968, Longitude:-79.784604
+Views        : 148
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+pot-bellied pig in field
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"flute fall-in" 2010 "potbellied pig" pig grazing 

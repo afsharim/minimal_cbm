@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : tristanf
+Photo URL    : https://www.flickr.com/photos/tristanf/7007394374/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 1 16:16:24 GMT+0200 2012
+Upload Date  : Mon May 7 21:02:48 GMT+0200 2012
+Views        : 132
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hairy cow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+cow 

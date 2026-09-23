@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : VSmithUK
+Photo URL    : https://www.flickr.com/photos/vsmithuk/2813536260/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 15 11:12:46 GMT+0200 2008
+Upload Date  : Sun Aug 31 09:40:54 GMT+0200 2008
+Geotag Info  : Latitude:-28.257668, Longitude:32.411813
+Views        : 114
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hippopotamus
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+<i>Hippopotamus amphibius</i>
+
+
++--------+
+|  TAGS  |
++--------+
+"South Africa" "St Lucia" Mammal Kwazulu-Natal _Favorite_ Life 

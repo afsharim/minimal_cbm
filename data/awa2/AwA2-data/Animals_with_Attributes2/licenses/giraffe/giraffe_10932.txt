@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : DreamSailors
+Photo URL    : https://www.flickr.com/photos/dreamsailors/7055917609/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Apr 3 12:31:36 GMT+0200 2012
+Upload Date  : Sun Apr 8 08:41:47 GMT+0200 2012
+Geotag Info  : Latitude:37.750154, Longitude:-122.148656
+Views        : 171
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_1412
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+giraffe next to a tree
+
+
++--------+
+|  TAGS  |
++--------+
+giraffe 

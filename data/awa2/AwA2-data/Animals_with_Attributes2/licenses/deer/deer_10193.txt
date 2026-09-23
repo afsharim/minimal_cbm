@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Eric Kilby
+Photo URL    : https://www.flickr.com/photos/ekilby/3558402468/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 23 13:55:25 GMT+0200 2009
+Upload Date  : Sun May 24 03:54:28 GMT+0200 2009
+Geotag Info  : Latitude:42.064268, Longitude:-71.586366
+Views        : 361
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer Bothered by Bugs
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+I can count at least a dozen bugs in focus at the large size
+
+
++--------+
+|  TAGS  |
++--------+
+deer flies woods southwicks zoo 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jwright4701
+Photo URL    : https://www.flickr.com/photos/jwright4701/5632453329/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Apr 18 04:14:13 GMT+0200 2011
+Upload Date  : Tue Apr 19 00:58:06 GMT+0200 2011
+Geotag Info  : Latitude:43.670603, Longitude:-87.712783
+Views        : 330
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+deer 027
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+you looking at me
+
+
++--------+
+|  TAGS  |
++--------+
+deer wildlife "deer nature" 

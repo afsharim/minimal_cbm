@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : angela n.
+Photo URL    : https://www.flickr.com/photos/aon/3052188446/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 22 16:20:07 GMT+0100 2008
+Upload Date  : Sun Nov 23 06:08:10 GMT+0100 2008
+Views        : 203
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Poplar Spring
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Poplar Spring Animal Sanctuary
+
+Sheep
+
+
++--------+
+|  TAGS  |
++--------+
+"Poplar Spring Animal Sanctuary" sheep 

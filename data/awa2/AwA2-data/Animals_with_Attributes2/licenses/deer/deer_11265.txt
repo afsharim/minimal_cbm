@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : hartsbane
+Photo URL    : https://www.flickr.com/photos/hartsbane/534188517/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Feb 16 13:11:16 GMT+0100 2007
+Upload Date  : Thu Jun 7 06:23:43 GMT+0200 2007
+Geotag Info  : Latitude:45.498737, Longitude:-122.838885
+Views        : 32
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+deer 

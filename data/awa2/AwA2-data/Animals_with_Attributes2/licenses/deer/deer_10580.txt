@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : [Smalley Photography]
+Photo URL    : https://www.flickr.com/photos/smalleyphotography/7660509950/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 27 16:49:44 GMT+0200 2012
+Upload Date  : Sat Jul 28 08:39:40 GMT+0200 2012
+Views        : 865
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+deer jump wild fence animal field grass green 

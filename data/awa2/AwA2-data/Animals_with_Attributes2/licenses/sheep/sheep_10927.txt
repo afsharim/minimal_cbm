@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : 88rabbit
+Photo URL    : https://www.flickr.com/photos/88rabbit/3438662331/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 11 22:36:00 GMT+0200 2009
+Upload Date  : Mon Apr 13 22:15:40 GMT+0200 2009
+Views        : 53
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

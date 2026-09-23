@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Genista
+Photo URL    : https://www.flickr.com/photos/genista/3581800/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jan 10 22:11:18 GMT+0100 2005
+Upload Date  : Thu Jan 20 18:17:42 GMT+0100 2005
+Geotag Info  : Latitude:60.093439, Longitude:-136.914368
+Views        : 321
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+grizzly landscape
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+<a href="http://www.geobloggers.com" rel="nofollow">GeoTagged</a>
+
+
++--------+
+|  TAGS  |
++--------+
+alaska "inside passage" yukon grizzly bears mountain geotagged geo:lat=60.093439 geo:lon=-136.914368 

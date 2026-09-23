@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : hobgadlng
+Photo URL    : https://www.flickr.com/photos/hobgadlng/7671044292/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 1 15:13:01 GMT+0200 2012
+Upload Date  : Sun Jul 29 22:46:13 GMT+0200 2012
+Geotag Info  : Latitude:-18.930807, Longitude:14.791889
+Views        : 235
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra Panorama
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Namibia Etosha animal zebra panorama 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ☺ Lee J Haywood
+Photo URL    : https://www.flickr.com/photos/leehaywood/5292482095/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Dec 23 13:50:08 GMT+0100 2010
+Upload Date  : Sun Dec 26 12:40:51 GMT+0100 2010
+Views        : 973
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Red deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Taken at Wollaton Park.
+
+
++--------+
+|  TAGS  |
++--------+
+"Wollaton Park" snow winter "red deer" antlers 

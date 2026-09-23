@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jason Pratt
+Photo URL    : https://www.flickr.com/photos/jasonpratt/2243946722/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 9 09:39:09 GMT+0200 2007
+Upload Date  : Tue Feb 5 08:07:10 GMT+0100 2008
+Geotag Info  : Latitude:40.484371, Longitude:-79.920387
+Views        : 339
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebras
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Pittsburgh zoo "Pittsburgh Zoo" zebras 

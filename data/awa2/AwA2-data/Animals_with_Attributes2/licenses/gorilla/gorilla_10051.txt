@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/14976802774/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 5 14:22:57 GMT+0200 2014
+Upload Date  : Wed Oct 22 06:00:10 GMT+0200 2014
+Geotag Info  : Latitude:49.244640, Longitude:6.137795
+Views        : 7,513
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+Another photo of one of the silberbacks
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Another picture of one of the silverbacks eating.
+
+
++--------+
+|  TAGS  |
++--------+
+silverback male etaing food sitting grass unhappy gorilla black primate monkey ape amnéville zoo france nikon d4 

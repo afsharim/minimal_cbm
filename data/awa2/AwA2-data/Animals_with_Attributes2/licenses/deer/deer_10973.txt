@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bobosh_t
+Photo URL    : https://www.flickr.com/photos/frted/3878081154/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 31 06:20:58 GMT+0200 2009
+Upload Date  : Tue Sep 1 14:42:26 GMT+0200 2009
+Views        : 65
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Keeping an Eye on Things
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Sugarcreek Metropark" deer 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : necrocake
+Photo URL    : https://www.flickr.com/photos/necrocake/2282989112/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Feb 22 02:25:17 GMT+0100 2008
+Upload Date  : Fri Feb 22 02:25:17 GMT+0100 2008
+Views        : 201
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hannelore munching
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Hannelore eating a peanut
+
+
++--------+
+|  TAGS  |
++--------+
+roborovski hamster "dwarf hamster" pet eating 

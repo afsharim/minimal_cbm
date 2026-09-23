@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Daran Kandasamy
+Photo URL    : https://www.flickr.com/photos/daran_kandasamy/4195636682/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Dec 18 01:49:31 GMT+0100 2009
+Upload Date  : Fri Dec 18 18:40:40 GMT+0100 2009
+Geotag Info  : Latitude:1.405036, Longitude:103.790760
+Views        : 889
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+White Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+@ Singapore Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+"singapore zoo" "white tiger" tiger "Panthera tigris" bengal "big cat" "siberian tiger" 

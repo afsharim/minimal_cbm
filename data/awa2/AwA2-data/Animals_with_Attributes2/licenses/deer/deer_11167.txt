@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jonas N
+Photo URL    : https://www.flickr.com/photos/flashfire/14753247229/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 16 12:18:53 GMT+0200 2014
+Upload Date  : Sun Aug 17 00:18:29 GMT+0200 2014
+Views        : 166
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Red deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Lycksele Zoo, Sweden.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

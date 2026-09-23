@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : lydurs
+Photo URL    : https://www.flickr.com/photos/lydur/7001917458/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 6 12:07:46 GMT+0200 2012
+Upload Date  : Sun May 6 13:07:51 GMT+0200 2012
+Views        : 310
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

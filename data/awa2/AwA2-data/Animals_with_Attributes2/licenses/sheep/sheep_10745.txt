@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : John Englart (Takver)
+Photo URL    : https://www.flickr.com/photos/takver/7780609236/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 21 11:59:14 GMT+0200 2012
+Upload Date  : Tue Aug 14 13:36:18 GMT+0200 2012
+Geotag Info  : Latitude:-36.453494, Longitude:144.853277
+Views        : 444
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep grazing near Greens Lake
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+sheep corop Victoria Australia 

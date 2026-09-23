@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : tpms5
+Photo URL    : https://www.flickr.com/photos/malabar_magazine/5150684834/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 6 12:13:25 GMT+0100 2010
+Upload Date  : Sat Nov 6 07:43:25 GMT+0100 2010
+Geotag Info  : Latitude:12.314510, Longitude:76.637878
+Views        : 484
+Comments     : 7
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe Pair
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Mysore Zoo, India.
+
+
++--------+
+|  TAGS  |
++--------+
+Giraffe Mysore Zoo 

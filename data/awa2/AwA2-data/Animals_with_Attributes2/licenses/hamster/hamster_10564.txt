@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : grumo
+Photo URL    : https://www.flickr.com/photos/grumo/2754497944/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 28 23:46:45 GMT+0200 2008
+Upload Date  : Mon Aug 11 21:17:27 GMT+0200 2008
+Views        : 187
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Puchín
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Life in prison is tough!
+
+
++--------+
+|  TAGS  |
++--------+
+hamster 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : dnunz
+Photo URL    : https://www.flickr.com/photos/dnunz/363298750/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 13 21:26:39 GMT+0200 2006
+Upload Date  : Sat Jan 20 11:40:12 GMT+0100 2007
+Geotag Info  : Latitude:32.736588, Longitude:-117.151422
+Views        : 40
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+San Diego Zoo - Zebra
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

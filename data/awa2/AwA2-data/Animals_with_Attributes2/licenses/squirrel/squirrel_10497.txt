@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Loozrboy
+Photo URL    : https://www.flickr.com/photos/loozrboy/4817458132/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 14 21:55:18 GMT+0200 2010
+Upload Date  : Thu Jul 22 06:10:16 GMT+0200 2010
+Geotag Info  : Latitude:49.866143, Longitude:-97.189596
+Views        : 184
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Snack time
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+An adorable little squirrel munching on a tasty morsel of something on a tree branch.
+
+
++--------+
+|  TAGS  |
++--------+
+animal squirrel mammal furry tail 

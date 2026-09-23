@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : phortx
+Photo URL    : https://www.flickr.com/photos/onemice/6870882564/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 24 13:26:16 GMT+0100 2012
+Upload Date  : Mon Mar 26 10:29:57 GMT+0200 2012
+Views        : 458
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+sleeping horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"black forest" schwarzwald horse 

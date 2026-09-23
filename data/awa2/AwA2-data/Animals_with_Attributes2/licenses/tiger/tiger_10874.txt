@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Kvaezo's photography
+Photo URL    : https://www.flickr.com/photos/kvaezo_photos/9417507324/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 13 14:22:46 GMT+0200 2013
+Upload Date  : Thu Aug 1 19:01:24 GMT+0200 2013
+Geotag Info  : Latitude:47.999800, Longitude:21.725764
+Views        : 278
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+You'll be the next!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+animal tiger cats 

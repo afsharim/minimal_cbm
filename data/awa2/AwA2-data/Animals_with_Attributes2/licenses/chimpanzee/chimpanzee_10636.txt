@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : pelican
+Photo URL    : https://www.flickr.com/photos/pelican/4572275/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 11 15:52:03 GMT+0200 2004
+Upload Date  : Thu Feb 10 17:53:37 GMT+0100 2005
+Views        : 592
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Tennoji zoo, Osaka, Japan
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Mother and her child
+
+
++--------+
+|  TAGS  |
++--------+
+zoo tennoji osaka chimpanzee 

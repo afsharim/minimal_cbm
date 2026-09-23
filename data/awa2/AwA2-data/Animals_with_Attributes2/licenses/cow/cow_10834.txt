@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : a.froese
+Photo URL    : https://www.flickr.com/photos/anfroese/4696678905/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 13 15:17:29 GMT+0200 2010
+Upload Date  : Sun Jun 13 21:28:06 GMT+0200 2010
+Geotag Info  : Latitude:51.363313, Longitude:10.088109
+Views        : 184
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+"Guck nicht so, ich will schlafen !"
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Eine faule Kuh in der Sonne
+
+
++--------+
+|  TAGS  |
++--------+
+"Heiligenstädter Wald" Thüringen 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Dave Williss
+Photo URL    : https://www.flickr.com/photos/dwilliss/7978522298/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Sep 11 18:53:54 GMT+0200 2012
+Upload Date  : Wed Sep 12 05:38:02 GMT+0200 2012
+Geotag Info  : Latitude:40.730041, Longitude:-96.709631
+Views        : 283
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+deer fawn 

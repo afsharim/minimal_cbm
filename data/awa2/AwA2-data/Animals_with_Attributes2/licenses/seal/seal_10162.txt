@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : TonyParkin67
+Photo URL    : https://www.flickr.com/photos/parkituk/6589581505/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Dec 28 14:18:27 GMT+0100 2011
+Upload Date  : Wed Dec 28 20:52:40 GMT+0100 2011
+Geotag Info  : Latitude:50.095476, Longitude:-5.205341
+Views        : 81
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC02683.JPG
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Effortlessly uploaded by <a href="http://www.eye.fi" rel="nofollow">Eye-Fi</a>
+
+
++--------+
+|  TAGS  |
++--------+
+Eye-Fi Gweek "Gweek Seal Sanctuary" seal 

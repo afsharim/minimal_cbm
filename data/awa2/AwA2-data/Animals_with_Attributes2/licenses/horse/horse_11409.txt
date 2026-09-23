@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : tinyfroglet
+Photo URL    : https://www.flickr.com/photos/tinyfroglet/3446872048/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Mar 20 09:17:00 GMT+0100 2009
+Upload Date  : Thu Apr 16 06:52:32 GMT+0200 2009
+Views        : 533
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sara at White Fences
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Sara and Sailor.
+
+March 2009
+Manor, TX
+
+
++--------+
+|  TAGS  |
++--------+
+"white fences" horses 

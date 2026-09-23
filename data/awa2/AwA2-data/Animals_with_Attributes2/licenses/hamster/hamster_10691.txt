@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : krismartis
+Photo URL    : https://www.flickr.com/photos/krismartis/1487449510/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 23 18:47:59 GMT+0200 2007
+Upload Date  : Fri Oct 5 04:53:30 GMT+0200 2007
+Views        : 98
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tequila
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Dwarf Hamsters 

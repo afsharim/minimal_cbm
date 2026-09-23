@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : flamesworddragon
+Photo URL    : https://www.flickr.com/photos/flamesworddragon/8069867976/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 7 16:08:31 GMT+0200 2012
+Upload Date  : Tue Oct 9 08:43:34 GMT+0200 2012
+Views        : 268
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer at Dyrham Park
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+deer "dyrham park" 

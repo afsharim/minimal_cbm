@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : nordique
+Photo URL    : https://www.flickr.com/photos/nordique/2834274103/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 6 13:48:01 GMT+0200 2008
+Upload Date  : Sun Sep 7 04:29:39 GMT+0200 2008
+Views        : 44
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+&quot;Pardon me, but could you spare a bit of that bagel?
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

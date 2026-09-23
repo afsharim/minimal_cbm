@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jason O'Halloran
+Photo URL    : https://www.flickr.com/photos/jasonohalloran/469974550/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Apr 19 10:14:08 GMT+0200 2007
+Upload Date  : Mon Apr 23 17:01:01 GMT+0200 2007
+Geotag Info  : Latitude:44.058047, Longitude:-79.470441
+Views        : 725
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Raccoon
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Raccoon 

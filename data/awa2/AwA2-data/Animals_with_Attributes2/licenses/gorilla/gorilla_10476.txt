@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : brokinhrt2
+Photo URL    : https://www.flickr.com/photos/dq090702/2708506699/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 24 14:34:50 GMT+0200 2008
+Upload Date  : Mon Jul 28 05:49:11 GMT+0200 2008
+Views        : 170
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Gorillas
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

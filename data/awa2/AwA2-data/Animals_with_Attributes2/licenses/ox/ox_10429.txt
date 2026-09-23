@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Raghu Mohan
+Photo URL    : https://www.flickr.com/photos/raghavendramohanphotography/8724440007/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 4 18:07:12 GMT+0200 2013
+Upload Date  : Fri May 10 08:32:44 GMT+0200 2013
+Views        : 44
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Kabani|Gaur|Water
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

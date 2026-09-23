@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : xtopherglez
+Photo URL    : https://www.flickr.com/photos/xtopherglez/6908853188/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 7 17:21:51 GMT+0200 2012
+Upload Date  : Sun Apr 8 00:45:54 GMT+0200 2012
+Views        : 5,521
+Comments     : 11
+
+
++---------+
+|  TITLE  |
++---------+
+Cozumel Pygmy raccoon (Procyon pygmaeus)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Mapache enano de Cozumel 
+Especie endémica a Cozumel.
+Quintana Roo, Méx.
+
+
++--------+
+|  TAGS  |
++--------+
+Cozumel "taxonomy:binomial=Procyon pygmaeus" taxonomy:family=Procyonidae 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sumptinelse
+Photo URL    : https://www.flickr.com/photos/sumptinelse/111469494/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 11 00:21:53 GMT+0100 2006
+Upload Date  : Sun Mar 12 20:17:13 GMT+0100 2006
+Views        : 617
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+gray squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Squirrel enjoying the cracked corn I put out for ducks.
+
+
++--------+
+|  TAGS  |
++--------+
+gray squirrel 

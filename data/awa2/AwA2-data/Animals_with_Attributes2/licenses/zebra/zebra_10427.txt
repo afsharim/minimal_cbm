@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Chinatownchef
+Photo URL    : https://www.flickr.com/photos/chinatownchef/5661184075/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Apr 4 02:00:56 GMT+0200 2011
+Upload Date  : Wed Apr 27 18:13:34 GMT+0200 2011
+Geotag Info  : Latitude:1.365579, Longitude:103.827713
+Views        : 566
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Singapore Zoo - Zebras
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A whole family of young  Zebras seem comfortable with people around.
+
+
++--------+
+|  TAGS  |
++--------+
+singapore zoo zebras horse stripes 

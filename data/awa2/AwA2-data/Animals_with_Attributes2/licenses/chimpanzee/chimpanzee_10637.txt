@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : pelican
+Photo URL    : https://www.flickr.com/photos/pelican/4572502/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 11 15:52:17 GMT+0200 2004
+Upload Date  : Thu Feb 10 18:01:18 GMT+0100 2005
+Views        : 407
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tennoji zoo, Osaka, Japan
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Father's figure :)
+
+
++--------+
+|  TAGS  |
++--------+
+zoo tennoji osaka chimpanzee 

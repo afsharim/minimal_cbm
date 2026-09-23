@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : AdamElBachir
+Photo URL    : https://www.flickr.com/photos/99146019@N06/9410453106/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 30 17:32:04 GMT+0200 2013
+Upload Date  : Wed Jul 31 18:57:07 GMT+0200 2013
+Views        : 239
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrels Playing ...
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+All rights reserved 2013 ©
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

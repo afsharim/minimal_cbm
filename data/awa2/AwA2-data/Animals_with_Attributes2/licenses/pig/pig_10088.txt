@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : IRGlover
+Photo URL    : https://www.flickr.com/photos/irglover/10599533196/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 27 15:58:49 GMT+0100 2013
+Upload Date  : Fri Nov 1 00:18:40 GMT+0100 2013
+Geotag Info  : Latitude:53.230479, Longitude:-1.607190
+Views        : 871
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Contented Pig
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Chatsworth House" Derbyshire England "country house" "stately home" farm animal 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : GregTheBusker
+Photo URL    : https://www.flickr.com/photos/gregthebusker/5156098981/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 31 12:18:17 GMT+0100 2010
+Upload Date  : Mon Nov 8 02:46:47 GMT+0100 2010
+Geotag Info  : Latitude:37.912750, Longitude:-122.664542
+Views        : 447
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Harbor Seals
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+California Novermber 2010 Harbor Seals 

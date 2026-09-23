@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Richardvanw
+Photo URL    : https://www.flickr.com/photos/richardvanw/4733525255/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 25 14:28:58 GMT+0200 2010
+Upload Date  : Fri Jun 25 23:28:58 GMT+0200 2010
+Views        : 543
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+angry-tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Auckland Zoo" Tiger 

@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Lake Clark NPS
+Photo URL    : https://www.flickr.com/photos/lakeclark/11346312874/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jan 1 00:00:00 GMT+0100 2013
+Upload Date  : Fri Dec 13 02:45:54 GMT+0100 2013
+Views        : 8,474
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Brown bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A coastal brown bear heads down to the beach at Silver Salmon Creek.
+
+Please credit photo as NPS/K. Jalone.
+
+
++--------+
+|  TAGS  |
++--------+
+"Brown Bear" "Ursus arctos" "Silver Salmon Creek" "Lake Clark National Park and Preserve" "Lake Clark" Alaska 

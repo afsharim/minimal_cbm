@@ -1,0 +1,41 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : big-ashb
+Photo URL    : https://www.flickr.com/photos/big-ashb/15799767804/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 1 16:50:54 GMT+0100 2015
+Upload Date  : Sun Feb 1 22:45:40 GMT+0100 2015
+Geotag Info  : Latitude:51.173855, Longitude:-0.048878
+Views        : 431
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Weasel (Mustela nivalis)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+<a href="http://www.britishwildlifecentre.co.uk/" rel="nofollow">www.britishwildlifecentre.co.uk/</a>
+
+British Wildlife Centre
+Eastbourne Road (A22),
+Newchapel,
+LINGFIELD
+Surrey RH7 6LF
+
+
++--------+
+|  TAGS  |
++--------+
+Canon 600D British Wildlife Centre surrey 

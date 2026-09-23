@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Lyn Lomasi
+Photo URL    : https://www.flickr.com/photos/lynlomasi/7782744116/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 9 22:29:11 GMT+0200 2011
+Upload Date  : Tue Aug 14 20:23:19 GMT+0200 2012
+Views        : 775
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Roborovski (Robo) dwarf hamster
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Photographing Travis
+Photo URL    : https://www.flickr.com/photos/photographingtravis/22322133493/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Nov 2 03:35:41 GMT+0100 2015
+Upload Date  : Wed Nov 11 14:46:15 GMT+0100 2015
+Geotag Info  : Latitude:51.426266, Longitude:-1.858792
+Views        : 325
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Avebury, England
+
+
++--------+
+|  TAGS  |
++--------+
+europe london 

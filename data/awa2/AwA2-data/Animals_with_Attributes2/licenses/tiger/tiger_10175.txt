@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jayel Aheram
+Photo URL    : https://www.flickr.com/photos/aheram/217311721/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 17 05:57:03 GMT+0200 2006
+Upload Date  : Thu Aug 17 03:42:51 GMT+0200 2006
+Geotag Info  : Latitude:37.735969, Longitude:-122.467346
+Views        : 286
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Panthera Tigris
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The King of the Jungle exploring its 50x50 feet domain.
+
+
++--------+
+|  TAGS  |
++--------+
+aheram "san francisco" 

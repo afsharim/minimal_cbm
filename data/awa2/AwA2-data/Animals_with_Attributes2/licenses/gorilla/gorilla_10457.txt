@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mcoughlin
+Photo URL    : https://www.flickr.com/photos/mcoughlin/11424083664/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 1 00:00:03 GMT+0100 2013
+Upload Date  : Tue Dec 17 21:03:08 GMT+0100 2013
+Geotag Info  : Latitude:-1.121197, Longitude:29.645999
+Views        : 547
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Gorilla, Relaxed
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Rushegura group, Bwindi Impenetrable Forest, Uganda.
+
+
++--------+
+|  TAGS  |
++--------+
+gorilla "mountain gorilla" uganda bwindi 

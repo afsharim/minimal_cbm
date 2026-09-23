@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tim simpson1
+Photo URL    : https://www.flickr.com/photos/timmy2s/5772047640/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 28 17:43:37 GMT+0200 2011
+Upload Date  : Sun May 29 16:43:00 GMT+0200 2011
+Views        : 473
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Silver back
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Bristol zoo
+
+
++--------+
+|  TAGS  |
++--------+
+"Bristol zoo" "silver back" gorilla ngc 

@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jim, the Photographer
+Photo URL    : https://www.flickr.com/photos/jcapaldi/9903907376/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 21 15:33:41 GMT+0200 2013
+Upload Date  : Mon Sep 23 22:56:46 GMT+0200 2013
+Geotag Info  : Latitude:39.999215, Longitude:-76.133666
+Views        : 402
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horses
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Cherry Crest Adventure Farm
+Ronks PA
+September 21, 2013
+
+
++--------+
+|  TAGS  |
++--------+
+"Cherry Crest Adventure Farm" Ronks farm corn maze maize horse 

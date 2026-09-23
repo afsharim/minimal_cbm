@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : fribbleblib
+Photo URL    : https://www.flickr.com/photos/10746069@N08/1032377712/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 3 12:00:42 GMT+0200 2007
+Upload Date  : Mon Aug 6 23:02:08 GMT+0200 2007
+Geotag Info  : Latitude:51.188273, Longitude:-2.261466
+Views        : 400
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Ankole at Longleat Safari Park
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This was taken as we were driving through the Big Game Park at Longleat Safari Park in Wiltshire, UK.
+
+
++--------+
+|  TAGS  |
++--------+
+Ankole Longleat Safari Park Wiltshire Wilts 

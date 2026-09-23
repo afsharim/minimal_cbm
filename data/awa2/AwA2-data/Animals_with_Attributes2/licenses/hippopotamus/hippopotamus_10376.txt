@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Kent Wang
+Photo URL    : https://www.flickr.com/photos/kentwang/3696490029/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 18 11:07:28 GMT+0200 2009
+Upload Date  : Tue Jul 7 08:19:14 GMT+0200 2009
+Views        : 146
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hippopotamus
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"National Zoo" zoo hippopotamus DC "Washington, DC" 

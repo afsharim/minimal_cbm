@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : taubinphoto
+Photo URL    : https://www.flickr.com/photos/taubinphoto/8256877664/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 9 12:31:22 GMT+0100 2012
+Upload Date  : Sun Dec 9 04:36:48 GMT+0100 2012
+Geotag Info  : Latitude:-36.884109, Longitude:174.770416
+Views        : 126
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hippo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Taken at the Auckland Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+"Canon EOS 600D" "EF-S55-250mm f/4-5.6 IS II" "¹⁄₂₅₀ sec at f/8.0" "194 mm" "Auckland Zoo" Auckland Hippo Hippopotamus 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Seabass London
+Photo URL    : https://www.flickr.com/photos/seabass_london/263282054/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 9 18:09:04 GMT+0200 2006
+Upload Date  : Sat Oct 7 23:17:12 GMT+0200 2006
+Views        : 4,556
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Blue whale tail deep dive
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A blue whale with a chink out of its tail base, taken about 2nm west of Dana Point marina.
+
+
++--------+
+|  TAGS  |
++--------+
+blue whale tail 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : cogdogblog
+Photo URL    : https://www.flickr.com/photos/cogdog/8708656685/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 4 10:39:19 GMT+0200 2013
+Upload Date  : Sun May 5 08:17:56 GMT+0200 2013
+Geotag Info  : Latitude:34.379000, Longitude:-111.453166
+Views        : 3,014
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+A Horse Named "Bob"
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Look at the paws on the fella!
+
+
++--------+
+|  TAGS  |
++--------+
+horse 

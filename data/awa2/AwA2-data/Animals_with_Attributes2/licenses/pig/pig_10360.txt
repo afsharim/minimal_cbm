@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Katherine Daley
+Photo URL    : https://www.flickr.com/photos/katherinedaleyphotography/5997888970/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 30 13:14:06 GMT+0200 2011
+Upload Date  : Mon Aug 1 13:52:47 GMT+0200 2011
+Geotag Info  : Latitude:52.202228, Longitude:1.599841
+Views        : 6
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Pig
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

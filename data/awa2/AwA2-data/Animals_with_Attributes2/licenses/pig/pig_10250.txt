@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jkirkhart35
+Photo URL    : https://www.flickr.com/photos/jkirkhart35/7037948907/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 1 13:29:48 GMT+0200 2012
+Upload Date  : Mon Apr 2 09:18:10 GMT+0200 2012
+Views        : 375
+Comments     : 11
+
+
++---------+
+|  TITLE  |
++---------+
+Pig "Sitting Pretty"
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The pig is teaching the dog a new trick.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

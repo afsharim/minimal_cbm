@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Roland Klose
+Photo URL    : https://www.flickr.com/photos/rwklose/8881164085/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue May 28 22:49:22 GMT+0200 2013
+Upload Date  : Wed May 29 20:35:04 GMT+0200 2013
+Views        : 18
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

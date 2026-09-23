@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jsalita
+Photo URL    : https://www.flickr.com/photos/jsalita/15384377375/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Sep 23 07:24:20 GMT+0200 2010
+Upload Date  : Sun Sep 28 23:12:23 GMT+0200 2014
+Geotag Info  : Latitude:45.574863, Longitude:25.407257
+Views        : 120
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Romania, Transylvania
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Roadtrip Sheep
+
+
++--------+
+|  TAGS  |
++--------+
+Romania sheep 

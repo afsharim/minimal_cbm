@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : campsjc
+Photo URL    : https://www.flickr.com/photos/24284031@N00/11636371064/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 30 15:56:58 GMT+0100 2013
+Upload Date  : Mon Dec 30 02:04:30 GMT+0100 2013
+Views        : 106
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bighorn sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

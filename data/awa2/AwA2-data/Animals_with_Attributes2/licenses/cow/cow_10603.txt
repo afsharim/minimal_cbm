@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : FHgitarre
+Photo URL    : https://www.flickr.com/photos/fhgitarre/5052981174/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 28 08:41:05 GMT+0200 2009
+Upload Date  : Tue Oct 5 02:53:29 GMT+0200 2010
+Geotag Info  : Latitude:47.675559, Longitude:11.582336
+Views        : 241
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+cows
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Cow Brauneck 

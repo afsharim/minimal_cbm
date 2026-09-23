@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : tpms5
+Photo URL    : https://www.flickr.com/photos/malabar_magazine/5127323133/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 30 10:42:32 GMT+0200 2010
+Upload Date  : Sat Oct 30 07:12:32 GMT+0200 2010
+Geotag Info  : Latitude:12.305120, Longitude:76.644607
+Views        : 791
+Comments     : 10
+
+
++---------+
+|  TITLE  |
++---------+
+Thirsty Family
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Mysore, India.
+
+
++--------+
+|  TAGS  |
++--------+
+Mysore elephant 

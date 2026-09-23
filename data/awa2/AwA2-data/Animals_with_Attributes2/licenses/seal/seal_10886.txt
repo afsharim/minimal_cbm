@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mikel.santamaria
+Photo URL    : https://www.flickr.com/photos/mikelsantamaria/16524835142/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 8 13:58:40 GMT+0100 2015
+Upload Date  : Sat Feb 14 11:13:14 GMT+0100 2015
+Geotag Info  : Latitude:59.326401, Longitude:18.105499
+Views        : 341
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Skansen, Stockholm
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Grey seal
+
+
++--------+
+|  TAGS  |
++--------+
+Stockholm Suecia Suedia Sverige Sweden 

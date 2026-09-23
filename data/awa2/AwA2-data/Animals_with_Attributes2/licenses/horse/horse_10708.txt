@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Florian Maldoner
+Photo URL    : https://www.flickr.com/photos/73241761@N03/7915994910/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 9 13:00:58 GMT+0200 2012
+Upload Date  : Sun Sep 2 21:40:50 GMT+0200 2012
+Geotag Info  : Latitude:50.249111, Longitude:9.614680
+Views        : 327
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+200mm 2.8L 550D Altengronau 

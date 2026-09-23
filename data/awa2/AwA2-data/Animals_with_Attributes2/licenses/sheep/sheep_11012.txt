@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Julia Velkova
+Photo URL    : https://www.flickr.com/photos/konfeta/5812602166/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 4 09:48:14 GMT+0200 2011
+Upload Date  : Wed Jun 8 19:40:27 GMT+0200 2011
+Views        : 122
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+and more sheep
+
+
++--------+
+|  TAGS  |
++--------+
+Faroe Islands 

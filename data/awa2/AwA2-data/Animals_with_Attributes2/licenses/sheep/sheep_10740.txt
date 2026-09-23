@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jnshimko
+Photo URL    : https://www.flickr.com/photos/18218029@N07/8456072023/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Dec 13 08:49:20 GMT+0100 2012
+Upload Date  : Fri Feb 8 23:13:28 GMT+0100 2013
+Views        : 37
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep Feeding2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

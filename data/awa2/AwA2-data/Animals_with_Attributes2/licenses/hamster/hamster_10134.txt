@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : riywo
+Photo URL    : https://www.flickr.com/photos/riywo/2156983147/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jan 1 13:54:19 GMT+0100 2008
+Upload Date  : Wed Jan 2 08:11:04 GMT+0100 2008
+Views        : 74
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+CIMG2360
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+hamster 

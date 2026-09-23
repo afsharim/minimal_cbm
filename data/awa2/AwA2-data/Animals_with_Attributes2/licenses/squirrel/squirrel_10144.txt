@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Pedro Lozano
+Photo URL    : https://www.flickr.com/photos/peterlozano/7012427821/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 24 18:50:45 GMT+0100 2012
+Upload Date  : Sun Mar 25 01:06:07 GMT+0100 2012
+Views        : 314
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Denver Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+denver colorado usa squirrel 

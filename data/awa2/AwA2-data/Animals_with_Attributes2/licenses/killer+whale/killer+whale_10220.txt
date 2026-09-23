@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : greaterumbrage
+Photo URL    : https://www.flickr.com/photos/dokidoki/3361925436/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 15 20:45:13 GMT+0100 2009
+Upload Date  : Tue Mar 17 03:43:29 GMT+0100 2009
+Geotag Info  : Latitude:29.462467, Longitude:-98.700742
+Views        : 566
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Orcas
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Sea World San Antonio
+
+
++--------+
+|  TAGS  |
++--------+
+"San Antonio" "Sea World" Texas Shamu orca "killer whale" 

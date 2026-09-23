@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jonny hayseed
+Photo URL    : https://www.flickr.com/photos/jonnyhayseed/4701495053/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jun 8 13:56:40 GMT+0200 2010
+Upload Date  : Tue Jun 15 04:34:50 GMT+0200 2010
+Views        : 445
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Oscar the Orca
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Orca Orcas "Killer Whale" "San Juan Islands" Orcinus "Orcinus orca" 

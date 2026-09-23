@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : paulius.malinovskis
+Photo URL    : https://www.flickr.com/photos/134741223@N04/21739726711/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 6 14:08:10 GMT+0200 2015
+Upload Date  : Sat Sep 26 16:44:20 GMT+0200 2015
+Geotag Info  : Latitude:59.838309, Longitude:17.586032
+Views        : 1,687
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Horse power
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horse love 

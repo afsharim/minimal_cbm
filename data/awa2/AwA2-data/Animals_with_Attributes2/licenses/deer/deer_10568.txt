@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : JLWoodruffphotos
+Photo URL    : https://www.flickr.com/photos/jwoodruffphotography/6931719853/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Aug 17 12:01:24 GMT+0200 2011
+Upload Date  : Sun Feb 26 16:46:26 GMT+0100 2012
+Views        : 64
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A beautiful deer who lives in the woods in the Poconos.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

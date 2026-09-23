@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : DrGBB
+Photo URL    : https://www.flickr.com/photos/drgbb/7541839856/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 6 08:55:08 GMT+0200 2012
+Upload Date  : Tue Jul 10 11:18:35 GMT+0200 2012
+Geotag Info  : Latitude:41.326166, Longitude:-80.731830
+Views        : 340
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Just Horsing Around
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+at the Trumbull County Fair 2012
+
+
++--------+
+|  TAGS  |
++--------+
+animals nature horse 

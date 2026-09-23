@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : amandabhslater
+Photo URL    : https://www.flickr.com/photos/pikerslanefarm/6043536800/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 14 12:22:33 GMT+0200 2011
+Upload Date  : Mon Aug 15 00:20:11 GMT+0200 2011
+Geotag Info  : Latitude:52.463622, Longitude:-1.574885
+Views        : 942
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Curly Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Greyfaced Dartmoor Fillongley Show 2011
+
+
++--------+
+|  TAGS  |
++--------+
+"Fillongley Show" sheep 

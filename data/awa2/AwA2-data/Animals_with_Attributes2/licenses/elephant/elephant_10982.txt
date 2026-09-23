@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : julia.chapple
+Photo URL    : https://www.flickr.com/photos/julzart/5355666015/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jan 6 12:32:17 GMT+0100 2011
+Upload Date  : Sat Jan 15 04:33:57 GMT+0100 2011
+Views        : 225
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+standing
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+ELEPHANTS JUNGLE 

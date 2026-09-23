@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : FlorianTimm
+Photo URL    : https://www.flickr.com/photos/floriantimm/16418994042/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 1 11:00:33 GMT+0100 2015
+Upload Date  : Sun Feb 1 18:11:11 GMT+0100 2015
+Geotag Info  : Latitude:53.795705, Longitude:10.354833
+Views        : 122
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Pferd Tiere 

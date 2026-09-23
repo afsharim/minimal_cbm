@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : SnapAdik
+Photo URL    : https://www.flickr.com/photos/hubertyu/9226025465/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 29 14:41:15 GMT+0200 2012
+Upload Date  : Sun Jul 7 06:41:59 GMT+0200 2013
+Geotag Info  : Latitude:47.667576, Longitude:-122.350455
+Views        : 708
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe Feeding
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Feeding the giraffes at the Woodland Park Zoo, Seattle, WA
+
+
++--------+
+|  TAGS  |
++--------+
+"Woodland Park Zoo" Seattle Zoo Animals giraffe 

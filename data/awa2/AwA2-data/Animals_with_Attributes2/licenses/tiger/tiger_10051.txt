@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mostly Dans
+Photo URL    : https://www.flickr.com/photos/dannyboymalinga/4590890733/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Sep 1 13:38:11 GMT+0200 2009
+Upload Date  : Sun May 9 11:03:13 GMT+0200 2010
+Views        : 452
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Amur tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This male called Igor is at Colchester zoo
+
+
++--------+
+|  TAGS  |
++--------+
+amur tiger colchester zoo 

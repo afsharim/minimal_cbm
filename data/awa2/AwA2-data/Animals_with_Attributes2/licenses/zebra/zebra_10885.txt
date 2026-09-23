@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sadiehart
+Photo URL    : https://www.flickr.com/photos/sadiehart/7613080082/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri May 28 01:01:11 GMT+0200 2010
+Upload Date  : Sat Jul 21 05:23:07 GMT+0200 2012
+Views        : 2,600
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zebra 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sridgway
+Photo URL    : https://www.flickr.com/photos/stephanridgway/85796003/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jan 4 10:32:48 GMT+0100 2006
+Upload Date  : Fri Jan 13 00:32:48 GMT+0100 2006
+Views        : 663
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Friendly horses
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+They turned out to be very friendly.
+
+
++--------+
+|  TAGS  |
++--------+
+coffsjan06 horse 

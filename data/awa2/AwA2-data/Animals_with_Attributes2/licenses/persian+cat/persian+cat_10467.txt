@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Max Schwoelk
+Photo URL    : https://www.flickr.com/photos/xmax/23305548830/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Nov 24 16:10:40 GMT+0100 2015
+Upload Date  : Tue Dec 8 06:28:34 GMT+0100 2015
+Views        : 248
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Paul
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+persian cat
+
+
++--------+
+|  TAGS  |
++--------+
+persian cat 

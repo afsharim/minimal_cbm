@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : dbrekke
+Photo URL    : https://www.flickr.com/photos/dbrekke/185431566/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 9 05:05:45 GMT+0200 2006
+Upload Date  : Sun Jul 9 14:05:45 GMT+0200 2006
+Views        : 96
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hungry Like A Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+At Loring Park in Minneapolis
+
+
++--------+
+|  TAGS  |
++--------+
+Squirrel Park 

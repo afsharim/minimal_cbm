@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Dushan and Miae
+Photo URL    : https://www.flickr.com/photos/hanuska/6041933783/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 8 08:10:54 GMT+0200 2011
+Upload Date  : Sun Aug 14 19:22:29 GMT+0200 2011
+Geotag Info  : Latitude:37.423556, Longitude:127.021184
+Views        : 241
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephants
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+elephant zoo Seoul Korea 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : el_jambere
+Photo URL    : https://www.flickr.com/photos/eljambere/6167130821/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Aug 23 08:12:01 GMT+0200 2011
+Upload Date  : Wed Sep 21 00:00:02 GMT+0200 2011
+Geotag Info  : Latitude:7.295725, Longitude:80.348510
+Views        : 530
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant, Sri Lanka
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"sri lanka" elephant tropical 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Andrew Whitaker
+Photo URL    : https://www.flickr.com/photos/aawhitaker/77738438/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Dec 26 12:09:42 GMT+0100 2005
+Upload Date  : Mon Dec 26 23:31:53 GMT+0100 2005
+Views        : 48
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zoo 

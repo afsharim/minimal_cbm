@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ferran pestaña
+Photo URL    : https://www.flickr.com/photos/ferranp/4336425531/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 31 19:19:12 GMT+0100 2010
+Upload Date  : Sun Feb 7 09:50:14 GMT+0100 2010
+Geotag Info  : Latitude:41.307930, Longitude:2.001968
+Views        : 227
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Kowa cachorrita chihuahua
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+perros gossos dogs pets chihuahua 

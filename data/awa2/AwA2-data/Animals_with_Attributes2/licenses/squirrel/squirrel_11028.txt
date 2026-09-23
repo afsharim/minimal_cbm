@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : synspectrum
+Photo URL    : https://www.flickr.com/photos/epector/16062747299/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 10 14:43:21 GMT+0100 2015
+Upload Date  : Sat Jan 10 23:16:47 GMT+0100 2015
+Views        : 23
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Backyard DuPage County
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : berniedup
+Photo URL    : https://www.flickr.com/photos/berniedup/16598798600/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jan 22 10:04:31 GMT+0100 2015
+Upload Date  : Wed Mar 11 17:53:19 GMT+0100 2015
+Geotag Info  : Latitude:-24.982479, Longitude:31.564192
+Views        : 989
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hippo (Hippopotamus amphibius)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Skukuza Nursery Access Road, Skukuza, Kruger NP, SOUTH AFRICA
+
+
++--------+
+|  TAGS  |
++--------+
+Hippo "Hippopotamus amphibius" Kruger Skukuza "South Africa" "taxonomy:binomial=Hippopotamus amphibius" 

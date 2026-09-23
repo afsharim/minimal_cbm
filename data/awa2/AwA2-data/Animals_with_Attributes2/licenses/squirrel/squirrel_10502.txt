@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Peter G Trimming
+Photo URL    : https://www.flickr.com/photos/peter-trimming/8431242992/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jan 22 10:53:10 GMT+0100 2013
+Upload Date  : Wed Jan 30 23:01:20 GMT+0100 2013
+Geotag Info  : Latitude:54.384436, Longitude:-3.329562
+Views        : 202
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Snowy Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Seen at Forest How, Eskdale, Cumbria. Female squirrel, who lives to the east of Forest How.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Pixoeil
+Photo URL    : https://www.flickr.com/photos/micromegas/4172208117/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Dec 7 13:08:36 GMT+0100 2009
+Upload Date  : Wed Dec 9 23:24:36 GMT+0100 2009
+Views        : 9
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_4643a
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

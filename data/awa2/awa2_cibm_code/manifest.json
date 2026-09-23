@@ -1,0 +1,396 @@
+{
+  "schema_version": 1,
+  "protocol_id": "awa2_cibm_code_v1",
+  "description": "Exact data protocol implemented by official CIBM code",
+  "cibm_reference_commit": "fd688051ac5018efe4220b65b32785df5788cbcc",
+  "important_scope": "This is CIBM-code AwA2 (fixed ResNet-101 features), not the MCBM-v3 raw-image ResNet-50 AwA2 protocol.",
+  "x": {
+    "source": "xlsa17 AWA2/res101.mat features.T",
+    "shape": [
+      37322,
+      2048
+    ],
+    "dtype": "float32"
+  },
+  "y": {
+    "source": "xlsa17 AWA2/res101.mat labels - 1",
+    "shape": [
+      37322
+    ],
+    "dtype": "int64",
+    "n_classes": 50
+  },
+  "concepts": {
+    "source": "att_splits.mat att.T indexed by CIBM awa2_groups",
+    "binarization": "att > 0",
+    "n_concepts": 45,
+    "original_attribute_indices_zero_based": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21,
+      22,
+      23,
+      24,
+      25,
+      30,
+      31,
+      32,
+      44,
+      45,
+      64,
+      65,
+      66,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77
+    ],
+    "names": [
+      "black",
+      "white",
+      "blue",
+      "brown",
+      "gray",
+      "orange",
+      "red",
+      "yellow",
+      "patches",
+      "spots",
+      "stripes",
+      "furry",
+      "hairless",
+      "toughskin",
+      "big",
+      "small",
+      "bulbous",
+      "lean",
+      "flippers",
+      "hands",
+      "hooves",
+      "pads",
+      "paws",
+      "longleg",
+      "longneck",
+      "tail",
+      "horns",
+      "claws",
+      "tusks",
+      "bipedal",
+      "quadrapedal",
+      "arctic",
+      "coastal",
+      "desert",
+      "bush",
+      "plains",
+      "forest",
+      "fields",
+      "jungle",
+      "mountains",
+      "ocean",
+      "ground",
+      "water",
+      "tree",
+      "cave"
+    ],
+    "groups_in_concept_coordinates": {
+      "color": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
+      ],
+      "pattern": [
+        8,
+        9,
+        10
+      ],
+      "hair": [
+        11,
+        12
+      ],
+      "skin": [
+        13
+      ],
+      "size": [
+        14,
+        15
+      ],
+      "fat": [
+        16,
+        17
+      ],
+      "hand": [
+        18,
+        19,
+        20,
+        21,
+        22
+      ],
+      "leg": [
+        23
+      ],
+      "neck": [
+        24
+      ],
+      "tail": [
+        25
+      ],
+      "horns": [
+        26
+      ],
+      "claws": [
+        27
+      ],
+      "tusk": [
+        28
+      ],
+      "walk": [
+        29,
+        30
+      ],
+      "live": [
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44
+      ]
+    }
+  },
+  "task_nuisances": {
+    "source": "complement of CIBM 45 concepts among all 85 attributes",
+    "binarization": "att > 0",
+    "n_attributes": 40,
+    "original_attribute_indices_zero_based": [
+      26,
+      27,
+      28,
+      29,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84
+    ],
+    "names": [
+      "chewteeth",
+      "meatteeth",
+      "buckteeth",
+      "strainteeth",
+      "smelly",
+      "flys",
+      "hops",
+      "swims",
+      "tunnels",
+      "walks",
+      "fast",
+      "slow",
+      "strong",
+      "weak",
+      "muscle",
+      "active",
+      "inactive",
+      "nocturnal",
+      "hibernate",
+      "agility",
+      "fish",
+      "meat",
+      "plankton",
+      "vegetation",
+      "insects",
+      "forager",
+      "grazer",
+      "hunter",
+      "scavenger",
+      "skimmer",
+      "stalker",
+      "newworld",
+      "oldworld",
+      "fierce",
+      "timid",
+      "smart",
+      "group",
+      "solitary",
+      "nestspot",
+      "domestic"
+    ]
+  },
+  "nontask_nuisances": {
+    "n_attributes": 0
+  },
+  "split": {
+    "implementation": "official_order=trainval_loc+test_seen_loc+test_unseen_loc; train_test_split(test_size=0.2, random_state=0); then train_test_split(first_train, test_size=0.4, random_state=0)",
+    "stratified": false,
+    "seed": 0,
+    "official_order_indices_sha256": "9c58f72f39a8a328df19d039f467306a9183499a85b45f9cbad783656e8f7082",
+    "partitions": {
+      "train": {
+        "size": 17914,
+        "fraction": 0.4799849954450458,
+        "n_classes": 50,
+        "indices_file": "train_indices.npy",
+        "indices_sha256": "5a97dd96430d84d84e5ae8d838e4358ad7e90172128497ae1c9ca0d95454de37"
+      },
+      "val": {
+        "size": 7465,
+        "fraction": 0.2000160763088795,
+        "n_classes": 50,
+        "indices_file": "val_indices.npy",
+        "indices_sha256": "ba24ee7481696148303cc6828581803eab9cc72451d2581e8e2fcebca696e8b2"
+      },
+      "test": {
+        "size": 11943,
+        "fraction": 0.3199989282460747,
+        "n_classes": 50,
+        "indices_file": "test_indices.npy",
+        "indices_sha256": "6956002885142634e3ecd8e2786a07e6b8bbdafaf332f07446441a175ad397ab"
+      }
+    }
+  },
+  "software": {
+    "python": "3.10.20",
+    "numpy": "1.23.5",
+    "scipy": "1.15.3",
+    "scikit_learn": "1.2.2",
+    "platform": "Linux-6.17.0-35-generic-x86_64-with-glibc2.39"
+  },
+  "source_files": {
+    "res101.mat": {
+      "path": "data/awa2/xlsa17/data/AWA2/res101.mat",
+      "bytes": 310966408,
+      "sha256": "3592d2002a4e2d7ea4ef19069f9c35b8ad86c5e1a43b2d30257eba7018fd6dfa"
+    },
+    "att_splits.mat": {
+      "path": "data/awa2/xlsa17/data/AWA2/att_splits.mat",
+      "bytes": 150298,
+      "sha256": "8bb1527856c797dcd3bac981b25832bca8e7fe04f3fc2ab2322850a74e848df1"
+    },
+    "predicates.txt": {
+      "path": "data/awa2/AwA2-data/Animals_with_Attributes2/predicates.txt",
+      "bytes": 1205,
+      "sha256": "cf0a47c75895f1b4bdabb08273fb142e78f2b5373c246f1a83b37fe970c3c79f"
+    },
+    "cibm_emb.py": {
+      "path": "references/cibm/src/dataset/emb.py",
+      "bytes": 5637,
+      "sha256": "1f1a6416e83983d6b0ccb188c2af6a6a4555eb45bfb9dc9892998396b73a1cb7"
+    }
+  },
+  "prepared_files": {
+    "features.npy": {
+      "path": "features.npy",
+      "bytes": 305741952,
+      "sha256": "672f6e44961cb76b26022f8407e939fa73ead5ef6a69cb12a59c23737351f2cc"
+    },
+    "labels.npy": {
+      "path": "labels.npy",
+      "bytes": 298704,
+      "sha256": "1be77138ca7af5b839db72cf42f9df1eb2293f214880bd4c8d64d8b2f128900b"
+    },
+    "class_attributes.npy": {
+      "path": "class_attributes.npy",
+      "bytes": 4378,
+      "sha256": "f172e2167997984f86bd233284a4377156af5d03811f6990764fe435bd930c6b"
+    },
+    "concept_indices.npy": {
+      "path": "concept_indices.npy",
+      "bytes": 488,
+      "sha256": "9be923c3ee79c995c90a652f6cebc2ea905179a6d3705c04c6bf2a20c2c67f55"
+    },
+    "nuisance_task_indices.npy": {
+      "path": "nuisance_task_indices.npy",
+      "bytes": 448,
+      "sha256": "2449a73a6664e1888416d9476b667df6f41e48802bb270c97fa554c089331158"
+    },
+    "official_order_indices.npy": {
+      "path": "official_order_indices.npy",
+      "bytes": 298704,
+      "sha256": "9c58f72f39a8a328df19d039f467306a9183499a85b45f9cbad783656e8f7082"
+    },
+    "train_indices.npy": {
+      "path": "train_indices.npy",
+      "bytes": 143440,
+      "sha256": "5a97dd96430d84d84e5ae8d838e4358ad7e90172128497ae1c9ca0d95454de37"
+    },
+    "val_indices.npy": {
+      "path": "val_indices.npy",
+      "bytes": 59848,
+      "sha256": "ba24ee7481696148303cc6828581803eab9cc72451d2581e8e2fcebca696e8b2"
+    },
+    "test_indices.npy": {
+      "path": "test_indices.npy",
+      "bytes": 95672,
+      "sha256": "6956002885142634e3ecd8e2786a07e6b8bbdafaf332f07446441a175ad397ab"
+    }
+  }
+}

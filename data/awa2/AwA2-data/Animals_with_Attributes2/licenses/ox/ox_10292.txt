@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : j k mitchell
+Photo URL    : https://www.flickr.com/photos/j-k-mitchell/8610384903/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Apr 1 14:55:20 GMT+0200 2013
+Upload Date  : Mon Apr 1 22:16:01 GMT+0200 2013
+Geotag Info  : Latitude:53.114197, Longitude:-3.840751
+Views        : 115
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Highland Cattle
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Taken in Snowdonia, North Wales
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

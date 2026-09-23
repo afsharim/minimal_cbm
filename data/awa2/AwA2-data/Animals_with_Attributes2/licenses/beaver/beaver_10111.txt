@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : NaturesFan1226
+Photo URL    : https://www.flickr.com/photos/8802700@N03/5483378197/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Apr 28 18:34:32 GMT+0200 2009
+Upload Date  : Mon Feb 28 00:49:36 GMT+0100 2011
+Geotag Info  : Latitude:43.469988, Longitude:-88.613834
+Views        : 377
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+Found it!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Beaver on the Horicon
+
+
++--------+
+|  TAGS  |
++--------+
+beaver "horicon marsh" 

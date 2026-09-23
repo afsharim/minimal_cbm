@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : lorenz.markus97
+Photo URL    : https://www.flickr.com/photos/lorenz_markus/19352146313/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 23 20:50:15 GMT+0200 2015
+Upload Date  : Fri Jul 24 18:31:54 GMT+0200 2015
+Views        : 683
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Field Mouse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+field mouse street animal 

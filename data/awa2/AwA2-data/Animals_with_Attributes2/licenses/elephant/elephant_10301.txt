@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : heschong
+Photo URL    : https://www.flickr.com/photos/heschong/137783246/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 30 11:56:01 GMT+0200 2006
+Upload Date  : Mon May 1 00:34:16 GMT+0200 2006
+Views        : 235
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zoo asheboro 

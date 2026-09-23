@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jans canon
+Photo URL    : https://www.flickr.com/photos/43158397@N02/5027311542/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 12 16:11:56 GMT+0200 2010
+Upload Date  : Sun Sep 26 22:08:00 GMT+0200 2010
+Views        : 516
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel peanut 

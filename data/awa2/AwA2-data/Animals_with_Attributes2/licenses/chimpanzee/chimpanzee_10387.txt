@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ruth and Dave
+Photo URL    : https://www.flickr.com/photos/ruthanddave/53077037/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 16 13:10:09 GMT+0200 2005
+Upload Date  : Sun Oct 16 21:03:11 GMT+0200 2005
+Geotag Info  : Latitude:51.853488, Longitude:-0.546398
+Views        : 413
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Chimps
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+chimps chimpanzees whipsnade zoos 

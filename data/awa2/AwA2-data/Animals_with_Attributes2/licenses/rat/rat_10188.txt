@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ParsnipSoup
+Photo URL    : https://www.flickr.com/photos/blue/3162411669/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 3 00:40:16 GMT+0100 2009
+Upload Date  : Sat Jan 3 14:30:46 GMT+0100 2009
+Views        : 17
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_1351.JPG
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+dewey huey rats 

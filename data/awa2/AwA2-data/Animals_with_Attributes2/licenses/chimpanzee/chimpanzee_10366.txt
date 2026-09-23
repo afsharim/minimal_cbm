@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mark Hadley
+Photo URL    : https://www.flickr.com/photos/markhadley/858450085/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon May 21 14:44:08 GMT+0200 2007
+Upload Date  : Fri Jul 20 17:00:10 GMT+0200 2007
+Geotag Info  : Latitude:53.228331, Longitude:-2.879962
+Views        : 1,009
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+chimpanzees
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"chester zoo" chimpanzee 

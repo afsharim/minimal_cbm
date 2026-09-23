@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Matt Cornwell
+Photo URL    : https://www.flickr.com/photos/corndog_au/4583975760/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Feb 9 11:22:50 GMT+0100 2010
+Upload Date  : Thu May 6 13:54:16 GMT+0200 2010
+Views        : 348
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+At Western plains Zoo, Dubbo NSW
+
+
++--------+
+|  TAGS  |
++--------+
+dubbo "western plains zoo" zoo giraffe 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Niniel
+Photo URL    : https://www.flickr.com/photos/nini/22306357/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jan 6 15:50:05 GMT+0100 2005
+Upload Date  : Wed Jun 29 07:09:33 GMT+0200 2005
+Views        : 61
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+hehe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+he was sooo little...
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

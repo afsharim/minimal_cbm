@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bjarkis
+Photo URL    : https://www.flickr.com/photos/bjarkis/3863494118/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 21 18:54:48 GMT+0200 2009
+Upload Date  : Fri Aug 28 00:47:53 GMT+0200 2009
+Geotag Info  : Latitude:65.739233, Longitude:-17.973804
+Views        : 5,239
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+White sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Sheep Vaðlaheiði 

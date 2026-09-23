@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : castegere
+Photo URL    : https://www.flickr.com/photos/39248388@N00/1971645003/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 11 13:48:45 GMT+0100 2007
+Upload Date  : Sun Nov 11 22:48:45 GMT+0100 2007
+Views        : 86
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Zürich zoo tiger,
+
+
++--------+
+|  TAGS  |
++--------+
+Tiger zoo Zurich Zürich 

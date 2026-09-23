@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : luishca
+Photo URL    : https://www.flickr.com/photos/luishca/202142855/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 24 12:11:13 GMT+0200 2006
+Upload Date  : Sun Jul 30 23:14:45 GMT+0200 2006
+Geotag Info  : Latitude:-22.219350, Longitude:-54.833450
+Views        : 195
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Persian chat
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

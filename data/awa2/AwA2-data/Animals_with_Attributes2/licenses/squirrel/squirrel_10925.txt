@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : amslerPIX
+Photo URL    : https://www.flickr.com/photos/amslerpix/8206524871/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Nov 21 16:03:16 GMT+0100 2012
+Upload Date  : Thu Nov 22 02:08:59 GMT+0100 2012
+Geotag Info  : Latitude:38.286920, Longitude:-85.558691
+Views        : 136
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Amsler park Kentucky autumn squirrel 

@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : User:Simm
+Photo URL    : https://commons.wikimedia.org/wiki/File:Medved_mzoo.jpg
+License      : public domain
+Date         : 2006

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : kiskiack
+Photo URL    : https://www.flickr.com/photos/kiskiack/3984551573/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Oct 5 14:46:12 GMT+0200 2009
+Upload Date  : Mon Oct 5 23:46:12 GMT+0200 2009
+Views        : 18
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

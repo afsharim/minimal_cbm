@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ben.hollis
+Photo URL    : https://www.flickr.com/photos/dalangalma/159546051/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon May 29 13:19:16 GMT+0200 2006
+Upload Date  : Sat Jun 3 23:46:19 GMT+0200 2006
+Geotag Info  : Latitude:47.667475, Longitude:-122.349141
+Views        : 338
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hippopotami
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zoo "woodland park zoo" seattle animals hippopotamus 

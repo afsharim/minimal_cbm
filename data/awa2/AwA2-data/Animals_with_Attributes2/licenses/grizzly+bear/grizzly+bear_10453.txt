@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : roy.luck
+Photo URL    : https://www.flickr.com/photos/royluck/19416040213/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 11 09:25:49 GMT+0200 2015
+Upload Date  : Mon Jul 27 01:26:14 GMT+0200 2015
+Geotag Info  : Latitude:44.655970, Longitude:-111.098020
+Views        : 303
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Grizzly Bear
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Grizzly &amp; Wolf Discovery Center, West Yellowstone MT.  The Grizzly &amp; Wolf center houses bears and wolves, and some raptors, that are orphaned or created a nuisance earlier in life by frequenting inhabited areas looking for garbage.  These bears would likely not be able to survive in the wild.  The bears are from Alaska, Montana and Wyoming.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

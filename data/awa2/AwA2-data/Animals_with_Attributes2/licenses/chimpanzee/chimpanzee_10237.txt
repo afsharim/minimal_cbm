@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : How I See Life
+Photo URL    : https://www.flickr.com/photos/mrsbluff/2912605373/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 27 09:37:18 GMT+0200 2008
+Upload Date  : Sun Oct 5 00:36:44 GMT+0200 2008
+Geotag Info  : Latitude:38.539421, Longitude:-121.503971
+Views        : 558
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Chimpanzee
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Sacramento Zoo" chimpanzee 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : AmitLev
+Photo URL    : https://www.flickr.com/photos/amitlev/85649468/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 1 00:00:00 GMT+0200 2005
+Upload Date  : Thu Jan 12 16:46:10 GMT+0100 2006
+Geotag Info  : Latitude:48.845330, Longitude:2.349164
+Views        : 309
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Weasel!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Strange Parisian pets
+
+
++--------+
+|  TAGS  |
++--------+
+paris france pet weasel Mouffetard 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Stiller Beobachter
+Photo URL    : https://www.flickr.com/photos/a-herzog/6815280322/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Mar 20 12:28:38 GMT+0100 2008
+Upload Date  : Wed Mar 7 12:06:56 GMT+0100 2012
+Geotag Info  : Latitude:19.321187, Longitude:-69.490585
+Views        : 713
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Reiter am Strand
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+at the beach of Samana
+
+
++--------+
+|  TAGS  |
++--------+
+franconian Samana DomRep Strand Pferd Reiter beach rider horse "Achim Herzog" 

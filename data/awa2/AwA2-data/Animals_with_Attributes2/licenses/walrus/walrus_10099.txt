@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Aug 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Bob Linsdell
+Photo URL    : https://www.flickr.com/photos/boblinsdell/24725600980/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 18 20:09:38 GMT+0200 2008
+Upload Date  : Sun Feb 14 14:53:53 GMT+0100 2016
+Geotag Info  : Latitude:28.409784, Longitude:-81.462166
+Views        : 138
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+SeaWorld, Orlando (440731)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+SeaWorld, Orlando, Florida, United States
+
+
++--------+
+|  TAGS  |
++--------+
+Animal Florida "Marine Mammal" Orlando People "Sea Lion" SeaWorld "Theme Park" "United States" USA Vacation Walrus Zoo Water 

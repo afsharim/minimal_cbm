@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Dafne Orsini
+Photo URL    : https://www.flickr.com/photos/dafneorsini/6853624331/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 20 10:05:14 GMT+0200 2011
+Upload Date  : Fri Feb 10 23:42:45 GMT+0100 2012
+Geotag Info  : Latitude:57.539416, Longitude:-3.669433
+Views        : 74
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+11_Escocia_Highlands_Coo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Escocia 

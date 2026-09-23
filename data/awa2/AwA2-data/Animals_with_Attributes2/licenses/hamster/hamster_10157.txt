@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ninha Morandini
+Photo URL    : https://www.flickr.com/photos/ninha_lalala/2378430956/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 23 21:45:40 GMT+0100 2008
+Upload Date  : Mon Mar 31 22:43:21 GMT+0200 2008
+Geotag Info  : Latitude:-21.169365, Longitude:-47.802200
+Views        : 158
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Come Ferro
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+hamster 

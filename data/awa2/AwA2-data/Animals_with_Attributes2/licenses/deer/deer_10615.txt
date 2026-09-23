@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Alan Light
+Photo URL    : https://www.flickr.com/photos/alan-light/9426425379/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 2 02:06:09 GMT+0200 2013
+Upload Date  : Sat Aug 3 14:31:36 GMT+0200 2013
+Views        : 1,362
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+August 2, 2013
+
+
++--------+
+|  TAGS  |
++--------+
+deer 

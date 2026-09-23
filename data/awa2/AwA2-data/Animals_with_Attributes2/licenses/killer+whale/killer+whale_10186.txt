@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : wburris
+Photo URL    : https://www.flickr.com/photos/billburris/412123523/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri May 1 00:00:00 GMT+0200 1981
+Upload Date  : Tue Mar 6 04:06:39 GMT+0100 2007
+Views        : 3,320
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Orca
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Vancouver Aquarium 1981
+
+
++--------+
+|  TAGS  |
++--------+
+"vancouver aquarium" orca "killer whale" 

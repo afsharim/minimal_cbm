@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : MarkDoliner
+Photo URL    : https://www.flickr.com/photos/markdoliner/3340775904/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 8 15:20:23 GMT+0100 2009
+Upload Date  : Mon Mar 9 06:48:57 GMT+0100 2009
+Geotag Info  : Latitude:37.463788, Longitude:-121.866193
+Views        : 47
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+A Cow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Ed Levin" park cow 

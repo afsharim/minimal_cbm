@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : donjd2
+Photo URL    : https://www.flickr.com/photos/ddebold/8656802937/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 13 14:33:26 GMT+0200 2013
+Upload Date  : Wed Apr 17 12:51:40 GMT+0200 2013
+Views        : 398
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant Seals
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"En Plein Air" "california central coast" "elephant seal" "photo workshop" 

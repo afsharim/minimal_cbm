@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jacksonpe
+Photo URL    : https://www.flickr.com/photos/jacksonpe/200756818/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 28 21:40:37 GMT+0200 2006
+Upload Date  : Sat Jul 29 06:40:37 GMT+0200 2006
+Views        : 99
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger #2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The tigers have a pretty large lot.
+
+
++--------+
+|  TAGS  |
++--------+
+zoo animal tiger 

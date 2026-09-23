@@ -1,0 +1,12 @@
++--------------------------------------+
+|       Pixabay Photo Metadata         |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Karen Arnold
+Photo URL    : http://www.publicdomainpictures.net/view-image.php?image=53887&picture=hund-der-fussball-spielt
+License      : Public Domain (https://creativecommons.org/publicdomain/zero/1.0/)

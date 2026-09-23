@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : nullboy
+Photo URL    : https://www.flickr.com/photos/nullboy/106582426/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Mar 1 18:17:52 GMT+0100 2006
+Upload Date  : Thu Mar 2 03:17:52 GMT+0100 2006
+Views        : 112
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Whatcha doing there little buddy?  Whoa, nevermind.
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Dawn Ashley
+Photo URL    : https://www.flickr.com/photos/dawnashley/2916616512/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 4 14:01:08 GMT+0200 2008
+Upload Date  : Sun Oct 5 23:40:46 GMT+0200 2008
+Geotag Info  : Latitude:28.365422, Longitude:-81.562500
+Views        : 860
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+giraffe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Taken at Animal Kingdom on the safari ride
+
+
++--------+
+|  TAGS  |
++--------+
+giraffe bokeh green contrast macro "animal kingdom" "disney world" 

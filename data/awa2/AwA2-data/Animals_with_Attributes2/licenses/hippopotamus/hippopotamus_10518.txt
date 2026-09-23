@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mitchell3417
+Photo URL    : https://www.flickr.com/photos/mitchell3417/2640187362/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 2 18:51:56 GMT+0200 2008
+Upload Date  : Sat Jul 5 22:13:02 GMT+0200 2008
+Views        : 442
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Look Mom, a Hippo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Hippo 

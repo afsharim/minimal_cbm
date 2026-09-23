@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ChuckThePhotographer
+Photo URL    : https://www.flickr.com/photos/chuckthephotographer/4766374433/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 3 06:16:55 GMT+0200 2010
+Upload Date  : Tue Jul 6 07:04:32 GMT+0200 2010
+Geotag Info  : Latitude:35.303358, Longitude:-120.924625
+Views        : 664
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+Blue Whale at the surface
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The only picture I got of the actual beast!
+
+
++--------+
+|  TAGS  |
++--------+
+blue whale montano de oro 

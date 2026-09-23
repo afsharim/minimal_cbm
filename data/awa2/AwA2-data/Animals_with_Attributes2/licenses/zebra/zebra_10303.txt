@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : The_Gut
+Photo URL    : https://www.flickr.com/photos/frogbelly/340931764/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 29 09:35:24 GMT+0200 2006
+Upload Date  : Mon Jan 1 18:13:15 GMT+0100 2007
+Geotag Info  : Latitude:36.002954, Longitude:-83.880690
+Views        : 1,603
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Knoxville zoo - zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This is a trip that me and my sister took to the Knoxville TN Zoo back in April of 2006.
+
+
++--------+
+|  TAGS  |
++--------+
+Animals knoxville zoo TN zebra 

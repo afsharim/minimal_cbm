@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : thetamar
+Photo URL    : https://www.flickr.com/photos/7193008@N02/452383700/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Apr 9 15:18:42 GMT+0200 2007
+Upload Date  : Mon Apr 9 16:18:42 GMT+0200 2007
+Views        : 1,209
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+moose
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+moose 

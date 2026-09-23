@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Chocolate Mudshake
+Photo URL    : https://www.flickr.com/photos/78934783@N05/7790731094/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 15 11:32:30 GMT+0200 2012
+Upload Date  : Wed Aug 15 22:40:01 GMT+0200 2012
+Views        : 22
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Dublin
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Howth Seal
+
+
++--------+
+|  TAGS  |
++--------+
+Dublin 

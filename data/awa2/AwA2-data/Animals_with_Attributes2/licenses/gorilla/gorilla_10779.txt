@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : rplessl
+Photo URL    : https://www.flickr.com/photos/rplessl/5762906850/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 30 11:25:47 GMT+0200 2011
+Upload Date  : Thu May 26 22:10:28 GMT+0200 2011
+Views        : 54
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+The Gorilla Show
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

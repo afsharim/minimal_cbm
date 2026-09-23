@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : twicepix
+Photo URL    : https://www.flickr.com/photos/twicepix/8038781553/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 16 13:40:08 GMT+0200 2012
+Upload Date  : Sun Sep 30 12:44:29 GMT+0200 2012
+Geotag Info  : Latitude:46.748172, Longitude:8.088047
+Views        : 1,107
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+schwein
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+säuli
+
+
++--------+
+|  TAGS  |
++--------+
+ballenberg brienz schweiz switzerland suisse "berner oberland" pig "tier animal" schwein grunz ferkel 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : USDA NRCS South Dakota
+Photo URL    : https://www.flickr.com/photos/nrcs_south_dakota/6282893825/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jan 6 15:00:26 GMT+0100 2011
+Upload Date  : Wed Oct 26 16:56:54 GMT+0200 2011
+Geotag Info  : Latitude:45.048118, Longitude:-101.603141
+Views        : 378
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Mule Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Photo by USDA NRCS SD Ramon Birkland, Soil Conservation Technician, Dupree, SD.
+
+
++--------+
+|  TAGS  |
++--------+
+NRCS Wildlife South Dakota Conservation 

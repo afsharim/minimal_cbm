@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : B4bees .(2m views)
+Photo URL    : https://www.flickr.com/photos/brizo_the_scot/3552016641/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 21 08:42:44 GMT+0200 2009
+Upload Date  : Fri May 22 00:40:22 GMT+0200 2009
+Geotag Info  : Latitude:56.278350, Longitude:-3.398639
+Views        : 2,239
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+Cosy
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A cuddly pussy leaning on a sunlit Glenfarg window.
+
+
++--------+
+|  TAGS  |
++--------+
+cat "persian cat" cosy dozing windowsill "net curtains" Glenfarg Perthshire "Brian Forbes" "Courier Country" "Olympus E510" 

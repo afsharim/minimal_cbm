@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : eugenijusr
+Photo URL    : https://www.flickr.com/photos/eugenijusr/2686929510/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 13 11:59:22 GMT+0200 2008
+Upload Date  : Sun Jul 20 23:27:35 GMT+0200 2008
+Geotag Info  : Latitude:54.649902, Longitude:24.933643
+Views        : 3,049
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Girl and a horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horse 

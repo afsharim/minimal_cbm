@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/7156075678/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 31 13:52:43 GMT+0200 2012
+Upload Date  : Tue May 8 06:39:46 GMT+0200 2012
+Geotag Info  : Latitude:48.806298, Longitude:9.205083
+Views        : 6,430
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Portrait of a bonobo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Actually this is my first bonobo picture here on Flickr, so I'm happy even if the quality isn't super...
+
+
++--------+
+|  TAGS  |
++--------+
+bonobo chimp chimpanzee ape primate monkey portrait face expression wilhelma zoo stuttgart germany nikon d700 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : phalinn
+Photo URL    : https://www.flickr.com/photos/phalinn/954455110/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 29 17:03:47 GMT+0200 2007
+Upload Date  : Mon Jul 30 20:57:12 GMT+0200 2007
+Geotag Info  : Latitude:3.207832, Longitude:101.756486
+Views        : 148
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Zoo Negara
+
+
++--------+
+|  TAGS  |
++--------+
+"zoo negara" malaysia zoo "kuala lumpur" kl asia animals wildlife birds mammals photography phalinn syahmi 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mertie.
+Photo URL    : https://www.flickr.com/photos/100780486@N02/22170795141/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 5 12:46:21 GMT+0200 2015
+Upload Date  : Wed Oct 14 13:19:46 GMT+0200 2015
+Geotag Info  : Latitude:-33.843490, Longitude:151.241269
+Views        : 79
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Taronga Zoo - Seal
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Zoo Taronga Seal "Taronga Zoo" 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : christopher.d.heald
+Photo URL    : https://www.flickr.com/photos/husker_alum/3026381926/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 21 20:07:32 GMT+0200 2006
+Upload Date  : Thu Nov 13 01:38:34 GMT+0100 2008
+Views        : 237
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+D200 Deer animals 

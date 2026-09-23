@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : aimee.craze
+Photo URL    : https://www.flickr.com/photos/43885388@N00/492172679/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed May 9 16:40:39 GMT+0200 2007
+Upload Date  : Thu May 10 07:59:13 GMT+0200 2007
+Geotag Info  : Latitude:32.836129, Longitude:-117.281241
+Views        : 60
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+seal beach2
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+SAN DIEGO animals vacation 

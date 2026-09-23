@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Joe Shlabotnik
+Photo URL    : https://www.flickr.com/photos/joeshlabotnik/2840462902/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 30 15:29:38 GMT+0200 2008
+Upload Date  : Mon Sep 8 19:07:21 GMT+0200 2008
+Geotag Info  : Latitude:43.074648, Longitude:-76.218134
+Views        : 3,788
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A horse all decked out at the New York State Fair.
+
+
++--------+
+|  TAGS  |
++--------+
+horses "state fair" "New York" 2008 "August 2008" faved 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jetalone
+Photo URL    : https://www.flickr.com/photos/jetalone/14944400332/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 17 12:43:27 GMT+0200 2014
+Upload Date  : Sun Aug 17 14:20:11 GMT+0200 2014
+Views        : 928
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+市川市動植物園
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+流しカワウソ
+
+
++--------+
+|  TAGS  |
++--------+
+zoo otter 

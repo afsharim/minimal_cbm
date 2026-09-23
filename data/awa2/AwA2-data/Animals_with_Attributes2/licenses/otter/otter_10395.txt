@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : lovingyourwork.com
+Photo URL    : https://www.flickr.com/photos/84744710@N06/8938451274/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 1 15:52:51 GMT+0200 2013
+Upload Date  : Mon Jun 3 18:57:34 GMT+0200 2013
+Geotag Info  : Latitude:52.651058, Longitude:1.636330
+Views        : 3,043
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+I've been to the zoo...
+Thrigby Hall
+
+
++--------+
+|  TAGS  |
++--------+
+otter 

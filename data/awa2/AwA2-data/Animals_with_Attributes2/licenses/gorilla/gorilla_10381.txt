@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Roger's Eye <(r)>
+Photo URL    : https://www.flickr.com/photos/rogersview/3828268896/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 16 12:23:01 GMT+0200 2009
+Upload Date  : Mon Aug 17 01:13:27 GMT+0200 2009
+Geotag Info  : Latitude:43.818419, Longitude:-79.184067
+Views        : 933
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Gorilla
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Zoo gorilla 

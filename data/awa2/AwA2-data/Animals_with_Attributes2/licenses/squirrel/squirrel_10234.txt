@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : quinet
+Photo URL    : https://www.flickr.com/photos/quinet/44235091/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 17 13:57:16 GMT+0200 2005
+Upload Date  : Sun Sep 18 09:12:16 GMT+0200 2005
+Views        : 693
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Grey Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A grey squirrel in a park in Vancouver, British Columbia
+
+
++--------+
+|  TAGS  |
++--------+
+grey squirrel wildlife urban wild animal 

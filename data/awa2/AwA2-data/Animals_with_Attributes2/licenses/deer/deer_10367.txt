@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : GraceFamily
+Photo URL    : https://www.flickr.com/photos/gracefamily/2682720696/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 15 17:40:37 GMT+0200 2008
+Upload Date  : Sat Jul 19 17:24:43 GMT+0200 2008
+Geotag Info  : Latitude:37.745200, Longitude:-119.589443
+Views        : 182
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Grace Family Vacation in Yosemite July 2008
+
+
++--------+
+|  TAGS  |
++--------+
+Grace Family Vacation Yosemite July 2008 

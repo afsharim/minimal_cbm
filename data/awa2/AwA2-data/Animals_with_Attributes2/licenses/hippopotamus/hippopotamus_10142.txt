@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : berniedup
+Photo URL    : https://www.flickr.com/photos/berniedup/16505815340/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jan 19 06:12:13 GMT+0100 2015
+Upload Date  : Mon Mar 2 12:27:10 GMT+0100 2015
+Geotag Info  : Latitude:-25.367139, Longitude:31.868762
+Views        : 952
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hippo (Hippopotamus amphibius)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Hippo Pools, S27 Road West of Crocodile Bridge, Kruger NP, SOUTH AFRICA
+
+
++--------+
+|  TAGS  |
++--------+
+"Crocodile Bridge" Hippo "Hippo Pools" "Hippopotamus amphibius" Kruger "South Africa" "taxonomy:binomial=Hippopotamus amphibius" 

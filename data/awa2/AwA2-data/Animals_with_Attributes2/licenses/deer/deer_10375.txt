@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : dbaron
+Photo URL    : https://www.flickr.com/photos/dbaron/2771906228/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 14 19:01:34 GMT+0200 2008
+Upload Date  : Sun Aug 17 20:38:22 GMT+0200 2008
+Geotag Info  : Latitude:40.039700, Longitude:-75.461200
+Views        : 6,598
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A deer fawn.  (dsc07813)
+
+
++--------+
+|  TAGS  |
++--------+
+USA Pennsylvania Berwyn deer "White-tailed deer" Odocoileus "Odocoileus virginianus" "O. virginianus" geotagged geo:lat=40.0397 geo:lon=-75.4612 

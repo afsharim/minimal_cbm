@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : linda_lund
+Photo URL    : https://www.flickr.com/photos/linda_lund/2965427154/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 9 12:20:28 GMT+0200 2008
+Upload Date  : Wed Oct 22 22:55:11 GMT+0200 2008
+Views        : 31
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger, Kolmården
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Tiger 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Simon Harriyott
+Photo URL    : https://www.flickr.com/photos/harriyott/5221498083/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Nov 9 17:14:58 GMT+0100 2010
+Upload Date  : Tue Nov 30 22:47:06 GMT+0100 2010
+Views        : 40
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra and Child
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

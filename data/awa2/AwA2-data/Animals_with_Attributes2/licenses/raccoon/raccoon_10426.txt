@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : woofiegrrl
+Photo URL    : https://www.flickr.com/photos/meredith/196716428/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 23 19:49:36 GMT+0200 2006
+Upload Date  : Mon Jul 24 04:49:36 GMT+0200 2006
+Geotag Info  : Latitude:38.914444, Longitude:-77.251739
+Views        : 135
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Scared
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+raccoon 

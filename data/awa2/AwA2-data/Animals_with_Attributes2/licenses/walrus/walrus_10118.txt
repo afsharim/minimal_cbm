@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Aug 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : rwoan
+Photo URL    : https://www.flickr.com/photos/rwoan/28239143800/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 9 15:45:08 GMT+0200 2016
+Upload Date  : Sun Jul 24 22:44:23 GMT+0200 2016
+Geotag Info  : Latitude:80.747458, Longitude:11.465180
+Views        : 4
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Walrus
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Janitors
+Photo URL    : https://www.flickr.com/photos/janitors/7042215329/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 14 16:17:00 GMT+0200 2011
+Upload Date  : Tue Apr 3 17:36:58 GMT+0200 2012
+Geotag Info  : Latitude:53.688667, Longitude:-2.210667
+Views        : 19
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

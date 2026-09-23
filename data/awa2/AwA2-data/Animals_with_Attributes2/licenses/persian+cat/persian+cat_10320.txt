@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : vmiramontes
+Photo URL    : https://www.flickr.com/photos/vmiramontes/3158291911/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Dec 31 23:20:23 GMT+0100 2009
+Upload Date  : Fri Jan 2 07:15:32 GMT+0100 2009
+Views        : 116
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Kitty 123108
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+kitty cat persian-himalayan 

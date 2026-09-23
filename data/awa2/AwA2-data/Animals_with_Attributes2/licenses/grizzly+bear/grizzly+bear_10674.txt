@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : NTNU, Faculty of Natural Sciences and Technology
+Photo URL    : https://www.flickr.com/photos/92416586@N05/22215349309/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Oct 22 23:05:47 GMT+0200 2015
+Upload Date  : Fri Oct 23 08:05:07 GMT+0200 2015
+Views        : 96
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+The brown bear (Ursus arctos) Brunbjørn
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Photo by Per Harald Olsen/NTNU
+
+
++--------+
+|  TAGS  |
++--------+
+The brown bear (Ursus arctos) Brunbjørn ntnu biology 

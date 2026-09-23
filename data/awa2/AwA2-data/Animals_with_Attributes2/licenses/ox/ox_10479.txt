@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jodage
+Photo URL    : https://www.flickr.com/photos/buchenmann/19095141045/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jun 23 11:42:48 GMT+0200 2015
+Upload Date  : Tue Jun 23 22:40:18 GMT+0200 2015
+Views        : 548
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Muh !
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+OLYMPUS DIGITAL CAMERA
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

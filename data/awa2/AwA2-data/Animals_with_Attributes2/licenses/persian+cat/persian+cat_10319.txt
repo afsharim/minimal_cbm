@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Joanna Bourne
+Photo URL    : https://www.flickr.com/photos/66992990@N00/2408211709/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Mar 15 13:31:25 GMT+0100 2006
+Upload Date  : Sun Apr 13 02:00:56 GMT+0200 2008
+Views        : 1,596
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+kitten in front of the window
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+kitten in front of the window sunlight.  Himalayan
+
+
++--------+
+|  TAGS  |
++--------+
+animal cat pet "persian cat" kitten front window sunlight. Himalayan 

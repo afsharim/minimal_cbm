@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Gunner111
+Photo URL    : https://www.flickr.com/photos/moto101/6017228019/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 4 19:33:31 GMT+0200 2010
+Upload Date  : Sun Aug 7 14:18:31 GMT+0200 2011
+Views        : 780
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Roe Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Taken in Twineham, West Sussex.
+
+
++--------+
+|  TAGS  |
++--------+
+"Roe Deer" Twineham 

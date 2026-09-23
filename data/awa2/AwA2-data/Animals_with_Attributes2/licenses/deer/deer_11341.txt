@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Smudge 9000
+Photo URL    : https://www.flickr.com/photos/smudge9000/2206599149/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 20 11:25:21 GMT+0100 2008
+Upload Date  : Sun Jan 20 21:30:16 GMT+0100 2008
+Geotag Info  : Latitude:51.435336, Longitude:-0.268049
+Views        : 1,136
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+Young Fallow Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Richmond Park, London.
+
+
++--------+
+|  TAGS  |
++--------+
+"Richmond Park" Deer "Red Deer" 

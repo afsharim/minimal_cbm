@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : chadh
+Photo URL    : https://www.flickr.com/photos/chadh-flickr/1450876503/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Sep 24 11:50:33 GMT+0200 2007
+Upload Date  : Fri Sep 28 08:21:04 GMT+0200 2007
+Geotag Info  : Latitude:32.735505, Longitude:-117.149083
+Views        : 137
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"San Diego Zoo" 

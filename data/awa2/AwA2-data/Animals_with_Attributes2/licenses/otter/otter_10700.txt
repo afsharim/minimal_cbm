@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Peter G Trimming
+Photo URL    : https://www.flickr.com/photos/peter-trimming/8959474198/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jun 4 14:24:26 GMT+0200 2013
+Upload Date  : Wed Jun 5 15:32:51 GMT+0200 2013
+Geotag Info  : Latitude:52.413335, Longitude:0.746072
+Views        : 409
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Swimming
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+In the clear water of the Little Ouse, the entire otter, from his paws, to the tip of his tail, can be seen.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

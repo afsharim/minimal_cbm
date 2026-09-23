@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jim, the Photographer
+Photo URL    : https://www.flickr.com/photos/jcapaldi/5401714814/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 30 12:19:12 GMT+0100 2011
+Upload Date  : Sun Jan 30 18:34:07 GMT+0100 2011
+Geotag Info  : Latitude:39.922363, Longitude:-75.337049
+Views        : 1,962
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Aloysious, the Hamster
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+hamster 

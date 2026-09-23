@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Sparkly Kate
+Photo URL    : https://www.flickr.com/photos/sparklykate/5921695952/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 7 13:57:05 GMT+0200 2011
+Upload Date  : Sun Jul 10 12:22:43 GMT+0200 2011
+Geotag Info  : Latitude:50.887062, Longitude:-1.502337
+Views        : 1,406
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Pig
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+longdown activity farm pig 

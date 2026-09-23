@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : eXtensionHorses
+Photo URL    : https://www.flickr.com/photos/64081615@N06/5841981725/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue May 24 10:01:32 GMT+0200 2005
+Upload Date  : Fri Jun 17 16:21:34 GMT+0200 2011
+Views        : 1,073
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Mare_with_two-foals
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Mare with foals in pasture.
+
+
++--------+
+|  TAGS  |
++--------+
+horse eXtensionHorses foal 

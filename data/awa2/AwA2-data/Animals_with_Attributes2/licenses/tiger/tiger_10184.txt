@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sumeet.moghe
+Photo URL    : https://www.flickr.com/photos/ciphertux/5217603350/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Nov 26 16:14:27 GMT+0100 2010
+Upload Date  : Mon Nov 29 11:19:00 GMT+0100 2010
+Views        : 178
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Raarh....
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Pench and Kanha Pictures Pench and Kanha Pictures
+
+
++--------+
+|  TAGS  |
++--------+
+"taxonomy:binomial=Panthera tigris" 

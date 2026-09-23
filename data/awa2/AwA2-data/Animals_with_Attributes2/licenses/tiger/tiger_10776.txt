@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : navarvel
+Photo URL    : https://www.flickr.com/photos/131231326@N04/16403587973/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 11 10:14:46 GMT+0200 2011
+Upload Date  : Fri Apr 3 23:46:11 GMT+0200 2015
+Geotag Info  : Latitude:41.921383, Longitude:-87.633272
+Views        : 110
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+<i>Panthera tigris</i>
+Lincoln Park Zoo, Lincoln Park, Cook County, Illinois
+July 11, 2011
+
+
++--------+
+|  TAGS  |
++--------+
+Mammalia Carnivora Felidae Panthera "Panthera tigris" Tiger Illinois "Cook County" Chicago "Lincoln Park Zoo" 

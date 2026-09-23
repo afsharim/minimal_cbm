@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Peter Black2007
+Photo URL    : https://www.flickr.com/photos/peterblack2007/9998199736/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 29 05:43:01 GMT+0200 2013
+Upload Date  : Sun Sep 29 14:43:01 GMT+0200 2013
+Geotag Info  : Latitude:52.696597, Longitude:-1.199475
+Views        : 47
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer me
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"instagram app" square "square format" iphoneography uploaded:by=instagram "X-Pro II" foursquare:venue=503d183be4b00777f08631e4 

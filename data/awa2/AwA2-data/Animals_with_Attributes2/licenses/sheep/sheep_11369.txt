@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bert_m_b
+Photo URL    : https://www.flickr.com/photos/bert_m_b/2397699256/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Apr 7 18:18:25 GMT+0200 2008
+Upload Date  : Tue Apr 8 03:59:34 GMT+0200 2008
+Views        : 913
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Wee Sheep (Peekaboo)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+lamb sheep 

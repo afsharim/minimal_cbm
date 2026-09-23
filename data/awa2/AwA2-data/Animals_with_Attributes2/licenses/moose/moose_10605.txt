@@ -1,0 +1,18 @@
++--------------------------------------+
+|       Pixabay Photo Metadata         |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Unsplash
+Photo URL    : https://pixabay.com/en/moose-water-forest-wet-nature-1209665/
+License      : CC0 Public Domain (https://creativecommons.org/publicdomain/zero/1.0/deed.en)
+Uploaded     : 23 days ago
+
++--------+
+|  TAGS  |
++--------+
+Moose, Water, Forest, Wet, Nature, Wild, Wildlife

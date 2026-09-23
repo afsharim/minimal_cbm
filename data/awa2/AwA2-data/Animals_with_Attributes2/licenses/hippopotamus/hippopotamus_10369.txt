@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : addedentry
+Photo URL    : https://www.flickr.com/photos/addedentry/2970218980/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Sep 24 13:31:43 GMT+0200 2008
+Upload Date  : Fri Oct 24 22:05:59 GMT+0200 2008
+Geotag Info  : Latitude:52.509210, Longitude:13.336404
+Views        : 99
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hippopotamus
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+And another hippopotamus.
+
+
++--------+
+|  TAGS  |
++--------+
+hippos "Berlin Zoo" Berlin Germany 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : a_marga
+Photo URL    : https://www.flickr.com/photos/amarga/8730250238/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 11 17:06:26 GMT+0200 2013
+Upload Date  : Sun May 12 01:16:49 GMT+0200 2013
+Geotag Info  : Latitude:40.409019, Longitude:-3.763074
+Views        : 331
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+La jirafa saludando
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+jirafa giraffe zoo aquarium madrid "casa de campo" animales animals 

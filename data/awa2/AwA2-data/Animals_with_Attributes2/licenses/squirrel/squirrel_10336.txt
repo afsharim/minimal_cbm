@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : RudeNess
+Photo URL    : https://www.flickr.com/photos/86664903@N00/4930524000/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 16 17:36:04 GMT+0200 2010
+Upload Date  : Thu Aug 26 23:20:34 GMT+0200 2010
+Views        : 15
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_5726
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Squirrel 

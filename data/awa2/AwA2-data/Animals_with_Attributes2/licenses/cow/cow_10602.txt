@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ralpe
+Photo URL    : https://www.flickr.com/photos/ralpe/5048540049/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 3 08:51:15 GMT+0200 2010
+Upload Date  : Mon Oct 4 01:09:06 GMT+0200 2010
+Geotag Info  : Latitude:51.386244, Longitude:6.898512
+Views        : 128
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cows
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Ruhr cow river 

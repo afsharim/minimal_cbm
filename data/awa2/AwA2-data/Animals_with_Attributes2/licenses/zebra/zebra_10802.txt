@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : James Mostert
+Photo URL    : https://www.flickr.com/photos/djeems/4451569736/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Mar 15 07:38:07 GMT+0100 2010
+Upload Date  : Sun Mar 21 19:21:09 GMT+0100 2010
+Geotag Info  : Latitude:-23.915470, Longitude:31.470539
+Views        : 540
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+animal zebra 

@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : nzgabriel
+Photo URL    : https://www.flickr.com/photos/nzgabriel/7422777850/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 3 14:47:42 GMT+0200 2012
+Upload Date  : Sat Jun 23 02:19:27 GMT+0200 2012
+Views        : 974
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A tiger at Orana Wildlife Park, Christchurch, New Zealand.
+
+This tiger was pacing around the edge of it's enclosure trying to get to another area with another tiger.
+
+
++--------+
+|  TAGS  |
++--------+
+tiger enclosure orana wildlife oranawildlifepark christchurch newzealand 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Lutrus
+Photo URL    : https://www.flickr.com/photos/lutrus/2391766519/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 6 14:24:22 GMT+0200 2008
+Upload Date  : Sun Apr 6 15:26:36 GMT+0200 2008
+Views        : 121
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Pigs from Germany
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Postcard DE-94392
+
+
++--------+
+|  TAGS  |
++--------+
+Postcard Postcrossing Pigs 

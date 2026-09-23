@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : boegh
+Photo URL    : https://www.flickr.com/photos/boegh/5676922907/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 8 13:49:48 GMT+0200 2008
+Upload Date  : Sun May 1 23:20:44 GMT+0200 2011
+Views        : 361
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Mooouuuuhhhh.... Mooouuuuhhhh....  Just some happy ol' cows on a field
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Mooouuuuhhhh....
+Mooouuuuhhhh....
+
+Just some happy ol' cows on a field
+
+
++--------+
+|  TAGS  |
++--------+
+cow 

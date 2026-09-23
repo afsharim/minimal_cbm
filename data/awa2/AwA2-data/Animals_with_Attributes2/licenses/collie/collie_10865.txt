@@ -1,0 +1,12 @@
++--------------------------------------+
+|       Pixabay Photo Metadata         |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Peter Griffin
+Photo URL    : http://www.publicdomainpictures.net/view-image.php?image=19819&picture=holen
+License      : Public Domain (https://creativecommons.org/publicdomain/zero/1.0/)

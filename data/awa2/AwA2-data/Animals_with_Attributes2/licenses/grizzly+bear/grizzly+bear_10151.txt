@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/8278933920/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 25 14:29:13 GMT+0200 2012
+Upload Date  : Sun Dec 16 20:59:33 GMT+0100 2012
+Geotag Info  : Latitude:46.565115, Longitude:6.773371
+Views        : 14,203
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Bear walking towards me
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A bear (I think the male) walking towards me in his enclosure.
+
+
++--------+
+|  TAGS  |
++--------+
+bear brown male walking approaching stone front servion zoo lausanne switzerland nikon d4 

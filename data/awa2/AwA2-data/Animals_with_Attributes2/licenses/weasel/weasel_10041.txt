@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : USFWS Endangered Species
+Photo URL    : https://www.flickr.com/photos/usfwsendsp/5038884377/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Sep 30 12:24:01 GMT+0200 2010
+Upload Date  : Thu Sep 30 18:24:01 GMT+0200 2010
+Views        : 1,067
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Endangered black-footed ferret (Mustela nigripes)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Photo credit: Ryan Hagerty/USFWS
+
+
++--------+
+|  TAGS  |
++--------+
+"Black-footed ferret" ferret mammal endangered wildlife 

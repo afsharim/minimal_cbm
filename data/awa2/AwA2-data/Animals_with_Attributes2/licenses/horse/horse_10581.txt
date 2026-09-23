@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : DrBartje
+Photo URL    : https://www.flickr.com/photos/drbartje/2622125236/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 12 10:48:58 GMT+0200 2008
+Upload Date  : Sun Jun 29 20:53:57 GMT+0200 2008
+Geotag Info  : Latitude:43.539184, Longitude:4.748411
+Views        : 30
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Horse "Marais du Vigueirat" 

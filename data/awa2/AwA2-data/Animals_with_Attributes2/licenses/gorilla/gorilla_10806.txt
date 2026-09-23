@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mike05401
+Photo URL    : https://www.flickr.com/photos/mike05401/5495770559/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 20 17:50:49 GMT+0100 2011
+Upload Date  : Fri Mar 4 06:30:12 GMT+0100 2011
+Views        : 20
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

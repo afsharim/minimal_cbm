@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : formatc1
+Photo URL    : https://www.flickr.com/photos/formatc1/1502848378/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 29 18:41:03 GMT+0200 2007
+Upload Date  : Sun Oct 7 06:30:15 GMT+0200 2007
+Geotag Info  : Latitude:41.400481, Longitude:-75.643529
+Views        : 107
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel in Nay Aug Park
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"nay aug park" squirrel 

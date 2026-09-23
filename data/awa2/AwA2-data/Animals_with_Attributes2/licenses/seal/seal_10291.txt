@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : HarshLight
+Photo URL    : https://www.flickr.com/photos/harshlight/4027669627/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 10 10:40:53 GMT+0200 2009
+Upload Date  : Tue Oct 20 05:13:07 GMT+0200 2009
+Geotag Info  : Latitude:35.612186, Longitude:-121.145303
+Views        : 340
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant Seals
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+As seen along Highway 1 near San Simeon.
+
+
++--------+
+|  TAGS  |
++--------+
+california travel "highway one" "pacific coast highway" "elephant seals" animals 

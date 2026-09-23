@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Damoirs
+Photo URL    : https://www.flickr.com/photos/damoirs/16109785130/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 26 21:05:39 GMT+0200 2015
+Upload Date  : Sat Jan 17 02:59:04 GMT+0100 2015
+Views        : 71
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+The Thinker!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Gorilla at Melbourne Zoo.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

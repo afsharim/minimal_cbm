@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Pau Sabria
+Photo URL    : https://www.flickr.com/photos/kuap/10781328/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Apr 22 22:32:14 GMT+0200 2005
+Upload Date  : Mon Apr 25 05:20:23 GMT+0200 2005
+Views        : 57
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Austin - 40
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Animal curiosissim. Sembla una mescla de mapache amb rata.
+
+
++--------+
+|  TAGS  |
++--------+
+Austin 

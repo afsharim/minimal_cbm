@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mike warren
+Photo URL    : https://www.flickr.com/photos/mikewarren/42459109/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 11 23:07:46 GMT+0200 2005
+Upload Date  : Mon Sep 12 00:07:45 GMT+0200 2005
+Views        : 2,337
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+CRW_0194_RT16 1a
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+bullock
+
+
++--------+
+|  TAGS  |
++--------+
+cow 

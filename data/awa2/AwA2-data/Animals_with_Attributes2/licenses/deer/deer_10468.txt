@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Kurayba
+Photo URL    : https://www.flickr.com/photos/kurt-b/4457154969/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Apr 3 16:23:14 GMT+0200 2006
+Upload Date  : Tue Mar 23 18:54:00 GMT+0100 2010
+Geotag Info  : Latitude:53.548888, Longitude:-113.401565
+Views        : 264
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+North of Tiger Goldstick Park on the refinery side of the fence.
+
+
++--------+
+|  TAGS  |
++--------+
+deer edmonton tiger goldstick park sigma 70-300 dg macro pentax ist DS "Sigma 70-300mm F4-5.6 DG MACRO" 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : philos from Athens
+Photo URL    : https://www.flickr.com/photos/ophilos/12787036143/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 23 17:36:58 GMT+0100 2014
+Upload Date  : Wed Feb 26 07:18:41 GMT+0100 2014
+Views        : 404
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Deers
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+picmonkey:app=editor 

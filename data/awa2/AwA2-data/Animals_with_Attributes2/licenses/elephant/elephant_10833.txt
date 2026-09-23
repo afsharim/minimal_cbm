@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ewen and donabel
+Photo URL    : https://www.flickr.com/photos/donabelandewen/25029181979/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Feb 15 15:20:27 GMT+0100 2016
+Upload Date  : Tue Mar 1 06:36:52 GMT+0100 2016
+Views        : 67
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephants
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Auckland Zoo" Elephant 

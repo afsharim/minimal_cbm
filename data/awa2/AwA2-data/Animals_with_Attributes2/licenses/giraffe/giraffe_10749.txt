@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : CJ Isherwood
+Photo URL    : https://www.flickr.com/photos/isherwoodchris/3414351400/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Mar 26 01:59:38 GMT+0100 2009
+Upload Date  : Sun Apr 5 12:06:30 GMT+0200 2009
+Geotag Info  : Latitude:-36.864102, Longitude:174.570350
+Views        : 437
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe, Awesome animals
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+giraffe giraffes long neck 

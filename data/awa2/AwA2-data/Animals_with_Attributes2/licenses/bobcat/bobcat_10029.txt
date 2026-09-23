@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/7271494070/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 7 15:32:35 GMT+0200 2012
+Upload Date  : Sat May 26 06:41:13 GMT+0200 2012
+Geotag Info  : Latitude:49.244640, Longitude:6.137795
+Views        : 3,917
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Yawning lynx
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+One of the lynxes of the Amnéville zoo yawning. The picture isn't that sharp because the window is bad.
+
+
++--------+
+|  TAGS  |
++--------+
+lynx feline wild cat walking yawning sunny cute amnéville zoo france nikon d700 

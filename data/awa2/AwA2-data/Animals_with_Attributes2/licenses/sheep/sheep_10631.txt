@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : robinbos
+Photo URL    : https://www.flickr.com/photos/robinbos/1489435807/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Oct 5 14:37:10 GMT+0200 2007
+Upload Date  : Fri Oct 5 15:30:16 GMT+0200 2007
+Geotag Info  : Latitude:52.953641, Longitude:5.963172
+Views        : 194
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Schapen in weiland
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Oranjewoud schaap sheep 

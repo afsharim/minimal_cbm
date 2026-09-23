@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : abbynormy
+Photo URL    : https://www.flickr.com/photos/abbynormy/3897366556/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Sep 7 13:55:03 GMT+0200 2009
+Upload Date  : Mon Sep 7 19:55:03 GMT+0200 2009
+Views        : 415
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Disney World" "Animal Kingdom" "Harambe Wildlife Reserve" giraffe 

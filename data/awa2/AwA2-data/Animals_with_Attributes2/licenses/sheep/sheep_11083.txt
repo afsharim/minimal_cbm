@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : DaveBleasdale
+Photo URL    : https://www.flickr.com/photos/sidelong/8711862124/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 5 16:34:30 GMT+0200 2013
+Upload Date  : Sun May 5 22:13:03 GMT+0200 2013
+Views        : 761
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+sheep field grumpy baa grass wool look 

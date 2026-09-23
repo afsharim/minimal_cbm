@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : pcutler
+Photo URL    : https://www.flickr.com/photos/silwenae/2682755595/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 19 13:48:03 GMT+0200 2008
+Upload Date  : Sat Jul 19 23:11:29 GMT+0200 2008
+Views        : 8
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_2275
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Moose.
+
+
++--------+
+|  TAGS  |
++--------+
+zoo 

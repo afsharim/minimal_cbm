@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Michael Zero Mayer
+Photo URL    : https://www.flickr.com/photos/michael_mayer/11320894225/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Nov 26 17:49:45 GMT+0100 2013
+Upload Date  : Wed Dec 11 09:59:29 GMT+0100 2013
+Geotag Info  : Latitude:-33.616134, Longitude:25.818869
+Views        : 175
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra / Addo Elephant Park / South Africa
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

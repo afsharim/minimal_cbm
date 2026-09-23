@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Lazurite
+Photo URL    : https://www.flickr.com/photos/lazurite/4041510463/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Oct 23 11:53:20 GMT+0200 2009
+Upload Date  : Sun Oct 25 09:41:29 GMT+0100 2009
+Geotag Info  : Latitude:38.634520, Longitude:-90.291405
+Views        : 166
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Grizzly
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"St. Louis Zoo" zoo nature wildlife animals "grizzly bear" grizzly "beady eyes" sit stare 

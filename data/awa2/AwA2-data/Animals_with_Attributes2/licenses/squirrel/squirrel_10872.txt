@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tim Green aka atoach
+Photo URL    : https://www.flickr.com/photos/atoach/6074782362/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 5 15:12:26 GMT+0200 2011
+Upload Date  : Wed Aug 24 00:18:22 GMT+0200 2011
+Geotag Info  : Latitude:50.148237, Longitude:-5.050663
+Views        : 956
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : debbilytle
+Photo URL    : https://www.flickr.com/photos/debbiring/934022242/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 28 10:27:09 GMT+0200 2007
+Upload Date  : Sun Jul 29 03:35:21 GMT+0200 2007
+Geotag Info  : Latitude:32.344182, Longitude:-85.020318
+Views        : 41
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Raccoon
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : 24oranges.nl
+Photo URL    : https://www.flickr.com/photos/24oranges/5881716223/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 19 17:17:21 GMT+0200 2011
+Upload Date  : Tue Jun 28 22:16:46 GMT+0200 2011
+Views        : 2,395
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep and goats
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Sheep and goats, Brunssummerheide, Heerlen
+
+
++--------+
+|  TAGS  |
++--------+
+Sheep goats Brunssummerheide Heerlen 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Sam Howzit
+Photo URL    : https://www.flickr.com/photos/aloha75/22228001754/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 1 17:45:05 GMT+0200 2015
+Upload Date  : Sat Nov 7 17:17:55 GMT+0100 2015
+Views        : 517
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Elephant seen on Kilimanjaro Safaris at Disney's Animal Kingdom Theme Park.
+
+
++--------+
+|  TAGS  |
++--------+
+"Disney's Animal Kingdom Theme Park" "Walt Disney World" Florida "Kilimanjaro Safaris" "Harambe Wildlife Preserve" Elephant 

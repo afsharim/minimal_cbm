@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Pinti 1
+Photo URL    : https://www.flickr.com/photos/pinti1/13976157999/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 29 14:46:48 GMT+0100 2014
+Upload Date  : Sun May 11 21:32:50 GMT+0200 2014
+Views        : 682
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cleaning Cow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+cow animal field cleaning 

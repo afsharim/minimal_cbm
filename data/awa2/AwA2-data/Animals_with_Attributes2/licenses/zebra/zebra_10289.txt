@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Schristia
+Photo URL    : https://www.flickr.com/photos/schristia/3041916909/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 18 15:31:06 GMT+0200 2008
+Upload Date  : Wed Nov 19 04:04:31 GMT+0100 2008
+Views        : 107
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_7414
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zebra "Its a Zoo Out There" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Richard Mansfield
+Photo URL    : https://www.flickr.com/photos/richardmansfield/267163438/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 19 10:22:39 GMT+0100 2005
+Upload Date  : Wed Oct 11 21:16:54 GMT+0200 2006
+Geotag Info  : Latitude:50.990741, Longitude:-1.282783
+Views        : 29
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_4962
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+marwell tiger zoo 

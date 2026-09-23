@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : steffens77
+Photo URL    : https://www.flickr.com/photos/steffens77/8662290554/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Apr 18 20:26:38 GMT+0200 2013
+Upload Date  : Fri Apr 19 04:05:00 GMT+0200 2013
+Geotag Info  : Latitude:41.970833, Longitude:-91.712167
+Views        : 747
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Oreo the hamster
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+pet hamster Oreo flickriosapp:filter=NoFilter uploaded:by=flickr_mobile 

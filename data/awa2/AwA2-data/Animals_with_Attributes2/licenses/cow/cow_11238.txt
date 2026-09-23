@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : wonder_j
+Photo URL    : https://www.flickr.com/photos/wonder_j/442367932/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 22 14:08:17 GMT+0200 2004
+Upload Date  : Sun Apr 1 20:55:47 GMT+0200 2007
+Geotag Info  : Latitude:46.177572, Longitude:6.855640
+Views        : 121
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Swiss cow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+switzerland cow 

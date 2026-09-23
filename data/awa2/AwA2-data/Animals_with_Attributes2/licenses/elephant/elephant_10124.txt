@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/15474962745/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 5 17:32:49 GMT+0200 2014
+Upload Date  : Wed Oct 8 06:00:08 GMT+0200 2014
+Geotag Info  : Latitude:49.244640, Longitude:6.137795
+Views        : 7,387
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Close elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+An African elephant of the Amnéville zoo, seen quite close.
+
+
++--------+
+|  TAGS  |
++--------+
+elephant "african elephant" portrait face close tusks amnéville zoo france nikon d4 

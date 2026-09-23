@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Alex_Slaven
+Photo URL    : https://www.flickr.com/photos/alex_slaven/8087239384/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 22 14:18:19 GMT+0200 2012
+Upload Date  : Sun Oct 14 20:48:53 GMT+0200 2012
+Views        : 201
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra Full Shot
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Zebra Edinburgh Zoo 

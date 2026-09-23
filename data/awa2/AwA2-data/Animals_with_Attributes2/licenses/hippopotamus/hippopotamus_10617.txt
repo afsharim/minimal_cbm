@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : aenigmatēs
+Photo URL    : https://www.flickr.com/photos/aenigmates/6088800788/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 27 12:31:33 GMT+0200 2011
+Upload Date  : Sun Aug 28 13:58:07 GMT+0200 2011
+Geotag Info  : Latitude:-33.843624, Longitude:151.240475
+Views        : 181
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Pygmy hippos, Taronga Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+hippopotamus "pygmy hippopotamus" "taronga zoo" zoo "by Mary" 

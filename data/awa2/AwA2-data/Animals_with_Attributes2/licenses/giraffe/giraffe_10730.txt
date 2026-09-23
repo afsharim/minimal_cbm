@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Sam Howzit
+Photo URL    : https://www.flickr.com/photos/aloha75/22432413908/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 1 17:40:22 GMT+0200 2015
+Upload Date  : Sat Nov 7 17:17:54 GMT+0100 2015
+Views        : 481
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Giraffe as seen on Kilimanjaro Safaris at Disney's Animal Kingdom Theme Park.
+
+
++--------+
+|  TAGS  |
++--------+
+"Disney's Animal Kingdom Theme Park" "Walt Disney World" Florida "Kilimanjaro Safaris" "Harambe Wildlife Preserve" Giraffe 

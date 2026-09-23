@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Leandro Martinez
+Photo URL    : https://www.flickr.com/photos/leandromartinez/8035888628/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 23 18:35:50 GMT+0200 2012
+Upload Date  : Sat Sep 29 17:13:11 GMT+0200 2012
+Geotag Info  : Latitude:-35.172132, Longitude:-59.164123
+Views        : 304
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+caballo horse field campo naturaleza 

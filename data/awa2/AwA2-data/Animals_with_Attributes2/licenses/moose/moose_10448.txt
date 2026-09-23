@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : siraf72
+Photo URL    : https://www.flickr.com/photos/siraf72/9570025485/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 22 18:32:05 GMT+0200 2013
+Upload Date  : Thu Aug 22 21:57:12 GMT+0200 2013
+Geotag Info  : Latitude:50.084917, Longitude:8.910663
+Views        : 288
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Moose
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

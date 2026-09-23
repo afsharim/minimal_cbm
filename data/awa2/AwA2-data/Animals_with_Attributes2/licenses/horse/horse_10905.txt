@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Fire Horse Leo
+Photo URL    : https://www.flickr.com/photos/jenniferwilliams/3345190555/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Mar 6 21:34:39 GMT+0100 2009
+Upload Date  : Wed Mar 11 04:00:04 GMT+0100 2009
+Views        : 19
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horses
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

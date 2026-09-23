@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ben B Miller
+Photo URL    : https://www.flickr.com/photos/bbmiller/454839853/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jun 27 17:17:59 GMT+0200 2002
+Upload Date  : Wed Apr 11 04:53:17 GMT+0200 2007
+Geotag Info  : Latitude:45.085333, Longitude:-109.350000
+Views        : 60
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Mooooooose!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+moose motorcycle road trip montana 

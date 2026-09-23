@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : VisitLakeland
+Photo URL    : https://www.flickr.com/photos/visitlakeland/7243042178/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon May 21 11:23:08 GMT+0200 2012
+Upload Date  : Mon May 21 19:41:18 GMT+0200 2012
+Geotag Info  : Latitude:62.642783, Longitude:26.843075
+Views        : 1,089
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horse jumping
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horse jump jumping 

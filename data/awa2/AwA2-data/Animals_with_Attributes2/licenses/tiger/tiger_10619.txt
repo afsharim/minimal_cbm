@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Benoit Dupont
+Photo URL    : https://www.flickr.com/photos/benoitdupont/5354301690/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Dec 22 17:34:13 GMT+0100 2010
+Upload Date  : Fri Jan 14 11:04:35 GMT+0100 2011
+Views        : 401
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+2010 london "natural history museum" tiger winter 

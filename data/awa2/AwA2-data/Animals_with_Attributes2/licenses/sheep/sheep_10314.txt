@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Bods
+Photo URL    : https://www.flickr.com/photos/bods/3722042252/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 24 10:32:30 GMT+0200 2009
+Upload Date  : Wed Jul 15 00:25:42 GMT+0200 2009
+Views        : 612
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Highland sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Still the sheep did seem to know the value of impressive posing.
+
+
++--------+
+|  TAGS  |
++--------+
+"West Highland Way" "West Highland Way Day 4" "Inverarnan to Tyndrum walk" walk sheep "Glen Falloch" 

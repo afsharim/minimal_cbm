@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : gadgetdude
+Photo URL    : https://www.flickr.com/photos/gadgetdude/6040593463/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 14 01:42:16 GMT+0200 2011
+Upload Date  : Sun Aug 14 10:42:16 GMT+0200 2011
+Views        : 222
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zoo elepant 

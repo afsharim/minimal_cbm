@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : igb
+Photo URL    : https://www.flickr.com/photos/igb/5720634588/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 14 11:54:47 GMT+0200 2011
+Upload Date  : Sun May 15 02:42:14 GMT+0200 2011
+Geotag Info  : Latitude:37.734340, Longitude:-122.504510
+Views        : 55
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zoo sf sanfrancisco san francisco sfzoo otter 

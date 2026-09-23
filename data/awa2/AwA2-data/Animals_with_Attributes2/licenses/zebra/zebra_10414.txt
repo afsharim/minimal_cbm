@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : nick farnhill
+Photo URL    : https://www.flickr.com/photos/nickfarnhill/91198560/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Dec 31 16:31:25 GMT+0100 2005
+Upload Date  : Thu Jan 26 00:45:57 GMT+0100 2006
+Views        : 223
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+safari
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+umlani "south africa" safari zebra 

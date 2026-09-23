@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jim, the Photographer
+Photo URL    : https://www.flickr.com/photos/jcapaldi/4686507818/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 2 11:42:52 GMT+0200 2010
+Upload Date  : Wed Jun 9 23:32:31 GMT+0200 2010
+Geotag Info  : Latitude:39.930142, Longitude:-75.339775
+Views        : 72
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+White Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"White squirrel" 

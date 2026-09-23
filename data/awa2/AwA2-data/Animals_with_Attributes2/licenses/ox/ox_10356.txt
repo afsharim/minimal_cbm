@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : taryn_dev
+Photo URL    : https://www.flickr.com/photos/taryndev/9719051906/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 7 09:59:16 GMT+0200 2013
+Upload Date  : Tue Sep 10 17:36:15 GMT+0200 2013
+Views        : 3
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_2093
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

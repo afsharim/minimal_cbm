@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Marcin Chady
+Photo URL    : https://www.flickr.com/photos/marcinchady/19287285721/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 21 10:45:28 GMT+0200 2015
+Upload Date  : Tue Jun 30 04:34:04 GMT+0200 2015
+Geotag Info  : Latitude:49.382397, Longitude:-123.078581
+Views        : 199
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSCN4618
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+grizzly 

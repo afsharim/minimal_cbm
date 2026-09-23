@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : C.E. Kent
+Photo URL    : https://www.flickr.com/photos/cekent/2853261521/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Aug 6 21:05:25 GMT+0200 2008
+Upload Date  : Sat Sep 13 21:03:31 GMT+0200 2008
+Geotag Info  : Latitude:43.765251, Longitude:-110.743142
+Views        : 79
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Moose!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Vacation 2008 CEK "Grand Teton National Park" "Jenny Lake" Wyoming 

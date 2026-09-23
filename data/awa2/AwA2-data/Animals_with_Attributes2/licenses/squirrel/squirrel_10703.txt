@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : John-Morgan
+Photo URL    : https://www.flickr.com/photos/aidanmorgan/2706185470/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 26 05:44:44 GMT+0200 2008
+Upload Date  : Sun Jul 27 09:45:53 GMT+0200 2008
+Views        : 4,172
+Comments     : 16
+
+
++---------+
+|  TITLE  |
++---------+
+squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Squirrel enjoying a nut in St. James's Park
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel animal wildlife "London England Europe Canon RebelXT 70-300mm" "John Morgan" 

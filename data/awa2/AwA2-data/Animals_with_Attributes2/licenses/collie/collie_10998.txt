@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Matteo Gossi
+Photo URL    : https://commons.wikimedia.org/wiki/File:Border_Collie_b-w.jpg
+License      : public domain
+Date         : 09-10-2007

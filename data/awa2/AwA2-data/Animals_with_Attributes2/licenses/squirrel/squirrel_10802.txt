@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ☺ Lee J Haywood
+Photo URL    : https://www.flickr.com/photos/leehaywood/4816349920/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 17 11:48:46 GMT+0200 2010
+Upload Date  : Wed Jul 21 21:56:25 GMT+0200 2010
+Views        : 120
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Taken at Wollaton Park.
+
+
++--------+
+|  TAGS  |
++--------+
+"Wollaton Park" "grey squirrel" 

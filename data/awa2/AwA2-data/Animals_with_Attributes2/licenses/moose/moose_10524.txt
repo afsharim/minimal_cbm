@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : tuchodi
+Photo URL    : https://www.flickr.com/photos/tuchodi/22252173165/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 17 08:03:55 GMT+0200 2015
+Upload Date  : Sat Oct 17 20:07:41 GMT+0200 2015
+Views        : 89
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Morning Moose
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+moose "bull moose" 

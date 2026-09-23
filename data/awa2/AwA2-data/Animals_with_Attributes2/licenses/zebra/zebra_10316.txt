@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ronnie Macdonald
+Photo URL    : https://www.flickr.com/photos/ronmacphotos/13980721829/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri May 9 14:35:02 GMT+0200 2014
+Upload Date  : Mon May 12 10:17:45 GMT+0200 2014
+Geotag Info  : Latitude:51.863330, Longitude:0.834088
+Views        : 1,170
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Maneless Zebras
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Colchester Zoo" Zebra "Ronmac Photos" 

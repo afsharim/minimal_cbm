@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Richard Towell
+Photo URL    : https://www.flickr.com/photos/48975388@N07/6516474085/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 8 17:01:19 GMT+0200 2008
+Upload Date  : Thu Dec 15 17:44:15 GMT+0100 2011
+Views        : 106
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Knowsley Safari Park" Tiger 

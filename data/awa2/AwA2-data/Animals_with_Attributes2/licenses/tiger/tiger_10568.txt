@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mars Chen
+Photo URL    : https://www.flickr.com/photos/mars1226/4318121499/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jan 31 15:20:19 GMT+0100 2010
+Upload Date  : Sun Jan 31 13:59:34 GMT+0100 2010
+Views        : 24
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+木柵動物園 

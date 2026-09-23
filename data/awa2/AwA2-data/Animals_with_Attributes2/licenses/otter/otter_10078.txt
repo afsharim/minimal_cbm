@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Smudge 9000
+Photo URL    : https://www.flickr.com/photos/smudge9000/11648312055/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Oct 14 15:36:11 GMT+0200 2013
+Upload Date  : Mon Dec 30 16:49:56 GMT+0100 2013
+Geotag Info  : Latitude:50.876177, Longitude:-1.632759
+Views        : 414
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+European Otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Captive at the New Forest Wildlife Park.
+
+
++--------+
+|  TAGS  |
++--------+
+2013 Otter autumn feeding "new forest" park wildlife zoo "The Grove" England "United Kingdom" 

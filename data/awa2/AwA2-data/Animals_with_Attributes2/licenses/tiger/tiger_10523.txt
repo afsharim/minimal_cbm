@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Arzi666
+Photo URL    : https://www.flickr.com/photos/arzi666/3489155868/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 18 16:04:40 GMT+0200 2009
+Upload Date  : Thu Apr 30 17:56:34 GMT+0200 2009
+Views        : 219
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Zoo Zürich" Tiger 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Lightkeepers Dream
+Photo URL    : https://www.flickr.com/photos/68270900@N04/6301690334/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Nov 1 13:09:55 GMT+0100 2011
+Upload Date  : Tue Nov 1 07:27:51 GMT+0100 2011
+Views        : 95
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Scottish Highland Longhorn
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Is that a mullet haircut
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

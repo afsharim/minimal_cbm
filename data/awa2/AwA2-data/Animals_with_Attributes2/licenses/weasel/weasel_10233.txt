@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Altaipanther
+Photo URL    : https://commons.wikimedia.org/wiki/File:Mustela_sibirica_dd_winter_2002.jpg
+License      : public domain
+Date         : Winter 2002/2003

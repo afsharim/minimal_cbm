@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : viralbus
+Photo URL    : https://www.flickr.com/photos/viralbus/763259204/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 4 13:45:58 GMT+0200 2007
+Upload Date  : Mon Jul 9 20:56:28 GMT+0200 2007
+Geotag Info  : Latitude:55.811981, Longitude:9.351180
+Views        : 2,217
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+A gorilla
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A gorilla in Løveparken, Givskud, Denmark.
+
+
++--------+
+|  TAGS  |
++--------+
+løveparken gorilla 

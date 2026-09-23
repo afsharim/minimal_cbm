@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Michael C Clark
+Photo URL    : https://www.flickr.com/photos/michaelcclark/2969502158/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Oct 17 13:17:33 GMT+0200 2008
+Upload Date  : Fri Oct 24 15:58:10 GMT+0200 2008
+Geotag Info  : Latitude:53.327918, Longitude:-1.896429
+Views        : 1,330
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+And not just an otter, a Giant Otter, if you please.
+
+
++--------+
+|  TAGS  |
++--------+
+Otter 

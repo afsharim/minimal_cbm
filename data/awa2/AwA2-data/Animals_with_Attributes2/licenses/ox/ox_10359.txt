@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Taecilla
+Photo URL    : https://www.flickr.com/photos/taecilla/11386571366/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Oct 4 18:50:23 GMT+0200 2013
+Upload Date  : Sun Dec 15 18:05:48 GMT+0100 2013
+Views        : 13
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_2254
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

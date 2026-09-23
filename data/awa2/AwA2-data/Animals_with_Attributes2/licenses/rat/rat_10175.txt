@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ParsnipSoup
+Photo URL    : https://www.flickr.com/photos/blue/2786347153/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 22 07:56:50 GMT+0200 2008
+Upload Date  : Fri Aug 22 16:44:21 GMT+0200 2008
+Views        : 8
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC01828.JPG
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+rats 

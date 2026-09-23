@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : D.Hilgart
+Photo URL    : https://www.flickr.com/photos/david-hilgart/4141365953/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 28 16:48:32 GMT+0100 2009
+Upload Date  : Sat Nov 28 23:48:32 GMT+0100 2009
+Geotag Info  : Latitude:32.736642, Longitude:-117.151379
+Views        : 387
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Otters
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Two of San Diego Zoo's river otters during a rare and brief moment of rest.
+
+
++--------+
+|  TAGS  |
++--------+
+otter "river otter" mammal animal zoo "San Diego Zoo" "Balboa Park" playful active 

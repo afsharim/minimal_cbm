@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Marit & Toomas Hinnosaar
+Photo URL    : https://www.flickr.com/photos/hinnosaar/3778793585/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 1 12:46:01 GMT+0200 2009
+Upload Date  : Sun Aug 2 02:13:15 GMT+0200 2009
+Geotag Info  : Latitude:41.833262, Longitude:-87.834792
+Views        : 747
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"brookfield zoo" elephant 

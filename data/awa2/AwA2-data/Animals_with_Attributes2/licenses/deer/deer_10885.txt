@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : AlicePopkorn2
+Photo URL    : https://www.flickr.com/photos/47283811@N06/5313000516/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Dec 30 17:16:55 GMT+0100 2010
+Upload Date  : Sat Jan 1 18:54:15 GMT+0100 2011
+Views        : 502
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+home
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+die Rehe werden immer zutraulicher
+
+the deer are becoming more trusting
+
+
++--------+
+|  TAGS  |
++--------+
+deer AlicePopkorn creativecommons 

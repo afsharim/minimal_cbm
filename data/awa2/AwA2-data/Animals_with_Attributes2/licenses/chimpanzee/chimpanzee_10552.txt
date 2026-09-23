@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Raphael Quinet
+Photo URL    : https://www.flickr.com/photos/raphaelquinet/1321903052/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 1 16:53:54 GMT+0200 2007
+Upload Date  : Tue Sep 4 16:36:47 GMT+0200 2007
+Geotag Info  : Latitude:50.499533, Longitude:5.741579
+Views        : 526
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+MondeSauvage-165354
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Chimpanzee / <i>Chimpanzé (Pan troglodytes)</i>
+
+
++--------+
+|  TAGS  |
++--------+
+Belgium Aywaille MondeSauvage chimpanzee chimp 

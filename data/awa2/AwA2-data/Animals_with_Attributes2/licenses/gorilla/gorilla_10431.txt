@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : manaties
+Photo URL    : https://www.flickr.com/photos/manaties/8068178624/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 7 13:11:24 GMT+0200 2012
+Upload Date  : Mon Oct 8 21:58:21 GMT+0200 2012
+Views        : 112
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Gorilla
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Oder einfach nur gelangweilt?
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

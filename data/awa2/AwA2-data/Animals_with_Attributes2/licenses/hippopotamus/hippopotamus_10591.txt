@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : PaulHorner
+Photo URL    : https://www.flickr.com/photos/paulhorner/5432051104/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 27 10:53:22 GMT+0100 2010
+Upload Date  : Wed Feb 9 22:24:26 GMT+0100 2011
+Geotag Info  : Latitude:36.542294, Longitude:-4.623785
+Views        : 129
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Pigmy Hippos
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+hippos zoo spain 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : guppiecat
+Photo URL    : https://www.flickr.com/photos/guppiecat/344183321/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Oct 30 11:30:14 GMT+0100 2006
+Upload Date  : Wed Jan 3 17:27:25 GMT+0100 2007
+Geotag Info  : Latitude:41.227296, Longitude:-95.928958
+Views        : 104
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Zoo " Henry Doorly Zoo" " Tiger" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Clarissa Peterson
+Photo URL    : https://www.flickr.com/photos/clarissa/479300476/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Mar 28 15:47:56 GMT+0200 2007
+Upload Date  : Tue May 1 04:47:37 GMT+0200 2007
+Geotag Info  : Latitude:38.929430, Longitude:-77.049801
+Views        : 198
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+National Zoo, Washington, DC
+
+
++--------+
+|  TAGS  |
++--------+
+tiger "National Zoo" tigers zoo 

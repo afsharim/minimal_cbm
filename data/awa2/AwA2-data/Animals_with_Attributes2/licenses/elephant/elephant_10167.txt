@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : anders_jung
+Photo URL    : https://www.flickr.com/photos/49597213@N00/393833676/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 18 10:27:01 GMT+0100 2007
+Upload Date  : Sun Feb 18 10:27:01 GMT+0100 2007
+Views        : 39
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+elefant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+animal zoo elephant 

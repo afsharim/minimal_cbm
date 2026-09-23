@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : muffinman71xx
+Photo URL    : https://www.flickr.com/photos/muffinman71xx/3207978852/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Dec 10 22:57:10 GMT+0100 2004
+Upload Date  : Sun Jan 18 23:34:56 GMT+0100 2009
+Views        : 73
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+elephant at roger williams zoo
+
+
++--------+
+|  TAGS  |
++--------+
+animal nature wildlife 

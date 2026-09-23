@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : wplynn
+Photo URL    : https://www.flickr.com/photos/warrenlynn/5675785039/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 30 18:40:49 GMT+0200 2011
+Upload Date  : Sun May 1 18:00:16 GMT+0200 2011
+Geotag Info  : Latitude:47.607933, Longitude:-122.343492
+Views        : 180
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+sea otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+washington coast wildlife ocean sea "salish sea" "puget sound" 

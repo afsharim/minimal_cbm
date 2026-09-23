@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : nickton
+Photo URL    : https://www.flickr.com/photos/18203311@N08/4464360058/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Mar 23 16:28:41 GMT+0100 2010
+Upload Date  : Fri Mar 26 07:13:03 GMT+0100 2010
+Geotag Info  : Latitude:37.589308, Longitude:-122.318859
+Views        : 24
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Coyote point  Museum, San Mateo
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

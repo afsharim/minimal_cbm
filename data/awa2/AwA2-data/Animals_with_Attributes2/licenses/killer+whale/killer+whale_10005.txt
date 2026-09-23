@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : gailhampshire
+Photo URL    : https://www.flickr.com/photos/gails_pictures/8475069051/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Feb 11 16:36:24 GMT+0100 2013
+Upload Date  : Fri Feb 15 13:27:26 GMT+0100 2013
+Geotag Info  : Latitude:64.979068, Longitude:-23.101501
+Views        : 1,123
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+'Spyhop'
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Orcinus orca spyhop iceland "taxonomy:binomial=Orcinus orca" 

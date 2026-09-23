@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : V31S70
+Photo URL    : https://www.flickr.com/photos/veisto/468777709/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 22 14:59:30 GMT+0200 2007
+Upload Date  : Sun Apr 22 21:28:00 GMT+0200 2007
+Geotag Info  : Latitude:60.169028, Longitude:24.919218
+Views        : 33
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_3595
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Helsinki squirrel 

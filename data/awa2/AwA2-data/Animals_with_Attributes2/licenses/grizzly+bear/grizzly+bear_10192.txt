@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Kiskadee 3
+Photo URL    : https://www.flickr.com/photos/kiskadee_3/8000336549/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jun 19 11:23:11 GMT+0200 2012
+Upload Date  : Tue Sep 18 19:16:14 GMT+0200 2012
+Geotag Info  : Latitude:60.302527, Longitude:-149.355470
+Views        : 294
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Brown Bear 2012-06-19 (3)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Gizzly Bear - 19 Jun 2012 - Seward Highway, Kenai Peninsula Borough, AK
+
+
++--------+
+|  TAGS  |
++--------+
+Alaska 

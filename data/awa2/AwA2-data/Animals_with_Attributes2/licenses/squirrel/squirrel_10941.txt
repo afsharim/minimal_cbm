@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : fourthandfifteen
+Photo URL    : https://www.flickr.com/photos/chelmsfordblue/8480987155/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 17 10:15:41 GMT+0100 2013
+Upload Date  : Sun Feb 17 13:11:00 GMT+0100 2013
+Views        : 15
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Sunday 17 Feb" 

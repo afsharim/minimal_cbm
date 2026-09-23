@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : tuchodi
+Photo URL    : https://www.flickr.com/photos/tuchodi/3340449572/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 8 16:01:11 GMT+0100 2009
+Upload Date  : Mon Mar 9 04:29:27 GMT+0100 2009
+Views        : 300
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Calf Moose
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"poplar trees" snow "calf moose" 

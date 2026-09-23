@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : razvan.orendovici
+Photo URL    : https://www.flickr.com/photos/razvanorendovici/3651533534/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 21 14:20:13 GMT+0200 2009
+Upload Date  : Mon Jun 22 20:31:35 GMT+0200 2009
+Geotag Info  : Latitude:34.699883, Longitude:-76.829259
+Views        : 24
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Otters
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Pine Knoll Aquarium
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

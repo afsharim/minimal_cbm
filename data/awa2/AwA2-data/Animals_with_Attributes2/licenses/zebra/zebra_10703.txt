@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : gmaximo
+Photo URL    : https://www.flickr.com/photos/gmaximo/1196266889/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 12 15:04:36 GMT+0200 2007
+Upload Date  : Tue Aug 21 23:40:36 GMT+0200 2007
+Geotag Info  : Latitude:43.061605, Longitude:2.955358
+Views        : 50
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+paiscataro cathar france animals sigean geotagged 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : andrew_j_w
+Photo URL    : https://www.flickr.com/photos/andrew_j_w/4540643316/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 18 14:43:42 GMT+0200 2010
+Upload Date  : Wed Apr 21 14:02:40 GMT+0200 2010
+Geotag Info  : Latitude:51.622412, Longitude:0.137071
+Views        : 1,388
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Horses Eating
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+animal horse horses eating hay 

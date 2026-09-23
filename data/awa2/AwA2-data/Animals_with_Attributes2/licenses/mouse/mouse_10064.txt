@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Just chaos
+Photo URL    : https://www.flickr.com/photos/7326810@N08/1234728117/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 24 13:13:30 GMT+0200 2007
+Upload Date  : Sun Aug 26 01:52:47 GMT+0200 2007
+Views        : 95
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+mice
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Mus musculis
+
+
++--------+
+|  TAGS  |
++--------+
+Calexpo07 

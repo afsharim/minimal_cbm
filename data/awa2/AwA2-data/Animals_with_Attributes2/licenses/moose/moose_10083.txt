@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : tuchodi
+Photo URL    : https://www.flickr.com/photos/tuchodi/17205046567/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 7 12:32:22 GMT+0200 2015
+Upload Date  : Fri May 8 01:38:09 GMT+0200 2015
+Geotag Info  : Latitude:56.301716, Longitude:-120.943139
+Views        : 181
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cow Moose
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"cow moose" moose ticks 

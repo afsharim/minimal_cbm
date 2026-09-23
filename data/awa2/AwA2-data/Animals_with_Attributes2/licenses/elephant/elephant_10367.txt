@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : KevinMPringle
+Photo URL    : https://www.flickr.com/photos/26163201@N04/2499958147/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Apr 15 07:24:08 GMT+0200 2005
+Upload Date  : Sun May 18 02:25:36 GMT+0200 2008
+Geotag Info  : Latitude:-25.327890, Longitude:27.137603
+Views        : 2,599
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This elephant just kept an eye on us and went about his business.
+
+
++--------+
+|  TAGS  |
++--------+
+Elephant "South Africa" "Canon PowerShot A85" Pilanesberg 

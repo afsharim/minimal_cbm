@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : fergusnoble
+Photo URL    : https://www.flickr.com/photos/fergusnoble/5971669325/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 10 05:35:09 GMT+0200 2007
+Upload Date  : Mon Jul 25 01:16:29 GMT+0200 2011
+Geotag Info  : Latitude:29.756046, Longitude:91.475571
+Views        : 40
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+P1030231
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : HBarrison
+Photo URL    : https://www.flickr.com/photos/hbarrison/2187094471/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Dec 14 11:42:26 GMT+0100 2007
+Upload Date  : Sat Jan 12 17:12:16 GMT+0100 2008
+Geotag Info  : Latitude:28.411370, Longitude:-81.466240
+Views        : 456
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+SeaWorld_2007 12 14_0278
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Harvey Barrison" Travel Travels "World Travel" hbarrison Orca 

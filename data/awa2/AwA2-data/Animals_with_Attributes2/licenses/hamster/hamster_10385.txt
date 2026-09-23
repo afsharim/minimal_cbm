@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mlee287
+Photo URL    : https://www.flickr.com/photos/mlee287/5624028936/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Dec 14 12:36:14 GMT+0100 2010
+Upload Date  : Sat Apr 16 10:17:17 GMT+0200 2011
+Views        : 69
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_2917
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Alex with an interesting expression.
+
+
++--------+
+|  TAGS  |
++--------+
+hamster 

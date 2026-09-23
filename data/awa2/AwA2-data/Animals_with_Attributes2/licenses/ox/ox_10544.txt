@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jim Bendon
+Photo URL    : https://www.flickr.com/photos/jim_bendon_1957/9314232138/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 18 10:48:38 GMT+0200 2013
+Upload Date  : Thu Jul 18 13:02:17 GMT+0200 2013
+Geotag Info  : Latitude:-17.353000, Longitude:145.989666
+Views        : 819
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+photo18
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+the solution, the buggy
+
+
++--------+
+|  TAGS  |
++--------+
+Bendon "wyvuri station" droughtmaster "North Queensland" cattle 

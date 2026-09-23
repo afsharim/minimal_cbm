@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : pfly
+Photo URL    : https://www.flickr.com/photos/pfly/22079779/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 27 21:52:47 GMT+0200 2005
+Upload Date  : Tue Jun 28 06:52:47 GMT+0200 2005
+Geotag Info  : Latitude:44.602980, Longitude:-111.566183
+Views        : 371
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cow #554
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Another of the free range cattle of Montana's Centennial Valley.
+
+
++--------+
+|  TAGS  |
++--------+
+cow outdoors roadtrip montana 

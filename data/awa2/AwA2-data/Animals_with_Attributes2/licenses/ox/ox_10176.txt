@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Marijn de Vries Hoogerwerff
+Photo URL    : https://www.flickr.com/photos/artonice/4479311280/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 20 12:40:30 GMT+0100 2010
+Upload Date  : Wed Mar 31 17:20:51 GMT+0200 2010
+Views        : 100
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+cow-traffic
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+In Mysore
+
+
++--------+
+|  TAGS  |
++--------+
+cow 

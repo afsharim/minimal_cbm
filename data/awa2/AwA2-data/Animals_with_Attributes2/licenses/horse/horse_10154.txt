@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : myeralan
+Photo URL    : https://www.flickr.com/photos/myeral/16168545210/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 24 16:19:46 GMT+0100 2015
+Upload Date  : Sat Jan 24 17:36:36 GMT+0100 2015
+Geotag Info  : Latitude:51.495856, Longitude:-0.137801
+Views        : 189
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Carriage return
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+horses London 

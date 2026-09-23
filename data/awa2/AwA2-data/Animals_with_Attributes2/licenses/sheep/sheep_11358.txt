@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : randihausken
+Photo URL    : https://www.flickr.com/photos/randihausken/1639757123/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 6 13:03:27 GMT+0200 2007
+Upload Date  : Fri Oct 19 22:34:57 GMT+0200 2007
+Geotag Info  : Latitude:59.384195, Longitude:5.148983
+Views        : 1,066
+Comments     : 12
+
+
++---------+
+|  TITLE  |
++---------+
+Villsau
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Sheep
+
+
++--------+
+|  TAGS  |
++--------+
+villsau sauer Feøy Karmøy sheep SearchTheBest 

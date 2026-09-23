@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Al Catraz
+Photo URL    : https://www.flickr.com/photos/43317592@N08/5963768674/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 22 08:23:29 GMT+0200 2011
+Upload Date  : Fri Jul 22 11:57:07 GMT+0200 2011
+Geotag Info  : Latitude:53.382867, Longitude:-2.938199
+Views        : 62
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Feeding squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This Squirrel is getting quite chubby now, fattening herself in preparation for the winter.
+
+
++--------+
+|  TAGS  |
++--------+
+Squirrel/fattening/wildlife 

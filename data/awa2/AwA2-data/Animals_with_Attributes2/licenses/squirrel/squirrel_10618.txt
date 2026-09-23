@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : TexasDarkHorse
+Photo URL    : https://www.flickr.com/photos/utahdarkhorse/3183178024/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jan 1 12:46:12 GMT+0100 2009
+Upload Date  : Fri Jan 9 21:11:48 GMT+0100 2009
+Geotag Info  : Latitude:29.805974, Longitude:-95.492973
+Views        : 534
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel that lives in my back yard.
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Squirrel in my back yard.
+
+This is the smaller of the 2 native squirrel species here in Texas.  It's an Eastern Gray Squirrel (Sciurus carolinensis).
+
+
++--------+
+|  TAGS  |
++--------+
+wildlife tree squirrel 

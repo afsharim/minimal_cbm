@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : AMagill
+Photo URL    : https://www.flickr.com/photos/amagill/62615165/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Oct 23 13:03:56 GMT+0200 2005
+Upload Date  : Sun Nov 13 02:01:47 GMT+0100 2005
+Views        : 483
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Mom and Malika
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+My mother riding her horse, Malika.
+
+
++--------+
+|  TAGS  |
++--------+
+horse 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Dave Williss
+Photo URL    : https://www.flickr.com/photos/dwilliss/7835931558/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Aug 21 19:29:47 GMT+0200 2012
+Upload Date  : Wed Aug 22 06:26:29 GMT+0200 2012
+Geotag Info  : Latitude:40.724563, Longitude:-96.707001
+Views        : 1,329
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A deer in the open for once.
+
+
++--------+
+|  TAGS  |
++--------+
+deer 

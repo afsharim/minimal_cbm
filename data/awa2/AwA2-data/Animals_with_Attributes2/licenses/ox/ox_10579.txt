@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : nagerw
+Photo URL    : https://www.flickr.com/photos/naglerw/2555169049/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 1 19:21:17 GMT+0200 2008
+Upload Date  : Fri Jun 6 12:41:25 GMT+0200 2008
+Views        : 34
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Schottische Hochlandrinder in der Umgebung von Zwettl
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : User:DoroshenkoE
+Photo URL    : https://commons.wikimedia.org/wiki/File:Ursus_arctos_isabellinus_(in_Kiev_Zoo).JPG
+License      : public domain
+Date         : 2007-06-06

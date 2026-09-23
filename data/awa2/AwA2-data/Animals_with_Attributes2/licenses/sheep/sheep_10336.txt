@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : adventuroustrips
+Photo URL    : https://www.flickr.com/photos/130805208@N08/16206551277/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 29 09:39:05 GMT+0200 2013
+Upload Date  : Thu Jan 29 03:33:39 GMT+0100 2015
+Views        : 65
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Icelandic sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+OLYMPUS DIGITAL CAMERA
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

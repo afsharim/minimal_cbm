@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : KathrynW1
+Photo URL    : https://www.flickr.com/photos/kathryn-wright/24053466259/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 16 06:29:26 GMT+0100 2016
+Upload Date  : Sat Jan 16 21:11:51 GMT+0100 2016
+Geotag Info  : Latitude:51.821163, Longitude:-2.176966
+Views        : 16
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Prinknash Bird & Deer Park
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+deer "prinknash bird and deer park" prinknash animal 

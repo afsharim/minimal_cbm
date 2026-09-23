@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 06, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Juanedc
+Photo URL    : https://www.flickr.com/photos/juanedc/9636361929/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Oct 27 19:23:21 GMT+0200 2010
+Upload Date  : Wed Oct 27 19:23:21 GMT+0200 2010
+Geotag Info  : Latitude:41.680419, Longitude:-0.884603
+Views        : 875
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Murciélago herido
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Zaragoza, España
+
+
++--------+
+|  TAGS  |
++--------+
+España Saragossa Spain Zaragoza animal aragon bat dark darkness murcielago oscuridad oscuro ES 

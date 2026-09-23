@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Earkle
+Photo URL    : https://www.flickr.com/photos/ambm/5635563832/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Mar 26 12:04:52 GMT+0100 2011
+Upload Date  : Tue Apr 19 20:30:23 GMT+0200 2011
+Geotag Info  : Latitude:51.434191, Longitude:6.806861
+Views        : 141
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Elephant at Duisburg Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+2011 Duisburg Elefant März Zoo 

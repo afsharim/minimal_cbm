@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Walrusness
+Photo URL    : https://www.flickr.com/photos/walrusness/5063361159/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Oct 8 18:44:34 GMT+0200 2010
+Upload Date  : Sat Oct 9 04:03:35 GMT+0200 2010
+Geotag Info  : Latitude:19.625156, Longitude:-99.248535
+Views        : 54
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Yeah, I liked the way that horse looked.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

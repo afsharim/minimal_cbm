@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jason Langlois
+Photo URL    : https://www.flickr.com/photos/ogier300/5922550191/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 9 12:54:24 GMT+0200 2011
+Upload Date  : Sun Jul 10 20:29:46 GMT+0200 2011
+Geotag Info  : Latitude:49.093695, Longitude:-122.491968
+Views        : 155
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Grants Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Greater Vancouver Zoo" Aldergrove "zoo trip" animal 

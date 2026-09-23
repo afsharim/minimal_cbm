@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : M&R Glasgow
+Photo URL    : https://www.flickr.com/photos/glasgows/3527704966/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue May 12 14:24:16 GMT+0200 2009
+Upload Date  : Tue May 12 21:24:16 GMT+0200 2009
+Views        : 167
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+IMG_5214
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+cows coys 

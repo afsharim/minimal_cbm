@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tim Green aka atoach
+Photo URL    : https://www.flickr.com/photos/atoach/7685850940/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 30 18:49:16 GMT+0200 2012
+Upload Date  : Tue Jul 31 20:40:59 GMT+0200 2012
+Geotag Info  : Latitude:53.771328, Longitude:-1.838793
+Views        : 466
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Black Horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Queensbury
+
+
++--------+
+|  TAGS  |
++--------+
+queensbury horse 

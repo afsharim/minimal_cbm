@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Peter G Trimming
+Photo URL    : https://www.flickr.com/photos/peter-trimming/11140893646/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 30 09:53:33 GMT+0100 2013
+Upload Date  : Sun Dec 1 00:05:13 GMT+0100 2013
+Geotag Info  : Latitude:50.663633, Longitude:-1.180012
+Views        : 703
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel Vane
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Seen at Alverstone Mead. The famous 'Orange No.3'  (female), who appears on the BBC Nature page. It's interesting that, in recent months, her coat has changed from light orange to the colour of the darker orange squirrels.       
+
+Wind blowing from the north.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

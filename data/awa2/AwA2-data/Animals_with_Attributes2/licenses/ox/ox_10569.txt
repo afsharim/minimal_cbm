@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Jorn Eriksson
+Photo URL    : https://www.flickr.com/photos/jorneriksson/8517551991/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jan 31 18:03:04 GMT+0100 2013
+Upload Date  : Fri Mar 1 14:06:24 GMT+0100 2013
+Views        : 2,487
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Safari in Uganda
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Queen Elisabeth National Park
+
+
++--------+
+|  TAGS  |
++--------+
+Uganda Safari 

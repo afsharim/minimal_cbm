@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : quinet
+Photo URL    : https://www.flickr.com/photos/quinet/23015551232/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 22 21:29:41 GMT+0100 2015
+Upload Date  : Sun Nov 15 08:37:48 GMT+0100 2015
+Views        : 151
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Beavers
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+American Museum of Natural History, New York City, 2015
+
+
++--------+
+|  TAGS  |
++--------+
+#InsideAMNH 2015 "American Museum of Natural History" Biber "New York City" beaver castor "New York" USA 

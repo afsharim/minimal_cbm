@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tony Austin
+Photo URL    : https://www.flickr.com/photos/tonyaustin/383894719/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Feb 8 16:16:02 GMT+0100 2007
+Upload Date  : Thu Feb 8 19:25:26 GMT+0100 2007
+Geotag Info  : Latitude:52.986890, Longitude:-1.355781
+Views        : 2,046
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Horses
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+snow winter animals horse horses top20HORSEpix 

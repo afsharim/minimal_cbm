@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : KLMircea
+Photo URL    : https://www.flickr.com/photos/klmircea/4530226383/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Oct 8 00:00:22 GMT+0200 2009
+Upload Date  : Sun Apr 18 12:27:58 GMT+0200 2010
+Geotag Info  : Latitude:52.505747, Longitude:13.339891
+Views        : 192
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Berlin Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Berlin Germany Bear Brown Zoo 

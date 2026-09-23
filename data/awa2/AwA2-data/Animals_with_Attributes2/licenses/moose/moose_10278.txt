@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : trailblazer
+Photo URL    : https://www.flickr.com/photos/extremepath/226232096/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 27 10:36:23 GMT+0200 2006
+Upload Date  : Sun Aug 27 19:36:23 GMT+0200 2006
+Views        : 25
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Moose
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Alaska vacation 

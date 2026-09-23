@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : tanjila
+Photo URL    : https://www.flickr.com/photos/tanj/194658263/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Oct 18 23:23:41 GMT+0200 2004
+Upload Date  : Fri Jul 21 13:23:41 GMT+0200 2006
+Geotag Info  : Latitude:33.927536, Longitude:-84.030311
+Views        : 211
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+aw
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+me and philisity!
+
+
++--------+
+|  TAGS  |
++--------+
+persian philisity me cats 

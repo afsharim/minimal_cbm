@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Atlanta Scott
+Photo URL    : https://www.flickr.com/photos/atlantascott/3388086857/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Apr 22 15:07:23 GMT+0200 2009
+Upload Date  : Fri Mar 27 01:30:09 GMT+0100 2009
+Views        : 1,555
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horse at Serenbe Stables
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Serenbe (Chattahoochee Hill Country, Fulton County, GA)
+
+
++--------+
+|  TAGS  |
++--------+
+horses serenbe fultoncounty chattahoocheehillcountry 

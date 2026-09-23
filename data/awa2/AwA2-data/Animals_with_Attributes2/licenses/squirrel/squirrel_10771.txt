@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : captainmcdan
+Photo URL    : https://www.flickr.com/photos/captainmcdan/4199889294/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Dec 19 15:51:54 GMT+0100 2009
+Upload Date  : Sun Dec 20 11:47:35 GMT+0100 2009
+Geotag Info  : Latitude:51.473950, Longitude:0.004194
+Views        : 278
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Greenwich "Greenwich Park" Snow December 2009 Squirrel "Canon EF 70-300mm f4-5.6 IS USM" London 

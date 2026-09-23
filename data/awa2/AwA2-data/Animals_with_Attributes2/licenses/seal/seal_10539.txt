@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : size4riggerboots
+Photo URL    : https://www.flickr.com/photos/tamsintog/23654647379/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 15 16:13:37 GMT+0200 2015
+Upload Date  : Mon Dec 28 12:42:15 GMT+0100 2015
+Geotag Info  : Latitude:-54.279833, Longitude:-36.507310
+Views        : 65
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Leopard Seal at Grytviken, South Georgia
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Merchant Navy" "Pharos SG" "South Georgia" "Leopard Seal" 

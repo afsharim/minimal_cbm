@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : manumilou
+Photo URL    : https://www.flickr.com/photos/manumilou/4640167537/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Aug 11 12:04:10 GMT+0200 2009
+Upload Date  : Wed May 26 03:31:27 GMT+0200 2010
+Geotag Info  : Latitude:46.747389, Longitude:-60.823059
+Views        : 78
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Moose
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+creative-commons cape-breton "nova scotia" "cabot trail" landscape highway canada "national park" 

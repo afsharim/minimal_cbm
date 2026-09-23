@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Prince Heathen
+Photo URL    : https://www.flickr.com/photos/princeheathen/3765620864/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 4 11:54:49 GMT+0200 2009
+Upload Date  : Tue Jul 28 14:06:44 GMT+0200 2009
+Geotag Info  : Latitude:50.823180, Longitude:-1.452083
+Views        : 986
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+New Forest otters
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Awaiting feeding time at the New Forest Otter, Owl &amp; Wildlife Park
+<a href="http://www.ottersandowls.co.uk" rel="nofollow">www.ottersandowls.co.uk</a>
+
+
++--------+
+|  TAGS  |
++--------+
+otter 

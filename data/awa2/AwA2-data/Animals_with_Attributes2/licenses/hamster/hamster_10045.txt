@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Keren_
+Photo URL    : https://www.flickr.com/photos/keren/4183683471/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Nov 16 22:09:48 GMT+0100 2009
+Upload Date  : Mon Dec 14 09:45:02 GMT+0100 2009
+Views        : 229
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Alie
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+hamster 

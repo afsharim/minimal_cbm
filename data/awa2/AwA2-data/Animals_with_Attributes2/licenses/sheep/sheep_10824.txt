@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Charles Haynes
+Photo URL    : https://www.flickr.com/photos/haynes/167211314/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 5 18:49:18 GMT+0200 2006
+Upload Date  : Wed Jun 14 21:09:26 GMT+0200 2006
+Views        : 240
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Greece Schinousa 

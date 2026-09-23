@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : brenbot
+Photo URL    : https://www.flickr.com/photos/brenbot/2675855461/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 14 11:18:13 GMT+0200 2008
+Upload Date  : Thu Jul 17 08:25:24 GMT+0200 2008
+Views        : 338
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Lake Lopez" deer antlers camping 

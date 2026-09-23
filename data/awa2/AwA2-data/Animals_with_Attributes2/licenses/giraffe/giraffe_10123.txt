@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : photoverulam
+Photo URL    : https://www.flickr.com/photos/photoverulam/5023534066/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 21 13:20:15 GMT+0200 2010
+Upload Date  : Sat Sep 25 18:48:57 GMT+0200 2010
+Geotag Info  : Latitude:52.457212, Longitude:1.048078
+Views        : 78
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Dinner
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Banham Norfolk Zoo giraffe 

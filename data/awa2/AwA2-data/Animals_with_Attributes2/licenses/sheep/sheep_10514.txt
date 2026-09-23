@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : amandabhslater
+Photo URL    : https://www.flickr.com/photos/pikerslanefarm/6197018041/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 25 15:15:23 GMT+0200 2011
+Upload Date  : Fri Sep 30 10:51:00 GMT+0200 2011
+Geotag Info  : Latitude:49.166721, Longitude:-2.169263
+Views        : 89
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Noirmont Headland
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Sheep
+
+
++--------+
+|  TAGS  |
++--------+
+Jersey Noirmont "Batterie Lothringen" Occupation 

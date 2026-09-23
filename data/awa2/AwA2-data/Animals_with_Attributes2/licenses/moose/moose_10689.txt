@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Walter Siegmund
+Photo URL    : https://commons.wikimedia.org/wiki/File:Alces_alces_8492.JPG
+License      : Creative Commons (//en.wikipedia.org/wiki/en:Creative_Commons) 3.0 Unported (//creativecommons.org/licenses/by-sa/3.0/deed.en)
+Date         : 2010-06-24

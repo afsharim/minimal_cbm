@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : brian.gratwicke
+Photo URL    : https://www.flickr.com/photos/briangratwicke/6926284636/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Mar 12 08:37:15 GMT+0100 2012
+Upload Date  : Fri Apr 13 03:11:01 GMT+0200 2012
+Geotag Info  : Latitude:-54.142904, Longitude:-36.814498
+Views        : 319
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Antarctic fur seal (Arctocephalus gazella)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"South Georgia" "National Geographic Exlplorer" Linblad 

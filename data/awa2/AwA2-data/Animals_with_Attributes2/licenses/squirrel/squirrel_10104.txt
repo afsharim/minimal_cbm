@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jc.winkler
+Photo URL    : https://www.flickr.com/photos/51653562@N00/2248717213/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Apr 30 06:20:11 GMT+0200 2007
+Upload Date  : Thu Feb 7 23:04:41 GMT+0100 2008
+Views        : 273
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cajun Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Outside our bayou cabin in Louisiana
+
+
++--------+
+|  TAGS  |
++--------+
+Cajun Squirrel Bayou Louisiana 

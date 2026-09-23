@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Oregon Department of Fish & Wildlife
+Photo URL    : https://www.flickr.com/photos/odfw/5143052819/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 6 10:46:41 GMT+0200 2004
+Upload Date  : Wed Nov 3 19:21:47 GMT+0100 2010
+Views        : 1,151
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+2009 moose
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Shiras Moose female with calf near the Grande Ronde River in 2008. (Low Resolution only)
+
+
++--------+
+|  TAGS  |
++--------+
+"Shiras Moose" "Grande Ronde River" Oregon 

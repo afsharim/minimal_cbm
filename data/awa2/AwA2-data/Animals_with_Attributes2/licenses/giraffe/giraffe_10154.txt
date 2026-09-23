@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : steve => ))) ) ) ) )
+Photo URL    : https://www.flickr.com/photos/inglo/6037015653/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 12 10:24:55 GMT+0200 2011
+Upload Date  : Sat Aug 13 07:05:51 GMT+0200 2011
+Geotag Info  : Latitude:37.733186, Longitude:-122.503201
+Views        : 11
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSCF1408
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

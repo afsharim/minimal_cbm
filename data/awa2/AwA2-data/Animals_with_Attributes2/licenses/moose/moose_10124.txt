@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : echoforsberg
+Photo URL    : https://www.flickr.com/photos/echoforsberg/2390881258/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 5 15:19:19 GMT+0200 2007
+Upload Date  : Sat Apr 5 23:25:00 GMT+0200 2008
+Geotag Info  : Latitude:61.196611, Longitude:-149.817069
+Views        : 31
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC06927
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+moose 

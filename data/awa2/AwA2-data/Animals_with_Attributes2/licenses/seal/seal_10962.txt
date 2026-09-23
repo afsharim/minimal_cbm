@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : The JH Photography
+Photo URL    : https://www.flickr.com/photos/jason_photos/7434504466/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 15 18:45:51 GMT+0200 2012
+Upload Date  : Sun Jun 24 21:32:52 GMT+0200 2012
+Geotag Info  : Latitude:39.499740, Longitude:-111.547317
+Views        : 1,965
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Week 27/52.2012
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Seals, with Nikon D80 + Nikkor 85mm f/1.8G lens.
+
+
++--------+
+|  TAGS  |
++--------+
+"project 52" "85mm f/1.8G" seal 

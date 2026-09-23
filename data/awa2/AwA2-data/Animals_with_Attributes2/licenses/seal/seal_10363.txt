@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Les_Williams
+Photo URL    : https://www.flickr.com/photos/leswilliamsphotography/24200039479/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 10 15:36:20 GMT+0200 2015
+Upload Date  : Sat Jan 23 23:17:58 GMT+0100 2016
+Views        : 71
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Fur Seal Pup
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A fur seal pup lounging on the beach at Farewell Spit NZ
+
+
++--------+
+|  TAGS  |
++--------+
+"Fur Seal" "Farewell Spit" Places "New Zealand" 

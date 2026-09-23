@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : vagueonthehow
+Photo URL    : https://www.flickr.com/photos/vagueonthehow/16034628908/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jun 12 14:53:59 GMT+0200 2013
+Upload Date  : Wed Jan 7 14:14:52 GMT+0100 2015
+Geotag Info  : Latitude:53.816666, Longitude:-1.322393
+Views        : 159
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"lotherton hall" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : likeaduck
+Photo URL    : https://www.flickr.com/photos/thartz00/4867588930/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 6 15:22:45 GMT+0200 2010
+Upload Date  : Sat Aug 7 02:31:13 GMT+0200 2010
+Geotag Info  : Latitude:39.820864, Longitude:-75.764293
+Views        : 59
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Yeah, So...
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Squirrel vistor deck 

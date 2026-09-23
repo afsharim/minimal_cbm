@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Alan Miles NYC
+Photo URL    : https://www.flickr.com/photos/alanrmiles/6474673737/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Nov 25 13:21:10 GMT+0100 2011
+Upload Date  : Thu Dec 8 03:17:34 GMT+0100 2011
+Geotag Info  : Latitude:38.762625, Longitude:-9.093149
+Views        : 598
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Otters at Oceanario de Lisboa
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+otter "Oceanario de Lisboa" Lisbon 

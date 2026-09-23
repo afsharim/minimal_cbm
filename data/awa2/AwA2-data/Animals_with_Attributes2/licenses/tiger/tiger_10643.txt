@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jamesckemp
+Photo URL    : https://www.flickr.com/photos/kemped/5703923115/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon May 9 19:51:58 GMT+0200 2011
+Upload Date  : Mon May 9 20:51:58 GMT+0200 2011
+Geotag Info  : Latitude:51.743209, Longitude:-0.020460
+Views        : 433
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Cats - beautiful animals.
+
+
++--------+
+|  TAGS  |
++--------+
+cat tiger "pentax k-x" FlickrBigCats 

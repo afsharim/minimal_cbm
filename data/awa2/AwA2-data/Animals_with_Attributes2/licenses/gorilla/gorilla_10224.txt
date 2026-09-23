@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : N. Feans
+Photo URL    : https://www.flickr.com/photos/endogamia/3139099514/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Apr 11 19:05:35 GMT+0200 2006
+Upload Date  : Fri Dec 26 19:58:48 GMT+0100 2008
+Geotag Info  : Latitude:40.714530, Longitude:-74.007133
+Views        : 287
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+gorila - gorilla 7
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+animal 

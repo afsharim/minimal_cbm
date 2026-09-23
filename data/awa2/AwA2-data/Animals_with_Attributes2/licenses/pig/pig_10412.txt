@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Brett Patterson
+Photo URL    : https://www.flickr.com/photos/brettpatterson/4061510092/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Oct 28 16:48:18 GMT+0100 2009
+Upload Date  : Sat Oct 31 18:24:46 GMT+0100 2009
+Geotag Info  : Latitude:50.874877, Longitude:-0.726985
+Views        : 27
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Pigs for Nikki
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

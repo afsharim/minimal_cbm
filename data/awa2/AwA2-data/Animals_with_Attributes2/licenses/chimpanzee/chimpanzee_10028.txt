@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : markhealey
+Photo URL    : https://www.flickr.com/photos/markjhealey/5937819252/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 1 00:00:00 GMT+0200 2008
+Upload Date  : Thu Jul 14 20:37:01 GMT+0200 2011
+Geotag Info  : Latitude:59.422782, Longitude:24.651230
+Views        : 78
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+A chimpanzee at Tallinn Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Estonia "Tallinn Zoo" 

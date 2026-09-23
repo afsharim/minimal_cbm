@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : D H Wright
+Photo URL    : https://www.flickr.com/photos/dhwright/15545743307/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Nov 1 14:15:41 GMT+0100 2014
+Upload Date  : Fri Nov 7 11:58:51 GMT+0100 2014
+Geotag Info  : Latitude:53.606569, Longitude:-0.437820
+Views        : 1,321
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Kerry Hill Sheep at Elsham
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+These Kerry Hill Sheep which have distinctive black markings were seen grazing at the Elsham Water Treatment Works. For information on this breed see <a href="http://en.wikipedia.org/wiki/Kerry_Hill_sheep" rel="nofollow">en.wikipedia.org/wiki/Kerry_Hill_sheep</a>
+
+
++--------+
+|  TAGS  |
++--------+
+Sheep "Kerry Hill Sheep" Elsham "North Lincolnshire" 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : John Winkelman
+Photo URL    : https://www.flickr.com/photos/johnwinkelman/2125114408/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 9 14:19:56 GMT+0100 2007
+Upload Date  : Thu Dec 20 16:24:51 GMT+0100 2007
+Views        : 232
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Suspicious Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel winter grand rapids michigan 

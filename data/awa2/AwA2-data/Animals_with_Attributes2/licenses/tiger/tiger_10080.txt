@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ahisgett
+Photo URL    : https://www.flickr.com/photos/hisgett/4506380038/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Apr 9 13:39:15 GMT+0200 2010
+Upload Date  : Fri Apr 9 23:11:11 GMT+0200 2010
+Geotag Info  : Latitude:52.379208, Longitude:-2.286293
+Views        : 1,699
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Bengal Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Bengal Tiger 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : juliemacnam
+Photo URL    : https://www.flickr.com/photos/14650923@N05/6214366129/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Mar 27 07:56:00 GMT+0200 2007
+Upload Date  : Wed Oct 5 18:59:08 GMT+0200 2011
+Geotag Info  : Latitude:36.016615, Longitude:-114.738464
+Views        : 157
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel, Grand Canyon
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Grand Canyon" squirrel 

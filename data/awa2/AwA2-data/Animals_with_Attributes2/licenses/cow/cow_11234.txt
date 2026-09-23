@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : dr_zoidberg
+Photo URL    : https://www.flickr.com/photos/zoidberg72/5123677941/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 18 20:20:17 GMT+0200 2010
+Upload Date  : Thu Oct 28 22:20:39 GMT+0200 2010
+Geotag Info  : Latitude:36.054927, Longitude:-5.469818
+Views        : 704
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+sustainable cow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+sustainable cow windmills 

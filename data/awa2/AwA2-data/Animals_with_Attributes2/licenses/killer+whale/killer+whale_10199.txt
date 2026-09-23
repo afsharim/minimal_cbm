@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : .Robert.
+Photo URL    : https://www.flickr.com/photos/robertrd/6780513762/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 1 00:00:00 GMT+0100 2011
+Upload Date  : Fri Feb 24 21:51:14 GMT+0100 2012
+Geotag Info  : Latitude:28.409168, Longitude:-16.561489
+Views        : 682
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Orca
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Espectáculo de orcas en el Loro Parque, en Puerto de la Cruz, Tenerife.
+
+<i>Espectacle d'orques al Loro Parque, a Puerto de la Cruz, Tenerife.</i>
+
+
++--------+
+|  TAGS  |
++--------+
+orca balena ballena "Loro Parque" "Puerto de la Cruz" Tenerife Canarias Robert 

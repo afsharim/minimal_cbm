@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jimwolffman
+Photo URL    : https://www.flickr.com/photos/jimwolffman/3912234602/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 12 12:10:13 GMT+0200 2009
+Upload Date  : Sat Sep 12 13:13:06 GMT+0200 2009
+Views        : 913
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Holy Moly!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+mole 

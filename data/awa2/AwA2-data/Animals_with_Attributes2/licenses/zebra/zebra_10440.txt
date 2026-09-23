@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Arizona Parrot
+Photo URL    : https://www.flickr.com/photos/azparrot/945120645/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 29 12:44:03 GMT+0200 2007
+Upload Date  : Mon Jul 30 03:51:13 GMT+0200 2007
+Views        : 99
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Stripes
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Wild Life Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+Zebras "Wild Life Zoo" Zoo Arizona 

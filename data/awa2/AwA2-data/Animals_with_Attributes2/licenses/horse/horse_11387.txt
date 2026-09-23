@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Channy Yun
+Photo URL    : https://www.flickr.com/photos/seokchanyun/3159559529/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 28 14:29:54 GMT+0100 2008
+Upload Date  : Fri Jan 2 18:05:49 GMT+0100 2009
+Geotag Info  : Latitude:33.405865, Longitude:126.765918
+Views        : 3,759
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Riding horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+riding horse jeju 

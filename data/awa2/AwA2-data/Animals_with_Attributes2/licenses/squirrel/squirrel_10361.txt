@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : geekybodhi
+Photo URL    : https://www.flickr.com/photos/geekybodhi/5827464810/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 11 12:23:17 GMT+0200 2011
+Upload Date  : Mon Jun 13 06:10:55 GMT+0200 2011
+Geotag Info  : Latitude:28.555509, Longitude:77.203338
+Views        : 95
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+jerry-snacking
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel 

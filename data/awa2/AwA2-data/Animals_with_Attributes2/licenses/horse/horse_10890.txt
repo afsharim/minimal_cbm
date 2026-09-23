@@ -1,0 +1,37 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : cbowns
+Photo URL    : https://www.flickr.com/photos/cipherswarm/2768118171/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 16 15:47:14 GMT+0200 2008
+Upload Date  : Sat Aug 16 21:47:14 GMT+0200 2008
+Geotag Info  : Latitude:37.447543, Longitude:-122.271437
+Views        : 723
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horses
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Uploaded with Flickup on iPhone.
+
+I pass these two every morning on my way to work, and every time I go running.
+
+
++--------+
+|  TAGS  |
++--------+
+iPhone horses 

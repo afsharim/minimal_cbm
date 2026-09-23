@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ZeMoufette
+Photo URL    : https://www.flickr.com/photos/zemoufette/4599528693/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Feb 17 17:41:22 GMT+0100 2010
+Upload Date  : Wed May 12 02:17:06 GMT+0200 2010
+Views        : 5,035
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Raccoon
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A raccoon, eating a piece of bread. They're pretty tame here... Probably not a good thing :/
+
+
++--------+
+|  TAGS  |
++--------+
+raccoon 

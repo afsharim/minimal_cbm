@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : lora_313
+Photo URL    : https://www.flickr.com/photos/lora313/2665381242/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 11 06:49:37 GMT+0200 2008
+Upload Date  : Sun Jul 13 22:15:53 GMT+0200 2008
+Views        : 6
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hippopotamus
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

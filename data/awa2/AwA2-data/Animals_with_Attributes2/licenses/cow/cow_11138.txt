@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : generalising
+Photo URL    : https://www.flickr.com/photos/shimgray/2956060464/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Oct 14 16:53:48 GMT+0200 2008
+Upload Date  : Sun Oct 19 22:45:40 GMT+0200 2008
+Views        : 8
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+p1230401
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A cow
+
+
++--------+
+|  TAGS  |
++--------+
+cow 

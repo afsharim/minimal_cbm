@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Dano
+Photo URL    : https://www.flickr.com/photos/mukluk/251765130/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 24 12:47:34 GMT+0200 2006
+Upload Date  : Mon Sep 25 00:25:03 GMT+0200 2006
+Views        : 2,025
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+City mouse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Tiny mouse emerging from under the corner of my office building.
+
+
++--------+
+|  TAGS  |
++--------+
+cute mouse macro 

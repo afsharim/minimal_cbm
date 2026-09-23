@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Rev Stan
+Photo URL    : https://www.flickr.com/photos/revstan/4653974842/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 30 12:20:30 GMT+0200 2010
+Upload Date  : Sun May 30 22:15:04 GMT+0200 2010
+Views        : 119
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel "city park" "london parks" "hyde park" "kensington gardens" 

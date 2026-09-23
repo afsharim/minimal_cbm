@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : B4bees .(2m views)
+Photo URL    : https://www.flickr.com/photos/brizo_the_scot/3894033422/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 17 13:25:24 GMT+0200 2009
+Upload Date  : Sun Sep 6 21:15:11 GMT+0200 2009
+Geotag Info  : Latitude:56.282152, Longitude:-3.387737
+Views        : 1,807
+Comments     : 5
+
+
++---------+
+|  TITLE  |
++---------+
+How Now Brown Cow.
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Brown Cow behind a fence near Arngask.
+
+
++--------+
+|  TAGS  |
++--------+
+"brown cow" field fencing tags arngask 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : TigerEye57
+Photo URL    : https://www.flickr.com/photos/tigereye57/4006542810/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 26 13:27:37 GMT+0200 2009
+Upload Date  : Tue Oct 13 00:07:51 GMT+0200 2009
+Views        : 27
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Rangeball heist 1
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Golf squirrel 1
+
+
++--------+
+|  TAGS  |
++--------+
+Squirrels Golf 

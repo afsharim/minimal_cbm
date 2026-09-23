@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : elnudomolesto
+Photo URL    : https://www.flickr.com/photos/elnudomolesto/9089122150/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Apr 3 17:16:45 GMT+0200 2011
+Upload Date  : Thu Jun 20 00:14:51 GMT+0200 2013
+Views        : 21
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

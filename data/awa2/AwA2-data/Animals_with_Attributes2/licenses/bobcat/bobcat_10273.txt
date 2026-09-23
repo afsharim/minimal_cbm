@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : stallio
+Photo URL    : https://www.flickr.com/photos/stallio/3277107196/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jun 21 04:23:48 GMT+0200 2004
+Upload Date  : Fri Feb 13 18:38:10 GMT+0100 2009
+Views        : 162
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+bobcat
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+<a href="http://www.livingdesert.org/" rel="nofollow">the living desert</a>, palm desert, california
+
+
++--------+
+|  TAGS  |
++--------+
+"the living desert" california desert animals wildlife "desert animals" 

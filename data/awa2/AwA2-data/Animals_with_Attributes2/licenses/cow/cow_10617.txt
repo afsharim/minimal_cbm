@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : rjshade
+Photo URL    : https://www.flickr.com/photos/rjshade/5880979071/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 25 08:27:03 GMT+0200 2011
+Upload Date  : Tue Jun 28 18:25:33 GMT+0200 2011
+Views        : 488
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cows
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

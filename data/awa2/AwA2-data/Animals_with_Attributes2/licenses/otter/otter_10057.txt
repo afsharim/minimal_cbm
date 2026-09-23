@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : WordRidden
+Photo URL    : https://www.flickr.com/photos/wordridden/4567688415/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Apr 8 15:24:17 GMT+0200 2010
+Upload Date  : Sat May 1 17:00:10 GMT+0200 2010
+Geotag Info  : Latitude:47.607606, Longitude:-122.343277
+Views        : 647
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cute!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+seattle "seattle aquarium" "sea otters" 

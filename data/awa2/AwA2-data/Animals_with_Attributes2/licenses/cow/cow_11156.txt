@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : zDilley
+Photo URL    : https://www.flickr.com/photos/111943836@N08/11439610225/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jul 23 16:42:31 GMT+0200 2013
+Upload Date  : Wed Dec 18 21:14:51 GMT+0100 2013
+Geotag Info  : Latitude:54.351804, Longitude:-2.970986
+Views        : 56
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Photogenic Cow Again?
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Our Time in the Cumbria
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

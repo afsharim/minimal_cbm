@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : DncnH
+Photo URL    : https://www.flickr.com/photos/duncanh1/14922153927/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 24 17:26:12 GMT+0200 2014
+Upload Date  : Mon Sep 1 20:56:07 GMT+0200 2014
+Geotag Info  : Latitude:52.969408, Longitude:0.990917
+Views        : 1,613
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+More Seals
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Another picture of the common seals at Blakeney Point, Norfolk.
+
+
++--------+
+|  TAGS  |
++--------+
+seal "common seal" Blakeney Norfolk summer "Blakeney Point" 

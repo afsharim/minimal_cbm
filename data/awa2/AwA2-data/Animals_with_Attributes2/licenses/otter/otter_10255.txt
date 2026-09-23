@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sarae
+Photo URL    : https://www.flickr.com/photos/sarae/218721147/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 10 15:02:23 GMT+0200 2006
+Upload Date  : Fri Aug 18 23:56:51 GMT+0200 2006
+Geotag Info  : Latitude:47.607074, Longitude:-122.341389
+Views        : 43
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+otter seattle washington "seattle aquarium" aquarium "pike place" 

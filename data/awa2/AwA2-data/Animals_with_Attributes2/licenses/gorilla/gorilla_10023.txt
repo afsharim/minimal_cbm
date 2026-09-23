@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : GothEric
+Photo URL    : https://www.flickr.com/photos/gotheric/59382675/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Sep 9 14:54:57 GMT+0200 2004
+Upload Date  : Thu Nov 3 17:23:42 GMT+0100 2005
+Views        : 510
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+2578 gorilla
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zoo "bronx zoo" "new york" gorilla 

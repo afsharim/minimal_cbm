@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : lukask
+Photo URL    : https://www.flickr.com/photos/lukask/2902002389/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Sep 28 15:00:00 GMT+0200 2008
+Upload Date  : Tue Sep 30 21:31:48 GMT+0200 2008
+Geotag Info  : Latitude:52.428358, Longitude:4.607734
+Views        : 10,090
+Comments     : 4
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A new flock of 100 sheep in Kennemerduinen
+
+
++--------+
+|  TAGS  |
++--------+
+sheep 

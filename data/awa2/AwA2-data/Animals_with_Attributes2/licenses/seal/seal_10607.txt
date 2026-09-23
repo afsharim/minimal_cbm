@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : brian.gratwicke
+Photo URL    : https://www.flickr.com/photos/briangratwicke/5624582239/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Apr 16 13:58:12 GMT+0200 2011
+Upload Date  : Sat Apr 16 19:58:12 GMT+0200 2011
+Views        : 693
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+northern elephant seal (Mirounga angustirostris)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+taxonomy:kingdom=Animalia Animalia taxonomy:phylum=Chordata Chordata taxonomy:class=Mammalia Mammalia taxonomy:order=Carnivora Carnivora taxonomy:family=Phocidae Phocidae taxonomy:genus=Mirounga Mirounga taxonomy:species=angustirostris "taxonomy:binomial=Mirounga angustirostris" "Mirounga angustirostris" "Elefante-marino norteño" "northern elephant seal" "northern sea elephant" "taxonomy:common=Elefante-marino norteño" "taxonomy:common=northern elephant seal" "taxonomy:common=northern sea elephant" California 2011 

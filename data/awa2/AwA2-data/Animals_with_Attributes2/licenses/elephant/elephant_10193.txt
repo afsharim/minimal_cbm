@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Ovalicedge
+Photo URL    : https://www.flickr.com/photos/ovalicedge/16589858258/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Mar 8 17:24:25 GMT+0100 2015
+Upload Date  : Tue Mar 10 19:47:57 GMT+0100 2015
+Views        : 33
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elefant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Zoo Münster (<a href="http://www.allwetterzoo.de" rel="nofollow">www.allwetterzoo.de</a>)
+
+
++--------+
+|  TAGS  |
++--------+
+Zoo Münster Tiere 

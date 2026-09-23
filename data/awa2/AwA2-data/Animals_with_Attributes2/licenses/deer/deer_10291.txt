@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mostly Dans
+Photo URL    : https://www.flickr.com/photos/dannyboymalinga/5065993412/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 9 14:53:24 GMT+0200 2010
+Upload Date  : Sat Oct 9 23:13:16 GMT+0200 2010
+Geotag Info  : Latitude:51.413741, Longitude:-0.339117
+Views        : 2,534
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer portrait
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+close up of red deer stag Bushy Park
+
+
++--------+
+|  TAGS  |
++--------+
+"red deer" rut "bushy park" surrey 

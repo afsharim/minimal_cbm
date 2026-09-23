@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : donjd2
+Photo URL    : https://www.flickr.com/photos/ddebold/5384292000/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jan 22 11:17:14 GMT+0100 2011
+Upload Date  : Mon Jan 24 12:11:12 GMT+0100 2011
+Geotag Info  : Latitude:37.488000, Longitude:-121.835167
+Views        : 796
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Cows on Green Hill Side
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"blue sky" cow 

@@ -1,0 +1,19 @@
++--------------------------------------+
+|       Pixabay Photo Metadata         |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Meridy
+Photo URL    : https://pixabay.com/en/bat-flying-fox-fruit-tree-playing-525326/
+License      : CC0 Public Domain (https://creativecommons.org/publicdomain/zero/1.0/deed.en)
+Created      : July 12, 2014
+Uploaded     : Nov. 10, 2014
+
++--------+
+|  TAGS  |
++--------+
+Bat, Flying, Fox, Fruit, Tree, Playing, Wings, Mammal

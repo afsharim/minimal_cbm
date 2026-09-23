@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : CaliforniaDFW
+Photo URL    : https://www.flickr.com/photos/californiadfg/5535840108/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Mar 17 14:27:58 GMT+0100 2011
+Upload Date  : Thu Mar 17 22:27:58 GMT+0100 2011
+Views        : 764
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sea otter with clam
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+California Department of Fish and Game photo. 
+<a href="http://www.dfg.ca.gov/ospr/Science/sea_otter_research.aspx" rel="nofollow">www.dfg.ca.gov/ospr/Science/sea_otter_research.aspx</a>
+
+
++--------+
+|  TAGS  |
++--------+
+"Windows 7 Theme" 

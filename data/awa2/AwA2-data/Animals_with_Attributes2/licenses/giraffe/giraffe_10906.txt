@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Nagy David
+Photo URL    : https://www.flickr.com/photos/ndave/931201264/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 28 11:32:09 GMT+0200 2007
+Upload Date  : Sat Jul 28 21:43:05 GMT+0200 2007
+Geotag Info  : Latitude:47.518417, Longitude:19.075870
+Views        : 196
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Howdy, folks?
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Despite his origin and current location, he's living Texas-style.
+
+
++--------+
+|  TAGS  |
++--------+
+budapest zoo giraffe 

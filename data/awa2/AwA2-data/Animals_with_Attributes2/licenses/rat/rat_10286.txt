@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : doublecompile
+Photo URL    : https://www.flickr.com/photos/doublecompile/8517324806/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Feb 28 17:42:31 GMT+0100 2013
+Upload Date  : Thu Feb 28 23:44:42 GMT+0100 2013
+Views        : 115
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+They're just getting acquainted.
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+pets rats animals 

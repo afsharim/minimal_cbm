@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Kevin Burkett
+Photo URL    : https://www.flickr.com/photos/kevinwburkett/3158616510/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Dec 30 17:53:49 GMT+0100 2008
+Upload Date  : Fri Jan 2 04:04:46 GMT+0100 2009
+Geotag Info  : Latitude:40.818616, Longitude:-86.277179
+Views        : 2,859
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Horses
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A pair of horses graze in a field north of Logansport, Ind.
+
+
++--------+
+|  TAGS  |
++--------+
+nature animals horse indiana 

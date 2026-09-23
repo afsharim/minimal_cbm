@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : pescatello
+Photo URL    : https://www.flickr.com/photos/mikelewis/904837548/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 23 11:24:33 GMT+0200 2007
+Upload Date  : Thu Jul 26 13:49:04 GMT+0200 2007
+Geotag Info  : Latitude:46.527867, Longitude:24.541139
+Views        : 90
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

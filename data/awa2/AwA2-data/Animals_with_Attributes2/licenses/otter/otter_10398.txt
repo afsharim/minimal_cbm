@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Derek John Lee
+Photo URL    : https://www.flickr.com/photos/derek-john-lee/9138084380/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 23 11:13:39 GMT+0200 2013
+Upload Date  : Tue Jun 25 21:27:17 GMT+0200 2013
+Views        : 64
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Otter
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Whipsnade Zoo nature web animals otter 

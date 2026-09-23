@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Felinest
+Photo URL    : https://www.flickr.com/photos/felinest/4394858489/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 19 16:49:00 GMT+0200 2008
+Upload Date  : Sun Feb 28 18:30:26 GMT+0100 2010
+Views        : 1,752
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Resting Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This image is in the public domain. Learn more about the tigers of the world here: <a href="http://www.felinest.com/felidae-family-tigers/" rel="nofollow">Meet the Felidae Family - Tigers</a>
+
+
++--------+
+|  TAGS  |
++--------+
+tiger resting cat "big cat" 

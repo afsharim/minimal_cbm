@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : GregTheBusker
+Photo URL    : https://www.flickr.com/photos/gregthebusker/6236565261/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 1 09:10:47 GMT+0200 2011
+Upload Date  : Wed Oct 12 09:07:57 GMT+0200 2011
+Geotag Info  : Latitude:41.784513, Longitude:-87.582492
+Views        : 465
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Mouse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Illinois September 2011 mouse 

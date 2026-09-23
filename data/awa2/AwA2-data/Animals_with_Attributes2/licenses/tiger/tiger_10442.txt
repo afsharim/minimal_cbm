@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ahpek78
+Photo URL    : https://www.flickr.com/photos/peksh78/748149847/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jun 30 14:48:27 GMT+0200 2007
+Upload Date  : Sat Jul 7 20:18:31 GMT+0200 2007
+Geotag Info  : Latitude:1.304513, Longitude:103.824920
+Views        : 39
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Singapore Zoological Gardens" nature animal 

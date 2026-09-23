@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Amnesiak
+Photo URL    : https://commons.wikimedia.org/wiki/File:Collie_Strider_Puppy.JPG
+License      : public domain
+Date         : 2007-03-12

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : swimfinfan
+Photo URL    : https://www.flickr.com/photos/swimfinfan/3751148940/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Jul 11 12:58:44 GMT+0200 2009
+Upload Date  : Fri Jul 24 03:40:16 GMT+0200 2009
+Views        : 289
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Brookfield Zoo
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+gorilla
+
+
++--------+
+|  TAGS  |
++--------+
+Brookfield Zoo gorilla 

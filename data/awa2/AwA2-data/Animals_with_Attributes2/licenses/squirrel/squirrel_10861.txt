@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Daniel P. Fleming
+Photo URL    : https://www.flickr.com/photos/danielpfleming/5799838323/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 1 17:12:05 GMT+0200 2011
+Upload Date  : Sun Jun 5 16:53:58 GMT+0200 2011
+Geotag Info  : Latitude:40.202940, Longitude:-85.398391
+Views        : 386
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+A squirrel stares from a backyard deck.
+
+
++--------+
+|  TAGS  |
++--------+
+Squirrel outdoors animal DanielFleming 

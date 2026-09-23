@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : AiresAlmeida
+Photo URL    : https://www.flickr.com/photos/31212180@N08/7915235388/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Aug 17 10:47:08 GMT+0200 2012
+Upload Date  : Sun Sep 2 20:07:53 GMT+0200 2012
+Geotag Info  : Latitude:51.505537, Longitude:-0.161511
+Views        : 257
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Horsing
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Hyde Park
+
+
++--------+
+|  TAGS  |
++--------+
+London Londres UK England Inglaterra Horses "Hyde Park" Serpentine 

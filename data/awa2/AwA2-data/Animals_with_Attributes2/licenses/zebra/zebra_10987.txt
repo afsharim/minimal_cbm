@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : bradbox
+Photo URL    : https://www.flickr.com/photos/bradbox/14812758361/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 27 14:01:28 GMT+0200 2014
+Upload Date  : Sun Aug 3 10:11:08 GMT+0200 2014
+Geotag Info  : Latitude:50.409720, Longitude:-4.582071
+Views        : 102
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra, Porfell
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

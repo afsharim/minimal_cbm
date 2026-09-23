@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Wiki.will
+Photo URL    : https://www.flickr.com/photos/wikiwill/17328065716/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun May 3 10:42:35 GMT+0200 2015
+Upload Date  : Sun May 3 15:17:33 GMT+0200 2015
+Geotag Info  : Latitude:-34.222882, Longitude:150.903267
+Views        : 277
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Darkes Forest Riding Ranch
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Leading out the horses in the rain
+
+
++--------+
+|  TAGS  |
++--------+
+horse wet 

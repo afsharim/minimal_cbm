@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : christopher.d.heald
+Photo URL    : https://www.flickr.com/photos/husker_alum/7778570274/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 6 16:40:52 GMT+0200 2012
+Upload Date  : Tue Aug 14 05:10:39 GMT+0200 2012
+Views        : 177
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+RMNP-40
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Moose on North Inlet Trail.
+
+
++--------+
+|  TAGS  |
++--------+
+RMNP Moose 

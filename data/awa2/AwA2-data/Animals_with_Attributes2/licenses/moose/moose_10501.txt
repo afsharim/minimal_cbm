@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : grongar
+Photo URL    : https://www.flickr.com/photos/grongar/7555343822/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jul 12 05:37:43 GMT+0200 2012
+Upload Date  : Thu Jul 12 13:30:53 GMT+0200 2012
+Views        : 171
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Moose!
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+moose field morning vermont 

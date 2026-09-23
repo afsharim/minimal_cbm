@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : chris favero
+Photo URL    : https://www.flickr.com/photos/cfavero/7695188600/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 7 07:58:55 GMT+0200 2011
+Upload Date  : Thu Aug 2 04:07:40 GMT+0200 2012
+Views        : 1,096
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Mr Elephant Says "Hi!"
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Elephant 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : R@jeev
+Photo URL    : https://www.flickr.com/photos/rajeev_27/5619448026/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Apr 14 16:15:54 GMT+0200 2011
+Upload Date  : Thu Apr 14 17:03:07 GMT+0200 2011
+Views        : 1,031
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Bengal Tiger" India "Kodak Z981" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 07, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Mike Juvrud
+Photo URL    : https://www.flickr.com/photos/mikejuvrud/5480288664/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 26 13:38:55 GMT+0100 2011
+Upload Date  : Sat Feb 26 23:47:18 GMT+0100 2011
+Geotag Info  : Latitude:61.178922, Longitude:-149.834632
+Views        : 129
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+AK_Picture 003
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+anchorage winter moose 

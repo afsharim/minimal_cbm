@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Yukiko Matsuoka
+Photo URL    : https://www.flickr.com/photos/yukikomatsuoka/8620802359/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Apr 4 14:28:50 GMT+0200 2013
+Upload Date  : Fri Apr 5 13:03:32 GMT+0200 2013
+Geotag Info  : Latitude:34.657829, Longitude:135.892135
+Views        : 635
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

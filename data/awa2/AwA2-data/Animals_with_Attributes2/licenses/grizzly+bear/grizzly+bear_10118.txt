@@ -1,0 +1,39 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : NOAA Photo Library
+Photo URL    : https://www.flickr.com/photos/noaaphotolib/19157597773/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 17 13:59:06 GMT+0200 2015
+Upload Date  : Fri Jul 17 19:59:54 GMT+0200 2015
+Views        : 248
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+anim2458
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Grumpy looking large brown bear
+
+    Image ID: anim2458, NOAA's Ark - Animals Collection
+    Location: Alaska
+    Photo Date: 2013 June 28
+    Credit: NOAA Teacher at Sea Program
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

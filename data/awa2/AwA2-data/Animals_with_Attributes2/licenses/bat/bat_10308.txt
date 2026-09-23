@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Gilles San Martin
+Photo URL    : https://commons.wikimedia.org/wiki/File:Myotis_myotis_(5394846011).jpg
+License      : Creative Commons (https://en.wikipedia.org/wiki/en:Creative_Commons) Attribution-Share Alike 2.0 Generic (//creativecommons.org/licenses/by-sa/2.0/deed.en)
+Date         : 2011-01-24 18:16

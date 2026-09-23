@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ElizaPeyton
+Photo URL    : https://www.flickr.com/photos/elizafairy/3318296980/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Feb 28 16:20:02 GMT+0100 2009
+Upload Date  : Sun Mar 1 04:54:00 GMT+0100 2009
+Geotag Info  : Latitude:36.739984, Longitude:-119.793548
+Views        : 1,261
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+squirrel
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Squirrel at Millerton Lake, close to Fresno, CA.
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel millerton lake fresno california 

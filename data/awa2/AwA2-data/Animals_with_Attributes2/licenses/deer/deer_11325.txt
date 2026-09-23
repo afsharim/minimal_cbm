@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : HandsomeChap42
+Photo URL    : https://www.flickr.com/photos/handsomechap/11156025615/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Dec 1 16:49:48 GMT+0100 2013
+Upload Date  : Sun Dec 1 19:17:24 GMT+0100 2013
+Views        : 109
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Wollaton Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Sideshow_Matt
+Photo URL    : https://www.flickr.com/photos/sideshowmatt/5558343367/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Apr 7 14:41:54 GMT+0200 2008
+Upload Date  : Fri Mar 25 16:56:24 GMT+0100 2011
+Geotag Info  : Latitude:50.991866, Longitude:-1.279585
+Views        : 570
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Tiger (sitting up)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+© Matt Hance (SideshowMatt)
+A photograph taken on a visit to Marwell Zoo, Hampshire.
+
+
++--------+
+|  TAGS  |
++--------+
+Animals wildlife tiger 

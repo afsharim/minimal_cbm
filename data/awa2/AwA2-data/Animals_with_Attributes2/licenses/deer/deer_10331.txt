@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : snapboot
+Photo URL    : https://www.flickr.com/photos/snapboot/1295929950/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 1 15:29:54 GMT+0200 2007
+Upload Date  : Sat Sep 1 18:47:39 GMT+0200 2007
+Views        : 423
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Phoenix Park
+Dublin
+
+
++--------+
+|  TAGS  |
++--------+
+dublin pheonix park deer ireland nature wildlife 

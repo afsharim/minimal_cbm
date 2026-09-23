@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mtrappitt
+Photo URL    : https://www.flickr.com/photos/mtrappitt/4313563976/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jan 29 22:10:14 GMT+0100 2010
+Upload Date  : Fri Jan 29 10:10:14 GMT+0100 2010
+Views        : 890
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+tessa the dog
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"border collie" 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Uli Meier
+Photo URL    : https://www.flickr.com/photos/umeier/5509266598/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 13 11:46:57 GMT+0200 2010
+Upload Date  : Tue Mar 8 14:04:37 GMT+0100 2011
+Geotag Info  : Latitude:47.702172, Longitude:11.988808
+Views        : 155
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Kuh auf der Spitzing-Alm
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Fischbachau Bayern Germany "Geograph Deutschland" DEU 

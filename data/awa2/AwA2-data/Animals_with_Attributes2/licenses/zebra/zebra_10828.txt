@@ -1,0 +1,36 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Dannyqu
+Photo URL    : https://www.flickr.com/photos/dannyqu/5374873510/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jan 5 11:37:17 GMT+0100 2011
+Upload Date  : Fri Jan 21 07:23:15 GMT+0100 2011
+Views        : 836
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Un par de bonitas cebras del zoológico de Guadalajara.
+
+En realidad sólo una de esas cebras tenía sus rayas completamente negras, la otra las tenía un poco rojizas. Tal vez se las pintó para gustarle más al público.
+
+
++--------+
+|  TAGS  |
++--------+
+zebra "fujifilm S2000HD" 

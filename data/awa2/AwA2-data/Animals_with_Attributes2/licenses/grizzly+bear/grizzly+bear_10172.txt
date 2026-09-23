@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Gunnar Ries zwo
+Photo URL    : https://www.flickr.com/photos/44949218@N02/9611042374/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 19 13:42:50 GMT+0200 2009
+Upload Date  : Tue Aug 27 22:49:56 GMT+0200 2013
+Views        : 744
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Braunbär
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+braunbaer "brown bear" "ursus arctos" 

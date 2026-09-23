@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Idania Alvarez Palacios
+Photo URL    : https://www.flickr.com/photos/zedtoyo/16505077521/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Feb 9 08:53:18 GMT+0100 2015
+Upload Date  : Thu Feb 12 04:42:24 GMT+0100 2015
+Views        : 110
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+(no title)
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Colombia, Córdoba, Isla Fuerte.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

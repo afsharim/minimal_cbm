@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : a m lewis
+Photo URL    : https://www.flickr.com/photos/a-m-lewis/4961503789/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Sep 4 14:38:29 GMT+0200 2010
+Upload Date  : Mon Sep 6 01:38:06 GMT+0200 2010
+Geotag Info  : Latitude:38.929018, Longitude:-77.050595
+Views        : 254
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+zoo "national zoo" "washington dc" animals zebra 

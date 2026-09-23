@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : RBerteig
+Photo URL    : https://www.flickr.com/photos/rberteig/724052606/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 4 13:31:25 GMT+0200 2007
+Upload Date  : Thu Jul 5 08:58:25 GMT+0200 2007
+Geotag Info  : Latitude:34.129945, Longitude:-118.005373
+Views        : 882
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel with Nut
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This is our resident nut-chasing chatterbox. He also likes nectarines and avocados fresh from the tree.
+
+
++--------+
+|  TAGS  |
++--------+
+grass nut squirrel 

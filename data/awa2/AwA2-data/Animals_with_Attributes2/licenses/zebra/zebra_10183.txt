@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : BFS Man
+Photo URL    : https://www.flickr.com/photos/bfs_man/5559968366/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Mar 18 09:58:46 GMT+0100 2011
+Upload Date  : Sat Mar 26 01:06:50 GMT+0100 2011
+Geotag Info  : Latitude:32.723410, Longitude:-97.358286
+Views        : 179
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giddy-up
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Zebra at the Fort Worth Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+zebra "Fort Worth" Texas zoo 

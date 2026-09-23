@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 11, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Airwolfhound
+Photo URL    : https://www.flickr.com/photos/24874528@N04/4040173607/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Oct 24 15:30:48 GMT+0200 2009
+Upload Date  : Sat Oct 24 23:39:21 GMT+0200 2009
+Views        : 235
+Comments     : 2
+
+
++---------+
+|  TITLE  |
++---------+
+Squirrel - October 2009
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+squirrel 

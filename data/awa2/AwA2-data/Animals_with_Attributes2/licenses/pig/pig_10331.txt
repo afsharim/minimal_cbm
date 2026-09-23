@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Oct 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : brenbot
+Photo URL    : https://www.flickr.com/photos/brenbot/2692038462/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jul 18 18:58:45 GMT+0200 2008
+Upload Date  : Tue Jul 22 07:46:56 GMT+0200 2008
+Views        : 2,232
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Pig
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+This pig was at an ice cream block party I went to.
+
+
++--------+
+|  TAGS  |
++--------+
+pig 

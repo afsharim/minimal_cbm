@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Neil T
+Photo URL    : https://www.flickr.com/photos/neilt/14265586142/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon May 19 12:00:54 GMT+0200 2014
+Upload Date  : Sun May 25 20:08:02 GMT+0200 2014
+Geotag Info  : Latitude:53.354111, Longitude:-6.305551
+Views        : 562
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Amur Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+dublinzoo zoo tiger tigers 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 12, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : sheilaellen
+Photo URL    : https://www.flickr.com/photos/sheilaellen/1969952941/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Sep 10 21:21:27 GMT+0200 2007
+Upload Date  : Sun Nov 11 20:39:10 GMT+0100 2007
+Geotag Info  : Latitude:-42.395762, Longitude:173.695306
+Views        : 558
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Whale
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"New Zealand" "South Island" Kaikoura "whale watching" "Sperm whale" "South Pacific Ocean" 

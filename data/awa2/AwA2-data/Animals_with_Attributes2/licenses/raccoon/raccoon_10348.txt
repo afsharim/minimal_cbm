@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : cricketsblog
+Photo URL    : https://www.flickr.com/photos/cricketsblog/23487117841/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Nov 5 14:00:28 GMT+0100 2015
+Upload Date  : Sun Dec 6 22:14:59 GMT+0100 2015
+Views        : 89
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Raccoon
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+taxonomy:kingdom=Animalia Animalia taxonomy:phylum=Chordata Chordata taxonomy:subphylum=Vertebrata Vertebrata taxonomy:class=Mammalia Mammalia taxonomy:order=Carnivora Carnivora taxonomy:family=Procyonidae Procyonidae taxonomy:genus=Procyon Procyon taxonomy:species=lotor "taxonomy:binomial=Procyon lotor" "Ós rentador" "Procyon lotor" Raccoon Mapachtli a’ka’bak batúi "Northern Raccoon" "Nordamerikanischer Waschbär" "Common Raccoon" "raton laveur" Mapache "Zorra Manglera" Waschbär pesukarhu "taxonomy:common=Ós rentador" taxonomy:common=Raccoon taxonomy:common=Mapachtli taxonomy:common=a’ka’bak taxonomy:common=batúi "taxonomy:common=Northern Raccoon" "taxonomy:common=Nordamerikanischer Waschbär" "taxonomy:common=Common Raccoon" "taxonomy:common=raton laveur" taxonomy:common=Mapache "taxonomy:common=Zorra Manglera" taxonomy:common=Waschbär taxonomy:common=pesukarhu "Melissa McMasters" 

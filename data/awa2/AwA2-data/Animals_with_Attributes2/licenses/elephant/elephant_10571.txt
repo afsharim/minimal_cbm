@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : DarienGS
+Photo URL    : https://www.flickr.com/photos/dariengs/8147410947/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Nov 2 11:47:13 GMT+0100 2012
+Upload Date  : Fri Nov 2 12:47:13 GMT+0100 2012
+Geotag Info  : Latitude:-34.077687, Longitude:21.972999
+Views        : 130
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+About thirty seconds after I took this photo, things got rather more real than I require, thank you very much.
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

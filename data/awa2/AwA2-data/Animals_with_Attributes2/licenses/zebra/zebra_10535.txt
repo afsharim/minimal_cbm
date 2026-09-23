@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : jjmusgrove
+Photo URL    : https://www.flickr.com/photos/jjmusgrove/8855466174/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri May 2 13:49:50 GMT+0200 2008
+Upload Date  : Mon May 27 17:19:43 GMT+0200 2013
+Views        : 56
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Zebra 5
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+SONY DSC
+
+
++--------+
+|  TAGS  |
++--------+
+"Richmond Zoo" 

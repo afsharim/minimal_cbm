@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 10, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Eric F Savage
+Photo URL    : https://www.flickr.com/photos/efsavage/1188822723/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Aug 19 03:42:32 GMT+0200 2007
+Upload Date  : Tue Aug 21 05:29:24 GMT+0200 2007
+Geotag Info  : Latitude:42.063949, Longitude:-71.583335
+Views        : 108
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Chimps
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"southwick's zoo" zoo chimpanzee 

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 04, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Marit & Toomas Hinnosaar
+Photo URL    : https://www.flickr.com/photos/hinnosaar/3778791969/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Aug 1 12:32:57 GMT+0200 2009
+Upload Date  : Sun Aug 2 02:12:40 GMT+0200 2009
+Geotag Info  : Latitude:41.832103, Longitude:-87.835328
+Views        : 141
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Pygmy hippopotamus
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"brookfield zoo" hyppopotamus 

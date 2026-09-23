@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 19, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Tambako the Jaguar
+Photo URL    : https://www.flickr.com/photos/tambako/15973146267/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Aug 19 13:18:55 GMT+0200 2014
+Upload Date  : Wed Dec 31 22:00:12 GMT+0100 2014
+Geotag Info  : Latitude:52.502534, Longitude:13.528075
+Views        : 5,058
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Sleepy lynx portrait
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+The male lynx of the Tierpark Berlin was looking sleepy the whole time!
+
+
++--------+
+|  TAGS  |
++--------+
+sleepy portrait tired lying face lynx male big wild cat berlin tierpark zoo germany nikon d4 

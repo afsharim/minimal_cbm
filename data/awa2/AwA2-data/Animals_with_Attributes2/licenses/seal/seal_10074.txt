@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : kerryinlondon
+Photo URL    : https://www.flickr.com/photos/kerrylondon/6158756846/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Aug 15 10:38:33 GMT+0200 2011
+Upload Date  : Sun Sep 18 14:26:14 GMT+0200 2011
+Views        : 673
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Bearded Seal at Monaco Glacier, Svalbard
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+seals "bearded seal" norway Svalbard "Monaco Glacier" "National Geographic Explorer" 

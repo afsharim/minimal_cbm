@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : dave_stone
+Photo URL    : https://www.flickr.com/photos/silvercreek78250/3138669107/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Dec 26 15:34:37 GMT+0100 2008
+Upload Date  : Fri Dec 26 22:34:37 GMT+0100 2008
+Views        : 5
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Cattle9
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : marichica88
+Photo URL    : https://www.flickr.com/photos/rachel_patterson/5200195931/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Jan 7 06:47:08 GMT+0100 2010
+Upload Date  : Tue Nov 23 06:27:47 GMT+0100 2010
+Geotag Info  : Latitude:40.848659, Longitude:-73.880352
+Views        : 9
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Bronx Zoo
+
+
++--------+
+|  TAGS  |
++--------+
+"bronx zoo" "new york city" zoo 

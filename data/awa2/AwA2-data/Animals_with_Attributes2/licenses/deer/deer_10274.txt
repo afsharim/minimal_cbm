@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 15, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : tsakshaug
+Photo URL    : https://www.flickr.com/photos/tsakshaug/5155546378/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Nov 7 13:09:14 GMT+0100 2010
+Upload Date  : Sun Nov 7 20:51:38 GMT+0100 2010
+Geotag Info  : Latitude:43.020007, Longitude:-77.580213
+Views        : 99
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Deer Looking at me
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+Mendon deer 

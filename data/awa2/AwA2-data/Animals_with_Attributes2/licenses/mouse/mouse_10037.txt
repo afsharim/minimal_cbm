@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 22, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Maria Keays
+Photo URL    : https://www.flickr.com/photos/maria_keays/512137810/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu May 24 05:42:32 GMT+0200 2007
+Upload Date  : Thu May 24 15:53:21 GMT+0200 2007
+Geotag Info  : Latitude:54.339997, Longitude:-1.766781
+Views        : 873
+Comments     : 1
+
+
++---------+
+|  TITLE  |
++---------+
+Field mouse
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+It was about 3cm long and not afraid of me at all.
+
+
++--------+
+|  TAGS  |
++--------+
+barden animal rodent mouse "field mouse" 

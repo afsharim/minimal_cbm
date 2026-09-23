@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : alex_ford
+Photo URL    : https://www.flickr.com/photos/alex_ford/3438462768/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Apr 10 21:15:54 GMT+0200 2009
+Upload Date  : Mon Apr 13 16:26:09 GMT+0200 2009
+Geotag Info  : Latitude:35.634606, Longitude:-82.853329
+Views        : 993
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Brown cow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"Haywood County" NC mountains "Great Smoky Mountains" Crabtree cows hike 

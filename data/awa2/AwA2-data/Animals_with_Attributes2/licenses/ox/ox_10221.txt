@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : JSF539
+Photo URL    : https://www.flickr.com/photos/jsf539/16746936834/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat May 2 12:07:22 GMT+0200 2015
+Upload Date  : Tue May 5 00:51:23 GMT+0200 2015
+Views        : 9
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+DSC_2461
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

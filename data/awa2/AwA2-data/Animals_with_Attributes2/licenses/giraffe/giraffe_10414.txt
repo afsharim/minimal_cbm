@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : andrew_j_w
+Photo URL    : https://www.flickr.com/photos/andrew_j_w/2668380275/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jul 13 13:54:13 GMT+0200 2008
+Upload Date  : Mon Jul 14 23:07:45 GMT+0200 2008
+Geotag Info  : Latitude:51.535498, Longitude:-0.153594
+Views        : 313
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Giraffe
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"regents park" "london zoo" animal giraffe 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : ars5017
+Photo URL    : https://www.flickr.com/photos/browniesundae/8453890021/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jan 28 13:22:00 GMT+0100 2013
+Upload Date  : Fri Feb 8 02:43:28 GMT+0100 2013
+Views        : 50
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Elephant Seals
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

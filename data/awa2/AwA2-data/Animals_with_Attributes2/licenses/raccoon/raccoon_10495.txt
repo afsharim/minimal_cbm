@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 13, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : photobeyDE
+Photo URL    : https://www.flickr.com/photos/95970979@N02/18898938833/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 6 21:42:14 GMT+0200 2015
+Upload Date  : Wed Jul 8 12:07:01 GMT+0200 2015
+Geotag Info  : Latitude:51.728150, Longitude:10.257347
+Views        : 30
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Waschbär
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

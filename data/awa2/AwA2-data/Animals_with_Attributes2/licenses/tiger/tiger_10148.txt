@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : B_cool
+Photo URL    : https://www.flickr.com/photos/bengchye_loo/351580376/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Tue Jan 9 20:04:01 GMT+0100 2007
+Upload Date  : Tue Jan 9 13:04:01 GMT+0100 2007
+Views        : 2,384
+Comments     : 25
+
+
++---------+
+|  TITLE  |
++---------+
+Malayan tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+"malayan tiger" 

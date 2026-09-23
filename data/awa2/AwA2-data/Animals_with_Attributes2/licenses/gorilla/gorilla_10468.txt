@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : dddaag
+Photo URL    : https://www.flickr.com/photos/daaggg/5871802820/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Fri Jun 24 18:11:53 GMT+0200 2011
+Upload Date  : Sun Jun 26 06:00:04 GMT+0200 2011
+Geotag Info  : Latitude:35.077511, Longitude:-106.661576
+Views        : 1,845
+Comments     : 3
+
+
++---------+
+|  TITLE  |
++---------+
+Gorillas in the Shadows
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Seen at the zoo on the Rio Grande in Albuquerque.
+
+
++--------+
+|  TAGS  |
++--------+
+animals "new mexico" Albuquerque "Rio Grande Zoo" gorilla critters 

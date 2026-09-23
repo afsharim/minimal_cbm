@@ -1,0 +1,13 @@
++--------------------------------------+
+|   commons.wikimedia Photo Metadata   |
++--------------------------------------+
+
+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Joxerra Aihartza
+Photo URL    : https://commons.wikimedia.org/wiki/File:Myotis_capaccinii_0105b_cropped.jpg
+License      : Free Art License
+Date         : 2014-12-02

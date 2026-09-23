@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on May 18, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : nannetteturner
+Photo URL    : https://www.flickr.com/photos/brokersaunders/3088448390/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sat Dec 6 14:50:25 GMT+0100 2008
+Upload Date  : Sun Dec 7 02:47:14 GMT+0100 2008
+Views        : 455
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+cow
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

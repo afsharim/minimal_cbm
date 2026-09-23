@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 08, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mrrealaudience
+Photo URL    : https://www.flickr.com/photos/33513585@N08/3116945978/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Jun 1 14:28:27 GMT+0200 2008
+Upload Date  : Wed Dec 17 23:16:15 GMT+0100 2008
+Views        : 39
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Moooow cow profile
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+(no tags)

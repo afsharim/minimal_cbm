@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 03, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : Piotr Rybałtowski
+Photo URL    : https://www.flickr.com/photos/dekoderek/4787392479/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Mon Jul 12 16:39:40 GMT+0200 2010
+Upload Date  : Mon Jul 12 22:57:11 GMT+0200 2010
+Geotag Info  : Latitude:52.258071, Longitude:21.021909
+Views        : 76
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+A Tiger
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+(no description)
+
+
++--------+
+|  TAGS  |
++--------+
+tiger zoo warsaw warszawa animal 

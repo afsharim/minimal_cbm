@@ -1,0 +1,35 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Mar 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : mararie
+Photo URL    : https://www.flickr.com/photos/mararie/217626798/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Thu Aug 17 05:39:16 GMT+0200 2006
+Upload Date  : Thu Aug 17 14:39:16 GMT+0200 2006
+Geotag Info  : Latitude:42.652899, Longitude:11.905059
+Views        : 149
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+sheep
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+2 little ones are drinking
+
+
++--------+
+|  TAGS  |
++--------+
+italy bolsena "provincia di viterbo" VT 

@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Feb 09, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : allenthepostman
+Photo URL    : https://www.flickr.com/photos/allenthepostman/3725823721/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Wed Jul 15 22:41:23 GMT+0200 2009
+Upload Date  : Thu Jul 16 14:07:15 GMT+0200 2009
+Views        : 376
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+Hedgehog
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+eating cat food,back garden,July 2009
+
+
++--------+
+|  TAGS  |
++--------+
+hedgehogs cats pets persian "chinchilla persian" animals 

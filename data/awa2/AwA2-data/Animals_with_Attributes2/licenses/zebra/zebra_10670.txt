@@ -1,0 +1,34 @@
++--------------------------------------+
+|   Flickr Photo Metadata              |
+|   Created by Bulkr on Apr 14, 2016   |
+|   http://clipyourphotos.com/bulkr    |
++--------------------------------------+
+
++--------+
+|  INFO  |
++--------+
+Photographer : lomoa
+Photo URL    : https://www.flickr.com/photos/19669711@N00/101901137/
+License      : Creative Commons (http://creativecommons.org/licenses)
+Taken Date   : Sun Feb 19 20:55:37 GMT+0100 2006
+Upload Date  : Mon Feb 20 02:55:37 GMT+0100 2006
+Views        : 156
+Comments     : 0
+
+
++---------+
+|  TITLE  |
++---------+
+zebra
+
+
++---------------+
+|  DESCRIPTION  |
++---------------+
+Zebra at The Wilds, Cumberland, Ohio, July 2005.
+
+
++--------+
+|  TAGS  |
++--------+
+Safari 
