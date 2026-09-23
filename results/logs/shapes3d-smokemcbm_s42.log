@@ -1,0 +1,74 @@
+
+===== launch 2026-07-24 23:53:46.040125 gpu1 =====
+wandb: Using wandb-core as the SDK backend.  Please refer to https://wandb.me/wandb-core for more information.
+wandb: Tracking run with wandb version 0.19.0
+wandb: W&B syncing is set to `offline` in this directory.  
+wandb: Run `wandb online` or set WANDB_MODE=online to enable cloud syncing.
+Epoch 1
+losses_train/task:	1.393631100654602
+losses_train/concepts:	10.354015350341797
+losses_train/representations:	6.007389545440674
+losses_train/total:	29.769792556762695
+losses_test/task:	1.3834843635559082
+losses_test/concepts:	5.203125
+losses_test/representations:	5.106205463409424
+losses_test/total:	21.905227661132812
+calibration_test/ece:	0.00730331614613533
+calibration_test/brier:	0.7484510540962219
+accuracy_test/task:	27.52
+accuracy_test/concepts:	95.20962524414062
+map_test/concepts:	0.8780347771114774
+
+Epoch 2
+losses_train/task:	1.3842543363571167
+losses_train/concepts:	1.1841479539871216
+losses_train/representations:	0.7753419876098633
+losses_train/total:	4.894432544708252
+losses_test/task:	1.3813363313674927
+losses_test/concepts:	0.14496475458145142
+losses_test/representations:	0.1748262643814087
+losses_test/total:	2.0507800579071045
+calibration_train/ece:	0.007777328137308359
+calibration_train/brier:	0.7470369935035706
+accuracy_train/task:	27.99942211948791
+calibration_test/ece:	0.010137989185750484
+calibration_test/brier:	0.7475510835647583
+accuracy_test/task:	27.756666666666668
+accuracy_train/concepts:	100.0
+map_train/concepts:	0.9998987350198958
+accuracy_test/concepts:	99.99980926513672
+map_test/concepts:	0.999696198436949
+accuracy_test/nuisances_task:	11.988333240151405
+accuracy_test/nuisances_nontask:	12.539999932050705
+mutual_inf_test/nuisances_task:	0.06762701375658575
+mutual_inf_test/nuisances_nontask:	0.11401860179292223
+
+epoch_2.pt
+72.24333333333334
+72.23
+72.35666666666667
+72.36666666666667
+72.34
+72.29666666666667
+72.51666666666667
+72.36666666666667
+72.74
+72.63666666666667
+72.61666666666667
+72.42666666666666
+72.35666666666667
+72.47333333333333
+72.65333333333334
+72.35
+72.42
+72.82666666666667
+[1;34mwandb[0m:
+[1;34mwandb[0m: You can sync this run to the cloud by running:
+[1;34mwandb[0m: [1mwandb sync /research/hal-afsharim/minimal_cbm/results/shapes3d-smokemcbm/42/wandb/offline-run-20260724_235351-xwe91m2t[0m
+[1;34mwandb[0m: Find logs at: [1;35mresults/shapes3d-smokemcbm/42/wandb/offline-run-20260724_235351-xwe91m2t/logs[0m
+
+===== launch 2026-07-25 06:03:19.668992 gpu6 =====
+wandb: Using wandb-core as the SDK backend.  Please refer to https://wandb.me/wandb-core for more information.
+wandb: Tracking run with wandb version 0.19.0
+wandb: W&B syncing is set to `offline` in this directory.  
+wandb: Run `wandb online` or set WANDB_MODE=online to enable cloud syncing.

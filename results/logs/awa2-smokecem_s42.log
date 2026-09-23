@@ -1,0 +1,53 @@
+
+===== launch 2026-07-24 23:54:06.086140 gpu0 =====
+wandb: Using wandb-core as the SDK backend.  Please refer to https://wandb.me/wandb-core for more information.
+wandb: Tracking run with wandb version 0.19.0
+wandb: W&B syncing is set to `offline` in this directory.  
+wandb: Run `wandb online` or set WANDB_MODE=online to enable cloud syncing.
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and will be removed in 0.15, please use 'weights' instead.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and will be removed in 0.15. The current behavior is equivalent to passing `weights=ResNet50_Weights.IMAGENET1K_V1`. You can also use `weights=ResNet50_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+Epoch 1
+losses_train/task:	1.8503592014312744
+losses_train/concepts:	9.209915161132812
+losses_train/total:	2.771350860595703
+losses_test/task:	1.140234112739563
+losses_test/concepts:	5.981707572937012
+losses_test/total:	1.7384051084518433
+calibration_test/ece:	0.03096839413046837
+calibration_test/brier:	0.42973265051841736
+accuracy_test/task:	67.90588629322616
+accuracy_test/concepts:	92.40392303466797
+map_test/concepts:	0.786480887234211
+
+/research/hal-afsharim/minimal_cbm/src/helpers/metrics.py:179: RuntimeWarning: invalid value encountered in double_scalars
+  
+Epoch 2
+losses_train/task:	1.1147382259368896
+losses_train/concepts:	6.003634929656982
+losses_train/total:	1.715101718902588
+losses_test/task:	1.4126511812210083
+losses_test/concepts:	7.0818095207214355
+losses_test/total:	2.1208324432373047
+calibration_train/ece:	0.09929767996072769
+calibration_train/brier:	0.5713207721710205
+accuracy_train/task:	57.88746843434343
+calibration_test/ece:	0.11568222939968109
+calibration_test/brier:	0.5046012997627258
+accuracy_test/task:	64.58176337603618
+accuracy_train/concepts:	90.6176986694336
+map_train/concepts:	0.7357340581715107
+accuracy_test/concepts:	92.43238830566406
+map_test/concepts:	0.776992455124855
+accuracy_test/nuisances_task:	2.2299516201019287
+accuracy_test/nuisances_nontask:	0.0
+mutual_inf_test/nuisances_task:	nan
+mutual_inf_test/nuisances_nontask:	0.0
+
+epoch_2.pt
+Skipping interventions for this model: mat1 and mat2 shapes cannot be multiplied (128x40 and 20x256)
+[1;34mwandb[0m:
+[1;34mwandb[0m: You can sync this run to the cloud by running:
+[1;34mwandb[0m: [1mwandb sync /research/hal-afsharim/minimal_cbm/results/awa2-smokecem/42/wandb/offline-run-20260724_235409-tknkl2n8[0m
+[1;34mwandb[0m: Find logs at: [1;35mresults/awa2-smokecem/42/wandb/offline-run-20260724_235409-tknkl2n8/logs[0m

@@ -1,0 +1,731 @@
+
+===== launch 2026-07-25 09:51:03.682127 gpu1 =====
+wandb: Using wandb-core as the SDK backend.  Please refer to https://wandb.me/wandb-core for more information.
+wandb: Tracking run with wandb version 0.19.0
+wandb: W&B syncing is set to `offline` in this directory.  
+wandb: Run `wandb online` or set WANDB_MODE=online to enable cloud syncing.
+
+===== launch 2026-07-25 18:16:15.363799 gpu4 =====
+wandb: Using wandb-core as the SDK backend.  Please refer to https://wandb.me/wandb-core for more information.
+wandb: Tracking run with wandb version 0.19.0
+wandb: W&B syncing is set to `offline` in this directory.  
+wandb: Run `wandb online` or set WANDB_MODE=online to enable cloud syncing.
+Epoch 1
+losses_train/task:	1.381954550743103
+losses_train/concepts:	10.80617618560791
+losses_train/total:	12.18813705444336
+losses_test/task:	1.3854730129241943
+losses_test/concepts:	5.724405765533447
+losses_test/total:	7.10988187789917
+calibration_test/ece:	0.0024333512410521507
+calibration_test/brier:	0.7495716214179993
+accuracy_test/task:	26.916666666666668
+accuracy_test/concepts:	88.83407592773438
+map_test/concepts:	0.7805357484353913
+
+Epoch 2
+losses_train/task:	1.384169578552246
+losses_train/concepts:	2.65156626701355
+losses_train/total:	4.035737991333008
+losses_test/task:	1.384092092514038
+losses_test/concepts:	9.977163314819336
+losses_test/total:	11.361252784729004
+calibration_test/ece:	0.005694820545613766
+calibration_test/brier:	0.7488850951194763
+accuracy_test/task:	26.676666666666666
+accuracy_test/concepts:	94.17648315429688
+map_test/concepts:	0.7768287079201804
+
+Epoch 3
+losses_train/task:	1.382644534111023
+losses_train/concepts:	0.5525676012039185
+losses_train/total:	1.935211181640625
+losses_test/task:	1.38286292552948
+losses_test/concepts:	0.04948326572775841
+losses_test/total:	1.4323465824127197
+calibration_test/ece:	0.0020347258541733027
+calibration_test/brier:	0.7482932209968567
+accuracy_test/task:	27.36
+accuracy_test/concepts:	99.98851776123047
+map_test/concepts:	0.9996962348620096
+
+Epoch 4
+losses_train/task:	1.3816115856170654
+losses_train/concepts:	0.08550091087818146
+losses_train/total:	1.4671125411987305
+losses_test/task:	1.3817787170410156
+losses_test/concepts:	0.003179632592946291
+losses_test/total:	1.3849592208862305
+calibration_test/ece:	0.005377526395022869
+calibration_test/brier:	0.747750461101532
+accuracy_test/task:	28.176666666666666
+accuracy_test/concepts:	100.0
+map_test/concepts:	0.9996962348620096
+
+Epoch 5
+losses_train/task:	1.3808170557022095
+losses_train/concepts:	0.03689917176961899
+losses_train/total:	1.4177157878875732
+losses_test/task:	1.3813399076461792
+losses_test/concepts:	0.0017517594387754798
+losses_test/total:	1.3830912113189697
+calibration_test/ece:	0.005783585831522942
+calibration_test/brier:	0.7475281953811646
+accuracy_test/task:	28.183333333333334
+accuracy_test/concepts:	100.0
+map_test/concepts:	0.9996962348620096
+
+Epoch 6
+losses_train/task:	1.3802356719970703
+losses_train/concepts:	0.007119118236005306
+losses_train/total:	1.3873547315597534
+losses_test/task:	1.3816659450531006
+losses_test/concepts:	0.0010787987848743796
+losses_test/total:	1.3827452659606934
+calibration_test/ece:	0.0026338952593505383
+calibration_test/brier:	0.7477079629898071
+accuracy_test/task:	28.01
+accuracy_test/concepts:	100.0
+map_test/concepts:	0.9996962348620096
+
+Epoch 7
+losses_train/task:	1.3796615600585938
+losses_train/concepts:	0.0038107053842395544
+losses_train/total:	1.383471965789795
+losses_test/task:	1.3805501461029053
+losses_test/concepts:	0.0008233119151555002
+losses_test/total:	1.3813742399215698
+calibration_test/ece:	0.006315407808870077
+calibration_test/brier:	0.7471444010734558
+accuracy_test/task:	28.813333333333333
+accuracy_test/concepts:	100.0
+map_test/concepts:	0.9996962348620096
+
+Epoch 8
+losses_train/task:	1.379024863243103
+losses_train/concepts:	0.0047692242078483105
+losses_train/total:	1.383793830871582
+losses_test/task:	1.379690170288086
+losses_test/concepts:	0.0007848083623684943
+losses_test/total:	1.3804752826690674
+calibration_test/ece:	0.008871371857821941
+calibration_test/brier:	0.7467160224914551
+accuracy_test/task:	29.063333333333333
+accuracy_test/concepts:	100.0
+map_test/concepts:	0.9996962348620096
+
+Epoch 9
+losses_train/task:	1.3785161972045898
+losses_train/concepts:	0.003934132866561413
+losses_train/total:	1.3824498653411865
+losses_test/task:	1.3793047666549683
+losses_test/concepts:	0.000781506416387856
+losses_test/total:	1.3800859451293945
+calibration_test/ece:	0.009414452128112316
+calibration_test/brier:	0.7465256452560425
+accuracy_test/task:	29.15
+accuracy_test/concepts:	100.0
+map_test/concepts:	0.9996962348620096
+
+Epoch 10
+losses_train/task:	1.3778834342956543
+losses_train/concepts:	0.0025904809590429068
+losses_train/total:	1.3804738521575928
+losses_test/task:	1.379307746887207
+losses_test/concepts:	0.0004724460013676435
+losses_test/total:	1.3797802925109863
+calibration_train/ece:	0.007786337286233902
+calibration_train/brier:	0.7456172704696655
+accuracy_train/task:	29.084059388335703
+calibration_test/ece:	0.0038708325009793043
+calibration_test/brier:	0.7465399503707886
+accuracy_test/task:	28.84
+accuracy_train/concepts:	100.0
+map_train/concepts:	0.999898738331265
+accuracy_test/concepts:	100.0
+map_test/concepts:	0.9996962348620096
+accuracy_test/nuisances_task:	28.121666982769966
+accuracy_test/nuisances_nontask:	34.18666571378708
+mutual_inf_test/nuisances_task:	0.2194241373690849
+mutual_inf_test/nuisances_nontask:	0.42043806399684625
+
+Epoch 11
+losses_train/task:	1.377476453781128
+losses_train/concepts:	0.14861227571964264
+losses_train/total:	1.5260893106460571
+losses_test/task:	1.3784998655319214
+losses_test/concepts:	0.003818584606051445
+losses_test/total:	1.382318377494812
+calibration_test/ece:	0.008812000043690205
+calibration_test/brier:	0.7461249232292175
+accuracy_test/task:	29.406666666666666
+accuracy_test/concepts:	100.0
+map_test/concepts:	0.9996962348620096
+
+Epoch 12
+losses_train/task:	1.3767187595367432
+losses_train/concepts:	0.007138523273169994
+losses_train/total:	1.38385808467865
+losses_test/task:	1.3781614303588867
+losses_test/concepts:	0.001288876635953784
+losses_test/total:	1.3794499635696411
+calibration_test/ece:	0.00725834583863616
+calibration_test/brier:	0.7459570169448853
+accuracy_test/task:	29.22
+accuracy_test/concepts:	100.0
+map_test/concepts:	0.9996962348620096
+
+Epoch 13
+losses_train/task:	1.376154899597168
+losses_train/concepts:	0.004700266756117344
+losses_train/total:	1.3808549642562866
+losses_test/task:	1.377760410308838
+losses_test/concepts:	0.0007934430032037199
+losses_test/total:	1.3785536289215088
+calibration_test/ece:	0.005376295652240515
+calibration_test/brier:	0.7457523941993713
+accuracy_test/task:	29.086666666666666
+accuracy_test/concepts:	100.0
+map_test/concepts:	0.9996962348620096
+
+Epoch 14
+losses_train/task:	1.375624418258667
+losses_train/concepts:	0.005223895888775587
+losses_train/total:	1.3808478116989136
+losses_test/task:	1.3773682117462158
+losses_test/concepts:	0.0009092285763472319
+losses_test/total:	1.37827730178833
+calibration_test/ece:	0.005271908827126026
+calibration_test/brier:	0.7455708384513855
+accuracy_test/task:	29.22
+accuracy_test/concepts:	100.0
+map_test/concepts:	0.9996962348620096
+
+Epoch 15
+losses_train/task:	1.3751654624938965
+losses_train/concepts:	0.03188660740852356
+losses_train/total:	1.4070528745651245
+losses_test/task:	1.3771520853042603
+losses_test/concepts:	0.0008419788209721446
+losses_test/total:	1.3779940605163574
+calibration_test/ece:	0.009165719151496887
+calibration_test/brier:	0.7454637885093689
+accuracy_test/task:	29.613333333333333
+accuracy_test/concepts:	100.0
+map_test/concepts:	0.9996962348620096
+
+Epoch 16
+losses_train/task:	1.374806523323059
+losses_train/concepts:	0.0030289744026958942
+losses_train/total:	1.3778355121612549
+losses_test/task:	1.3768244981765747
+losses_test/concepts:	0.0006585892988368869
+losses_test/total:	1.3774832487106323
+calibration_test/ece:	0.006052488461136818
+calibration_test/brier:	0.7452941536903381
+accuracy_test/task:	29.49
+accuracy_test/concepts:	100.0
+map_test/concepts:	0.9996962348620096
+
+Epoch 17
+losses_train/task:	1.374395728111267
+losses_train/concepts:	0.0020288412924855947
+losses_train/total:	1.3764244318008423
+losses_test/task:	1.3762377500534058
+losses_test/concepts:	0.0005838506040163338
+losses_test/total:	1.376821517944336
+calibration_test/ece:	0.010272393934428692
+calibration_test/brier:	0.7450066804885864
+accuracy_test/task:	29.673333333333332
+accuracy_test/concepts:	100.0
+map_test/concepts:	0.9996962348620096
+
+Epoch 18
+losses_train/task:	1.3739842176437378
+losses_train/concepts:	0.00171170465182513
+losses_train/total:	1.3756951093673706
+losses_test/task:	1.376209020614624
+losses_test/concepts:	0.0003797888639383018
+losses_test/total:	1.3765888214111328
+calibration_test/ece:	0.00631434191018343
+calibration_test/brier:	0.7450092434883118
+accuracy_test/task:	29.69
+accuracy_test/concepts:	100.0
+map_test/concepts:	0.9996962348620096
+
+Epoch 19
+losses_train/task:	1.37360680103302
+losses_train/concepts:	0.0023914503399282694
+losses_train/total:	1.37599778175354
+losses_test/task:	1.3759098052978516
+losses_test/concepts:	0.0003812743234448135
+losses_test/total:	1.3762911558151245
+calibration_test/ece:	0.005564122926443815
+calibration_test/brier:	0.7448620796203613
+accuracy_test/task:	29.676666666666666
+accuracy_test/concepts:	100.0
+map_test/concepts:	0.9996962348620096
+
+Epoch 20
+losses_train/task:	1.3733896017074585
+losses_train/concepts:	0.0012207075487822294
+losses_train/total:	1.3746111392974854
+losses_test/task:	1.3759840726852417
+losses_test/concepts:	0.00029501962126232684
+losses_test/total:	1.3762784004211426
+calibration_train/ece:	0.006648571230471134
+calibration_train/brier:	0.7433830499649048
+accuracy_train/task:	29.89086948790896
+calibration_test/ece:	0.004368176683783531
+calibration_test/brier:	0.7448843121528625
+accuracy_test/task:	29.63
+accuracy_train/concepts:	100.0
+map_train/concepts:	0.9998987449540032
+accuracy_test/concepts:	100.0
+map_test/concepts:	0.9996962348620096
+accuracy_test/nuisances_task:	29.340000078082085
+accuracy_test/nuisances_nontask:	32.78999961912632
+mutual_inf_test/nuisances_task:	0.22853394746878858
+mutual_inf_test/nuisances_nontask:	0.4118146319399598
+
+Epoch 21
+losses_train/task:	1.372697114944458
+losses_train/concepts:	0.0011743506183847785
+losses_train/total:	1.3738716840744019
+losses_test/task:	1.375667691230774
+losses_test/concepts:	0.0002851859899237752
+losses_test/total:	1.3759533166885376
+calibration_test/ece:	0.005585452076047659
+calibration_test/brier:	0.7447358965873718
+accuracy_test/task:	29.723333333333333
+accuracy_test/concepts:	100.0
+map_test/concepts:	0.9996962348620096
+
+Epoch 22
+losses_train/task:	1.3725852966308594
+losses_train/concepts:	0.0009819607948884368
+losses_train/total:	1.373567819595337
+losses_test/task:	1.3756301403045654
+losses_test/concepts:	0.0002780746726784855
+losses_test/total:	1.3759076595306396
+calibration_test/ece:	0.005580505821853876
+calibration_test/brier:	0.7447174191474915
+accuracy_test/task:	29.723333333333333
+accuracy_test/concepts:	100.0
+map_test/concepts:	0.9996962348620096
+
+Epoch 23
+losses_train/task:	1.3725361824035645
+losses_train/concepts:	0.001180690131150186
+losses_train/total:	1.3737174272537231
+losses_test/task:	1.3755862712860107
+losses_test/concepts:	0.0002802209637593478
+losses_test/total:	1.3758671283721924
+calibration_test/ece:	0.005455450154840946
+calibration_test/brier:	0.7446959018707275
+accuracy_test/task:	29.723333333333333
+accuracy_test/concepts:	100.0
+map_test/concepts:	0.9996962348620096
+
+Epoch 24
+losses_train/task:	1.3725008964538574
+losses_train/concepts:	0.0011380447540432215
+losses_train/total:	1.3736368417739868
+losses_test/task:	1.3755933046340942
+losses_test/concepts:	0.0003213656891603023
+losses_test/total:	1.3759149312973022
+calibration_test/ece:	0.004805920645594597
+calibration_test/brier:	0.7447001338005066
+accuracy_test/task:	29.676666666666666
+accuracy_test/concepts:	100.0
+map_test/concepts:	0.9996962348620096
+
+Epoch 25
+losses_train/task:	1.3724726438522339
+losses_train/concepts:	0.0014158763224259019
+losses_train/total:	1.3738880157470703
+losses_test/task:	1.375605583190918
+losses_test/concepts:	0.00030003569554537535
+losses_test/total:	1.3759057521820068
+calibration_test/ece:	0.004591066390275955
+calibration_test/brier:	0.7447102665901184
+accuracy_test/task:	29.676666666666666
+accuracy_test/concepts:	100.0
+map_test/concepts:	0.9996962348620096
+
+Epoch 26
+losses_train/task:	1.3724459409713745
+losses_train/concepts:	0.0011186058400198817
+losses_train/total:	1.3735653162002563
+losses_test/task:	1.375545859336853
+losses_test/concepts:	0.0002852461766451597
+losses_test/total:	1.375830888748169
+calibration_test/ece:	0.004718333948403597
+calibration_test/brier:	0.7446789145469666
+accuracy_test/task:	29.676666666666666
+accuracy_test/concepts:	100.0
+map_test/concepts:	0.9996962348620096
+
+Epoch 27
+losses_train/task:	1.3723909854888916
+losses_train/concepts:	0.0010311735095456243
+losses_train/total:	1.3734217882156372
+losses_test/task:	1.3755569458007812
+losses_test/concepts:	0.0003347026649862528
+losses_test/total:	1.3758912086486816
+calibration_test/ece:	0.004579593427479267
+calibration_test/brier:	0.7446854114532471
+accuracy_test/task:	29.676666666666666
+accuracy_test/concepts:	100.0
+map_test/concepts:	0.9996962348620096
+
+Epoch 28
+losses_train/task:	1.3723750114440918
+losses_train/concepts:	0.0011772757861763239
+losses_train/total:	1.3735523223876953
+losses_test/task:	1.375463604927063
+losses_test/concepts:	0.0002812317688949406
+losses_test/total:	1.375744342803955
+calibration_test/ece:	0.00503451656550169
+calibration_test/brier:	0.744634747505188
+accuracy_test/task:	29.723333333333333
+accuracy_test/concepts:	100.0
+map_test/concepts:	0.9996962348620096
+
+Epoch 29
+losses_train/task:	1.3723490238189697
+losses_train/concepts:	0.0016328097553923726
+losses_train/total:	1.3739813566207886
+losses_test/task:	1.3755022287368774
+losses_test/concepts:	0.00028129402198828757
+losses_test/total:	1.3757833242416382
+calibration_test/ece:	0.005451472941786051
+calibration_test/brier:	0.7446577548980713
+accuracy_test/task:	29.676666666666666
+accuracy_test/concepts:	100.0
+map_test/concepts:	0.9996962348620096
+
+Epoch 30
+losses_train/task:	1.3723286390304565
+losses_train/concepts:	0.0011902134865522385
+losses_train/total:	1.3735182285308838
+losses_test/task:	1.3754080533981323
+losses_test/concepts:	0.0002808281860779971
+losses_test/total:	1.3756886720657349
+calibration_train/ece:	0.007950734347105026
+calibration_train/brier:	0.7430440783500671
+accuracy_train/task:	30.092016358463727
+calibration_test/ece:	0.0051232436671853065
+calibration_test/brier:	0.7446082234382629
+accuracy_test/task:	29.716666666666665
+accuracy_train/concepts:	100.0
+map_train/concepts:	0.9998987449540032
+accuracy_test/concepts:	100.0
+map_test/concepts:	0.9996962348620096
+accuracy_test/nuisances_task:	29.046667367219925
+accuracy_test/nuisances_nontask:	32.83666856586933
+mutual_inf_test/nuisances_task:	0.2279652685401512
+mutual_inf_test/nuisances_nontask:	0.40995733758541875
+
+Epoch 31
+losses_train/task:	1.3723055124282837
+losses_train/concepts:	0.0009894955437630415
+losses_train/total:	1.3732959032058716
+losses_test/task:	1.3754440546035767
+losses_test/concepts:	0.0002609828079584986
+losses_test/total:	1.3757044076919556
+calibration_test/ece:	0.005390257108956575
+calibration_test/brier:	0.7446286678314209
+accuracy_test/task:	29.676666666666666
+accuracy_test/concepts:	100.0
+map_test/concepts:	0.9996962348620096
+
+Epoch 32
+losses_train/task:	1.372259259223938
+losses_train/concepts:	0.0012954584090039134
+losses_train/total:	1.3735547065734863
+losses_test/task:	1.3754024505615234
+losses_test/concepts:	0.0002611039381008595
+losses_test/total:	1.375662922859192
+calibration_test/ece:	0.00535005796700716
+calibration_test/brier:	0.744608461856842
+accuracy_test/task:	29.69333333333333
+accuracy_test/concepts:	100.0
+map_test/concepts:	0.9996962348620096
+
+Epoch 33
+losses_train/task:	1.3722474575042725
+losses_train/concepts:	0.0009442041045986116
+losses_train/total:	1.3731921911239624
+losses_test/task:	1.3753701448440552
+losses_test/concepts:	0.0002604806504677981
+losses_test/total:	1.3756310939788818
+calibration_test/ece:	0.005134463310241699
+calibration_test/brier:	0.7445911169052124
+accuracy_test/task:	29.723333333333333
+accuracy_test/concepts:	100.0
+map_test/concepts:	0.9996962348620096
+
+Epoch 34
+losses_train/task:	1.3722158670425415
+losses_train/concepts:	0.001009204308502376
+losses_train/total:	1.3732249736785889
+losses_test/task:	1.3754000663757324
+losses_test/concepts:	0.00026685555349104106
+losses_test/total:	1.3756661415100098
+calibration_test/ece:	0.005010490771383047
+calibration_test/brier:	0.7446115612983704
+accuracy_test/task:	29.723333333333333
+accuracy_test/concepts:	100.0
+map_test/concepts:	0.9996962348620096
+
+Epoch 35
+losses_train/task:	1.3721917867660522
+losses_train/concepts:	0.0010074462043121457
+losses_train/total:	1.373199462890625
+losses_test/task:	1.375327229499817
+losses_test/concepts:	0.0002631465904414654
+losses_test/total:	1.3755905628204346
+calibration_test/ece:	0.0049833012744784355
+calibration_test/brier:	0.7445701956748962
+accuracy_test/task:	29.716666666666665
+accuracy_test/concepts:	100.0
+map_test/concepts:	0.9996962348620096
+
+Epoch 36
+losses_train/task:	1.3721908330917358
+losses_train/concepts:	0.0009323899284936488
+losses_train/total:	1.373122215270996
+losses_test/task:	1.3753204345703125
+losses_test/concepts:	0.0002837756182998419
+losses_test/total:	1.3756046295166016
+calibration_test/ece:	0.004935265518724918
+calibration_test/brier:	0.7445687055587769
+accuracy_test/task:	29.716666666666665
+accuracy_test/concepts:	100.0
+map_test/concepts:	0.9996962348620096
+
+Epoch 37
+losses_train/task:	1.37215256690979
+losses_train/concepts:	0.001082605216652155
+losses_train/total:	1.3732357025146484
+losses_test/task:	1.3753050565719604
+losses_test/concepts:	0.00026304274797439575
+losses_test/total:	1.3755683898925781
+calibration_test/ece:	0.005183566361665726
+calibration_test/brier:	0.7445617318153381
+accuracy_test/task:	29.676666666666666
+accuracy_test/concepts:	100.0
+map_test/concepts:	0.9996962348620096
+
+Epoch 38
+losses_train/task:	1.372123122215271
+losses_train/concepts:	0.0009946119971573353
+losses_train/total:	1.3731188774108887
+losses_test/task:	1.3753513097763062
+losses_test/concepts:	0.0002654706477187574
+losses_test/total:	1.3756170272827148
+calibration_test/ece:	0.0053815655410289764
+calibration_test/brier:	0.7445894479751587
+accuracy_test/task:	29.676666666666666
+accuracy_test/concepts:	100.0
+map_test/concepts:	0.9996962348620096
+
+Epoch 39
+losses_train/task:	1.372101068496704
+losses_train/concepts:	0.0009685513796284795
+losses_train/total:	1.3730708360671997
+losses_test/task:	1.3753360509872437
+losses_test/concepts:	0.0002476272638887167
+losses_test/total:	1.3755836486816406
+calibration_test/ece:	0.005342237651348114
+calibration_test/brier:	0.7445808053016663
+accuracy_test/task:	29.676666666666666
+accuracy_test/concepts:	100.0
+map_test/concepts:	0.9996962348620096
+
+Epoch 40
+losses_train/task:	1.3720675706863403
+losses_train/concepts:	0.0009592829155735672
+losses_train/total:	1.3730275630950928
+losses_test/task:	1.3753355741500854
+losses_test/concepts:	0.000255724968155846
+losses_test/total:	1.375591516494751
+calibration_train/ece:	0.007240711711347103
+calibration_train/brier:	0.7429267168045044
+accuracy_train/task:	30.120910384068278
+calibration_test/ece:	0.005060290452092886
+calibration_test/brier:	0.7445850372314453
+accuracy_test/task:	29.683333333333334
+accuracy_train/concepts:	100.0
+map_train/concepts:	0.9998987581994798
+accuracy_test/concepts:	100.0
+map_test/concepts:	0.9996962348620096
+accuracy_test/nuisances_task:	29.10500131547451
+accuracy_test/nuisances_nontask:	31.966667994856834
+mutual_inf_test/nuisances_task:	0.23013752082799566
+mutual_inf_test/nuisances_nontask:	0.40060509984886383
+
+Epoch 41
+losses_train/task:	1.3719947338104248
+losses_train/concepts:	0.0009940753225237131
+losses_train/total:	1.3729884624481201
+losses_test/task:	1.3753173351287842
+losses_test/concepts:	0.0002583388995844871
+losses_test/total:	1.3755755424499512
+calibration_test/ece:	0.005220393184572458
+calibration_test/brier:	0.744574785232544
+accuracy_test/task:	29.676666666666666
+accuracy_test/concepts:	100.0
+map_test/concepts:	0.9996962348620096
+
+Epoch 42
+losses_train/task:	1.3719866275787354
+losses_train/concepts:	0.0010574503103271127
+losses_train/total:	1.3730437755584717
+losses_test/task:	1.3753070831298828
+losses_test/concepts:	0.00023948938178364187
+losses_test/total:	1.3755463361740112
+calibration_test/ece:	0.005225958302617073
+calibration_test/brier:	0.7445683479309082
+accuracy_test/task:	29.676666666666666
+accuracy_test/concepts:	100.0
+map_test/concepts:	0.9996962348620096
+
+Epoch 43
+losses_train/task:	1.371999979019165
+losses_train/concepts:	0.0009966817451640964
+losses_train/total:	1.3729976415634155
+losses_test/task:	1.3753002882003784
+losses_test/concepts:	0.0002513462968636304
+losses_test/total:	1.3755512237548828
+calibration_test/ece:	0.00522651057690382
+calibration_test/brier:	0.7445647120475769
+accuracy_test/task:	29.676666666666666
+accuracy_test/concepts:	100.0
+map_test/concepts:	0.9996962348620096
+
+Epoch 44
+losses_train/task:	1.3719898462295532
+losses_train/concepts:	0.000914112024474889
+losses_train/total:	1.37290358543396
+losses_test/task:	1.3752937316894531
+losses_test/concepts:	0.0002579783322289586
+losses_test/total:	1.3755520582199097
+calibration_test/ece:	0.005230254027992487
+calibration_test/brier:	0.7445611953735352
+accuracy_test/task:	29.676666666666666
+accuracy_test/concepts:	100.0
+map_test/concepts:	0.9996962348620096
+
+Epoch 45
+losses_train/task:	1.3719878196716309
+losses_train/concepts:	0.0008861165260896087
+losses_train/total:	1.3728742599487305
+losses_test/task:	1.37529456615448
+losses_test/concepts:	0.00025182272656820714
+losses_test/total:	1.3755463361740112
+calibration_test/ece:	0.005226498004049063
+calibration_test/brier:	0.744560956954956
+accuracy_test/task:	29.676666666666666
+accuracy_test/concepts:	100.0
+map_test/concepts:	0.9996962348620096
+
+Epoch 46
+losses_train/task:	1.3719700574874878
+losses_train/concepts:	0.001019270159304142
+losses_train/total:	1.3729901313781738
+losses_test/task:	1.3752888441085815
+losses_test/concepts:	0.00023586403403896838
+losses_test/total:	1.3755253553390503
+calibration_test/ece:	0.005219823215156794
+calibration_test/brier:	0.7445584535598755
+accuracy_test/task:	29.676666666666666
+accuracy_test/concepts:	100.0
+map_test/concepts:	0.9996962348620096
+
+Epoch 47
+losses_train/task:	1.371979832649231
+losses_train/concepts:	0.0011011783499270678
+losses_train/total:	1.3730815649032593
+losses_test/task:	1.3752878904342651
+losses_test/concepts:	0.00025503194774501026
+losses_test/total:	1.3755431175231934
+calibration_test/ece:	0.005448858719319105
+calibration_test/brier:	0.7445577383041382
+accuracy_test/task:	29.7
+accuracy_test/concepts:	100.0
+map_test/concepts:	0.9996962348620096
+
+Epoch 48
+losses_train/task:	1.3719643354415894
+losses_train/concepts:	0.0010259798727929592
+losses_train/total:	1.3729907274246216
+losses_test/task:	1.3752846717834473
+losses_test/concepts:	0.0002581941371317953
+losses_test/total:	1.3755438327789307
+calibration_test/ece:	0.005444231443107128
+calibration_test/brier:	0.744556188583374
+accuracy_test/task:	29.7
+accuracy_test/concepts:	100.0
+map_test/concepts:	0.9996962348620096
+
+Epoch 49
+losses_train/task:	1.3719677925109863
+losses_train/concepts:	0.0011906253639608622
+losses_train/total:	1.373158574104309
+losses_test/task:	1.3752813339233398
+losses_test/concepts:	0.00025323306908831
+losses_test/total:	1.3755340576171875
+calibration_test/ece:	0.0054394821636378765
+calibration_test/brier:	0.7445544004440308
+accuracy_test/task:	29.7
+accuracy_test/concepts:	100.0
+map_test/concepts:	0.9996962348620096
+
+Epoch 50
+losses_train/task:	1.3719679117202759
+losses_train/concepts:	0.0009508627117611468
+losses_train/total:	1.3729174137115479
+losses_test/task:	1.375280737876892
+losses_test/concepts:	0.00024123626644723117
+losses_test/total:	1.3755220174789429
+calibration_train/ece:	0.007198262959718704
+calibration_train/brier:	0.7429039478302002
+accuracy_train/task:	30.11979907539118
+calibration_test/ece:	0.005434536840766668
+calibration_test/brier:	0.7445542216300964
+accuracy_test/task:	29.7
+accuracy_train/concepts:	100.0
+map_train/concepts:	0.999898738331265
+accuracy_test/concepts:	100.0
+map_test/concepts:	0.9996962348620096
+accuracy_test/nuisances_task:	29.10500057041645
+accuracy_test/nuisances_nontask:	32.36000053584576
+mutual_inf_test/nuisances_task:	0.2288353926763032
+mutual_inf_test/nuisances_nontask:	0.4046403862557926
+
+epoch_50.pt
+groups=0 err_lowconf=70.300 err_random=70.300
+groups=1 err_lowconf=70.300 err_random=70.300
+groups=2 err_lowconf=70.300 err_random=70.300
+groups=3 err_lowconf=70.300 err_random=70.300
+groups=4 err_lowconf=70.300 err_random=70.300
+groups=5 err_lowconf=70.300 err_random=70.300
+groups=6 err_lowconf=70.300 err_random=70.300
+groups=7 err_lowconf=70.300 err_random=70.300
+groups=8 err_lowconf=70.300 err_random=70.300
+groups=9 err_lowconf=70.300 err_random=70.300
+groups=10 err_lowconf=70.300 err_random=70.300
+groups=11 err_lowconf=70.300 err_random=70.300
+groups=12 err_lowconf=70.300 err_random=70.300
+groups=13 err_lowconf=70.300 err_random=70.300
+groups=14 err_lowconf=70.300 err_random=70.300
+groups=15 err_lowconf=70.300 err_random=70.300
+groups=16 err_lowconf=70.300 err_random=70.300
+groups=17 err_lowconf=70.300 err_random=70.300
+groups=18 err_lowconf=70.300 err_random=70.300
+[1;34mwandb[0m:
+[1;34mwandb[0m: You can sync this run to the cloud by running:
+[1;34mwandb[0m: [1mwandb sync /research/hal-afsharim/minimal_cbm/results/shapes3d-arhcbm/43/wandb/offline-run-20260725_181619-tgi837vo[0m
+[1;34mwandb[0m: Find logs at: [1;35mresults/shapes3d-arhcbm/43/wandb/offline-run-20260725_181619-tgi837vo/logs[0m

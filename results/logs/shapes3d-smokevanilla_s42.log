@@ -1,0 +1,37 @@
+
+===== launch 2026-07-25 06:01:19.540721 gpu3 =====
+wandb: Using wandb-core as the SDK backend.  Please refer to https://wandb.me/wandb-core for more information.
+wandb: Tracking run with wandb version 0.19.0
+wandb: W&B syncing is set to `offline` in this directory.  
+wandb: Run `wandb online` or set WANDB_MODE=online to enable cloud syncing.
+Epoch 1
+losses_train/task:	0.6950793862342834
+losses_train/total:	0.6950793862342834
+losses_test/task:	0.007861976511776447
+losses_test/total:	0.007861976511776447
+calibration_test/ece:	0.007399882189929485
+calibration_test/brier:	0.0011596546974033117
+accuracy_test/task:	99.99
+
+Epoch 2
+losses_train/task:	0.0022164098918437958
+losses_train/total:	0.0022164098918437958
+losses_test/task:	0.0007189557072706521
+losses_test/total:	0.0007189557072706521
+calibration_train/ece:	0.000671759364195168
+calibration_train/brier:	1.426863582310034e-05
+accuracy_train/task:	100.0
+calibration_test/ece:	0.0007128620054572821
+calibration_test/brier:	2.200317794631701e-05
+accuracy_test/task:	100.0
+accuracy_test/nuisances_task:	55.93833476305008
+accuracy_test/nuisances_nontask:	30.11999912559986
+mutual_inf_test/nuisances_task:	0.5793103783830447
+mutual_inf_test/nuisances_nontask:	0.37040118509138165
+
+epoch_2.pt
+Skipping interventions: model 'vanilla' is not intervenable
+[1;34mwandb[0m:
+[1;34mwandb[0m: You can sync this run to the cloud by running:
+[1;34mwandb[0m: [1mwandb sync /research/hal-afsharim/minimal_cbm/results/shapes3d-smokevanilla/42/wandb/offline-run-20260725_060124-3hmw2kg2[0m
+[1;34mwandb[0m: Find logs at: [1;35mresults/shapes3d-smokevanilla/42/wandb/offline-run-20260725_060124-3hmw2kg2/logs[0m

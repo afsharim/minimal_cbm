@@ -1,0 +1,15 @@
+{"time":"2026-07-25T12:19:37.802723598-04:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2026-07-25T12:19:37.802790953-04:00","level":"INFO","msg":"created symlink","path":"/research/hal-afsharim/minimal_cbm/results/mpi3d-arhcbm/42/wandb/offline-run-20260725_121937-njwveanq/logs/debug-core.log"}
+{"time":"2026-07-25T12:19:37.918137097-04:00","level":"INFO","msg":"created new stream","id":"njwveanq"}
+{"time":"2026-07-25T12:19:37.918197232-04:00","level":"INFO","msg":"stream: started","id":"njwveanq"}
+{"time":"2026-07-25T12:19:37.918222797-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"njwveanq"}
+{"time":"2026-07-25T12:19:37.918260285-04:00","level":"INFO","msg":"handler: started","stream_id":"njwveanq"}
+{"time":"2026-07-25T12:19:37.918276205-04:00","level":"INFO","msg":"sender: started","stream_id":"njwveanq"}
+{"time":"2026-07-25T12:19:37.924463952-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2026-07-25T13:56:02.157577207-04:00","level":"INFO","msg":"stream: closing","id":"njwveanq"}
+{"time":"2026-07-25T13:56:02.157893596-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2026-07-25T13:56:02.159507183-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2026-07-25T13:56:02.160210189-04:00","level":"INFO","msg":"handler: closed","stream_id":"njwveanq"}
+{"time":"2026-07-25T13:56:02.160249576-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"njwveanq"}
+{"time":"2026-07-25T13:56:02.160258167-04:00","level":"INFO","msg":"sender: closed","stream_id":"njwveanq"}
+{"time":"2026-07-25T13:56:02.161016739-04:00","level":"INFO","msg":"stream: closed","id":"njwveanq"}

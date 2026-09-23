@@ -1,0 +1,12 @@
+107 cached, 1 to compute (8 workers)
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/linear_model/_coordinate_descent.py:631: ConvergenceWarning: Objective did not converge. You might want to increase the number of iterations, check the scale of the features or consider increasing regularisation. Duality gap: 2.172e-01, tolerance: 2.000e-01
+  model = cd_fast.enet_coordinate_descent(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/linear_model/_coordinate_descent.py:631: ConvergenceWarning: Objective did not converge. You might want to increase the number of iterations, check the scale of the features or consider increasing regularisation. Duality gap: 2.172e-01, tolerance: 2.000e-01
+  model = cd_fast.enet_coordinate_descent(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/linear_model/_coordinate_descent.py:631: ConvergenceWarning: Objective did not converge. You might want to increase the number of iterations, check the scale of the features or consider increasing regularisation. Duality gap: 2.452e-01, tolerance: 1.782e-01
+  model = cd_fast.enet_coordinate_descent(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/linear_model/_coordinate_descent.py:631: ConvergenceWarning: Objective did not converge. You might want to increase the number of iterations, check the scale of the features or consider increasing regularisation. Duality gap: 2.295e-01, tolerance: 1.766e-01
+  model = cd_fast.enet_coordinate_descent(
+mpi3d-mcbm-1-bs4096 s42: CKA=0.975 Disent=0.877 OIS=1.796 NIS=0.000
+
+108 runs -> /research/hal-afsharim/minimal_cbm/results/summary/posthoc_metrics.csv

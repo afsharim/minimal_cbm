@@ -1,0 +1,346 @@
+[watch] started, polling every 240s (pid 354191)
+[07-26 02:26] complete=52/120 {'mpi3d': 24, 'cub12': 1, 'shapes3d': 24, 'cifar10': 1, 'awa2': 2} -> refreshing result file
+    backfill_snapshots.py: backfilled 385 snapshot files across 59 runs (cadence every 10 epochs)
+    collect_results.py: 52 runs, 20 configs -> /research/hal-afsharim/minimal_cbm/results/summary
+    make_results_md.py: wrote /research/hal-afsharim/minimal_cbm/results/summary/RESULTS.md (52 runs, 5 datasets)
+[07-26 03:10] complete=53/120 {'mpi3d': 24, 'cub12': 2, 'shapes3d': 24, 'cifar10': 1, 'awa2': 2} -> refreshing result file
+    backfill_snapshots.py: backfilled 399 snapshot files across 59 runs (cadence every 10 epochs)
+    collect_results.py: 53 runs, 21 configs -> /research/hal-afsharim/minimal_cbm/results/summary
+    make_results_md.py: wrote /research/hal-afsharim/minimal_cbm/results/summary/RESULTS.md (53 runs, 5 datasets)
+[07-26 04:50] complete=54/120 {'mpi3d': 24, 'cub12': 3, 'shapes3d': 24, 'cifar10': 1, 'awa2': 2} -> refreshing result file
+    backfill_snapshots.py: backfilled 429 snapshot files across 60 runs (cadence every 10 epochs)
+    collect_results.py: 54 runs, 22 configs -> /research/hal-afsharim/minimal_cbm/results/summary
+    make_results_md.py: wrote /research/hal-afsharim/minimal_cbm/results/summary/RESULTS.md (54 runs, 5 datasets)
+[07-26 07:38] complete=55/120 {'mpi3d': 24, 'cub12': 3, 'shapes3d': 24, 'cifar10': 2, 'awa2': 2} -> refreshing result file
+    backfill_snapshots.py: backfilled 463 snapshot files across 61 runs (cadence every 10 epochs)
+    collect_results.py: 55 runs, 23 configs -> /research/hal-afsharim/minimal_cbm/results/summary
+    make_results_md.py: wrote /research/hal-afsharim/minimal_cbm/results/summary/RESULTS.md (55 runs, 5 datasets)
+[07-26 08:02] complete=56/120 {'mpi3d': 24, 'cub12': 3, 'shapes3d': 24, 'cifar10': 3, 'awa2': 2} -> refreshing result file
+    backfill_snapshots.py: backfilled 472 snapshot files across 63 runs (cadence every 10 epochs)
+    collect_results.py: 56 runs, 24 configs -> /research/hal-afsharim/minimal_cbm/results/summary
+    make_results_md.py: wrote /research/hal-afsharim/minimal_cbm/results/summary/RESULTS.md (56 runs, 5 datasets)
+[07-26 10:06] complete=57/120 {'mpi3d': 24, 'cub12': 4, 'shapes3d': 24, 'cifar10': 3, 'awa2': 2} -> refreshing result file
+    backfill_snapshots.py: backfilled 510 snapshot files across 63 runs (cadence every 10 epochs)
+    collect_results.py: 57 runs, 25 configs -> /research/hal-afsharim/minimal_cbm/results/summary
+    make_results_md.py: wrote /research/hal-afsharim/minimal_cbm/results/summary/RESULTS.md (57 runs, 5 datasets)
+[07-26 10:34] complete=58/120 {'mpi3d': 24, 'cub12': 4, 'shapes3d': 24, 'awa2': 3, 'cifar10': 3} -> refreshing result file
+    backfill_snapshots.py: backfilled 519 snapshot files across 64 runs (cadence every 10 epochs)
+    collect_results.py: 58 runs, 26 configs -> /research/hal-afsharim/minimal_cbm/results/summary
+    make_results_md.py: wrote /research/hal-afsharim/minimal_cbm/results/summary/RESULTS.md (58 runs, 5 datasets)
+[watch] started, polling every 240s (pid 603535)
+[07-26 11:23] complete=58/120 {'mpi3d': 24, 'cub12': 4, 'shapes3d': 24, 'awa2': 3, 'cifar10': 3} -> refreshing result file
+    backfill_snapshots.py: backfilled 531 snapshot files across 65 runs (cadence every 10 epochs)
+    collect_results.py: 58 runs, 26 configs -> /research/hal-afsharim/minimal_cbm/results/summary
+    posthoc_metrics.py: 62 runs -> /research/hal-afsharim/minimal_cbm/results/summary/posthoc_metrics.csv
+    make_results_md.py: wrote /research/hal-afsharim/minimal_cbm/results/summary/RESULTS.md (58 runs, 5 datasets)
+[07-26 11:42] complete=59/120 {'mpi3d': 24, 'cub12': 4, 'shapes3d': 24, 'awa2': 4, 'cifar10': 3} -> refreshing result file
+    backfill_snapshots.py: backfilled 535 snapshot files across 65 runs (cadence every 10 epochs)
+    collect_results.py: 59 runs, 27 configs -> /research/hal-afsharim/minimal_cbm/results/summary
+    posthoc_metrics.py: 62 runs -> /research/hal-afsharim/minimal_cbm/results/summary/posthoc_metrics.csv
+    make_results_md.py: wrote /research/hal-afsharim/minimal_cbm/results/summary/RESULTS.md (59 runs, 5 datasets)
+[07-26 11:54] complete=60/120 {'cub12': 5, 'mpi3d': 24, 'shapes3d': 24, 'awa2': 4, 'cifar10': 3} -> refreshing result file
+    backfill_snapshots.py: backfilled 538 snapshot files across 66 runs (cadence every 10 epochs)
+    collect_results.py: 60 runs, 28 configs -> /research/hal-afsharim/minimal_cbm/results/summary
+    posthoc_metrics.py: 62 runs -> /research/hal-afsharim/minimal_cbm/results/summary/posthoc_metrics.csv
+    make_results_md.py: wrote /research/hal-afsharim/minimal_cbm/results/summary/RESULTS.md (60 runs, 5 datasets)
+[07-26 13:06] complete=61/120 {'cub12': 5, 'mpi3d': 24, 'shapes3d': 24, 'awa2': 4, 'cifar10': 4} -> refreshing result file
+    backfill_snapshots.py: backfilled 554 snapshot files across 67 runs (cadence every 10 epochs)
+    collect_results.py: 61 runs, 29 configs -> /research/hal-afsharim/minimal_cbm/results/summary
+    posthoc_metrics.py: 63 runs -> /research/hal-afsharim/minimal_cbm/results/summary/posthoc_metrics.csv
+    make_results_md.py: wrote /research/hal-afsharim/minimal_cbm/results/summary/RESULTS.md (61 runs, 5 datasets)
+[07-26 16:03] complete=62/120 {'cub12': 5, 'mpi3d': 24, 'cifar10': 5, 'shapes3d': 24, 'awa2': 4} -> refreshing result file
+    backfill_snapshots.py: backfilled 594 snapshot files across 68 runs (cadence every 10 epochs)
+    collect_results.py: 62 runs, 30 configs -> /research/hal-afsharim/minimal_cbm/results/summary
+    posthoc_metrics.py: 66 runs -> /research/hal-afsharim/minimal_cbm/results/summary/posthoc_metrics.csv
+    make_results_md.py: wrote /research/hal-afsharim/minimal_cbm/results/summary/RESULTS.md (62 runs, 5 datasets)
+[07-26 17:07] complete=63/120 {'cub12': 6, 'mpi3d': 24, 'cifar10': 5, 'shapes3d': 24, 'awa2': 4} -> refreshing result file
+    backfill_snapshots.py: backfilled 611 snapshot files across 69 runs (cadence every 10 epochs)
+    collect_results.py: 63 runs, 31 configs -> /research/hal-afsharim/minimal_cbm/results/summary
+    posthoc_metrics.py: 67 runs -> /research/hal-afsharim/minimal_cbm/results/summary/posthoc_metrics.csv
+    make_results_md.py: wrote /research/hal-afsharim/minimal_cbm/results/summary/RESULTS.md (63 runs, 5 datasets)
+[07-26 19:15] complete=64/120 {'cub12': 7, 'mpi3d': 24, 'cifar10': 5, 'shapes3d': 24, 'awa2': 4} -> refreshing result file
+    backfill_snapshots.py: backfilled 644 snapshot files across 70 runs (cadence every 10 epochs)
+    collect_results.py: 64 runs, 32 configs -> /research/hal-afsharim/minimal_cbm/results/summary
+    posthoc_metrics.py: 68 runs -> /research/hal-afsharim/minimal_cbm/results/summary/posthoc_metrics.csv
+    make_results_md.py: wrote /research/hal-afsharim/minimal_cbm/results/summary/RESULTS.md (64 runs, 5 datasets)
+[07-26 20:38] complete=65/120 {'cub12': 7, 'mpi3d': 24, 'cifar10': 5, 'shapes3d': 24, 'awa2': 5} -> refreshing result file
+    backfill_snapshots.py: backfilled 663 snapshot files across 71 runs (cadence every 10 epochs)
+    collect_results.py: 65 runs, 33 configs -> /research/hal-afsharim/minimal_cbm/results/summary
+    posthoc_metrics.py: 69 runs -> /research/hal-afsharim/minimal_cbm/results/summary/posthoc_metrics.csv
+    make_results_md.py: wrote /research/hal-afsharim/minimal_cbm/results/summary/RESULTS.md (65 runs, 5 datasets)
+[07-26 20:43] complete=66/120 {'cub12': 7, 'mpi3d': 24, 'cifar10': 6, 'shapes3d': 24, 'awa2': 5} -> refreshing result file
+    backfill_snapshots.py: backfilled 663 snapshot files across 71 runs (cadence every 10 epochs)
+    collect_results.py: 66 runs, 34 configs -> /research/hal-afsharim/minimal_cbm/results/summary
+    posthoc_metrics.py: 69 runs -> /research/hal-afsharim/minimal_cbm/results/summary/posthoc_metrics.csv
+    make_results_md.py: wrote /research/hal-afsharim/minimal_cbm/results/summary/RESULTS.md (66 runs, 5 datasets)
+[07-26 21:47] complete=67/120 {'cub12': 7, 'mpi3d': 24, 'cifar10': 6, 'shapes3d': 24, 'awa2': 6} -> refreshing result file
+    backfill_snapshots.py: backfilled 683 snapshot files across 73 runs (cadence every 10 epochs)
+    collect_results.py: 67 runs, 35 configs -> /research/hal-afsharim/minimal_cbm/results/summary
+    posthoc_metrics.py: 71 runs -> /research/hal-afsharim/minimal_cbm/results/summary/posthoc_metrics.csv
+    make_results_md.py: wrote /research/hal-afsharim/minimal_cbm/results/summary/RESULTS.md (67 runs, 5 datasets)
+[07-26 23:09] complete=68/120 {'cub12': 7, 'mpi3d': 24, 'cifar10': 7, 'shapes3d': 24, 'awa2': 6} -> refreshing result file
+    backfill_snapshots.py: backfilled 706 snapshot files across 74 runs (cadence every 10 epochs)
+    collect_results.py: 68 runs, 36 configs -> /research/hal-afsharim/minimal_cbm/results/summary
+    posthoc_metrics.py: 68 runs -> /research/hal-afsharim/minimal_cbm/results/summary/posthoc_metrics.csv
+    make_results_md.py: wrote /research/hal-afsharim/minimal_cbm/results/summary/RESULTS.md (68 runs, 5 datasets)
+[07-27 00:17] complete=69/120 {'cub12': 8, 'mpi3d': 24, 'cifar10': 7, 'shapes3d': 24, 'awa2': 6} -> refreshing result file
+    backfill_snapshots.py: backfilled 729 snapshot files across 75 runs (cadence every 10 epochs)
+    collect_results.py: 69 runs, 37 configs -> /research/hal-afsharim/minimal_cbm/results/summary
+    posthoc_metrics.py: 69 runs -> /research/hal-afsharim/minimal_cbm/results/summary/posthoc_metrics.csv
+    make_results_md.py: wrote /research/hal-afsharim/minimal_cbm/results/summary/RESULTS.md (69 runs, 5 datasets)
+[07-27 01:29] complete=70/120 {'cub12': 9, 'mpi3d': 24, 'cifar10': 7, 'shapes3d': 24, 'awa2': 6} -> refreshing result file
+    backfill_snapshots.py: backfilled 747 snapshot files across 76 runs (cadence every 10 epochs)
+    collect_results.py: 70 runs, 37 configs -> /research/hal-afsharim/minimal_cbm/results/summary
+    posthoc_metrics.py: 70 runs -> /research/hal-afsharim/minimal_cbm/results/summary/posthoc_metrics.csv
+    make_results_md.py: wrote /research/hal-afsharim/minimal_cbm/results/summary/RESULTS.md (70 runs, 5 datasets)
+[07-27 01:40] complete=71/120 {'cub12': 9, 'mpi3d': 24, 'cifar10': 8, 'shapes3d': 24, 'awa2': 6} -> refreshing result file
+    backfill_snapshots.py: backfilled 752 snapshot files across 78 runs (cadence every 10 epochs)
+    collect_results.py: 71 runs, 37 configs -> /research/hal-afsharim/minimal_cbm/results/summary
+    posthoc_metrics.py: 71 runs -> /research/hal-afsharim/minimal_cbm/results/summary/posthoc_metrics.csv
+    make_results_md.py: wrote /research/hal-afsharim/minimal_cbm/results/summary/RESULTS.md (71 runs, 5 datasets)
+[07-27 05:03] complete=72/120 {'cub12': 9, 'mpi3d': 24, 'cifar10': 9, 'shapes3d': 24, 'awa2': 6} -> refreshing result file
+    backfill_snapshots.py: backfilled 794 snapshot files across 79 runs (cadence every 10 epochs)
+    collect_results.py: 72 runs, 38 configs -> /research/hal-afsharim/minimal_cbm/results/summary
+    posthoc_metrics.py: 72 runs -> /research/hal-afsharim/minimal_cbm/results/summary/posthoc_metrics.csv
+    make_results_md.py: wrote /research/hal-afsharim/minimal_cbm/results/summary/RESULTS.md (72 runs, 5 datasets)
+[07-27 06:42] complete=73/120 {'cub12': 9, 'mpi3d': 24, 'cifar10': 9, 'shapes3d': 24, 'awa2': 7} -> refreshing result file
+    backfill_snapshots.py: backfilled 818 snapshot files across 80 runs (cadence every 10 epochs)
+    collect_results.py: 73 runs, 39 configs -> /research/hal-afsharim/minimal_cbm/results/summary
+    posthoc_metrics.py: 73 runs -> /research/hal-afsharim/minimal_cbm/results/summary/posthoc_metrics.csv
+    make_results_md.py: wrote /research/hal-afsharim/minimal_cbm/results/summary/RESULTS.md (73 runs, 5 datasets)
+[07-27 06:55] complete=74/120 {'cub12': 10, 'mpi3d': 24, 'cifar10': 9, 'shapes3d': 24, 'awa2': 7} -> refreshing result file
+    backfill_snapshots.py: backfilled 820 snapshot files across 81 runs (cadence every 10 epochs)
+    collect_results.py: 74 runs, 39 configs -> /research/hal-afsharim/minimal_cbm/results/summary
+    posthoc_metrics.py: 74 runs -> /research/hal-afsharim/minimal_cbm/results/summary/posthoc_metrics.csv
+    make_results_md.py: wrote /research/hal-afsharim/minimal_cbm/results/summary/RESULTS.md (74 runs, 5 datasets)
+[07-27 08:37] complete=75/120 {'cub12': 11, 'mpi3d': 24, 'cifar10': 9, 'shapes3d': 24, 'awa2': 7} -> refreshing result file
+    backfill_snapshots.py: backfilled 842 snapshot files across 82 runs (cadence every 10 epochs)
+    collect_results.py: 75 runs, 39 configs -> /research/hal-afsharim/minimal_cbm/results/summary
+    posthoc_metrics.py: 75 runs -> /research/hal-afsharim/minimal_cbm/results/summary/posthoc_metrics.csv
+    make_results_md.py: wrote /research/hal-afsharim/minimal_cbm/results/summary/RESULTS.md (75 runs, 5 datasets)
+[07-27 13:57] complete=76/120 {'cub12': 12, 'mpi3d': 24, 'cifar10': 9, 'shapes3d': 24, 'awa2': 7} -> refreshing result file
+    backfill_snapshots.py: backfilled 910 snapshot files across 83 runs (cadence every 10 epochs)
+    collect_results.py: 76 runs, 39 configs -> /research/hal-afsharim/minimal_cbm/results/summary
+    posthoc_metrics.py: 76 runs -> /research/hal-afsharim/minimal_cbm/results/summary/posthoc_metrics.csv
+    make_results_md.py: wrote /research/hal-afsharim/minimal_cbm/results/summary/RESULTS.md (76 runs, 5 datasets)
+[07-27 14:19] complete=77/120 {'cub12': 12, 'mpi3d': 24, 'cifar10': 9, 'shapes3d': 24, 'awa2': 8} -> refreshing result file
+    backfill_snapshots.py: backfilled 915 snapshot files across 84 runs (cadence every 10 epochs)
+    collect_results.py: 77 runs, 39 configs -> /research/hal-afsharim/minimal_cbm/results/summary
+    posthoc_metrics.py: 77 runs -> /research/hal-afsharim/minimal_cbm/results/summary/posthoc_metrics.csv
+    make_results_md.py: wrote /research/hal-afsharim/minimal_cbm/results/summary/RESULTS.md (77 runs, 5 datasets)
+[07-27 15:12] complete=78/120 {'cub12': 12, 'mpi3d': 24, 'cifar10': 10, 'shapes3d': 24, 'awa2': 8} -> refreshing result file
+    backfill_snapshots.py: backfilled 925 snapshot files across 85 runs (cadence every 10 epochs)
+    collect_results.py: 78 runs, 39 configs -> /research/hal-afsharim/minimal_cbm/results/summary
+    posthoc_metrics.py: 78 runs -> /research/hal-afsharim/minimal_cbm/results/summary/posthoc_metrics.csv
+    make_results_md.py: wrote /research/hal-afsharim/minimal_cbm/results/summary/RESULTS.md (78 runs, 5 datasets)
+[07-27 15:19] complete=79/120 {'cub12': 13, 'mpi3d': 24, 'cifar10': 10, 'shapes3d': 24, 'awa2': 8} -> refreshing result file
+    backfill_snapshots.py: backfilled 927 snapshot files across 86 runs (cadence every 10 epochs)
+    collect_results.py: 79 runs, 39 configs -> /research/hal-afsharim/minimal_cbm/results/summary
+    posthoc_metrics.py: 79 runs -> /research/hal-afsharim/minimal_cbm/results/summary/posthoc_metrics.csv
+    make_results_md.py: wrote /research/hal-afsharim/minimal_cbm/results/summary/RESULTS.md (79 runs, 5 datasets)
+[07-27 16:46] complete=80/120 {'cub12': 13, 'mpi3d': 24, 'cifar10': 10, 'shapes3d': 24, 'awa2': 9} -> refreshing result file
+    backfill_snapshots.py: backfilled 943 snapshot files across 86 runs (cadence every 10 epochs)
+    collect_results.py: 80 runs, 39 configs -> /research/hal-afsharim/minimal_cbm/results/summary
+    posthoc_metrics.py: 80 runs -> /research/hal-afsharim/minimal_cbm/results/summary/posthoc_metrics.csv
+    make_results_md.py: wrote /research/hal-afsharim/minimal_cbm/results/summary/RESULTS.md (80 runs, 5 datasets)
+[07-27 17:14] complete=81/120 {'cub12': 13, 'mpi3d': 24, 'cifar10': 11, 'shapes3d': 24, 'awa2': 9} -> refreshing result file
+    backfill_snapshots.py: backfilled 949 snapshot files across 87 runs (cadence every 10 epochs)
+    collect_results.py: 81 runs, 39 configs -> /research/hal-afsharim/minimal_cbm/results/summary
+    posthoc_metrics.py: 81 runs -> /research/hal-afsharim/minimal_cbm/results/summary/posthoc_metrics.csv
+    make_results_md.py: wrote /research/hal-afsharim/minimal_cbm/results/summary/RESULTS.md (81 runs, 5 datasets)
+[07-27 20:12] complete=82/120 {'cub12': 13, 'mpi3d': 24, 'cifar10': 12, 'shapes3d': 24, 'awa2': 9} -> refreshing result file
+    backfill_snapshots.py: backfilled 992 snapshot files across 88 runs (cadence every 10 epochs)
+    collect_results.py: 82 runs, 39 configs -> /research/hal-afsharim/minimal_cbm/results/summary
+    posthoc_metrics.py: 82 runs -> /research/hal-afsharim/minimal_cbm/results/summary/posthoc_metrics.csv
+    make_results_md.py: wrote /research/hal-afsharim/minimal_cbm/results/summary/RESULTS.md (82 runs, 5 datasets)
+[07-27 21:00] complete=83/120 {'cub12': 14, 'mpi3d': 24, 'cifar10': 12, 'shapes3d': 24, 'awa2': 9} -> refreshing result file
+    backfill_snapshots.py: backfilled 1004 snapshot files across 89 runs (cadence every 10 epochs)
+    collect_results.py: 83 runs, 39 configs -> /research/hal-afsharim/minimal_cbm/results/summary
+    posthoc_metrics.py: 83 runs -> /research/hal-afsharim/minimal_cbm/results/summary/posthoc_metrics.csv
+    make_results_md.py: wrote /research/hal-afsharim/minimal_cbm/results/summary/RESULTS.md (83 runs, 5 datasets)
+[07-27 23:53] complete=84/120 {'cub12': 15, 'mpi3d': 24, 'cifar10': 12, 'shapes3d': 24, 'awa2': 9} -> refreshing result file
+    backfill_snapshots.py: backfilled 1045 snapshot files across 90 runs (cadence every 10 epochs)
+    collect_results.py: 84 runs, 39 configs -> /research/hal-afsharim/minimal_cbm/results/summary
+    posthoc_metrics.py: 84 runs -> /research/hal-afsharim/minimal_cbm/results/summary/posthoc_metrics.csv
+    make_results_md.py: wrote /research/hal-afsharim/minimal_cbm/results/summary/RESULTS.md (84 runs, 5 datasets)
+[07-28 00:19] complete=85/120 {'cub12': 15, 'mpi3d': 24, 'cifar10': 12, 'shapes3d': 24, 'awa2': 10} -> refreshing result file
+    backfill_snapshots.py: backfilled 1048 snapshot files across 91 runs (cadence every 10 epochs)
+    collect_results.py: 85 runs, 39 configs -> /research/hal-afsharim/minimal_cbm/results/summary
+    posthoc_metrics.py: 85 runs -> /research/hal-afsharim/minimal_cbm/results/summary/posthoc_metrics.csv
+    make_results_md.py: wrote /research/hal-afsharim/minimal_cbm/results/summary/RESULTS.md (85 runs, 5 datasets)
+[07-28 01:11] complete=86/120 {'cub12': 15, 'mpi3d': 24, 'cifar10': 13, 'shapes3d': 24, 'awa2': 10} -> refreshing result file
+    backfill_snapshots.py: backfilled 1058 snapshot files across 92 runs (cadence every 10 epochs)
+    collect_results.py: 86 runs, 39 configs -> /research/hal-afsharim/minimal_cbm/results/summary
+    posthoc_metrics.py: 86 runs -> /research/hal-afsharim/minimal_cbm/results/summary/posthoc_metrics.csv
+    make_results_md.py: wrote /research/hal-afsharim/minimal_cbm/results/summary/RESULTS.md (86 runs, 5 datasets)
+[07-28 03:38] complete=87/120 {'cub12': 15, 'mpi3d': 24, 'cifar10': 14, 'shapes3d': 24, 'awa2': 10} -> refreshing result file
+    backfill_snapshots.py: backfilled 1083 snapshot files across 93 runs (cadence every 10 epochs)
+    collect_results.py: 87 runs, 39 configs -> /research/hal-afsharim/minimal_cbm/results/summary
+    posthoc_metrics.py: 87 runs -> /research/hal-afsharim/minimal_cbm/results/summary/posthoc_metrics.csv
+    make_results_md.py: wrote /research/hal-afsharim/minimal_cbm/results/summary/RESULTS.md (87 runs, 5 datasets)
+[07-28 04:01] complete=88/120 {'cub12': 16, 'mpi3d': 24, 'cifar10': 14, 'shapes3d': 24, 'awa2': 10} -> refreshing result file
+    backfill_snapshots.py: backfilled 1090 snapshot files across 94 runs (cadence every 10 epochs)
+    collect_results.py: 88 runs, 39 configs -> /research/hal-afsharim/minimal_cbm/results/summary
+    posthoc_metrics.py: 88 runs -> /research/hal-afsharim/minimal_cbm/results/summary/posthoc_metrics.csv
+    make_results_md.py: wrote /research/hal-afsharim/minimal_cbm/results/summary/RESULTS.md (88 runs, 5 datasets)
+[07-28 08:59] complete=89/120 {'cub12': 16, 'mpi3d': 24, 'cifar10': 15, 'shapes3d': 24, 'awa2': 10} -> refreshing result file
+    backfill_snapshots.py: backfilled 1169 snapshot files across 96 runs (cadence every 10 epochs)
+    collect_results.py: 89 runs, 39 configs -> /research/hal-afsharim/minimal_cbm/results/summary
+    posthoc_metrics.py: 89 runs -> /research/hal-afsharim/minimal_cbm/results/summary/posthoc_metrics.csv
+    make_results_md.py: wrote /research/hal-afsharim/minimal_cbm/results/summary/RESULTS.md (89 runs, 5 datasets)
+[07-28 09:06] complete=90/120 {'cub12': 16, 'mpi3d': 24, 'cifar10': 16, 'shapes3d': 24, 'awa2': 10} -> refreshing result file
+    backfill_snapshots.py: backfilled 1172 snapshot files across 97 runs (cadence every 10 epochs)
+    collect_results.py: 90 runs, 39 configs -> /research/hal-afsharim/minimal_cbm/results/summary
+    posthoc_metrics.py: 90 runs -> /research/hal-afsharim/minimal_cbm/results/summary/posthoc_metrics.csv
+    make_results_md.py: wrote /research/hal-afsharim/minimal_cbm/results/summary/RESULTS.md (90 runs, 5 datasets)
+[07-28 10:00] complete=91/120 {'cub12': 16, 'mpi3d': 24, 'cifar10': 16, 'shapes3d': 24, 'awa2': 11} -> refreshing result file
+    backfill_snapshots.py: backfilled 1188 snapshot files across 98 runs (cadence every 10 epochs)
+    collect_results.py: 91 runs, 39 configs -> /research/hal-afsharim/minimal_cbm/results/summary
+    posthoc_metrics.py: 91 runs -> /research/hal-afsharim/minimal_cbm/results/summary/posthoc_metrics.csv
+    make_results_md.py: wrote /research/hal-afsharim/minimal_cbm/results/summary/RESULTS.md (91 runs, 5 datasets)
+[07-28 10:09] complete=92/120 {'cub12': 17, 'mpi3d': 24, 'cifar10': 16, 'shapes3d': 24, 'awa2': 11} -> refreshing result file
+    backfill_snapshots.py: backfilled 1192 snapshot files across 100 runs (cadence every 10 epochs)
+    collect_results.py: 92 runs, 39 configs -> /research/hal-afsharim/minimal_cbm/results/summary
+    posthoc_metrics.py: 92 runs -> /research/hal-afsharim/minimal_cbm/results/summary/posthoc_metrics.csv
+    make_results_md.py: wrote /research/hal-afsharim/minimal_cbm/results/summary/RESULTS.md (92 runs, 5 datasets)
+[07-28 10:42] complete=93/120 {'cub12': 18, 'mpi3d': 24, 'cifar10': 16, 'shapes3d': 24, 'awa2': 11} -> refreshing result file
+    backfill_snapshots.py: backfilled 1201 snapshot files across 100 runs (cadence every 10 epochs)
+    collect_results.py: 93 runs, 39 configs -> /research/hal-afsharim/minimal_cbm/results/summary
+    posthoc_metrics.py: 93 runs -> /research/hal-afsharim/minimal_cbm/results/summary/posthoc_metrics.csv
+    make_results_md.py: wrote /research/hal-afsharim/minimal_cbm/results/summary/RESULTS.md (93 runs, 5 datasets)
+[07-28 10:48] complete=94/120 {'cub12': 18, 'mpi3d': 24, 'cifar10': 16, 'shapes3d': 24, 'awa2': 12} -> refreshing result file
+    backfill_snapshots.py: backfilled 1203 snapshot files across 101 runs (cadence every 10 epochs)
+    collect_results.py: 94 runs, 39 configs -> /research/hal-afsharim/minimal_cbm/results/summary
+    posthoc_metrics.py: 94 runs -> /research/hal-afsharim/minimal_cbm/results/summary/posthoc_metrics.csv
+    make_results_md.py: wrote /research/hal-afsharim/minimal_cbm/results/summary/RESULTS.md (94 runs, 5 datasets)
+[07-28 13:53] complete=95/120 {'cub12': 18, 'mpi3d': 24, 'cifar10': 17, 'shapes3d': 24, 'awa2': 12} -> refreshing result file
+    backfill_snapshots.py: backfilled 1255 snapshot files across 102 runs (cadence every 10 epochs)
+    collect_results.py: 95 runs, 39 configs -> /research/hal-afsharim/minimal_cbm/results/summary
+    posthoc_metrics.py: 95 runs -> /research/hal-afsharim/minimal_cbm/results/summary/posthoc_metrics.csv
+    make_results_md.py: wrote /research/hal-afsharim/minimal_cbm/results/summary/RESULTS.md (95 runs, 5 datasets)
+[07-28 15:56] complete=96/120 {'cub12': 18, 'mpi3d': 24, 'cifar10': 18, 'shapes3d': 24, 'awa2': 12} -> refreshing result file
+    backfill_snapshots.py: backfilled 1284 snapshot files across 103 runs (cadence every 10 epochs)
+    collect_results.py: 96 runs, 39 configs -> /research/hal-afsharim/minimal_cbm/results/summary
+    posthoc_metrics.py: 96 runs -> /research/hal-afsharim/minimal_cbm/results/summary/posthoc_metrics.csv
+    make_results_md.py: wrote /research/hal-afsharim/minimal_cbm/results/summary/RESULTS.md (96 runs, 5 datasets)
+[07-28 17:11] complete=97/120 {'cub12': 19, 'mpi3d': 24, 'cifar10': 18, 'shapes3d': 24, 'awa2': 12} -> refreshing result file
+    backfill_snapshots.py: backfilled 1309 snapshot files across 104 runs (cadence every 10 epochs)
+    collect_results.py: 97 runs, 39 configs -> /research/hal-afsharim/minimal_cbm/results/summary
+    posthoc_metrics.py: 97 runs -> /research/hal-afsharim/minimal_cbm/results/summary/posthoc_metrics.csv
+    make_results_md.py: wrote /research/hal-afsharim/minimal_cbm/results/summary/RESULTS.md (97 runs, 5 datasets)
+[07-28 17:49] complete=98/120 {'cub12': 20, 'mpi3d': 24, 'cifar10': 18, 'shapes3d': 24, 'awa2': 12} -> refreshing result file
+    backfill_snapshots.py: backfilled 1321 snapshot files across 105 runs (cadence every 10 epochs)
+    collect_results.py: 98 runs, 39 configs -> /research/hal-afsharim/minimal_cbm/results/summary
+    posthoc_metrics.py: 98 runs -> /research/hal-afsharim/minimal_cbm/results/summary/posthoc_metrics.csv
+    make_results_md.py: wrote /research/hal-afsharim/minimal_cbm/results/summary/RESULTS.md (98 runs, 5 datasets)
+[07-28 20:03] complete=99/120 {'cub12': 20, 'mpi3d': 24, 'cifar10': 18, 'shapes3d': 24, 'awa2': 13} -> refreshing result file
+    backfill_snapshots.py: backfilled 1357 snapshot files across 107 runs (cadence every 10 epochs)
+    collect_results.py: 99 runs, 39 configs -> /research/hal-afsharim/minimal_cbm/results/summary
+    posthoc_metrics.py: 99 runs -> /research/hal-afsharim/minimal_cbm/results/summary/posthoc_metrics.csv
+    make_results_md.py: wrote /research/hal-afsharim/minimal_cbm/results/summary/RESULTS.md (99 runs, 5 datasets)
+[07-28 20:48] complete=100/120 {'cub12': 20, 'mpi3d': 24, 'cifar10': 18, 'shapes3d': 24, 'awa2': 14} -> refreshing result file
+    backfill_snapshots.py: backfilled 1366 snapshot files across 108 runs (cadence every 10 epochs)
+    collect_results.py: 100 runs, 39 configs -> /research/hal-afsharim/minimal_cbm/results/summary
+    posthoc_metrics.py: 100 runs -> /research/hal-afsharim/minimal_cbm/results/summary/posthoc_metrics.csv
+    make_results_md.py: wrote /research/hal-afsharim/minimal_cbm/results/summary/RESULTS.md (100 runs, 5 datasets)
+[07-28 21:28] complete=101/120 {'cub12': 20, 'mpi3d': 24, 'cifar10': 19, 'shapes3d': 24, 'awa2': 14} -> refreshing result file
+    backfill_snapshots.py: backfilled 1375 snapshot files across 109 runs (cadence every 10 epochs)
+    collect_results.py: 101 runs, 39 configs -> /research/hal-afsharim/minimal_cbm/results/summary
+    posthoc_metrics.py: 101 runs -> /research/hal-afsharim/minimal_cbm/results/summary/posthoc_metrics.csv
+    make_results_md.py: wrote /research/hal-afsharim/minimal_cbm/results/summary/RESULTS.md (101 runs, 5 datasets)
+[07-29 00:11] complete=102/120 {'cub12': 21, 'mpi3d': 24, 'cifar10': 19, 'shapes3d': 24, 'awa2': 14} -> refreshing result file
+    backfill_snapshots.py: backfilled 1423 snapshot files across 110 runs (cadence every 10 epochs)
+    collect_results.py: 102 runs, 39 configs -> /research/hal-afsharim/minimal_cbm/results/summary
+    posthoc_metrics.py: 102 runs -> /research/hal-afsharim/minimal_cbm/results/summary/posthoc_metrics.csv
+    make_results_md.py: wrote /research/hal-afsharim/minimal_cbm/results/summary/RESULTS.md (102 runs, 5 datasets)
+[07-29 00:54] complete=103/120 {'cub12': 22, 'mpi3d': 24, 'cifar10': 19, 'shapes3d': 24, 'awa2': 14} -> refreshing result file
+    backfill_snapshots.py: backfilled 1432 snapshot files across 111 runs (cadence every 10 epochs)
+    collect_results.py: 103 runs, 39 configs -> /research/hal-afsharim/minimal_cbm/results/summary
+    posthoc_metrics.py: 103 runs -> /research/hal-afsharim/minimal_cbm/results/summary/posthoc_metrics.csv
+    make_results_md.py: wrote /research/hal-afsharim/minimal_cbm/results/summary/RESULTS.md (103 runs, 5 datasets)
+[07-29 03:07] complete=104/120 {'cub12': 22, 'mpi3d': 24, 'cifar10': 20, 'shapes3d': 24, 'awa2': 14} -> refreshing result file
+    backfill_snapshots.py: backfilled 1461 snapshot files across 112 runs (cadence every 10 epochs)
+    collect_results.py: 104 runs, 39 configs -> /research/hal-afsharim/minimal_cbm/results/summary
+    posthoc_metrics.py: 104 runs -> /research/hal-afsharim/minimal_cbm/results/summary/posthoc_metrics.csv
+    make_results_md.py: wrote /research/hal-afsharim/minimal_cbm/results/summary/RESULTS.md (104 runs, 5 datasets)
+[07-29 06:07] complete=105/120 {'awa2': 15, 'cub12': 22, 'mpi3d': 24, 'cifar10': 20, 'shapes3d': 24} -> refreshing result file
+    backfill_snapshots.py: backfilled 1498 snapshot files across 113 runs (cadence every 10 epochs)
+    collect_results.py: 105 runs, 40 configs -> /research/hal-afsharim/minimal_cbm/results/summary
+    posthoc_metrics.py: 105 runs -> /research/hal-afsharim/minimal_cbm/results/summary/posthoc_metrics.csv
+    make_results_md.py: wrote /research/hal-afsharim/minimal_cbm/results/summary/RESULTS.md (105 runs, 5 datasets)
+[07-29 06:59] complete=106/120 {'awa2': 16, 'cub12': 22, 'mpi3d': 24, 'cifar10': 20, 'shapes3d': 24} -> refreshing result file
+    backfill_snapshots.py: backfilled 1511 snapshot files across 114 runs (cadence every 10 epochs)
+    collect_results.py: 106 runs, 40 configs -> /research/hal-afsharim/minimal_cbm/results/summary
+    posthoc_metrics.py: 106 runs -> /research/hal-afsharim/minimal_cbm/results/summary/posthoc_metrics.csv
+    make_results_md.py: wrote /research/hal-afsharim/minimal_cbm/results/summary/RESULTS.md (106 runs, 5 datasets)
+[07-29 07:19] complete=107/120 {'awa2': 16, 'cub12': 23, 'mpi3d': 24, 'cifar10': 20, 'shapes3d': 24} -> refreshing result file
+    backfill_snapshots.py: backfilled 1517 snapshot files across 115 runs (cadence every 10 epochs)
+    collect_results.py: 107 runs, 40 configs -> /research/hal-afsharim/minimal_cbm/results/summary
+    posthoc_metrics.py: 107 runs -> /research/hal-afsharim/minimal_cbm/results/summary/posthoc_metrics.csv
+    make_results_md.py: wrote /research/hal-afsharim/minimal_cbm/results/summary/RESULTS.md (107 runs, 5 datasets)
+[07-29 07:57] complete=108/120 {'awa2': 16, 'cub12': 24, 'mpi3d': 24, 'cifar10': 20, 'shapes3d': 24} -> refreshing result file
+    backfill_snapshots.py: backfilled 1522 snapshot files across 115 runs (cadence every 10 epochs)
+    collect_results.py: 108 runs, 40 configs -> /research/hal-afsharim/minimal_cbm/results/summary
+    posthoc_metrics.py: 108 runs -> /research/hal-afsharim/minimal_cbm/results/summary/posthoc_metrics.csv
+    make_results_md.py: wrote /research/hal-afsharim/minimal_cbm/results/summary/RESULTS.md (108 runs, 5 datasets)
+[07-29 08:06] complete=109/120 {'awa2': 16, 'cub12': 24, 'mpi3d': 24, 'cifar10': 21, 'shapes3d': 24} -> refreshing result file
+    backfill_snapshots.py: backfilled 1523 snapshot files across 115 runs (cadence every 10 epochs)
+    collect_results.py: 109 runs, 40 configs -> /research/hal-afsharim/minimal_cbm/results/summary
+    posthoc_metrics.py: 109 runs -> /research/hal-afsharim/minimal_cbm/results/summary/posthoc_metrics.csv
+    make_results_md.py: wrote /research/hal-afsharim/minimal_cbm/results/summary/RESULTS.md (109 runs, 5 datasets)
+[07-29 09:58] complete=110/120 {'awa2': 16, 'cub12': 24, 'mpi3d': 24, 'cifar10': 22, 'shapes3d': 24} -> refreshing result file
+    backfill_snapshots.py: backfilled 1519 snapshot files across 115 runs (cadence every 10 epochs)
+    collect_results.py: 110 runs, 40 configs -> /research/hal-afsharim/minimal_cbm/results/summary
+    posthoc_metrics.py: 110 runs -> /research/hal-afsharim/minimal_cbm/results/summary/posthoc_metrics.csv
+    make_results_md.py: wrote /research/hal-afsharim/minimal_cbm/results/summary/RESULTS.md (110 runs, 5 datasets)
+[07-29 12:56] complete=111/120 {'awa2': 16, 'cub12': 24, 'mpi3d': 24, 'cifar10': 23, 'shapes3d': 24} -> refreshing result file
+    backfill_snapshots.py: backfilled 1526 snapshot files across 115 runs (cadence every 10 epochs)
+    collect_results.py: 111 runs, 40 configs -> /research/hal-afsharim/minimal_cbm/results/summary
+    posthoc_metrics.py: 111 runs -> /research/hal-afsharim/minimal_cbm/results/summary/posthoc_metrics.csv
+    make_results_md.py: wrote /research/hal-afsharim/minimal_cbm/results/summary/RESULTS.md (111 runs, 5 datasets)
+[07-29 16:00] complete=112/120 {'awa2': 17, 'cub12': 24, 'mpi3d': 24, 'cifar10': 23, 'shapes3d': 24} -> refreshing result file
+    backfill_snapshots.py: backfilled 1534 snapshot files across 115 runs (cadence every 10 epochs)
+    collect_results.py: 112 runs, 40 configs -> /research/hal-afsharim/minimal_cbm/results/summary
+    posthoc_metrics.py: 112 runs -> /research/hal-afsharim/minimal_cbm/results/summary/posthoc_metrics.csv
+    make_results_md.py: wrote /research/hal-afsharim/minimal_cbm/results/summary/RESULTS.md (112 runs, 5 datasets)
+[07-29 16:44] complete=113/120 {'awa2': 18, 'cub12': 24, 'mpi3d': 24, 'cifar10': 23, 'shapes3d': 24} -> refreshing result file
+    backfill_snapshots.py: backfilled 1538 snapshot files across 116 runs (cadence every 10 epochs)
+    collect_results.py: 113 runs, 40 configs -> /research/hal-afsharim/minimal_cbm/results/summary
+    posthoc_metrics.py: 113 runs -> /research/hal-afsharim/minimal_cbm/results/summary/posthoc_metrics.csv
+    make_results_md.py: wrote /research/hal-afsharim/minimal_cbm/results/summary/RESULTS.md (113 runs, 5 datasets)
+[07-29 19:41] complete=114/120 {'awa2': 18, 'cub12': 24, 'mpi3d': 24, 'cifar10': 24, 'shapes3d': 24} -> refreshing result file
+    backfill_snapshots.py: backfilled 1552 snapshot files across 117 runs (cadence every 10 epochs)
+    collect_results.py: 114 runs, 40 configs -> /research/hal-afsharim/minimal_cbm/results/summary
+    posthoc_metrics.py: 114 runs -> /research/hal-afsharim/minimal_cbm/results/summary/posthoc_metrics.csv
+    make_results_md.py: wrote /research/hal-afsharim/minimal_cbm/results/summary/RESULTS.md (114 runs, 5 datasets)
+[07-30 01:40] complete=115/120 {'awa2': 19, 'cub12': 24, 'mpi3d': 24, 'cifar10': 24, 'shapes3d': 24} -> refreshing result file
+    backfill_snapshots.py: backfilled 1566 snapshot files across 117 runs (cadence every 10 epochs)
+    collect_results.py: 115 runs, 40 configs -> /research/hal-afsharim/minimal_cbm/results/summary
+    posthoc_metrics.py: 115 runs -> /research/hal-afsharim/minimal_cbm/results/summary/posthoc_metrics.csv
+    make_results_md.py: wrote /research/hal-afsharim/minimal_cbm/results/summary/RESULTS.md (115 runs, 5 datasets)
+[07-30 02:21] complete=116/120 {'awa2': 20, 'cub12': 24, 'mpi3d': 24, 'cifar10': 24, 'shapes3d': 24} -> refreshing result file
+    backfill_snapshots.py: backfilled 1567 snapshot files across 118 runs (cadence every 10 epochs)
+    collect_results.py: 116 runs, 40 configs -> /research/hal-afsharim/minimal_cbm/results/summary
+    posthoc_metrics.py: 116 runs -> /research/hal-afsharim/minimal_cbm/results/summary/posthoc_metrics.csv
+    make_results_md.py: wrote /research/hal-afsharim/minimal_cbm/results/summary/RESULTS.md (116 runs, 5 datasets)
+[07-30 11:21] complete=117/120 {'awa2': 21, 'cub12': 24, 'mpi3d': 24, 'cifar10': 24, 'shapes3d': 24} -> refreshing result file
+    backfill_snapshots.py: backfilled 1590 snapshot files across 119 runs (cadence every 10 epochs)
+    collect_results.py: 117 runs, 40 configs -> /research/hal-afsharim/minimal_cbm/results/summary
+    posthoc_metrics.py: 117 runs -> /research/hal-afsharim/minimal_cbm/results/summary/posthoc_metrics.csv
+    make_results_md.py: wrote /research/hal-afsharim/minimal_cbm/results/summary/RESULTS.md (117 runs, 5 datasets)
+[07-30 11:50] complete=118/120 {'awa2': 22, 'cub12': 24, 'mpi3d': 24, 'cifar10': 24, 'shapes3d': 24} -> refreshing result file
+    backfill_snapshots.py: backfilled 1591 snapshot files across 120 runs (cadence every 10 epochs)
+    collect_results.py: 118 runs, 40 configs -> /research/hal-afsharim/minimal_cbm/results/summary
+    posthoc_metrics.py: 118 runs -> /research/hal-afsharim/minimal_cbm/results/summary/posthoc_metrics.csv
+    make_results_md.py: wrote /research/hal-afsharim/minimal_cbm/results/summary/RESULTS.md (118 runs, 5 datasets)
+[07-30 20:59] complete=119/120 {'awa2': 23, 'cub12': 24, 'mpi3d': 24, 'cifar10': 24, 'shapes3d': 24} -> refreshing result file
+    backfill_snapshots.py: backfilled 1608 snapshot files across 120 runs (cadence every 10 epochs)
+    collect_results.py: 119 runs, 40 configs -> /research/hal-afsharim/minimal_cbm/results/summary
+    posthoc_metrics.py: 119 runs -> /research/hal-afsharim/minimal_cbm/results/summary/posthoc_metrics.csv
+    make_results_md.py: wrote /research/hal-afsharim/minimal_cbm/results/summary/RESULTS.md (119 runs, 5 datasets)
+[07-30 21:23] complete=120/120 {'awa2': 24, 'cub12': 24, 'mpi3d': 24, 'cifar10': 24, 'shapes3d': 24} -> refreshing result file
+    backfill_snapshots.py: backfilled 1608 snapshot files across 120 runs (cadence every 10 epochs)
+    collect_results.py: 120 runs, 40 configs -> /research/hal-afsharim/minimal_cbm/results/summary
+    posthoc_metrics.py: 120 runs -> /research/hal-afsharim/minimal_cbm/results/summary/posthoc_metrics.csv
+    make_results_md.py: wrote /research/hal-afsharim/minimal_cbm/results/summary/RESULTS.md (120 runs, 5 datasets)
+[watch] all 120 runs complete; final refresh done, exiting.

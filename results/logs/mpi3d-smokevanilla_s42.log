@@ -1,0 +1,76 @@
+
+===== launch 2026-07-24 23:53:46.020079 gpu0 =====
+wandb: Using wandb-core as the SDK backend.  Please refer to https://wandb.me/wandb-core for more information.
+wandb: Tracking run with wandb version 0.19.0
+wandb: W&B syncing is set to `offline` in this directory.  
+wandb: Run `wandb online` or set WANDB_MODE=online to enable cloud syncing.
+Traceback (most recent call last):
+  File "/research/hal-afsharim/minimal_cbm/bin/train.py", line 29, in <module>
+    train = TrainExperiment(
+  File "/research/hal-afsharim/minimal_cbm/src/experiments/train.py", line 27, in __init__
+    super().__init__(**kwargs)
+  File "/research/hal-afsharim/minimal_cbm/src/experiments/base.py", line 50, in __init__
+    self._set_all()
+  File "/research/hal-afsharim/minimal_cbm/src/experiments/train.py", line 50, in _set_all
+    self._set_loaders()
+  File "/research/hal-afsharim/minimal_cbm/src/experiments/train.py", line 36, in _set_loaders
+    self.train_loader, self.model_kwargs, _ = get_loader(
+  File "/research/hal-afsharim/minimal_cbm/src/datasets/__init__.py", line 10, in get_loader
+    return get_disentanglement_dataset(dataset, **kwargs)
+  File "/research/hal-afsharim/minimal_cbm/src/datasets/disentanglement.py", line 20, in get_disentanglement_dataset
+    dataset = datasets[dataset.upper()](train=train, **kwargs)
+  File "/research/hal-afsharim/minimal_cbm/src/datasets/disentanglement.py", line 78, in __init__
+    self._read_dataset(filepath)
+  File "/research/hal-afsharim/minimal_cbm/src/datasets/disentanglement.py", line 210, in _read_dataset
+    dataset = np.load(npz_path, allow_pickle=True)
+  File "/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/numpy/lib/npyio.py", line 420, in load
+    ret = NpzFile(fid, own_fid=own_fid, allow_pickle=allow_pickle,
+  File "/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/numpy/lib/npyio.py", line 187, in __init__
+    _zip = zipfile_factory(fid)
+  File "/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/numpy/lib/npyio.py", line 103, in zipfile_factory
+    return zipfile.ZipFile(file, *args, **kwargs)
+  File "/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/zipfile.py", line 1288, in __init__
+    self._RealGetContents()
+  File "/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/zipfile.py", line 1355, in _RealGetContents
+    raise BadZipFile("File is not a zip file")
+zipfile.BadZipFile: File is not a zip file
+[1;34mwandb[0m:
+[1;34mwandb[0m: You can sync this run to the cloud by running:
+[1;34mwandb[0m: [1mwandb sync /research/hal-afsharim/minimal_cbm/results/mpi3d-smokevanilla/42/wandb/offline-run-20260724_235351-7kuqzjfw[0m
+[1;34mwandb[0m: Find logs at: [1;35mresults/mpi3d-smokevanilla/42/wandb/offline-run-20260724_235351-7kuqzjfw/logs[0m
+
+===== launch 2026-07-25 00:01:46.555892 gpu5 =====
+wandb: Using wandb-core as the SDK backend.  Please refer to https://wandb.me/wandb-core for more information.
+wandb: Tracking run with wandb version 0.19.0
+wandb: W&B syncing is set to `offline` in this directory.  
+wandb: Run `wandb online` or set WANDB_MODE=online to enable cloud syncing.
+Traceback (most recent call last):
+  File "/research/hal-afsharim/minimal_cbm/bin/train.py", line 29, in <module>
+    train = TrainExperiment(
+  File "/research/hal-afsharim/minimal_cbm/src/experiments/train.py", line 27, in __init__
+    super().__init__(**kwargs)
+  File "/research/hal-afsharim/minimal_cbm/src/experiments/base.py", line 50, in __init__
+    self._set_all()
+  File "/research/hal-afsharim/minimal_cbm/src/experiments/train.py", line 50, in _set_all
+    self._set_loaders()
+  File "/research/hal-afsharim/minimal_cbm/src/experiments/train.py", line 36, in _set_loaders
+    self.train_loader, self.model_kwargs, _ = get_loader(
+  File "/research/hal-afsharim/minimal_cbm/src/datasets/__init__.py", line 10, in get_loader
+    return get_disentanglement_dataset(dataset, **kwargs)
+  File "/research/hal-afsharim/minimal_cbm/src/datasets/disentanglement.py", line 20, in get_disentanglement_dataset
+    dataset = datasets[dataset.upper()](train=train, **kwargs)
+  File "/research/hal-afsharim/minimal_cbm/src/datasets/disentanglement.py", line 81, in __init__
+    self._find_imbalance()
+  File "/research/hal-afsharim/minimal_cbm/src/datasets/disentanglement.py", line 132, in _find_imbalance
+    concepts = torch.stack([self._get_label(
+  File "/research/hal-afsharim/minimal_cbm/src/datasets/disentanglement.py", line 132, in <listcomp>
+    concepts = torch.stack([self._get_label(
+  File "/research/hal-afsharim/minimal_cbm/src/datasets/disentanglement.py", line 165, in _get_label
+    return torch.cat([
+  File "/research/hal-afsharim/minimal_cbm/src/datasets/disentanglement.py", line 166, in <listcomp>
+    F.one_hot(
+RuntimeError: one_hot is only applicable to index tensor.
+[1;34mwandb[0m:
+[1;34mwandb[0m: You can sync this run to the cloud by running:
+[1;34mwandb[0m: [1mwandb sync /research/hal-afsharim/minimal_cbm/results/mpi3d-smokevanilla/42/wandb/offline-run-20260725_000154-r90adqyb[0m
+[1;34mwandb[0m: Find logs at: [1;35mresults/mpi3d-smokevanilla/42/wandb/offline-run-20260725_000154-r90adqyb/logs[0m

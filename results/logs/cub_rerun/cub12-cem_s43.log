@@ -1,0 +1,48 @@
+wandb: Using wandb-core as the SDK backend.  Please refer to https://wandb.me/wandb-core for more information.
+wandb: Tracking run with wandb version 0.19.0
+wandb: W&B syncing is set to `offline` in this directory.  
+wandb: Run `wandb online` or set WANDB_MODE=online to enable cloud syncing.
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and will be removed in 0.15, please use 'weights' instead.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and will be removed in 0.15. The current behavior is equivalent to passing `weights=Inception_V3_Weights.IMAGENET1K_V1`. You can also use `weights=Inception_V3_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+Traceback (most recent call last):
+  File "/research/hal-afsharim/minimal_cbm/bin/train.py", line 31, in <module>
+    train.run()
+  File "/research/hal-afsharim/minimal_cbm/src/experiments/train.py", line 262, in run
+    losses_train = self.train_epoch(epoch)
+  File "/research/hal-afsharim/minimal_cbm/src/experiments/train.py", line 79, in train_epoch
+    losses_step = self._step(x, y, c, backprop=True)
+  File "/research/hal-afsharim/minimal_cbm/src/experiments/train.py", line 62, in _step
+    outputs = self.model(x=x, c=c, sampling=True)
+  File "/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1130, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/torch/nn/parallel/data_parallel.py", line 166, in forward
+    return self.module(*inputs[0], **kwargs[0])
+  File "/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1130, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/research/hal-afsharim/minimal_cbm/src/models/cem.py", line 43, in forward
+    z = self.p_z_x(x)
+  File "/research/hal-afsharim/minimal_cbm/src/models/vanilla.py", line 66, in p_z_x
+    return self.encoder(x)
+  File "/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1130, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/torch/nn/modules/container.py", line 139, in forward
+    input = module(input)
+  File "/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1130, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/torchvision/models/inception.py", line 166, in forward
+    x, aux = self._forward(x)
+  File "/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/torchvision/models/inception.py", line 142, in _forward
+    x = self.Mixed_7b(x)
+  File "/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/torch/nn/modules/module.py", line 1130, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/torchvision/models/inception.py", line 363, in forward
+    outputs = self._forward(x)
+  File "/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/torchvision/models/inception.py", line 356, in _forward
+    branch_pool = F.avg_pool2d(x, kernel_size=3, stride=1, padding=1)
+RuntimeError: CUDA out of memory. Tried to allocate 20.00 MiB (GPU 0; 10.75 GiB total capacity; 6.45 GiB already allocated; 3.62 MiB free; 6.52 GiB reserved in total by PyTorch) If reserved memory is >> allocated memory try setting max_split_size_mb to avoid fragmentation.  See documentation for Memory Management and PYTORCH_CUDA_ALLOC_CONF
+[1;34mwandb[0m:
+[1;34mwandb[0m: You can sync this run to the cloud by running:
+[1;34mwandb[0m: [1mwandb sync /research/hal-afsharim/minimal_cbm/results/cub12-cem/43/wandb/offline-run-20260806_044725-8cmbxaxg[0m
+[1;34mwandb[0m: Find logs at: [1;35mresults/cub12-cem/43/wandb/offline-run-20260806_044725-8cmbxaxg/logs[0m

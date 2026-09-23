@@ -1,0 +1,15 @@
+{"time":"2026-08-05T23:16:26.133448354-04:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2026-08-05T23:16:26.133469273-04:00","level":"INFO","msg":"created symlink","path":"/research/hal-afsharim/minimal_cbm/results/cub12-vanilla/44/wandb/offline-run-20260805_231626-tzvingjf/logs/debug-core.log"}
+{"time":"2026-08-05T23:16:26.250102914-04:00","level":"INFO","msg":"created new stream","id":"tzvingjf"}
+{"time":"2026-08-05T23:16:26.250191358-04:00","level":"INFO","msg":"stream: started","id":"tzvingjf"}
+{"time":"2026-08-05T23:16:26.250225816-04:00","level":"INFO","msg":"sender: started","stream_id":"tzvingjf"}
+{"time":"2026-08-05T23:16:26.250234199-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"tzvingjf"}
+{"time":"2026-08-05T23:16:26.250190978-04:00","level":"INFO","msg":"handler: started","stream_id":"tzvingjf"}
+{"time":"2026-08-05T23:16:26.259574103-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2026-08-06T04:48:33.929357074-04:00","level":"INFO","msg":"stream: closing","id":"tzvingjf"}
+{"time":"2026-08-06T04:48:33.929698324-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2026-08-06T04:48:33.935330727-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2026-08-06T04:48:33.936409324-04:00","level":"INFO","msg":"handler: closed","stream_id":"tzvingjf"}
+{"time":"2026-08-06T04:48:33.936430867-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"tzvingjf"}
+{"time":"2026-08-06T04:48:33.937383136-04:00","level":"INFO","msg":"sender: closed","stream_id":"tzvingjf"}
+{"time":"2026-08-06T04:48:33.937442771-04:00","level":"INFO","msg":"stream: closed","id":"tzvingjf"}

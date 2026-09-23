@@ -1,0 +1,114 @@
+
+===== launch 2026-07-24 23:53:46.046573 gpu2 =====
+wandb: Using wandb-core as the SDK backend.  Please refer to https://wandb.me/wandb-core for more information.
+wandb: Tracking run with wandb version 0.19.0
+wandb: W&B syncing is set to `offline` in this directory.  
+wandb: Run `wandb online` or set WANDB_MODE=online to enable cloud syncing.
+Epoch 1
+losses_train/task:	2.0674972534179688
+losses_train/concepts:	43.3255729675293
+losses_train/representations:	58.829769134521484
+losses_train/total:	24.048988342285156
+losses_test/task:	1.709259271621704
+losses_test/concepts:	40.41072463989258
+losses_test/representations:	54.835384368896484
+losses_test/total:	22.200946807861328
+calibration_test/ece:	0.11302179098129272
+calibration_test/brier:	0.7654661536216736
+accuracy_test/task:	38.2
+accuracy_test/concepts:	63.7734375
+map_test/concepts:	0.7463668483542278
+
+Epoch 2
+losses_train/task:	1.6686490774154663
+losses_train/concepts:	38.568580627441406
+losses_train/representations:	54.43941116333008
+losses_train/total:	21.857330322265625
+losses_test/task:	1.4974645376205444
+losses_test/concepts:	36.01544189453125
+losses_test/representations:	53.5335578918457
+losses_test/total:	21.15907859802246
+calibration_train/ece:	0.09037869423627853
+calibration_train/brier:	0.6897072196006775
+accuracy_train/task:	45.83533653846154
+calibration_test/ece:	0.08794877678155899
+calibration_test/brier:	0.6894674897193909
+accuracy_test/task:	45.99
+accuracy_train/concepts:	72.5780029296875
+map_train/concepts:	0.7604452855011914
+accuracy_test/concepts:	72.6421890258789
+map_test/concepts:	0.7590245182509534
+accuracy_test/nuisances_task:	-0.28886085824121405
+accuracy_test/nuisances_nontask:	0.0
+mutual_inf_test/nuisances_task:	0.1621855224466258
+mutual_inf_test/nuisances_nontask:	0.0
+
+epoch_2.pt
+54.01
+54.28
+53.64
+53.87
+52.11
+52.14
+52.89
+52.96
+53.01
+52.61
+53.66
+53.7
+53.48
+52.8
+52.64
+51.6
+50.58
+50.93
+50.71
+50.51
+49.75
+49.72
+50.45
+49.99
+49.96
+50.21
+50.27
+51.38
+50.48
+50.94
+51.08
+51.02
+50.56
+50.65
+50.63
+50.74
+50.78
+50.53
+50.89
+51.39
+51.32
+50.98
+51.19
+51.92
+51.85
+52.33
+52.64
+52.26
+52.17
+51.88
+51.54
+51.69
+51.58
+51.58
+51.61
+51.61
+51.56
+51.54
+51.56
+51.92
+51.72
+51.71
+51.66
+51.71
+[1;34mwandb[0m:
+[1;34mwandb[0m: You can sync this run to the cloud by running:
+[1;34mwandb[0m: [1mwandb sync /research/hal-afsharim/minimal_cbm/results/cifar10-smokemcbm/42/wandb/offline-run-20260724_235351-zr5mdp4o[0m
+[1;34mwandb[0m: Find logs at: [1;35mresults/cifar10-smokemcbm/42/wandb/offline-run-20260724_235351-zr5mdp4o/logs[0m

@@ -1,0 +1,66 @@
+
+===== launch 2026-07-24 23:53:46.050409 gpu3 =====
+wandb: Using wandb-core as the SDK backend.  Please refer to https://wandb.me/wandb-core for more information.
+wandb: Tracking run with wandb version 0.19.0
+wandb: W&B syncing is set to `offline` in this directory.  
+wandb: Run `wandb online` or set WANDB_MODE=online to enable cloud syncing.
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/torchvision/models/_utils.py:208: UserWarning: The parameter 'pretrained' is deprecated since 0.13 and will be removed in 0.15, please use 'weights' instead.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/torchvision/models/_utils.py:223: UserWarning: Arguments other than a weight enum or `None` for 'weights' are deprecated since 0.13 and will be removed in 0.15. The current behavior is equivalent to passing `weights=Inception_V3_Weights.IMAGENET1K_V1`. You can also use `weights=Inception_V3_Weights.DEFAULT` to get the most up-to-date weights.
+  warnings.warn(msg)
+Epoch 1
+losses_train/task:	5.372615814208984
+losses_train/concepts:	63.24073028564453
+losses_train/representations:	50.742919921875
+losses_train/total:	16.770980834960938
+losses_test/task:	5.304117679595947
+losses_test/concepts:	55.46912384033203
+losses_test/representations:	40.43914794921875
+losses_test/total:	14.894947052001953
+calibration_test/ece:	0.005705902352929115
+calibration_test/brier:	0.9950408339500427
+accuracy_test/task:	0.2761477390403866
+accuracy_test/concepts:	54.6328239440918
+map_test/concepts:	0.2827947418740455
+
+Epoch 2
+losses_train/task:	5.194930553436279
+losses_train/concepts:	53.893211364746094
+losses_train/representations:	37.05599594116211
+losses_train/total:	14.289849281311035
+losses_test/task:	5.040236949920654
+losses_test/concepts:	52.31686782836914
+losses_test/representations:	37.15113830566406
+losses_test/total:	13.987038612365723
+calibration_train/ece:	0.007166408933699131
+calibration_train/brier:	0.9923460483551025
+accuracy_train/task:	1.8158783783783783
+calibration_test/ece:	0.00774758867919445
+calibration_test/brier:	0.9913471937179565
+accuracy_test/task:	2.0538488091128753
+accuracy_train/concepts:	64.86126708984375
+map_train/concepts:	0.321410208147891
+accuracy_test/concepts:	65.20098114013672
+map_test/concepts:	0.360475222322535
+accuracy_test/nuisances_task:	0.03823555432833158
+accuracy_test/nuisances_nontask:	0.0
+mutual_inf_test/nuisances_task:	0.0038128009919351264
+mutual_inf_test/nuisances_nontask:	0.0
+
+epoch_2.pt
+97.94615119088712
+98.44666896789782
+98.29133586468761
+98.17052122885744
+98.3603727994477
+98.0669658267173
+98.63652053848809
+98.80911287538834
+98.41215050051778
+98.92992751121851
+98.51570590265793
+98.30859509837764
+[1;34mwandb[0m:
+[1;34mwandb[0m: You can sync this run to the cloud by running:
+[1;34mwandb[0m: [1mwandb sync /research/hal-afsharim/minimal_cbm/results/cub12-smokemcbm/42/wandb/offline-run-20260724_235351-l1xbgnxl[0m
+[1;34mwandb[0m: Find logs at: [1;35mresults/cub12-smokemcbm/42/wandb/offline-run-20260724_235351-l1xbgnxl/logs[0m
