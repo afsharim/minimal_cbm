@@ -1,0 +1,15 @@
+{"time":"2026-08-06T04:48:04.233739669-04:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2026-08-06T04:48:04.233772039-04:00","level":"INFO","msg":"created symlink","path":"/research/hal-afsharim/minimal_cbm/results/cub12-cem/44/wandb/offline-run-20260806_044804-lhsgneom/logs/debug-core.log"}
+{"time":"2026-08-06T04:48:04.352050413-04:00","level":"INFO","msg":"created new stream","id":"lhsgneom"}
+{"time":"2026-08-06T04:48:04.352144024-04:00","level":"INFO","msg":"stream: started","id":"lhsgneom"}
+{"time":"2026-08-06T04:48:04.352181895-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"lhsgneom"}
+{"time":"2026-08-06T04:48:04.352199175-04:00","level":"INFO","msg":"handler: started","stream_id":"lhsgneom"}
+{"time":"2026-08-06T04:48:04.352228607-04:00","level":"INFO","msg":"sender: started","stream_id":"lhsgneom"}
+{"time":"2026-08-06T04:48:04.357528744-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2026-08-06T10:55:23.891568057-04:00","level":"INFO","msg":"stream: closing","id":"lhsgneom"}
+{"time":"2026-08-06T10:55:23.891665061-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2026-08-06T10:55:23.892876801-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2026-08-06T10:55:23.893284191-04:00","level":"INFO","msg":"handler: closed","stream_id":"lhsgneom"}
+{"time":"2026-08-06T10:55:23.893313524-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"lhsgneom"}
+{"time":"2026-08-06T10:55:23.893321844-04:00","level":"INFO","msg":"sender: closed","stream_id":"lhsgneom"}
+{"time":"2026-08-06T10:55:23.893996714-04:00","level":"INFO","msg":"stream: closed","id":"lhsgneom"}

@@ -1,0 +1,15 @@
+{"time":"2026-07-28T03:38:26.071508679-04:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2026-07-28T03:38:26.071554974-04:00","level":"INFO","msg":"created symlink","path":"/research/hal-afsharim/minimal_cbm/results/cifar10-vanilla/44/wandb/offline-run-20260728_033826-xtvmu0co/logs/debug-core.log"}
+{"time":"2026-07-28T03:38:26.285752274-04:00","level":"INFO","msg":"created new stream","id":"xtvmu0co"}
+{"time":"2026-07-28T03:38:26.285806478-04:00","level":"INFO","msg":"stream: started","id":"xtvmu0co"}
+{"time":"2026-07-28T03:38:26.285837565-04:00","level":"INFO","msg":"sender: started","stream_id":"xtvmu0co"}
+{"time":"2026-07-28T03:38:26.28583838-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"xtvmu0co"}
+{"time":"2026-07-28T03:38:26.285856018-04:00","level":"INFO","msg":"handler: started","stream_id":"xtvmu0co"}
+{"time":"2026-07-28T03:38:26.291617379-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2026-07-28T09:06:14.168920206-04:00","level":"INFO","msg":"stream: closing","id":"xtvmu0co"}
+{"time":"2026-07-28T09:06:14.169880635-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2026-07-28T09:06:14.176652725-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2026-07-28T09:06:14.177709871-04:00","level":"INFO","msg":"handler: closed","stream_id":"xtvmu0co"}
+{"time":"2026-07-28T09:06:14.177764419-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"xtvmu0co"}
+{"time":"2026-07-28T09:06:14.177808599-04:00","level":"INFO","msg":"sender: closed","stream_id":"xtvmu0co"}
+{"time":"2026-07-28T09:06:14.178513979-04:00","level":"INFO","msg":"stream: closed","id":"xtvmu0co"}

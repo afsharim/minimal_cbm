@@ -1,0 +1,83 @@
+{
+  "os": "Linux-5.15.0-121-generic-x86_64-with-glibc2.35",
+  "python": "CPython 3.10.20",
+  "startedAt": "2026-08-06T08:48:04.217983Z",
+  "args": [
+    "cub12-cem",
+    "-s",
+    "44"
+  ],
+  "program": "/research/hal-afsharim/minimal_cbm/bin/train.py",
+  "codePath": "bin/train.py",
+  "git": {
+    "remote": "git@github.com:afsharim/minimal_cbm.git",
+    "commit": "9ba535c8d8e4a5b54e801a31d9db3d819d0910ab"
+  },
+  "root": "/research/hal-afsharim/minimal_cbm/results/cub12-cem/44",
+  "host": "aragorn",
+  "username": "afsharim",
+  "executable": "/research/hal-afsharim/miniconda3/envs/mcbm/bin/python",
+  "codePathLocal": "bin/train.py",
+  "cpu_count": 24,
+  "cpu_count_logical": 48,
+  "gpu": "NVIDIA GeForce RTX 2080 Ti",
+  "gpu_count": 7,
+  "disk": {
+    "/": {
+      "total": "127764172800",
+      "used": "29105389568"
+    }
+  },
+  "memory": {
+    "total": "135029059584"
+  },
+  "cpu": {
+    "count": 24,
+    "countLogical": 48
+  },
+  "gpu_nvidia": [
+    {
+      "name": "NVIDIA GeForce RTX 2080 Ti",
+      "memoryTotal": "11811160064",
+      "cudaCores": 4352,
+      "architecture": "Turing"
+    },
+    {
+      "name": "NVIDIA GeForce RTX 2080 Ti",
+      "memoryTotal": "11811160064",
+      "cudaCores": 4352,
+      "architecture": "Turing"
+    },
+    {
+      "name": "NVIDIA GeForce RTX 2080 Ti",
+      "memoryTotal": "11811160064",
+      "cudaCores": 4352,
+      "architecture": "Turing"
+    },
+    {
+      "name": "NVIDIA GeForce RTX 2080 Ti",
+      "memoryTotal": "11811160064",
+      "cudaCores": 4352,
+      "architecture": "Turing"
+    },
+    {
+      "name": "NVIDIA GeForce RTX 2080 Ti",
+      "memoryTotal": "11811160064",
+      "cudaCores": 4352,
+      "architecture": "Turing"
+    },
+    {
+      "name": "NVIDIA GeForce RTX 2080 Ti",
+      "memoryTotal": "11811160064",
+      "cudaCores": 4352,
+      "architecture": "Turing"
+    },
+    {
+      "name": "NVIDIA GeForce RTX 2080 Ti",
+      "memoryTotal": "11811160064",
+      "cudaCores": 4352,
+      "architecture": "Turing"
+    }
+  ],
+  "cudaVersion": "12.2"
+}

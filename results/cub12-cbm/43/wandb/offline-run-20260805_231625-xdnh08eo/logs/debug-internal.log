@@ -1,0 +1,15 @@
+{"time":"2026-08-05T23:16:26.018940411-04:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2026-08-05T23:16:26.018986298-04:00","level":"INFO","msg":"created symlink","path":"/research/hal-afsharim/minimal_cbm/results/cub12-cbm/43/wandb/offline-run-20260805_231625-xdnh08eo/logs/debug-core.log"}
+{"time":"2026-08-05T23:16:26.236245904-04:00","level":"INFO","msg":"created new stream","id":"xdnh08eo"}
+{"time":"2026-08-05T23:16:26.236297477-04:00","level":"INFO","msg":"stream: started","id":"xdnh08eo"}
+{"time":"2026-08-05T23:16:26.236320744-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"xdnh08eo"}
+{"time":"2026-08-05T23:16:26.236360838-04:00","level":"INFO","msg":"handler: started","stream_id":"xdnh08eo"}
+{"time":"2026-08-05T23:16:26.236415548-04:00","level":"INFO","msg":"sender: started","stream_id":"xdnh08eo"}
+{"time":"2026-08-05T23:16:26.24147218-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2026-08-06T05:21:12.338266848-04:00","level":"INFO","msg":"stream: closing","id":"xdnh08eo"}
+{"time":"2026-08-06T05:21:12.338944515-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2026-08-06T05:21:12.340735031-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2026-08-06T05:21:12.341096672-04:00","level":"INFO","msg":"handler: closed","stream_id":"xdnh08eo"}
+{"time":"2026-08-06T05:21:12.341166652-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"xdnh08eo"}
+{"time":"2026-08-06T05:21:12.34118464-04:00","level":"INFO","msg":"sender: closed","stream_id":"xdnh08eo"}
+{"time":"2026-08-06T05:21:12.341861458-04:00","level":"INFO","msg":"stream: closed","id":"xdnh08eo"}

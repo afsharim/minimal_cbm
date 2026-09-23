@@ -1,0 +1,15 @@
+{"time":"2026-08-06T05:16:54.969029458-04:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2026-08-06T05:16:54.969064662-04:00","level":"INFO","msg":"created symlink","path":"/research/hal-afsharim/minimal_cbm/results/cub12-mcbm-005/44/wandb/offline-run-20260806_051654-sgr886bw/logs/debug-core.log"}
+{"time":"2026-08-06T05:16:55.081443031-04:00","level":"INFO","msg":"created new stream","id":"sgr886bw"}
+{"time":"2026-08-06T05:16:55.081536623-04:00","level":"INFO","msg":"stream: started","id":"sgr886bw"}
+{"time":"2026-08-06T05:16:55.081704324-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"sgr886bw"}
+{"time":"2026-08-06T05:16:55.081553772-04:00","level":"INFO","msg":"handler: started","stream_id":"sgr886bw"}
+{"time":"2026-08-06T05:16:55.081700124-04:00","level":"INFO","msg":"sender: started","stream_id":"sgr886bw"}
+{"time":"2026-08-06T05:16:55.087216442-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2026-08-06T05:17:12.51623186-04:00","level":"INFO","msg":"stream: closing","id":"sgr886bw"}
+{"time":"2026-08-06T05:17:12.516387481-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2026-08-06T05:17:12.517342076-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2026-08-06T05:17:12.517721283-04:00","level":"INFO","msg":"handler: closed","stream_id":"sgr886bw"}
+{"time":"2026-08-06T05:17:12.517764539-04:00","level":"INFO","msg":"sender: closed","stream_id":"sgr886bw"}
+{"time":"2026-08-06T05:17:12.517754743-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"sgr886bw"}
+{"time":"2026-08-06T05:17:12.518277696-04:00","level":"INFO","msg":"stream: closed","id":"sgr886bw"}
