@@ -1,0 +1,15 @@
+{"time":"2026-07-25T13:56:22.617962755-04:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2026-07-25T13:56:22.618001434-04:00","level":"INFO","msg":"created symlink","path":"/research/hal-afsharim/minimal_cbm/results/mpi3d-mcbm-1/42/wandb/offline-run-20260725_135622-mqrwsgg1/logs/debug-core.log"}
+{"time":"2026-07-25T13:56:22.729864782-04:00","level":"INFO","msg":"created new stream","id":"mqrwsgg1"}
+{"time":"2026-07-25T13:56:22.729921387-04:00","level":"INFO","msg":"stream: started","id":"mqrwsgg1"}
+{"time":"2026-07-25T13:56:22.729988285-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"mqrwsgg1"}
+{"time":"2026-07-25T13:56:22.72999094-04:00","level":"INFO","msg":"sender: started","stream_id":"mqrwsgg1"}
+{"time":"2026-07-25T13:56:22.730023542-04:00","level":"INFO","msg":"handler: started","stream_id":"mqrwsgg1"}
+{"time":"2026-07-25T13:56:22.735382331-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2026-07-25T15:35:24.978023121-04:00","level":"INFO","msg":"stream: closing","id":"mqrwsgg1"}
+{"time":"2026-07-25T15:35:24.978139746-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2026-07-25T15:35:24.983845201-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2026-07-25T15:35:24.984597594-04:00","level":"INFO","msg":"handler: closed","stream_id":"mqrwsgg1"}
+{"time":"2026-07-25T15:35:24.984641581-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"mqrwsgg1"}
+{"time":"2026-07-25T15:35:24.984671127-04:00","level":"INFO","msg":"sender: closed","stream_id":"mqrwsgg1"}
+{"time":"2026-07-25T15:35:24.98534784-04:00","level":"INFO","msg":"stream: closed","id":"mqrwsgg1"}
