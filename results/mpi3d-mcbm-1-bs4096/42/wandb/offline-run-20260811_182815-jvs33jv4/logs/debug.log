@@ -1,0 +1,12 @@
+2026-08-11 18:28:16,051 INFO    MainThread:3044445 [wandb_setup.py:_flush():68] Current SDK version is 0.19.0
+2026-08-11 18:28:16,051 INFO    MainThread:3044445 [wandb_setup.py:_flush():68] Configure stats pid to 3044445
+2026-08-11 18:28:16,051 INFO    MainThread:3044445 [wandb_setup.py:_flush():68] Loading settings from /research/hal-afsharim/.config/wandb/settings
+2026-08-11 18:28:16,051 INFO    MainThread:3044445 [wandb_setup.py:_flush():68] Loading settings from /research/hal-afsharim/minimal_cbm/wandb/settings
+2026-08-11 18:28:16,051 INFO    MainThread:3044445 [wandb_setup.py:_flush():68] Loading settings from environment variables
+2026-08-11 18:28:16,052 INFO    MainThread:3044445 [wandb_init.py:_log_setup():528] Logging user logs to /research/hal-afsharim/minimal_cbm/results/mpi3d-mcbm-1-bs4096/42/wandb/offline-run-20260811_182815-jvs33jv4/logs/debug.log
+2026-08-11 18:28:16,052 INFO    MainThread:3044445 [wandb_init.py:_log_setup():529] Logging internal logs to /research/hal-afsharim/minimal_cbm/results/mpi3d-mcbm-1-bs4096/42/wandb/offline-run-20260811_182815-jvs33jv4/logs/debug-internal.log
+2026-08-11 18:28:16,052 INFO    MainThread:3044445 [wandb_init.py:init():639] calling init triggers
+2026-08-11 18:28:16,053 INFO    MainThread:3044445 [wandb_init.py:init():645] wandb.init called with sweep_config: {}
+config: {'data': {'dataset': 'MPI3D', 'filepath': '/research/hal-afsharim/minimal_cbm/data/mpi3d/mpi3d_real_labeled.npz', 'task': 'object_shape', 'concepts': ['object_color', 'object_size', 'camera_height', 'background_color'], 'nuisances_task': ['horizontal_axis']}, 'model': {'model_type': 'mcbm', 'encoder': {'arch': 'resnet20'}, 'hidden_dims_y': 64, 'var_z': 1, 'hidden_dims_c': [3], 'beta': 1, 'hidden_dims_z': None, 'gamma': 1}, 'training': {'batch_size': 4096, 'n_epochs': 50, 'save_epochs': 10, 'optimizer': {'optimizer': 'SGD', 'base_batch_size': 4096, 'base_lr': 0.006, 'batch_size': 4096, 'momentum': 0.9, 'weight_decay': 4e-05}, 'scheduler': {'gamma': 0.1, 'scheduler': 'StepLR', 'step_size': 20}}}
+2026-08-11 18:28:16,053 INFO    MainThread:3044445 [wandb_init.py:init():683] wandb.init() called when a run is still active
+2026-08-11 18:29:47,490 WARNING MsgRouterThr:3044445 [router.py:message_loop():75] message_loop has been closed

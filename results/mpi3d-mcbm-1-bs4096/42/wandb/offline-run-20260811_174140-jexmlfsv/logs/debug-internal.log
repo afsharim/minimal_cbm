@@ -1,0 +1,15 @@
+{"time":"2026-08-11T17:41:40.317563884-04:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2026-08-11T17:41:40.317660204-04:00","level":"INFO","msg":"created symlink","path":"/research/hal-afsharim/minimal_cbm/results/mpi3d-mcbm-1-bs4096/42/wandb/offline-run-20260811_174140-jexmlfsv/logs/debug-core.log"}
+{"time":"2026-08-11T17:41:41.114011237-04:00","level":"INFO","msg":"created new stream","id":"jexmlfsv"}
+{"time":"2026-08-11T17:41:41.114291105-04:00","level":"INFO","msg":"stream: started","id":"jexmlfsv"}
+{"time":"2026-08-11T17:41:41.114634474-04:00","level":"INFO","msg":"sender: started","stream_id":"jexmlfsv"}
+{"time":"2026-08-11T17:41:41.114636814-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"jexmlfsv"}
+{"time":"2026-08-11T17:41:41.114873963-04:00","level":"INFO","msg":"handler: started","stream_id":"jexmlfsv"}
+{"time":"2026-08-11T17:41:41.151322299-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2026-08-11T18:29:47.490668303-04:00","level":"INFO","msg":"stream: closing","id":"jexmlfsv"}
+{"time":"2026-08-11T18:29:47.490979892-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2026-08-11T18:29:47.49326386-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2026-08-11T18:29:47.495015622-04:00","level":"INFO","msg":"handler: closed","stream_id":"jexmlfsv"}
+{"time":"2026-08-11T18:29:47.495042542-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"jexmlfsv"}
+{"time":"2026-08-11T18:29:47.495114512-04:00","level":"INFO","msg":"sender: closed","stream_id":"jexmlfsv"}
+{"time":"2026-08-11T18:29:47.495792188-04:00","level":"INFO","msg":"stream: closed","id":"jexmlfsv"}
