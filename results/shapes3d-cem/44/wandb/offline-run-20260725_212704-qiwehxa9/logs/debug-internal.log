@@ -1,0 +1,15 @@
+{"time":"2026-07-25T21:27:04.558428259-04:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2026-07-25T21:27:04.558460816-04:00","level":"INFO","msg":"created symlink","path":"/research/hal-afsharim/minimal_cbm/results/shapes3d-cem/44/wandb/offline-run-20260725_212704-qiwehxa9/logs/debug-core.log"}
+{"time":"2026-07-25T21:27:04.674624005-04:00","level":"INFO","msg":"created new stream","id":"qiwehxa9"}
+{"time":"2026-07-25T21:27:04.674697992-04:00","level":"INFO","msg":"stream: started","id":"qiwehxa9"}
+{"time":"2026-07-25T21:27:04.674753376-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"qiwehxa9"}
+{"time":"2026-07-25T21:27:04.674784715-04:00","level":"INFO","msg":"handler: started","stream_id":"qiwehxa9"}
+{"time":"2026-07-25T21:27:04.674825616-04:00","level":"INFO","msg":"sender: started","stream_id":"qiwehxa9"}
+{"time":"2026-07-25T21:27:04.681848081-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2026-07-25T23:01:43.327590517-04:00","level":"INFO","msg":"stream: closing","id":"qiwehxa9"}
+{"time":"2026-07-25T23:01:43.327778845-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2026-07-25T23:01:43.328900372-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2026-07-25T23:01:43.329212021-04:00","level":"INFO","msg":"handler: closed","stream_id":"qiwehxa9"}
+{"time":"2026-07-25T23:01:43.329233061-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"qiwehxa9"}
+{"time":"2026-07-25T23:01:43.329246421-04:00","level":"INFO","msg":"sender: closed","stream_id":"qiwehxa9"}
+{"time":"2026-07-25T23:01:43.329995388-04:00","level":"INFO","msg":"stream: closed","id":"qiwehxa9"}
