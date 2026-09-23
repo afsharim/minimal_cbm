@@ -1,0 +1,15 @@
+{"time":"2026-07-25T18:16:19.83010745-04:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2026-07-25T18:16:19.830146252-04:00","level":"INFO","msg":"created symlink","path":"/research/hal-afsharim/minimal_cbm/results/shapes3d-arhcbm/43/wandb/offline-run-20260725_181619-tgi837vo/logs/debug-core.log"}
+{"time":"2026-07-25T18:16:19.945486354-04:00","level":"INFO","msg":"created new stream","id":"tgi837vo"}
+{"time":"2026-07-25T18:16:19.945603872-04:00","level":"INFO","msg":"stream: started","id":"tgi837vo"}
+{"time":"2026-07-25T18:16:19.945619013-04:00","level":"INFO","msg":"handler: started","stream_id":"tgi837vo"}
+{"time":"2026-07-25T18:16:19.945685859-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"tgi837vo"}
+{"time":"2026-07-25T18:16:19.945674879-04:00","level":"INFO","msg":"sender: started","stream_id":"tgi837vo"}
+{"time":"2026-07-25T18:16:19.951842242-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2026-07-25T20:06:41.915177097-04:00","level":"INFO","msg":"stream: closing","id":"tgi837vo"}
+{"time":"2026-07-25T20:06:41.915315166-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2026-07-25T20:06:41.916622627-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2026-07-25T20:06:41.917124405-04:00","level":"INFO","msg":"handler: closed","stream_id":"tgi837vo"}
+{"time":"2026-07-25T20:06:41.917158932-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"tgi837vo"}
+{"time":"2026-07-25T20:06:41.917167183-04:00","level":"INFO","msg":"sender: closed","stream_id":"tgi837vo"}
+{"time":"2026-07-25T20:06:41.9177411-04:00","level":"INFO","msg":"stream: closed","id":"tgi837vo"}

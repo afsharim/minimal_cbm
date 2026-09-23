@@ -1,0 +1,15 @@
+{"time":"2026-07-25T16:43:47.973005483-04:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2026-07-25T16:43:47.973041301-04:00","level":"INFO","msg":"created symlink","path":"/research/hal-afsharim/minimal_cbm/results/mpi3d-vanilla/43/wandb/offline-run-20260725_164347-ab2cka4k/logs/debug-core.log"}
+{"time":"2026-07-25T16:43:48.086973028-04:00","level":"INFO","msg":"created new stream","id":"ab2cka4k"}
+{"time":"2026-07-25T16:43:48.08701875-04:00","level":"INFO","msg":"stream: started","id":"ab2cka4k"}
+{"time":"2026-07-25T16:43:48.08706566-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"ab2cka4k"}
+{"time":"2026-07-25T16:43:48.087079269-04:00","level":"INFO","msg":"handler: started","stream_id":"ab2cka4k"}
+{"time":"2026-07-25T16:43:48.087127324-04:00","level":"INFO","msg":"sender: started","stream_id":"ab2cka4k"}
+{"time":"2026-07-25T16:43:48.093585349-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2026-07-25T17:52:51.972331314-04:00","level":"INFO","msg":"stream: closing","id":"ab2cka4k"}
+{"time":"2026-07-25T17:52:51.972453798-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2026-07-25T17:52:51.973483685-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2026-07-25T17:52:51.973875765-04:00","level":"INFO","msg":"handler: closed","stream_id":"ab2cka4k"}
+{"time":"2026-07-25T17:52:51.973902876-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"ab2cka4k"}
+{"time":"2026-07-25T17:52:51.973934968-04:00","level":"INFO","msg":"sender: closed","stream_id":"ab2cka4k"}
+{"time":"2026-07-25T17:52:51.974516954-04:00","level":"INFO","msg":"stream: closed","id":"ab2cka4k"}
