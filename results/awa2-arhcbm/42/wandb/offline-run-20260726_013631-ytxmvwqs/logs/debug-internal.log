@@ -1,0 +1,15 @@
+{"time":"2026-07-26T01:36:31.419947415-04:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2026-07-26T01:36:31.419978996-04:00","level":"INFO","msg":"created symlink","path":"/research/hal-afsharim/minimal_cbm/results/awa2-arhcbm/42/wandb/offline-run-20260726_013631-ytxmvwqs/logs/debug-core.log"}
+{"time":"2026-07-26T01:36:31.530622566-04:00","level":"INFO","msg":"created new stream","id":"ytxmvwqs"}
+{"time":"2026-07-26T01:36:31.530682576-04:00","level":"INFO","msg":"stream: started","id":"ytxmvwqs"}
+{"time":"2026-07-26T01:36:31.530727432-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"ytxmvwqs"}
+{"time":"2026-07-26T01:36:31.530770054-04:00","level":"INFO","msg":"handler: started","stream_id":"ytxmvwqs"}
+{"time":"2026-07-26T01:36:31.530731149-04:00","level":"INFO","msg":"sender: started","stream_id":"ytxmvwqs"}
+{"time":"2026-07-26T01:36:31.536684703-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2026-07-26T11:45:24.01228256-04:00","level":"INFO","msg":"stream: closing","id":"ytxmvwqs"}
+{"time":"2026-07-26T11:45:24.012386242-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2026-07-26T11:45:24.026546807-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2026-07-26T11:45:24.029671337-04:00","level":"INFO","msg":"handler: closed","stream_id":"ytxmvwqs"}
+{"time":"2026-07-26T11:45:24.029729241-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"ytxmvwqs"}
+{"time":"2026-07-26T11:45:24.029741783-04:00","level":"INFO","msg":"sender: closed","stream_id":"ytxmvwqs"}
+{"time":"2026-07-26T11:45:24.030324766-04:00","level":"INFO","msg":"stream: closed","id":"ytxmvwqs"}

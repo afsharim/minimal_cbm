@@ -1,0 +1,2077 @@
+Epoch 1
+losses_train/task:	1.6633223295211792
+losses_train/total:	1.6633223295211792
+losses_test/task:	1.3280887603759766
+losses_test/total:	1.3280887603759766
+calibration_test/ece:	0.04727587103843689
+calibration_test/brier:	0.610381543636322
+accuracy_test/task:	53.43
+
+Epoch 2
+losses_train/task:	1.2937202453613281
+losses_train/total:	1.2937202453613281
+losses_test/task:	1.1988106966018677
+losses_test/total:	1.1988106966018677
+calibration_test/ece:	0.022590478882193565
+calibration_test/brier:	0.5592583417892456
+accuracy_test/task:	57.52
+
+Epoch 3
+losses_train/task:	1.1767282485961914
+losses_train/total:	1.1767282485961914
+losses_test/task:	1.1189208030700684
+losses_test/total:	1.1189208030700684
+calibration_test/ece:	0.028906209394335747
+calibration_test/brier:	0.5254694223403931
+accuracy_test/task:	60.89
+
+Epoch 4
+losses_train/task:	1.0959587097167969
+losses_train/total:	1.0959587097167969
+losses_test/task:	1.0650852918624878
+losses_test/total:	1.0650852918624878
+calibration_test/ece:	0.015717487782239914
+calibration_test/brier:	0.503212571144104
+accuracy_test/task:	62.22
+
+Epoch 5
+losses_train/task:	1.031171202659607
+losses_train/total:	1.031171202659607
+losses_test/task:	1.0479514598846436
+losses_test/total:	1.0479514598846436
+calibration_test/ece:	0.010552776977419853
+calibration_test/brier:	0.49391791224479675
+accuracy_test/task:	62.94
+
+Epoch 6
+losses_train/task:	0.9734963178634644
+losses_train/total:	0.9734963178634644
+losses_test/task:	0.9840623140335083
+losses_test/total:	0.9840623140335083
+calibration_test/ece:	0.015621424652636051
+calibration_test/brier:	0.4665026366710663
+accuracy_test/task:	65.44
+
+Epoch 7
+losses_train/task:	0.9219424724578857
+losses_train/total:	0.9219424724578857
+losses_test/task:	0.9623196721076965
+losses_test/total:	0.9623196721076965
+calibration_test/ece:	0.018279392272233963
+calibration_test/brier:	0.45604243874549866
+accuracy_test/task:	66.0
+
+Epoch 8
+losses_train/task:	0.8767778873443604
+losses_train/total:	0.8767778873443604
+losses_test/task:	0.9598377346992493
+losses_test/total:	0.9598377346992493
+calibration_test/ece:	0.018313197419047356
+calibration_test/brier:	0.45367172360420227
+accuracy_test/task:	66.63
+
+Epoch 9
+losses_train/task:	0.8308144807815552
+losses_train/total:	0.8308144807815552
+losses_test/task:	0.9537798166275024
+losses_test/total:	0.9537798166275024
+calibration_test/ece:	0.02910393476486206
+calibration_test/brier:	0.4487735331058502
+accuracy_test/task:	67.04
+
+Epoch 10
+losses_train/task:	0.7974094748497009
+losses_train/total:	0.7974094748497009
+losses_test/task:	0.9369945526123047
+losses_test/total:	0.9369945526123047
+calibration_test/ece:	0.030286531895399094
+calibration_test/brier:	0.4405406713485718
+accuracy_test/task:	67.55
+
+Epoch 11
+losses_train/task:	0.7611352801322937
+losses_train/total:	0.7611352801322937
+losses_test/task:	0.932860791683197
+losses_test/total:	0.932860791683197
+calibration_test/ece:	0.036337874829769135
+calibration_test/brier:	0.4355432689189911
+accuracy_test/task:	68.0
+
+Epoch 12
+losses_train/task:	0.7271103262901306
+losses_train/total:	0.7271103262901306
+losses_test/task:	0.9491198658943176
+losses_test/total:	0.9491198658943176
+calibration_test/ece:	0.04472285881638527
+calibration_test/brier:	0.440167099237442
+accuracy_test/task:	68.02
+
+Epoch 13
+losses_train/task:	0.6932404041290283
+losses_train/total:	0.6932404041290283
+losses_test/task:	0.9523747563362122
+losses_test/total:	0.9523747563362122
+calibration_test/ece:	0.05974816158413887
+calibration_test/brier:	0.43950527906417847
+accuracy_test/task:	68.17
+
+Epoch 14
+losses_train/task:	0.6627691388130188
+losses_train/total:	0.6627691388130188
+losses_test/task:	0.9636273384094238
+losses_test/total:	0.9636273384094238
+calibration_test/ece:	0.0728740394115448
+calibration_test/brier:	0.4410577118396759
+accuracy_test/task:	67.99
+
+Epoch 15
+losses_train/task:	0.6328067183494568
+losses_train/total:	0.6328067183494568
+losses_test/task:	0.9591688513755798
+losses_test/total:	0.9591688513755798
+calibration_test/ece:	0.07518212497234344
+calibration_test/brier:	0.43679991364479065
+accuracy_test/task:	68.62
+
+Epoch 16
+losses_train/task:	0.6038852334022522
+losses_train/total:	0.6038852334022522
+losses_test/task:	1.0116808414459229
+losses_test/total:	1.0116808414459229
+calibration_test/ece:	0.09825679659843445
+calibration_test/brier:	0.45158204436302185
+accuracy_test/task:	67.76
+
+Epoch 17
+losses_train/task:	0.5776432752609253
+losses_train/total:	0.5776432752609253
+losses_test/task:	1.0039291381835938
+losses_test/total:	1.0039291381835938
+calibration_test/ece:	0.09674816578626633
+calibration_test/brier:	0.4474388659000397
+accuracy_test/task:	68.28
+
+Epoch 18
+losses_train/task:	0.5568444728851318
+losses_train/total:	0.5568444728851318
+losses_test/task:	1.0110048055648804
+losses_test/total:	1.0110048055648804
+calibration_test/ece:	0.10216902941465378
+calibration_test/brier:	0.44759610295295715
+accuracy_test/task:	68.62
+
+Epoch 19
+losses_train/task:	0.5328336954116821
+losses_train/total:	0.5328336954116821
+losses_test/task:	1.0207630395889282
+losses_test/total:	1.0207630395889282
+calibration_test/ece:	0.10740221291780472
+calibration_test/brier:	0.44738754630088806
+accuracy_test/task:	68.56
+
+Epoch 20
+losses_train/task:	0.5060846209526062
+losses_train/total:	0.5060846209526062
+losses_test/task:	1.024916172027588
+losses_test/total:	1.024916172027588
+calibration_test/ece:	0.1100081279873848
+calibration_test/brier:	0.44470101594924927
+accuracy_test/task:	68.81
+
+Epoch 21
+losses_train/task:	0.48649120330810547
+losses_train/total:	0.48649120330810547
+losses_test/task:	1.049391508102417
+losses_test/total:	1.049391508102417
+calibration_test/ece:	0.12296007573604584
+calibration_test/brier:	0.45253559947013855
+accuracy_test/task:	68.38
+
+Epoch 22
+losses_train/task:	0.4716551601886749
+losses_train/total:	0.4716551601886749
+losses_test/task:	1.0532505512237549
+losses_test/total:	1.0532505512237549
+calibration_test/ece:	0.1195157840847969
+calibration_test/brier:	0.45079925656318665
+accuracy_test/task:	68.82
+
+Epoch 23
+losses_train/task:	0.4458290934562683
+losses_train/total:	0.4458290934562683
+losses_test/task:	1.0729018449783325
+losses_test/total:	1.0729018449783325
+calibration_test/ece:	0.1279643326997757
+calibration_test/brier:	0.4514538645744324
+accuracy_test/task:	69.03
+
+Epoch 24
+losses_train/task:	0.4353717565536499
+losses_train/total:	0.4353717565536499
+losses_test/task:	1.0854474306106567
+losses_test/total:	1.0854474306106567
+calibration_test/ece:	0.1316683292388916
+calibration_test/brier:	0.45330628752708435
+accuracy_test/task:	69.0
+
+Epoch 25
+losses_train/task:	0.4092903137207031
+losses_train/total:	0.4092903137207031
+losses_test/task:	1.069178581237793
+losses_test/total:	1.069178581237793
+calibration_test/ece:	0.12957149744033813
+calibration_test/brier:	0.4509836435317993
+accuracy_test/task:	69.07
+
+Epoch 26
+losses_train/task:	0.3896750211715698
+losses_train/total:	0.3896750211715698
+losses_test/task:	1.0885374546051025
+losses_test/total:	1.0885374546051025
+calibration_test/ece:	0.13827647268772125
+calibration_test/brier:	0.44990384578704834
+accuracy_test/task:	69.3
+
+Epoch 27
+losses_train/task:	0.3762666881084442
+losses_train/total:	0.3762666881084442
+losses_test/task:	1.1384384632110596
+losses_test/total:	1.1384384632110596
+calibration_test/ece:	0.14881795644760132
+calibration_test/brier:	0.463091105222702
+accuracy_test/task:	68.46
+
+Epoch 28
+losses_train/task:	0.36085477471351624
+losses_train/total:	0.36085477471351624
+losses_test/task:	1.129509449005127
+losses_test/total:	1.129509449005127
+calibration_test/ece:	0.1487390249967575
+calibration_test/brier:	0.4596315324306488
+accuracy_test/task:	68.77
+
+Epoch 29
+losses_train/task:	0.3430728614330292
+losses_train/total:	0.3430728614330292
+losses_test/task:	1.1864287853240967
+losses_test/total:	1.1864287853240967
+calibration_test/ece:	0.1550821214914322
+calibration_test/brier:	0.46791553497314453
+accuracy_test/task:	68.89
+
+Epoch 30
+losses_train/task:	0.32601016759872437
+losses_train/total:	0.32601016759872437
+losses_test/task:	1.1805483102798462
+losses_test/total:	1.1805483102798462
+calibration_test/ece:	0.1566401720046997
+calibration_test/brier:	0.46866026520729065
+accuracy_test/task:	68.95
+
+Epoch 31
+losses_train/task:	0.3159114420413971
+losses_train/total:	0.3159114420413971
+losses_test/task:	1.2176237106323242
+losses_test/total:	1.2176237106323242
+calibration_test/ece:	0.16347117722034454
+calibration_test/brier:	0.474443256855011
+accuracy_test/task:	68.6
+
+Epoch 32
+losses_train/task:	0.3069024085998535
+losses_train/total:	0.3069024085998535
+losses_test/task:	1.2466169595718384
+losses_test/total:	1.2466169595718384
+calibration_test/ece:	0.17042332887649536
+calibration_test/brier:	0.4831295907497406
+accuracy_test/task:	67.91
+
+Epoch 33
+losses_train/task:	0.2893560528755188
+losses_train/total:	0.2893560528755188
+losses_test/task:	1.2488353252410889
+losses_test/total:	1.2488353252410889
+calibration_test/ece:	0.1640659123659134
+calibration_test/brier:	0.47567230463027954
+accuracy_test/task:	68.98
+
+Epoch 34
+losses_train/task:	0.2784024477005005
+losses_train/total:	0.2784024477005005
+losses_test/task:	1.221551537513733
+losses_test/total:	1.221551537513733
+calibration_test/ece:	0.16181614995002747
+calibration_test/brier:	0.47227713465690613
+accuracy_test/task:	68.84
+
+Epoch 35
+losses_train/task:	0.27014291286468506
+losses_train/total:	0.27014291286468506
+losses_test/task:	1.2428933382034302
+losses_test/total:	1.2428933382034302
+calibration_test/ece:	0.16861850023269653
+calibration_test/brier:	0.47675013542175293
+accuracy_test/task:	68.67
+
+Epoch 36
+losses_train/task:	0.26165562868118286
+losses_train/total:	0.26165562868118286
+losses_test/task:	1.2883604764938354
+losses_test/total:	1.2883604764938354
+calibration_test/ece:	0.175477534532547
+calibration_test/brier:	0.4843893051147461
+accuracy_test/task:	68.34
+
+Epoch 37
+losses_train/task:	0.24775424599647522
+losses_train/total:	0.24775424599647522
+losses_test/task:	1.299580693244934
+losses_test/total:	1.299580693244934
+calibration_test/ece:	0.17898371815681458
+calibration_test/brier:	0.4876132309436798
+accuracy_test/task:	68.03
+
+Epoch 38
+losses_train/task:	0.24477538466453552
+losses_train/total:	0.24477538466453552
+losses_test/task:	1.3940967321395874
+losses_test/total:	1.3940967321395874
+calibration_test/ece:	0.19653943181037903
+calibration_test/brier:	0.507319450378418
+accuracy_test/task:	67.25
+
+Epoch 39
+losses_train/task:	0.23692983388900757
+losses_train/total:	0.23692983388900757
+losses_test/task:	1.3642711639404297
+losses_test/total:	1.3642711639404297
+calibration_test/ece:	0.18522875010967255
+calibration_test/brier:	0.49144911766052246
+accuracy_test/task:	68.31
+
+Epoch 40
+losses_train/task:	0.22154738008975983
+losses_train/total:	0.22154738008975983
+losses_test/task:	1.3977233171463013
+losses_test/total:	1.3977233171463013
+calibration_test/ece:	0.19317838549613953
+calibration_test/brier:	0.49932777881622314
+accuracy_test/task:	68.02
+
+Epoch 41
+losses_train/task:	0.2230502814054489
+losses_train/total:	0.2230502814054489
+losses_test/task:	1.382180094718933
+losses_test/total:	1.382180094718933
+calibration_test/ece:	0.18776139616966248
+calibration_test/brier:	0.49624842405319214
+accuracy_test/task:	68.15
+
+Epoch 42
+losses_train/task:	0.2095656394958496
+losses_train/total:	0.2095656394958496
+losses_test/task:	1.3690447807312012
+losses_test/total:	1.3690447807312012
+calibration_test/ece:	0.1877780705690384
+calibration_test/brier:	0.4919237196445465
+accuracy_test/task:	68.43
+
+Epoch 43
+losses_train/task:	0.20841102302074432
+losses_train/total:	0.20841102302074432
+losses_test/task:	1.4359785318374634
+losses_test/total:	1.4359785318374634
+calibration_test/ece:	0.19914966821670532
+calibration_test/brier:	0.5061786770820618
+accuracy_test/task:	67.5
+
+Epoch 44
+losses_train/task:	0.20293347537517548
+losses_train/total:	0.20293347537517548
+losses_test/task:	1.45741605758667
+losses_test/total:	1.45741605758667
+calibration_test/ece:	0.1986655443906784
+calibration_test/brier:	0.5065740346908569
+accuracy_test/task:	68.04
+
+Epoch 45
+losses_train/task:	0.19468741118907928
+losses_train/total:	0.19468741118907928
+losses_test/task:	1.420639991760254
+losses_test/total:	1.420639991760254
+calibration_test/ece:	0.19340047240257263
+calibration_test/brier:	0.49328652024269104
+accuracy_test/task:	68.65
+
+Epoch 46
+losses_train/task:	0.18669763207435608
+losses_train/total:	0.18669763207435608
+losses_test/task:	1.4380300045013428
+losses_test/total:	1.4380300045013428
+calibration_test/ece:	0.19707244634628296
+calibration_test/brier:	0.4989330470561981
+accuracy_test/task:	68.32
+
+Epoch 47
+losses_train/task:	0.17918777465820312
+losses_train/total:	0.17918777465820312
+losses_test/task:	1.4408897161483765
+losses_test/total:	1.4408897161483765
+calibration_test/ece:	0.19706013798713684
+calibration_test/brier:	0.49289026856422424
+accuracy_test/task:	68.68
+
+Epoch 48
+losses_train/task:	0.18164323270320892
+losses_train/total:	0.18164323270320892
+losses_test/task:	1.4374951124191284
+losses_test/total:	1.4374951124191284
+calibration_test/ece:	0.19283893704414368
+calibration_test/brier:	0.49576523900032043
+accuracy_test/task:	68.69
+
+Epoch 49
+losses_train/task:	0.17158599197864532
+losses_train/total:	0.17158599197864532
+losses_test/task:	1.5142531394958496
+losses_test/total:	1.5142531394958496
+calibration_test/ece:	0.2080373615026474
+calibration_test/brier:	0.5101871490478516
+accuracy_test/task:	67.74
+
+Epoch 50
+losses_train/task:	0.16370970010757446
+losses_train/total:	0.16370970010757446
+losses_test/task:	1.481345295906067
+losses_test/total:	1.481345295906067
+calibration_test/ece:	0.20033061504364014
+calibration_test/brier:	0.5031241774559021
+accuracy_test/task:	68.37
+
+Epoch 51
+losses_train/task:	0.16501609981060028
+losses_train/total:	0.16501609981060028
+losses_test/task:	1.51870596408844
+losses_test/total:	1.51870596408844
+calibration_test/ece:	0.2056790441274643
+calibration_test/brier:	0.5055572986602783
+accuracy_test/task:	68.15
+
+Epoch 52
+losses_train/task:	0.1590067446231842
+losses_train/total:	0.1590067446231842
+losses_test/task:	1.486269235610962
+losses_test/total:	1.486269235610962
+calibration_test/ece:	0.20079076290130615
+calibration_test/brier:	0.5000756978988647
+accuracy_test/task:	68.69
+
+Epoch 53
+losses_train/task:	0.15380944311618805
+losses_train/total:	0.15380944311618805
+losses_test/task:	1.4971668720245361
+losses_test/total:	1.4971668720245361
+calibration_test/ece:	0.19874081015586853
+calibration_test/brier:	0.49466514587402344
+accuracy_test/task:	69.02
+
+Epoch 54
+losses_train/task:	0.1541835367679596
+losses_train/total:	0.1541835367679596
+losses_test/task:	1.5019744634628296
+losses_test/total:	1.5019744634628296
+calibration_test/ece:	0.20628225803375244
+calibration_test/brier:	0.5073955655097961
+accuracy_test/task:	68.03
+
+Epoch 55
+losses_train/task:	0.1484752744436264
+losses_train/total:	0.1484752744436264
+losses_test/task:	1.5559535026550293
+losses_test/total:	1.5559535026550293
+calibration_test/ece:	0.20752784609794617
+calibration_test/brier:	0.504147469997406
+accuracy_test/task:	68.54
+
+Epoch 56
+losses_train/task:	0.1474216878414154
+losses_train/total:	0.1474216878414154
+losses_test/task:	1.5423086881637573
+losses_test/total:	1.5423086881637573
+calibration_test/ece:	0.20563539862632751
+calibration_test/brier:	0.5008840560913086
+accuracy_test/task:	68.77
+
+Epoch 57
+losses_train/task:	0.1462162435054779
+losses_train/total:	0.1462162435054779
+losses_test/task:	1.5891484022140503
+losses_test/total:	1.5891484022140503
+calibration_test/ece:	0.21058478951454163
+calibration_test/brier:	0.5139520168304443
+accuracy_test/task:	68.32
+
+Epoch 58
+losses_train/task:	0.1381363719701767
+losses_train/total:	0.1381363719701767
+losses_test/task:	1.5662994384765625
+losses_test/total:	1.5662994384765625
+calibration_test/ece:	0.2076358199119568
+calibration_test/brier:	0.5090132355690002
+accuracy_test/task:	68.33
+
+Epoch 59
+losses_train/task:	0.13437233865261078
+losses_train/total:	0.13437233865261078
+losses_test/task:	1.4990390539169312
+losses_test/total:	1.4990390539169312
+calibration_test/ece:	0.20136432349681854
+calibration_test/brier:	0.49944961071014404
+accuracy_test/task:	68.73
+
+Epoch 60
+losses_train/task:	0.13094967603683472
+losses_train/total:	0.13094967603683472
+losses_test/task:	1.571305751800537
+losses_test/total:	1.571305751800537
+calibration_test/ece:	0.20685791969299316
+calibration_test/brier:	0.5024250745773315
+accuracy_test/task:	68.98
+
+Epoch 61
+losses_train/task:	0.1286461055278778
+losses_train/total:	0.1286461055278778
+losses_test/task:	1.5635348558425903
+losses_test/total:	1.5635348558425903
+calibration_test/ece:	0.20557540655136108
+calibration_test/brier:	0.5106745362281799
+accuracy_test/task:	68.36
+
+Epoch 62
+losses_train/task:	0.12657085061073303
+losses_train/total:	0.12657085061073303
+losses_test/task:	1.5877000093460083
+losses_test/total:	1.5877000093460083
+calibration_test/ece:	0.20929551124572754
+calibration_test/brier:	0.5086261630058289
+accuracy_test/task:	68.59
+
+Epoch 63
+losses_train/task:	0.12734763324260712
+losses_train/total:	0.12734763324260712
+losses_test/task:	1.6105986833572388
+losses_test/total:	1.6105986833572388
+calibration_test/ece:	0.2106507122516632
+calibration_test/brier:	0.5102843642234802
+accuracy_test/task:	68.62
+
+Epoch 64
+losses_train/task:	0.12812091410160065
+losses_train/total:	0.12812091410160065
+losses_test/task:	1.5596445798873901
+losses_test/total:	1.5596445798873901
+calibration_test/ece:	0.20730075240135193
+calibration_test/brier:	0.5014845132827759
+accuracy_test/task:	68.97
+
+Epoch 65
+losses_train/task:	0.12089775502681732
+losses_train/total:	0.12089775502681732
+losses_test/task:	1.590114951133728
+losses_test/total:	1.590114951133728
+calibration_test/ece:	0.20595118403434753
+calibration_test/brier:	0.5058264136314392
+accuracy_test/task:	68.95
+
+Epoch 66
+losses_train/task:	0.11697245389223099
+losses_train/total:	0.11697245389223099
+losses_test/task:	1.6573150157928467
+losses_test/total:	1.6573150157928467
+calibration_test/ece:	0.21550825238227844
+calibration_test/brier:	0.5147879719734192
+accuracy_test/task:	68.4
+
+Epoch 67
+losses_train/task:	0.1155182421207428
+losses_train/total:	0.1155182421207428
+losses_test/task:	1.639453411102295
+losses_test/total:	1.639453411102295
+calibration_test/ece:	0.212778240442276
+calibration_test/brier:	0.5067228078842163
+accuracy_test/task:	69.11
+
+Epoch 68
+losses_train/task:	0.1204240471124649
+losses_train/total:	0.1204240471124649
+losses_test/task:	1.6413676738739014
+losses_test/total:	1.6413676738739014
+calibration_test/ece:	0.21410807967185974
+calibration_test/brier:	0.5147519707679749
+accuracy_test/task:	68.19
+
+Epoch 69
+losses_train/task:	0.1137814000248909
+losses_train/total:	0.1137814000248909
+losses_test/task:	1.6213271617889404
+losses_test/total:	1.6213271617889404
+calibration_test/ece:	0.20917710661888123
+calibration_test/brier:	0.5045217275619507
+accuracy_test/task:	69.15
+
+Epoch 70
+losses_train/task:	0.10696803033351898
+losses_train/total:	0.10696803033351898
+losses_test/task:	1.6276904344558716
+losses_test/total:	1.6276904344558716
+calibration_test/ece:	0.21007421612739563
+calibration_test/brier:	0.5025404095649719
+accuracy_test/task:	69.05
+
+Epoch 71
+losses_train/task:	0.10475292801856995
+losses_train/total:	0.10475292801856995
+losses_test/task:	1.6714869737625122
+losses_test/total:	1.6714869737625122
+calibration_test/ece:	0.21041451394557953
+calibration_test/brier:	0.5078576803207397
+accuracy_test/task:	69.07
+
+Epoch 72
+losses_train/task:	0.10447806864976883
+losses_train/total:	0.10447806864976883
+losses_test/task:	1.6863141059875488
+losses_test/total:	1.6863141059875488
+calibration_test/ece:	0.2147037237882614
+calibration_test/brier:	0.5083094835281372
+accuracy_test/task:	69.15
+
+Epoch 73
+losses_train/task:	0.1087968498468399
+losses_train/total:	0.1087968498468399
+losses_test/task:	1.6477205753326416
+losses_test/total:	1.6477205753326416
+calibration_test/ece:	0.21740972995758057
+calibration_test/brier:	0.5104452967643738
+accuracy_test/task:	68.58
+
+Epoch 74
+losses_train/task:	0.10322491079568863
+losses_train/total:	0.10322491079568863
+losses_test/task:	1.6942641735076904
+losses_test/total:	1.6942641735076904
+calibration_test/ece:	0.21559938788414001
+calibration_test/brier:	0.5140489339828491
+accuracy_test/task:	68.81
+
+Epoch 75
+losses_train/task:	0.10294289886951447
+losses_train/total:	0.10294289886951447
+losses_test/task:	1.642535924911499
+losses_test/total:	1.642535924911499
+calibration_test/ece:	0.21071220934391022
+calibration_test/brier:	0.5064817667007446
+accuracy_test/task:	69.14
+
+Epoch 76
+losses_train/task:	0.10079208016395569
+losses_train/total:	0.10079208016395569
+losses_test/task:	1.6869486570358276
+losses_test/total:	1.6869486570358276
+calibration_test/ece:	0.21799063682556152
+calibration_test/brier:	0.5139583945274353
+accuracy_test/task:	68.65
+
+Epoch 77
+losses_train/task:	0.09800997376441956
+losses_train/total:	0.09800997376441956
+losses_test/task:	1.658192753791809
+losses_test/total:	1.658192753791809
+calibration_test/ece:	0.214289128780365
+calibration_test/brier:	0.5079236626625061
+accuracy_test/task:	69.08
+
+Epoch 78
+losses_train/task:	0.09879429638385773
+losses_train/total:	0.09879429638385773
+losses_test/task:	1.6829241514205933
+losses_test/total:	1.6829241514205933
+calibration_test/ece:	0.2149551510810852
+calibration_test/brier:	0.5072970390319824
+accuracy_test/task:	69.04
+
+Epoch 79
+losses_train/task:	0.09832178801298141
+losses_train/total:	0.09832178801298141
+losses_test/task:	1.6440800428390503
+losses_test/total:	1.6440800428390503
+calibration_test/ece:	0.2121158242225647
+calibration_test/brier:	0.5019793510437012
+accuracy_test/task:	69.13
+
+Epoch 80
+losses_train/task:	0.09779956191778183
+losses_train/total:	0.09779956191778183
+losses_test/task:	1.69906485080719
+losses_test/total:	1.69906485080719
+calibration_test/ece:	0.21271541714668274
+calibration_test/brier:	0.502925455570221
+accuracy_test/task:	69.55
+
+Epoch 81
+losses_train/task:	0.07518399506807327
+losses_train/total:	0.07518399506807327
+losses_test/task:	1.621038556098938
+losses_test/total:	1.621038556098938
+calibration_test/ece:	0.207011878490448
+calibration_test/brier:	0.4899401366710663
+accuracy_test/task:	70.18
+
+Epoch 82
+losses_train/task:	0.0664462149143219
+losses_train/total:	0.0664462149143219
+losses_test/task:	1.634324073791504
+losses_test/total:	1.634324073791504
+calibration_test/ece:	0.20924171805381775
+calibration_test/brier:	0.49047255516052246
+accuracy_test/task:	70.09
+
+Epoch 83
+losses_train/task:	0.062162913382053375
+losses_train/total:	0.062162913382053375
+losses_test/task:	1.6372103691101074
+losses_test/total:	1.6372103691101074
+calibration_test/ece:	0.20947694778442383
+calibration_test/brier:	0.4911915957927704
+accuracy_test/task:	70.05
+
+Epoch 84
+losses_train/task:	0.05639146268367767
+losses_train/total:	0.05639146268367767
+losses_test/task:	1.6655606031417847
+losses_test/total:	1.6655606031417847
+calibration_test/ece:	0.2109479457139969
+calibration_test/brier:	0.49268877506256104
+accuracy_test/task:	70.22
+
+Epoch 85
+losses_train/task:	0.054464228451251984
+losses_train/total:	0.054464228451251984
+losses_test/task:	1.6835737228393555
+losses_test/total:	1.6835737228393555
+calibration_test/ece:	0.21164050698280334
+calibration_test/brier:	0.49305248260498047
+accuracy_test/task:	70.19
+
+Epoch 86
+losses_train/task:	0.052202802151441574
+losses_train/total:	0.052202802151441574
+losses_test/task:	1.6785064935684204
+losses_test/total:	1.6785064935684204
+calibration_test/ece:	0.21263885498046875
+calibration_test/brier:	0.49176025390625
+accuracy_test/task:	70.18
+
+Epoch 87
+losses_train/task:	0.05479578673839569
+losses_train/total:	0.05479578673839569
+losses_test/task:	1.6860865354537964
+losses_test/total:	1.6860865354537964
+calibration_test/ece:	0.21214276552200317
+calibration_test/brier:	0.4918154180049896
+accuracy_test/task:	70.25
+
+Epoch 88
+losses_train/task:	0.05017469450831413
+losses_train/total:	0.05017469450831413
+losses_test/task:	1.697982668876648
+losses_test/total:	1.697982668876648
+calibration_test/ece:	0.2124662846326828
+calibration_test/brier:	0.49244412779808044
+accuracy_test/task:	70.3
+
+Epoch 89
+losses_train/task:	0.0491059385240078
+losses_train/total:	0.0491059385240078
+losses_test/task:	1.711414098739624
+losses_test/total:	1.711414098739624
+calibration_test/ece:	0.21310505270957947
+calibration_test/brier:	0.49295878410339355
+accuracy_test/task:	70.36
+
+Epoch 90
+losses_train/task:	0.04718802124261856
+losses_train/total:	0.04718802124261856
+losses_test/task:	1.719915509223938
+losses_test/total:	1.719915509223938
+calibration_test/ece:	0.2127845287322998
+calibration_test/brier:	0.4927634298801422
+accuracy_test/task:	70.48
+
+Epoch 91
+losses_train/task:	0.04625524580478668
+losses_train/total:	0.04625524580478668
+losses_test/task:	1.7299314737319946
+losses_test/total:	1.7299314737319946
+calibration_test/ece:	0.21560126543045044
+calibration_test/brier:	0.49557188153266907
+accuracy_test/task:	70.25
+
+Epoch 92
+losses_train/task:	0.04651463031768799
+losses_train/total:	0.04651463031768799
+losses_test/task:	1.724288821220398
+losses_test/total:	1.724288821220398
+calibration_test/ece:	0.21509741246700287
+calibration_test/brier:	0.49463608860969543
+accuracy_test/task:	70.28
+
+Epoch 93
+losses_train/task:	0.04605616256594658
+losses_train/total:	0.04605616256594658
+losses_test/task:	1.7231638431549072
+losses_test/total:	1.7231638431549072
+calibration_test/ece:	0.21573902666568756
+calibration_test/brier:	0.4940743148326874
+accuracy_test/task:	70.29
+
+Epoch 94
+losses_train/task:	0.042756300419569016
+losses_train/total:	0.042756300419569016
+losses_test/task:	1.7518643140792847
+losses_test/total:	1.7518643140792847
+calibration_test/ece:	0.21522009372711182
+calibration_test/brier:	0.4936990737915039
+accuracy_test/task:	70.45
+
+Epoch 95
+losses_train/task:	0.04141093045473099
+losses_train/total:	0.04141093045473099
+losses_test/task:	1.7510838508605957
+losses_test/total:	1.7510838508605957
+calibration_test/ece:	0.21360963582992554
+calibration_test/brier:	0.49387285113334656
+accuracy_test/task:	70.56
+
+Epoch 96
+losses_train/task:	0.04009528085589409
+losses_train/total:	0.04009528085589409
+losses_test/task:	1.7550811767578125
+losses_test/total:	1.7550811767578125
+calibration_test/ece:	0.2160109579563141
+calibration_test/brier:	0.49466922879219055
+accuracy_test/task:	70.41
+
+Epoch 97
+losses_train/task:	0.04020596295595169
+losses_train/total:	0.04020596295595169
+losses_test/task:	1.775502324104309
+losses_test/total:	1.775502324104309
+calibration_test/ece:	0.21639275550842285
+calibration_test/brier:	0.4961940348148346
+accuracy_test/task:	70.49
+
+Epoch 98
+losses_train/task:	0.039421431720256805
+losses_train/total:	0.039421431720256805
+losses_test/task:	1.7660175561904907
+losses_test/total:	1.7660175561904907
+calibration_test/ece:	0.2183915376663208
+calibration_test/brier:	0.4955057203769684
+accuracy_test/task:	70.29
+
+Epoch 99
+losses_train/task:	0.03932332247495651
+losses_train/total:	0.03932332247495651
+losses_test/task:	1.7808451652526855
+losses_test/total:	1.7808451652526855
+calibration_test/ece:	0.21571150422096252
+calibration_test/brier:	0.4949432611465454
+accuracy_test/task:	70.49
+
+Epoch 100
+losses_train/task:	0.038632191717624664
+losses_train/total:	0.038632191717624664
+losses_test/task:	1.7827558517456055
+losses_test/total:	1.7827558517456055
+calibration_test/ece:	0.21826723217964172
+calibration_test/brier:	0.49735966324806213
+accuracy_test/task:	70.29
+
+Epoch 101
+losses_train/task:	0.03772689774632454
+losses_train/total:	0.03772689774632454
+losses_test/task:	1.7902170419692993
+losses_test/total:	1.7902170419692993
+calibration_test/ece:	0.21895132958889008
+calibration_test/brier:	0.4992658197879791
+accuracy_test/task:	70.23
+
+Epoch 102
+losses_train/task:	0.03724994510412216
+losses_train/total:	0.03724994510412216
+losses_test/task:	1.797982931137085
+losses_test/total:	1.797982931137085
+calibration_test/ece:	0.21869546175003052
+calibration_test/brier:	0.4983423352241516
+accuracy_test/task:	70.34
+
+Epoch 103
+losses_train/task:	0.033004794269800186
+losses_train/total:	0.033004794269800186
+losses_test/task:	1.8161972761154175
+losses_test/total:	1.8161972761154175
+calibration_test/ece:	0.21971432864665985
+calibration_test/brier:	0.49719902873039246
+accuracy_test/task:	70.23
+
+Epoch 104
+losses_train/task:	0.035559773445129395
+losses_train/total:	0.035559773445129395
+losses_test/task:	1.8003127574920654
+losses_test/total:	1.8003127574920654
+calibration_test/ece:	0.21727345883846283
+calibration_test/brier:	0.49610254168510437
+accuracy_test/task:	70.48
+
+Epoch 105
+losses_train/task:	0.034120749682188034
+losses_train/total:	0.034120749682188034
+losses_test/task:	1.8218090534210205
+losses_test/total:	1.8218090534210205
+calibration_test/ece:	0.22032567858695984
+calibration_test/brier:	0.49927812814712524
+accuracy_test/task:	70.31
+
+Epoch 106
+losses_train/task:	0.03474095091223717
+losses_train/total:	0.03474095091223717
+losses_test/task:	1.8325496912002563
+losses_test/total:	1.8325496912002563
+calibration_test/ece:	0.21772567927837372
+calibration_test/brier:	0.4982629418373108
+accuracy_test/task:	70.56
+
+Epoch 107
+losses_train/task:	0.03451383113861084
+losses_train/total:	0.03451383113861084
+losses_test/task:	1.8305902481079102
+losses_test/total:	1.8305902481079102
+calibration_test/ece:	0.2180130034685135
+calibration_test/brier:	0.4981860816478729
+accuracy_test/task:	70.47
+
+Epoch 108
+losses_train/task:	0.034202691167593
+losses_train/total:	0.034202691167593
+losses_test/task:	1.836072564125061
+losses_test/total:	1.836072564125061
+calibration_test/ece:	0.21726484596729279
+calibration_test/brier:	0.49575668573379517
+accuracy_test/task:	70.62
+
+Epoch 109
+losses_train/task:	0.034147389233112335
+losses_train/total:	0.034147389233112335
+losses_test/task:	1.840592622756958
+losses_test/total:	1.840592622756958
+calibration_test/ece:	0.21820813417434692
+calibration_test/brier:	0.4967876076698303
+accuracy_test/task:	70.54
+
+Epoch 110
+losses_train/task:	0.03313301503658295
+losses_train/total:	0.03313301503658295
+losses_test/task:	1.8465282917022705
+losses_test/total:	1.8465282917022705
+calibration_test/ece:	0.22012847661972046
+calibration_test/brier:	0.4983976483345032
+accuracy_test/task:	70.38
+
+Epoch 111
+losses_train/task:	0.03209838643670082
+losses_train/total:	0.03209838643670082
+losses_test/task:	1.8507153987884521
+losses_test/total:	1.8507153987884521
+calibration_test/ece:	0.21866440773010254
+calibration_test/brier:	0.4965754747390747
+accuracy_test/task:	70.68
+
+Epoch 112
+losses_train/task:	0.03179554268717766
+losses_train/total:	0.03179554268717766
+losses_test/task:	1.8657609224319458
+losses_test/total:	1.8657609224319458
+calibration_test/ece:	0.22093546390533447
+calibration_test/brier:	0.49992382526397705
+accuracy_test/task:	70.53
+
+Epoch 113
+losses_train/task:	0.031193336471915245
+losses_train/total:	0.031193336471915245
+losses_test/task:	1.8579446077346802
+losses_test/total:	1.8579446077346802
+calibration_test/ece:	0.21951432526111603
+calibration_test/brier:	0.5008073449134827
+accuracy_test/task:	70.58
+
+Epoch 114
+losses_train/task:	0.031139660626649857
+losses_train/total:	0.031139660626649857
+losses_test/task:	1.8582236766815186
+losses_test/total:	1.8582236766815186
+calibration_test/ece:	0.2211233228445053
+calibration_test/brier:	0.49945712089538574
+accuracy_test/task:	70.45
+
+Epoch 115
+losses_train/task:	0.02871052734553814
+losses_train/total:	0.02871052734553814
+losses_test/task:	1.8814148902893066
+losses_test/total:	1.8814148902893066
+calibration_test/ece:	0.22147342562675476
+calibration_test/brier:	0.4998657703399658
+accuracy_test/task:	70.49
+
+Epoch 116
+losses_train/task:	0.029745711013674736
+losses_train/total:	0.029745711013674736
+losses_test/task:	1.8863561153411865
+losses_test/total:	1.8863561153411865
+calibration_test/ece:	0.2227085530757904
+calibration_test/brier:	0.5019600987434387
+accuracy_test/task:	70.49
+
+Epoch 117
+losses_train/task:	0.031439170241355896
+losses_train/total:	0.031439170241355896
+losses_test/task:	1.889539122581482
+losses_test/total:	1.889539122581482
+calibration_test/ece:	0.22251367568969727
+calibration_test/brier:	0.4985574185848236
+accuracy_test/task:	70.42
+
+Epoch 118
+losses_train/task:	0.029435450211167336
+losses_train/total:	0.029435450211167336
+losses_test/task:	1.890405297279358
+losses_test/total:	1.890405297279358
+calibration_test/ece:	0.2229595184326172
+calibration_test/brier:	0.5014446377754211
+accuracy_test/task:	70.36
+
+Epoch 119
+losses_train/task:	0.029981711879372597
+losses_train/total:	0.029981711879372597
+losses_test/task:	1.8919275999069214
+losses_test/total:	1.8919275999069214
+calibration_test/ece:	0.22414880990982056
+calibration_test/brier:	0.5021328330039978
+accuracy_test/task:	70.24
+
+Epoch 120
+losses_train/task:	0.030318614095449448
+losses_train/total:	0.030318614095449448
+losses_test/task:	1.8947584629058838
+losses_test/total:	1.8947584629058838
+calibration_test/ece:	0.22384494543075562
+calibration_test/brier:	0.501721978187561
+accuracy_test/task:	70.24
+
+Epoch 121
+losses_train/task:	0.028988920152187347
+losses_train/total:	0.028988920152187347
+losses_test/task:	1.8997182846069336
+losses_test/total:	1.8997182846069336
+calibration_test/ece:	0.2222079038619995
+calibration_test/brier:	0.5015338659286499
+accuracy_test/task:	70.48
+
+Epoch 122
+losses_train/task:	0.030293017625808716
+losses_train/total:	0.030293017625808716
+losses_test/task:	1.884413719177246
+losses_test/total:	1.884413719177246
+calibration_test/ece:	0.219711571931839
+calibration_test/brier:	0.49997738003730774
+accuracy_test/task:	70.57
+
+Epoch 123
+losses_train/task:	0.027755875140428543
+losses_train/total:	0.027755875140428543
+losses_test/task:	1.9010083675384521
+losses_test/total:	1.9010083675384521
+calibration_test/ece:	0.2203531563282013
+calibration_test/brier:	0.49919530749320984
+accuracy_test/task:	70.64
+
+Epoch 124
+losses_train/task:	0.02780645154416561
+losses_train/total:	0.02780645154416561
+losses_test/task:	1.9085707664489746
+losses_test/total:	1.9085707664489746
+calibration_test/ece:	0.22364941239356995
+calibration_test/brier:	0.501906156539917
+accuracy_test/task:	70.33
+
+Epoch 125
+losses_train/task:	0.028871050104498863
+losses_train/total:	0.028871050104498863
+losses_test/task:	1.893876314163208
+losses_test/total:	1.893876314163208
+calibration_test/ece:	0.22175607085227966
+calibration_test/brier:	0.49951446056365967
+accuracy_test/task:	70.5
+
+Epoch 126
+losses_train/task:	0.02550618350505829
+losses_train/total:	0.02550618350505829
+losses_test/task:	1.9224058389663696
+losses_test/total:	1.9224058389663696
+calibration_test/ece:	0.22377917170524597
+calibration_test/brier:	0.5020599365234375
+accuracy_test/task:	70.5
+
+Epoch 127
+losses_train/task:	0.025909321382641792
+losses_train/total:	0.025909321382641792
+losses_test/task:	1.9277832508087158
+losses_test/total:	1.9277832508087158
+calibration_test/ece:	0.22317251563072205
+calibration_test/brier:	0.500281572341919
+accuracy_test/task:	70.48
+
+Epoch 128
+losses_train/task:	0.027485448867082596
+losses_train/total:	0.027485448867082596
+losses_test/task:	1.9155561923980713
+losses_test/total:	1.9155561923980713
+calibration_test/ece:	0.22272750735282898
+calibration_test/brier:	0.4994596540927887
+accuracy_test/task:	70.47
+
+Epoch 129
+losses_train/task:	0.027372578158974648
+losses_train/total:	0.027372578158974648
+losses_test/task:	1.923089623451233
+losses_test/total:	1.923089623451233
+calibration_test/ece:	0.2233922779560089
+calibration_test/brier:	0.4993698298931122
+accuracy_test/task:	70.47
+
+Epoch 130
+losses_train/task:	0.025442423298954964
+losses_train/total:	0.025442423298954964
+losses_test/task:	1.9235459566116333
+losses_test/total:	1.9235459566116333
+calibration_test/ece:	0.22422006726264954
+calibration_test/brier:	0.5003109574317932
+accuracy_test/task:	70.41
+
+Epoch 131
+losses_train/task:	0.025929102674126625
+losses_train/total:	0.025929102674126625
+losses_test/task:	1.9109776020050049
+losses_test/total:	1.9109776020050049
+calibration_test/ece:	0.22305509448051453
+calibration_test/brier:	0.4988388121128082
+accuracy_test/task:	70.42
+
+Epoch 132
+losses_train/task:	0.026178652420639992
+losses_train/total:	0.026178652420639992
+losses_test/task:	1.929188847541809
+losses_test/total:	1.929188847541809
+calibration_test/ece:	0.22379997372627258
+calibration_test/brier:	0.5011742115020752
+accuracy_test/task:	70.41
+
+Epoch 133
+losses_train/task:	0.024261372163891792
+losses_train/total:	0.024261372163891792
+losses_test/task:	1.9462286233901978
+losses_test/total:	1.9462286233901978
+calibration_test/ece:	0.22440269589424133
+calibration_test/brier:	0.5012918710708618
+accuracy_test/task:	70.45
+
+Epoch 134
+losses_train/task:	0.027163472026586533
+losses_train/total:	0.027163472026586533
+losses_test/task:	1.9470868110656738
+losses_test/total:	1.9470868110656738
+calibration_test/ece:	0.22361305356025696
+calibration_test/brier:	0.5027319192886353
+accuracy_test/task:	70.48
+
+Epoch 135
+losses_train/task:	0.02571571059525013
+losses_train/total:	0.02571571059525013
+losses_test/task:	1.9590139389038086
+losses_test/total:	1.9590139389038086
+calibration_test/ece:	0.2264152318239212
+calibration_test/brier:	0.5051453709602356
+accuracy_test/task:	70.26
+
+Epoch 136
+losses_train/task:	0.026156725361943245
+losses_train/total:	0.026156725361943245
+losses_test/task:	1.955903172492981
+losses_test/total:	1.955903172492981
+calibration_test/ece:	0.22437627613544464
+calibration_test/brier:	0.5012127757072449
+accuracy_test/task:	70.58
+
+Epoch 137
+losses_train/task:	0.025485645979642868
+losses_train/total:	0.025485645979642868
+losses_test/task:	1.949434518814087
+losses_test/total:	1.949434518814087
+calibration_test/ece:	0.22405771911144257
+calibration_test/brier:	0.5010682344436646
+accuracy_test/task:	70.39
+
+Epoch 138
+losses_train/task:	0.024184077978134155
+losses_train/total:	0.024184077978134155
+losses_test/task:	1.9670318365097046
+losses_test/total:	1.9670318365097046
+calibration_test/ece:	0.2250172197818756
+calibration_test/brier:	0.5026216506958008
+accuracy_test/task:	70.5
+
+Epoch 139
+losses_train/task:	0.02346598543226719
+losses_train/total:	0.02346598543226719
+losses_test/task:	1.964800477027893
+losses_test/total:	1.964800477027893
+calibration_test/ece:	0.2233048975467682
+calibration_test/brier:	0.5020015835762024
+accuracy_test/task:	70.6
+
+Epoch 140
+losses_train/task:	0.023510858416557312
+losses_train/total:	0.023510858416557312
+losses_test/task:	1.9770187139511108
+losses_test/total:	1.9770187139511108
+calibration_test/ece:	0.2250443398952484
+calibration_test/brier:	0.5023294687271118
+accuracy_test/task:	70.51
+
+Epoch 141
+losses_train/task:	0.023948462679982185
+losses_train/total:	0.023948462679982185
+losses_test/task:	1.9643211364746094
+losses_test/total:	1.9643211364746094
+calibration_test/ece:	0.22484160959720612
+calibration_test/brier:	0.5030994415283203
+accuracy_test/task:	70.51
+
+Epoch 142
+losses_train/task:	0.022596757858991623
+losses_train/total:	0.022596757858991623
+losses_test/task:	1.9634302854537964
+losses_test/total:	1.9634302854537964
+calibration_test/ece:	0.22526702284812927
+calibration_test/brier:	0.5046579837799072
+accuracy_test/task:	70.46
+
+Epoch 143
+losses_train/task:	0.0230915118008852
+losses_train/total:	0.0230915118008852
+losses_test/task:	1.9847725629806519
+losses_test/total:	1.9847725629806519
+calibration_test/ece:	0.22630567848682404
+calibration_test/brier:	0.504381000995636
+accuracy_test/task:	70.46
+
+Epoch 144
+losses_train/task:	0.02247791551053524
+losses_train/total:	0.02247791551053524
+losses_test/task:	1.9741684198379517
+losses_test/total:	1.9741684198379517
+calibration_test/ece:	0.22464534640312195
+calibration_test/brier:	0.5015755891799927
+accuracy_test/task:	70.56
+
+Epoch 145
+losses_train/task:	0.02468569204211235
+losses_train/total:	0.02468569204211235
+losses_test/task:	1.9607878923416138
+losses_test/total:	1.9607878923416138
+calibration_test/ece:	0.22591128945350647
+calibration_test/brier:	0.5034754276275635
+accuracy_test/task:	70.39
+
+Epoch 146
+losses_train/task:	0.023274395614862442
+losses_train/total:	0.023274395614862442
+losses_test/task:	1.967799425125122
+losses_test/total:	1.967799425125122
+calibration_test/ece:	0.22385025024414062
+calibration_test/brier:	0.4996246099472046
+accuracy_test/task:	70.69
+
+Epoch 147
+losses_train/task:	0.02439487911760807
+losses_train/total:	0.02439487911760807
+losses_test/task:	1.9793152809143066
+losses_test/total:	1.9793152809143066
+calibration_test/ece:	0.22408249974250793
+calibration_test/brier:	0.5022976398468018
+accuracy_test/task:	70.59
+
+Epoch 148
+losses_train/task:	0.023267854005098343
+losses_train/total:	0.023267854005098343
+losses_test/task:	1.9702341556549072
+losses_test/total:	1.9702341556549072
+calibration_test/ece:	0.22593259811401367
+calibration_test/brier:	0.5034675002098083
+accuracy_test/task:	70.46
+
+Epoch 149
+losses_train/task:	0.023163799196481705
+losses_train/total:	0.023163799196481705
+losses_test/task:	1.9896713495254517
+losses_test/total:	1.9896713495254517
+calibration_test/ece:	0.22482527792453766
+calibration_test/brier:	0.5015344023704529
+accuracy_test/task:	70.57
+
+Epoch 150
+losses_train/task:	0.022555140778422356
+losses_train/total:	0.022555140778422356
+losses_test/task:	1.9939743280410767
+losses_test/total:	1.9939743280410767
+calibration_test/ece:	0.22638729214668274
+calibration_test/brier:	0.5009684562683105
+accuracy_test/task:	70.48
+
+Epoch 151
+losses_train/task:	0.022814303636550903
+losses_train/total:	0.022814303636550903
+losses_test/task:	1.9769587516784668
+losses_test/total:	1.9769587516784668
+calibration_test/ece:	0.22400736808776855
+calibration_test/brier:	0.500222384929657
+accuracy_test/task:	70.61
+
+Epoch 152
+losses_train/task:	0.021959371864795685
+losses_train/total:	0.021959371864795685
+losses_test/task:	1.970224142074585
+losses_test/total:	1.970224142074585
+calibration_test/ece:	0.22250866889953613
+calibration_test/brier:	0.501303493976593
+accuracy_test/task:	70.69
+
+Epoch 153
+losses_train/task:	0.022460108622908592
+losses_train/total:	0.022460108622908592
+losses_test/task:	2.000971555709839
+losses_test/total:	2.000971555709839
+calibration_test/ece:	0.22680401802062988
+calibration_test/brier:	0.5042896270751953
+accuracy_test/task:	70.51
+
+Epoch 154
+losses_train/task:	0.02320098504424095
+losses_train/total:	0.02320098504424095
+losses_test/task:	2.0089058876037598
+losses_test/total:	2.0089058876037598
+calibration_test/ece:	0.22713413834571838
+calibration_test/brier:	0.5058368444442749
+accuracy_test/task:	70.46
+
+Epoch 155
+losses_train/task:	0.022461755201220512
+losses_train/total:	0.022461755201220512
+losses_test/task:	2.0051138401031494
+losses_test/total:	2.0051138401031494
+calibration_test/ece:	0.22566521167755127
+calibration_test/brier:	0.5036784410476685
+accuracy_test/task:	70.55
+
+Epoch 156
+losses_train/task:	0.022317077964544296
+losses_train/total:	0.022317077964544296
+losses_test/task:	2.00003981590271
+losses_test/total:	2.00003981590271
+calibration_test/ece:	0.2269980013370514
+calibration_test/brier:	0.5048788189888
+accuracy_test/task:	70.4
+
+Epoch 157
+losses_train/task:	0.02255592867732048
+losses_train/total:	0.02255592867732048
+losses_test/task:	2.0137617588043213
+losses_test/total:	2.0137617588043213
+calibration_test/ece:	0.22759273648262024
+calibration_test/brier:	0.5028242468833923
+accuracy_test/task:	70.43
+
+Epoch 158
+losses_train/task:	0.021910088136792183
+losses_train/total:	0.021910088136792183
+losses_test/task:	2.0175962448120117
+losses_test/total:	2.0175962448120117
+calibration_test/ece:	0.22377489507198334
+calibration_test/brier:	0.5017836093902588
+accuracy_test/task:	70.82
+
+Epoch 159
+losses_train/task:	0.021710440516471863
+losses_train/total:	0.021710440516471863
+losses_test/task:	2.012319564819336
+losses_test/total:	2.012319564819336
+calibration_test/ece:	0.22278904914855957
+calibration_test/brier:	0.5001983642578125
+accuracy_test/task:	70.92
+
+Epoch 160
+losses_train/task:	0.02040720358490944
+losses_train/total:	0.02040720358490944
+losses_test/task:	2.023041009902954
+losses_test/total:	2.023041009902954
+calibration_test/ece:	0.22547811269760132
+calibration_test/brier:	0.5020318627357483
+accuracy_test/task:	70.73
+
+Epoch 161
+losses_train/task:	0.019620569422841072
+losses_train/total:	0.019620569422841072
+losses_test/task:	2.021944522857666
+losses_test/total:	2.021944522857666
+calibration_test/ece:	0.22621624171733856
+calibration_test/brier:	0.5009244680404663
+accuracy_test/task:	70.71
+
+Epoch 162
+losses_train/task:	0.019224707037210464
+losses_train/total:	0.019224707037210464
+losses_test/task:	2.016472101211548
+losses_test/total:	2.016472101211548
+calibration_test/ece:	0.2254178524017334
+calibration_test/brier:	0.4998971223831177
+accuracy_test/task:	70.76
+
+Epoch 163
+losses_train/task:	0.019048593938350677
+losses_train/total:	0.019048593938350677
+losses_test/task:	2.0145068168640137
+losses_test/total:	2.0145068168640137
+calibration_test/ece:	0.22518272697925568
+calibration_test/brier:	0.49954500794410706
+accuracy_test/task:	70.76
+
+Epoch 164
+losses_train/task:	0.019545845687389374
+losses_train/total:	0.019545845687389374
+losses_test/task:	2.0152015686035156
+losses_test/total:	2.0152015686035156
+calibration_test/ece:	0.22525301575660706
+calibration_test/brier:	0.49952638149261475
+accuracy_test/task:	70.77
+
+Epoch 165
+losses_train/task:	0.01905371993780136
+losses_train/total:	0.01905371993780136
+losses_test/task:	2.013962507247925
+losses_test/total:	2.013962507247925
+calibration_test/ece:	0.22423915565013885
+calibration_test/brier:	0.4992499053478241
+accuracy_test/task:	70.87
+
+Epoch 166
+losses_train/task:	0.01850142888724804
+losses_train/total:	0.01850142888724804
+losses_test/task:	2.017622709274292
+losses_test/total:	2.017622709274292
+calibration_test/ece:	0.22541970014572144
+calibration_test/brier:	0.49980199337005615
+accuracy_test/task:	70.79
+
+Epoch 167
+losses_train/task:	0.018786853179335594
+losses_train/total:	0.018786853179335594
+losses_test/task:	2.0200657844543457
+losses_test/total:	2.0200657844543457
+calibration_test/ece:	0.2252632975578308
+calibration_test/brier:	0.5000446438789368
+accuracy_test/task:	70.79
+
+Epoch 168
+losses_train/task:	0.018532611429691315
+losses_train/total:	0.018532611429691315
+losses_test/task:	2.023427963256836
+losses_test/total:	2.023427963256836
+calibration_test/ece:	0.22522935271263123
+calibration_test/brier:	0.49984490871429443
+accuracy_test/task:	70.8
+
+Epoch 169
+losses_train/task:	0.017890315502882004
+losses_train/total:	0.017890315502882004
+losses_test/task:	2.0177152156829834
+losses_test/total:	2.0177152156829834
+calibration_test/ece:	0.22440722584724426
+calibration_test/brier:	0.49972298741340637
+accuracy_test/task:	70.87
+
+Epoch 170
+losses_train/task:	0.018745465204119682
+losses_train/total:	0.018745465204119682
+losses_test/task:	2.020160675048828
+losses_test/total:	2.020160675048828
+calibration_test/ece:	0.22502785921096802
+calibration_test/brier:	0.49959930777549744
+accuracy_test/task:	70.82
+
+Epoch 171
+losses_train/task:	0.019424259662628174
+losses_train/total:	0.019424259662628174
+losses_test/task:	2.018482208251953
+losses_test/total:	2.018482208251953
+calibration_test/ece:	0.22441527247428894
+calibration_test/brier:	0.49961361289024353
+accuracy_test/task:	70.88
+
+Epoch 172
+losses_train/task:	0.018705368041992188
+losses_train/total:	0.018705368041992188
+losses_test/task:	2.0232036113739014
+losses_test/total:	2.0232036113739014
+calibration_test/ece:	0.22393587231636047
+calibration_test/brier:	0.4994311034679413
+accuracy_test/task:	70.93
+
+Epoch 173
+losses_train/task:	0.019465599209070206
+losses_train/total:	0.019465599209070206
+losses_test/task:	2.0214359760284424
+losses_test/total:	2.0214359760284424
+calibration_test/ece:	0.22409206628799438
+calibration_test/brier:	0.49947240948677063
+accuracy_test/task:	70.91
+
+Epoch 174
+losses_train/task:	0.018026316538453102
+losses_train/total:	0.018026316538453102
+losses_test/task:	2.0245440006256104
+losses_test/total:	2.0245440006256104
+calibration_test/ece:	0.22541308403015137
+calibration_test/brier:	0.4998569190502167
+accuracy_test/task:	70.8
+
+Epoch 175
+losses_train/task:	0.019001934677362442
+losses_train/total:	0.019001934677362442
+losses_test/task:	2.0222017765045166
+losses_test/total:	2.0222017765045166
+calibration_test/ece:	0.22496278584003448
+calibration_test/brier:	0.4998374581336975
+accuracy_test/task:	70.85
+
+Epoch 176
+losses_train/task:	0.018374497070908546
+losses_train/total:	0.018374497070908546
+losses_test/task:	2.018826484680176
+losses_test/total:	2.018826484680176
+calibration_test/ece:	0.22433589398860931
+calibration_test/brier:	0.49935439229011536
+accuracy_test/task:	70.89
+
+Epoch 177
+losses_train/task:	0.018616018816828728
+losses_train/total:	0.018616018816828728
+losses_test/task:	2.0235166549682617
+losses_test/total:	2.0235166549682617
+calibration_test/ece:	0.22524210810661316
+calibration_test/brier:	0.5000665187835693
+accuracy_test/task:	70.86
+
+Epoch 178
+losses_train/task:	0.018015103414654732
+losses_train/total:	0.018015103414654732
+losses_test/task:	2.025010824203491
+losses_test/total:	2.025010824203491
+calibration_test/ece:	0.22682152688503265
+calibration_test/brier:	0.5006216168403625
+accuracy_test/task:	70.73
+
+Epoch 179
+losses_train/task:	0.01850687526166439
+losses_train/total:	0.01850687526166439
+losses_test/task:	2.025294780731201
+losses_test/total:	2.025294780731201
+calibration_test/ece:	0.22643214464187622
+calibration_test/brier:	0.4998716711997986
+accuracy_test/task:	70.74
+
+Epoch 180
+losses_train/task:	0.018431417644023895
+losses_train/total:	0.018431417644023895
+losses_test/task:	2.0237298011779785
+losses_test/total:	2.0237298011779785
+calibration_test/ece:	0.22547966241836548
+calibration_test/brier:	0.4995938837528229
+accuracy_test/task:	70.83
+
+Epoch 181
+losses_train/task:	0.017078077420592308
+losses_train/total:	0.017078077420592308
+losses_test/task:	2.0266501903533936
+losses_test/total:	2.0266501903533936
+calibration_test/ece:	0.2257329523563385
+calibration_test/brier:	0.4995677173137665
+accuracy_test/task:	70.8
+
+Epoch 182
+losses_train/task:	0.01822422444820404
+losses_train/total:	0.01822422444820404
+losses_test/task:	2.023883581161499
+losses_test/total:	2.023883581161499
+calibration_test/ece:	0.2244504988193512
+calibration_test/brier:	0.49942734837532043
+accuracy_test/task:	70.91
+
+Epoch 183
+losses_train/task:	0.01749718375504017
+losses_train/total:	0.01749718375504017
+losses_test/task:	2.023731231689453
+losses_test/total:	2.023731231689453
+calibration_test/ece:	0.2253796011209488
+calibration_test/brier:	0.49941182136535645
+accuracy_test/task:	70.81
+
+Epoch 184
+losses_train/task:	0.01744280382990837
+losses_train/total:	0.01744280382990837
+losses_test/task:	2.026799440383911
+losses_test/total:	2.026799440383911
+calibration_test/ece:	0.22612276673316956
+calibration_test/brier:	0.4999984800815582
+accuracy_test/task:	70.78
+
+Epoch 185
+losses_train/task:	0.019405370578169823
+losses_train/total:	0.019405370578169823
+losses_test/task:	2.027949094772339
+losses_test/total:	2.027949094772339
+calibration_test/ece:	0.22477108240127563
+calibration_test/brier:	0.4996875524520874
+accuracy_test/task:	70.94
+
+Epoch 186
+losses_train/task:	0.017776159569621086
+losses_train/total:	0.017776159569621086
+losses_test/task:	2.028641700744629
+losses_test/total:	2.028641700744629
+calibration_test/ece:	0.22610577940940857
+calibration_test/brier:	0.49982109665870667
+accuracy_test/task:	70.78
+
+Epoch 187
+losses_train/task:	0.01723010465502739
+losses_train/total:	0.01723010465502739
+losses_test/task:	2.0310065746307373
+losses_test/total:	2.0310065746307373
+calibration_test/ece:	0.225485160946846
+calibration_test/brier:	0.4998837411403656
+accuracy_test/task:	70.86
+
+Epoch 188
+losses_train/task:	0.01741700991988182
+losses_train/total:	0.01741700991988182
+losses_test/task:	2.034327507019043
+losses_test/total:	2.034327507019043
+calibration_test/ece:	0.2245883196592331
+calibration_test/brier:	0.49986469745635986
+accuracy_test/task:	70.96
+
+Epoch 189
+losses_train/task:	0.01780320517718792
+losses_train/total:	0.01780320517718792
+losses_test/task:	2.0355305671691895
+losses_test/total:	2.0355305671691895
+calibration_test/ece:	0.2266521453857422
+calibration_test/brier:	0.49993154406547546
+accuracy_test/task:	70.78
+
+Epoch 190
+losses_train/task:	0.018289241939783096
+losses_train/total:	0.018289241939783096
+losses_test/task:	2.0338659286499023
+losses_test/total:	2.0338659286499023
+calibration_test/ece:	0.2256021648645401
+calibration_test/brier:	0.499511182308197
+accuracy_test/task:	70.83
+
+Epoch 191
+losses_train/task:	0.018278347328305244
+losses_train/total:	0.018278347328305244
+losses_test/task:	2.03298020362854
+losses_test/total:	2.03298020362854
+calibration_test/ece:	0.2260206788778305
+calibration_test/brier:	0.5002140402793884
+accuracy_test/task:	70.77
+
+Epoch 192
+losses_train/task:	0.01777799054980278
+losses_train/total:	0.01777799054980278
+losses_test/task:	2.0343430042266846
+losses_test/total:	2.0343430042266846
+calibration_test/ece:	0.2253144532442093
+calibration_test/brier:	0.5001810789108276
+accuracy_test/task:	70.86
+
+Epoch 193
+losses_train/task:	0.018356187269091606
+losses_train/total:	0.018356187269091606
+losses_test/task:	2.0309877395629883
+losses_test/total:	2.0309877395629883
+calibration_test/ece:	0.22581878304481506
+calibration_test/brier:	0.4999340772628784
+accuracy_test/task:	70.77
+
+Epoch 194
+losses_train/task:	0.016519820317626
+losses_train/total:	0.016519820317626
+losses_test/task:	2.0336380004882812
+losses_test/total:	2.0336380004882812
+calibration_test/ece:	0.2259671688079834
+calibration_test/brier:	0.4997694194316864
+accuracy_test/task:	70.77
+
+Epoch 195
+losses_train/task:	0.018354598432779312
+losses_train/total:	0.018354598432779312
+losses_test/task:	2.0308032035827637
+losses_test/total:	2.0308032035827637
+calibration_test/ece:	0.22549065947532654
+calibration_test/brier:	0.49975693225860596
+accuracy_test/task:	70.82
+
+Epoch 196
+losses_train/task:	0.017765330150723457
+losses_train/total:	0.017765330150723457
+losses_test/task:	2.031022310256958
+losses_test/total:	2.031022310256958
+calibration_test/ece:	0.2255762815475464
+calibration_test/brier:	0.5000075697898865
+accuracy_test/task:	70.84
+
+Epoch 197
+losses_train/task:	0.01797717995941639
+losses_train/total:	0.01797717995941639
+losses_test/task:	2.030055046081543
+losses_test/total:	2.030055046081543
+calibration_test/ece:	0.22477416694164276
+calibration_test/brier:	0.49945732951164246
+accuracy_test/task:	70.9
+
+Epoch 198
+losses_train/task:	0.018871331587433815
+losses_train/total:	0.018871331587433815
+losses_test/task:	2.034968852996826
+losses_test/total:	2.034968852996826
+calibration_test/ece:	0.2251327633857727
+calibration_test/brier:	0.5001879930496216
+accuracy_test/task:	70.92
+
+Epoch 199
+losses_train/task:	0.018902704119682312
+losses_train/total:	0.018902704119682312
+losses_test/task:	2.0357062816619873
+losses_test/total:	2.0357062816619873
+calibration_test/ece:	0.22539544105529785
+calibration_test/brier:	0.5001553297042847
+accuracy_test/task:	70.89
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+/research/hal-afsharim/miniconda3/envs/mcbm/lib/python3.10/site-packages/sklearn/neural_network/_multilayer_perceptron.py:686: ConvergenceWarning: Stochastic Optimizer: Maximum iterations (50) reached and the optimization hasn't converged yet.
+  warnings.warn(
+
+Epoch 200
+losses_train/task:	0.016549572348594666
+losses_train/total:	0.016549572348594666
+losses_test/task:	2.0360519886016846
+losses_test/total:	2.0360519886016846
+calibration_train/ece:	0.0009932625107467175
+calibration_train/brier:	0.00021975048002786934
+accuracy_train/task:	99.98798076923077
+calibration_test/ece:	0.22620874643325806
+calibration_test/brier:	0.5000479221343994
+accuracy_test/task:	70.8
+accuracy_test/nuisances_task:	-0.8240506329113924
+accuracy_test/nuisances_nontask:	0.0
+mutual_inf_test/nuisances_task:	0.19716190011287757
+mutual_inf_test/nuisances_nontask:	0.0
+[34m[1mwandb[0m: [33mWARNING[0m Calling wandb.login() after wandb.init() has no effect.
+
+epoch_200.pt
+Traceback (most recent call last):
+  File "/research/hal-afsharim/minimal_cbm/bin/train.py", line 35, in <module>
+    intervene.run()
+  File "/research/hal-afsharim/minimal_cbm/src/experiments/intervene.py", line 92, in run
+    self._prepare_interventions()
+  File "/research/hal-afsharim/minimal_cbm/src/experiments/intervene.py", line 49, in _prepare_interventions
+    cs, c_preds, zs = self._prepare_representations_concepts(self.train_loader)
+  File "/research/hal-afsharim/minimal_cbm/src/experiments/intervene.py", line 43, in _prepare_representations_concepts
+    c_preds.extend(output['c_preds'].cpu())
+KeyError: 'c_preds'

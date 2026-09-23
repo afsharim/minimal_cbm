@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: minimal_cbm
+Version: 1.0
+Summary: There was never a Bottleneck in Concept Bottleneck Models
+Author: Antonio Almudévar
+Author-email: almudevar@unizar.es
+Dynamic: author
+Dynamic: author-email
+Dynamic: summary
