@@ -1,0 +1,15 @@
+{"time":"2026-07-29T06:10:53.159377389-04:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2026-07-29T06:10:53.159412531-04:00","level":"INFO","msg":"created symlink","path":"/research/hal-afsharim/minimal_cbm/results/awa2-cbm/44/wandb/offline-run-20260729_061053-gmgjal5c/logs/debug-core.log"}
+{"time":"2026-07-29T06:10:53.274453332-04:00","level":"INFO","msg":"created new stream","id":"gmgjal5c"}
+{"time":"2026-07-29T06:10:53.27455796-04:00","level":"INFO","msg":"stream: started","id":"gmgjal5c"}
+{"time":"2026-07-29T06:10:53.274613829-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"gmgjal5c"}
+{"time":"2026-07-29T06:10:53.274652998-04:00","level":"INFO","msg":"sender: started","stream_id":"gmgjal5c"}
+{"time":"2026-07-29T06:10:53.274646414-04:00","level":"INFO","msg":"handler: started","stream_id":"gmgjal5c"}
+{"time":"2026-07-29T06:10:53.281742163-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2026-07-29T16:01:44.62529442-04:00","level":"INFO","msg":"stream: closing","id":"gmgjal5c"}
+{"time":"2026-07-29T16:01:44.625458231-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2026-07-29T16:01:44.626791682-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2026-07-29T16:01:44.62733524-04:00","level":"INFO","msg":"handler: closed","stream_id":"gmgjal5c"}
+{"time":"2026-07-29T16:01:44.62736777-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"gmgjal5c"}
+{"time":"2026-07-29T16:01:44.627398517-04:00","level":"INFO","msg":"sender: closed","stream_id":"gmgjal5c"}
+{"time":"2026-07-29T16:01:44.627857798-04:00","level":"INFO","msg":"stream: closed","id":"gmgjal5c"}
