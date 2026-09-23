@@ -1,0 +1,15 @@
+{"time":"2026-07-25T20:48:40.950629946-04:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2026-07-25T20:48:40.95067254-04:00","level":"INFO","msg":"created symlink","path":"/research/hal-afsharim/minimal_cbm/results/cub12-cbm/42/wandb/offline-run-20260725_204840-e2zv431u/logs/debug-core.log"}
+{"time":"2026-07-25T20:48:41.066372641-04:00","level":"INFO","msg":"created new stream","id":"e2zv431u"}
+{"time":"2026-07-25T20:48:41.066437858-04:00","level":"INFO","msg":"stream: started","id":"e2zv431u"}
+{"time":"2026-07-25T20:48:41.066490128-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"e2zv431u"}
+{"time":"2026-07-25T20:48:41.066542386-04:00","level":"INFO","msg":"handler: started","stream_id":"e2zv431u"}
+{"time":"2026-07-25T20:48:41.066559706-04:00","level":"INFO","msg":"sender: started","stream_id":"e2zv431u"}
+{"time":"2026-07-25T20:48:41.072989567-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2026-07-26T03:10:10.829522464-04:00","level":"INFO","msg":"stream: closing","id":"e2zv431u"}
+{"time":"2026-07-26T03:10:10.8296155-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2026-07-26T03:10:10.830656378-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2026-07-26T03:10:10.83105926-04:00","level":"INFO","msg":"handler: closed","stream_id":"e2zv431u"}
+{"time":"2026-07-26T03:10:10.831075693-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"e2zv431u"}
+{"time":"2026-07-26T03:10:10.831089873-04:00","level":"INFO","msg":"sender: closed","stream_id":"e2zv431u"}
+{"time":"2026-07-26T03:10:10.831856519-04:00","level":"INFO","msg":"stream: closed","id":"e2zv431u"}

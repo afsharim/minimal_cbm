@@ -1,0 +1,15 @@
+{"time":"2026-07-26T10:06:20.512768251-04:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2026-07-26T10:06:20.512804706-04:00","level":"INFO","msg":"created symlink","path":"/research/hal-afsharim/minimal_cbm/results/cub12-mcbm-005/42/wandb/offline-run-20260726_100620-fx8navpn/logs/debug-core.log"}
+{"time":"2026-07-26T10:06:20.629498866-04:00","level":"INFO","msg":"created new stream","id":"fx8navpn"}
+{"time":"2026-07-26T10:06:20.629566291-04:00","level":"INFO","msg":"stream: started","id":"fx8navpn"}
+{"time":"2026-07-26T10:06:20.629583241-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"fx8navpn"}
+{"time":"2026-07-26T10:06:20.629606655-04:00","level":"INFO","msg":"sender: started","stream_id":"fx8navpn"}
+{"time":"2026-07-26T10:06:20.629662169-04:00","level":"INFO","msg":"handler: started","stream_id":"fx8navpn"}
+{"time":"2026-07-26T10:06:20.635175507-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2026-07-26T17:07:27.612283405-04:00","level":"INFO","msg":"stream: closing","id":"fx8navpn"}
+{"time":"2026-07-26T17:07:27.612400693-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2026-07-26T17:07:27.615282488-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2026-07-26T17:07:27.617076243-04:00","level":"INFO","msg":"handler: closed","stream_id":"fx8navpn"}
+{"time":"2026-07-26T17:07:27.61711072-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"fx8navpn"}
+{"time":"2026-07-26T17:07:27.617133584-04:00","level":"INFO","msg":"sender: closed","stream_id":"fx8navpn"}
+{"time":"2026-07-26T17:07:27.617639228-04:00","level":"INFO","msg":"stream: closed","id":"fx8navpn"}

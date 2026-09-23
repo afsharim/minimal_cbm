@@ -1,0 +1,12 @@
+2026-07-27 06:53:24,683 INFO    MainThread:966882 [wandb_setup.py:_flush():68] Current SDK version is 0.19.0
+2026-07-27 06:53:24,683 INFO    MainThread:966882 [wandb_setup.py:_flush():68] Configure stats pid to 966882
+2026-07-27 06:53:24,683 INFO    MainThread:966882 [wandb_setup.py:_flush():68] Loading settings from /research/hal-afsharim/.config/wandb/settings
+2026-07-27 06:53:24,683 INFO    MainThread:966882 [wandb_setup.py:_flush():68] Loading settings from /research/hal-afsharim/minimal_cbm/wandb/settings
+2026-07-27 06:53:24,683 INFO    MainThread:966882 [wandb_setup.py:_flush():68] Loading settings from environment variables
+2026-07-27 06:53:24,683 INFO    MainThread:966882 [wandb_init.py:_log_setup():528] Logging user logs to /research/hal-afsharim/minimal_cbm/results/cub12-cbm/43/wandb/offline-run-20260727_065324-i1ltcddk/logs/debug.log
+2026-07-27 06:53:24,684 INFO    MainThread:966882 [wandb_init.py:_log_setup():529] Logging internal logs to /research/hal-afsharim/minimal_cbm/results/cub12-cbm/43/wandb/offline-run-20260727_065324-i1ltcddk/logs/debug-internal.log
+2026-07-27 06:53:24,684 INFO    MainThread:966882 [wandb_init.py:init():639] calling init triggers
+2026-07-27 06:53:24,684 INFO    MainThread:966882 [wandb_init.py:init():645] wandb.init called with sweep_config: {}
+config: {'data': {'dataset': 'CUB200', 'imgs_dir': '/research/hal-afsharim/minimal_cbm/data/cub12/CUB_200_2011/images', 'pkls_dir': '/research/hal-afsharim/minimal_cbm/data/cub12/CUB_processed/class_attr_data_10', 'attr_dir': '/research/hal-afsharim/minimal_cbm/data/cub12', 'modify_pkls': True, 'n_groups_concepts': 12}, 'model': {'model_type': 'cbm', 'encoder': {'arch': 'inception_v3', 'hidden_dim': 1024, 'pretrained': True}, 'hidden_dims_y': 256, 'var_z': 0, 'hidden_dims_c': None, 'beta': 0.1}, 'training': {'batch_size': 128, 'n_epochs': 250, 'save_epochs': 250, 'optimizer': {'optimizer': 'SGD', 'base_batch_size': 64, 'base_lr': 0.01, 'batch_size': 128, 'momentum': 0.9, 'weight_decay': 4e-05}, 'scheduler': {'gamma': 0.1, 'scheduler': 'StepLR', 'step_size': 100}}}
+2026-07-27 06:53:24,684 INFO    MainThread:966882 [wandb_init.py:init():683] wandb.init() called when a run is still active
+2026-07-27 06:54:47,466 WARNING MsgRouterThr:966882 [router.py:message_loop():75] message_loop has been closed
