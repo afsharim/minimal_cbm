@@ -1,0 +1,15 @@
+{"time":"2026-07-29T03:10:07.822732937-04:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2026-07-29T03:10:07.822782348-04:00","level":"INFO","msg":"created symlink","path":"/research/hal-afsharim/minimal_cbm/results/cifar10-cbm/42/wandb/offline-run-20260729_031007-djtrw2kn/logs/debug-core.log"}
+{"time":"2026-07-29T03:10:07.93568458-04:00","level":"INFO","msg":"created new stream","id":"djtrw2kn"}
+{"time":"2026-07-29T03:10:07.935758087-04:00","level":"INFO","msg":"stream: started","id":"djtrw2kn"}
+{"time":"2026-07-29T03:10:07.935812711-04:00","level":"INFO","msg":"sender: started","stream_id":"djtrw2kn"}
+{"time":"2026-07-29T03:10:07.935802734-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"djtrw2kn"}
+{"time":"2026-07-29T03:10:07.935850883-04:00","level":"INFO","msg":"handler: started","stream_id":"djtrw2kn"}
+{"time":"2026-07-29T03:10:07.942505834-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2026-07-29T08:07:12.1166776-04:00","level":"INFO","msg":"stream: closing","id":"djtrw2kn"}
+{"time":"2026-07-29T08:07:12.116786908-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2026-07-29T08:07:12.117746768-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2026-07-29T08:07:12.118146461-04:00","level":"INFO","msg":"handler: closed","stream_id":"djtrw2kn"}
+{"time":"2026-07-29T08:07:12.118175568-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"djtrw2kn"}
+{"time":"2026-07-29T08:07:12.118219312-04:00","level":"INFO","msg":"sender: closed","stream_id":"djtrw2kn"}
+{"time":"2026-07-29T08:07:12.118983994-04:00","level":"INFO","msg":"stream: closed","id":"djtrw2kn"}

@@ -1,0 +1,15 @@
+{"time":"2026-07-28T13:56:22.954387329-04:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2026-07-28T13:56:22.95442811-04:00","level":"INFO","msg":"created symlink","path":"/research/hal-afsharim/minimal_cbm/results/cifar10-arhcbm/44/wandb/offline-run-20260728_135622-21f2nuac/logs/debug-core.log"}
+{"time":"2026-07-28T13:56:23.069971722-04:00","level":"INFO","msg":"created new stream","id":"21f2nuac"}
+{"time":"2026-07-28T13:56:23.070058533-04:00","level":"INFO","msg":"stream: started","id":"21f2nuac"}
+{"time":"2026-07-28T13:56:23.0701308-04:00","level":"INFO","msg":"sender: started","stream_id":"21f2nuac"}
+{"time":"2026-07-28T13:56:23.070129948-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"21f2nuac"}
+{"time":"2026-07-28T13:56:23.070182138-04:00","level":"INFO","msg":"handler: started","stream_id":"21f2nuac"}
+{"time":"2026-07-28T13:56:23.076744778-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2026-07-28T21:29:01.508508836-04:00","level":"INFO","msg":"stream: closing","id":"21f2nuac"}
+{"time":"2026-07-28T21:29:01.508638354-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2026-07-28T21:29:01.510249839-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2026-07-28T21:29:01.510605518-04:00","level":"INFO","msg":"handler: closed","stream_id":"21f2nuac"}
+{"time":"2026-07-28T21:29:01.510622455-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"21f2nuac"}
+{"time":"2026-07-28T21:29:01.510646217-04:00","level":"INFO","msg":"sender: closed","stream_id":"21f2nuac"}
+{"time":"2026-07-28T21:29:01.511366706-04:00","level":"INFO","msg":"stream: closed","id":"21f2nuac"}

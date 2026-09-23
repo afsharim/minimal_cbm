@@ -1,0 +1,15 @@
+{"time":"2026-07-26T23:09:49.800717788-04:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2026-07-26T23:09:49.800758749-04:00","level":"INFO","msg":"created symlink","path":"/research/hal-afsharim/minimal_cbm/results/cifar10-cbm/43/wandb/offline-run-20260726_230949-3255rvpe/logs/debug-core.log"}
+{"time":"2026-07-26T23:09:49.918643097-04:00","level":"INFO","msg":"created new stream","id":"3255rvpe"}
+{"time":"2026-07-26T23:09:49.918704834-04:00","level":"INFO","msg":"stream: started","id":"3255rvpe"}
+{"time":"2026-07-26T23:09:49.918732122-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"3255rvpe"}
+{"time":"2026-07-26T23:09:49.918734949-04:00","level":"INFO","msg":"sender: started","stream_id":"3255rvpe"}
+{"time":"2026-07-26T23:09:49.918788054-04:00","level":"INFO","msg":"handler: started","stream_id":"3255rvpe"}
+{"time":"2026-07-26T23:09:49.923927418-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2026-07-27T05:08:02.688160853-04:00","level":"INFO","msg":"stream: closing","id":"3255rvpe"}
+{"time":"2026-07-27T05:08:02.688255295-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2026-07-27T05:08:02.689156123-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2026-07-27T05:08:02.689510234-04:00","level":"INFO","msg":"handler: closed","stream_id":"3255rvpe"}
+{"time":"2026-07-27T05:08:02.689523299-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"3255rvpe"}
+{"time":"2026-07-27T05:08:02.689532466-04:00","level":"INFO","msg":"sender: closed","stream_id":"3255rvpe"}
+{"time":"2026-07-27T05:08:02.690053406-04:00","level":"INFO","msg":"stream: closed","id":"3255rvpe"}

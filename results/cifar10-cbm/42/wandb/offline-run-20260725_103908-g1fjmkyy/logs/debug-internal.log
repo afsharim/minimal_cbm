@@ -1,0 +1,8 @@
+{"time":"2026-07-25T10:39:08.996936028-04:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2026-07-25T10:39:08.996991299-04:00","level":"INFO","msg":"created symlink","path":"/research/hal-afsharim/minimal_cbm/results/cifar10-cbm/42/wandb/offline-run-20260725_103908-g1fjmkyy/logs/debug-core.log"}
+{"time":"2026-07-25T10:39:09.111142698-04:00","level":"INFO","msg":"created new stream","id":"g1fjmkyy"}
+{"time":"2026-07-25T10:39:09.111203621-04:00","level":"INFO","msg":"stream: started","id":"g1fjmkyy"}
+{"time":"2026-07-25T10:39:09.111257885-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"g1fjmkyy"}
+{"time":"2026-07-25T10:39:09.111295839-04:00","level":"INFO","msg":"sender: started","stream_id":"g1fjmkyy"}
+{"time":"2026-07-25T10:39:09.1113769-04:00","level":"INFO","msg":"handler: started","stream_id":"g1fjmkyy"}
+{"time":"2026-07-25T10:39:09.116386661-04:00","level":"INFO","msg":"Starting system monitor"}
