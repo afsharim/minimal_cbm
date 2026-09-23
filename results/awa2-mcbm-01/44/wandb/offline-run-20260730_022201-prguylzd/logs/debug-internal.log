@@ -1,0 +1,15 @@
+{"time":"2026-07-30T02:22:01.379229457-04:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2026-07-30T02:22:01.379252048-04:00","level":"INFO","msg":"created symlink","path":"/research/hal-afsharim/minimal_cbm/results/awa2-mcbm-01/44/wandb/offline-run-20260730_022201-prguylzd/logs/debug-core.log"}
+{"time":"2026-07-30T02:22:01.494451883-04:00","level":"INFO","msg":"created new stream","id":"prguylzd"}
+{"time":"2026-07-30T02:22:01.49453756-04:00","level":"INFO","msg":"stream: started","id":"prguylzd"}
+{"time":"2026-07-30T02:22:01.494604903-04:00","level":"INFO","msg":"sender: started","stream_id":"prguylzd"}
+{"time":"2026-07-30T02:22:01.494584714-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"prguylzd"}
+{"time":"2026-07-30T02:22:01.494663045-04:00","level":"INFO","msg":"handler: started","stream_id":"prguylzd"}
+{"time":"2026-07-30T02:22:01.501404713-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2026-07-30T11:51:47.897900594-04:00","level":"INFO","msg":"stream: closing","id":"prguylzd"}
+{"time":"2026-07-30T11:51:47.897995792-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2026-07-30T11:51:47.899183711-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2026-07-30T11:51:47.89956974-04:00","level":"INFO","msg":"handler: closed","stream_id":"prguylzd"}
+{"time":"2026-07-30T11:51:47.899591023-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"prguylzd"}
+{"time":"2026-07-30T11:51:47.899598885-04:00","level":"INFO","msg":"sender: closed","stream_id":"prguylzd"}
+{"time":"2026-07-30T11:51:47.900025384-04:00","level":"INFO","msg":"stream: closed","id":"prguylzd"}
