@@ -1,0 +1,12 @@
+2026-07-29 09:55:45,069 INFO    MainThread:2492019 [wandb_setup.py:_flush():68] Current SDK version is 0.19.0
+2026-07-29 09:55:45,069 INFO    MainThread:2492019 [wandb_setup.py:_flush():68] Configure stats pid to 2492019
+2026-07-29 09:55:45,069 INFO    MainThread:2492019 [wandb_setup.py:_flush():68] Loading settings from /research/hal-afsharim/.config/wandb/settings
+2026-07-29 09:55:45,069 INFO    MainThread:2492019 [wandb_setup.py:_flush():68] Loading settings from /research/hal-afsharim/minimal_cbm/wandb/settings
+2026-07-29 09:55:45,070 INFO    MainThread:2492019 [wandb_setup.py:_flush():68] Loading settings from environment variables
+2026-07-29 09:55:45,070 INFO    MainThread:2492019 [wandb_init.py:_log_setup():528] Logging user logs to /research/hal-afsharim/minimal_cbm/results/cifar10-mcbm-05/44/wandb/offline-run-20260729_095545-pp7d1bju/logs/debug.log
+2026-07-29 09:55:45,070 INFO    MainThread:2492019 [wandb_init.py:_log_setup():529] Logging internal logs to /research/hal-afsharim/minimal_cbm/results/cifar10-mcbm-05/44/wandb/offline-run-20260729_095545-pp7d1bju/logs/debug-internal.log
+2026-07-29 09:55:45,070 INFO    MainThread:2492019 [wandb_init.py:init():639] calling init triggers
+2026-07-29 09:55:45,071 INFO    MainThread:2492019 [wandb_init.py:init():645] wandb.init called with sweep_config: {}
+config: {'data': {'dataset': 'cifar10', 'root': '/research/hal-afsharim/minimal_cbm/data/cifar10', 'n_concepts': 64}, 'model': {'model_type': 'mcbm', 'encoder': {'arch': 'conv2d', 'latent_dim': 256}, 'hidden_dims_y': 64, 'var_z': 1.0, 'hidden_dims_c': [3], 'beta': 0.1, 'hidden_dims_z': None, 'gamma': 0.5}, 'training': {'batch_size': 128, 'n_epochs': 200, 'save_epochs': 200, 'optimizer': {'optimizer': 'Adam', 'base_batch_size': 64, 'base_lr': 0.0001, 'batch_size': 128, 'weight_decay': 4e-05}, 'scheduler': {'gamma': 0.1, 'scheduler': 'StepLR', 'step_size': 80}}}
+2026-07-29 09:55:45,071 INFO    MainThread:2492019 [wandb_init.py:init():683] wandb.init() called when a run is still active
+2026-07-29 09:58:21,308 WARNING MsgRouterThr:2492019 [router.py:message_loop():75] message_loop has been closed

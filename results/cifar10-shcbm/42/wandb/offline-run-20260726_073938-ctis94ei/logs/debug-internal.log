@@ -1,0 +1,15 @@
+{"time":"2026-07-26T07:39:38.205805565-04:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2026-07-26T07:39:38.205837172-04:00","level":"INFO","msg":"created symlink","path":"/research/hal-afsharim/minimal_cbm/results/cifar10-shcbm/42/wandb/offline-run-20260726_073938-ctis94ei/logs/debug-core.log"}
+{"time":"2026-07-26T07:39:38.31758724-04:00","level":"INFO","msg":"created new stream","id":"ctis94ei"}
+{"time":"2026-07-26T07:39:38.31764945-04:00","level":"INFO","msg":"stream: started","id":"ctis94ei"}
+{"time":"2026-07-26T07:39:38.317685478-04:00","level":"INFO","msg":"sender: started","stream_id":"ctis94ei"}
+{"time":"2026-07-26T07:39:38.317689625-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"ctis94ei"}
+{"time":"2026-07-26T07:39:38.317808677-04:00","level":"INFO","msg":"handler: started","stream_id":"ctis94ei"}
+{"time":"2026-07-26T07:39:38.322913946-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2026-07-26T13:07:17.316945047-04:00","level":"INFO","msg":"stream: closing","id":"ctis94ei"}
+{"time":"2026-07-26T13:07:17.317092222-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2026-07-26T13:07:17.318174675-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2026-07-26T13:07:17.318453316-04:00","level":"INFO","msg":"handler: closed","stream_id":"ctis94ei"}
+{"time":"2026-07-26T13:07:17.318468588-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"ctis94ei"}
+{"time":"2026-07-26T13:07:17.318498996-04:00","level":"INFO","msg":"sender: closed","stream_id":"ctis94ei"}
+{"time":"2026-07-26T13:07:17.319227685-04:00","level":"INFO","msg":"stream: closed","id":"ctis94ei"}

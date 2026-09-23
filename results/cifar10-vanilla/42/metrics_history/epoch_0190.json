@@ -1,0 +1,10 @@
+{
+  "epoch": 190,
+  "losses_train/task": 0.020410707220435143,
+  "losses_train/total": 0.020410707220435143,
+  "losses_test/task": 1.981227159500122,
+  "losses_test/total": 1.981227159500122,
+  "calibration_test/ece": 0.2194191813468933,
+  "calibration_test/brier": 0.49018406867980957,
+  "accuracy_test/task": 71.32
+}
