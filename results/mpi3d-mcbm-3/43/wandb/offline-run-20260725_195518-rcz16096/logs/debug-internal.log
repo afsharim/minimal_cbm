@@ -1,0 +1,15 @@
+{"time":"2026-07-25T19:55:18.835068722-04:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2026-07-25T19:55:18.835103791-04:00","level":"INFO","msg":"created symlink","path":"/research/hal-afsharim/minimal_cbm/results/mpi3d-mcbm-3/43/wandb/offline-run-20260725_195518-rcz16096/logs/debug-core.log"}
+{"time":"2026-07-25T19:55:18.946777891-04:00","level":"INFO","msg":"created new stream","id":"rcz16096"}
+{"time":"2026-07-25T19:55:18.946874974-04:00","level":"INFO","msg":"stream: started","id":"rcz16096"}
+{"time":"2026-07-25T19:55:18.946884717-04:00","level":"INFO","msg":"sender: started","stream_id":"rcz16096"}
+{"time":"2026-07-25T19:55:18.94688446-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"rcz16096"}
+{"time":"2026-07-25T19:55:18.946880001-04:00","level":"INFO","msg":"handler: started","stream_id":"rcz16096"}
+{"time":"2026-07-25T19:55:18.952988404-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2026-07-25T21:24:54.304058247-04:00","level":"INFO","msg":"stream: closing","id":"rcz16096"}
+{"time":"2026-07-25T21:24:54.304164961-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2026-07-25T21:24:54.305367065-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2026-07-25T21:24:54.305693324-04:00","level":"INFO","msg":"handler: closed","stream_id":"rcz16096"}
+{"time":"2026-07-25T21:24:54.305712714-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"rcz16096"}
+{"time":"2026-07-25T21:24:54.305729183-04:00","level":"INFO","msg":"sender: closed","stream_id":"rcz16096"}
+{"time":"2026-07-25T21:24:54.306487551-04:00","level":"INFO","msg":"stream: closed","id":"rcz16096"}
