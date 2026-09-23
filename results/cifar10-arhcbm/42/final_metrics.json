@@ -1,0 +1,23 @@
+{
+  "epoch": 200,
+  "losses_train/task": 0.2794344127178192,
+  "losses_train/concepts": 18.401655197143555,
+  "losses_train/total": 2.119601011276245,
+  "losses_test/task": 1.2279458045959473,
+  "losses_test/concepts": 22.208480834960938,
+  "losses_test/total": 3.448793888092041,
+  "calibration_train/ece": 0.039910685271024704,
+  "calibration_train/brier": 0.0718916654586792,
+  "accuracy_train/task": 95.61097756410257,
+  "calibration_test/ece": 0.15870064496994019,
+  "calibration_test/brier": 0.4775904715061188,
+  "accuracy_test/task": 68.5,
+  "accuracy_train/concepts": 87.62455749511719,
+  "map_train/concepts": 0.9049020650563762,
+  "accuracy_test/concepts": 84.44500732421875,
+  "map_test/concepts": 0.8630180136533454,
+  "accuracy_test/nuisances_task": -0.530000276203397,
+  "accuracy_test/nuisances_nontask": 0.0,
+  "mutual_inf_test/nuisances_task": 0.1705881864779628,
+  "mutual_inf_test/nuisances_nontask": 0.0
+}

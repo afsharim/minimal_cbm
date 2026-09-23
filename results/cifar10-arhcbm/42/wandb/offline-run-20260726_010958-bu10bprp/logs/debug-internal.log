@@ -1,0 +1,15 @@
+{"time":"2026-07-26T01:09:58.754486164-04:00","level":"INFO","msg":"using version","core version":"0.19.0"}
+{"time":"2026-07-26T01:09:58.75452333-04:00","level":"INFO","msg":"created symlink","path":"/research/hal-afsharim/minimal_cbm/results/cifar10-arhcbm/42/wandb/offline-run-20260726_010958-bu10bprp/logs/debug-core.log"}
+{"time":"2026-07-26T01:09:58.867269125-04:00","level":"INFO","msg":"created new stream","id":"bu10bprp"}
+{"time":"2026-07-26T01:09:58.867333935-04:00","level":"INFO","msg":"stream: started","id":"bu10bprp"}
+{"time":"2026-07-26T01:09:58.867361468-04:00","level":"INFO","msg":"writer: Do: started","stream_id":"bu10bprp"}
+{"time":"2026-07-26T01:09:58.867379679-04:00","level":"INFO","msg":"handler: started","stream_id":"bu10bprp"}
+{"time":"2026-07-26T01:09:58.867411888-04:00","level":"INFO","msg":"sender: started","stream_id":"bu10bprp"}
+{"time":"2026-07-26T01:09:58.871775945-04:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2026-07-26T07:38:47.380809349-04:00","level":"INFO","msg":"stream: closing","id":"bu10bprp"}
+{"time":"2026-07-26T07:38:47.381522432-04:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2026-07-26T07:38:47.399943345-04:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2026-07-26T07:38:47.404210622-04:00","level":"INFO","msg":"handler: closed","stream_id":"bu10bprp"}
+{"time":"2026-07-26T07:38:47.404241678-04:00","level":"INFO","msg":"writer: Close: closed","stream_id":"bu10bprp"}
+{"time":"2026-07-26T07:38:47.404273819-04:00","level":"INFO","msg":"sender: closed","stream_id":"bu10bprp"}
+{"time":"2026-07-26T07:38:47.404791994-04:00","level":"INFO","msg":"stream: closed","id":"bu10bprp"}
