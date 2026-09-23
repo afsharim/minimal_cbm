@@ -1,0 +1,34 @@
+2026-07-25 13:51:36,364 INFO    MainThread:9273 [wandb_setup.py:_flush():68] Current SDK version is 0.19.0
+2026-07-25 13:51:36,364 INFO    MainThread:9273 [wandb_setup.py:_flush():68] Configure stats pid to 9273
+2026-07-25 13:51:36,365 INFO    MainThread:9273 [wandb_setup.py:_flush():68] Loading settings from /research/hal-afsharim/.config/wandb/settings
+2026-07-25 13:51:36,365 INFO    MainThread:9273 [wandb_setup.py:_flush():68] Loading settings from /research/hal-afsharim/minimal_cbm/wandb/settings
+2026-07-25 13:51:36,365 INFO    MainThread:9273 [wandb_setup.py:_flush():68] Loading settings from environment variables
+2026-07-25 13:51:36,365 INFO    MainThread:9273 [wandb_init.py:_log_setup():528] Logging user logs to /research/hal-afsharim/minimal_cbm/results/shapes3d-shcbm/42/wandb/offline-run-20260725_135136-sm1ih3do/logs/debug.log
+2026-07-25 13:51:36,366 INFO    MainThread:9273 [wandb_init.py:_log_setup():529] Logging internal logs to /research/hal-afsharim/minimal_cbm/results/shapes3d-shcbm/42/wandb/offline-run-20260725_135136-sm1ih3do/logs/debug-internal.log
+2026-07-25 13:51:36,366 INFO    MainThread:9273 [wandb_init.py:init():639] calling init triggers
+2026-07-25 13:51:36,366 INFO    MainThread:9273 [wandb_init.py:init():645] wandb.init called with sweep_config: {}
+config: {'data': {'dataset': 'Shapes3D', 'filepath': '/research/hal-afsharim/minimal_cbm/data/shapes3d/3dshapes.h5', 'task': 'shape', 'concepts': ['scale', 'object_hue'], 'nuisances_task': ['floor_hue', 'wall_hue']}, 'model': {'model_type': 'shcbm', 'encoder': {'arch': 'resnet20'}, 'hidden_dims_y': 64, 'var_z': 0, 'hidden_dims_c': None, 'beta': 1, 'gamma': 0.1}, 'training': {'batch_size': 128, 'n_epochs': 50, 'save_epochs': 10, 'optimizer': {'optimizer': 'SGD', 'base_batch_size': 64, 'base_lr': 0.003, 'batch_size': 128, 'momentum': 0.9, 'weight_decay': 4e-05}, 'scheduler': {'gamma': 0.1, 'scheduler': 'StepLR', 'step_size': 20}}}
+2026-07-25 13:51:36,366 INFO    MainThread:9273 [wandb_init.py:init():688] starting backend
+2026-07-25 13:51:36,366 INFO    MainThread:9273 [wandb_init.py:init():692] sending inform_init request
+2026-07-25 13:51:36,375 INFO    MainThread:9273 [backend.py:_multiprocessing_setup():104] multiprocessing start_methods=fork,spawn,forkserver, using: spawn
+2026-07-25 13:51:36,375 INFO    MainThread:9273 [wandb_init.py:init():705] backend started and connected
+2026-07-25 13:51:36,378 INFO    MainThread:9273 [wandb_init.py:init():798] updated telemetry
+2026-07-25 13:51:36,393 INFO    MainThread:9273 [wandb_init.py:init():830] communicating run to backend with 90.0 second timeout
+2026-07-25 13:51:36,590 INFO    MainThread:9273 [wandb_init.py:init():882] starting run threads in backend
+2026-07-25 13:51:36,816 INFO    MainThread:9273 [wandb_run.py:_console_start():2443] atexit reg
+2026-07-25 13:51:36,816 INFO    MainThread:9273 [wandb_run.py:_redirect():2293] redirect: wrap_raw
+2026-07-25 13:51:36,816 INFO    MainThread:9273 [wandb_run.py:_redirect():2358] Wrapping output streams.
+2026-07-25 13:51:36,816 INFO    MainThread:9273 [wandb_run.py:_redirect():2383] Redirects installed.
+2026-07-25 13:51:36,820 INFO    MainThread:9273 [wandb_init.py:init():925] run started, returning control to user process
+2026-07-25 15:04:58,720 INFO    MainThread:9273 [wandb_setup.py:_flush():68] Current SDK version is 0.19.0
+2026-07-25 15:04:58,720 INFO    MainThread:9273 [wandb_setup.py:_flush():68] Configure stats pid to 9273
+2026-07-25 15:04:58,720 INFO    MainThread:9273 [wandb_setup.py:_flush():68] Loading settings from /research/hal-afsharim/.config/wandb/settings
+2026-07-25 15:04:58,721 INFO    MainThread:9273 [wandb_setup.py:_flush():68] Loading settings from /research/hal-afsharim/minimal_cbm/wandb/settings
+2026-07-25 15:04:58,721 INFO    MainThread:9273 [wandb_setup.py:_flush():68] Loading settings from environment variables
+2026-07-25 15:04:58,721 INFO    MainThread:9273 [wandb_init.py:_log_setup():528] Logging user logs to /research/hal-afsharim/minimal_cbm/results/shapes3d-shcbm/42/wandb/offline-run-20260725_150458-m8d5muwt/logs/debug.log
+2026-07-25 15:04:58,722 INFO    MainThread:9273 [wandb_init.py:_log_setup():529] Logging internal logs to /research/hal-afsharim/minimal_cbm/results/shapes3d-shcbm/42/wandb/offline-run-20260725_150458-m8d5muwt/logs/debug-internal.log
+2026-07-25 15:04:58,722 INFO    MainThread:9273 [wandb_init.py:init():639] calling init triggers
+2026-07-25 15:04:58,722 INFO    MainThread:9273 [wandb_init.py:init():645] wandb.init called with sweep_config: {}
+config: {'data': {'dataset': 'Shapes3D', 'filepath': '/research/hal-afsharim/minimal_cbm/data/shapes3d/3dshapes.h5', 'task': 'shape', 'concepts': ['scale', 'object_hue'], 'nuisances_task': ['floor_hue', 'wall_hue']}, 'model': {'model_type': 'shcbm', 'encoder': {'arch': 'resnet20'}, 'hidden_dims_y': 64, 'var_z': 0, 'hidden_dims_c': None, 'beta': 1, 'gamma': 0.1}, 'training': {'batch_size': 128, 'n_epochs': 50, 'save_epochs': 10, 'optimizer': {'optimizer': 'SGD', 'base_batch_size': 64, 'base_lr': 0.003, 'batch_size': 128, 'momentum': 0.9, 'weight_decay': 4e-05}, 'scheduler': {'gamma': 0.1, 'scheduler': 'StepLR', 'step_size': 20}}}
+2026-07-25 15:04:58,722 INFO    MainThread:9273 [wandb_init.py:init():683] wandb.init() called when a run is still active
+2026-07-25 15:13:27,152 WARNING MsgRouterThr:9273 [router.py:message_loop():75] message_loop has been closed

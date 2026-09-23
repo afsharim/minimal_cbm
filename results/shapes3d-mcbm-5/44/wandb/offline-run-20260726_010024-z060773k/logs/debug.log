@@ -1,0 +1,12 @@
+2026-07-26 01:00:24,548 INFO    MainThread:270877 [wandb_setup.py:_flush():68] Current SDK version is 0.19.0
+2026-07-26 01:00:24,548 INFO    MainThread:270877 [wandb_setup.py:_flush():68] Configure stats pid to 270877
+2026-07-26 01:00:24,548 INFO    MainThread:270877 [wandb_setup.py:_flush():68] Loading settings from /research/hal-afsharim/.config/wandb/settings
+2026-07-26 01:00:24,548 INFO    MainThread:270877 [wandb_setup.py:_flush():68] Loading settings from /research/hal-afsharim/minimal_cbm/wandb/settings
+2026-07-26 01:00:24,548 INFO    MainThread:270877 [wandb_setup.py:_flush():68] Loading settings from environment variables
+2026-07-26 01:00:24,548 INFO    MainThread:270877 [wandb_init.py:_log_setup():528] Logging user logs to /research/hal-afsharim/minimal_cbm/results/shapes3d-mcbm-5/44/wandb/offline-run-20260726_010024-z060773k/logs/debug.log
+2026-07-26 01:00:24,549 INFO    MainThread:270877 [wandb_init.py:_log_setup():529] Logging internal logs to /research/hal-afsharim/minimal_cbm/results/shapes3d-mcbm-5/44/wandb/offline-run-20260726_010024-z060773k/logs/debug-internal.log
+2026-07-26 01:00:24,549 INFO    MainThread:270877 [wandb_init.py:init():639] calling init triggers
+2026-07-26 01:00:24,549 INFO    MainThread:270877 [wandb_init.py:init():645] wandb.init called with sweep_config: {}
+config: {'data': {'dataset': 'Shapes3D', 'filepath': '/research/hal-afsharim/minimal_cbm/data/shapes3d/3dshapes.h5', 'task': 'shape', 'concepts': ['scale', 'object_hue'], 'nuisances_task': ['floor_hue', 'wall_hue']}, 'model': {'model_type': 'mcbm', 'encoder': {'arch': 'resnet20'}, 'hidden_dims_y': 64, 'var_z': 1, 'hidden_dims_c': [3], 'beta': 1, 'hidden_dims_z': None, 'gamma': 5}, 'training': {'batch_size': 128, 'n_epochs': 50, 'save_epochs': 10, 'optimizer': {'optimizer': 'SGD', 'base_batch_size': 64, 'base_lr': 0.003, 'batch_size': 128, 'momentum': 0.9, 'weight_decay': 4e-05}, 'scheduler': {'gamma': 0.1, 'scheduler': 'StepLR', 'step_size': 20}}}
+2026-07-26 01:00:24,549 INFO    MainThread:270877 [wandb_init.py:init():683] wandb.init() called when a run is still active
+2026-07-26 01:09:36,461 WARNING MsgRouterThr:270877 [router.py:message_loop():75] message_loop has been closed
